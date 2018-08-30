@@ -1,0 +1,346 @@
+{
+    "body": "Where are the unipolar brush cells localized?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7978355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11457596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8177517", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9923978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14614902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8059339", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19409228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9193142", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11396855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11044898", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12655510", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17223277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8300904", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16289944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16344141", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8821458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17409247", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7673463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9023728", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15940501", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12814190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20937306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7472327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21190007"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0392752", 
+            "o": "Localized"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0392752", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0428112"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0428112", 
+            "o": "LOCALIZED"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0392752", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7581226"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7581226", 
+            "o": "Localized"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0392752", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6833253"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6833253", 
+            "o": "Localized"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0392752", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18656681"
+        }
+    ], 
+    "ideal_answer": [
+        "Unipolar brush cells (UBCs) are glutamatergic interneurons localized in granule cell regions of the cochlear nucleus and the vestibulocerebellum of cerebellum."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002477"
+    ], 
+    "type": "summary", 
+    "id": "58c67bf302b8c60953000026", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Cerebellar unipolar brush cells (UBCs) are glutamatergic interneurons that receive direct input from vestibular afferents in the form of a unique excitatory synapse on their dendritic brush. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17409247", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 677, 
+            "text": "Immunostained unipolar brush cells were observed in granule cell regions of the cochlear nucleus and the vestibulocerebellum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8821458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Postsynaptic enrichment of Eps8 at dendritic shaft synapses of unipolar brush cells in rat cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17223277", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 749, 
+            "offsetInEndSection": 874, 
+            "text": "In cerebellum, unipolar brush cells (UBCs) were densely Eps8 immunopositive and granule cells were moderately immunostained. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17223277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Postnatal differentiation of unipolar brush cells and mossy fiber-unipolar brush cell synapses in rat cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11457596", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 485, 
+            "offsetInEndSection": 725, 
+            "text": "Knowledge of the ultrastructure of the unipolar brush cell terminals and of the cellular identity of its postsynaptic targets is required to understand how unipolar brush cells contribute to information processing in the cerebellar circuit.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 1001, 
+            "text": "To investigate the unipolar brush cell axon and its targets, unipolar brush cells were patch-clamped in fresh parasagittal slices from rat cerebellar vermis with electrodes filled with Lucifer Yellow and Biocytin, and examined by confocal fluorescence and electron microscopy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Calretinin-immunoreactive unipolar brush cells in the developing human cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16289944", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Unipolar brush cell: a potential feedforward excitatory interneuron of the cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1100, 
+            "offsetInEndSection": 1160, 
+            "text": "Unipolar brush cells are also found in the cochlear nucleus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7978355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1783, 
+            "offsetInEndSection": 1856, 
+            "text": "The unipolar brush cells reside nearly exclusively in the granular layer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7978355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1109, 
+            "offsetInEndSection": 1249, 
+            "text": "In the monkey cerebellum, unipolar brush cells, localized in the granular layer, were heavily labeled, whereas Golgi cells were devoid of NG", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12655510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "Unipolar brush cells (UBC) are small, glutamatergic neurons residing in the granular layer of the cerebellar cortex and the granule cell domain of the cochlear nuclear complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20937306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 727, 
+            "text": "Knowledge of the ultrastructure of the unipolar brush cell terminals and of the cellular identity of its postsynaptic targets is required to understand how unipolar brush cells contribute to information processing in the cerebellar circuit", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 729, 
+            "offsetInEndSection": 1004, 
+            "text": "To investigate the unipolar brush cell axon and its targets, unipolar brush cells were patch-clamped in fresh parasagittal slices from rat cerebellar vermis with electrodes filled with Lucifer Yellow and Biocytin, and examined by confocal fluorescence and electron microscopy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 521, 
+            "text": "While granule cells express solely VGLUT1, there is no report about the VGLUT(s) of the unipolar brush cell (UBC), the second type of glutamatergic interneuron residing in the cerebellar granular layer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14614902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 759, 
+            "text": "Large clusters of labeled nuclei consisting mainly of granule cells and calretinin-positive unipolar brush cells were present in the granular layer, whereas Purkinje cell nuclei were unlabeled, and labeled basket and stellate cell nuclei were scattered in the molecular layer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15940501", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Unipolar brush cells (UBCs) are a class of excitatory interneuron found in the granule cell layer of the vestibulocerebellum", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19409228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "TBR2-immunopsitive unipolar brush cells are associated with ectopic zebrin II-immunoreactive Purkinje cell clusters in the cerebellum of scrambler mice", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21190007", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Glutamate receptor subunits at mossy fiber-unipolar brush cell synapses: light and electron microscopic immunocytochemical study in cerebellar cortex of rat and cat.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7673463", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Properties of transmission at a giant glutamatergic synapse in cerebellum: the mossy fiber-unipolar brush cell synapse.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7472327", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Metabotropic glutamate receptors are associated with non-synaptic appendages of unipolar brush cells in rat cerebellar cortex and cochlear nuclear complex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9923978", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "The unipolar brush cells of the rat cerebellar cortex and cochlear nucleus are calretinin-positive: a study by light and electron microscopic immunocytochemistry.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7978355", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Cerebellar choline acetyltransferase positive mossy fibres and their granule and unipolar brush cell targets: a model for central cholinergic nicotinic neurotransmission.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9023728", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 749, 
+            "offsetInEndSection": 873, 
+            "text": "In cerebellum, unipolar brush cells (UBCs) were densely Eps8 immunopositive and granule cells were moderately immunostained.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17223277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1109, 
+            "offsetInEndSection": 1250, 
+            "text": "In the monkey cerebellum, unipolar brush cells, localized in the granular layer, were heavily labeled, whereas Golgi cells were devoid of NG.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12655510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2164, 
+            "offsetInEndSection": 2415, 
+            "text": "The results indicate that synaptic excitation of unipolar brush cells by mossy fibers will drive a large population of granule cells, and thus will contribute a powerful form of distributed excitation within the basic circuit of the cerebellar cortex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 227, 
+            "offsetInEndSection": 339, 
+            "text": "These neurons, here termed unipolar brush cells, are intermediate in size between granule cells and Golgi cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8300904", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Extraordinary synapses of the unipolar brush cell: an electron microscopic study in the rat cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8059339", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 728, 
+            "text": "Knowledge of the ultrastructure of the unipolar brush cell terminals and of the cellular identity of its postsynaptic targets is required to understand how unipolar brush cells contribute to information processing in the cerebellar circuit.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "The unipolar brush cell: a neglected neuron of the mammalian cerebellar cortex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8300904", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Postnatal differentiation of unipolar brush cells and mossy fiber-unipolar brush cell synapses in rat cerebellum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11457596", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 729, 
+            "offsetInEndSection": 1005, 
+            "text": "To investigate the unipolar brush cell axon and its targets, unipolar brush cells were patch-clamped in fresh parasagittal slices from rat cerebellar vermis with electrodes filled with Lucifer Yellow and Biocytin, and examined by confocal fluorescence and electron microscopy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10891606", 
+            "endSection": "abstract"
+        }
+    ]
+}

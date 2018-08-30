@@ -1,0 +1,57 @@
+{
+    "body": "Elaborate on the role of CARMEN in cardiac specification.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26423156"
+    ], 
+    "ideal_answer": [
+        "CARMEN, (CAR)diac (M)esoderm (E)nhancer-associated (N)oncoding RNA, is a human super enhancer-associated long noncoding RNA controlling cardiac specification, differentiation and homeostasis. CARMEN exhibits RNA-dependent enhancing activity and is upstream of the cardiac mesoderm-specifying gene regulatory network. CARMEN interacts with SUZ12 and EZH2, two components of the polycomb repressive complex 2 (PRC2). CARMEN expression is activated during pathological remodeling in the mouse and human hearts, and is necessary for maintaining cardiac identity in differentiated cardiomyocytes."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:2000043", 
+        "http://amigo.geneontology.org/amigo/term/GO:0060912"
+    ], 
+    "type": "summary", 
+    "id": "58837dd72305cd7e21000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "CARMEN, a human super enhancer-associated long noncoding RNA controlling cardiac specification, differentiation and homeostasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26423156", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 1487, 
+            "text": "One of the most upregulated lncRNAs was a SE-associated lncRNA that was named CARMEN, (CAR)diac (M)esoderm (E)nhancer-associated (N)oncoding RNA. CARMEN exhibits RNA-dependent enhancing activity and is upstream of the cardiac mesoderm-specifying gene regulatory network. Interestingly, CARMEN interacts with SUZ12 and EZH2, two components of the polycomb repressive complex 2 (PRC2). We demonstrate that CARMEN knockdown inhibits cardiac specification and differentiation in cardiac precursor cells independently of MIR-143 and -145 expression, two microRNAs located proximal to the enhancer sequences. Importantly, CARMEN expression was activated during pathological remodeling in the mouse and human hearts, and was necessary for maintaining cardiac identity in differentiated cardiomyocytes. This study demonstrates therefore that CARMEN is a crucial regulator of cardiac cell differentiation and homeostasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26423156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "CARMEN, a human super enhancer-associated long noncoding RNA controlling cardiac specification, differentiation and homeostasis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26423156", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1176, 
+            "text": "We demonstrate that CARMEN knockdown inhibits cardiac specification and differentiation in cardiac precursor cells independently of MIR-143 and -145 expression, two microRNAs located proximal to the enhancer sequences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26423156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "CARMEN, a human super enhancer-associated long noncoding RNA controlling cardiac specification, differentiation and homeostasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26423156", 
+            "endSection": "title"
+        }
+    ]
+}

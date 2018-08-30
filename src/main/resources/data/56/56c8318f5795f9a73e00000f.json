@@ -1,0 +1,61 @@
+{
+    "body": "Can sorafenib activate AMPK?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23963659", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25080865", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25349646"
+    ], 
+    "ideal_answer": [
+        "Sorafenib induces persisten AMPK activation"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4243524", 
+        "http://www.biosemantics.org/jochem#4243524", 
+        "http://amigo.geneontology.org/amigo/term/GO:0031588"
+    ], 
+    "type": "yesno", 
+    "id": "56c8318f5795f9a73e00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 452, 
+            "text": "Here, we identify sorafenib as an activator of AMP-activated protein kinase (AMPK), in a manner that involves either upstream LKB1 or CAMKK2. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25080865", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1068, 
+            "offsetInEndSection": 1271, 
+            "text": "Persistent activation of AMPK by sorafenib finally led to the impairment of glucose metabolism both in MCF-7 and SKBR3 cells as well as in the highly glycolytic MDA-MB-231 cells, resulting in cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23963659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 450, 
+            "text": "Here, we identify sorafenib as an activator of AMP-activated protein kinase (AMPK), in a manner that involves either upstream LKB1 or CAMKK2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25080865", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Sorafenib synergizes with metformin in NSCLC through AMPK pathway activation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25080865", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1069, 
+            "offsetInEndSection": 1396, 
+            "text": "Persistent activation of AMPK by sorafenib finally led to the impairment of glucose metabolism both in MCF-7 and SKBR3 cells as well as in the highly glycolytic MDA-MB-231 cells, resulting in cell death. This previously unrecognized long-term effect of sorafenib was mediated by AMPK-dependent inhibition of the mTORC1 pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23963659", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "body": "What are the different classes of orally administered drugs used to treat diabetes", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12766122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26932742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26158794", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9540451", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11075314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26787264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18840004", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26928029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15296954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11105786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23671395", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23522121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16236069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18220763", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24160357", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27038028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26597596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18559413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11592575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23919507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3298298", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26890317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26551045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25805649", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17206165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18316956", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7110736", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10321452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17355730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22767115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18827867", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26587691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18078018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25648671", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15251678", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16254468"
+    ], 
+    "ideal_answer": [
+        "There are a number of classes of medications tha are used to treat Type 2 diabetes. These include biguanides like metformin, which decreased hepatic glucose release; sulfonyureas like Glimepride, metglitinides like repaglin and d-phenylalanine derivatives, all of which stimulate pancreatic insulin release; Glitizones or thiazolidinediones which make the body more sensitive to insulin; DPP-4 inhibitors which lower the amount of glucose made in the body; alpha-glucosidase inhibitors which slow the absorbtion of carbohydrate in the blood; and bile acid sequestrants that lower blood glucose"
+    ], 
+    "exact_answer": [
+        [
+            "Biguanides"
+        ], 
+        [
+            "Sulfonylureas"
+        ], 
+        [
+            "Meglitinides"
+        ], 
+        [
+            "D-Phenylalanine Derivatives"
+        ], 
+        [
+            "glitazones"
+        ], 
+        [
+            "DPP-4 Inhibitors"
+        ], 
+        [
+            "Alpha-glucosidase inhibitors"
+        ], 
+        [
+            "bile acid sequestrants"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016640", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11714", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050524", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D048909", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003922", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003921", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020790"
+    ], 
+    "type": "list", 
+    "id": "58a0c09778275d0c4a000052", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 162, 
+            "offsetInEndSection": 238, 
+            "text": " achieved by selectively inhibiting sodium-glucose co-transporter 2 (SGLT2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26158794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 632, 
+            "offsetInEndSection": 764, 
+            "text": "After a decade-long effort to improve the pharmacokinetics of GLP1, a number of GLP1 analogues are currently available on the market", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26551045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 458, 
+            "offsetInEndSection": 542, 
+            "text": " short-acting glucagon-like peptide-1 receptor agonists exenatide and lixisenatide. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26787264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 391, 
+            "text": " Sulphonylurea (SU) drugs have a history stretching back over 60 years, and have traditionally been the mainstay choice as second-line agents to be added to metformin once glycaemic control with metformin monotherapy deteriorates;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26597596", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 695, 
+            "offsetInEndSection": 778, 
+            "text": "In 2013, sulfonylureas were the most common second-line treatment after metformin i", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26890317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 863, 
+            "text": "this position was taken by DPP-4 inhibitors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26890317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "[Studies on resorption of orally administered antibiotics and chemotherapeutic agents in children and its modification.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7110736", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "The drugs used to treat diabetes mellitus are diverse and include several classes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11592575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 313, 
+            "offsetInEndSection": 525, 
+            "text": "Many of the therapeutic agents used to treat diabetes mellitus have the ability to lower blood glucose to dangerous concentrations; these include the sulfonylurea, meglitinide, and thiazolidinedione drug classes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22767115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 750, 
+            "offsetInEndSection": 956, 
+            "text": "The most common therapeutic classes of drugs used in all participating regions, in the previous week, were cardiovascular, gastrointestinal, metabolic (including drugs to treat diabetes) and nervous system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17206165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1229, 
+            "offsetInEndSection": 1397, 
+            "text": "Use of oral antidiabetic agents, by drug class, did not differ significantly by race/ethnicity (p = 0.33 for TZDs, p = 0.43 for metformin, p = 0.38 for sulfonylureas). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17355730", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1210, 
+            "offsetInEndSection": 1340, 
+            "text": "The use of these drugs was also common among insulin treated diabetics but did not differ significantly from among non-diabetics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3298298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 761, 
+            "offsetInEndSection": 972, 
+            "text": "Drug use among those treated with insulin and those treated orally was substantially higher than among non-diabetics while the difference between diabetics on dietary regimen and non-diabetics was much smaller. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3298298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 292, 
+            "text": "UNLABELLED: The aims of the study were to evaluate differences in dietary, oral hygiene habits and social class in children with Type I diabetes mellitus (DM), compared to non-diabetics, and to investigate relationship between selected caries-risk factors and caries experience in diabetics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16254468", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 237, 
+            "text": "Vildagliptin is a potent and selective inhibitor of dipeptidyl peptidase-IV (DPP-4), orally active, that improves glycemic control in patients with type 2 diabetes (T2DM) primarily by enhancing pancreatic (alpha and beta) islet function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18827867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 557, 
+            "offsetInEndSection": 974, 
+            "text": "The literature covered includes original studies and meta-analyses identified in PubMed, recent abstracts presented at major diabetes scientific conferences, and clinical trials registered at ClinicalTrials.gov.Although there are some differences in the pharmacokinetic and pharmacodynamic profiles of the different DPP-4 inhibitors, all are small orally active compounds with broadly similar HbA1c-lowering efficacy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23919507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1431, 
+            "offsetInEndSection": 1653, 
+            "text": "The authors conclude that rosiglitazone can be safely administered with metformin and, due to the different mechanisms of action of these agents, may offer a therapeutic advantage in patients with type 2 diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11075314", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1001, 
+            "text": "There are different classes of anti-diabetic drugs reported to treat diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24160357", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 616, 
+            "text": "There are now four different classes of oral medications which are available to treat diabetes-sulfonylureas, biguanides, thiazolidinediones, and alpha-glucosidase inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9540451", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 586, 
+            "offsetInEndSection": 734, 
+            "text": "During followup, incident treated diabetes was defined as a self-report of a new physician diagnosis of diabetes treated with insulin or oral drugs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18559413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 639, 
+            "text": "This systematic review will compare adherence and persistence rates across the different classes of medication available to people with type 2 diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26928029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "Five classes of oral hypoglycaemic drugs and two trace minerals used to treat diabetes mellitus in humans are reviewed and current knowledge on the use of these drugs in diabetic dogs and cats is presented.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11105786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 400, 
+            "offsetInEndSection": 650, 
+            "text": "Sulfonylureas, biguanides, alpha-glucosidase, meglitinides, DPP-4 inhibitors and thiazolidinediones are among the classes of oral hypoglycemic drugs available to treat Type II diabetes, but concerns exist regarding safety and efficacy of these drugs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18220763", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1442, 
+            "offsetInEndSection": 1649, 
+            "text": "Currently, four classes of orally administered antidiabetic agents are available for use in patients with type 2 diabetes: insulin secretagogues, biguanides, a-glucosidase inhibitors, and thiazolidinediones.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15251678", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "body": "What was the purpose of the FANTOM4 project?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19377474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19374775", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21075797"
+    ], 
+    "ideal_answer": [
+        "The international Functional Annotation Of the Mammalian Genomes 4 (FANTOM4) research collaboration set out to better understand the transcriptional network that regulates macrophage differentiation and to uncover novel components of the transcriptome employing a series of high-throughput experiments."
+    ], 
+    "exact_answer": [
+        "Better understand the transcriptional network that regulates macrophage differentiation"
+    ], 
+    "type": "factoid", 
+    "id": "569e7721ceceede94d000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 302, 
+            "text": "The international Functional Annotation Of the Mammalian Genomes 4 (FANTOM4) research collaboration set out to better understand the transcriptional network that regulates macrophage differentiation and to uncover novel components of the transcriptome employing a series of high-throughput experiments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21075797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 301, 
+            "text": "The international Functional Annotation Of the Mammalian Genomes 4 (FANTOM4) research collaboration set out to better understand the transcriptional network that regulates macrophage differentiation and to uncover novel components of the transcriptome employing a series of high-throughput experiments", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21075797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 222, 
+            "text": "Using deep sequencing (deepCAGE), the FANTOM4 study measured the genome-wide dynamics of transcription-start-site usage in the human monocytic cell line THP-1 throughout a time course of growth arrest and differentiation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19377474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": "The international Functional Annotation Of the Mammalian Genomes 4 (FANTOM4) research collaboration set out to better understand the transcriptional network that regulates macrophage differentiation and to uncover novel components of the transcriptome employing a series of high-throughput experiments. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21075797", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "body": "What species is associated with Tetrodotoxin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22163191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22069694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20479966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22690139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23724281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24279996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24295175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22028709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20161971", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20637221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20411115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22688023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21734837", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21549050"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0463937", 
+            "o": "DXplain"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0275142", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0463937"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0463937", 
+            "o": "TETRODOTOXIN POISONING"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Tetrodotoxin", 
+            "o": "4368-28-9"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Tetrodotoxin", 
+            "o": "Tetrodotoxin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0366686", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0208311", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0366687"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0366686", 
+            "o": "Tetrodotoxin, (4beta)-"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0208311", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0366686"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0366687", 
+            "o": "4-epitetrodotoxin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0366687", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Tetrodotoxin (TTX) is a low molecular weight (approximately 319 Da) neurotoxin found in a number of animal species, including pufferfish. TTX is originally produced by marine bacteria, and pufferfish are intoxicated through the food chain that starts with the bacteria. TTX is found in warm waters, especially of the Indian and Pacific Oceans. TTX poisoning due to marine snails has recently spread through Japan, China, Taiwan, and Europe."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013779", 
+        "http://www.biosemantics.org/jochem#4053979", 
+        "http://www.biosemantics.org/jochem#4274648"
+    ], 
+    "type": "summary", 
+    "id": "552033206b348bb82c00001b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "The selling and importing of puffer fish species and their products was banned in Thailand in 2002, because of possible neurotoxic effects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24295175", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Efficiency of a rapid test for detection of tetrodotoxin in puffer fish.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24295175", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Marine pufferfish contain tetrodotoxin (TTX), an extremely potent neurotoxin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24279996", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 255, 
+            "text": "Tetrodotoxin is a potent low weight marine toxin found in warm waters, especially of the Indian and Pacific Oceans. Intoxications are usually linked to the consumption of the puffer fish, although TTX was already detected in several different edible taxa.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22690139", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Food poisoning due to ingestion of a puffer fish occurred in Nagasaki Prefecture, Japan, in October 2008, causing neurotoxic symptoms similar to those of tetrodotoxin (TTX) poisoning.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22688023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1156, 
+            "offsetInEndSection": 1366, 
+            "text": " Our findings raised a concern for people, not only Thais but also inhabitants of other countries situated on the Andaman coast; consuming puffers of the Andaman seas is risky due to potential TTX intoxication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22069694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Toxic marine puffer fish in Thailand seas and tetrodotoxin they contained.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22069694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 321, 
+            "text": "Puffer fish, Takifugu niphobles, collected from the Hong Kong coastal waters were screened for tetrodotoxin-producing bacteria. A Gram-negative, non-acid-fast, non-sporing and rod shaped bacterial strain (designated as gutB01) was isolated from the intestine of the puffer fish and was shown to produce tetrodotoxin (TTX)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22163191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Isolation and identification of a new tetrodotoxin-producing bacterial species, Raoultella terrigena, from Hong Kong marine puffer fish Takifugu niphobles.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22163191", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Green toadfish Lagocephalus lunaris inhabits tropical and subtropical seas and contains high tetrodotoxin (TTX) levels in the muscle as well as liver and gonad", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22028709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "Tetrodotoxin (TTX) is a highly potent neurotoxin that blocks the action potential by selectively binding to voltage-gated sodium channels (Na(v))", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21734837", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Suspected tetrodotoxin (TTX) poisoning was associated with eating unknown fish in April 2009 in Taiwan", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Marine pufferfish generally contain a large amount of tetrodotoxin (TTX) in their skin and viscera, and have caused many incidences of food poisoning, especially in Japan.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23724281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 371, 
+            "offsetInEndSection": 504, 
+            "text": " TTX is originally produced by marine bacteria, and pufferfish are intoxicated through the food chain that starts with the bacteria. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23724281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 759, 
+            "text": ", TTX poisoning due to marine snails has recently spread through Japan, China, Taiwan, and Europe.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23724281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "The inhibitory effects of toxin extracted from muscle or liver of five different puffer fishes (hereafter referred as puffer(s)) captured on the Japanese sea coast ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20637221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 236, 
+            "text": "LC/MS analysis of tetrodotoxin and its deoxy analogs in the marine puffer fish Fugu niphobles from the southern coast of Korea, and in the brackishwater puffer fishes Tetraodon nigroviridis and Tetraodon biocellatus from Southeast Asia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20479966", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 446, 
+            "text": "Toxins such as saxitoxins, tetrodotoxin, palytoxin, nodularin, okadaic acid, domoic acid, may be produced in large amounts by dinoflagellates, cyanobacteria, bacteria and diatoms and accumulate in vectors that transfer the toxin along food chains", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20161971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Tetrodotoxin (TTX) is a low molecular weight (approximately 319 Da) neurotoxin found in a number of animal species, including pufferfish.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20411115", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "body": "List types of avoided words in bacterial genomes", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12762852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9171096"
+    ], 
+    "ideal_answer": [
+        "Short palindromic sequences (4, 5 and 6 bp palindromes) are avoided at a statistically significant level in the genomes of several bacteria, including the completely sequenced Haemophilus influenzae and Synechocystis sp. genomes and in the complete genome of the archaeon Methanococcus jannaschii. Palindromes corresponding to sites for restriction enzymes from other species are also avoided, albeit less significantly, suggesting that in the course of evolution bacterial DNA has been exposed to a wide spectrum of restriction enzymes, probably as the result of lateral transfer mediated by mobile genetic elements, such as plasmids and prophages. Palindromic words appear to accumulate in DNA once it becomes isolated from restriction-modification systems, as demonstrated by the case of organellar genomes."
+    ], 
+    "exact_answer": [
+        [
+            "Short palindromic sequences (4, 5 and 6 bp palindromes)"
+        ], 
+        [
+            "Palindromes corresponding to sites for restriction enzymes from other species"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56a37e33496b62f23f000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Avoidance of palindromic words in bacterial and archaeal genomes: a close connection with restriction enzymes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9171096", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 297, 
+            "text": "Short palindromic sequences (4, 5 and 6 bp palindromes) are avoided at a statistically significant level in the genomes of several bacteria, including the completely sequenced Haemophilus influenzae and Synechocystis sp. genomes and in the complete genome of the archaeon Methanococcus jannaschii.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9171096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 804, 
+            "offsetInEndSection": 1154, 
+            "text": "Palindromes corresponding to sites for restriction enzymes from other species are also avoided, albeit less significantly, suggesting that in the course of evolution bacterial DNA has been exposed to a wide spectrum of restriction enzymes, probably as the result of lateral transfer mediated by mobile genetic elements, such as plasmids and prophages", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9171096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1156, 
+            "offsetInEndSection": 1315, 
+            "text": "Palindromic words appear to accumulate in DNA once it becomes isolated from restriction-modification systems, as demonstrated by the case of organellar genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9171096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1496, 
+            "offsetInEndSection": 1642, 
+            "text": "In certain cases, a comparison of avoided palindromic words in taxonomically related bacteria shows a pattern of relatedness of their R-M systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12762852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Recognition sites for type II restriction and modification enzymes in genomes of several bacteria are recognized as semi-palindromic motifs and are avoided at a significant degree.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12762852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1200, 
+            "offsetInEndSection": 1506, 
+            "text": "On the basis of the set of most avoided words, and in accordance to the IUPAC coding standards, suggestions are made regarding potential recognition sequences. In certain cases, a comparison of avoided palindromic words in taxonomically related bacteria shows a pattern of relatedness of their R-M systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12762852", 
+            "endSection": "abstract"
+        }
+    ]
+}

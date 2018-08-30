@@ -1,0 +1,112 @@
+{
+    "body": "Are the Fanconi anemia genes a part of the same signalling pathway?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23333482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15611632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21557222", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11157805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10088637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20407210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17387268"
+    ], 
+    "ideal_answer": [
+        "The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNA  ", 
+        "The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNAMutations in at least 14 different genes have been shown to cause FA", 
+        "Mutations in at least 14 different genes have been shown to cause FA. The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNA. ", 
+        "The Fanconi anemia genes code for proteins that act in complexes to coordinate the repair of damaged DNA.", 
+        "The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNA. Mutations in at least 14 different genes have been shown to cause FA. "
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:13636", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1062", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051856", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015398", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007165"
+    ], 
+    "type": "yesno", 
+    "id": "54f42f2764850a5854000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 285, 
+            "text": "Mutations in at least 14 different genes have been shown to cause FA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21557222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 519, 
+            "text": "The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21557222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 428, 
+            "offsetInEndSection": 630, 
+            "text": " The current review describes the structure and function of the Fanconi anemia genes and describes the role of the encoded Fanconi anemia proteins in a cellular pathway controlling chromosome stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10088637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 203, 
+            "text": "Fanconi anemia (FA) is a rare human genetic disease caused by mutations in any one of 13 known genes that encode proteins functioning in one common signaling pathway, the FA pathway, or in unknown genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20407210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Fanconi anemia (FA) is a rare inherited recessive disease caused by mutations in one of fifteen genes known to encode FA pathway components.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23333482", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Fanconi anemia (FA) proteins function in a DNA damage response pathway that appears to be part of the network including breast cancer susceptibility gene products, BRCA1 and BRCA2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15611632", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Fanconi anemia (FA) proteins function in a DNA damage response pathway that appears to be part of the network including breast cancer susceptibility gene products, BRCA1 and BRCA2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15611632", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "Fanconi anemia (FA) is a rare human genetic disease caused by mutations in any one of 13 known genes that encode proteins functioning in one common signaling pathway, the FA pathway, or in unknown genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20407210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "The Fanconi anemia (FA) gene family comprises at least 12 genes interacting in a common pathway involved in DNA repair", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17387268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1171, 
+            "offsetInEndSection": 1396, 
+            "text": "These findings show that the newly identified FANCE protein is an integral part of the FA pathway, and support the concept of a functional link between all known proteins encoded by the genes that are mutated in this disorder", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11157805", 
+            "endSection": "abstract"
+        }
+    ]
+}

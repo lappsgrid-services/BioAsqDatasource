@@ -1,0 +1,97 @@
+{
+    "body": "What is MIRA-seq?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25881900", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26384656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27009155", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25623529"
+    ], 
+    "ideal_answer": [
+        "MIRA-seq is a reliable, genome-scale DNA methylation analysis platform for scoring DNA methylation differences at CpG-rich genomic regions. The method is not limited by primer or probe design and is cost effective."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:1905642", 
+        "http://amigo.geneontology.org/amigo/term/GO:0044029", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019175", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018899", 
+        "http://amigo.geneontology.org/amigo/term/GO:0044027", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000070593", 
+        "http://amigo.geneontology.org/amigo/term/GO:0044728"
+    ], 
+    "type": "summary", 
+    "id": "588fd7cded9bbee70d000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "MIRA-seq for DNA methylation analysis of CpG islands.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25881900", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 620, 
+            "offsetInEndSection": 834, 
+            "text": "MIRA-seq is a reliable, genome-scale DNA methylation analysis platform for scoring DNA methylation differences at CpG-rich genomic regions. The method is not limited by primer or probe design and is cost effective.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25881900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Using MIRA-seq, we have characterized the DNA methylome of metastatic melanoma and normal melanocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26384656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 538, 
+            "text": "Global gene expression was measured by RNA-Seq, while an epigenetic basis for expression differences was examined by methylated CpG island recovery assay sequencing (MIRA-Seq) analysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27009155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 355, 
+            "offsetInEndSection": 540, 
+            "text": "Global gene expression was measured by RNA-Seq, while an epigenetic basis for expression differences was examined by methylated CpG island recovery assay sequencing (MIRA-Seq) analysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27009155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "MIRA-seq for DNA methylation analysis of CpG islands.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25881900", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 576, 
+            "offsetInEndSection": 715, 
+            "text": "MIRA-seq is a reliable, genome-scale DNA methylation analysis platform for scoring DNA methylation differences at CpG-rich genomic regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25881900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 928, 
+            "offsetInEndSection": 1129, 
+            "text": "Despite extensive breed differences in the transcriptome, MIRA-Seq unveiled relatively similar patterns of genome-wide DNA methylation between breeds, with an overall hypomethylation of gene promoters.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27009155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1141, 
+            "offsetInEndSection": 1470, 
+            "text": "Methylated CpG island recovery assay sequencing (MIRA-Seq) revealed numerous methylation peaks spread across the genome, combined with an overall hypomethylation of gene promoter regions, and a remarkable similarity, except for 20 regions along the genome, between the fibroblasts collected at the two ages from the same animals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25623529", 
+            "endSection": "abstract"
+        }
+    ]
+}

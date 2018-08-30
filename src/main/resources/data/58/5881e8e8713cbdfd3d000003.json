@@ -1,0 +1,168 @@
+{
+    "body": "Is Pfh1 a component of the replisome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27611590"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1325592", 
+            "o": "replisome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1325592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11591254"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11591254", 
+            "o": "replisome"
+        }
+    ], 
+    "ideal_answer": [
+        "No. Pfh1 Is an Accessory Replicative Helicase that Interacts with the Replisome to Facilitate Fork Progression and Preserve Genome Integrity. DNA replication through hard-to-replicate sites, including both highly transcribed RNA Pol II and Pol III genes, requires the S. pombe Pfh1 helicase."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "5881e8e8713cbdfd3d000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Pfh1 Is an Accessory Replicative Helicase that Interacts with the Replisome to Facilitate Fork Progression and Preserve Genome Integrity", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 288, 
+            "offsetInEndSection": 754, 
+            "text": "Although the Schizosaccharomyces pombe 5'-to-3' DNA helicase Pfh1 is known to promote fork progression, its genomic targets, dynamics, and mechanisms of action are largely unknown. Here we address these questions by integrating genome-wide identification of Pfh1 binding sites, comprehensive analysis of the effects of Pfh1 depletion on replication and DNA damage, and proteomic analysis of Pfh1 interaction partners by immunoaffinity purification mass spectrometry.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "DNA replication through hard-to-replicate sites, including both highly transcribed RNA Pol II and Pol III genes, requires the S. pombe Pfh1 helicase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 347, 
+            "offsetInEndSection": 546, 
+            "text": "Here, we show that Pfh1 is required for efficient fork movement in the ribosomal DNA, the mating type locus, tRNA, 5S ribosomal RNA genes, and genes that are highly transcribed by RNA polymerase II. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1109, 
+            "offsetInEndSection": 1245, 
+            "text": " Thus, Pfh1 promotes DNA replication and separation of converged replication forks and suppresses DNA damage at hard-to-replicate sites.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 960, 
+            "offsetInEndSection": 1102, 
+            "text": "Cells depleted of Pfh1 were inviable if they also lacked the human TIMELESS homolog Swi1, a replisome component that stabilizes stalled forks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Pfh1 Is an Accessory Replicative Helicase that Interacts with the Replisome to Facilitate Fork Progression and Preserve Genome Integrity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1810, 
+            "offsetInEndSection": 1979, 
+            "text": "Thus, we conclude that Pfh1 is an accessory DNA helicase that interacts with the replisome and promotes replication and suppresses DNA damage at hard-to-replicate sites.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1585, 
+            "offsetInEndSection": 1810, 
+            "text": "Consistent with this interpretation, Pfh1 co-purified with many key replisome components, including the hexameric MCM helicase, replicative DNA polymerases, RPA, and the processivity clamp PCNA in an S phase dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1295, 
+            "offsetInEndSection": 1585, 
+            "text": "Although Pfh1 affected replication and suppressed DNA damage at discrete sites throughout the genome, Pfh1 and the replicative DNA polymerase bound to similar extents to both Pfh1-dependent and independent sites, suggesting that Pfh1 is proximal to the replication machinery during S phase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1108, 
+            "text": "Cells depleted of Pfh1 were inviable if they also lacked the human TIMELESS homolog Swi1, a replisome component that stabilizes stalled forks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 347, 
+            "offsetInEndSection": 544, 
+            "text": "Here, we show that Pfh1 is required for efficient fork movement in the ribosomal DNA, the mating type locus, tRNA, 5S ribosomal RNA genes, and genes that are highly transcribed by RNA polymerase II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1244, 
+            "text": "Thus, Pfh1 promotes DNA replication and separation of converged replication forks and suppresses DNA damage at hard-to-replicate sites", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1109, 
+            "text": "Cells depleted of Pfh1 were inviable if they also lacked the human TIMELESS homolog Swi1, a replisome component that stabilizes stalled forks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22426534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1818, 
+            "offsetInEndSection": 1987, 
+            "text": "Thus, we conclude that Pfh1 is an accessory DNA helicase that interacts with the replisome and promotes replication and suppresses DNA damage at hard-to-replicate sites.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1592, 
+            "offsetInEndSection": 1817, 
+            "text": "Consistent with this interpretation, Pfh1 co-purified with many key replisome components, including the hexameric MCM helicase, replicative DNA polymerases, RPA, and the processivity clamp PCNA in an S phase dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Pfh1 Is an Accessory Replicative Helicase that Interacts with the Replisome to Facilitate Fork Progression and Preserve Genome Integrity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27611590", 
+            "endSection": "title"
+        }
+    ]
+}

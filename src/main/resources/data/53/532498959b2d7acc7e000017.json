@@ -1,0 +1,240 @@
+{
+    "body": "Which enzyme is targeted by the drug Imetelstat?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21208905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23386830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21549308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23521791", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23558965", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23545855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20072842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21845093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23467584", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20232321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21332640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22382179", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21062983", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23272238", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24327604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23516479", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19908230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23326372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22870217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20824134", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22906540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20048334", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23727752"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#definition", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2746063", 
+            "o": "NCI: A synthetic lipid-conjugated, 13-mer oligonucleotide N3'-P5'-thio-phosphoramidate with potential antineoplastic activity. Complementary to the template region of telomerase (hTR) RNA, telomerase inhibitor GRN163L as a competitive enzyme inhibitor that binds and blocks the active site of the enzyme (a telomerase template antagonist), a mechanism of action which differs from that for the antisense oligonucleotide-mediated inhibition of telomerase activity through telomerase mRNA binding. Inhibition of telomerase activity in tumor cells by telomerase inhibitor GRN163L results in telomere shortening, which leads to cell cycle arrest or apoptosis."
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17693237", 
+            "o": "IMETELSTAT"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17693235", 
+            "o": "Imetelstat"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2746063", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17693237"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2746063", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17693236"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2746063", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17693235"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17693236", 
+            "o": "DNA, d(3'-amino-3'-deoxy-P-thio)(T-A-G-G-G-T-T-A-G-A-C-A-A), 5'-[O-[2-hydroxy-3- [(1-oxohexadecyl)amino]propyl] hydrogen phosphorothioate]"
+        }
+    ], 
+    "ideal_answer": [
+        "Imetelstat sodium (GRN163L), is a 13-mer oligonucleotide N3'\u2192P5' thio-phosphoramidate lipid conjugate, which represents the latest generation of telomerase inhibitors targeting the template region of the human functional telomerase RNA subunit. In preclinical trials, this compound has been found to inhibit telomerase activity in multiple cancer cell lines, as well as in vivo xenograft mouse models."
+    ], 
+    "exact_answer": [
+        "Human Telomerase"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004798", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004791", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004358"
+    ], 
+    "type": "factoid", 
+    "id": "532498959b2d7acc7e000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Imetelstat (a telomerase antagonist) exerts off\u2011target effects on the cytoskeleton.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23545855", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 228, 
+            "offsetInEndSection": 636, 
+            "text": "imetelstat sodium (GRN163L), is a 13-mer oligonucleotide N3'\u2192P5' thio-phosphoramidate lipid conjugate, which represents the latest generation of telomerase inhibitors targeting the template region of the human functional telomerase RNA (hTR) subunit. In preclinical trials, this compound has been found to inhibit telomerase activity in multiple cancer cell lines, as well as in vivo xenograft mouse models. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23545855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 841, 
+            "offsetInEndSection": 1017, 
+            "text": "In addition to the inhibition of telomerase activity in cancer cell lines, GRN163L causes morphological cell rounding changes, independent of hTR expression or telomere length.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23545855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 130, 
+            "offsetInEndSection": 421, 
+            "text": "We sought to evaluate the potential of the thio-phosphoramidate oligonucleotide inhibitor of telomerase, imetelstat, as a drug candidate for treatment of esophageal cancer. Our results showed that imetelstat inhibited telomerase activity in a dose-dependent manner in esophageal cancer cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22906540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 695, 
+            "text": "Furthermore, long-term treatment with imetelstat decreased cell growth of esophageal cancer cells with different kinetics regarding telomere lengths", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22906540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 691, 
+            "text": " Telomerase extension is less processive during the first few weeks following the reversal of long-term treatment with the telomerase inhibitor Imetelstat (GRN163L), a time when Cajal bodies fail to deliver telomerase RNA to telomeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 883, 
+            "text": "The role of telomerase as an immunotherapy, as a gene therapy approach using telomerase promoter driven oncolytic viruses and as a small oligonucleotide targeted therapy (Imetelstat) will be discussed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21332640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 651, 
+            "offsetInEndSection": 811, 
+            "text": "We then tested the efficacy of the telomerase inhibitor Imetelstat on propagation and self-renewal capacity of TIC and normal stem cells in vitro and in vivo. R", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21208905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 105, 
+            "text": "e telomerase inhibitor imetelstat depletes cancer stem cells in breast and pancreatic cancer cell lines", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21062983", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 455, 
+            "offsetInEndSection": 769, 
+            "text": "In this study, we investigated the effects of imetelstat (GRN163L), a potent telomerase inhibitor, on both the bulk cancer cells and putative CSCs. When breast and pancreatic cancer cell lines were treated with imetelstat in vitro, telomerase activity in the bulk tumor cells and CSC subpopulations were inhibited.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21062983", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 537, 
+            "offsetInEndSection": 700, 
+            "text": "Telomerase activity is required for the maintenance of normal adult stem cells, and we examined the activity of the telomerase inhibitor imetelstat against MM CSC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20824134", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 867, 
+            "offsetInEndSection": 1205, 
+            "text": "Human MM CSC were isolated from cell lines and primary clinical specimens and treated with imetelstat, a specific inhibitor of the reverse transcriptase activity of telomerase. Two weeks of exposure to imetelstat resulted in a significant reduction in telomere length and the inhibition of clonogenic MM growth both in vitro and in vivo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20824134", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1666, 
+            "offsetInEndSection": 1851, 
+            "text": "Short oligonucleotide N3'-->P5' thio-phosphoramidate conjugated to 5'-palmitoyl group, designated as GRN163L (Imetelstat), was recently introduced as a potent human telomerase inhibitor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20232321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 54, 
+            "text": "etelstat (GRN163L)--telomerase-based cancer therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20072842", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 703, 
+            "text": "Imetelstat (GRN163L) is a potent and specific telomerase inhibitor and so far the only drug of its class in clinical trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20072842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 147, 
+            "text": "e telomerase antagonist, imetelstat, efficiently targets glioblastoma tumor-initiating cells leading to decreased proliferation and tumor growth.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20048334", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 108, 
+            "offsetInEndSection": 271, 
+            "text": "The effects of a novel human telomerase antagonist, imetelstat, on primary human glioblastoma (GBM) tumor-initiating cells were investigated in vitro and in vivo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20048334", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 704, 
+            "offsetInEndSection": 961, 
+            "text": "Imetelstat treatment produced a dose-dependent inhibition of telomerase (IC(50) 0.45 micromol/L). Long-term imetelstat treatment led to progressive telomere shortening, reduced rates of proliferation, and eventually cell death in GBM tumor-initiating cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20048334", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 1040, 
+            "text": " We have found that prostate TICs have significant telomerase activity which is inhibited by imetelstat sodium (GRN163L), a new telomerase antagonist that is currently in Phase I/II clinical trials for several hematological and solid tumor malignancies. Prostate TICs telomeres were of similar average length to the telomeres of the main population of cells and significant telomere shortening was detected in prostate TICs as a result of imetelstat treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19908230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 677, 
+            "text": "Telomerase activation was countered by co-treatment with Imetelstat (GRN163L), a potent telomerase inhibitor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516479", 
+            "endSection": "abstract"
+        }
+    ]
+}

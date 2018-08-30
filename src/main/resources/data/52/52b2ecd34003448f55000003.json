@@ -1,0 +1,274 @@
+{
+    "body": "Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17035524", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20301420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20301462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16982418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16014653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22462675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19412816", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17663003", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22144914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16769947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23990368"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1836", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/CMT2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/CMT2D", 
+            "o": "CMT2D"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1836", 
+            "o": "Charcot-Marie-Tooth disease, type 2D, 601472"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458984", 
+            "o": "C537993"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000277", 
+            "o": "CHARCOT-MARIE-TOOTH NEUROPATHY, TYPE 2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18468134", 
+            "o": "Charcot-Marie-Tooth disease, axonal, Type 2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458984", 
+            "o": "Charcot-Marie-Tooth disease, Type 2D"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12028806"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18458985"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11957249"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957249", 
+            "o": "CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18458984"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12000277"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000276", 
+            "o": "CHARCOT-MARIE-TOOTH DISEASE, NEURONAL, TYPE 2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12028806", 
+            "o": "CMT2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18468134"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458985", 
+            "o": "Charcot-Marie-Tooth disease, neuronal, Type 2D"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1832274", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12000276"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458985", 
+            "o": "C537993"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18468134", 
+            "o": "C537993"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957249", 
+            "o": "601472"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000276", 
+            "o": "601472"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000277", 
+            "o": "601472"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12028806", 
+            "o": "601472"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957249", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000276", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000277", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12028806", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458984", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458985", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18468134", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Charcot-Marie-Tooth disease type 2D (CMT2D) is caused by missense mutations in the glycyl-tRNA synthetase gene (GARS)."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SYG_RAT", 
+        "http://www.uniprot.org/uniprot/SYG_HUMAN", 
+        "http://www.uniprot.org/uniprot/SYG_PONAB"
+    ], 
+    "type": "yesno", 
+    "id": "52b2ecd34003448f55000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 165, 
+            "text": "Charcot-Marie-Tooth disease type 2D is a hereditary axonal and glycyl-tRNA synthetase (GARS)-associated neuropathy that is caused by a mutation in GARS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23990368", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "Mutations in the GARS gene cause Charcot-Marie-Tooth 2D and distal spinal muscular atrophy type V - allelic disorders characterized by predominantly distal upper extremity weakness and atrophy, typically beginning during the second decade of life. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22462675", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Charcot-Marie-Tooth disease type 2D (CMT2D) is a dominantly inherited peripheral neuropathy caused by missense mutations in the glycyl-tRNA synthetase gene (GARS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22144914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 573, 
+            "offsetInEndSection": 854, 
+            "text": "The 13 genes known to be associated with the CMT2 subtypes are KIF1B (CMT2A1), MFN2 (CMT2A2), RAB7A (formerly RAB7) (CMT2B), LMNA (CMT2B1), MED25 (CMT2B2), TRPV4 (CMTC), GARS (CMT2D), NEFL (CMT2E/1F), HSPB1 (CMT2F), MPZ (CMT2I/J), GDAP1 (CMT2H/K), HSPB8 (CMT2L), and AARS (CMT2N). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20301462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 976, 
+            "offsetInEndSection": 1154, 
+            "text": " The diagnosis of GARS-associated axonal neuropathy is based on clinical findings, electromyography (EMG), and molecular genetic testing of GARS, encoding glycyl-tRNA synthetase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20301420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 400, 
+            "text": "Sporadic juvenile muscular atrophy of the distal upper extremity or Hirayama's disease (HD) and autosomal dominant motor distal neuronopathy/axonopathy (CMT2D/dSMA-V), produced by glycyl-tRNA synthetase (GARS) gene mutations, share some clinical features including: young age of onset, predilection for the distal upper extremity, asymmetry, sparing of proximal muscles and unusual cold sensitivity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19412816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 394, 
+            "text": "Distal hereditary motor neuropathy type V (dHMN-V) and Charcot-Marie-Tooth syndrome (CMT) type 2 presenting with predominant hand involvement, also known as CMT2D and Silver syndrome (SS) are rare phenotypically overlapping diseases which can be caused by mutations in the Berardinelli-Seip Congenital Lipodystrophy 2 (BSCL2) and in the glycyl-tRNA synthetase encoding (GARS) genes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17663003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 194, 
+            "offsetInEndSection": 313, 
+            "text": "We previously implicated mutations in the gene encoding glycyl-tRNA synthetase (GARS) as the cause of CMT2D and dSMA-V.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17035524", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Of the many inherited Charcot-Marie-Tooth peripheral neuropathies, type 2D (CMT2D) is caused by dominant point mutations in the gene GARS, encoding glycyl tRNA synthetase (GlyRS). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16982418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 496, 
+            "offsetInEndSection": 632, 
+            "text": "Missense mutations in the glycyl-tRNA synthetase (GARS) gene have been recently reported in families with either dHMN-V, CMT2D, or both.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16769947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 895, 
+            "offsetInEndSection": 1359, 
+            "text": "Based on the presence or absence of sensory changes, the disease phenotype was initially defined as distal spinal muscular atrophy type V (dSMA-V) in three families, Charcot-Marie-Tooth disease type 2D (CMT2D) in a single family, and as either dSMA-V or CMT2D in patients of another large family. Linkage to chromosome 7p15 and the presence of disease-associated heterozygous GARS mutations have been identified in patients from each of the five studied families. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16014653", 
+            "endSection": "abstract"
+        }
+    ]
+}

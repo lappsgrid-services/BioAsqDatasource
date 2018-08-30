@@ -1,0 +1,182 @@
+{
+    "body": "Is the microRNA 132 (miR-132) involved in brain pathologies?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19458943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21813326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22315408", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21945804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23001356", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19557767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21807765", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21035445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20010955", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23144617", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21136867", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17314675"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/citations/10071047", 
+            "o": "Brain"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/10430839", 
+            "o": "Brain"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/citations/12566285", 
+            "o": "http://purl.uniprot.org/pubmed/12566285"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2745360", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17397784"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17397784", 
+            "o": "mmu-mir-132"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. MicroRNA 132 (miR-132), is involved in brain pathologies."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002545", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0007420", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001928", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002534", 
+        "http://www.disease-ontology.org/api/metadata/DOID:936", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001921", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001927", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010336"
+    ], 
+    "type": "yesno", 
+    "id": "5156be5ed24251bc05000087", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1562, 
+            "offsetInEndSection": 1740, 
+            "text": "miR-132 dysregulation and subsequent abnormal expression of miR-132 target genes contribute to the neurodevelopmental and neuromorphological pathologies present in schizophrenia.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22315408", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 889, 
+            "text": "micro-RNAs encoding miR-9, miR-124a, miR-125b, miR-128, miR-132 and miR-219 are abundantly represented in fetal hippocampus, are differentially regulated in aged brain, and an alteration in specific micro-RNA complexity occurs in Alzheimer hippocampus. These data are consistent with the idea that altered micro-RNA-mediated processing of messenger RNA populations may contribute to atypical mRNA abundance and neural dysfunction in Alzheimer's disease brain.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17314675", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1097, 
+            "offsetInEndSection": 1576, 
+            "text": "Levels of several microRNA (miR-10a, -10b, -212, -132, -495) were significantly altered. One of them (miR-132) has been reported to be highly inducible by growth factors and to be a key regulator of neurite outgrowth. Moreover, miR-132-recognition sequences were detected in the mRNA transcripts of two differentially expressed proteins. MicroRNA may thus represent novel biomarkers for neuronal malfunction and potential therapeutic targets for human neurodegenerative diseases.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21136867", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 627, 
+            "offsetInEndSection": 769, 
+            "text": "Expression of key neuronal microRNAs-including mir-9/9*, mir-124 and mir-132-is repressed in the brains of human HD patients and mouse models.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19458943", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 372, 
+            "text": "To determine if production of miR-132 is regulated by neuronal activity its expression in mouse brain was monitored by quantitative RT-PCR (RT-qPCR)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19557767", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1208, 
+            "text": "Expression levels of primary and mature-miR-132 increased significantly between postnatal Days 10 and 24. We conclude that miR-132 is an activity-dependent microRNA in vivo, and may contribute to the long-lasting proteomic changes required for experience-dependent neuronal plasticity.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19557767", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 384, 
+            "offsetInEndSection": 529, 
+            "text": "We investigated how prior seizure preconditioning affects the miRNA response to status epilepticus evoked by intra-amygdalar kainic acid in mice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21945804", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 1553, 
+            "text": "Increased miR-132 levels were matched with increased binding to Argonaute-2, a constituent of the RNA-induced silencing complex. In tolerant animals, expression responses of >40% of the injury-group-detected miRNAs differed, being either unchanged relative to control or down-regulated, and this included miR-132. In vivo microinjection of locked nucleic acid-modified oligonucleotides (antagomirs) against miR-132 depleted hippocampal miR-132 levels and reduced seizure-induced neuronal death. Thus, our data strongly suggest that miRNAs are important regulators of seizure-induced neuronal death.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21945804", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Preconditioning describes the ischemic stimulus that triggers an endogenous, neuroprotective response that protects the brain during a subsequent severe ischemic injury, a phenomenon known as 'tolerance'.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20010955", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1135, 
+            "offsetInEndSection": 1542, 
+            "text": "Downregulation of miR-132 is consistent with our finding that preconditioning ischemia induces a rapid increase in MeCP2 protein, but not mRNA, in mouse cortex. These studies reveal that ischemic preconditioning regulates expression of miRNAs and their predicted targets in mouse brain cortex, and further suggest that miRNAs and MeCP2 could serve as effectors of ischemic preconditioning-induced tolerance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20010955", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Huntington's disease (HD) is a genetic neurodegenerative disease caused by abnormal CAG expansion. MicroRNAs (miRNAs) are short RNA molecules regulating gene expression, and are implicated in a variety of diseases including HD.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21035445", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1117, 
+            "offsetInEndSection": 1302, 
+            "text": "Nine miRNAs (miR-22, miR-29c, miR-128, miR-132, miR-138, miR-218, miR-222, miR-344, and miR-674*) were commonly down-regulated in both the 12-month-old YAC128 and 10-week-old R6/2 mice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21035445", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1459, 
+            "offsetInEndSection": 1599, 
+            "text": "transgenic HD mice have abnormal miRNA biogenesis. This information should aid in future studies on therapeutic application of miRNAs in HD.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21035445", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 976, 
+            "offsetInEndSection": 1630, 
+            "text": "miR-132 directly targets the neuronal splicing factor polypyrimidine tract-binding protein 2 (PTBP2), which protein levels were increased in PSP patients. miR-132 overexpression or PTBP2 knockdown similarly affected endogenous 4R:3R-tau ratios in neuronal cells. Finally, we provide evidence that miR-132 is inversely correlated with PTBP2 during post-natal brain development at the time when 4R-tau becomes expressed. Taken together, these results suggest that changes in the miR-132/PTBP2 pathway could contribute to the abnormal splicing of tau exon 10 in the brain, and sheds light into the potential role played by miRNAs in a subset of tauopathies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21807765", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 7, 
+            "offsetInEndSection": 545, 
+            "text": "reports of microRNA (miR) modulators of both neuronal and immune processes (here termed NeurimmiRs) predict therapeutic potential for manipulating NeurimmiR levels in diseases affecting both the immune system and higher brain functions, such as Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS) and anxiety-related disorders. In our opinion, NeurimmiRs that function within both the nervous and the immune systems, such as miR-132 and miR-124, may act as 'negotiators' between these two interacting compartments.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21813326", 
+            "endSection": "sections.0"
+        }
+    ]
+}

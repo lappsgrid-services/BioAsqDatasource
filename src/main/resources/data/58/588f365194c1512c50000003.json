@@ -1,0 +1,130 @@
+{
+    "body": "What is the doRiNA database?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25416797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22086949"
+    ], 
+    "ideal_answer": [
+        "doRina is a database of RNA interactions in post-transcriptional regulation."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D030561", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012323"
+    ], 
+    "type": "summary", 
+    "id": "588f365194c1512c50000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "doRiNA: a database of RNA interactions in post-transcriptional regulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 394, 
+            "offsetInEndSection": 1242, 
+            "text": " We provide a database that supports the quest for deciphering this regulatory code. Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs. Users are free to take a target (mRNA) or regulator (RBP and/or miRNA) centric view on the data. We have implemented a database framework with short query response times for complex searches (e.g. asking for all targets of a particular combination of regulators). All search results can be browsed, inspected and analyzed in conjunction with a huge selection of other genome-wide data, because our database is directly linked to a local copy of the UCSC genome browser. At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes. For computational miRNA target site predictions, we provide an update of PicTar predictions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "DoRiNA 2.0--upgrading the doRiNA database of RNA interactions in post-transcriptional regulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25416797", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1050, 
+            "offsetInEndSection": 1140, 
+            "text": "At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 475, 
+            "offsetInEndSection": 584, 
+            "text": "Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "doRiNA: a database of RNA interactions in post-transcriptional regulation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 587, 
+            "text": "Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1059, 
+            "offsetInEndSection": 1148, 
+            "text": "At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 589, 
+            "text": "Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1059, 
+            "offsetInEndSection": 1150, 
+            "text": "At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 588, 
+            "text": "Within doRiNA, we are systematically curating, storing and integrating binding site data for RBPs and miRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1059, 
+            "offsetInEndSection": 1149, 
+            "text": "At the time of writing, doRiNA encompasses RBP data for the human, mouse and worm genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "DoRiNA 2.0--upgrading the doRiNA database of RNA interactions in post-transcriptional regulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25416797", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "doRiNA: a database of RNA interactions in post-transcriptional regulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22086949", 
+            "endSection": "title"
+        }
+    ]
+}

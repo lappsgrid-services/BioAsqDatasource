@@ -1,0 +1,246 @@
+{
+    "body": "Which are the symptoms of glucose-6-phosphate dehydrogenase (G6PD) deficiency?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24865682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24372186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11233775", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20684792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21336800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16450734", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19086137", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25079187", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25116429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25949934", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21302115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23961874", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23640458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10745013", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24891465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18094574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21784438", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12737943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26275698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22829586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24636884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18450407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11271380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26840990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20194698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9088998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10698963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25807896", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22139979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11793482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23874768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11261779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10980404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/750548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24711919", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20065266", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19769422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11842483"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/uniprot/P11413", 
+            "o": "http://purl.uniprot.org/uniprot/P11413"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017757", 
+            "o": "G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_503131343133004B", 
+            "o": "G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017757", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8256485"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://linkedlifedata.com/resource/drugbank/molecule/1799", 
+            "o": "http://purl.uniprot.org/uniprot/P11413"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/drugbank/molecule/1799", 
+            "o": "Glucose-6-phosphate 1-dehydrogenase"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/uniprot/P11413", 
+            "o": "G6PD_HUMAN"
+        }
+    ], 
+    "ideal_answer": [
+        "Glucose-6-phosphate dehydrogenase deficiency (G6PD deficiency) is the most common red blood cell (RBC) enzyme disorder. The decrease as well as the absence of the enzyme increase RBC vulnerability to oxidative stress caused by exposure to certain medications or intake of fava beans. Among the most common symptoms of this condition are:\n1) acute hemolysis, \n2) chronic hemolysis, \n3) neonatal hyperbilirubinemia."
+    ], 
+    "exact_answer": [
+        [
+            "acute hemolysis"
+        ], 
+        [
+            "chronic hemolysis"
+        ], 
+        [
+            "neonatal hyperbilirubinemia"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/G6PD_BUCAI", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2862", 
+        "http://www.uniprot.org/uniprot/G6PD_CERCA", 
+        "http://www.uniprot.org/uniprot/G6PD_CRIGR", 
+        "http://www.uniprot.org/uniprot/G6PD_ECOLI", 
+        "http://www.uniprot.org/uniprot/G6PD_EMENI", 
+        "http://www.uniprot.org/uniprot/G6PD_BUCAP", 
+        "http://www.uniprot.org/uniprot/G6PD_HUMAN", 
+        "http://www.uniprot.org/uniprot/G6PD_ZYMMO", 
+        "http://www.uniprot.org/uniprot/G6PD_MACRO", 
+        "http://amigo.geneontology.org/amigo/term/GO:0004345", 
+        "http://www.uniprot.org/uniprot/G6PD_ENCCU", 
+        "http://www.uniprot.org/uniprot/G6PD_TAKRU", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005954", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005955", 
+        "http://www.uniprot.org/uniprot/G6PD_HAEIN", 
+        "http://www.uniprot.org/uniprot/G6PD_CYBJA", 
+        "http://www.uniprot.org/uniprot/G6PD_ECO57", 
+        "http://www.uniprot.org/uniprot/G6PD_DIDVI", 
+        "http://www.uniprot.org/uniprot/G6PD_AGGAC", 
+        "http://www.uniprot.org/uniprot/G6PD_HELPY", 
+        "http://www.uniprot.org/uniprot/G6PD_BOSIN", 
+        "http://www.uniprot.org/uniprot/G6PD_GLUOX", 
+        "http://www.uniprot.org/uniprot/G6PD_HELPJ", 
+        "http://www.uniprot.org/uniprot/G6PD_NOSP7"
+    ], 
+    "type": "list", 
+    "id": "58c6665602b8c60953000024", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 466, 
+            "text": "Glucose-6-phosphate dehydrogenase deficiency (G6PD deficiency) is the most common red blood cell (RBC) enzyme disorder. The decrease as well as the absence of the enzyme increase RBC vulnerability to oxidative stress caused by exposure to certain medications or intake of fava beans. Among the most common clinical manifestations of this condition, acute hemolysis, chronic hemolysis, neonatal hyperbilirubinemia, and an asymptomatic form are observed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25079187", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 330, 
+            "text": "Red blood cells carry oxygen in the body and Glucose-6-Phosphate Dehydrogenase protects these cells from oxidative chemicals. If there is a lack of Glucose-6-Phosphate Dehydrogenase, red blood cells can go acute hemolysis. Convulsion is a rare presentation for acute hemolysis due to Glucose-6-Phosphate Dehydrogenase deficiency. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24711919", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 376, 
+            "offsetInEndSection": 851, 
+            "text": "By far the most common form worldwide is the Glucose-6-phosphate deficiency. In the most frequent variants of this disease hemolysis occurs only during stress, imposed for example by infection, \"oxidative\" drugs or after ingestion of fava beans. The most serious clinical complication of the Glucose-6-phosphate deficiency is the rarely observed neonatal icterus. Some enzyme variants can cause chronic hemolysis which is described as chronic nonsperocytic hemolytic anemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16450734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 194, 
+            "offsetInEndSection": 367, 
+            "text": "One limitation of primaquine is that, at certain doses, primaquine can cause hemolytic anemia in individuals with glucose-6-phosphate dehydrogenase (G6PD) deficiency (G6PDd)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24891465", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a common human enzymopathy that affects cellular redox status and may lower flux into nonoxidative pathways of glucose metabolism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22829586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 279, 
+            "offsetInEndSection": 505, 
+            "text": "The 6PGD deficiency was associated with a variable reticulocyte count and recurrent increased unconjugated bilirubinemia without anemia in the propositus, while no clinical or hematological symptoms were evident in her mother.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11233775", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2121, 
+            "offsetInEndSection": 2644, 
+            "text": "The authors of this article make 5 particular recommendations: (1) Anyone suspected of G6PD deficiency should be screened; (2) exposure to oxidative stressors in these individuals should be avoided; (3) these patients should be informed of risks along with signs and symptoms of an acute hemolytic crisis; (4) the clinician should be able to identify both laboratory and clinical signs of hemolysis; and finally, (5) if an acute hemolytic crisis is identified, the patient should be admitted for close observation and care.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19769422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 816, 
+            "text": "None of the patients with or without G6PD deficiency showed symptoms, signs, or laboratory findings indicating hemolysis before administration of the drug and 4 days thereafter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9088998", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 229, 
+            "text": "Kinetic and electrophoretic properties of 230--300 fold purified preparations of glucose-6-phosphate dehydrogenase (G6PD) from red cells of donors and patients with acute drug hemolytic anemia due to G6PD deficiency were studied.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive disorder in which haemolytic anaemia is the major symptom.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11271380", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive genetic defect that can cause hemolytic crisis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25116429", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 110, 
+            "offsetInEndSection": 245, 
+            "text": "However, its use is contraindicated in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency (risk for haemolytic anaemia).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25807896", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 61, 
+            "offsetInEndSection": 192, 
+            "text": "The role of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the development of stroke in children with SCA is controversial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26840990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive hemolytic anemia caused by a mutation in the G6PD gene on Xq28.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26275698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Antiplatelet and invasive treatment in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency and acute coronary syndrome. The safety of aspirin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25807896", 
+            "endSection": "title"
+        }
+    ]
+}

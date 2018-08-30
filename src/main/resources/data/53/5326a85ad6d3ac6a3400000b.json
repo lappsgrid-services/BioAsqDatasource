@@ -1,0 +1,662 @@
+{
+    "body": "What does polyadenylate-binding protein 4 (PABP4) bind to?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23938467", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18467502", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21518916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22884093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23300856", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14717712", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21940797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18753244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20943973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22896784", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15676026"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q13310", 
+            "o": "http://linkedlifedata.com/resource/#_5131333331300025"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300025", 
+            "o": "APP1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300022", 
+            "o": "iPABP"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300020", 
+            "o": "Poly(A)-binding protein 4"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300022", 
+            "o": "Inducible poly(A)-binding protein"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300020", 
+            "o": "Polyadenylate-binding protein 4"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300020", 
+            "o": "PABP-4"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300025", 
+            "o": "PABPC4"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300025", 
+            "o": "PABP4"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300021", 
+            "o": "Activated-platelet protein 1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333331300021", 
+            "o": "APP-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927101", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11699170"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955911", 
+            "o": "POLY(A)-BINDING PROTEIN 4"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955910", 
+            "o": "PABP4"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941488", 
+            "o": "IPABP"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11642134"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12027436"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11955911"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11680182", 
+            "o": "APP-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17710125"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11955910"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11970208", 
+            "o": "APP1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12013050", 
+            "o": "PABPC4"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11941487"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6903365", 
+            "o": "PABPC4 gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11699170", 
+            "o": "iPABP"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927101", 
+            "o": "POLYADENYLATE-BINDING PROTEIN, CYTOPLASMIC, 4"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11998978"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11941488"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11927101"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12013050"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941487", 
+            "o": "POLYADENYLATE-BINDING PROTEIN, INDUCIBLE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17710126"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11998978", 
+            "o": "POLYADENYLATE-BINDING PROTEIN 4"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11970208"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11955910"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11642134", 
+            "o": "poly(A) binding protein, cytoplasmic 4 (inducible form)"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12027436", 
+            "o": "ACTIVATED-PLATELET PROTEIN 1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6903365"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1418230", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11680182"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941487", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941488", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955910", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955911", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11970208", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11998978", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12013050", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12027436", 
+            "o": "603407"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11642134", 
+            "o": "8557"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11680182", 
+            "o": "8557"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11699170", 
+            "o": "8557"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17710125", 
+            "o": "8557"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17710126", 
+            "o": "8557"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11642134", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11680182", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11699170", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17710125", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17710126", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927101", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941487", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11941488", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955910", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11955911", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11970208", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11998978", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12013050", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12027436", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373587", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2373587"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8606969", 
+            "o": "APP1 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831883", 
+            "o": "poly(A)-binding protein 4, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373607", 
+            "o": "inducible PABP, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2374397", 
+            "o": "poly(A)-binding protein, cytoplasmic 4 (inducible form), human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831853", 
+            "o": "PABPC4 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2374397"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3839562", 
+            "o": "activated-platelet protein-1, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3845291", 
+            "o": "APP-1 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8596234"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3831853"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3831883"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2373607"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373587", 
+            "o": "iPABP protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8596234", 
+            "o": "PABP4 protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8606969"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8596234"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3845291"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0536210", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3839562"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373607", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2374397", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831853", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831883", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3839562", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3845291", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8596234", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8606969", 
+            "o": "C104581"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373587", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2373607", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2374397", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831853", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3831883", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3839562", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3845291", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8596234", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8606969", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "PABP4  binds mRNA poly(A) tails."
+    ], 
+    "exact_answer": [
+        "PABP4  binds mRNA poly(A) tails."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006378", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D026723", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005515", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011061", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043631", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011485", 
+        "http://www.uniprot.org/uniprot/PABP4_HUMAN", 
+        "http://www.biosemantics.org/jochem#4249823", 
+        "http://www.uniprot.org/uniprot/PABP_DROME", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008143", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D039221"
+    ], 
+    "type": "factoid", 
+    "id": "5326a85ad6d3ac6a3400000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 543, 
+            "offsetInEndSection": 563, 
+            "text": "RNA binding proteome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23938467", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 104, 
+            "text": "In vertebrates, poly(A) binding protein (PABP) is known to exist in five different isoforms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300856", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Cytoplasmic poly(A)-binding proteins (PABPs) regulate mRNA stability and translation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22896784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 367, 
+            "offsetInEndSection": 420, 
+            "text": " poly(A) binding proteins 1 and 4 (PABPC1 and PABPC4)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20943973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Cytoplasmic poly(A) binding protein 4 (PABPC4) is an RNA-processing protein that plays an important role in the regulation of gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22884093", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 38, 
+            "text": "Cytoplasmic poly(A) binding protein 4 ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22884093", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 363, 
+            "text": "poly(A)-binding protein (PABP) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15676026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "Poly(A) binding protein (PABP) binds mRNA poly(A) tails ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14717712", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 254, 
+            "offsetInEndSection": 355, 
+            "text": "Using mass spectrometry sequencing we identified poly(A) binding proteins-1 and -4 (PABP1 and PABP4) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18467502", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "The poly(A)-binding protein (PABP) is an important translation initiation factor that binds to the polyadenylated 3' end of mRNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18753244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 252, 
+            "text": "A family of cytoplasmic poly(A)-binding proteins (PABPs) bind the poly(A) tail and can regulate mRNA translation and stability. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21518916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "Human PABP binds AU-rich RNA via RNA-binding domains 3 and 4.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14717712", 
+            "endSection": "title"
+        }
+    ]
+}

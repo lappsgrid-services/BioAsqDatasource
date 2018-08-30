@@ -1,0 +1,52 @@
+{
+    "body": "Is MammaPrint cleared by the United States Food and Drug Administration? ", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19506735", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21479927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18786252"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17680439", 
+            "o": "MammaPrint"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2827401", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17680439"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F383737393600D", 
+            "o": "fda"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4530503539300011", 
+            "o": "fda"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. MammaPrint is cleared by the FDA for breast cancer recurrence."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017322", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017321", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017327", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017326"
+    ], 
+    "type": "yesno", 
+    "id": "5168023b298dcd4e51000061", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1350, 
+            "offsetInEndSection": 1539, 
+            "text": "Real-time RT-PCR confirmed the 5-gene prognostic signature that was distinct from an FDA-cleared 70-gene signature of MammaPrint panel and from the Oncotype DX recurrence score assay panel.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21479927", 
+            "endSection": "sections.0"
+        }
+    ]
+}

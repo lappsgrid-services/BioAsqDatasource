@@ -1,0 +1,353 @@
+{
+    "body": "With which complexes is the protein SUS1 associated?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24705649", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20395473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20434206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20230609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22499857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25526805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21749979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24509845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22771212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20007317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23599000"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/B4UN38", 
+            "o": "http://linkedlifedata.com/resource/#_4234554E3338005"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/B4UN38", 
+            "o": "http://linkedlifedata.com/resource/#_4234554E3338004"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4234554E3338005", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4234554E3338004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/B5RSM1", 
+            "o": "http://linkedlifedata.com/resource/#_423552534D31005"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_423552534D31005", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/B5RSM1", 
+            "o": "http://linkedlifedata.com/resource/#_423552534D31004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_423552534D31004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q5KHW5", 
+            "o": "http://linkedlifedata.com/resource/#_51354B485735007"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51354B485735007", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q5KHW5", 
+            "o": "http://linkedlifedata.com/resource/#_51354B485735006"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51354B485735006", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6BMU6", 
+            "o": "http://linkedlifedata.com/resource/#_5136424D5536005"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5136424D5536005", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136424D5536004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q6BMU6", 
+            "o": "http://linkedlifedata.com/resource/#_5136424D5536004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6CVU7", 
+            "o": "http://linkedlifedata.com/resource/#_513643565537005"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513643565537005", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513643565537004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q6CVU7", 
+            "o": "http://linkedlifedata.com/resource/#_513643565537004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q75BB0", 
+            "o": "http://linkedlifedata.com/resource/#_513735424230005"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q75BB0", 
+            "o": "http://linkedlifedata.com/resource/#_513735424230004"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513735424230005", 
+            "o": "SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513735424230004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q7LL15", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51374C4C3135004", 
+            "o": "Protein sus1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q7LL15", 
+            "o": "http://linkedlifedata.com/resource/#_51374C4C3135004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/A5DG59", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413544473539004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A5DG59", 
+            "o": "http://linkedlifedata.com/resource/#_413544473539004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/A5E092", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413545303932004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A5E092", 
+            "o": "http://linkedlifedata.com/resource/#_413545303932004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/A6ZL57", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_41365A4C3537004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A6ZL57", 
+            "o": "http://linkedlifedata.com/resource/#_41365A4C3537004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/B3LN41", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/B3LN41", 
+            "o": "http://linkedlifedata.com/resource/#_42334C4E3431005"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_42334C4E3431005", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/B4UN38", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/B5RSM1", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q5ADP6", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q5ADP6", 
+            "o": "http://linkedlifedata.com/resource/#_513541445036004"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513541445036004", 
+            "o": "Protein SUS1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q5KHW5", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q6BMU6", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q6CVU7", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q75BB0", 
+            "o": "true"
+        }
+    ], 
+    "ideal_answer": [
+        "Sus1/ENY2 is a component of the SAGA and TREX-2 complexes"
+    ], 
+    "exact_answer": [
+        [
+            "SAGA complex"
+        ], 
+        [
+            "TREX-2 complex"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56b773a96e3f8eaf4c000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 373, 
+            "text": "The yeast DUBm comprises a catalytic subunit, Ubp8, and three additional subunits, Sgf11, Sus1 and Sgf73, all of which are required for DUBm activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25526805", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 243, 
+            "offsetInEndSection": 337, 
+            "text": "the deubiquitination module (DUBm) of SAGA, which is composed of Ubp8, Sus1, Sgf11, and Sgf73.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24509845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "The conserved Sac3:Thp1:Sem1:Sus1:Cdc31 (TREX2) complex binds to nuclear pore complexes (NPCs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24705649", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 295, 
+            "text": "Sus1 (hENY2) participates in this coordination as part of two protein complexes: SAGA, a transcriptional co-activator; TREX-2, which functions in mRNA biogenesis and export.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23599000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "The deubiquitinating module (DUBm) of the SAGA coactivator contains the Ubp8 isopeptidase, Sgf11, Sus1, and Sgf73, which form a highly interconnected complex. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22771212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 87, 
+            "offsetInEndSection": 193, 
+            "text": "Sus1/ENY2, a component of the SAGA and TREX-2 complexes, is involved in both transcription and mRNA export", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21749979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 307, 
+            "text": "Sus1 is a component of both the SAGA transcriptional co-activator complex and the TREX-2 complex that binds to nuclear pore complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20007317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 388, 
+            "text": " distinct subcomplex called the deubiquitinating module (DUBm), which contains the ubiquitin-specific protease Ubp8, bound to Sgf11, Sus1, and Sgf73.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20395473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 431, 
+            "text": "The yeast deubiquitinase Ubp8 protein is recruited and activated by the SAGA complex and, together with Sgf11, Sus1, and Sgf73, forms a DUB module responsible for deubiquitinating histone H2B during gene expression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20434206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 443, 
+            "text": "In the nucleus, Sus1 is associated to the transcriptional co-activator SAGA and to the NPC associated complex termed TREX2/THSC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20230609", 
+            "endSection": "abstract"
+        }
+    ]
+}

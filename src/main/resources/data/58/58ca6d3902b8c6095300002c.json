@@ -1,0 +1,227 @@
+{
+    "body": "Which diseases are associated with Primary intestinal lymphangiectasia (PIL)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26934740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22110841", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23626516", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26405709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15229406", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16292099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20812055", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17900962", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18294365", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26908672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26027272"
+    ], 
+    "ideal_answer": [
+        "Primary intestinal lymphangiectasia (PIL) is associated with:\n1) Waldmann's disease and\n2) Hennekam syndrome (HS)."
+    ], 
+    "exact_answer": [
+        [
+            "Waldmann's disease"
+        ], 
+        [
+            "Hennekam syndrome", 
+            "HS"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008201", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008200", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2402", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007413", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007410", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194"
+    ], 
+    "type": "list", 
+    "id": "58ca6d3902b8c6095300002c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "Primary intestinal lymphangiectasia (PIL), also known as Waldmann's disease, is an exudative enteropathy resulting from morphologic abnormalities in the intestinal lymphatics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26908672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Secondary hypogammaglobulinemia in Waldmann's disease treated with subcutaneous immunoglobulins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26934740", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Octreotide in Hennekam syndrome-associated intestinal lymphangiectasia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 97, 
+            "offsetInEndSection": 250, 
+            "text": "Primary intestinal lymphangiectasia (PIL) is one mechanism leading to PLE. Few syndromes are associated with PIL; Hennekam syndrome (HS) is one of them. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 530, 
+            "offsetInEndSection": 617, 
+            "text": "There are no publications on the treatment of PIL with octreotide in patients with HS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1169, 
+            "offsetInEndSection": 1275, 
+            "text": "To the best of our knowledge, this is the first case report on the use of octreotide in HS-associated PIL.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 308, 
+            "text": "Primary intestinal lymphangiectasia (PIL), also known as Waldmann's disease, is a rare disorder characterized by dilated intestinal lacteals resulting in lymph leakage into the small bowel lumen and responsible for protein-losing enteropathy leading to lymphopenia, hypoalbuminemia and hypogammaglobulinemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20812055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Primary intestinal lymphangiectasia (Waldmann's disease).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18294365", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 101, 
+            "text": "Limb lymphedema as a first manifestation of primary intestinal lymphangiectasia (Waldmann's disease)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15229406", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Primary intestinal lymphangiectasia (Waldmann's disease) is characterized by protein-losing enteropathy occurring more frequently in childhood. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15229406", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "Primary intestinal lymphangiectasia (PIL), also known as Waldmann's disease, is an exudative enteropathy resulting from morphologic abnormalities in the intestinal lymphatics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26908672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "Primary intestinal lymphangiectasia (PIL), so-called Waldmann's disease, is an uncommon condition, characterized by dilated intestinal submucosal and subserosal lymphatics of the gastrointestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16292099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Primary intestinal lymphangiectasia (PIL) or Waldmann's disease is a rare protein-losing gastroenteropathy of unknown etiology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23626516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 306, 
+            "text": "Primary intestinal lymphangiectasia (PIL), also known as Waldmanns disease, is a rare disorder characterized by dilated intestinal lacteals resulting in lymph leakage into the small bowel lumen and responsible for protein-losing enteropathy leading to lymphopenia, hypoalbuminemia and hypogammaglobulinemia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20812055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Primary intestinal lymphangiectasia (PIL) or Waldmanns disease is a rare protein-losing gastroenteropathy of unknown etiology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23626516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "Primary intestinal lymphangiectasia (PIL), so-called Waldmanns disease, is an uncommon condition, characterized by dilated intestinal submucosal and subserosal lymphatics of the gastrointestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16292099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 361, 
+            "text": "Primary intestinal lymphangiectasia (Waldmanns disease) is a rare disease characterized by dilated lymphatics in the small bowel leading to an exudative enteropathy with lymphopenia, hypoalbuminemia and hypogammaglobulinemia.We report the case of a 23 year-old male who presented with chronic anemia and in whom primary intestinal lymphangiectasia was diagnosed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26405709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Primary intestinal lymphangiectasis (PIL), also known as Waldmanns disease, is a rare protein-losing enteropathy characterized by abnormal enlargement of the lymphatic ducts in the bowel wall", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17900962", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 250, 
+            "text": "Few syndromes are associated with PIL; Hennekam syndrome (HS) is one of them. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 309, 
+            "text": "Primary intestinal lymphangiectasia (PIL), also known as Waldmann's disease, is a rare disorder characterized by dilated intestinal lacteals resulting in lymph leakage into the small bowel lumen and responsible for protein-losing enteropathy leading to lymphopenia, hypoalbuminemia and hypogammaglobulinemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20812055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Primary intestinal lymphangiectasia (Waldmann's disease) is characterized by protein-losing enteropathy occurring more frequently in childhood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15229406", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 58, 
+            "text": "Primary intestinal lymphangiectasia (Waldmann's disease).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18294365", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Octreotide in Hennekam syndrome-associated intestinal lymphangiectasia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23180957", 
+            "endSection": "title"
+        }
+    ]
+}

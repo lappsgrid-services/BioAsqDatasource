@@ -1,0 +1,176 @@
+{
+    "body": "Which molecule is targeted by the drug Gevokizumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24194526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25108619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25079039", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22084392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21048425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21154167", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22699287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23729309"
+    ], 
+    "ideal_answer": [
+        "Gevokizumab is an allosteric anti-IL-1\u03b2 monoclonal antibody."
+    ], 
+    "exact_answer": [
+        "IL-1\u03b2"
+    ], 
+    "type": "factoid", 
+    "id": "550e828c71445a662f000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Detailed mechanistic analysis of gevokizumab, an allosteric anti-IL-1\u03b2 antibody with differential receptor-modulating properties.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24194526", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 533, 
+            "text": "Gevokizumab is a potent anti-IL-1\u03b2 antibody being developed as a treatment for diseases in which IL-1\u03b2 has been associated with pathogenesis. Previous data indicated that gevokizumab negatively modulates IL-1\u03b2 signaling through an allosteric mechanism. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24194526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1575, 
+            "offsetInEndSection": 1763, 
+            "text": "These data indicate, therefore, that gevokizumab is a unique inhibitor of IL-1\u03b2 signaling that may offer an alternative to current therapies for IL-1\u03b2-associated autoinflammatory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24194526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1484, 
+            "offsetInEndSection": 1751, 
+            "text": "Most recently, rising evidence reports on the use of adalimumab, etanercept, and golimumab, while use of anti-interleukin (IL)-1 agents (anakinra, canakinumab, gevokizumab), IL-6 blockers (tocilizumab), and rituximab (depleting anti-CD20 antibody) is also increasing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23729309", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "One target-two different binding modes: structural insights into gevokizumab and canakinumab interactions to interleukin-1\u03b2.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 363, 
+            "text": "Canakinumab and gevokizumab are highly specific IL-1\u03b2 monoclonal antibodies. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 504, 
+            "offsetInEndSection": 927, 
+            "text": "Gevokizumab is claimed to be a regulatory therapeutic antibody that modulates IL-1\u03b2 bioactivity by reducing the affinity for its IL-1RI:IL-1RAcP signaling complex. How IL-1\u03b2 signaling is affected by both canakinumab and gevokizumab was not yet experimentally determined. We have analyzed the crystal structures of canakinumab and gevokizumab antibody binding fragment (Fab) as well as of their binary complexes with IL-1\u03b2. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1603, 
+            "offsetInEndSection": 1815, 
+            "text": "In contrast, gevokizumab occupies an allosteric site on IL-1\u03b2 and complex formation results in a minor reduction of binding affinity to IL-1RI. This suggests two different mechanisms of IL-1\u03b2 pathway attenuation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 215, 
+            "text": "Gevokizumab is a novel, human-engineered monoclonal anti-IL-1\u03b2 antibody. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Interleukin-1\u03b2-regulating antibody XOMA 052 (gevokizumab) in the treatment of acute exacerbations of resistant uveitis of Behcet's disease: an open-label pilot study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22084392", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 131, 
+            "offsetInEndSection": 341, 
+            "text": "This pilot study aimed to evaluate the safety, pharmacokinetics and clinical activity of XOMA 052 (gevokizumab), a recombinant humanised anti-interleukin 1\u03b2 antibody, in Beh\u00e7et's disease patients with uveitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22084392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Gevokizumab, an anti-IL-1\u03b2 mAb for the potential treatment of type 1 and 2 diabetes, rheumatoid arthritis and cardiovascular disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21154167", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 590, 
+            "text": "XOMA is developing gevokizumab (XOMA-052), an IgG2 humanized mAb against human IL-1\u03b2, for the potential treatment of these diseases. Gevokizumab has a high affinity for IL-1\u03b2 and a long t1/2, which would allow for once-monthly dosing and offer a considerable advantage for patients over agents requiring more frequent dosing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21154167", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 587, 
+            "offsetInEndSection": 771, 
+            "text": "To meet these challenges, we developed XOMA 052 (gevokizumab), a potent anti-IL-1\u03b2 neutralizing antibody that was designed in silico and humanized using Human Engineering\u2122 technology. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21048425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 721, 
+            "offsetInEndSection": 1080, 
+            "text": "In the present study, we measured the impact of gevokizumab on the IL-1\u03b2 system using Schild analysis and surface plasmon resonance studies, both of which demonstrated that gevokizumab decreases the binding affinity of IL-1\u03b2 for the IL-1 receptor type I (IL-1RI) signaling receptor, but not the IL-1 counter-regulatory decoy receptor (IL-1 receptor type II).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24194526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 283, 
+            "offsetInEndSection": 360, 
+            "text": "Canakinumab and gevokizumab are highly specific IL-1\u03b2 monoclonal antibodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 129, 
+            "offsetInEndSection": 202, 
+            "text": "Gevokizumab is a novel, human-engineered monoclonal anti-IL-1\u03b2 antibody.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 361, 
+            "text": "Canakinumab and gevokizumab are highly specific IL-1\u03b2 monoclonal antibodies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23041424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 131, 
+            "offsetInEndSection": 202, 
+            "text": "Gevokizumab is a novel, human-engineered monoclonal anti-IL-1\u03b2 antibody", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699287", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,621 @@
+{
+    "body": "Mutation of which gene is associated with Achondroplasia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10932008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10881785", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9115628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7702086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9949234", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15221641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20301331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12048679"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1308", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/ACH"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/ACH", 
+            "o": "ACH"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1308", 
+            "o": "Achondroplasia, 100800"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1308", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/FGFR3"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/FGFR3", 
+            "o": "FGFR3"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/FGFR3", 
+            "o": "http://www.dbpedia.org/resource/FGFR3"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/21", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/FGFR3"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/181", 
+            "o": "Achondroplasia"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/21", 
+            "o": "http://data.linkedct.org/resource/condition/181"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/181", 
+            "o": "Condition #181 (Achondroplasia)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949363", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963729", 
+            "o": "FGFR3, SER279CYS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949363", 
+            "o": "ACHONDROPLASIA, SER279CYS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851180", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11963729"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851180", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11949363"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851180", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11949363"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963729", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963716", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851148", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12035212"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851148", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12035212"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963716", 
+            "o": "FGFR3, GLY375CYS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035212", 
+            "o": "ACHONDROPLASIA, GLY375CYS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851148", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11963716"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035212", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949363", 
+            "o": "134934.0030"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963729", 
+            "o": "134934.0030"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949354", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851145", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11978035"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978035", 
+            "o": "FGFR3, GLY380ARG, 1138G-A"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949354", 
+            "o": "ACHONDROPLASIA, GLY380ARG, 1138G-A"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851145", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11949354"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978035", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949354", 
+            "o": "134934.0001"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978035", 
+            "o": "134934.0001"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963715", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851147", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11978036"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851147", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11963715"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963715", 
+            "o": "FGFR3, GLY380ARG, 1138G-C"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978036", 
+            "o": "ACHONDROPLASIA, GLY380ARG, 1138G-C"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978036", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963715", 
+            "o": "134934.0002"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11978036", 
+            "o": "134934.0002"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949362", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851177", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12035221"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035221", 
+            "o": "ACHONDROPLASIA, GLY380ARG AND LEU377ARG"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949362", 
+            "o": "FGFR3, GLY380ARG AND LEU377ARG"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851177", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11949362"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035221", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11963716", 
+            "o": "134934.0003"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035212", 
+            "o": "134934.0003"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658147", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595340", 
+            "o": "FGFR3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595339", 
+            "o": "FGFR3 Gene"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6914687"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17747128"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11705860"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658147", 
+            "o": "JTK4"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12020828"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16696395", 
+            "o": "fibroblast growth factor receptor 3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10805112"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16696395"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17715448"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11949353"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7595340"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020828", 
+            "o": "FIBROBLAST GROWTH FACTOR RECEPTOR 3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11677299", 
+            "o": "CD333"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7595339"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11677299"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11658147"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10805112", 
+            "o": "Fibroblast Growth Factor Receptor 3 (Achondroplasia, Thanatophoric Dwarfism) Gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11705860", 
+            "o": "CEK2"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1333543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18128733"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6914687", 
+            "o": "FGFR3 gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11677299", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11705860", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16696395", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17715448", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17747128", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949353", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020828", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18128733", 
+            "o": "LOINC"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949362", 
+            "o": "134934.0027"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12035221", 
+            "o": "134934.0027"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11949353", 
+            "o": "134934"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020828", 
+            "o": "134934"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658147", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11677299", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11705860", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16696395", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17715448", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17747128", 
+            "o": "3690"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10805112", 
+            "o": "C24393"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595339", 
+            "o": "C24393"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595340", 
+            "o": "C24393"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6914687", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18128733", 
+            "o": "LP19706-8"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10805112", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595339", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7595340", 
+            "o": "NCI Thesaurus"
+        }
+    ], 
+    "ideal_answer": [
+        "Achondroplasia is due to mutations in the fibroblast growth factor receptor 3 (FGFR3) gene."
+    ], 
+    "exact_answer": [
+        "fibroblast growth factor receptor 3 (FGFR3)"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000130", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796"
+    ], 
+    "type": "factoid", 
+    "id": "52b2e498f828ad283c000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 418, 
+            "offsetInEndSection": 707, 
+            "text": "She was subsequently diagnosed with hypochondroplasia at the age of 6 years when disproportional short stature, stocky habitus and macrocephaly were observed. These phenotypic findings were later confirmed by the presence of fibroblast growth factor receptor 3 (FGFR3) gene mutation N540K.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21225389", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 531, 
+            "offsetInEndSection": 819, 
+            "text": "Achondroplasia can be diagnosed by characteristic clinical and radiographic findings in most affected individuals. In individuals who may be too young to diagnose with certainty or in individuals with atypical findings, molecular genetic testing can be used to detect a mutation in FGFR3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20301331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 668, 
+            "text": "Achondroplasia comes from the genetic point mutations in the fibroblastic growth factor receptor 3 gene (FGFR3), which enables abnormal cartilage growth-plate differentiation and insufficient bony development. The most common genetic mutations in this receptor are G to A at position 1138 (G1138A), which result in the substitution of glycine to arginine at codon 380.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15221641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 23, 
+            "offsetInEndSection": 338, 
+            "text": "To investigate the mutation at the transmembrane domain of fibroblast growth factor receptor 3 (FGFR3) nucleotide 1138 site for identifying the major pathologic mechanism of achondroplasia (ACH) and to evaluate the efficacy of denaturing gradient gel electrophoresis(DGGE) method for screening the point mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12048679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1051, 
+            "offsetInEndSection": 1180, 
+            "text": "Nucleotide 1138 in transmembrane domain of FGFR3 gene is the hot point for mutation in ACH and hence its major pathologic cause. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12048679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 834, 
+            "offsetInEndSection": 1050, 
+            "text": "The nucleotide 1138 of FGFR3 gene is also the hotspot of mutation in Chinese patients with ACH. A simple and rapid molecular diagnostic method has been set up to differentiate ACH from other similar genetic dwarfism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10932008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 313, 
+            "offsetInEndSection": 580, 
+            "text": "The diagnosis of achondroplasia was based on the presence of clinical and radiographic findings and confirmed by the presence of a common FGFR3 gene mutation (Gly380Arg) detected by restriction enzyme analysis and sequencing of the polymerase chain reaction products.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10881785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 407, 
+            "text": "All patients carried the same glycine-to-arginine mutation at codon 380(G380R) of the transmembrane domain of FGFR3. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9949234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 420, 
+            "offsetInEndSection": 728, 
+            "text": "The results suggest that the G380R mutation of FGFR3 is also a frequent mutation causing achondroplasia in Chinese. Detecting FGFR 3 gene mutation with PCR-SSCP and restriction enzymes analysis is a convenient, rapid and reliable molecular diagnostic assay for prenatal and early diagnosis of achondroplasia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9949234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 160, 
+            "text": "To evaluate whether mutation in the exon 10 of the fibroblast growth factor receptor 3(FGFR3) gene in common in Chinese patients with achondroplasia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9949234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 353, 
+            "text": "Achondroplasia (ACH) is the most frequent form of short-limb dwarfism. Recently, the gene mutation responsible for ACH has been identified in the transmembrane domain of the fibroblast growth factor receptor 3 gene. The cause of ACH is a point mutation at nucleotide 1138 of the cDNA, resulting in the substitution of an arginine residue for a glycine. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9115628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 243, 
+            "offsetInEndSection": 420, 
+            "text": "Recent studies mapped the achondroplasia gene on chromosome region 4p16.3 and identified a common mutation in the gene encoding the fibroblast growth factor receptor 3 (FGFR3). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7702086", 
+            "endSection": "abstract"
+        }
+    ]
+}

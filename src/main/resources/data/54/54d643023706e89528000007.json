@@ -1,0 +1,223 @@
+{
+    "body": "Which is the protein that is encoded by the gene GLT8D1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24114764", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24373612"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/C9JY96", 
+            "o": "http://linkedlifedata.com/resource/#_43394A593936009"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_43394A593936009", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/E1BX23", 
+            "o": "http://linkedlifedata.com/resource/#_45314258323300A"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_45314258323300A", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R48393932"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755359", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11706170"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658430", 
+            "o": "FLJ14611"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8264788"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11706170", 
+            "o": "AD-017"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17755360"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11696627"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8264788"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17755359"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11658430"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11696627", 
+            "o": "glycosyltransferase 8 domain containing 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755360", 
+            "o": "GLT8D1 gene"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539576", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R58757016"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/E7EMX8", 
+            "o": "http://linkedlifedata.com/resource/#_4537454D5838009"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4537454D5838009", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q5E9E7", 
+            "o": "http://linkedlifedata.com/resource/#_513545394537009"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513545394537009", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513545394537007", 
+            "o": "Glycosyltransferase 8 domain-containing protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658430", 
+            "o": "24870"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11696627", 
+            "o": "24870"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11706170", 
+            "o": "24870"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755359", 
+            "o": "24870"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755360", 
+            "o": "24870"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11658430", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11696627", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11706170", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755359", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17755360", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/C9J6X9", 
+            "o": "http://linkedlifedata.com/resource/#_43394A365839009"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_43394A365839009", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/C9JBQ1", 
+            "o": "http://linkedlifedata.com/resource/#_43394A42513100A"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_43394A42513100A", 
+            "o": "GLT8D1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R115194348", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1539576"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R58757016", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1539576"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R115162264", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1539576"
+        }
+    ], 
+    "ideal_answer": [
+        "The GLT8D1 gene codes for the protein named glycosyltransferase 8 domain containing 1"
+    ], 
+    "exact_answer": [
+        "glycosyltransferase 8 domain containing 1"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016757", 
+        "http://www.uniprot.org/uniprot/GL8D1_DANRE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016695", 
+        "http://www.uniprot.org/uniprot/GL8D1_BOVIN"
+    ], 
+    "type": "factoid", 
+    "id": "54d643023706e89528000007"
+}

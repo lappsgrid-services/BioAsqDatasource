@@ -1,0 +1,181 @@
+{
+    "body": "Which substances are dangerous to g6PD deficient individuals?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23690191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22963789", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17355169", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22018328", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23664599", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23874116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23275730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23282778", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22171972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23483616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23065279"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020866", 
+            "o": "134700"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020866", 
+            "o": "FAVISM, SUSCEPTIBILITY TO"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851319", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12020866"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2385", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/G6PD", 
+            "o": "G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2385", 
+            "o": "http://purl.org/net/tcm/tcm.lifescience.ntu.edu.tw/id/disease/Favism"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/398", 
+            "o": "http://data.linkedct.org/resource/condition/4823"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/G6PD", 
+            "o": "http://purl.org/net/tcm/tcm.lifescience.ntu.edu.tw/id/gene/G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/4823", 
+            "o": "Condition #4823 (Favism)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/4823", 
+            "o": "Favism"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2385", 
+            "o": "http://data.linkedct.org/resource/condition/4823"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/398", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12020866", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "UMLS_CUI:C0015702"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "Favism (disorder)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "favism"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "NCI2009_04D:C34607"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "SNOMEDCT_2010_1_31:267558001"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "SNOMEDCT_2010_1_31:191172001"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "SNOMEDCT_2010_1_31:154801000"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "MSH2010_2010_02_22:D005236"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13628", 
+            "o": "SNOMEDCT_2010_1_31:76500009"
+        }
+    ], 
+    "ideal_answer": [
+        "Antimalarial drugs (primaquine, pamaquine, chloriquine), fava beans, sulfonamides, some antibiotics( nalidixic acid, nitrofurantoin, isoniazid, dapsone, and furazolidone) and henna"
+    ], 
+    "exact_answer": [
+        [
+            "primaquine"
+        ], 
+        [
+            "pamaquine"
+        ], 
+        [
+            "chloroquine"
+        ], 
+        [
+            "fava beans"
+        ], 
+        [
+            "sulfonamides"
+        ], 
+        [
+            "antibiotics"
+        ], 
+        [
+            "henna"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005955", 
+        "http://www.uniprot.org/uniprot/FGD_BEUC1", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004345", 
+        "http://www.uniprot.org/uniprot/G6PD_BACSU", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007206"
+    ], 
+    "type": "list", 
+    "id": "5314b20bdae131f847000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 940, 
+            "offsetInEndSection": 1000, 
+            "text": "The principal clinical manifestation encountered was favism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23065279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 349, 
+            "text": "G6PD deficiency is the most common enzymopathy of red blood cells. The clinical symptoms of favism are jaundice, hematuria and haemolytic anaemia that seem to affect liver and kidney in long term. Thus we evaluate kidney and liver function of favism patients in an endemic area of the disease with a high rate of fava beans cultivation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23483616", 
+            "endSection": "abstract"
+        }
+    ]
+}

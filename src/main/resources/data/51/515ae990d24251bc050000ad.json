@@ -1,0 +1,76 @@
+{
+    "body": "Is Rheumatoid Arthritis related to myopathy?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12682624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19642078", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17296665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10555889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12652413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15909088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23171360"
+    ], 
+    "ideal_answer": [
+        "Vacuolar myopathy and statin-induced myopathy have been reported in rheumatoid arthritis patients, but this association may be due to the anti-malarial treatment received. An increased prevalence of neurogenic but not myogenic changes in patients with RA compared with controls has been reported."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "515ae990d24251bc050000ad", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Prevalence of risk factors for statin-induced myopathy in rheumatoid arthritis patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19642078", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 475, 
+            "text": "we describe a patient with rheumatoid arthritis and respiratory failure associated with proximal myopathy secondary to HCQ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17296665", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 108, 
+            "text": "Occurrence of chloroquine-induced myopathy after low-dose treatment of rheumatoid arthritis for seven years", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15909088", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 720, 
+            "text": "a 75 year old female with rheumatoid arthritis treated with daily doses of 250 mg of chloroquine for four years. The patient visited because of several months history of predominantly proximal progressive tetraparesis with areflexia", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12652413", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 47, 
+            "text": "Myopathy and neuropathy in rheumatoid arthritis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10555889", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 48, 
+            "offsetInEndSection": 153, 
+            "text": "with rheumatoid arthritis (RA) have clinical or subclinical evidence of peripheral neuropathy or myopathy", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10555889", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1321, 
+            "offsetInEndSection": 1444, 
+            "text": "The study reveals an increased prevalence of neurogenic but not myogenic changes in patients with RA compared with controls", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10555889", 
+            "endSection": "sections.0"
+        }
+    ]
+}

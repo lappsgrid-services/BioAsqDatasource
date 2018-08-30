@@ -1,0 +1,86 @@
+{
+    "body": "Please list 3 diseases associated with the PIEZO2 gene.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24726473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27843126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27714920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23487782"
+    ], 
+    "ideal_answer": [
+        "Recently, Gordon syndrome has been associated to heterozygous mutations in the piezo-type mechanosensitive ion channel component 2 gene (PIEZO2). Different mutations of this gene also cause distal arthrogryposis type 5 and Marden-Walker syndrome."
+    ], 
+    "exact_answer": [
+        [
+            "Gordon syndrome"
+        ], 
+        [
+            "distal arthrogryposis type 5"
+        ], 
+        [
+            "Marden-Walker syndrome"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/PIEZ2_HUMAN"
+    ], 
+    "type": "list", 
+    "id": "58bd645702b8c60953000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 487, 
+            "text": "Recently, Gordon syndrome has been associated to heterozygous mutations in the piezo-type mechanosensitive ion channel component 2 gene (PIEZO2). Different mutations of this gene also cause distal arthrogryposis type 5 and Marden-Walker syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27714920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Mutations in PIEZO2 cause Gordon syndrome, Marden-Walker syndrome, and distal arthrogryposis type 5.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24726473", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 903, 
+            "offsetInEndSection": 1117, 
+            "text": "Both types of changes in kinetics result in increased channel activity in response to a given mechanical stimulus, suggesting that Distal Arthrogryposis Type 5 can be caused by gain-of-function mutations in PIEZO2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23487782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 588, 
+            "text": "Here, we describe two distinct PIEZO2 mutations in patients with a subtype of Distal Arthrogryposis Type 5 characterized by generalized autosomal dominant contractures with limited eye movements, restrictive lung disease, and variable absence of cruciate knee ligaments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23487782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 386, 
+            "text": "Recently, Gordon syndrome has been associated to heterozygous mutations in the piezo-type mechanosensitive ion channel component 2 gene (PIEZO2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27714920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 794, 
+            "offsetInEndSection": 1091, 
+            "text": "In contrast, heterozygous gain-of-function missense mutations, mainly localized at the C terminus, cause dominant distal arthrogryposis 3 (DA3), distal arthrogryposis 5 (DA5), or Marden-Walker syndrome (MWKS), which encompass contractures of hands and feet, scoliosis, ophthalmoplegia, and ptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27843126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Dominant mutations in PIEZO2, which codes for the principal mechanotransduction channel for proprioception and touch sensation, have been found to cause different forms of distal arthrogryposi", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27607563", 
+            "endSection": "abstract"
+        }
+    ]
+}

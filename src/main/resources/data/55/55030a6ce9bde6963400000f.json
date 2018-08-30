@@ -1,0 +1,168 @@
+{
+    "body": "Is Titin the largest single protein molecule found in Nature?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16453158", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2129545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16702235", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1859393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12187564", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14600266", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19134271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21257761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21075826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19962382", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1582406"
+    ], 
+    "ideal_answer": [
+        "Titin, is definitely the largest protein in the body, with a molecular weight of 3 million Dalton and composed of 27,000 amino acids. Titin is the largest protein known to date and acts as a mechanosensor that regulates muscle protein expression in a sarcomere strain-dependent fashion.", 
+        "Yes. Titin, the largest protein in the human body, is well known as a molecular spring in muscle cells and scaffold protein aiding myofibrillar assembly. Titin is recently known as the largest protein which exists in the striated muscle sarcomere and is dynamic both in biomechanics properties and biochemical functions.", 
+        "Titin is the largest protein known to date and acts as a mechanosensor that regulates muscle protein expression in a sarcomere strain-dependent fashion.Titin, the largest protein identified to date (over 1 micron long, almost 3 million daltons in mass) is the third most abundant component of the sarcomere.", 
+        "Titin is the largest protein known, and is essential for organising muscle sarcomeres.The giant sarcomere protein titin/connectin is the largest protein known to date."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TITIN_DROME", 
+        "http://www.uniprot.org/uniprot/TITIN_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019368"
+    ], 
+    "type": "yesno", 
+    "id": "55030a6ce9bde6963400000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Titin, the largest protein in the human body, is well known as a molecular spring in muscle cells and scaffold protein aiding myofibrillar assembly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21257761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Titin is the largest protein in mammals; it forms an elastic filament along the myofibril of cardiac and skeletal muscles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19962382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 178, 
+            "text": "Titin is recently known as the largest protein which exists in the striated muscle sarcomere and is dynamic both in biomechanics properties and biochemical functions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19134271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Titin, the largest protein known to date, has been linked to sarcomere assembly and function through its elastic adaptor and signaling domains.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16702235", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 657, 
+            "offsetInEndSection": 738, 
+            "text": "The giant sarcomere protein titin/connectin is the largest protein known to date.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16453158", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 925, 
+            "offsetInEndSection": 1077, 
+            "text": "Titin is the largest protein known to date and acts as a mechanosensor that regulates muscle protein expression in a sarcomere strain-dependent fashion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21075826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Titin is the largest protein known, and is essential for organising muscle sarcomeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14600266", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 87, 
+            "offsetInEndSection": 205, 
+            "text": "It has many domains with a variety of functions, and stretches from the Z-line to the M-line in the muscle sarcomere. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14600266", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Titin, is definitely the largest protein in the body, with a molecular weight of 3 million Dalton and composed of 27,000 amino acids.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12187564", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Titin, the largest protein identified to date (over 1 micron long, almost 3 million daltons in mass) is the third most abundant component of the sarcomere.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1859393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Titin is the largest polypeptide yet described (relative molecular mass approximately 3 x 10(6); refs 1, 2) and an abundant protein of striated muscle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2129545", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Titin is at present the largest known protein (M(r) 3000 kDa) and its expression is restricted to vertebrate striated muscle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1582406", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Titin is the largest protein known, and is essential for organising muscle sarcomeres", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14600266", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Titin is at present the largest known protein (M(r) 3000 kDa) and its expression is restricted to vertebrate striated muscle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1582406", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Titin is the largest polypeptide yet described (relative molecular mass approximately 3 x 10(6); refs 1, 2) and an abundant protein of striated muscle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2129545", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Titin is recently known as the largest protein which exists in the striated muscle sarcomere and is dynamic both in biomechanics properties and biochemical functions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19134271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Titin, the biggest single (poly) peptide found in humans, and throughout nature so far, was long considered as a good candidate for inherited muscle diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14572168", 
+            "endSection": "abstract"
+        }
+    ]
+}

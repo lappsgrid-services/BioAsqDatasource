@@ -1,0 +1,472 @@
+{
+    "body": "Was modafinil tested for schizophrenia treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21412225", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15085092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19572020", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17151173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22820555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22820554", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23938173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24964814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20810469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19689921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17503979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25306261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18516718", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17712350", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20653641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16013898", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18392753", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19914296", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16634707", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18729534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21909634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16965205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17077439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21565464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17634412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15994572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21109234", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15090936"
+    ], 
+    "ideal_answer": [
+        "Yes. Modafinil has been shown to improve attention, memory, executive function and antipsychotic-induced parkinsonism in  patients with schizophrenia. However, some authors have failed to demonstrate beneficial action of modafinil for schizophrenia."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4259639", 
+        "http://www.disease-ontology.org/api/metadata/DOID:5419"
+    ], 
+    "type": "yesno", 
+    "id": "54fc845e6ea36a810c000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "Modafinil improves antipsychotic-induced parkinsonism but not excessive daytime sleepiness, psychiatric symptoms or cognition in schizophrenia and schizoaffective disorder: a randomized, double-blind, placebo-controlled study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23938173", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1382, 
+            "offsetInEndSection": 1565, 
+            "text": "CONCLUSION: The data suggest that modafinil was a safe adjunctive treatment which improved parkinsonian symptoms and signs in patients with schizophrenia or schizoaffective disorder. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23938173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 747, 
+            "offsetInEndSection": 1027, 
+            "text": "A review of its effects in schizophrenia suggests that modafinil facilitates cognitive functions, with pro-mnemonic effects and problem solving improvements. Emotional processing also appears to be enhanced by the drug, although to date there are only a limited number of studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22820555", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "BACKGROUND: Modafinil, a putative cognitive enhancing drug, has previously been shown to improve performance of healthy volunteers as well as patients with attention deficit disorder and schizophrenia, mainly in tests of executive functions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22820554", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "A review of modafinil and armodafinil as add-on therapy in antipsychotic-treated patients with schizophrenia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 487, 
+            "text": "It has been suggested that modafinil and its isomer armodafinil as an add-on strategy to antipsychotic treatment in patients with schizophrenia may improve cognitive functioning, attenuate fatigue, inactiveness and other negative functions as well as weight gain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 794, 
+            "offsetInEndSection": 1235, 
+            "text": "Evidence for the use of modafinil or armodafinil as add-on therapy to antipsychotic drugs to alleviate fatigue, sleepiness and inactivity is inconclusive. One cohort study and one out of two single-dose crossover RCTs in which modafinil addition was studied could demonstrate a positive effect. All five RCTs of modafinil (three RCTs) and armodafinil (two RCTs) addition with a longer study duration could not demonstrate a positive effect. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1351, 
+            "offsetInEndSection": 2139, 
+            "text": "In RCTs with a treatment duration of 4 weeks or more, however, no positive effect could be demonstrated on cognitive functioning with modafinil and armodafinil addition. Yet, four single-dose crossover RCTs of modafinil addition show significant positive effects on executive functioning, verbal memory span, visual memory, working memory, spatial planning, slowing in latency, impulse control and recognition of faces expressing sadness and sadness misattribution in the context of disgust recognition. The addition of modafinil or armodafinil to an antipsychotic regime, despite theoretical and preclinical considerations, has not been proved to enhance cognitive function, attenuate fatigue, enhance activity, improve negative symptoms and reduce weight in patients with schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "RATIONAL: In recent years, evidence suggests that modafinil may be useful for certain symptom domains of schizophrenia, especially for the negative and cognitive symptoms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1243, 
+            "offsetInEndSection": 1405, 
+            "text": "CONCLUSION: The present study indicates modafinil as a potential adjunctive treatment strategy for treatment of schizophrenia particularly the negative symptoms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 324, 
+            "text": "Modafinil is a wake-promoting drug that has been shown to improve attention, memory and executive function in the healthy population and in patients with schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21909634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1097, 
+            "offsetInEndSection": 1261, 
+            "text": "CONCLUSIONS: Results of this pilot trial do not support routine use of modafinil to counteract increased weight and metabolic diseases in patients taking clozapine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21565464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "Modafinil (2-((diphenylmethyl)sulfinyl)acetamide) is described as an atypical stimulant and is a putative cognition enhancer for schizophrenia, but the precise mechanisms of action remain unclear.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21412225", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 152, 
+            "offsetInEndSection": 319, 
+            "text": "Modafinil is a wake-promoting drug that has been shown to improve emotion discrimination in healthy individuals and attention and executive function in schizophrenia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21109234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1613, 
+            "offsetInEndSection": 1900, 
+            "text": "CONCLUSIONS: These data support clinical evidence that modafinil may alleviate cognitive deficits in schizophrenia and also demonstrate the benefit of applying PLSR modeling to characterize functional brain networks in translational models relevant to central nervous system dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 257, 
+            "text": "Modafinil improves working memory in healthy subjects and individuals diagnosed with schizophrenia and Attention Deficit/Hyperactivity Disorder, though the effects of modafinil have not been evaluated on working memory in methamphetamine-dependent subjects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20653641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Modafinil is a psychostimulant approved for treating excessive sleepiness in adults; off-label uses (e.g., treatment of cognitive impairment in schizophrenia, ADHD and age-related dementias) are currently being explored. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19914296", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1064, 
+            "offsetInEndSection": 1241, 
+            "text": "CONCLUSIONS: Results of this pilot trial do not support routine use of modafinil to treat negative symptoms, cognitive deficits, or wakefulness/fatigue in patients on clozapine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19689921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 81, 
+            "offsetInEndSection": 316, 
+            "text": "We have previously shown that the amount of movement exhibited by patients with schizophrenia is positively correlated with the volume of left anterior cingulate cortex and that this quantity of movement can be increased by modafinil. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19572020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 456, 
+            "text": "OBJECTIVE: Given recent reports about the off-label use of modafinil as an adjuvant for the treatment of antipsychotic-associated sedation in schizophrenia patients and the recent interest in its putative cognitive-enhancing effects in this population, we present a systematic review of available data on trials of modafinil as an adjuvant in the treatment of cognitive deficits, negative symptoms, and antipsychotic-induced fatigue, and its tolerability. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1281, 
+            "offsetInEndSection": 1648, 
+            "text": "RESULTS: One of 4 reviewed studies found a significant effect of modafinil as an alerting agent for antipsychotic-induced fatigue and sedation. Neither of 2 reviewed studies found modafinil to improve negative symptoms of schizophrenia. Three of 6 reviewed studies showed that modafinil may improve short-term memory, attention, and the ability to shift mental sets. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1972, 
+            "offsetInEndSection": 2439, 
+            "text": "CONCLUSIONS: While the available data suggest that modafinil is generally well tolerated and may have some efficacy in the treatment of antipsychotic-induced sedation and cognitive domains, the small sample sizes, contradictory results, and methodological differences between trials, especially with respect to cognitive testing, make it difficult to draw firm conclusions about the overall effectiveness of modafinil as an adjunct in the treatment of schizophrenia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2743, 
+            "offsetInEndSection": 2883, 
+            "text": "Hence, before prescribing modafinil to a schizophrenia patient, the possible risks and benefits of each particular case should be evaluated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2211, 
+            "offsetInEndSection": 2506, 
+            "text": "Modafinil had a substantial placebo effect on outcomes such as fatigue, excessive sleepiness and depression in patients with traumatic brain injury, major depressive disorder, schizophrenia, post-polio fatigue and multiple sclerosis; however, it did not provide any benefit greater than placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18729534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "RATIONALE: The wake-promoting agent modafinil selectively improves neuropsychological task performance in healthy volunteers, in adults with attention deficit hyperactivity disorder (ADHD) and in schizophrenia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18516718", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 271, 
+            "offsetInEndSection": 394, 
+            "text": "Recently, however, modafinil has been shown to improve attentional set-shifting performance in patients with schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18392753", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 261, 
+            "offsetInEndSection": 462, 
+            "text": "In addition, modafinil shows initial promise for a variety of off-label indications in psychiatry, including treatment-resistant depression, attention-deficit/hyperactivity disorder, and schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17712350", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 396, 
+            "text": "There is increasing interest in the use of modafinil to improve cognition in schizophrenia as well as in other disorders such as attention-deficit/hyperactivity disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17634412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 702, 
+            "text": "Initial findings indicate that modafinil may lead to better executive functioning and attentional performance in patients with schizophrenia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17634412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1501, 
+            "offsetInEndSection": 1701, 
+            "text": "CONCLUSIONS: Although no effect on negative symptoms was found, adjunctive therapy with modafinil may result in global improvements in patients with schizophrenia who have prominent negative symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17503979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 972, 
+            "offsetInEndSection": 1059, 
+            "text": "CONCLUSIONS: Modafinil did not improve cognitive control in all schizophrenia patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17151173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 364, 
+            "offsetInEndSection": 492, 
+            "text": ". These data suggest that modafinil increases quantifiable motor behaviour in schizophrenia and may have an impact on avolition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17077439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1537, 
+            "offsetInEndSection": 1784, 
+            "text": "One patient was on treatment with both modafinil and trazodone and reported no change after tapering each in separate discontinuation trials, while another 3 patients were taking sleeping medications and also noted no change after discontinuation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16965205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 551, 
+            "offsetInEndSection": 743, 
+            "text": " Neuroprotective agents as add-on therapies (e.g., modafinil, erythropoietin, glycine, D-serine, memantine and celecoxib) are currently being evaluated in schizophrenia and related disorders. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16634707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 666, 
+            "offsetInEndSection": 887, 
+            "text": "In the modafinil (N = 10) and placebo (N = 10) groups, fatigue improved significantly over time (p < .01), but there were no differences between groups on changes in fatigue, positive and negative symptoms, or cognition. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16013898", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 929, 
+            "offsetInEndSection": 1136, 
+            "text": "CONCLUSIONS: Modafinil modulates anterior cingulate cortex function in chronic schizophrenia but its beneficial cognitive effects may be restricted to a subset of patients requiring further characterisation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15994572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 873, 
+            "text": "Modafinil significantly improved overall clinical condition, with 64% and 82% of patients rated as clinically improved at week 4 by a blinded clinician and the investigator respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15090936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 1068, 
+            "text": "Modafinil significantly improved fatigue (P = 0.025, week 3) and tended to improve cognitive functioning scores. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15090936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1349, 
+            "offsetInEndSection": 1597, 
+            "text": "Although preliminary, these results suggest modafinil may be an effective and well-tolerated adjunct treatment that improves global functioning and clinical condition, and reduces fatigue in patients with schizophrenia or schizoaffective disorder. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15090936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 666, 
+            "offsetInEndSection": 807, 
+            "text": "Modafinil had some cognitive enhancing properties in schizophrenia similar to those observed in healthy adults and adult patients with ADHD. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15085092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1222, 
+            "offsetInEndSection": 1407, 
+            "text": "Modafinil may have potential as an important therapy for cognitive impairment in patients with schizophrenia, particularly because of its beneficial effects on attentional set shifting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15085092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1887, 
+            "offsetInEndSection": 2340, 
+            "text": "While the available data suggest that modafinil is generally well tolerated and may have some efficacy in the treatment of antipsychotic-induced sedation and cognitive domains, the small sample sizes, contradictory results, and methodological differences between trials, especially with respect to cognitive testing, make it difficult to draw firm conclusions about the overall effectiveness of modafinil as an adjunct in the treatment of schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 444, 
+            "text": "Given recent reports about the off-label use of modafinil as an adjuvant for the treatment of antipsychotic-associated sedation in schizophrenia patients and the recent interest in its putative cognitive-enhancing effects in this population, we present a systematic review of available data on trials of modafinil as an adjuvant in the treatment of cognitive deficits, negative symptoms, and antipsychotic-induced fatigue, and its tolerability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1190, 
+            "offsetInEndSection": 1339, 
+            "text": "The present study indicates modafinil as a potential adjunctive treatment strategy for treatment of schizophrenia particularly the negative symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 485, 
+            "text": " It has been suggested that modafinil and its isomer armodafinil as an add-on strategy to antipsychotic treatment in patients with schizophrenia may improve cognitive functioning, attenuate fatigue, inactiveness and other negative functions as well as weight gain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1243, 
+            "offsetInEndSection": 1404, 
+            "text": "CONCLUSION: The present study indicates modafinil as a potential adjunctive treatment strategy for treatment of schizophrenia particularly the negative symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 455, 
+            "text": "OBJECTIVE: Given recent reports about the off-label use of modafinil as an adjuvant for the treatment of antipsychotic-associated sedation in schizophrenia patients and the recent interest in its putative cognitive-enhancing effects in this population, we present a systematic review of available data on trials of modafinil as an adjuvant in the treatment of cognitive deficits, negative symptoms, and antipsychotic-induced fatigue, and its tolerability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1971, 
+            "offsetInEndSection": 2437, 
+            "text": "CONCLUSIONS: While the available data suggest that modafinil is generally well tolerated and may have some efficacy in the treatment of antipsychotic-induced sedation and cognitive domains, the small sample sizes, contradictory results, and methodological differences between trials, especially with respect to cognitive testing, make it difficult to draw firm conclusions about the overall effectiveness of modafinil as an adjunct in the treatment of schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "The present study indicates modafinil as a potential adjunctive treatment strategy for treatment of schizophrenia particularly the negative symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1349, 
+            "offsetInEndSection": 1596, 
+            "text": "Although preliminary, these results suggest modafinil may be an effective and well-tolerated adjunct treatment that improves global functioning and clinical condition, and reduces fatigue in patients with schizophrenia or schizoaffective disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15090936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1909, 
+            "offsetInEndSection": 2361, 
+            "text": "While the available data suggest that modafinil is generally well tolerated and may have some efficacy in the treatment of antipsychotic-induced sedation and cognitive domains, the small sample sizes, contradictory results, and methodological differences between trials, especially with respect to cognitive testing, make it difficult to draw firm conclusions about the overall effectiveness of modafinil as an adjunct in the treatment of schizophrenia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1208, 
+            "offsetInEndSection": 1356, 
+            "text": "The present study indicates modafinil as a potential adjunctive treatment strategy for treatment of schizophrenia particularly the negative symptoms", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21947320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Modafinil, a putative cognitive enhancing drug, has previously been shown to improve performance of healthy volunteers as well as patients with attention deficit disorder and schizophrenia, mainly in tests of executive functions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22820554", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "body": "Elaborate on the TREAT-NMD initiative for DMD patients", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24148153", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22068481"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0098343", 
+            "o": "D010361"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0098257", 
+            "o": "D010361"
+        }
+    ], 
+    "ideal_answer": [
+        "TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients in Europe. TREAT-NMD has worked on the generation of brief standards of care for DMD. Guidelines are presented for diagnostics, neurological follow up, gastrointestinal and nutritional issues, respiratory and cardiac care as well as orthopaedics, rehabilitation, psychosocial interventions and oral care."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/DMD_CANLF", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010361", 
+        "http://www.uniprot.org/uniprot/DMD_HUMAN", 
+        "http://www.uniprot.org/uniprot/DMD_RAT", 
+        "http://www.uniprot.org/uniprot/DMD_CHICK", 
+        "http://www.uniprot.org/uniprot/DMD_PIG"
+    ], 
+    "type": "summary", 
+    "id": "56acd7530a360a5e45000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 680, 
+            "text": "TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "The TREAT-NMD care and trial site registry: an online registry to facilitate clinical research for neuromuscular diseases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24148153", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 762, 
+            "text": "TREAT-NMD Care and Trial Site Registry (CTSR), an initiative of an EU-funded Network of Excellence, and its utility in providing an infrastructure for clinical trial feasibility, recruitment, and other studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24148153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 335, 
+            "offsetInEndSection": 970, 
+            "text": "A worldwide effort is underway to generate care guidelines for DMD, which involves the Centre for Disease Control in the USA and the TREAT-NMD network of excellence for neuromuscular diseases in Europe. In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.eu). Guidelines are presented for diagnostics, neurological follow up, gastrointestinal and nutritional issues, respiratory and cardiac care as well as orthopaedics, rehabilitation, psychosocial interventions and oral care.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 747, 
+            "offsetInEndSection": 960, 
+            "text": "In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.eu).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 676, 
+            "offsetInEndSection": 832, 
+            "text": "TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 682, 
+            "text": "TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 580, 
+            "offsetInEndSection": 715, 
+            "text": "In Europe, TREAT-NMD, a clinical research network for neuromuscular disorders, developeda global database for dystrophinopathy patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22068481", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 500, 
+            "offsetInEndSection": 764, 
+            "text": "METHODS: This paper describes the development of the TREAT-NMD Care and Trial Site Registry (CTSR), an initiative of an EU-funded Network of Excellence, and its utility in providing an infrastructure for clinical trial feasibility, recruitment, and other studies. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24148153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 538, 
+            "offsetInEndSection": 752, 
+            "text": "In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.eu). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 489, 
+            "offsetInEndSection": 744, 
+            "text": "This paper describes the development of the TREAT-NMD Care and Trial Site Registry (CTSR), an initiative of an EU-funded Network of Excellence, and its utility in providing an infrastructure for clinical trial feasibility, recruitment, and other studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24148153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 812, 
+            "text": "In Europe, TREAT-NMD, a clinical research network for neuromuscular disorders, developeda global database for dystrophinopathy patients. We developed a national registry of Japanese DMD/BMD patients in collaboration with TREAT-NMD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22068481", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 685, 
+            "offsetInEndSection": 1073, 
+            "text": "The harmonized implementation of national and ultimately global patient registries has been central to the success of TREAT-NMD. For the DMD registries within TREAT-NMD, individual countries have chosen to collect patient information in the form of standardized patient registries to increase the overall patient population on which clinical outcomes and new technologies can be assessed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 539, 
+            "offsetInEndSection": 748, 
+            "text": "In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 738, 
+            "text": "A worldwide effort is underway to generate care guidelines for DMD, which involves the Centre for Disease Control in the USA and the TREAT-NMD network of excellence for neuromuscular diseases in Europe. In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 528, 
+            "offsetInEndSection": 813, 
+            "text": "TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients. The harmonized implementation of national and ultimately global patient registries has been central to the success of TREAT-NMD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23913485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 752, 
+            "text": "A worldwide effort is underway to generate care guidelines for DMD, which involves the Centre for Disease Control in the USA and the TREAT-NMD network of excellence for neuromuscular diseases in Europe. In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.eu).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 539, 
+            "offsetInEndSection": 971, 
+            "text": "In advance of the full consensus document, TREAT-NMD has worked on the generation of brief standards of care for DMD, which are presented here and are available via the TREAT-NMD website (http://www.treat-nmd.eu). Guidelines are presented for diagnostics, neurological follow up, gastrointestinal and nutritional issues, respiratory and cardiac care as well as orthopaedics, rehabilitation, psychosocial interventions and oral care.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20225016", 
+            "endSection": "abstract"
+        }
+    ]
+}

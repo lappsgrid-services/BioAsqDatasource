@@ -1,0 +1,50 @@
+{
+    "body": "What is the outcome of TAF10 interacting with the GATA1 transcription factor?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25870109"
+    ], 
+    "ideal_answer": [
+        "TAF10 Interacts with the GATA1 Transcription Factor and Controls Mouse Erythropoiesis."
+    ], 
+    "exact_answer": [
+        "Control of Mouse Erythropoiesis"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/GATA1_HUMAN", 
+        "http://www.uniprot.org/uniprot/TAF10_HUMAN", 
+        "http://www.uniprot.org/uniprot/GAT1A_XENLA", 
+        "http://www.uniprot.org/uniprot/GATA1_ARATH", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050982", 
+        "http://www.uniprot.org/uniprot/TAF10_ARATH", 
+        "http://www.uniprot.org/uniprot/TAF10_YEAST", 
+        "http://www.uniprot.org/uniprot/GATA1_CHICK"
+    ], 
+    "type": "factoid", 
+    "id": "56a8b8b5a17756b72f000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "TAF10 Interacts with the GATA1 Transcription Factor and Controls Mouse Erythropoiesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25870109", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1235, 
+            "text": "we show that TAF10 interacts directly with GATA1 and that TAF10 is enriched on the GATA1 locus in human fetal erythroid cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25870109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "TAF10 Interacts with the GATA1 Transcription Factor and Controls Mouse Erythropoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25870109", 
+            "endSection": "title"
+        }
+    ]
+}

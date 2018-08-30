@@ -1,0 +1,302 @@
+{
+    "body": "Could Arimidex (anastrozole) cause hot flashes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21378354", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23452648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23314924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17292609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20975874", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20679610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14584060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23383974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18072256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18728707", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12902876", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15494636", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14675683", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22677000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22370325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15508444"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10338338", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0878174", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11917539"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Hot flashes are one of the most common adverse effects of Arimidex."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019584", 
+        "http://www.biosemantics.org/jochem#4266381", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006358"
+    ], 
+    "type": "yesno", 
+    "id": "516523fd298dcd4e51000055", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "More than a third of breast cancer patients undergoing aromatase inhibitor (AI) treatment report joint pain.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23452648", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 789, 
+            "offsetInEndSection": 967, 
+            "text": "In the first 6 weeks, emergence of joint pain was associated with increase in general pain, fatigue, disturbed sleep, hot flashes, vaginal dryness, and decreased sexual activity.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23452648", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 21, 
+            "offsetInEndSection": 138, 
+            "text": "Antiestrogen therapy can cause vasomotor symptoms similar to those occurring during menopause, including hot flashes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23383974", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 455, 
+            "text": "The purpose of this study was to assess the feasibility and safety of acupuncture for treatment of hot flashes in Korean patients with breast cancer receiving antiestrogen therapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23383974", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 715, 
+            "offsetInEndSection": 857, 
+            "text": "10 patients with breast cancer who were undergoing antiestrogen therapy with tamoxifen or anastrozole and who were suffering from hot flashes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23383974", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1118, 
+            "offsetInEndSection": 1199, 
+            "text": "During treatment, severity of hot flashes was reduced by 70%-95% in all patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23383974", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 59, 
+            "offsetInEndSection": 188, 
+            "text": "anastrozole has been widely used in Japan as an adjuvant treatment for postmenopausal, hormone-responsive breast cancer patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314924", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 435, 
+            "text": "The aim of this study is to evaluate the rate of bone fracture and bone mineral density (BMD) during anastrozole treatment in Japanese patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314924", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1054, 
+            "offsetInEndSection": 1177, 
+            "text": "Musculoskeletal disorders were the most common (26.1\u00a0%), and hot flashes were the second most common adverse event (7.9\u00a0%).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314924", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 177, 
+            "text": "To compare the effect of therapy with anastrozole versus a combination of fulvestrant and anastrozole in women in first relapse of endocrine-responsive breast cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22370325", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 455, 
+            "offsetInEndSection": 592, 
+            "text": "fulvestrant loading dose (LD) regimen followed by monthly injection plus 1 mg of anastrozole daily or to 1 mg of anastrozole daily alone.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22370325", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1178, 
+            "offsetInEndSection": 1373, 
+            "text": "Incidences of prespecified adverse events (AEs) were similar. Hot flashes were more common in the experimental arm: 63 patients (24.6%) versus 35 patients (13.8%) in the standard arm (P = .0023).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22370325", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 602, 
+            "text": "The third-generation agents (anastrozole, letrozole, and exemestane) have been shown to be more effective and safer than the selective estrogen receptor modulators tamoxifen and raloxifen.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22677000", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 976, 
+            "offsetInEndSection": 1181, 
+            "text": "AIs are well tolerated and cause a lower incidence of gynecological symptoms (vaginal bleeding, discharge, and endometrial neoplasia), venous thromboembolic events, and hot flashes compared with tamoxifen.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22677000", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1360, 
+            "offsetInEndSection": 1520, 
+            "text": "Mood disturbances, somnolence, anxiety, fatigue, hot flashes, and memory impairment have been reported among patients receiving anastrozole as adjuvant therapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22677000", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 571, 
+            "text": "Twenty-five PM-BC patients received, in sequence, leuprorelin, taxane-anthracycline induction chemotherapy, radiation therapy, a platinum-based intensification high-dose CT, followed by leuprorelin and anastrazole for five years.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21378354", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1143, 
+            "text": "Grade 4 hematologic toxicity was observed in all patients, no patient showed a decrease of cardiac ejection fraction and hot flashes and arthralgias were of moderate intensity.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21378354", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1551, 
+            "offsetInEndSection": 1826, 
+            "text": "Of the patients treated with anastrozole, 3 (37.5%) reported toxicity, with 1 report each of decreased libido, leg swelling, and depression (12.5%). Toxicity was reported in 2 patients taking letrozole (40%), with both reporting peripheral edema, and 1 reporting hot flashes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20975874", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 507, 
+            "offsetInEndSection": 652, 
+            "text": "Patients were treated with goserelin 3.6 mg subcutaneous monthly and began anastrozole 1-mg daily 21 days after the first injection of goserelin.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20679610", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1277, 
+            "offsetInEndSection": 1369, 
+            "text": "The most common adverse events were fatigue (50%), arthralgias (53%), and hot flashes (59%).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20679610", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 319, 
+            "offsetInEndSection": 553, 
+            "text": "These studies were designed to evaluate the safety and efficacy of AIs in the following clinical settings: 1) as initial adjuvant therapy (the Arimidex, Tamoxifen, Alone or in Combination trial, Breast International Group Trial 1-98),", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18072256", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1060, 
+            "offsetInEndSection": 1274, 
+            "text": "AIs were tolerated well, and patients who received them experienced fewer thrombolic events and less endometrial cancer, hot flashes, night sweats, and vaginal bleeding compared with patients who receive tamoxifen.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18072256", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 523, 
+            "text": "It has been suggested that the association of AI and GnRh analogues and AI could block the two routes of oestrogen production in males, and therefore this approach could increase efficacy. However, it could also enhance the rate of adverse events (hot flashes, sexual impotence, etc.).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17292609", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "We reviewed therapeutic effects and harmful side effects in 33 patients with advanced or recurrent breast cancer who underwent treatment with Anastrozole 1 mg/day in our department.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15508444", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1405, 
+            "offsetInEndSection": 1527, 
+            "text": "The most frequent harmful side effects were rise in total cholesterol, general fatigue, hot flashes and arthralgia (9.1%).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15508444", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 330, 
+            "text": "We analyzed the changes in frequency and severity of menopausal symptoms in patients receiving tamoxifen or aromatase inhibitors and identified factors influencing these symptoms.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15494636", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 662, 
+            "offsetInEndSection": 816, 
+            "text": "Both first-line tamoxifen and aromatase inhibitors induced an increase in the occurrence and severity of hot flashes (p<0.0001 and p=0.014, respectively).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15494636", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 208, 
+            "text": "To evaluate the efficacy and toxicity of the selective aromatase inhibitor anastrozole (Arimidex), we conducted a phase II trial in 53 women with asymptomatic recurrent/persistent m\u00fcllerian cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14675683", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1507, 
+            "offsetInEndSection": 1615, 
+            "text": "Toxicity was modest (grade I) and infrequent, with the most common toxicities being fatigue and hot flashes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14675683", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 390, 
+            "text": "The first analysis of the ATAC (Arimidex, Tamoxifen Alone or in Combination) trial (median follow-up, 33 months) demonstrated that in adjuvant endocrine therapy for postmenopausal patients with early-stage breast cancer, anastrozole was superior to tamoxifen in terms of disease-free survival (DFS), time to recurrence (TTR), and incidence of contralateral breast cancer (CLBC).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14584060", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1813, 
+            "offsetInEndSection": 2194, 
+            "text": "in that endometrial cancer (P = 0.007), vaginal bleeding and discharge (P < 0.001 for both), cerebrovascular events (P < 0.001), venous thromboembolic events (P < 0.001), and hot flashes (P < 0.001) all occurred less frequently in the anastrozole group, whereas musculoskeletal disorders and fractures (P < 0.001 for both) continued to occur less frequently in the tamoxifen group.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14584060", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1016, 
+            "offsetInEndSection": 1173, 
+            "text": "reduced nausea, hot flashes, and abdominal discomfort caused almost twice as many patients to prefer to continue with letrozole therapy than with anastrozole", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12902876", 
+            "endSection": "sections.0"
+        }
+    ]
+}

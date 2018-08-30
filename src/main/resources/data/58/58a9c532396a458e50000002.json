@@ -1,0 +1,51 @@
+{
+    "body": "How many cysteines have alpha-defensins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24386139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24557891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25970658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22168415"
+    ], 
+    "ideal_answer": [
+        "Alpha defensins contain six cysteines, which form three well defined disulfide bridges under oxidizing conditions."
+    ], 
+    "exact_answer": [
+        "Alpha defensins contain six conserved cysteines"
+    ], 
+    "type": "factoid", 
+    "id": "58a9c532396a458e50000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 178, 
+            "offsetInEndSection": 293, 
+            "text": "Alpha defensins contain six cysteines, which form three well defined disulfide bridges under oxidizing conditions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25970658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 636, 
+            "text": "All three kinds of defensins have six conserved cysteines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24557891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 522, 
+            "text": " There are six cysteines in the sequence of mature CFBD peptide, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24386139", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 56, 
+            "offsetInEndSection": 179, 
+            "text": "They typically contain six conserved cysteines whose three intramolecular disulfides stabilize a largely \u03b2-sheet structure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22168415", 
+            "endSection": "abstract"
+        }
+    ]
+}

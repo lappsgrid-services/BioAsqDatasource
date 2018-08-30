@@ -1,0 +1,142 @@
+{
+    "body": "In which diseases have electronic patient diaries been applied ?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20841643", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19301936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22949085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10594395", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19226411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14728392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19999626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8904620"
+    ], 
+    "ideal_answer": [
+        "Parkinson's disease\nCOPD\nFood hypersensitivity\nNiacin induced flushing\nHemophilia\nHeartburn\nHeadache"
+    ], 
+    "exact_answer": [
+        [
+            "Parkinson's disease"
+        ], 
+        [
+            "COPD", 
+            "Chronic  obstructive pulmonary disease", 
+            "Chronic Obstructive Airways Disease", 
+            "Chronic Obstructive Lung Disease"
+        ], 
+        [
+            "Food hypersensitivity", 
+            "Allergy"
+        ], 
+        [
+            "Niacin induced flushing"
+        ], 
+        [
+            "Hemophilia"
+        ], 
+        [
+            "Heartburn", 
+            "Reflux", 
+            "GERD", 
+            "Esophageal reflux"
+        ], 
+        [
+            "Headache", 
+            "Migraine", 
+            "migraine headache", 
+            "Migraine Disorder", 
+            "Migraine Headaches"
+        ]
+    ], 
+    "type": "list", 
+    "id": "550303a5e9bde6963400000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 538, 
+            "text": "WiiPD is an approach for the objective home based assessment of Parkinson's disease which utilizes the intuitive and sensor rich Nintendo Wii Remote. Combined with an electronic patient diary, a suite of mini-games, a metric analyzer, and a visualization engine, we propose that this system can complement existing clinical practice by providing objective metrics gathered frequently over extended periods of time.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22949085", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "This research paper examines the challenges in the development and adoption of an electronic patient diary within the Pathways Home for Respiratory Illness Project", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20841643", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 418, 
+            "text": "This project supported community-based patients suffering from chronic obstructive pulmonary disease (COPD) to achieve increased levels of self-management and self-efficacy using electronic-monitoring techniques and mentoring by community health nurses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20841643", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 631, 
+            "offsetInEndSection": 836, 
+            "text": "Instead of measuring physiological parameters, a Smartphone based Personal Allergy Assistant (PAA) allows patients to keep an electronic patient diary by scanning the barcode of the consumed food products.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19999626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 77, 
+            "text": "Telemedicine assisted diet and diagnosis management in food hypersensitivity", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19999626", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 279, 
+            "text": "The Flushing ASsessment Tool (FAST) was developed to assess flushing symptoms and their impact on patients receiving niacin therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19301936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 437, 
+            "offsetInEndSection": 675, 
+            "text": " This was a prospective, randomized, double-blind, placebo-controlled, parallel-group 8-week study conducted to evaluate the psychometric characteristics of the FAST. The instrument is administered daily using an electronic patient diary.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19301936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Haemoassist--a hand-held electronic patient diary for haemophilia home care.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19226411", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "A comparison of self-documentation in diabetics: electronic versus paper diaries.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14728392", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 256, 
+            "offsetInEndSection": 548, 
+            "text": "Subjects with self-perceived heartburn without known gastrointestinal disease or interfering treatments were selected with questionnaires. The study was performed unsupervised, whenever heartburn required medication. An electronic patient diary gave instructions when to take study medication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10594395", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Self-medication of a single headache episode with ketoprofen, ibuprofen or placebo, home-monitored with an electronic patient diary.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8904620", 
+            "endSection": "title"
+        }
+    ]
+}

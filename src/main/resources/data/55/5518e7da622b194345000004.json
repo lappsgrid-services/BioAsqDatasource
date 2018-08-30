@@ -1,0 +1,208 @@
+{
+    "body": "Which MAP kinase phosphorylates the transcription factor c-jun?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24113186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24300195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24272171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24291243", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24252081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15228586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23028407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24285252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23385061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24321566", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23147205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8607977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24139673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24321066", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15637069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24270002", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24144051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15708845"
+    ], 
+    "ideal_answer": [
+        "c-Jun is phosphorylated by c-Jun NH2-terminal kinase (JNK).", 
+        "An in vitro kinase assay revealed that c-Jun phosphorylation is primarily mediated via activated c-Jun N-terminal protein kinase (JNK)."
+    ], 
+    "exact_answer": [
+        "c-Jun NH2-terminal kinase", 
+        "JNK"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007257", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007258", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016755"
+    ], 
+    "type": "factoid", 
+    "id": "5518e7da622b194345000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 987, 
+            "text": " c-Jun NH2-terminal kinase (JNK)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321566", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 294, 
+            "text": " c-jun N-terminal kinase (JNK) of mitogen-activated protein kinase (MAPK) family ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321066", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 927, 
+            "offsetInEndSection": 955, 
+            "text": "-Jun N-terminal kinase (JNK)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24300195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 859, 
+            "text": "activated c-Jun N-terminal kinase (JNK)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24291243", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 919, 
+            "offsetInEndSection": 1006, 
+            "text": "-Jun N-terminal kinase (JNK) mitogen-activated protein kinase (MAPK) signaling pathways", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24285252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 454, 
+            "text": " c-Jun N-terminal kinases (JNK) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24272171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1075, 
+            "offsetInEndSection": 1116, 
+            "text": " including c-Jun N-terminal kinase, c-Jun", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24270002", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 118, 
+            "text": "The c-Jun N-terminal kinase (JNK) is thought to be involved in inflammation, proliferation and apoptosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24252081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 785, 
+            "offsetInEndSection": 828, 
+            "text": " c-Jun NH2-terminal protein kinases (JNK), ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24144051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1288, 
+            "offsetInEndSection": 1357, 
+            "text": " c-Jun N-terminal kinase (JNK) phosphorylation, c-Jun phosphorylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24139673", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1820, 
+            "offsetInEndSection": 1893, 
+            "text": "JNK phosphorylated recombinant c-Jun at T91/T93 in a T95-dependent manner", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24113186", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 826, 
+            "offsetInEndSection": 898, 
+            "text": " c-Jun N-terminal kinase (JNK) MAPKs (mitogen-activated protein kinases)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15228586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "c-Jun N-terminal kinases (JNKs) are a group of mitogen-activated protein kinase family members that are important in regulating cell growth, proliferation, and apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15637069", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 943, 
+            "text": "Jun and Fos transcriptional activities are also regulated by phosphorylation as a result of the activation of intracellular signaling cascades. In this regard, the phosphorylation of c-Jun by UV-induced JNK has been readily documented, whereas a role for Fos proteins in UV-mediated responses and the identification of Fos-activating kinases has remained elusive", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15708845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 388, 
+            "text": "An in vitro kinase assay revealed that the resultant c-Jun phosphorylation was primarily mediated via activated c-Jun N-terminal protein kinase (JNK).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "The c-Jun N-terminal kinase (JNK) pathway forms part of the mitogen-activated protein kinase (MAPK) signaling pathways comprising a sequential three-tiered kinase cascade. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23147205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "The c-Jun N-terminal kinases (JNKs) are members of the mitogen-activated protein kinase (MAPK) family and are activated by environmental stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23028407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 697, 
+            "offsetInEndSection": 890, 
+            "text": "JNK phosphorylates and regulates the activity of transcription factors other than c-Jun, including ATF2, Elk-1, p53 and c-Myc and non-transcription factors, such as members of the Bcl-2 family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23028407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1932, 
+            "offsetInEndSection": 2132, 
+            "text": "A candidate for this extended family of MAP kinases is the c-Jun NH2-terminal kinase (Jnk), which binds to and phosphorylates the transcription factor c-Jun at the activating sites Ser-63 and Ser-73.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8607977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 386, 
+            "text": "An in vitro kinase assay revealed that the resultant c-Jun phosphorylation was primarily mediated via activated c-Jun N-terminal protein kinase (JNK)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1953, 
+            "offsetInEndSection": 2151, 
+            "text": "A candidate for this extended family of MAP kinases is the c-Jun NH2-terminal kinase (Jnk), which binds to and phosphorylates the transcription factor c-Jun at the activating sites Ser-63 and Ser-73", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8607977", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "body": "Which interleukins are inhibited by Dupilumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25482871", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25584909", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25006719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25214796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25645542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24275927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23688323"
+    ], 
+    "ideal_answer": [
+        "Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels."
+    ], 
+    "exact_answer": [
+        [
+            "interleukin-4"
+        ], 
+        [
+            "interleukin-13"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007378"
+    ], 
+    "type": "list", 
+    "id": "56c1f005ef6e39474100003a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 822, 
+            "text": "The world's first prospective controlled studies with the biologic human anti-IL4R antibody dupilumab for the indication \"atopic dermatitis\" were published in 2014. These motivated (1) to extend the studies to dupilumab and (2) to clinically test antagonization of other target molecules of TH2 polarized, atopic inflammation, e.g., IL-13, IL-31, IL-22, TSLP, and CRTH2. A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25645542", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 564, 
+            "offsetInEndSection": 850, 
+            "text": "Among the recently developed antiasthma biologic drugs, the monoclonal antibody dupilumab is very promising because of its ability to inhibit the biological effects of both IL-4 and IL-13. Indeed, dupilumab prevents IL-4/13 interactions with the \u03b1-subunit of the IL-4 receptor complex. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25214796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "BACKGROUND: Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25006719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 310, 
+            "text": " In early-phase trials, dupilumab, a fully human mAb targeting IL-4 receptor \u03b1, markedly improved disease activity, but the effect of IL-4/IL-13 blockade on AD at the molecular level has not been characterized.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25482871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 1372, 
+            "text": "Examples include the efficacy of omalizumab in patients with severe refractory atopic asthma characterized by raised serum total IgE, mepolizumab, reslizumab, and benralizumab in patients with recurrent eosinophilic exacerbations characterized by blood and sputum eosinophilia despite high doses of corticosteroids, and lebrikizumab, pitrakinra, dupilumab, and tralokinumab that target the IL-4/IL-13 signalling pathways in patients with eosinophilic asthma or raised serum periostin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24275927", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 305, 
+            "text": "BACKGROUND: Moderate-to-severe asthma remains poorly treated. We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23688323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1127, 
+            "offsetInEndSection": 1335, 
+            "text": "With respect to immune dysregulation, dupilumab, a fully human monoclonal antibody directed at the IL-4 receptor alpha subunit was recently shown to be effective in treating adults with moderate-to-severe AD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25584909", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25006719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 292, 
+            "offsetInEndSection": 535, 
+            "text": "We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23688323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 846, 
+            "offsetInEndSection": 942, 
+            "text": "Indeed, dupilumab prevents IL-4/13 interactions with the \u03b1-subunit of the IL-4 receptor complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25214796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 306, 
+            "text": "We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23688323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 355, 
+            "text": "BACKGROUND: Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels. The blockade by dupilumab of these key drivers of type 2 helper T-cell (Th2)-mediated inflammation could help in the treatment of related diseases, including atopic dermatitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25006719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 753, 
+            "offsetInEndSection": 849, 
+            "text": "Indeed, dupilumab prevents IL-4/13 interactions with the \u03b1-subunit of the IL-4 receptor complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25214796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 51, 
+            "offsetInEndSection": 294, 
+            "text": "We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23688323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25006719", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "body": "List functional roles of the FtsZ protein.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23463171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23384289", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24984796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25124387", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25002581", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25382739", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24825009", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25213228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25533961", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22932926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24506818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25519150", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24292151", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24529242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24778116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24502896"
+    ], 
+    "ideal_answer": [
+        "Four major roles of FtsZ have been characterized: cell elongation, GTPase, cell division, and bacterial cytoskeleton."
+    ], 
+    "exact_answer": [
+        [
+            "cell elongation"
+        ], 
+        [
+            "GTPase"
+        ], 
+        [
+            "cell division"
+        ], 
+        [
+            "bacterial cytoskeleton"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/FTSZ_METTH", 
+        "http://www.uniprot.org/uniprot/FTSZ_MYCTU", 
+        "http://www.uniprot.org/uniprot/FTSZ_COXBU", 
+        "http://www.uniprot.org/uniprot/FTSZ_ECO57"
+    ], 
+    "type": "list", 
+    "id": "56d094f33975bb303a000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 217, 
+            "text": "bacterial homologue FtsZ establishes the cytokinetic ring that constricts during cell division. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25533961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "In Escherichia coli, initial assembly of the Z ring for cell division requires FtsZ plus the essential Z ring-associated proteins FtsA and ZipA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "FtsZ is an essential cell division protein in Escherichia coli, and its localization, filamentation, and bundling at the mid-cell are required for Z-ring stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25002581", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1159, 
+            "offsetInEndSection": 1194, 
+            "text": "the bacterial division FtsZ protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25124387", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "The GTPase-dependent polymerization/depolymerization dynamics of FtsZ regulate bacterial cell division in vivo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24502896", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Bacterial cytokinesis depends upon the tubulin-like GTPase FtsZ, which polymerizes into an annular structure at midcell (the Z-ring) that defines the division site.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24529242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 328, 
+            "text": "FtsZ is the first of the divisome proteins to accumulate at the division site and is widely thought to function as a force generator that constricts the cell envelope. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24506818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 826, 
+            "text": "the cell division protein FtsZ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24778116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 306, 
+            "text": "FtsZ, the key protein of bacterial cell division was selected as a potent anti bacterial target. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25519150", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 97, 
+            "offsetInEndSection": 127, 
+            "text": "the cell-division protein FtsZ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24292151", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 218, 
+            "offsetInEndSection": 336, 
+            "text": " FtsZ and PG together function in orchestrating cell division and maintaining cell shape in almost all other bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24292151", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 85, 
+            "offsetInEndSection": 138, 
+            "text": " the tubulin-like protein of the division septum FtsZ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23384289", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "FtsZ is a widely distributed major cytoskeletal protein involved in the archaea and bacteria cell division. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22932926", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 218, 
+            "offsetInEndSection": 336, 
+            "text": "Four major roles of FtsZ have been characterized: cell elongation, GTPase, cell division, and bacterial cytoskeleton. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22932926", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 294, 
+            "text": "Bacterial cell division involves a complex and dynamic sequence of events whereby polymers of the protein FtsZ assemble at the division plane and rearrange to achieve the goal of contracting the cell membrane at the site of cell division, thus dividing the parent cell into two daughter cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2249, 
+            "offsetInEndSection": 2279, 
+            "text": "the cell division protein FtsZ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825009", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 334, 
+            "text": "FtsZ, the homolog of eukaryotic tubulin, is a GTPase that assembles into cytokinetic Z rings essential for cell division in prokaryotic cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24984796", 
+            "endSection": "abstract"
+        }
+    ]
+}

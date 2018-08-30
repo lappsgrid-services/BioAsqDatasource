@@ -1,0 +1,77 @@
+{
+    "body": "To which family does the Zika virus belong?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25310102"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/taxonomy/64320", 
+            "o": "false"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/64320", 
+            "o": "Zika virus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0820708", 
+            "o": "64320"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0820708", 
+            "o": "Zika virus"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14224049", 
+            "o": "Zika virus (organism)"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0318793", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0820708"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0318793", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14224049"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0820708", 
+            "o": "NCBI Taxonomy"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14224049", 
+            "o": "Metathesaurus Names"
+        }
+    ], 
+    "ideal_answer": [
+        "The Zika virus belongs to the family Flaviviridae."
+    ], 
+    "exact_answer": [
+        "Flaviviridae"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005190", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014780", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014777", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009679"
+    ], 
+    "type": "factoid", 
+    "id": "56b76d916e3f8eaf4c000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 69, 
+            "text": "Zika virus (ZIKV; genus Flavivirus, family Flaviviridae) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25310102", 
+            "endSection": "abstract"
+        }
+    ]
+}

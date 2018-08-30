@@ -1,0 +1,363 @@
+{
+    "body": "Which is the  subcellular localization of ERAP2?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23988446", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23946506", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16054015"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/A6QPT7", 
+            "o": "http://linkedlifedata.com/resource/#_41365150543700A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413651505437008", 
+            "o": "Endoplasmic reticulum aminopeptidase 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_41365150543700A", 
+            "o": "ERAP2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q5RFP3", 
+            "o": "http://linkedlifedata.com/resource/#_513552465033009"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513552465033007", 
+            "o": "Endoplasmic reticulum aminopeptidase 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513552465033009", 
+            "o": "ERAP2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6P179", 
+            "o": "http://linkedlifedata.com/resource/#_513650313739001B"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513650313739001B", 
+            "o": "LRAP"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513650313739001B", 
+            "o": "ERAP2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136503137390017", 
+            "o": "Leukocyte-derived arginine aminopeptidase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5136503137390017", 
+            "o": "L-RAP"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136503137390016", 
+            "o": "Endoplasmic reticulum aminopeptidase 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198238", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14201379", 
+            "o": "L-RAP"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11966235"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198239", 
+            "o": "LRAP"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17746860"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11966235", 
+            "o": "ENDOPLASMIC RETICULUM AMINOPEPTIDASE 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14198238"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16703451"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17731032"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11951913", 
+            "o": "ERAP2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16703451", 
+            "o": "leukocyte-derived arginine aminopeptidase"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14203968", 
+            "o": "ERAP2 gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12009126"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14203968"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11951913"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198238", 
+            "o": "endoplasmic reticulum aminopeptidase 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12009126", 
+            "o": "LEUKOCYTE-DERIVED ARGININE AMINOPEPTIDASE"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14198239"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14201379"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1836110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11966234"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198239", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14201379", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16703451", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17731032", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17746860", 
+            "o": "29499"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467226", 
+            "o": "C503944"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8599584"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18467226"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9368721", 
+            "o": "leukocyte-derived arginine aminopeptidase, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A9368721"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8599671"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9373187", 
+            "o": "endoplasmic reticulum aminopeptidase 2, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467226", 
+            "o": "ERAP2 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8599671", 
+            "o": "LRAP protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18467226"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1609313", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A9373187"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8599584", 
+            "o": "L-RAP protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8599584", 
+            "o": "C503944"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8599671", 
+            "o": "C503944"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9368721", 
+            "o": "C503944"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9373187", 
+            "o": "C503944"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198238", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14198239", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14201379", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16703451", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17731032", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17746860", 
+            "o": "HUGO"
+        }
+    ], 
+    "ideal_answer": [
+        "Endoplasmic reticulum aminopeptidase 2 (ERAP2) is localized to the luminal side of the endoplasmic reticulum."
+    ], 
+    "exact_answer": [
+        "luminal side of the endoplasmic reticulum"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060341", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008104", 
+        "http://www.uniprot.org/uniprot/ERAP2_PONAB", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051179", 
+        "http://www.uniprot.org/uniprot/ERAP2_HUMAN", 
+        "http://www.uniprot.org/uniprot/ERAP2_BOVIN"
+    ], 
+    "type": "factoid", 
+    "id": "53442ca9aeec6fbd0700000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "The human endoplasmic reticulum aminopeptidase (ERAP) 1 and 2 proteins ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23946506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 329, 
+            "text": "They are categorized as a unique class of proteases based on their subcellular localization on the luminal side of the endoplasmic reticulum. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23946506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 22, 
+            "offsetInEndSection": 69, 
+            "text": "endoplasmic reticulum aminopeptidase 2 (ERAP2) ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23988446", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 740, 
+            "offsetInEndSection": 808, 
+            "text": "ERAP2 is a proteolytic enzyme set in the endoplasmic reticulum (ER) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23988446", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 530, 
+            "offsetInEndSection": 592, 
+            "text": "both A-LAP and L-RAP are retained in the endoplasmic reticulum", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16054015", 
+            "endSection": "abstract"
+        }
+    ]
+}

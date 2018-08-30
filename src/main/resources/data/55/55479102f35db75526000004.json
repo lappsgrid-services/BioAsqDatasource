@@ -1,0 +1,231 @@
+{
+    "body": "What heterotachy states about molecular evolutionary processes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19687305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20724379", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19822637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17366138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12880207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19482090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16014870", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18852097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21235782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17974035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16151191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18319244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17288568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21186190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20045073", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16672284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11752184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16209710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15746012"
+    ], 
+    "ideal_answer": [
+        "Functional constraints may account for heterogeneity in the evolutionary rates among different sites of amino acid or DNA sequences. Apart from variations of substitution rates among different sites (spatial variation), heterotachy states that there are variations of substitution rates of a given site throughout time. Heterotachy is the within-site evolutionary rate variations across different lineages over time. Heterotachy (temporal rate variation) occurs with varying severity because the intensity of purifying selection and adaptive forces acting at a given position of a homologous amino acid or DNA sequence are not the same in different species. Heterotachy may mislead phylogenetic inferences."
+    ], 
+    "type": "summary", 
+    "id": "55479102f35db75526000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 397, 
+            "text": "One of the properties of protein evolution is the variation of the relative rate of substitutions across sites and over time, the latter is the phenomenon called heterotachy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21235782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Heterotachy is a general term to describe positions that evolve at different rates in different lineages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21186190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "There is widespread evidence of lineage-specific rate variation, known as heterotachy, during protein evolution. Changes in the structural and functional constraints acting on a protein can lead to heterotachy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20724379", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 538, 
+            "text": "Variation in substitution rates among evolutionary lineages (among-lineage rate variation or ALRV) has been reported to negatively affect the estimation of phylogenies. When the substitution processes underlying ALRV are modeled inadequately, non-sister taxa with similar substitution rates are estimated incorrectly as sister species due to long-branch attraction. Recent advances in modeling site-specific rate variation (heterotachy) have reduced the impacts of ALRV on phylogeny estimation in several empirical and simulated datasets.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20045073", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "Heterotachy, the variation of substitution rate at a site across time, is a prevalent phenomenon in nucleotide and amino acid alignments, which may mislead probabilistic-based phylogenetic inferences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19822637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Heterotachy is a general term to describe positions in a sequence that evolve at different rates in different lineages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19687305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 472, 
+            "text": "homotachy (i.e., the evolutionary rates within lineages in each of the concatenated genes are constant during evolution). Here, we examine how the violation of homotachy (i.e., presence of within-site rate variation, called heterotachy) distorts species phylogenies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19482090", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 253, 
+            "text": "The rate at which a given site in a gene sequence alignment evolves over time may vary. This phenomenon--known as heterotachy--can bias or distort phylogenetic trees inferred from models of sequence evolution that assume rates of evolution are constant.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18852097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 260, 
+            "text": "The evolutionary rate at a given homologous position varies across time. When sufficiently pronounced, this phenomenon - called heterotachy - may produce artefactual phylogenetic reconstructions under the commonly used models of sequence evolution.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17974035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 599, 
+            "offsetInEndSection": 842, 
+            "text": "Rate-across-site (RAS) models are commonly used evolutionary models in phylogenetic studies. These account for heterogeneity in the evolutionary rates among sites but do not account for changing within-site rates across lineages (heterotachy).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17366138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 304, 
+            "text": "The rate of evolution varies spatially along genomes and temporally in time. The presence of evolutionary rate variation is an informative signal that often marks functional regions of genomes and historical selection events. There exist many tests for temporal rate variation, or heterotachy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17288568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 455, 
+            "offsetInEndSection": 554, 
+            "text": "heterotachy, a phenomenon that corresponds to shifts in site-specific evolutionary rates over time.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1365, 
+            "offsetInEndSection": 1405, 
+            "text": "within-site rate variation (heterotachy)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 588, 
+            "text": "Because of functional constraints, substitution rates vary among the positions of a protein but are usually assumed to be constant at a given site during evolution. The distribution of the rates across the sequence positions generally fits a Gamma distribution. Models of sequence evolution were accordingly designed and led to improved phylogenetic reconstruction. However, it has been convincingly demonstrated that the evolutionary rate of a given position is not always constant throughout time. We called such within-site rate variations heterotachy (for \"different speed\" in Greek).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11752184", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 338, 
+            "text": "Heterotachy occurs when the relative evolutionary rates among sites are not the same across lineages. Sequence alignments are likely to exhibit heterotachy with varying severity because the intensity of purifying selection and adaptive forces at a given amino acid or DNA sequence position is unlikely to be the same in different species.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16014870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 965, 
+            "offsetInEndSection": 1212, 
+            "text": "compare the evolutionary properties of homologous sequence positions in paralogs. It has been proposed that the positions that show switches in substitution rate over time--i.e., 'heterotachous sites'--are good indicators of functional divergence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12880207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 576, 
+            "offsetInEndSection": 685, 
+            "text": "Many molecular sequences, however, exhibit site-specific changes in evolutionary rates, called \"heterotachy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18319244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 686, 
+            "offsetInEndSection": 837, 
+            "text": "These account for heterogeneity in the evolutionary rates among sites but do not account for changing within-site rates across lineages (heterotachy).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17366138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 270, 
+            "offsetInEndSection": 540, 
+            "text": "However, recent work by Kolaczkowski and Thornton suggested, on the basis of simulations, that MP is less sensitive than ML to tree reconstruction artefacts generated by heterotachy, a phenomenon that corresponds to shifts in site-specific evolutionary rates over time.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Evolutionary rates vary among sites and across the phylogenetic tree (heterotachy).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15746012", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "The principle of heterotachy states that the substitution rate of sites in a gene can change through time.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16672284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 689, 
+            "text": "Many molecular sequences, however, exhibit site-specific changes in evolutionary rates, called \"heterotachy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18319244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 1063, 
+            "text": "Many molecular sequences, however, exhibit site-specific changes in evolutionary rates, called \"heterotachy.\" Here we examine the accuracy of 2 phylogenetic methods for incorporating heterotachy, the mixed branch length model--which incorporates site-specific rate changes by summing likelihoods over multiple sets of branch lengths on the same tree--and the covarion model, which uses a hidden Markov process to allow sites to switch between variable and invariable as they evolve.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18319244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 1062, 
+            "text": "Many molecular sequences, however, exhibit site-specific changes in evolutionary rates, called \"heterotachy.\" Here we examine the accuracy of 2 phylogenetic methods for incorporating heterotachy, the mixed branch length model--which incorporates site-specific rate changes by summing likelihoods over multiple sets of branch lengths on the same tree--and the covarion model, which uses a hidden Markov process to allow sites to switch between variable and invariable as they evolve", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18319244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "The principle of heterotachy states that the substitution rate of sites in a gene can change through time", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16672284", 
+            "endSection": "abstract"
+        }
+    ]
+}

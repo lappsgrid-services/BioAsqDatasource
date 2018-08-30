@@ -1,0 +1,253 @@
+{
+    "body": "Which polymerase transcribes pri-miRNAs?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18042145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26473486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18829588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26119101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20144951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21702984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20655920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26149087", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19398578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20129062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15525708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21178961", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21685453", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25730776", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15589161", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22499686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15372072"
+    ], 
+    "ideal_answer": [
+        "Recent evidence indicates that miRNA genes are transcribed by RNA polymerase II (Pol II) we have established a robust in vivo system in which pri-miRNA is transcribed by RNAP II and processed to pre-miRNA in HeLa cell nuclear extracts.", 
+        "Previous studies in vivo reported that processing of primary microRNA (pri-miRNA) is coupled to transcription by RNA polymerase II (RNAP II) and can occur co-transcriptionally. ", 
+        "The non-protein-encoding pri-miRNAs are synthesized by RNA polymerase II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail.", 
+        " Analogously to mRNAs, the non-protein-encoding pri-miRNAs are synthesized by RNA polymerase II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail. Recent evidence indicates that miRNA genes are transcribed by RNA polymerase II (Pol II)", 
+        "Previous studies in vivo reported that processing of primary microRNA (pri-miRNA) is coupled to transcription by RNA polymerase II (RNAP II) and can occur co-transcriptionally. we have established a robust in vivo system in which pri-miRNA is transcribed by RNAP II and processed to pre-miRNA in HeLa cell nuclear extracts.", 
+        "Because the transcripts of most miRNA genes are the products of type-II RNA polymerase, pri-miRNA has a poly(A) tail and appears in expressed sequence tags (EST). Analogously to mRNAs, the non-protein-encoding pri-miRNAs are synthesized by RNA polymerase II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail."
+    ], 
+    "exact_answer": [
+        "RNA polymerase II", 
+        "RNAPII"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:1902893", 
+        "http://amigo.geneontology.org/amigo/term/GO:1902895", 
+        "http://amigo.geneontology.org/amigo/term/GO:1902894", 
+        "http://amigo.geneontology.org/amigo/term/GO:0061614", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012319"
+    ], 
+    "type": "factoid", 
+    "id": "589d965a78275d0c4a000049", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Previous studies in vivo reported that processing of primary microRNA (pri-miRNA) is coupled to transcription by RNA polymerase II (RNAP II) and can occur co-transcriptionally. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26149087", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 328, 
+            "text": "we have established a robust in vivo system in which pri-miRNA is transcribed by RNAP II and processed to pre-miRNA in HeLa cell nuclear extracts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26149087", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 628, 
+            "offsetInEndSection": 873, 
+            "text": "In addition, obvious enrichments of three histone modifications (H2BK5me1, H3K36me3 and H4K20me1) as well as RNA Polymerase II (RNAPII) were observed on pre-miRNA genomic sequences corresponding to the active-promoter miRNAs and expressed miRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21702984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 252, 
+            "offsetInEndSection": 413, 
+            "text": "Because the transcripts of most miRNA genes are the products of type-II RNA polymerase, pri-miRNA has a poly(A) tail and appears in expressed sequence tags (EST)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20655920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 398, 
+            "text": "Recent evidence indicates that miRNA genes are transcribed by RNA polymerase II (Pol II)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18829588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 400, 
+            "offsetInEndSection": 688, 
+            "text": "Since Pol II transcripts are capped, we hypothesized that CBP (cap-binding protein) 20 and 80 may bind to capped primary miRNA (pri-miRNA) transcripts and play a role in their processing. Here, we show that cbp20 and cbp80 mutants have reduced miRNA levels and increased pri-miRNA levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18829588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 299, 
+            "text": " Analogously to mRNAs, the non-protein-encoding pri-miRNAs are synthesized by RNA polymerase II and post-transcriptionally modified by addition of a 5'-cap and a 3'-poly (A) tail.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18042145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 279, 
+            "text": "Plant miRNAs are first transcribed as stem-loop primary miRNAs (pri-miRNAs) by RNA polymerase II,then cleaved in the nucleus into mature miRNAs by Dicer-like 1 (DCL1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26473486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 453, 
+            "text": "miRNAs are excised in a stepwise process from double-stranded RNA precursors that are embedded in long RNA polymerase II primary transcripts (pri-miRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15589161", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 795, 
+            "text": "Plant pri-miRNAs are transcribed by DNA-dependent RNA polymerase II (Pol II) and their levels are determined through transcription and degradation, whereas pri-miRNA processing is affected by its structure, splicing, alternative splicing, loading to the processor and the processor activity, which involve in many accessory proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26119101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 589, 
+            "offsetInEndSection": 716, 
+            "text": "Specifically, MHV68 miRNAs are transcribed from RNA polymerase III promoters located within adjacent viral tRNA-like sequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20129062", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 234, 
+            "text": "Mammalian miRNA biogenesis begins with cotranscriptional cleavage of RNA polymerase II (Pol II) transcripts by the Microprocessor complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25730776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 455, 
+            "text": "miRNAs are excised in a stepwise process from double-stranded RNA precursors that are embedded in long RNA polymerase II primary transcripts (pri-miRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15589161", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Canonical primary microRNA (pri-miRNA) precursors are transcribed by RNA polymerase II and then processed by the Drosha endonuclease to generate approximately 60 nt pre-miRNA hairpins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20129062", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 751, 
+            "text": "Treatment of cells overexpressing NF90 and NF45 with an RNA polymerase II inhibitor, alpha-amanitin, did not reduce the amounts of pri-miRNAs, suggesting that the accumulation of pri-miRNAs is not due to transcriptional activation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19398578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 279, 
+            "text": "Plant miRNAs are first transcribed as stem-loop primary miRNAs (pri-miRNAs) by RNA polymerase II,then cleaved in the nucleus into mature miRNAs by Dicer-like 1 (DCL1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26473486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 797, 
+            "text": "Plant pri-miRNAs are transcribed by DNA-dependent RNA polymerase II (Pol II) and their levels are determined through transcription and degradation, whereas pri-miRNA processing is affected by its structure, splicing, alternative splicing, loading to the processor and the processor activity, which involve in many accessory proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26119101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "The majority of human miRNA genes is transcribed by polymerase II and can be classified as class II genes similar to protein-coding genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20144951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 798, 
+            "text": "Plant pri-miRNAs are transcribed by DNA-dependent RNA polymerase II (Pol II) and their levels are determined through transcription and degradation, whereas pri-miRNA processing is affected by its structure, splicing, alternative splicing, loading to the processor and the processor activity, which involve in many accessory proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26119101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 213, 
+            "text": "In plant, primary transcripts (pri-miRNAs) transcribed from miRNA genes by RNA polymerase II are first processed into stem-loop pre-miRNAs and further chopped into \u223c21\u2009nt long miRNAs by RNase III-like enzyme DCL1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21685453", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 1050, 
+            "text": "These small RNAs are first transcribed by RNA polymerase II as a primary miRNA (pri-miRNA) transcript, which is then cleaved into the precursor miRNA (pre-miRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21178961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 381, 
+            "text": "Here we present the first direct evidence that miRNA genes are transcribed by RNA polymerase II (pol II).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15372072", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 280, 
+            "text": "Plant miRNAs are first transcribed as stem-loop primary miRNAs (pri-miRNAs) by RNA polymerase II,then cleaved in the nucleus into mature miRNAs by Dicer-like 1 (DCL1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26473486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "MicroRNA genes are transcribed by RNA polymerase II.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15372072", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 177, 
+            "offsetInEndSection": 328, 
+            "text": "Here we have established a robust in vivo system in which pri-miRNA is transcribed by RNAP II and processed to pre-miRNA in HeLa cell nuclear extracts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26149087", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 769, 
+            "offsetInEndSection": 1012, 
+            "text": "Although it is assumed that miRNA promoters are similar in structure to gene promoters, since both are transcribed by RNA polymerase II (Pol II), computational validations exhibit poor performance of gene promoter prediction methods on miRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22499686", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "body": "What is the mode of inheritance in Fanconi anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8987005", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3369448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17924555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22959745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/939547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19549413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11128621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22693659", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16675878"
+    ], 
+    "ideal_answer": [
+        "Fanconi anemia (FA) is a rare inherited syndrome with diverse clinical symptoms including developmental defects, short stature, bone marrow failure, and a high risk of malignancies. Fifteen genetic subtypes have been distinguished so far. The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked  ", 
+        "Fanconi anemia (FA) is a rare inherited syndrome. So far, fifteen genetic subtypes have been distinguished. The mode of inheritance for all subtypes is autosomal recessive, except for FANCB, which is X-linked."
+    ], 
+    "exact_answer": [
+        "Autosomal recessive, except for FANCB, which is X-linked."
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:1062", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13636"
+    ], 
+    "type": "factoid", 
+    "id": "54ede95c94afd6150400000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 338, 
+            "text": "Fanconi anemia (FA) is a rare inherited syndrome with diverse clinical symptoms including developmental defects, short stature, bone marrow failure, and a high risk of malignancies. Fifteen genetic subtypes have been distinguished so far. The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22693659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Fanconi anemia (FA) is a recessively inherited syndrome with predisposition to bone marrow failure and malignancies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17924555", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 433, 
+            "offsetInEndSection": 626, 
+            "text": "Original Fanconi anemia data, for which no information about the ascertainment was available, were then analyzed, with results that confirmed a monogenic autosomal recessive mode of inheritance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3369448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 309, 
+            "text": "The formal genetics of Fanconi's anemia were investigated on the basis of 21 families from different European countries, and of 69 families from the literature. CONCLUSIONS: 1. The result of segregation analysis is compatible with the hypothesis of a simple autosomal recessive mode of inheritance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/939547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 624, 
+            "text": " Original Fanconi anemia data, for which no information about the ascertainment was available, were then analyzed, with results that confirmed a monogenic autosomal recessive mode of inheritance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3369448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "X-linked inheritance of Fanconi anemia complementation group B.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Fanconi anemia (FA) is a rare genetic disease with both autosomal and X-linked inheritance, characterized by genomic instability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19549413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 860, 
+            "offsetInEndSection": 1001, 
+            "text": " X-linked inheritance has important consequences for genetic counseling of families with Fanconi anemia belonging to complementation group B.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 433, 
+            "offsetInEndSection": 627, 
+            "text": "Original Fanconi anemia data, for which no information about the ascertainment was available, were then analyzed, with results that confirmed a monogenic autosomal recessive mode of inheritance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3369448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 264, 
+            "text": "Fanconi anemia (FA), a recessive syndrome with both autosomal and X-linked inheritance, features diverse clinical symptoms, such as progressive bone marrow failure, hypersensitivity to DNA cross-linking agents, chromosomal instability and susceptibility to cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16675878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 865, 
+            "offsetInEndSection": 1210, 
+            "text": "X-linked inheritance has important consequences for genetic counseling of families with Fanconi anemia belonging to complementation group B. Its presence as a single active copy and essentiality for a functional Fanconi anemia-BRCA pathway make FANCB a potentially vulnerable component of the cellular machinery that maintains genomic integrity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Fanconi anemia (FA) is a rare genetic disease, transmitted in an autosomal recessive mode.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22959745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 77, 
+            "offsetInEndSection": 200, 
+            "text": "Report of two early-onset cases with Fanconis anemia-like phenotypes suggesting an autosomal-recessive inheritance pattern.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11128621", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 436, 
+            "text": "In the first family, an association with Fanconis anemia was observed in three of seven pregnancies (2 boys, 1 girl) suggesting an autosomal recessive mode of transmission.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8987005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 339, 
+            "text": "The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22693659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 867, 
+            "offsetInEndSection": 1007, 
+            "text": "X-linked inheritance has important consequences for genetic counseling of families with Fanconi anemia belonging to complementation group B.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 338, 
+            "text": "The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22693659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 436, 
+            "text": "In the first family, an association with Fanconi's anemia was observed in three of seven pregnancies (2 boys, 1 girl) suggesting an autosomal recessive mode of transmission", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8987005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 867, 
+            "offsetInEndSection": 1006, 
+            "text": "X-linked inheritance has important consequences for genetic counseling of families with Fanconi anemia belonging to complementation group B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15502827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Fanconi anemia (FA) is a rare genetic disease, transmitted in an autosomal recessive mode", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22959745", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "body": "List two most common symptoms of Aagenaes syndrome.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19498211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23626552", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10968776", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25039919", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9350821", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24086631", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16635916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27614462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25317502", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8278949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11446017", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20170991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12712065"
+    ], 
+    "ideal_answer": [
+        "Aagenaes syndrome, also called lymphoedema cholestasis syndrome 1, is characterized by neonatal intrahepatic cholestasis, often lessening and becoming intermittent with age and severe chronic lymphoedema, mainly affecting the lower extremities."
+    ], 
+    "exact_answer": [
+        [
+            "intrahepatic cholestasis"
+        ], 
+        [
+            "lymphoedema"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:6691", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012816"
+    ], 
+    "type": "list", 
+    "id": "5895f9cf78275d0c4a000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "Aagenaes syndrome, also called lymphoedema cholestasis syndrome 1 (LSC1), is characterized by neonatal intrahepatic cholestasis, often lessening and becoming intermittent with age and severe chronic lymphoedema, mainly affecting the lower extremities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27614462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 319, 
+            "text": "In this study, 17 out of 20 Norweigian adult patients with lymphedema cholestasis syndrome 1 (LCS1)/Aagenaes syndrome were examined. The patients exhibited lymphedema and sporadic cholestasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25317502", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "BACKGROUND: Lymphedema-cholestasis syndrome (LCS; Aagenaes syndrome) is a rare autosomal recessive disorder, characterized by 1) neonatal intrahepatic cholestasis, often lessening and becoming intermittent with age, and 2) severe chronic lymphedema, mainly lower limb.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24086631", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 325, 
+            "text": "The disease was thought to be caused by a congenital cholestatic syndrome associated with intermittent oedema in childhood, resembling the rare Aagenaes syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23626552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Do patients with lymphoedema cholestasis syndrome 1/Aagenaes syndrome need dietary counselling outside cholestatic episodes?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20170991", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "BACKGROUND & AIMS: Patients with lymphoedema cholestasis syndrome 1/Aagenaes Syndrome need a fat reduced diet when cholestatic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20170991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Aagenaes syndrome, also called Lymphedema Cholestasis Syndrome (LSC 1), is a form of idiopathic familial intrahepatic cholestasis associated with lymphedema of the lower extremities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19498211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Aagenaes syndrome, also called Lymphedema Cholestasis Syndrome (LSC 1), is a form of idiopathic familial intrahepatic cholestasis associated with lymphedema of the lower extremities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19498211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Parent-child transmission of infantile cholestasis with lymphoedema (Aagenaes syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9350821", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Mapping of the locus for cholestasis-lymphedema syndrome (Aagenaes syndrome) to a 6.6-cM interval on chromosome 15q.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10968776", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Lymphedema-cholestasis syndrome (LCS, Aagenaes syndrome) is the only known form of hereditary lymphedema associated with cholestasis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12712065", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 308, 
+            "text": "OBJECTIVE: To investigate the prognosis of liver disease in Aagenaes syndrome (lymphoedema cholestasis syndrome 1 (LCS1)), which is an autosomal recessive inherited syndrome consisting of neonatal cholestasis with intermittent cholestatic episodes in childhood into adulthood and development of lymphoedema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 269, 
+            "text": "BACKGROUND: Lymphedema-cholestasis syndrome (LCS; Aagenaes syndrome) is a rare autosomal recessive disorder, characterized by 1) neonatal intrahepatic cholestasis, often lessening and becoming intermittent with age, and 2) severe chronic lymphedema, mainly lower limb. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24086631", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "[Aagenaes syndrome--lymphedema and intrahepatic cholestasis].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11446017", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Parent-child transmission of infantile cholestasis with lymphoedema (Aagenaes syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9350821", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Hereditary lymphedema, characteristics, and variations in 17 adult patients with lymphedema cholestasis syndrome 1/Aagenaes syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25317502", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Lymphedema-cholestasis syndrome (LCS, Aagenaes syndrome) is the only known form of hereditary lymphedema associated with cholestasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12712065", 
+            "endSection": "abstract"
+        }
+    ]
+}

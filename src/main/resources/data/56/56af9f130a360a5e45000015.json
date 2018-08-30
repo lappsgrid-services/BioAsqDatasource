@@ -1,0 +1,341 @@
+{
+    "body": "Where is the protein Pannexin1 located?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24642372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25056878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24694658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25698922", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17064878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24782784", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26100513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25007779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19409451", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24194896"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17397470", 
+            "o": "C544702"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17400569"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17397470"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400568", 
+            "o": "Panx1 protein, zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17399545", 
+            "o": "zfPanx1 protein, zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400569", 
+            "o": "pannexin 1 protein, zebrafish"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17399545"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17397470", 
+            "o": "pannexin1 protein, zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17400568"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17397470"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17399545", 
+            "o": "C544702"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400568", 
+            "o": "C544702"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400569", 
+            "o": "C544702"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17397470", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17399545", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400568", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400569", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0969748"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17909603", 
+            "o": "Brachydanio rerio Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17885251", 
+            "o": "Zebra Danio Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2030874", 
+            "o": "Danio rerio Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18005491", 
+            "o": "Zebrafish Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17885252", 
+            "o": "Zebrafish Proteins [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17909604", 
+            "o": "Zebra Fish Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0969748", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C2743999"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0110611"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18025970", 
+            "o": "Connexins [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0361672", 
+            "o": "Gap Junction Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15367648", 
+            "o": "Connexin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17882031", 
+            "o": "Protein, Gap Junction"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1305072", 
+            "o": "connexin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0188058", 
+            "o": "Gap Junction Protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18025971", 
+            "o": "Proteins, Gap Junction"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0361674", 
+            "o": "Junction Protein, Gap"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0361675", 
+            "o": "Junction Proteins, Gap"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12992664", 
+            "o": "Gap Junction Channel Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A4365650", 
+            "o": "Connexins"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0110611", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C2743999"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#inScheme", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/submittedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q29ZM8", 
+            "o": "http://linkedlifedata.com/resource/#_5132395A4D38008"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5132395A4D38008", 
+            "o": "Pannexin1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R120084487", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C2743999"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2743999", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R119818176"
+        }
+    ], 
+    "ideal_answer": [
+        "The protein Pannexin1 is localized to the plasma membranes."
+    ], 
+    "exact_answer": [
+        "plasma membrane"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051179"
+    ], 
+    "type": "factoid", 
+    "id": "56af9f130a360a5e45000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 394, 
+            "offsetInEndSection": 620, 
+            "text": "zfPanx1 was identified on the surface of horizontal cell dendrites invaginating deeply into the cone pedicle near the glutamate release sites of the cones, providing in vivo evidence for hemichannel formation at that location.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19409451", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 845, 
+            "offsetInEndSection": 915, 
+            "text": "pannexin1, a vertebrate homolog of invertebrate gap junction proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17064878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 422, 
+            "text": "The specific profile of gap junction proteins, the connexins, expressed in these different cell types forms compartments of intercellular communication that can be further shaped by the release of extracellular nucleotides via pannexin1 channels. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26100513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 430, 
+            "text": "Recent studies demonstrated that ATP can be released from cells in a controlled manner through pannexin (Panx) channels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24642372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 59, 
+            "text": "The ATP release channel Pannexin1 (Panx1) is self-regulated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24694658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "The membrane protein Pannexin1 forms two open-channel conformations depending on the mode of activation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25056878", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 143, 
+            "text": " Pannexin1 channels traffic to the plasma membrane.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25698922", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 340, 
+            "text": "We previously showed that pannexins form oligomeric channels but unlike connexins and innexins, they form only single membrane channels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25698922", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 30, 
+            "text": "ATP release channel Pannexin1 ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25007779", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 359, 
+            "text": "Pannexin1 (Panx1) is a newly discovered extracellular ATP release channel with a wide tissue distribution and diverse biological functions in mammals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25007779", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "In mammals, a single pannexin1 gene (Panx1) is widely expressed in the CNS including the inner and outer retinae, forming large-pore voltage-gated membrane channels, which are involved in calcium and ATP signaling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24194896", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 366, 
+            "text": "Six of them form a \"gap junction hemichannel-like\" structure that connects the cytoplasm with the extracellular space; here they will be called Panx1 channels. These are poorly selective channels permeable to ions, small metabolic substrate, and signaling molecules.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24782784", 
+            "endSection": "abstract"
+        }
+    ]
+}

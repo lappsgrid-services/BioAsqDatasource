@@ -1,0 +1,70 @@
+{
+    "body": "What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21772967", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22682265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21960571", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22244016", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22645702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22220280", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22068990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23101451", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23909253", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24339571"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00029146", 
+            "o": "\n      The overall purpose of this research is to determine if a surgical operation called\n      \"Extracranial-Intracranial Bypass\" can reduce the chance of a subsequent stroke in someone\n      who has complete blockage in one main artery in the neck (the carotid artery) that supplies\n      blood to the brain and has already suffered a small stroke. This surgery involves taking an\n      artery from the scalp outside the skull, making a small hole in the skull and then connecting\n      the scalp artery to a brain artery inside the skull. In this way the blockage of the carotid\n      artery in the neck is bypassed and more blood can flow to the brain. In some people natural\n      bypass arteries develop and the brain is already getting plenty of blood. These people have a\n      low risk of stroke if they take medicine. In other people, no natural bypass arteries develop\n      so less blood flows to their brains. This second group has a much higher risk of stroke while\n      taking medicine, as high as 25-50% within the next two years. It is this second group of\n      people who may benefit from having the bypass operation and who are the candidates for this\n      study.\n\n      This bypass surgery is considered experimental because it is not generally performed for this\n      condition and it is unknown whether it leads to a decrease, an increase or no change in the\n      risk of stroke. In order to determine if people fit into this second group of people who may\n      benefit from the bypass operation they need to have a test called a PET scan. The PET scan\n      measures the amount of blood that is getting to the brain and the amount of oxygen that the\n      brain is using. The PET scan uses radioactive oxygen and water and is experimental (not\n      approved by the United States Food and Drug Administration). If the PET scan shows that less\n      blood is getting to the brain, there will be a 50-50 chance (like a coin toss) of receiving\n      the bypass surgery or not. There will then be follow-up visits to the clinic one month later\n      and then every three months for two years to check on the appropriate medical treatment that\n      everyone will receive and to determine who has had a stroke.\n\n      The study hypothesis is that extracranial-intracranial bypass surgery when added to best\n      medical therapy can reduce by 40 percent  subsequent stroke within  two years in participants\n      with recent TIA ('ministroke\") or stroke (</= 120 days) due to blockage of the carotid artery\n      and reduced blood flow to the brain measured by PET.\n    "
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/summary", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00029146", 
+            "o": "\n      The purpose of this study is to determine if extracranial-intracranial bypass surgery when\n      added to best medical therapy can reduce the subsequent risk of ipsilateral stroke in\n      high-risk patients with recently symptomatic carotid occlusion and increased cerebral oxygen\n      extraction fraction measured by PET.\n    "
+        }
+    ], 
+    "ideal_answer": [
+        "The Carotid Occlusion Surgery Study (COSS) was conducted to determine if superficial temporal artery-middle cerebral artery (STA-MCA) bypass, when added to the best medical therapy, would reduce subsequent ipsilateral stroke in patients with complete internal carotid artery (ICA) occlusion and an elevated oxygen extraction fraction (OEF) in the cerebral hemisphere distal to the occlusion."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002986", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016430"
+    ], 
+    "type": "summary", 
+    "id": "5314c045dae131f847000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 399, 
+            "text": "The Carotid Occlusion Surgery Study (COSS) was conducted to determine if superficial temporal artery-middle cerebral artery (STA-MCA) bypass, when added to the best medical therapy, would reduce subsequent ipsilateral stroke in patients with complete internal carotid artery (ICA) occlusion and an elevated oxygen extraction fraction (OEF) in the cerebral hemisphere distal to the occlusion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23101451", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Extracranial-intracranial bypass surgery for stroke prevention in hemodynamic cerebral ischemia: the Carotid Occlusion Surgery Study randomized trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22068990", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 201, 
+            "offsetInEndSection": 436, 
+            "text": "To test the hypothesis that extracranial-intracranial (EC-IC) bypass surgery, added to best medical therapy, reduces subsequent ipsilateral ischemic stroke in patients with recently symptomatic AICAO and hemodynamic cerebral ischemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22068990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 343, 
+            "text": "The Carotid Occlusion Surgery Study (COSS) was a large, prospective clinical trial that examined whether superficial temporal artery-middle cerebral artery (STA-MCA) bypass, in addition to best medical therapy, reduced the risk of ipsilateral ischemic stroke in patients with carotid artery occlusion and hemodynamic cerebral ischemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23909253", 
+            "endSection": "abstract"
+        }
+    ]
+}

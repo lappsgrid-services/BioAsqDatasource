@@ -1,0 +1,78 @@
+{
+    "body": "Oxantel is used for periodontitis treatment. How does it work?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20038616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24165189"
+    ], 
+    "triples": [
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/oxantel", 
+            "o": "36531-26-7"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/oxantel", 
+            "o": "oxantel"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0294401", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0163908", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0294401"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0294401", 
+            "o": "oxantel pamoate"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0163908", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0294401"
+        }
+    ], 
+    "ideal_answer": [
+        "Oxantel, a cholinergic anthelmintic and fumarate reductase inhibitor, significantly inhibited biofilm formation by P. gingivalis and disrupted established biofilms."
+    ], 
+    "exact_answer": [
+        "Oxantel disrupts polymicrobial biofilm"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4251142", 
+        "http://www.disease-ontology.org/api/metadata/DOID:824", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010518"
+    ], 
+    "type": "factoid", 
+    "id": "530c7f52970c65fa6b000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Oxantel disrupts polymicrobial biofilm development of periodontal pathogens", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24165189", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 444, 
+            "text": "he anthelmintic drug oxantel has been shown to inhibit fumarate reductase (Frd) activity in some pathogenic bacteria and inhibit P. gingivalis homotypic biofilm formation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24165189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 349, 
+            "text": "Oxantel, a cholinergic anthelmintic and fumarate reductase inhibitor, significantly inhibited biofilm formation by P. gingivalis and disrupted established biofilms at concentrations below its MIC against planktonic cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20038616", 
+            "endSection": "abstract"
+        }
+    ]
+}

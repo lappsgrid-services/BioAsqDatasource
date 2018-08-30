@@ -1,0 +1,198 @@
+{
+    "body": "Does the Abelson-related gene (ARG) gene encode for a serine kinase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18411439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25849507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15987940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12220663", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1923513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23707396", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2649173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15765532", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18810762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12821941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19563810", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9828110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10590083"
+    ], 
+    "ideal_answer": [
+        "No, the ARG gene encodes for a nonreceptor tyrosine kinase."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/ABL2_HUMAN", 
+        "http://www.uniprot.org/uniprot/ABL2_MOUSE"
+    ], 
+    "type": "yesno", 
+    "id": "58db94948acda34529000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "One isoform of Arg/Abl2 tyrosine kinase is nuclear and the other seven cytosolic isoforms differently modulate cell morphology, motility and the cytoskeleton.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707396", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "The non-receptor tyrosine kinase Abelson related gene (Arg/Abl2) regulates cell migration and morphogenesis by modulating the cytoskeleton. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 153, 
+            "text": "The human Arg (Abl2) nonreceptor tyrosine kinase has a role in cytoskeletal rearrangements by its C-terminal F-actin- and microtubule-binding sequences. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18810762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "The tyrosine kinase abl-related gene ARG is fused to ETV6 in an AML-M4Eo patient with a t(1;12)(q25;p13): molecular cloning of both reciprocal transcripts.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 844, 
+            "offsetInEndSection": 1041, 
+            "text": " The ARG gene encodes for a nonreceptor tyrosine kinase characterized by high homology with c-Abl in the TK, SH2, and SH3 domains. This is the first report on ARG involvement in a human malignancy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Ultraviolet-A and -B differentially modify the tyrosine-kinase profile of human keratinocytes and induce the expression of Arg+.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18411439", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 648, 
+            "text": "Arg (Abelson-related gene, Abl2) was the PTK with the highest prevalence (30% of all PTKs) and UVA led to a further induction of Arg expression reaching nine-fold mRNA baseline expression at 17 h after irradiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18411439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": "To investigate the expression profile of protein tyrosine kinases (PTKs) in normal human epidermal keratinocytes (NHEK) in response to UVA and UVB we employed a reversed transcriptase polymerase chain reaction (PCR) approach using degenerate primers derived from the conserved catalytic domain of PTKs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18411439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 339, 
+            "offsetInEndSection": 671, 
+            "text": "By 3'rapid amplification of cDNA ends-polymerase chain reaction (3'RACE-PCR), a novel fusion transcript was identified between the ETV6 and the Abelson-related gene (ARG) at 1q25, resulting in a chimeric protein consisting of the HLH oligomerization domain of ETV6 and the SH2, SH3, and protein tyrosine kinase (PTK) domains of ARG.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "The non-receptor tyrosine kinase Abelson related gene (Arg/Abl2) regulates cell migration and morphogenesis by modulating the cytoskeleton.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 432, 
+            "offsetInEndSection": 646, 
+            "text": "Arg (Abelson-related gene, Abl2) was the PTK with the highest prevalence (30% of all PTKs) and UVA led to a further induction of Arg expression reaching nine-fold mRNA baseline expression at 17 h after irradiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18411439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 282, 
+            "text": "We studied the relationship of direct karyotypes, determined at diagnosis and remission, to Abelson-related tyrosine kinase activity and the cytogenetic features of erythroid and myeloid colonies derived from remission marrow of six children with acute lymphoblastic leukemia (ALL).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2649173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "ABL2/ARG (ABL-related gene) belongs to the ABL (Abelson tyrosine-protein kinase) family of tyrosine kinases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25849507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "The non-receptor tyrosine kinase Abelson related gene (Arg/Abl2) regulates cell migration and morphogenesis by modulating the cytoskeleton", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 845, 
+            "offsetInEndSection": 974, 
+            "text": "The ARG gene encodes for a nonreceptor tyrosine kinase characterized by high homology with c-Abl in the TK, SH2, and SH3 domains.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "ABL2/ARG (ABL-related gene) belongs to the ABL (Abelson tyrosine-protein kinase) family of tyrosine kinases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25849507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 374, 
+            "text": "We report that the Abelson (Abl) and Abl-related gene (Arg) nonreceptor tyrosine kinases are required for maintenance of cortical dendrites in the mouse brain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15987940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "The products of the human ARG gene and the human ABL gene characterize the Abelson family of non-receptor tyrosine protein kinases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12220663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "The products of the human Arg gene and human, mouse, Drosophila, and nematode Abl genes characterize the Abelson family of nonreceptor tyrosine protein kinase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9828110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 673, 
+            "text": "By 3'rapid amplification of cDNA ends-polymerase chain reaction (3'RACE-PCR), a novel fusion transcript was identified between the ETV6 and the Abelson-related gene (ARG) at 1q25, resulting in a chimeric protein consisting of the HLH oligomerization domain of ETV6 and the SH2, SH3, and protein tyrosine kinase (PTK) domains of ARG.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "The tyrosine kinase abl-related gene ARG is fused to ETV6 in an AML-M4Eo patient with a t(1;12)(q25;p13): molecular cloning of both reciprocal transcripts.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10590083", 
+            "endSection": "title"
+        }
+    ]
+}

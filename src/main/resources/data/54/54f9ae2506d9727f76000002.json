@@ -1,0 +1,162 @@
+{
+    "body": "Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18937352", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21880664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16096717", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21789513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12574890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11691526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15851108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10902626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17924338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22315228"
+    ], 
+    "ideal_answer": [
+        "Identification of a deletion in plakoglobin in arrhythmogenic right ventricular cardiomyopathy with palmoplantar keratoderma and woolly hair (Naxos disease).Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.", 
+        "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.  ", 
+        "A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, which encodes a major component of the desmosome and the adherens junction, had been identified in Naxos patients, although the underlying mechanism remained elusive.", 
+        "A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, had been identified in Naxos Disease patients, a subset of ARVC, which is characterized by cutaneous disorder."
+    ], 
+    "exact_answer": [
+        "The Plakoglobin gene", 
+        "plakoglobin[jup]"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009202", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050431"
+    ], 
+    "type": "factoid", 
+    "id": "54f9ae2506d9727f76000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 517, 
+            "text": "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inheritable myocardial disorder associated with fibrofatty replacement of myocardium and ventricular arrhythmia. A subset of ARVC is categorized as Naxos disease, which is characterized by ARVC and a cutaneous disorder. A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, which encodes a major component of the desmosome and the adherens junction, had been identified in Naxos patients, although the underlying mechanism remained elusive.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21880664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Loss-of-function mutation of Jup has been associated with Naxos disease, which is characterized by arrhythmogenic cardiomyopathy and the cutaneous disorder palmoplantar keratoderma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22315228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 337, 
+            "text": "Previously, we have shown that genetic ablation of Jup in cardiomyocytes in mice leads to arrhythmogenic cardiomyopathy similar to Naxos disease in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22315228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 309, 
+            "offsetInEndSection": 520, 
+            "text": "As similar phenotypes have been described in Naxos disease and Carvajal syndrome, respectively, the genes for plakoglobin (JUP) and desmoplakin (DSP) were screened for mutations using direct genomic sequencing. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 396, 
+            "offsetInEndSection": 554, 
+            "text": "One is a C-terminal mutation causing Naxos disease, a recessive syndrome of arrhythmogenic right ventricular cardiomyopathy (ARVC) and abnormal skin and hair.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18937352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 271, 
+            "offsetInEndSection": 394, 
+            "text": "In this study, we examined the effects of two different mutations in plakoglobin on cell migration, stiffness, and adhesion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18937352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17924338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1328, 
+            "offsetInEndSection": 1517, 
+            "text": "Three other genes implicated for ARVC, plakoglobin (Naxos disease), desmoplakin (ARVC8) and plakophilin (ARVC9) have prompted the speculation that ARVC is primarily a disease of desmosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16096717", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 271, 
+            "text": "We tested the hypothesis that defective interactions between adhesion junctions and the cytoskeleton caused by the plakoglobin mutation in Naxos disease lead to remodeling of gap junctions and altered expression of the major gap junction protein, connexin43. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15851108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 283, 
+            "offsetInEndSection": 568, 
+            "text": "Naxos disease, a recessive form of arrhythmogenic right ventricular cardiomyopathy, is associated with a high incidence of arrhythmias and sudden cardiac death. Naxos disease is caused by a mutation in plakoglobin, a protein that links cell-cell adhesion molecules to the cytoskeleton.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15851108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1463, 
+            "offsetInEndSection": 1736, 
+            "text": "However, in Naxos disease, a recessive form of ARVC with coexpression of palmoplantar keratoderma and woolly hair, a mutation in the plakoglobin gene has recently been discovered, thus underscoring the potential role of genetic alterations in cytoskeletal proteins in ARVC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12574890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 490, 
+            "text": "Naxos disease is a recessively inherited ARVC caused by a mutation in the gene encoding plakoglobin (cell adhesion protein) in which the cardiac phenotype is associated with palmoplantar keratoderma and woolly hair. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11691526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1545, 
+            "offsetInEndSection": 1734, 
+            "text": "Autosomal recessive ARVC caused by a mutation in plakoglobin was 100% penetrant by adolescence. Affected subjects who were homozygous experienced progressive disease with adverse prognosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11691526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 546, 
+            "text": "Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an autosomal dominant heart muscle disorder that causes arrhythmia, heart failure, and sudden death. Previously we mapped the genetic locus for the triad of autosomal recessive ARVC, palmoplantar keratoderma, and woolly hair (Naxos disease) to chromosome 17q21, in which the gene for plakoglobin is encoded. This protein is a key component of desmosomes and adherens junctions, and is important for the tight adhesion of many cell types, including those in the heart and skin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10902626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Identification of a deletion in plakoglobin in arrhythmogenic right ventricular cardiomyopathy with palmoplantar keratoderma and woolly hair (Naxos disease).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10902626", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Remodeling of myocyte gap junctions in arrhythmogenic right ventricular cardiomyopathy due to a deletion in plakoglobin (Naxos disease).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15851108", 
+            "endSection": "title"
+        }
+    ]
+}

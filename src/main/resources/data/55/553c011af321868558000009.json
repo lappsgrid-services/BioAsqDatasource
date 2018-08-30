@@ -1,0 +1,228 @@
+{
+    "body": "Is Lysine-specific demethylase 1 (LSD1) a critical regulator of hematopoiesis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19736520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22801375", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23795291", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22310283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23147254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24163373", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22399799"
+    ], 
+    "ideal_answer": [
+        "Yes. Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation of erythroid, granulomonocytic and megakaryocytic progenitors."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035162", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030097", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033193"
+    ], 
+    "type": "yesno", 
+    "id": "553c011af321868558000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Histone lysine-specific demethylase 1 (LSD1) protein is involved in Sal-like protein 4 (SALL4)-mediated transcriptional repression in hematopoietic stem cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24163373", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1167, 
+            "offsetInEndSection": 1317, 
+            "text": "shRNA-mediated knockdown of LSD1 in hematopoietic precursor cells resulted in altered SALL4 downstream gene expression and increased cellular activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24163373", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1325, 
+            "offsetInEndSection": 1560, 
+            "text": "our data revealed that histone demethylase LSD1 may negatively regulate SALL4-mediated transcription, and the dynamic regulation of SALL4-associated epigenetic factors cooperatively modulates early hematopoietic precursor proliferation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24163373", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Lysine-specific demethylase 1 restricts hematopoietic progenitor proliferation and is essential for terminal differentiation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 405, 
+            "text": " LSD1 represents a central regulator of hematopoietic stem and progenitor cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 502, 
+            "offsetInEndSection": 602, 
+            "text": " LSD1-kd led to an extensive expansion of granulomonocytic, erythroid and megakaryocytic progenitors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1123, 
+            "text": "LSD1-kd was associated with the upregulation of key hematopoietic genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1352, 
+            "offsetInEndSection": 1422, 
+            "text": "our findings distinguish LSD1 as a critical regulator of hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "A short Gfi-1B isoform controls erythroid differentiation by recruiting the LSD1-CoREST complex through the dimethylation of its SNAG domain", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22399799", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Dynamic interaction between TAL1 oncoprotein and LSD1 regulates TAL1 function in hematopoiesis and leukemogenesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310283", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 778, 
+            "text": "Here, we reported that protein kinase A (PKA)-mediated phosphorylation regulates TAL1 interaction with the lysine-specific demethylase (LSD1) that removes methyl group from methylated Lys 4 on histone H3 tails. Phosphorylation of serine 172 in TAL1 specifically destabilizes the TAL1-LSD1 interaction leading to promoter H3K4 hypermethylation and activation of target genes that have been suppressed in normal and malignant hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "LSD1-mediated epigenetic modification is required for TAL1 function and hematopoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 251, 
+            "offsetInEndSection": 525, 
+            "text": "we show that TAL1 is associated with histone demethylase complexes containing lysine-specific demethylase 1 (LSD1), RE1 silencing transcription factor corepressor (CoREST), histone deacetylase 1 (HDAC1), and histone deacetylase 2 in erythroleukemia and T cell leukemia cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 703, 
+            "offsetInEndSection": 871, 
+            "text": "we demonstrate that the TAL1-associated LSD1, HDAC1, and their enzymatic activities are coordinately down-regulated during the early phases of erythroid differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1090, 
+            "text": "TAL1 recruits LSD1 to the silenced p4.2 promoter in undifferentiated, but not in differentiated, murine erythroleukemia (MEL) cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1385, 
+            "offsetInEndSection": 1507, 
+            "text": "the dynamic regulation of TAL1-associated LSD1/HDAC1 complex may determine the onset of erythroid differentiation programs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Epigenetic regulation of hematopoietic differentiation by Gfi-1 and Gfi-1b is mediated by the cofactors CoREST and LSD1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 592, 
+            "offsetInEndSection": 740, 
+            "text": "Inhibition of CoREST and LSD1 perturbs differentiation of erythroid, megakaryocytic, and granulocytic cells as well as primary erythroid progenitors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 904, 
+            "offsetInEndSection": 1140, 
+            "text": "we show that chromatin regulatory proteins CoREST and LSD1 mediate transcriptional repression by Gfi proteins. Lineage-restricted deployment of these cofactors through interaction with Gfi proteins controls hematopoietic differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1324, 
+            "offsetInEndSection": 1489, 
+            "text": "Taken together, our findings distinguish LSD1 as a critical regulator of hematopoiesis and point to severe, but reversible, side effects of a LSD1-targeted therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "LSD1-mediated epigenetic modification is required for TAL1 function and hematopoiesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19497860", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Dynamic interaction between TAL1 oncoprotein and LSD1 regulates TAL1 function in hematopoiesis and leukemogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310283", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 775, 
+            "text": "Phosphorylation of serine 172 in TAL1 specifically destabilizes the TAL1-LSD1 interaction leading to promoter H3K4 hypermethylation and activation of target genes that have been suppressed in normal and malignant hematopoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Histone lysine-specific demethylase 1 (LSD1) protein is involved in Sal-like protein 4 (SALL4)-mediated transcriptional repression in hematopoietic stem cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24163373", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1336, 
+            "offsetInEndSection": 1500, 
+            "text": "Taken together, our findings distinguish LSD1 as a critical regulator of hematopoiesis and point to severe, but reversible, side effects of a LSD1-targeted therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }
+    ]
+}

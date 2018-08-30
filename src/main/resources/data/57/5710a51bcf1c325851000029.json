@@ -1,0 +1,330 @@
+{
+    "body": "What is the function of the AtxA pleiotropic regulator?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/14702298", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21911592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19651859", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9199422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9106214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18676674", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22636778", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9234759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17302796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20863885", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10361306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9119194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8577251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21923765", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17302798"
+    ], 
+    "ideal_answer": [
+        "AtxA is the gene encoding the trans-activator of anthrax toxin synthesis and is essential for virulence of B. anthracis. It is located on the resident 185-kb plasmid pXO1 and its activation is stimulated by bicarbonate. AtxA controls the expression of more than a hundred genes belonging to all genetic elements, the chromosome and both virulence plasmids, including those encoding the major virulence factors. AtxA can activate or repress gene expression. In atxA+ strains, toxin gene expression is increased 5- to 20-fold in cells grown in 5% CO2 relative to cells grown in air. Dual promoters control expression of AtxA.  Transcription of the atxA gene occurs from two independent promoters, P1 and P2, whose transcription start sites are separated by 650 bp.", 
+        "Comparison of the resulting protein patterns indicated that synthesis of non-toxin proteins is influenced by growth in elevated CO2 and the toxin gene regulator, atxA. The AtxA virulence regulator of Bacillus anthracis is required for toxin and capsule gene expression. DNA sequence analysis of transposon insertion sites in 17 mutants carrying CO2- and atxA-regulated fusions revealed 10 mutants carrying independent insertions on the 185-kb toxin plasmid pXO1 which did not map to the toxin genes. We purified histidine-tagged AtxA [AtxA(His)] from Escherichia coli and used anti-AtxA(His) serum to detect AtxA in protein preparations from B. anthracis cells.", 
+        "The atxA gene product activates transcription of the anthrax toxin genes and is essential for virulence."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4244018", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001408"
+    ], 
+    "type": "summary", 
+    "id": "5710a51bcf1c325851000029", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "The atxA gene product activates transcription of the anthrax toxin genes and is essential for virulence.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8577251", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1281, 
+            "offsetInEndSection": 1322, 
+            "text": "The atxA-null mutant is avirulent in mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8577251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1446, 
+            "offsetInEndSection": 1546, 
+            "text": "These data suggest that the atxA gene product also regulates toxin gene expression during infection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8577251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 570, 
+            "offsetInEndSection": 716, 
+            "text": "Thus, we conclude that the pX01 influence on capsule synthesis is mediated by AtxA, the pXO1-encoded trans-activator of the toxin gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9119194", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 138, 
+            "text": "atxA, the gene encoding the trans-activator of anthrax toxin synthesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9106214", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 385, 
+            "text": "The genes atxA, located on pXO1, and acpA, located on pXO2, encode positive trans-acting proteins that are involved in bicarbonate-mediated regulation of toxin and capsule production, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9106214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1447, 
+            "offsetInEndSection": 1580, 
+            "text": " Transcription initiated from P1 and P2 was activated by both atxA and acpA, and activation appeared to be stimulated by bicarbonate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9106214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 342, 
+            "text": "In atxA+ strains, toxin gene expression is increased 5- to 20-fold in cells grown in 5% CO2 relative to cells grown in air.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9234759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1442, 
+            "offsetInEndSection": 1648, 
+            "text": "Our data indicate a clear association of atxA with CO2-enhanced gene expression in B. anthracis and provide evidence that atxA regulates genes other than the structural genes for the anthrax toxin proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9234759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1623, 
+            "offsetInEndSection": 1819, 
+            "text": " Our data strongly suggest that an additional factor(s) is involved in regulation of pag and that the relative amounts of such a factor(s) and AtxA are important for optimal toxin gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9199422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Two regulatory genes, acpA and atxA, have been reported to control expression of the Bacillus anthracis capsule biosynthesis operon capBCAD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14702298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 141, 
+            "offsetInEndSection": 238, 
+            "text": "The atxA gene is located on the virulence plasmid pXO1, while pXO2 carries acpA and the cap genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14702298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Dual promoters control expression of the Bacillus anthracis virulence factor AtxA.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18676674", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 554, 
+            "text": "Here we report that transcription of the atxA gene occurs from two independent promoters, P1 (previously described by Dai et al. [Z. Dai, J. C. Sirard, M. Mock, and T. M. Koehler, Mol. Microbiol. 16:1171-1181, 1995]) and P2, whose transcription start sites are separated by 650 bp.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18676674", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 379, 
+            "text": "AtxA controls the expression of more than a hundred genes belonging to all genetic elements, the chromosome and both virulence plasmids, including those encoding the major virulence factors. AtxA can activate or repress gene expression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20863885", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 1012, 
+            "text": "Here we employ 5' and 3' deletion analysis and site-directed mutagenesis of the atxA control region to demonstrate that atxA transcription from the major start site P1 is dependent upon a consensus sequence for the housekeeping sigma factor SigA and an A+T-rich upstream element for RNA polymerase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22636778", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1013, 
+            "offsetInEndSection": 1262, 
+            "text": "We also show that an additional trans-acting protein(s) binds specifically to atxA promoter sequences located between -13 and +36 relative to P1 and negatively impacts transcription. Deletion of this region increases promoter activity up to 15-fold.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22636778", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1503, 
+            "offsetInEndSection": 1786, 
+            "text": "A majority of genes on the virulence plasmid pXO1 that are regulated by the presence of either CO2 or AtxA separately are also regulated synergistically in the presence of both. These results also elucidate novel pXO1-encoded small RNAs that are associated with virulence conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 287, 
+            "offsetInEndSection": 388, 
+            "text": "This response requires the presence of the pXO1 virulence plasmid-encoded pleiotropic regulator AtxA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Transcriptome analysis identifies Bacillus anthracis genes that respond to CO2 through an AtxA-dependent mechanism", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 878, 
+            "offsetInEndSection": 1169, 
+            "text": "The majority of the regulated genes responded to both AtxA and carbon dioxide rather than to just one of these factors. Interestingly, we identified two previously unrecognized small RNAs that are highly expressed under physiological carbon dioxide concentrations in an AtxA-dependent manner", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 375, 
+            "offsetInEndSection": 476, 
+            "text": "This response requires the presence of the pXO1 virulence plasmid-encoded pleiotropic regulator AtxA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 910, 
+            "offsetInEndSection": 1068, 
+            "text": "As a similar organization is found in transcription regulators in many other pathogens, AtxA might become the paradigm of a new class of virulence regulators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17302796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "AtxA, a Bacillus anthracis global virulence regulator.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20863885", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Bacillus anthracis virulence regulator AtxA: oligomeric state, function and CO(2) -signalling.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21923765", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1102, 
+            "offsetInEndSection": 1208, 
+            "text": "The accumulation of the global virulence regulator AtxA protein was strongly reduced in the mutant strain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19651859", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 375, 
+            "text": "This response requires the presence of the pXO1 virulence plasmid-encoded pleiotropic regulator AtxA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 287, 
+            "offsetInEndSection": 389, 
+            "text": "This response requires the presence of the pXO1 virulence plasmid-encoded pleiotropic regulator AtxA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Opposing effects of histidine phosphorylation regulate the AtxA virulence transcription factor in Bacillus anthracis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17302798", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 73, 
+            "offsetInEndSection": 231, 
+            "text": "The B. anthracis pleiotropic regulator CodY activates toxin gene expression by post-translationally regulating the accumulation of the global regulator AtxA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21911592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Cross-talk to the genes for Bacillus anthracis capsule synthesis by atxA, the gene encoding the trans-activator of anthrax toxin synthesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9106214", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "AtxA, a unique regulatory protein of unknown molecular function, positively controls expression of the major virulence genes of Bacillus anthracis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21923765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 348, 
+            "text": "Consistent with the role of atxA in virulence factor expression, a B. anthracis atxA-null mutant is avirulent in a murine model for anthrax. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22636778", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 377, 
+            "text": "This response requires the presence of the pXO1 virulence plasmid-encoded pleiotropic regulator AtxA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24661624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1782, 
+            "offsetInEndSection": 1941, 
+            "text": "PlcR is the first example described of a pleiotropic regulator involved in the control of extracellular virulence factor expression in pathogenic Bacillus spp.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10361306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Bacillus anthracis virulence regulator AtxA: oligomeric state, function and CO(2) -signalling.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21923765", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "AtxA, a unique regulatory protein of unknown molecular function, positively controls expression of the major virulence genes of Bacillus anthracis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21923765", 
+            "endSection": "abstract"
+        }
+    ]
+}

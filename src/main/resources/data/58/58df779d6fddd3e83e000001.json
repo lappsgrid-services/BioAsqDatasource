@@ -1,0 +1,66 @@
+{
+    "body": "Is Musclin a secretory peptide?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19244276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26449458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17189616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24734231", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23940802"
+    ], 
+    "ideal_answer": [
+        "Yes, musclin has been described as a muscle-derived secretory peptide."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58df779d6fddd3e83e000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 60, 
+            "text": "Musclin is a novel skeletal muscle-derived secretory factor,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17950246", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Musclin has been described as a muscle-derived secretory peptide, responsive to insulin in vivo, and inducing insulin resistance in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17189616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Musclin is a type of muscle-secreted cytokine and its increased gene expression induces insulin resistance in type 2 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26449458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Musclin is a novel skeletal muscle-derived factor found in the signal sequence trap of mouse skeletal muscle cDNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24734231", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Musclin is a novel skeletal muscle-derived secretory factor found in the signal sequence trap of mouse skeletal muscle cDNAs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23940802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Musclin is a novel skeletal muscle-derived secretory factor that was isolated by our group. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19244276", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "body": "Which tool is used for promoterome mining using CAGE data?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25653163"
+    ], 
+    "ideal_answer": [
+        "Despite their high resolution and functional significance, published CAGE data are still underused in promoter analysis due to the absence of tools that enable its efficient manipulation and integration with other genome data types. CAGEr is an R implementation of novel methods for the analysis of differential TSS usage and promoter dynamics, integrated with CAGE data processing and promoterome mining into a first comprehensive CAGE toolbox on a common analysis platform."
+    ], 
+    "exact_answer": [
+        "CAGEr"
+    ], 
+    "type": "factoid", 
+    "id": "56afe6d40a360a5e45000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "CAGEr: precise TSS data retrieval and high-resolution promoterome mining for integrative analyses.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653163", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 1118, 
+            "text": " Despite their high resolution and functional significance, published CAGE data are still underused in promoter analysis due to the absence of tools that enable its efficient manipulation and integration with other genome data types. Here we present CAGEr, an R implementation of novel methods for the analysis of differential TSS usage and promoter dynamics, integrated with CAGE data processing and promoterome mining into a first comprehensive CAGE toolbox on a common analysis platform. Crucially, we provide collections of TSSs derived from most published CAGE datasets, as well as direct access to FANTOM5 resource of TSSs for numerous human and mouse cell/tissue types from within R, greatly increasing the accessibility of precise context-specific TSS data for integrative analyses. The CAGEr package is freely available from Bioconductor at http://www.bioconductor.org/packages/release/bioc/html/CAGEr.html.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 436, 
+            "offsetInEndSection": 691, 
+            "text": "Here we present CAGEr, an R implementation of novel methods for the analysis of differential TSS usage and promoter dynamics, integrated with CAGE data processing and promoterome mining into a first comprehensive CAGE toolbox on a common analysis platform", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "CAGEr: precise TSS data retrieval and high-resolution promoterome mining for integrative analyses", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653163", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 693, 
+            "text": "Despite their high resolution and functional significance, published CAGE data are still underused in promoter analysis due to the absence of tools that enable its efficient manipulation and integration with other genome data types. Here we present CAGEr, an R implementation of novel methods for the analysis of differential TSS usage and promoter dynamics, integrated with CAGE data processing and promoterome mining into a first comprehensive CAGE toolbox on a common analysis platform.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653163", 
+            "endSection": "abstract"
+        }
+    ]
+}

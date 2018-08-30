@@ -1,0 +1,232 @@
+{
+    "body": "Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21162130", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21838679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24128992", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23794260", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19004816"
+    ], 
+    "ideal_answer": [
+        "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in the central nervous system.", 
+        "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in central nervous system  "
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SYUA_SERCA", 
+        "http://www.uniprot.org/uniprot/SYUA_ERYPA", 
+        "http://www.uniprot.org/uniprot/SYUA_GORGO", 
+        "http://www.uniprot.org/uniprot/SYUA_PANPA", 
+        "http://www.uniprot.org/uniprot/SYUA_ATEGE", 
+        "http://www.uniprot.org/uniprot/SYUA_RAT", 
+        "http://www.uniprot.org/uniprot/SYUA_PONAB", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051844", 
+        "http://www.uniprot.org/uniprot/PLK2_PONAB", 
+        "http://www.uniprot.org/uniprot/SYUA_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "550c44d1a103b7801600000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in central nervous system", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 476, 
+            "text": "Here we submit evidence that polo-like kinase 2 (PLK2, also known as serum-inducible kinase or SNK) is a principle contributor to alpha-synuclein phosphorylation at Ser-129 in neurons", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 566, 
+            "text": "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assay", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 701, 
+            "text": "Inhibitors of PLK kinases inhibited alpha-synuclein phosphorylation both in primary cortical cell cultures and in mouse brain in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 712, 
+            "offsetInEndSection": 857, 
+            "text": "specific knockdown of PLK2 expression by transduction with short hairpin RNA constructs or by knock-out of the plk2 gene reduced p-Ser-129 levels", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 859, 
+            "offsetInEndSection": 975, 
+            "text": "These results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 852, 
+            "offsetInEndSection": 969, 
+            "text": "These results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 475, 
+            "text": "Here we submit evidence that polo-like kinase 2 (PLK2, also known as serum-inducible kinase or SNK) is a principle contributor to alpha-synuclein phosphorylation at Ser-129 in neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in central nervous system.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 564, 
+            "text": "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 448, 
+            "offsetInEndSection": 646, 
+            "text": "Two of these kinases stand out as potential drug targets for novel PD therapy, namely leucine rich repeat kinase 2 (LRRK2) and the alpha-synuclein (\u03b1-syn) phosphorylating polo-like kinase 2 (PLK2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21838679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 793, 
+            "offsetInEndSection": 1002, 
+            "text": "Also, due to the dominant mode of \u03b1-syn and LRRK2 inheritance and based on current knowledge of LRRK2 and \u03b1-syn phosphorylation by PLK2, inhibition of LRRK2 and PLK2 may constitute a potential therapy for PD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21838679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 330, 
+            "offsetInEndSection": 615, 
+            "text": "To better understand the role of PLK2 in \u03b1-synuclein phosphorylation in vivo, we further evaluated the effect of PLK2 genetic knockdown and pharmacological inhibition on Phospho-\u03b1-Syn levels in different brain regions of PLK2 knockout (KO), heterozygous (Het) and wild-type (WT) mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24128992", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 998, 
+            "text": "This PLK2-mediated neuroprotective effect is also dependent on PLK2 activity and \u03b1-synuclein phosphorylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 537, 
+            "offsetInEndSection": 656, 
+            "text": "PLK2-mediated degradation of \u03b1-synuclein requires both phosphorylation at S129 and PLK2/\u03b1-synuclein complex formation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1092, 
+            "offsetInEndSection": 1287, 
+            "text": "Overexpression of only PLK2 increased phosphorylation of aggregated \u03b1-syn at S129, which likely is due to increased phosphorylation of soluble \u03b1-syn, which then was incorporated into aggregates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21162130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 477, 
+            "text": "Here we submit evidence that polo-like kinase 2 (PLK2, also known as serum-inducible kinase or SNK) is a principle contributor to alpha-synuclein phosphorylation at Ser-129 in neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 567, 
+            "text": "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 464, 
+            "offsetInEndSection": 602, 
+            "text": "Unlike other kinases reported to partially phosphorylate alpha-syn at Ser-129 in vitro, phosphorylation by PLK2 and PLK3 is quantitative (", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19889641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 702, 
+            "text": "Inhibitors of PLK kinases inhibited alpha-synuclein phosphorylation both in primary cortical cell cultures and in mouse brain in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 858, 
+            "offsetInEndSection": 973, 
+            "text": "These results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 700, 
+            "text": "Inhibitors of PLK kinases inhibited alpha-synuclein phosphorylation both in primary cortical cell cultures and in mouse brain in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 565, 
+            "text": "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assay", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 622, 
+            "text": "To better understand the role of PLK2 in \u03b1-synuclein phosphorylation in vivo, we further evaluated the effect of PLK2 genetic knockdown and pharmacological inhibition on Phospho-\u03b1-Syn levels in different brain regions of PLK2 knockout (KO), heterozygous (Het) and wild-type (WT) mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24128992", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "Polo-like kinase-2 (Plk-2) has been implicated as the dominant kinase involved in the phosphorylation of \u03b1-synuclein in Lewy bodies, which are one of the hallmarks of Parkinson's disease neuropathology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23794260", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "body": "When are itaconic acid levels elevated?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23610393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25209111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25064235"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0951348"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7819222", 
+            "o": "itaconic acid, copper salt"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0196938"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0196938", 
+            "o": "itaconic acid"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0204017", 
+            "o": "methylenesuccinic acid"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0204017"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0951348", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7819222"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0204008", 
+            "o": "methylenebutanedioic acid"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0196938"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0204008"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0064110", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0951349"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0951349", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7819221"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7819221", 
+            "o": "itaconic acid, calcium salt"
+        }
+    ], 
+    "ideal_answer": [
+        "Itaconic acid levels are elevetad in immune defence."
+    ], 
+    "exact_answer": [
+        "Immune Defence"
+    ], 
+    "type": "factoid", 
+    "id": "54d669003706e8952800000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1138, 
+            "offsetInEndSection": 1371, 
+            "text": "taconic acid (P = 0.0003), with a false discovery rate of 0.012, was found to be significantly more abundant in women who subsequently developed gestational diabetes mellitus, when compared to controls with uncomplicated pregnancies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25064235", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 585, 
+            "text": "Using a gain-and-loss-of-function approach in both mouse and human immune cells, we found Irg1 expression levels correlating with the amounts of itaconic acid, a metabolite previously proposed to have an antimicrobial effect.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23610393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 869, 
+            "offsetInEndSection": 1021, 
+            "text": "Here we show that itaconic acid inhibits the growth of bacteria expressing isocitrate lyase, such as Salmonella enterica and Mycobacterium tuberculosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23610393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1306, 
+            "offsetInEndSection": 1322, 
+            "text": " immune defense ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23610393", 
+            "endSection": "abstract"
+        }
+    ]
+}

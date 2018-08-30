@@ -1,0 +1,207 @@
+{
+    "body": "Have microRNAs been implicated in pharmacogenomics? ", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22909203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21412770", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20585341", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18187804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22445829", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21047203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23189953", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22630332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21499217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23376192", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16854228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17483436"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/12052143", 
+            "o": "http://purl.uniprot.org/pubmed/12052143"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/15584875", 
+            "o": "Pharmacogenomics"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/16886893", 
+            "o": "http://purl.uniprot.org/pubmed/16886893"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/16981842", 
+            "o": "Pharmacogenomics"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/17638511", 
+            "o": "Pharmacogenomics"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/17391071", 
+            "o": "http://purl.uniprot.org/pubmed/17391071"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/17716225", 
+            "o": "http://purl.uniprot.org/pubmed/17716225"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/17979512", 
+            "o": "Pharmacogenomics"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. MicroRNAs have been implicated in pharmacogenomics."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010597", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D035683"
+    ], 
+    "type": "yesno", 
+    "id": "5162a089298dcd4e51000043", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 435, 
+            "text": "A major discovery is the ability of miRNAs to determine the efficacy of drugs, which has given rise to the field of 'miRNA pharmacogenomics' through 'Pharmaco-miRs'. miRNAs play a significant role in pharmacogenomics by down-regulating genes that are important for drug function.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23376192", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 878, 
+            "offsetInEndSection": 1199, 
+            "text": "The potential modulation of toxicology-related changes in miRNA expression, the role of miRNA in immune-mediated drug-induced liver injuries, the use of circulating miRNAs in body fluids as potential toxicological biomarkers, and the link between miRNA-related pharmacogenomics and adverse drug reactions are highlighted.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23189953", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 531, 
+            "text": "Single nucleotide polymorphisms (SNPs) in the miRNA target sequences may affect or impair the binding of miRNAs. Studies have shown that SNPs in miRNA target sites (miR-TS-SNPs) have a great influence on diverse biological functions, including pharmacogenomics and disease susceptibilities in human.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445829", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 454, 
+            "offsetInEndSection": 782, 
+            "text": "Pharmacogenomics genes can be divided into drug target genes termed as pharmacodynamics genes (PD) and genes involved in drug transport and metabolism termed as pharmacokinetics genes (PK). To clarify the regulatory potential of miRNAs in pharmacogenomics, we have examined the potential regulation by miRNAs of PK and PD genes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21499217", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1284, 
+            "offsetInEndSection": 1786, 
+            "text": "Our analysis identify a striking difference in the level of miRNA regulation between PK and PD genes, with the former having less than half predicted conserved miRNA binding sites compared with the latter. Importantly, this finding is reflected in a highly significant difference in the shift in expression levels of PD versus PK genes after depletion of miRNAs. CONCLUSIONS: Our study emphasizes an intrinsic difference between PK and PD genes and helps clarify the role of miRNAs in pharmacogenomics.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21499217", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 419, 
+            "text": "Pharmacogenomics, toxicogenomics, and small RNA expression analysis are three of the most active research topics in the biological, biomedical, pharmaceutical, and toxicological fields. All of these studies are based on gene expression analysis, which requires reference genes to reduce the variations derived from different amounts of starting materials and different efficiencies of RNA extraction and cDNA synthesis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21412770", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2269, 
+            "offsetInEndSection": 2426, 
+            "text": "In contrast, hTBCA and small RNAs are more stable during drug treatment, and they are better reference genes for pharmacogenomics and toxicogenomics studies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21412770", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 152, 
+            "text": "Polymorphisms of genes involved in the pharmacokinetic and pharmacodynamic processes underlie the divergent drug responses among individuals.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21047203", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1036, 
+            "offsetInEndSection": 1167, 
+            "text": "A panel of drug-response genes was constructed, which contains 923 pharmacokinetic genes, 703 pharmacodynamic genes and 720 miRNAs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21047203", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 243, 
+            "text": "miRNA variations can affect drug resistance, efficacy, and metabolism, opening new avenues of pharmacogenomics research.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20585341", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 260, 
+            "offsetInEndSection": 467, 
+            "text": "we studied the pharmacologic roles of three microRNAs previously implicated in cancer biology (let-7i, mir-16, and mir-21) and also used in silico methods to test pharmacologic microRNA effects more broadly.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18187804", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1322, 
+            "offsetInEndSection": 1781, 
+            "text": "n silico comparison of drug potencies with microRNA expression profiles across the entire NCI-60 panel revealed that approximately 30 microRNAs, including mir-21, show highly significant correlations with numerous anticancer agents. Ten of those microRNAs have already been implicated in cancer biology. Our results support a substantial role for microRNAs in anticancer drug response, suggesting novel potential approaches to the improvement of chemotherapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18187804", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 392, 
+            "offsetInEndSection": 603, 
+            "text": "The NCI-60 has also been profiled for mRNA and protein expression, mutational status, chromosomal aberrations, and DNA copy number, generating an unparalleled public resource for integrated chemogenomic studies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17483436", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 738, 
+            "offsetInEndSection": 941, 
+            "text": "To complement the existing NCI-60 data sets, we have measured expression levels of microRNAs in the NCI-60 and incorporated the resulting data into the CellMiner program package for integrative analysis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17483436", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1375, 
+            "offsetInEndSection": 1765, 
+            "text": ". Comparison of microRNA expression patterns and compound potency patterns showed significant correlations, suggesting that microRNAs may play a role in chemoresistance. Combined with gene expression and other biological data using multivariate analysis, microRNA expression profiles may provide a critical link for understanding mechanisms involved in chemosensitivity and chemoresistance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17483436", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 364, 
+            "text": "This study reports on miRNAs implicated in SSRI sensitivity of LCLs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22909203", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1071, 
+            "text": "these miRNAs as tentative SSRI response biomarkers awaits validation with lymphocyte samples of major depression patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22909203", 
+            "endSection": "sections.0"
+        }
+    ]
+}

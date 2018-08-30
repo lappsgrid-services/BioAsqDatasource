@@ -1,0 +1,133 @@
+{
+    "body": "Inhibition of which transporter is the mechanism of action of drug Canagliflozin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24040872", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24025022", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22621689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21680987", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23895803", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23590413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24257692", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23087012", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23326927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10481836", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23563279", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23042029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23412078", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23729000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22547464"
+    ], 
+    "ideal_answer": [
+        "Inhibition of sodium glucose co-transporter 2 (SGLT2) is the major mechanism of action of canagliflozin. Canagliflozin is the first SGLT2 inhibitor to be approved in the USA for the treatment of type 2 diabetes and is under regulatory review in the EU. Other SGLT2 inhibitors include dapagliflozin and empagliflozin."
+    ], 
+    "exact_answer": [
+        "sodium glucose co-transporter 2"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051051", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D045504", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032410", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002352", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004364"
+    ], 
+    "type": "factoid", 
+    "id": "5335c7f2d6d3ac6a34000051", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 436, 
+            "text": "During the past year, two SGLT2 inhibitors, canagliflozin and dapagliflozin, have been approved for the treatment of type 2 diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24257692", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 680, 
+            "offsetInEndSection": 955, 
+            "text": "Currently dapagliflozin, one of the three most advanced SGLT2 inhibitors in the development (along with canagliflozin and empagliflozin), is already in the market in few European countries and canagliflozin has been approved from the Food and Drug Administration (FDA) in US.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24040872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Sodium glucose co-transporter 2 (SGLT2) inhibition with canagliflozin in type 2 diabetes mellitus.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24025022", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 636, 
+            "text": "This report reviews the potentially beneficial effects of SGLT2 inhibitors in type 2 diabetes mellitus, specifically focusing on canagliflozin, the only SGLT2 inhibitor approved for use in the United States.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24025022", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 290, 
+            "text": "The sodium glucose co-transporter 2 inhibitor canagliflozin lowered blood glucose, blood pressure, and body weight, with increased risk of urogenital infections in Phase 2 studies. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23895803", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "Canagliflozin (Invokana\u2122), an oral selective sodium-glucose co-transporter 2 (SGLT2) inhibitor, is under global development with Mitsubishi Tanabe Pharma and Janssen Pharmaceuticals, a subsidiary of Johnson and Johnson, for the treatment of type 2 diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23729000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 669, 
+            "offsetInEndSection": 780, 
+            "text": "Canagliflozin is the first SGLT2 inhibitor to be approved in the USA and is under regulatory review in the EU. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23729000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Canagliflozin , an inhibitor of sodium-glucose cotransporter 2, for the treatment of type 2 diabetes mellitus.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23590413", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 141, 
+            "text": "Canagliflozin is an orally administered sodium glucose cotransporter 2 inhibitor proposed for the treatment of type 2 diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23590413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 665, 
+            "text": "In this review, we summarize recent animal and human studies on ipragliflozin and other SGLT2 inhibitors including dapagliflozin, canagliflozin, empagliflozin, tofogliflozin, and luseogliflozin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23563279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 116, 
+            "text": "Canagliflozin, a sodium glucose cotransporter (SGLT) 2 inhibitor, is also a low-potency SGLT1 inhibitor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23412078", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1665, 
+            "offsetInEndSection": 1834, 
+            "text": "Canagliflozin reduces postprandial plasma glucose and insulin by increasing UGE (via renal SGLT2 inhibition) and delaying RaO, likely due to intestinal SGLT1 inhibition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23412078", 
+            "endSection": "abstract"
+        }
+    ]
+}

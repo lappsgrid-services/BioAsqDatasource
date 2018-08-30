@@ -1,0 +1,257 @@
+{
+    "body": "Is exonuclease Xrn1 a component of the P-bodies?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19729507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17923231", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16299471", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22383165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20011505", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17178403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18652574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22590546", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16177138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22056521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23756462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20962086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23102969", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19091970", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21859862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15901504", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20074068", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23892092"
+    ], 
+    "ideal_answer": [
+        "In eukaryotic cells, XRN1 is often found in particles known as processing bodies (P bodies) together with other proteins involved in the 5' \u2192 3' degradation pathway, such as DCP2 and the helicase DHH1 (Me31B).  In yeast and human tissue culture cells, Xrn1 has been shown to be a component of P-bodies (processing bodies), dynamic cytoplasmic granules where RNA degradation can take place. Many P-body components including LSM1, GW182, DDX3, DDX6 and XRN1, but not others like DCP1a and EDC4 are recruited to the viral replication sites, as evidenced by their colocalization at perinuclear region with viral NS3.", 
+        "In eukaryotic cells, degradation of bulk mRNA in the 5' to 3' direction requires the consecutive action of the decapping complex (consisting of DCP1 and DCP2) and the 5' to 3' exonuclease XRN1. These enzymes are found in discrete cytoplasmic foci known as P-bodies.", 
+        "We show that the RNA-binding protein GW182 and the DCP1:DCP2 decapping complex are required for miRNA-mediated gene silencing, uncovering a crucial role for P-body components in the miRNA pathway. An alternative pathway of mRNA degradation occurs at processing bodies, cytoplasmic foci that contain decapping enzymes, the 5'-3' exonuclease Xrn1 and the Lsm1-7 heptamer. Our results show that mammalian cells, similar to yeast, require the 5'-3' Xrn1 pathway to degrade ARE-mRNAs. Recent evidence suggests that the processing bodies may constitute specialized cellular compartments of mRNA turnover, which suggests that mRNA and protein localization may be integral to mRNA decay."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "56c9e9d15795f9a73e00001d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1246, 
+            "text": "PBs are associated with mRNA decay and contain the decapping enzymes DCP1/2, the 5' to 3' exonuclease Xrn1, the Lsm proteins (1-7), and the scaffolding proteins hedls/GE-1 and GW182. Both SGs and PBs contain mRNA, eIF4E, microRNAs and argonaute proteins, and various regulators of mRNA stability and translation (TTP, RCK/p54, and CPEB).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17923231", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 382, 
+            "offsetInEndSection": 555, 
+            "text": "An alternative pathway of mRNA degradation occurs at processing bodies, cytoplasmic foci that contain decapping enzymes, the 5'-3' exonuclease Xrn1 and the Lsm1-7 heptamer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16299471", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 328, 
+            "text": "n eukaryotic cells degradation of bulk mRNA in the 5' to 3' direction requires the consecutive action of the decapping complex (consisting of DCP1 and DCP2) and the 5' to 3' exonuclease XRN1. These enzymes are found in discrete cytoplasmic foci known as P-bodies or GW-bodies (because of the accumulation of the GW182 antigen).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16177138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 718, 
+            "text": "Several proteins that stimulate mRNA decapping by the Dcp1:Dcp2 complex co-localize with Dcp1 and Dcp2, together with Xrn1, a 5'-to-3' exonuclease, to structures in the cytoplasm called processing bodies. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15901504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 538, 
+            "text": " On the other hand, many P-body components including LSM1, GW182, DDX3, DDX6 and XRN1, but not others like DCP1a and EDC4 are recruited to the viral replication sites, as evidenced by their colocalization at perinuclear region with viral NS3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23102969", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 1121, 
+            "text": "We identified the Pab 1801 cytoplasmic puncta as P Bodies (PBs), which are involved in mRNA regulation. We found that, in several cell lines, including U2OS, WI38, SK-N-SH and HCT116, the Pab 1801 puncta strictly colocalize with PBs identified with specific antibodies against the PB components Hedls, Dcp1a, Xrn1 or Rck/p54.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22590546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 732, 
+            "text": "The core components of P-bodies, including the decapping machinery (Dcp2 and Dhh1), 5'-3' exoribonuclease (Kem1/Xrn1), and the P-body scaffolding protein (Edc3), were identified and their localizations with respect to P-bodies were demonstrated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22056521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1148, 
+            "offsetInEndSection": 1326, 
+            "text": "The second type of granules, piP-bodies, harbors the MIWI2-TDRD9-MAEL module of the piRNA pathway and signature components of P-bodies, GW182, DCP1a, DDX6/p54, and XRN1 proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20011505", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 440, 
+            "text": "In yeast and human tissue culture cells, Xrn1 has been shown to be a component of P-bodies (processing bodies), dynamic cytoplasmic granules where RNA degradation can take place.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18652574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 581, 
+            "text": "Here, we show that staufen- and FMRP-containing RNPs in Drosophila neurons contain proteins also present in somatic \"P bodies,\" including the RNA-degradative enzymes Dcp1p and Xrn1p/Pacman and crucial components of miRNA (argonaute), NMD (Upf1p), and general translational repression (Dhh1p/Me31B) pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17178403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 582, 
+            "offsetInEndSection": 793, 
+            "text": " In eukaryotic cells, XRN1 is often found in particles known as processing bodies (P bodies) together with other proteins involved in the 5' \u2192 3' degradation pathway, such as DCP2 and the helicase DHH1 (Me31B). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22383165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 449, 
+            "text": "In yeast and human tissue culture cells, Xrn1 has been shown to be a component of P-bodies (processing bodies), dynamic cytoplasmic granules where RNA degradation can take place", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18652574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 566, 
+            "text": "Owing to the essential functions of P bodies in mRNA regulation, we explored computationally the functional significance of SNPs in 7 P body components such as XRN1, DCP2, EDC3, CPEB1, GEMIN5, STAU1 and TRIM71", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23892092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 741, 
+            "text": "The core components of P-bodies, including the decapping machinery (Dcp2 and Dhh1), 5&apos;-3&apos; exoribonuclease (Kem1/Xrn1), and the P-body scaffolding protein (Edc3), were identified and their localizations with respect to P-bodies were demonstrated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22056521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 590, 
+            "text": "Here, we show that staufen- and FMRP-containing RNPs in Drosophila neurons contain proteins also present in somatic &quot;P bodies,&quot; including the RNA-degradative enzymes Dcp1p and Xrn1p/Pacman and crucial components of miRNA (argonaute), NMD (Upf1p), and general translational repression (Dhh1p/Me31B) pathways", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17178403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "P-body components LSM1, GW182, DDX3, DDX6 and XRN1 are recruited to WNV replication sites and positively regulate viral replication.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23102969", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 880, 
+            "text": "The core components of P-bodies, including the decapping machinery (Dcp2 and Dhh1), 5&apos;-3&apos; exoribonuclease (Kem1/Xrn1), and the P-body scaffolding protein (Edc3), were identified and their localizations with respect to P-bodies were demonstrated. Various growth conditions, including glucose deprivation, hyperosmotic stress, and heat stress, stimulated the accumulation of P-bodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22056521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 539, 
+            "text": "Here we show that microscopically visible P-bodies are greatly diminished following West Nile viral infection, but the component proteins are not depleted. On the other hand, many P-body components including LSM1, GW182, DDX3, DDX6 and XRN1, but not others like DCP1a and EDC4 are recruited to the viral replication sites, as evidenced by their colocalization at perinuclear region with viral NS3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23102969", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 358, 
+            "offsetInEndSection": 775, 
+            "text": "Owing to the essential functions of P bodies in mRNA regulation, we explored computationally the functional significance of SNPs in 7 P body components such as XRN1, DCP2, EDC3, CPEB1, GEMIN5, STAU1 and TRIM71. Computational analyses of non-synonymous SNPs of these components was initiated using well utilized publicly available software programs such as the SIFT, followed by PolyPhen, PANTHER, MutPred, I-Mutant-2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23892092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 314, 
+            "offsetInEndSection": 384, 
+            "text": "Xrn1 has been shown to be a component of P-bodies (processing bodies),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18652574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 339, 
+            "offsetInEndSection": 601, 
+            "text": "Here, we show that hDIS3L2 is an exosome-independent cytoplasmic mRNA 3'-5' exonuclease, which exhibits processive activity on structured RNA substrates in vitro. hDIS3L2 associates with hXRN1 in an RNA-dependent manner and can, like hXRN1, be found on polysomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23756462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 545, 
+            "offsetInEndSection": 670, 
+            "text": "Inhibition of TAK1-JNK signaling also affected the number and size of P bodies and the localization of DCP1a, Xrn1, and Edc4.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21859862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 868, 
+            "offsetInEndSection": 1298, 
+            "text": " The organizing mechanism that forms P body foci in cells is unknown; however, potential scaffolding, aggregating, or other regulatory proteins found in P bodies were investigated for degradation. Two factors involved in 5'-end mRNA decapping and degradation, Xrn1 and Dcp1a, and the 3' deadenylase complex component Pan3 underwent accelerated degradation during infection, and Dcp1a may be a direct substrate of PV 3C proteinase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20962086", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 543, 
+            "text": "Secondly, P-bodies recruit mRNAs that are targeted for deadenylation and degradation by the decapping/Xrn1 pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20074068", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1053, 
+            "text": "Depletion of TRN increased the number of P-bodies and stabilized ARE-containing mRNAs, as observed with knockdown of the 5'-3' exonuclease Xrn1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19729507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 595, 
+            "text": "In this paper we show for the first time that Pacman, the Drosophila homologue of Xrn1, is localized in cytoplasmic particles in Drosophila testis cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18652574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1062, 
+            "text": "Depletion of TRN increased the number of P-bodies and stabilized ARE-containing mRNAs, as observed with knockdown of the 5&apos;-3&apos; exonuclease Xrn1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19729507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 849, 
+            "text": "These structures stain positively for a number of P-body and microRNP components, a microRNA-repressed mRNA and some translational repressors. They appear more heterogeneous than P-bodies of HeLa cells, and they rarely contain the exonuclease Xrn1 but are positive for rRNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19091970", 
+            "endSection": "abstract"
+        }
+    ]
+}

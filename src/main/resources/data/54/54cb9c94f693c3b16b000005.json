@@ -1,0 +1,124 @@
+{
+    "body": "Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23710633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25451386", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19112098", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19948724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10555147", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21266500", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18508637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11371203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15598648"
+    ], 
+    "ideal_answer": [
+        "SERCA2a activity is regulated by phosphorylation of another SR protein, Phospholamban (PLN). Phospholamban (PLB) inhibits the activity of SERCA2a, the Ca(2+)-ATPase in cardiac sarcoplasmic reticulum, by decreasing the apparent affinity of the enzyme for Ca(2+)."
+    ], 
+    "exact_answer": [
+        "Phospholamban", 
+        "PLN", 
+        "plb"
+    ], 
+    "type": "factoid", 
+    "id": "54cb9c94f693c3b16b000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 705, 
+            "text": "SR Ca-transport is mediated by the SR Ca-ATPase (SERCA2a) and its regulatory phosphoprotein, phospholamban (PLN). Dephosphorylated PLN is an inhibitor of SERCA2a and phosphorylation by protein kinase A (PKA) or calcium-calmodulin-dependent protein kinases (CAMKII) relieves these inhibitory effects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25451386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 874, 
+            "offsetInEndSection": 976, 
+            "text": "SERCA2a activity can be regulated at multiple levels of a signaling cascade comprised of phospholamban", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23710633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Phospholamban (PLN), the reversible inhibitor of the sarco(endo)plasmic reticulum Ca(2+)-ATPase (SERCA2a), is a key regulator of myocyte Ca(2+) cycling with a significant role in heart failure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21266500", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 97, 
+            "offsetInEndSection": 271, 
+            "text": "The sarco(endo)plasmic reticulum (SR) Ca(2+) transport ATPase (SERCA2a) and its inhibitor phospholamban (PLN) control the uptake of Ca(2+) by SR membranes during relaxation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 762, 
+            "text": "phospholamban (PLN), a muscle-specific SR Ca(2+)-ATPase (SERCA2a) inhibitor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15598648", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Phospholamban (PLB) is a major target of the beta-adrenergic cascade in the heart, and functions as an endogenous inhibitor of Ca-ATPase transport activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11371203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Phospholamban (PLB) inhibits the activity of SERCA2a, the Ca(2+)-ATPase in cardiac sarcoplasmic reticulum, by decreasing the apparent affinity of the enzyme for Ca(2+).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19948724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 214, 
+            "text": "Phospholamban has been suggested to be a key regulator of cardiac sarcoplasmic reticulum (SR) Ca cycling and contractility and a potential therapeutic target in restoring the depressed Ca cycling in failing hearts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19112098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1269, 
+            "offsetInEndSection": 1304, 
+            "text": "phospholamban regulation of SERCA2a", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19112098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 181, 
+            "offsetInEndSection": 530, 
+            "text": "SERCA2a activity is regulated by phosphorylation of another SR protein: Phospholamban (PLN). Dephosphorylated PLN inhibits SERCA2a. Phosphorylation of PLN by either cAMP or cGMP-dependent protein kinase at Ser16 or the Ca2+-calmodulin-dependent protein kinase (CaMKII), at Thr17, relieves this inhibition, increasing SR Ca2+ uptake and SR Ca2+ load.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18508637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 358, 
+            "offsetInEndSection": 532, 
+            "text": "The ablation of a muscle-specific sarcoplasmic reticulum Ca2+ ATPase (SERCA2a) inhibitor, phospholamban, rescued the spectrum of phenotypes that resemble human heart failure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10555147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 495, 
+            "text": "The sarco(endo)plasmic reticulum Ca(2+) transport adenosine triphosphatase (SERCA2a) and its regulator phospholamban (PLN) have a central role in modulating Ca(2+) homeostasis and, therefore, cardiac function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+            "endSection": "abstract"
+        }
+    ]
+}

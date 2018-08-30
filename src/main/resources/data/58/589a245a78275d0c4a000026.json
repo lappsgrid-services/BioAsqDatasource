@@ -1,0 +1,115 @@
+{
+    "body": "List drug that were evaluated in the CHAMP trial for migraine.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27039826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27788026"
+    ], 
+    "ideal_answer": [
+        "Childhood and Adolescent Migraine Prevention (CHAMP) trial evaluated effectiveness of amitriptyline and topiramate in the prevention of migraine in children and adolescents."
+    ], 
+    "exact_answer": [
+        [
+            "amitriptyline"
+        ], 
+        [
+            "topiramate"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:6364", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016430"
+    ], 
+    "type": "list", 
+    "id": "589a245a78275d0c4a000026", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 284, 
+            "text": "OBJECTIVE: To describe baseline headache characteristics of children and adolescents participating in a multicenter, randomized, double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo for the prevention of migraine (CHAMP Study).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27039826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Childhood and Adolescent Migraine Prevention (CHAMP) study: a double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo in the prevention of childhood and adolescent migraine.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 651, 
+            "offsetInEndSection": 998, 
+            "text": "METHODS: CHAMP is a double-blinded, placebo-controlled, multicenter, comparative effectiveness study of amitriptyline and topiramate for the prevention of episodic and chronic migraine, designed to mirror real-world practice, sponsored by the US National Institute of Neurological Disorders and Stroke/National Institutes of Health (U01NS076788). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1292, 
+            "offsetInEndSection": 1524, 
+            "text": "The subjects will be randomized in a 2:2:1 (amitriptyline: topiramate: placebo) ratio. Doses are weight based and will be slowly titrated over an 8-week period to a target dose of 1\u2009mg/kg of amitriptyline and 2\u2009mg/kg of topiramate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1667, 
+            "offsetInEndSection": 1850, 
+            "text": "CONCLUSIONS: The goal of the CHAMP study is to obtain level 1 evidence for the effectiveness of amitriptyline and topiramate in the prevention of migraine in children and adolescents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 273, 
+            "text": "To describe baseline headache characteristics of children and adolescents participating in a multicenter, randomized, double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo for the prevention of migraine (CHAMP Study).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27039826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 490, 
+            "offsetInEndSection": 997, 
+            "text": "The aim of the Childhood and Adolescent Migraine Prevention (CHAMP) study is to determine the most effective preventive agent to use in children and adolescents.METHODS: CHAMP is a double-blinded, placebo-controlled, multicenter, comparative effectiveness study of amitriptyline and topiramate for the prevention of episodic and chronic migraine, designed to mirror real-world practice, sponsored by the US National Institute of Neurological Disorders and Stroke/National Institutes of Health (U01NS076788).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "Childhood and Adolescent Migraine Prevention (CHAMP) study: a double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo in the prevention of childhood and adolescent migraine", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 975, 
+            "text": "The aim of the Childhood and Adolescent Migraine Prevention (CHAMP) study is to determine the most effective preventive agent to use in children and adolescents.CHAMP is a double-blinded, placebo-controlled, multicenter, comparative effectiveness study of amitriptyline and topiramate for the prevention of episodic and chronic migraine, designed to mirror real-world practice, sponsored by the US National Institute of Neurological Disorders and Stroke/National Institutes of Health (U01NS076788)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1669, 
+            "offsetInEndSection": 1853, 
+            "text": "CONCLUSIONS: The goal of the CHAMP study is to obtain level 1 evidence for the effectiveness of amitriptyline and topiramate in the prevention of migraine in children and adolescents. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Childhood and Adolescent Migraine Prevention (CHAMP) study: a double-blinded, placebo-controlled, comparative effectiveness study of amitriptyline, topiramate, and placebo in the prevention of childhood and adolescent migraine.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594025", 
+            "endSection": "title"
+        }
+    ]
+}

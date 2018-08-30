@@ -1,0 +1,85 @@
+{
+    "body": "What is ISMARA?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24515121"
+    ], 
+    "ideal_answer": [
+        "ISMARA (Integrated System for Motif Activity Response Analysis) is a web-based tool that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites. Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles. These include predicted activities of the regulators across the samples, their genome-wide targets, enriched gene categories among the targets, and direct interactions between the regulators."
+    ], 
+    "type": "summary", 
+    "id": "56accec70a360a5e45000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "ISMARA: automated modeling of genomic signals as a democracy of regulatory motifs.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 1686, 
+            "text": "We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis). Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles. These include predicted activities of the regulators across the samples, their genome-wide targets, enriched gene categories among the targets, and direct interactions between the regulators. Applying ISMARA to data sets from well-studied systems, we show that it consistently identifies known key regulators ab initio. We also present a number of novel predictions including regulatory interactions in innate immunity, a master regulator of mucociliary differentiation, TFs consistently disregulated in cancer, and TFs that mediate specific chromatin modifications", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1116, 
+            "offsetInEndSection": 1343, 
+            "text": "Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 889, 
+            "offsetInEndSection": 1148, 
+            "text": "We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 893, 
+            "offsetInEndSection": 1441, 
+            "text": "Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles. These include predicted activities of the regulators across the samples, their genome-wide targets, enriched gene categories among the targets, and direct interactions between the regulators. Applying ISMARA to data sets from well-studied systems, we show that it consistently identifies known key regulators ab initio. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 893, 
+            "text": "Although gene expression and chromatin state dynamics are ultimately encoded by constellations of binding sites recognized by regulators such as transcriptions factors (TFs) and microRNAs (miRNAs), our understanding of this regulatory code and its context-dependent read-out remains very limited. Given that there are thousands of potential regulators in mammals, it is not practical to use direct experimentation to identify which of these play a key role for a particular system of interest. We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 1121, 
+            "text": "We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis). Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 894, 
+            "offsetInEndSection": 1313, 
+            "text": "Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles. These include predicted activities of the regulators across the samples, their genome-wide targets, enriched gene categories among the targets, and direct interactions between the regulators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 437, 
+            "offsetInEndSection": 893, 
+            "text": "Given that there are thousands of potential regulators in mammals, it is not practical to use direct experimentation to identify which of these play a key role for a particular system of interest. We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24515121", 
+            "endSection": "abstract"
+        }
+    ]
+}

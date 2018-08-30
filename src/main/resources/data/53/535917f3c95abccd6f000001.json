@@ -1,0 +1,116 @@
+{
+    "body": "Which is the mechanism used by bacteria to induce tumors in Arabidopsis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23408907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11043469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23593941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11432846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17172353", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10323222", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9090878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19794116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15998742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9618535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20696005"
+    ], 
+    "ideal_answer": [
+        "The bacteria Agrobacterium tumefaciens infects Arabidopsis, as well as other plants, and induces the formation of tumors by integrating the transferred-DNA (T-DNA) region of the Ti-plasmid into the plant nuclear genome."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017360", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009617", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001419"
+    ], 
+    "type": "summary", 
+    "id": "535917f3c95abccd6f000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 23, 
+            "offsetInEndSection": 266, 
+            "text": "Agrobacterium tumefaciens causes crown gall disease in a wide range of plant species. The neoplastic growth at the infection sites is caused by transferring, integrating, and expressing transfer DNA (T-DNA) from A. tumefaciens into plant cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23593941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 124, 
+            "text": " gall tumors develop after integration of the T-DNA of virulent Agrobacterium tumefaciens strains into the plant genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23408907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 212, 
+            "text": "robacterium tumefaciens is a plant pathogenic bacterium that causes neoplastic growths, called 'crown gall', via the transfer and integration of transferred DNA (T-DNA) from the bacterium into the plant genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20696005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 127, 
+            "text": "grobacterium tumefaciens causes crown gall disease by transferring and integrating bacterial DNA (T-DNA) into the plant genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19794116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 144, 
+            "text": "ransformation of plant cells with T-DNA of virulent agrobacteria is one of the most extreme triggers of developmental changes in higher plants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17172353", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 195, 
+            "text": "grobacterium tumefaciens infects plants and induces the formation of tumors called \"crown galls\" by integrating the transferred-DNA (T-DNA) region of the Ti-plasmid into the plant nuclear genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15998742", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 97, 
+            "text": "-DNA nuclear import is a central event in genetic transformation of plant cells by Agrobacterium", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11432846", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 92, 
+            "text": "grobacterium tumefaciens Chry5, which is particularly virulent on soybeans, induces tumors ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11043469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 130, 
+            "text": " have identified T-DNA tagged Arabidopsis mutants that are resistant to transformation by Agrobacterium tumefaciens (rat mutants", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10323222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 154, 
+            "text": "grobacterium tumefaciens induces crown gall tumors on plants by transferring a nucleoprotein complex, the T-complex, from the bacterium to the plant cell", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9618535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 365, 
+            "offsetInEndSection": 441, 
+            "text": "The recalcitrance of another ecotype occurs at a late step in T-DNA transfer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9090878", 
+            "endSection": "abstract"
+        }
+    ]
+}

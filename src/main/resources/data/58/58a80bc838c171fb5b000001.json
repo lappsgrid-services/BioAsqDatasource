@@ -1,0 +1,79 @@
+{
+    "body": "List kinases that phosphorylates the protein Bora.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27831827", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25803405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26038951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24675888", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23442801"
+    ], 
+    "ideal_answer": [
+        "During cell division Bora becomes multiply phosphorylated by a variety of cell cycle kinases, including Aurora A and Plk1, and GSK3\u03b2 and Cdk1 albeit at distinctive sites."
+    ], 
+    "exact_answer": [
+        [
+            "Cdk1"
+        ], 
+        [
+            "Plk1"
+        ], 
+        [
+            "Aurora A"
+        ], 
+        [
+            "GSK3\u03b2"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58a80bc838c171fb5b000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1009, 
+            "offsetInEndSection": 1160, 
+            "text": "During cell division Bora becomes multiply phosphorylated by a variety of cell cycle kinases, including Aurora A and Plk1, albeit at distinctive sites.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25803405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 849, 
+            "offsetInEndSection": 1010, 
+            "text": "Likewise, we find that phosphorylation of Bora by Cdk1 promotes phosphorylation of human Plk1 by Aurora A suggesting that this mechanism is conserved in humans. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26038951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 390, 
+            "offsetInEndSection": 500, 
+            "text": "we show that the master mitotic kinase Cdk1 contributes to Plk1 activation through SPAT-1/Bora phosphorylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27831827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1121, 
+            "offsetInEndSection": 1187, 
+            "text": "the potential role of Bora phosphorylation by Cdk1 in this process", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27831827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 676, 
+            "offsetInEndSection": 754, 
+            "text": "phosphorylation of Bora on the Cdk consensus site T52 blocks Bora degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24675888", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 504, 
+            "text": "Here, we used the LC-MS/MS phosphopeptide mapping assay to identify 13 in vivo hBora phosphorylation sites and characterized that GSK3\u03b2 can interact with hBora and phosphorylate hBora at Ser274 and Ser278.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23442801", 
+            "endSection": "abstract"
+        }
+    ]
+}

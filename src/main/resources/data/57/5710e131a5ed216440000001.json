@@ -1,0 +1,187 @@
+{
+    "body": "In which yeast chromosome does the rDNA cluster reside?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8371105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24333410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8175878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9169867"
+    ], 
+    "ideal_answer": [
+        "Chromosome XII context is important for rDNA function in yeast", 
+        "The rDNA cluster in Saccharomyces cerevisiae is located 450 kb from the left end and 610 kb from the right end of chromosome XII and consists of approximately 150 tandemly repeated copies of a 9.1 kb rDNA unit.", 
+        "Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast. The rDNA cluster in Saccharomyces cerevisiae is located 450 kb from the left end and 610 kb from the right end of chromosome XII and consists of approximately 150 tandemly repeated copies of a 9.1 kb rDNA unit. However, in cells arrested in late mitosis (M) by a cdc15 mutation, the unique DNA appeared decondensed while the repetitive rDNA region appeared condensed, suggesting that the condensation state of separate regions of the genome may be regulated differently. Finally our FISH method provides a new tool to analyze centromeres, telomeres, and gene expression in budding yeast."
+    ], 
+    "exact_answer": [
+        "chromosome XII", 
+        "chromosome 12"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0005694", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012441"
+    ], 
+    "type": "factoid", 
+    "id": "5710e131a5ed216440000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "Chromosome XII context is important for rDNA function in yeast", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "The rDNA cluster in Saccharomyces cerevisiae is located 450 kb from the left end and 610 kb from the right end of chromosome XII and consists of approximately 150 tandemly repeated copies of a 9.1 kb rDNA unit", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 664, 
+            "text": "To explore the biological significance of this specific chromosomal context, chromosome XII was split at both sides of the rDNA cluster and strains harboring deleted variants of chromosome XII consisting of 450 kb, 1500 kb (rDNA cluster only) and 610 kb were created. In the strain harboring the 1500 kb variant of chromosome XII consisting solely of rDNA, the size of the rDNA cluster was found to decrease as a result of a decrease in rDNA copy number", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1255, 
+            "offsetInEndSection": 1456, 
+            "text": "These observations suggest that the context of chromosome XII plays an important role in maintaining a constant rDNA copy number and in physiological processes related to rDNA function in S.cerevisiae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1051, 
+            "offsetInEndSection": 1253, 
+            "text": "Notably, strains harboring the 450 kb chromosome XII variant and/or the 1500 kb variant consisting solely of rDNA had shorter life spans than wild type and also accumulated extrachromosomal rDNA circles", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 559, 
+            "offsetInEndSection": 720, 
+            "text": "Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8175878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 718, 
+            "offsetInEndSection": 879, 
+            "text": "Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8175878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 744, 
+            "text": "To explore the biological significance of this specific chromosomal context, chromosome XII was split at both sides of the rDNA cluster and strains harboring deleted variants of chromosome XII consisting of 450 kb, 1500 kb (rDNA cluster only) and 610 kb were created.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 663, 
+            "offsetInEndSection": 849, 
+            "text": "In the strain harboring the 1500 kb variant of chromosome XII consisting solely of rDNA, the size of the rDNA cluster was found to decrease as a result of a decrease in rDNA copy number.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 340, 
+            "text": "Apart from chromosome XII, which contains the 1-2 Mb rDNA cluster, chromosome IV is the longest S. cerevisiae chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9169867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 517, 
+            "offsetInEndSection": 754, 
+            "text": "We studied the largest yeast chromosome XII, which contains the rDNA locus, and we investigated its instability using cell cycle checkpoint-, DNA damage- and antioxidative defence-deficient, and lifespan-deregulated yeast mutant strains.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24333410", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Chromosome XII context is important for rDNA function in yeast.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 559, 
+            "offsetInEndSection": 721, 
+            "text": "Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8175878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Clonal size-variation of rDNA cluster region on chromosome XII of Saccharomyces cerevisiae.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8371105", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Using pulsed-field gel electrophoresis (PFGE), we have demonstrated clonal variation in the size of chromosome XII in a diploid strain of Saccharomyces cerevisiae X2180-2D.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8371105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 276, 
+            "text": "The sizes of the two chromosome XII homologues were very different: 2600 (L-type) and 1450 kb (S-type).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8371105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 646, 
+            "offsetInEndSection": 898, 
+            "text": "The size variation was shown to be derived from size changes in the rDNA cluster region, which is present in chromosome XII, by digesting the chromosome with XhoI, whose cutting site is not present in a rDNA repeat unit, and hybridizing to rDNA probes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8371105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 220, 
+            "text": "Apart from chromosome XII, which contains the 1-2 Mb rDNA cluster, chromosome IV is the longest S. cerevisiae chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9169867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 721, 
+            "text": "Condensation of a unique region of chromosome XVI and the highly repetitive ribosomal DNA (rDNA) cluster from chromosome XII were also examined in budding yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8175878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Chromosome XII context is important for rDNA function in yeast.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16738130", 
+            "endSection": "title"
+        }
+    ]
+}

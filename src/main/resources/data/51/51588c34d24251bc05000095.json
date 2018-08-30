@@ -1,0 +1,160 @@
+{
+    "body": "Is TREM2 associated with Alzheimer's disease in humans?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23391427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23462268", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23150908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17088018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23407992", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23380991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23150934"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/#_45325250343700D", 
+            "o": "http://purl.uniprot.org/core/Gene"
+        }
+    ], 
+    "ideal_answer": [
+        "TREM2 variants have been found to be associated with early as well as with late onset Alzheimer's disease."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TREM2_HUMAN", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10652", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000544"
+    ], 
+    "type": "yesno", 
+    "id": "51588c34d24251bc05000095", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 331, 
+            "text": "Genetic deficits and loss of function for the triggering receptor expressed in myeloid cells 2 (TREM2; encoded at chr6p21.1), a transmembrane spanning stimulatory receptor of the immunoglobulin/lectin-like gene superfamily, have been associated with deficiencies in phagocytosis and the innate immune system in Alzheimer's disease.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23462268", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "Recent works have demonstrated a rare functional variant (R47H) in triggering receptor expressed on myeloid cells (TREM) 2 gene, encoding TREM2 protein, increase susceptibility to late-onset Alzheimer's disease (AD),", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23407992", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 637, 
+            "text": "possible involvement of TREM2 in AD pathogenesis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23407992", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "TREM2 is associated with the risk of Alzheimer's disease in Spanish population.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23391427", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Two recent studies have reported the association of rs75932628-T in the TREM2 gene with the risk for Alzheimer's disease (AD).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23391427", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1044, 
+            "text": "we report the first positive replication study in a Spanish population and confirm that TREM2 rs75932628-T is associated with the risk for AD.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23391427", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 198, 
+            "text": "(TREM2) has recently been identified as a rare risk factor for late-onset Alzheimer's disease (AD).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23380991", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 409, 
+            "text": "In this study we examined the association between TREM2 exon 2 variants and early-onset AD in a sample of Caucasian subjects of French origin including 726 patients with age of onset \u226465 years and 783 controls.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23380991", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 947, 
+            "offsetInEndSection": 1077, 
+            "text": "We found significantly more variants in exon 2 of TREM2 in patients with Alzheimer's disease than in controls in the discovery set", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150934", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1210, 
+            "offsetInEndSection": 1349, 
+            "text": "The most commonly associated variant, rs75932628 (encoding R47H), showed highly significant association with Alzheimer's disease (P<0.001).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150934", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1542, 
+            "offsetInEndSection": 1780, 
+            "text": "Our findings strongly implicate variant TREM2 in the pathogenesis of Alzheimer's disease. Given the reported antiinflammatory role of TREM2 in the brain, the R47H substitution may lead to an increased predisposition to Alzheimer's disease", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150908", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 286, 
+            "text": "Recent works have demonstrated a rare functional variant (R47H) in triggering receptor expressed on myeloid cells (TREM) 2 gene, encoding TREM2 protein, increase susceptibility to late-onset Alzheimer's disease (AD), with an odds ratio similar to that of the apolipoprotein E \u03b54 allele.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23407992", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 198, 
+            "text": "The rs75932628-T variant of the gene encoding the triggering receptor expressed on myeloid cells 2 (TREM2) has recently been identified as a rare risk factor for late-onset Alzheimer's disease (AD).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23380991", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 220, 
+            "text": "BACKGROUND: Homozygous loss-of-function mutations in TREM2, encoding the triggering receptor expressed on myeloid cells 2 protein, have previously been associated with an autosomal recessive form of early-onset dementia.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150934", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1679, 
+            "offsetInEndSection": 1806, 
+            "text": "CONCLUSIONS: Heterozygous rare variants in TREM2 are associated with a significant increase in the risk of Alzheimer's disease.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150934", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 789, 
+            "offsetInEndSection": 1128, 
+            "text": "RESULTS: A rare missense mutation (rs75932628-T) in the gene encoding the triggering receptor expressed on myeloid cells 2 (TREM2), which was predicted to result in an R47H substitution, was found to confer a significant risk of Alzheimer's disease in Iceland (odds ratio, 2.92; 95% confidence interval [CI], 2.09 to 4.09; P=3.42\u00d710(-10)).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150908", 
+            "endSection": "sections.0"
+        }
+    ]
+}

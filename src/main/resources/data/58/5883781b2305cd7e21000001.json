@@ -1,0 +1,112 @@
+{
+    "body": "Does Jarid2 play a role in early embryo development?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20075857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17521633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24374312"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416528", 
+            "o": "JARID2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5139323833330020", 
+            "o": "JARID2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416528", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20738817"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Jarid2 coordinates Nanog expression and PCP/Wnt signaling required for efficient ESC differentiation and early embryo development."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0009790", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D047108", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005314", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D063146"
+    ], 
+    "type": "yesno", 
+    "id": "5883781b2305cd7e21000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Jarid2 Coordinates Nanog Expression and PCP/Wnt Signaling Required for Efficient ESC Differentiation and Early Embryo Development", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 1159, 
+            "text": "Unlike other PRC2-deficient embryonic stem cells (ESCs), however, Jarid2-deficient ESCs show a severe differentiation block, altered colony morphology, and distinctive patterns of deregulated gene expression. Here, we show that Jarid2(-/-) ESCs express constitutively high levels of Nanog but reduced PCP signaling components Wnt9a, Prickle1, and Fzd2 and lowered \u03b2-catenin activity. Depletion of Wnt9a/Prickle1/Fzd2 from wild-type ESCs or overexpression of Nanog largely phenocopies these cellular defects. Co-culture of Jarid2(-/-) with wild-type ESCs restores variable Nanog expression and \u03b2-catenin activity and can partially rescue the differentiation block of mutant cells. In addition, we show that ESCs lacking Jarid2 or Wnt9a/Prickle1/Fzd2 or overexpressing Nanog induce multiple ICM formation when injected into normal E3.5 blastocysts. These data describe a previously unrecognized role for Jarid2 in regulating a core pluripotency and Wnt/PCP signaling circuit that is important for ESC differentiation and for pre-implantation development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Jarid2 Coordinates Nanog Expression and PCP/Wnt Signaling Required for Efficient ESC Differentiation and Early Embryo Development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1075, 
+            "text": "Consistent with an essential role for PcG proteins in early development, we demonstrate that JARID2 is required for the differentiation of mouse embryonic stem cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20075857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Jumonij (JMJ)/Jarid2 plays important roles in embryonic development and functions as a transcriptional repressor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17521633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1083, 
+            "offsetInEndSection": 1293, 
+            "text": "Thus, these results demonstrate that JARID2 is essential for the binding of PcG proteins to target genes and, consistent with this, for the proper differentiation of embryonic stem cells and normal development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20075857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "JARID2 is an accessory component of Polycomb repressive complex-2 (PRC2) required for the differentiation of embryonic stem cells (ESCs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24374312", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Jarid2 Coordinates Nanog Expression and PCP/Wnt Signaling Required for Efficient ESC Differentiation and Early Embryo Development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 954, 
+            "offsetInEndSection": 1160, 
+            "text": "These data describe a previously unrecognized role for Jarid2 in regulating a core pluripotency and Wnt/PCP signaling circuit that is important for ESC differentiation and for pre-implantation development..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26190104", 
+            "endSection": "abstract"
+        }
+    ]
+}

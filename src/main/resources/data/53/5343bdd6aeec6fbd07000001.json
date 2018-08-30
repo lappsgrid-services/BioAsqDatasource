@@ -1,0 +1,92 @@
+{
+    "body": "Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8015613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17942706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12612070", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21095588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21385935", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23087403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14560008"
+    ], 
+    "ideal_answer": [
+        "The promoter paused form of RNA polymerase II is phosphorylated on serine 5 residues of the C-terminal heptapeptide repeat domain (CTD) of the largest subunit."
+    ], 
+    "exact_answer": [
+        "Serine 5"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001055", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012319", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071620", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071619"
+    ], 
+    "type": "factoid", 
+    "id": "5343bdd6aeec6fbd07000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1239, 
+            "offsetInEndSection": 1394, 
+            "text": "increase levels of serine-5 phosphorylated RNA polymerase II in the mutation target region, consistent with an effect on transcriptional elongation/pausing", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23087403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 912, 
+            "text": "pol-II accumulated in the 5'-region of the gene, which indicated postinitiation pausing. pol-II binding, 5'-accumulation, C-terminal domain Ser-5 and Ser-2 phosphorylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21385935", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 695, 
+            "offsetInEndSection": 852, 
+            "text": "The carboxy-terminal domain of the paused polymerase large subunit is hyperphosphorylated on serine 5, and phosphorylation of serine 2 is first detected here", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21095588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 648, 
+            "offsetInEndSection": 697, 
+            "text": "the promoter-paused form of Pol II (Pol IIo(ser5)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 648, 
+            "text": "Pause release depends on Cdk9-cyclin T1 (P-TEFb); Cdk7 is also required for Cdk9-activating phosphorylation and Cdk9-dependent downstream events--Pol II C-terminal domain Ser2 phosphorylation ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23064645", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 580, 
+            "offsetInEndSection": 749, 
+            "text": "For genes containing a 5' paused polymerase, passage of the paused RNA polymerase into an elongationally competent mode in vivo coincides with phosphorylation of the CTD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8015613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 750, 
+            "offsetInEndSection": 815, 
+            "text": "Ser-5 phosphorylation of Pol II is concentrated near the promoter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12612070", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 564, 
+            "offsetInEndSection": 630, 
+            "text": "the promoter-paused Pol II shows Ser5 but not Ser2 phosphorylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14560008", 
+            "endSection": "abstract"
+        }
+    ]
+}

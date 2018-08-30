@@ -1,0 +1,233 @@
+{
+    "body": "Does ghrelin play a role in ischemic stroke?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23576609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24961317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24768795", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22190447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15613277"
+    ], 
+    "ideal_answer": [
+        "Yes. It has been shown that serum ghrelin levels are reduced after ischemic stroke and ghrelin is associated with stroke type. Ghrelin can be a useful marker for the prediction of stoke after cardiopulmonary bypass. Ghrelin may be neuroprotective after injury in animal models of cerebral ischemia by inhibiting apoptotic processes,  inflammation, nNOS activity and modulating gastrointestinal motility."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/GHRL_LITCT", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054439"
+    ], 
+    "type": "yesno", 
+    "id": "551c2c276b348bb82c00000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 213, 
+            "text": "Recent evidence suggests that ghrelin may also be neuroprotective after injury in animal models of cerebral ischemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23576609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1573, 
+            "offsetInEndSection": 1840, 
+            "text": "Overall, these experiments point to a neurodegenerative but antiapoptotic effect of endogenous ghrelin in this model of global ischemia, highlighting that further research is essential before we can apply ghrelin treatments to neurodegenerative insults in the clinic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23576609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 981, 
+            "offsetInEndSection": 1084, 
+            "text": " The serum ghrelin level was higher in the MCAO group when compared with the control group (P < 0.05). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22190447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1435, 
+            "offsetInEndSection": 1587, 
+            "text": "Our results showed that higher level of serum ghrelin decreased gastrointestinal motility and damage to the intestinal mucosa existed in rats with MCAO.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22190447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Leptin, adiponectin and ghrelin, new potential mediators of ischemic stroke.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 723, 
+            "text": "RESULTS: Significantly higher levels of leptin and lower levels of adiponectin and ghrelin were confirmed in the stroke group.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 873, 
+            "offsetInEndSection": 983, 
+            "text": "Ghrelin levels correlated mildly with triglyceride levels, and were dominant in men with cardioembolic stroke.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1133, 
+            "offsetInEndSection": 1291, 
+            "text": "CONCLUSIONS: Adipokines and ghrelin play an important role in ischemic stroke, but their function in stroke subtypes seems to be different and sex influenced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Ghrelin suppresses inflammation and neuronal nitric oxide synthase in focal cerebral ischemia via the vagus nerve.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 851, 
+            "offsetInEndSection": 1026, 
+            "text": "Compared with vehicle treatment, human ghrelin treatment in vagus nerve-intact rats after MCAO showed marked reduction in neurological deficit by 57% and infarct size by 25%. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1213, 
+            "offsetInEndSection": 1498, 
+            "text": "Human ghrelin treatment in vagus nerve-intact rats significantly decreased the above measurements. Human ghrelin treatment also improved 7-day survival and significantly decreased neurological deficit over the entire 7 days after MCAO in vagus nerve-intact rats compared with vehicle. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1671, 
+            "offsetInEndSection": 1825, 
+            "text": "Human ghrelin is thus a neuroprotective agent that inhibits inflammation, nNOS activity, and apoptosis in focal cerebral ischemia through a vagal pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Ghrelin is known to promote neuronal defense and survival against ischemic injury by inhibiting apoptotic processes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1104, 
+            "text": "Our data indicate that des-acyl ghrelin, as well as ghrelin, protect cortical neurons against ischemic injury through the inhibition of Par-4 expression and apoptotic molecules in mitochondrial pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 958, 
+            "offsetInEndSection": 1083, 
+            "text": "In conclusion, it is considered that ghrelin as well as S-100B can be a useful marker for the prediction of stoke after CPB. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15613277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1092, 
+            "offsetInEndSection": 1237, 
+            "text": "Adipokines and ghrelin play an important role in ischemic stroke, but their function in stroke subtypes seems to be different and sex influenced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 154, 
+            "offsetInEndSection": 311, 
+            "text": "In this review we discuss pre-clinical evidence suggesting ghrelin may be a useful therapeutic in protecting the brain against injury after ischemic stroke.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24961317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 367, 
+            "offsetInEndSection": 450, 
+            "text": "Both ghrelin and des-acyl ghrelin protected cortical neurons from ischemic injury.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 895, 
+            "offsetInEndSection": 1098, 
+            "text": "Our data indicate that des-acyl ghrelin, as well as ghrelin, protect cortical neurons against ischemic injury through the inhibition of Par-4 expression and apoptotic molecules in mitochondrial pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "Adipokines and ghrelin play an important role in ischemic stroke, but their function in stroke subtypes seems to be different and sex influenced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 310, 
+            "text": "In this review we discuss pre-clinical evidence suggesting ghrelin may be a useful therapeutic in protecting the brain against injury after ischemic stroke", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24961317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1672, 
+            "offsetInEndSection": 1825, 
+            "text": "Human ghrelin is thus a neuroprotective agent that inhibits inflammation, nNOS activity, and apoptosis in focal cerebral ischemia through a vagal pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20720512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 369, 
+            "offsetInEndSection": 450, 
+            "text": "Both ghrelin and des-acyl ghrelin protected cortical neurons from ischemic injury", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1572, 
+            "offsetInEndSection": 1838, 
+            "text": "Overall, these experiments point to a neurodegenerative but antiapoptotic effect of endogenous ghrelin in this model of global ischemia, highlighting that further research is essential before we can apply ghrelin treatments to neurodegenerative insults in the clinic", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23576609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 367, 
+            "text": "In the present study, we investigated the role of prostate apoptosis response-4 (Par-4), a proapoptotic gene the expression of which is increased after ischemic injury, in ghrelin-mediated neuroprotection during middle cerebral artery occlusion (MCAO)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19352052", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1106, 
+            "offsetInEndSection": 1250, 
+            "text": "Adipokines and ghrelin play an important role in ischemic stroke, but their function in stroke subtypes seems to be different and sex influenced", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22167137", 
+            "endSection": "abstract"
+        }
+    ]
+}

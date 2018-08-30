@@ -1,0 +1,145 @@
+{
+    "body": "What are the indications for hydrochlorothiazide?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23808745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21974759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23116225", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9421695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23136355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8227469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23767455", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21718097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22490507"
+    ], 
+    "ideal_answer": [
+        "Hydrochlorothiazide is a diuretic, often used in combination with others. Hydrochlorothiazide are used to treat hypertension. Hydrochlorothiazide has been shown to decrease diastolic blood pressure."
+    ], 
+    "exact_answer": [
+        [
+            "diuretic"
+        ], 
+        [
+            "hypertension"
+        ]
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4249423", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006852"
+    ], 
+    "type": "list", 
+    "id": "530cf4fe960c95ad0c000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 553, 
+            "offsetInEndSection": 687, 
+            "text": "The most frequently used diuretic in combination is again hydrochlorothiazide, which is combined with reninangiotensin system blockers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23808745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 985, 
+            "offsetInEndSection": 1073, 
+            "text": "Also a combination of two diuretics is popular -\u200a mainly hydrochlorothiazide + amiloride", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23808745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 166, 
+            "text": "article gives an overview of the risk factors for hypertension and the appropriate indication for using a fixed combination of telmisartan and hydrochlorothiazide", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23767455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1576, 
+            "offsetInEndSection": 1782, 
+            "text": "Hydrochlorothiazide 25-200 mg daily, chlorothiazide 500 mg twice daily, and indapamide 2.5 mg daily provided long-term blood pressure reduction in patients with severe renal disease who were not on dialysis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23136355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1828, 
+            "offsetInEndSection": 2094, 
+            "text": "This review provides an overview of the efficacy and safety of antihypertensive therapy based on olmesartan medoxomil\u2009\u00b1\u2009hydrochlorothiazide and amlodipine/olmesartan medoxomil in high-risk patient populations enrolled in studies that reported ambulatory BP endpoints", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23116225", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1746, 
+            "offsetInEndSection": 1882, 
+            "text": "In this regard, ARB-based SPCs are available in combination with the diuretic, hydrochlorothiazide (HCTZ) or the calcium CCB, amlodipine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22490507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1098, 
+            "offsetInEndSection": 1312, 
+            "text": "Telmisartan has a favourable safety and tolerability profile, and has demonstrated efficacious and long-lasting 24-hour BP reductions, whether as monotherapy or in combination with hydrochlorothiazide or amlodipine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21718097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 623, 
+            "text": "The combination of irbesartan and hydrochlorothiazide resulted in additive antihypertensive effects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9421695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 561, 
+            "text": "Patients with stable hypertension, not taking antihypertensive or NSAID medications, were treated with HCTZ 50 mg/day", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8227469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 173, 
+            "text": "is study determined the effect of nonsteroidal anti-inflammatory drug (NSAID) administration on blood pressure in hypertensive patients taking hydrochlorothiazide (HCTZ). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8227469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 932, 
+            "offsetInEndSection": 1050, 
+            "text": "Hydrochlorothiazide treatment decreased diastolic blood pressure to 83.1 +/- 5.6 mm Hg, and MAP to 101.1 +/- 6.5 mm Hg", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8227469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Treating systolic hypertension in the very elderly with valsartan-hydrochlorothiazide vs. either monotherapy: ValVET primary results.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21974759", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "This 16-week trial investigated the efficacy and safety of single-pill valsartan/hydrochlorothiazide (HCTZ) vs. the individual components in patients 70years and older with systolic hypertension.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21974759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "The article gives an overview of the risk factors for hypertension and the appropriate indication for using a fixed combination of telmisartan and hydrochlorothiazide", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23767455", 
+            "endSection": "abstract"
+        }
+    ]
+}

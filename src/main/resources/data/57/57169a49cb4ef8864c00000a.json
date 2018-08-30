@@ -1,0 +1,170 @@
+{
+    "body": "What is the mechanism of action of decitabine?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25130173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25123082", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24286424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16273408", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16585166", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16211386"
+    ], 
+    "ideal_answer": [
+        "Decitabine reactivates unmethylated p21WAF1 in some AML cell lines but the possible occurrence of p21WAF1 methylation in AML in vivo has not been studied in detail and decitabine effects on p21WAF1 chromatin remodeling have not been reported. We also discuss the following questions: What is the best administration schedule of decitabine in solid tumors? Is there tumor type specificity for decitabine-based epigenetic therapy? We found that p21WAF1 mRNA was undetectable in 6 of 24 AML patient samples and 4 of 5 AML cell lines but there was no evidence of p21WAF1 promoter methylation.", 
+        "The use of the DNA methylation inhibitor decitabine (Dacogen\u00ae) has been approved in the treatment of hematological malignancies, and its clinical effects on solid tumors have gained attention.", 
+        "Decitabine is a potent demethylating agent that exhibits clinical activity against myeloid malignancies. Numerous genes silenced by hypermethylation are reactivated by decitabine through a mechanism involving promoter demethylation with subsequent release of histone deacetylases (HDACs) and accumulation of acetylated histones. Recent studies indicating that decitabine also induces regional chromatin remodeling of some unmethylated genes suggest additional mechanisms of action."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4269908", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4269908"
+    ], 
+    "type": "summary", 
+    "id": "57169a49cb4ef8864c00000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 284, 
+            "text": "The use of the DNA methylation inhibitor decitabine (Dacogen\u00ae) has been approved in the treatment of hematological malignancies, and its clinical effects on solid tumors have gained attention.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25130173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 818, 
+            "offsetInEndSection": 913, 
+            "text": "low-dose decitabine and combined therapy show significant improvement in solid tumor treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25130173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 405, 
+            "text": "Here, we demonstrate dose-dependent degradation of Dnmt1 in mouse embryonic stem (ES) cells expressing catalytic site mutant (cys-ser), confirming that the covalent bond formation between Dnmt1 and decitabine-incorporated DNA is not essential for this process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 407, 
+            "offsetInEndSection": 633, 
+            "text": "NMT1o, the oocyte-specific isoform that lacks the N-terminal 118-amino acid domain, did not undergo decitabine-mediated degradation, which further proves the requirement of multiple domains including nuclear localization signa", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 679, 
+            "offsetInEndSection": 859, 
+            "text": "Analysis of glycerol density gradient fractions of micrococcal nuclease-digested nuclei showed that both nucleosomal and nucleoplasmic DNMT1 are degraded upon decitabine treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1011, 
+            "offsetInEndSection": 1161, 
+            "text": "The maximal effect caused by inhibiting protein kinase C (PKC) persuaded us to investigate further its role in decitabine-mediated DNMT1 degradation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1530, 
+            "offsetInEndSection": 1766, 
+            "text": "These studies provide substantial evidence that decitabine-induced degradation of the maintenance methyltransferase DNMT1 does not require covalent bond formation with the substrate and also elucidate its underlying molecular mechanism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 481, 
+            "text": "Decitabine is a potent demethylating agent that exhibits clinical activity against myeloid malignancies. Numerous genes silenced by hypermethylation are reactivated by decitabine through a mechanism involving promoter demethylation with subsequent release of histone deacetylases (HDACs) and accumulation of acetylated histones. Recent studies indicating that decitabine also induces regional chromatin remodeling of some unmethylated genes suggest additional mechanisms of action.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1375, 
+            "offsetInEndSection": 1538, 
+            "text": "Our findings indicate that decitabine can relieve p21WAF1 repression in AML by a mechanism that involves release of HDAC1 without requiring promoter demethylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 550, 
+            "text": "Numerous genes silenced by hypermethylation are reactivated by decitabine through a mechanism involving promoter demethylation with subsequent release of histone deacetylases (HDACs) and accumulation of acetylated histones.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 214, 
+            "text": "5-Aza-2'-deoxycytidine (decitabine) can relieve p21WAF1 repression in human acute myeloid leukemia by a mechanism involving release of histone deacetylase 1 (HDAC1) without requiring p21WAF1 promoter demethylation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Decitabine, a demethylating drug, is the first-line treatment for myelodysplastic syndromes and gains better overall survival, which is based on epigenetic mechanism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25123082", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 78, 
+            "offsetInEndSection": 241, 
+            "text": "Demethylating agent decitabine was reported to be able to up-regulate CTAs through its hypomethylation mechanism, thus enhance the immunogenicity of leukemia cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24286424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 877, 
+            "offsetInEndSection": 1080, 
+            "text": "However, further elucidation of its mechanism of action is required, as clinical response to decitabine does not correlate with demethylation of the p15 gene promoter or the repetitive DNA element LINE. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16273408", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 152, 
+            "offsetInEndSection": 402, 
+            "text": "In the area of epigenetic therapy, the demethylating drug decitabine (5-aza-2'-deoxycytidine) is increasingly used to treat acute myelogenous leukemia and myelodysplastic syndrome, but the mechanisms of its anticancer activity have remained unclear. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16585166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "An epigenetic approach to the treatment of advanced MDS; the experience with the DNA demethylating agent 5-aza-2'-deoxycytidine (decitabine) in 177 patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16211386", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 106, 
+            "offsetInEndSection": 482, 
+            "text": "Numerous genes silenced by hypermethylation are reactivated by decitabine through a mechanism involving promoter demethylation with subsequent release of histone deacetylases (HDACs) and accumulation of acetylated histones. Recent studies indicating that decitabine also induces regional chromatin remodeling of some unmethylated genes suggest additional mechanisms of action.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16043219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 878, 
+            "offsetInEndSection": 1080, 
+            "text": "However, further elucidation of its mechanism of action is required, as clinical response to decitabine does not correlate with demethylation of the p15 gene promoter or the repetitive DNA element LINE.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16273408", 
+            "endSection": "abstract"
+        }
+    ]
+}

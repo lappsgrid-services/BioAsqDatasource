@@ -1,0 +1,229 @@
+{
+    "body": "Which syndrome is associated with mutations in the LYST gene?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9070932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25551669", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8717042", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24112114", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21488161", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18043242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16791600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23804531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15896657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24072239", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24521565", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20458667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23521865", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10411929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14993748", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10594238", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10648412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20617205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25582874", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22762706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20368792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16518687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11854420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10482950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11984006"
+    ], 
+    "ideal_answer": [
+        "Mutations in LYST, a gene encoding a putative lysosomal trafficking protein, cause Ch\u00e9diak-Higashi syndrome (CHS), an autosomal recessive disorder typically characterized by infantile-onset hemophagocytic syndrome and immunodeficiency, and oculocutaneous albinism. A small number of reports of rare, attenuated forms of CHS exist, with affected individuals exhibiting progressive neurodegenerative disease beginning in early adulthood with cognitive decline, parkinsonism, features of spinocerebellar degeneration, and peripheral neuropathy, as well as subtle pigmentary abnormalities and subclinical or absent immune dysfunction."
+    ], 
+    "exact_answer": [
+        "Chediak-Higashi syndrome"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225"
+    ], 
+    "type": "factoid", 
+    "id": "56f564f909dd18d46b000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 642, 
+            "text": "Mutations in LYST, a gene encoding a putative lysosomal trafficking protein, cause Ch\u00e9diak-Higashi syndrome (CHS), an autosomal recessive disorder typically characterized by infantile-onset hemophagocytic syndrome and immunodeficiency, and oculocutaneous albinism. A small number of reports of rare, attenuated forms of CHS exist, with affected individuals exhibiting progressive neurodegenerative disease beginning in early adulthood with cognitive decline, parkinsonism, features of spinocerebellar degeneration, and peripheral neuropathy, as well as subtle pigmentary abnormalities and subclinical or absent immune dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23521865", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 436, 
+            "text": "Mutations in the CHS1 (LYST) gene result in CHS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15896657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "Chediak-Higashi syndrome (CHS) is a rare autosomal recessive disease characterized by variable degrees of oculocutaneous albinism, recurrent infections, and a mild bleeding tendency, with late neurologic dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15896657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 258, 
+            "text": "Chediak-Higashi syndrome (CHS) is a rare autosomal recessive disease resulting from mutations in the LYST/CHS1 gene, which encodes for a 429\u00a0kDa protein, CHS1/LYST, that regulates vesicle trafficking and determines the size of lysosomes and other organelles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24112114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 482, 
+            "text": "Mutations in the CHS1 (LYST) gene result in CHS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15896657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Chediak-Higashi syndrome: novel mutation of the CHS1/LYST gene in 3 Omani patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072239", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 576, 
+            "text": "The CHS1/LYST gene was identified over 10 years ago and homologous CHS1/LYST genes are present in all eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18043242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 435, 
+            "text": "We report a novel nonsense mutation of the CHS1/LYST gene in 3 Omani patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072239", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "A novel single point mutation of the LYST gene in two siblings with different phenotypic features of Chediak Higashi syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21488161", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 736, 
+            "offsetInEndSection": 1309, 
+            "text": "Rarely, an association of parkinsonism with PN may be encountered in other neurodegenerative diseases such as fragile X-associated tremor and ataxia syndrome related to premutation CGG repeat expansion in the fragile X mental retardation (FMR1) gene, Machado-Joseph disease related to an abnormal CAG repeat expansion in ataxin-3 (ATXN3) gene, Kufor-Rakeb syndrome caused by mutations in ATP13A2 gene, or in hereditary systemic disorders such as Gaucher disease due to mutations in the \u03b2-glucocerebrosidase (GBA) gene and Chediak-Higashi syndrome due to LYST gene mutations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25582874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Cloning of bovine LYST gene and identification of a missense mutation associated with Chediak-Higashi syndrome of cattle", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10594238", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "A frameshift mutation in the LYST gene is responsible for the Aleutian color and the associated Ch\u00e9diak-Higashi syndrome in American mink", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22762706", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 355, 
+            "offsetInEndSection": 714, 
+            "text": "Disease-causing mutations in the genes encoding perforin (PRF1, FHL2), munc13-4 (UNC13D, FHL3), syntaxin 11 (STX11, FHL4), and munc18-2 (UNC18-2/STXBP2, FHL5) have been previously identified in Familial Hemophagocyic Lymphohistiocytosis (FHL), whereas mutation in RAB27A and LYST account for Griscelli syndome type 2 and Chediak-Higashi syndrome, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20458667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 257, 
+            "text": "Chediak-Higashi syndrome (CHS) is a rare autosomal recessive disease resulting from mutations in the LYST/CHS1 gene, which encodes for a 429\u00a0kDa protein, CHS1/LYST, that regulates vesicle trafficking and determines the size of lysosomes and other organelles", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24112114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Chediak-Higashi syndrome is a genetic disorder caused by mutations in a gene encoding a protein named LYST in humans (&quot;lysosomal trafficking regulator&quot;) or Beige in mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11854420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 392, 
+            "text": "The Chediak-Higashi syndrome (CHS), a life-threatening autosomal recessive disease with frequent mutations in the LYST gene, and its animal model, the beige mouse, are both characterized by lysosomal defects with accumulation of giant lysosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16791600", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Cloning of bovine LYST gene and identification of a missense mutation associated with Chediak-Higashi syndrome of cattle.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10594238", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 431, 
+            "text": "These data are consistent with LYST being the gene for the human Chediak-Higashi Syndrome and strengthen the synteny relationship between MMU13 and human 1q43.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9070932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "A frameshift mutation in the LYST gene is responsible for the Aleutian color and the associated Ch\u00e9diak-Higashi syndrome in American mink.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22762706", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Infantile hemophagocytic lymphohistiocytosis in a case of chediak-higashi syndrome caused by a mutation in the LYST/CHS1 gene presenting with delayed umbilical cord detachment and diarrhea.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25551669", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 177, 
+            "offsetInEndSection": 340, 
+            "text": "Here, we describe two siblings with CHS due to a novel homozygous R1836X mutation in the LYST gene associated with loss of NK cell degranulation and cytotoxicity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21488161", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 594, 
+            "offsetInEndSection": 1311, 
+            "text": "Parkin (PARK2) gene mutations are responsible for juvenile parkinsonism, and possible peripheral nervous system involvement has been reported. Rarely, an association of parkinsonism with PN may be encountered in other neurodegenerative diseases such as fragile X-associated tremor and ataxia syndrome related to premutation CGG repeat expansion in the fragile X mental retardation (FMR1) gene, Machado-Joseph disease related to an abnormal CAG repeat expansion in ataxin-3 (ATXN3) gene, Kufor-Rakeb syndrome caused by mutations in ATP13A2 gene, or in hereditary systemic disorders such as Gaucher disease due to mutations in the \u03b2-glucocerebrosidase (GBA) gene and Chediak-Higashi syndrome due to LYST gene mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25582874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 737, 
+            "offsetInEndSection": 1386, 
+            "text": "Rarely, an association of parkinsonism with PN may be encountered in other neurodegenerative diseases such as fragile X-associated tremor and ataxia syndrome related to premutation CGG repeat expansion in the fragile X mental retardation (FMR1) gene, Machado-Joseph disease related to an abnormal CAG repeat expansion in ataxin-3 (ATXN3) gene, Kufor-Rakeb syndrome caused by mutations in ATP13A2 gene, or in hereditary systemic disorders such as Gaucher disease due to mutations in the \u03b2-glucocerebrosidase (GBA) gene and Chediak-Higashi syndrome due to LYST gene mutations. This article reviews conditions in which PN may coexist with parkinsonism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25582874", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "body": "Which is the molecular target of the immunosuppressant drug Rapamycin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23994756", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15901852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22442756", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18451231", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14508096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15627018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23301832", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15163844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18980246", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17728765", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17041625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23261661"
+    ], 
+    "ideal_answer": [
+        "The molecular target of Rapamycin is mTOR"
+    ], 
+    "exact_answer": [
+        "mTOR"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TOR_ARATH", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032006", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031929", 
+        "http://www.uniprot.org/uniprot/TOR_DICDI", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020123", 
+        "http://www.biosemantics.org/jochem#4274961", 
+        "http://www.uniprot.org/uniprot/TOR_ORYSJ", 
+        "http://www.uniprot.org/uniprot/TOR_DROME"
+    ], 
+    "type": "factoid", 
+    "id": "53124bdae3eabad02100000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1205, 
+            "text": "molecular target of rapamycin (mTOR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23994756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 643, 
+            "offsetInEndSection": 679, 
+            "text": "molecular target of rapamycin (mTOR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23301832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 41, 
+            "text": "molecular target of rapamycin (mTOR) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23261661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1839, 
+            "offsetInEndSection": 1875, 
+            "text": "molecular target of rapamycin (mTOR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22442756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1363, 
+            "offsetInEndSection": 1399, 
+            "text": "molecular target of rapamycin (mTOR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18980246", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 92, 
+            "text": "molecular target of rapamycin (mTOR) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18451231", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 40, 
+            "text": "molecular target of rapamycin (mTOR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17728765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 325, 
+            "offsetInEndSection": 363, 
+            "text": "the molecular Target Of Rapamycin, TOR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17041625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1537, 
+            "offsetInEndSection": 1573, 
+            "text": "molecular target of rapamycin (mTOR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15901852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 49, 
+            "text": "molecular target of rapamycin (mTOR", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15627018", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1930, 
+            "offsetInEndSection": 1967, 
+            "text": "molecular target of rapamycin (mTOR) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15163844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 41, 
+            "text": "molecular target of rapamycin (mTOR),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14508096", 
+            "endSection": "abstract"
+        }
+    ]
+}

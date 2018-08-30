@@ -1,0 +1,132 @@
+{
+    "body": "Is RIP1 (RIP-1) part of the necrosome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22421439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23612963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24059293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23898178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23162759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22016814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22817896", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22033613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21749897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22666585", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24098568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22576661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21890409"
+    ], 
+    "ideal_answer": [
+        "Yes, RIP1 is part of the necrosome."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001906", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053422", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008219", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070265", 
+        "http://www.uniprot.org/uniprot/RIPK1_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009336", 
+        "http://www.uniprot.org/uniprot/RIPK1_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097300"
+    ], 
+    "type": "yesno", 
+    "id": "532bfd15d6d3ac6a34000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1179, 
+            "offsetInEndSection": 1272, 
+            "text": "formation of a different necrosome whose components, besides RIP1 and RIP3, are still unknown", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22033613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 975, 
+            "text": "necrosome complex consisting of RIP1, RIP3, FADD, caspase-8 and cFLIP(L).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22016814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 673, 
+            "text": "assembly of a supramolecular complex containing the receptor-interacting protein kinases 1 and 3 (RIP1 and RIP3) that delivers a pronecrotic signal. Such complex has recently been dubbed necrosome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21749897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 213, 
+            "text": "Receptor interacting protein kinase 1 (RIPK1/RIP1) and RIP3 are key components of the necrosome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24098568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 268, 
+            "text": "The phosphorylation of RIP1 and RIP3 is critical for assembly of the necrosome,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24059293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 497, 
+            "offsetInEndSection": 527, 
+            "text": "RIP1-RIP3 \"necrosome\" complex ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23898178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 400, 
+            "text": "RIP1 and RIP3 mediate necrosome aggregation leading to the formation of amyloid-like signaling complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23612963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 894, 
+            "text": "Formation of the RIP1/RIP3 complex (called necrosome) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23162759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 24, 
+            "text": "The RIP1/RIP3 necrosome ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22817896", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 966, 
+            "offsetInEndSection": 1001, 
+            "text": "Rip1-Rip3 death complex (necrosome)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22576661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 576, 
+            "offsetInEndSection": 663, 
+            "text": "he 'necrosome', that includes receptor-interacting protein (RIP)1, RIP3 and caspase-8. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21890409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 884, 
+            "offsetInEndSection": 998, 
+            "text": "RIP-1 kinase activity triggers formation of the necrosome (in complex with RIP-3) leading to programmed necrosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22666585", 
+            "endSection": "abstract"
+        }
+    ]
+}

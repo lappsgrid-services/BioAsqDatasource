@@ -1,0 +1,531 @@
+{
+    "body": "List tele monitoring applications of miniaturised sensors", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18002293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18002454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20925563", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21250829", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17272161", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20875149", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21971974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15718654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23529100", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19163770", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20597833"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/46062", 
+            "o": "Other"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/46062", 
+            "o": "Intervention #46062 (Other:Telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/46062", 
+            "o": "Telemonitoring"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/39361", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/39361", 
+            "o": "telemonitoring system"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/39361", 
+            "o": "Intervention #39361 (Device:telemonitoring system)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/62923", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/62923", 
+            "o": "telemonitoring system"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/62923", 
+            "o": "Intervention #62923 (Device:telemonitoring system)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/52935", 
+            "o": "Telemonitored care"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/52935", 
+            "o": "Telemonitored care"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/52935", 
+            "o": "Intervention #52935 (Behavioral:Telemonitored care)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00435643", 
+            "o": "http://data.linkedct.org/resource/intervention/10054"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/10054", 
+            "o": "Nurse-led telemonitoring"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00435643", 
+            "o": "Trial NCT00435643"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/10054", 
+            "o": "Intervention #10054 (Procedure:Nurse-led telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/53160", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/53160", 
+            "o": "Intervention #53160 (Device:HomMed Telemonitoring System)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/53160", 
+            "o": "HomMed Telemonitoring System"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/10054", 
+            "o": "Procedure"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/10054", 
+            "o": "10054"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/53160", 
+            "o": "53160"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/39518", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/39518", 
+            "o": "Intervention #39518 (Device:ICD with Telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/39518", 
+            "o": "ICD with Telemonitoring"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/39361", 
+            "o": "Health Buddy\u00ae telemonitoring system"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/62923", 
+            "o": "usual care"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/39518", 
+            "o": "39518"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00732069", 
+            "o": "http://data.linkedct.org/resource/intervention/10045"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00732069", 
+            "o": "Trial NCT00732069"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/10045", 
+            "o": "Intervention #10045 (Behavioral:Nurse Behavioral intervention with Home BP Telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/10045", 
+            "o": "Nurse Behavioral intervention with Home BP Telemonitoring"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/13986", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/13986", 
+            "o": "Intervention #13986 (Device:Telemonitoring of glucose values using GlucoNet device)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/13986", 
+            "o": "Telemonitoring of glucose values using GlucoNet device"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/10049", 
+            "o": "10049"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/10049", 
+            "o": "Nurse Medication Management with Home BP Telemonitoring"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/10049", 
+            "o": "Intervention #10049 (Behavioral:Nurse Medication Management with Home BP Telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00572767", 
+            "o": "http://data.linkedct.org/resource/intervention/10047"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/10047", 
+            "o": "Intervention #10047 (Behavioral:Nurse Combined intervention with Home BP Telemonitoring)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00572767", 
+            "o": "Trial NCT00572767"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/10047", 
+            "o": "Nurse Combined intervention with Home BP Telemonitoring"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/10045", 
+            "o": "10045"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/10045", 
+            "o": "Behavioral"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/10047", 
+            "o": "10047"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/13986", 
+            "o": "13986"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00700856", 
+            "o": "http://data.linkedct.org/resource/intervention/39361"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00700856", 
+            "o": "Trial NCT00700856"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/acronym", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00700856", 
+            "o": "TOSCA IT"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00097656", 
+            "o": "http://data.linkedct.org/resource/intervention/39518"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00097656", 
+            "o": "Trial NCT00097656"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/10049", 
+            "o": "Behavioral"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00214097", 
+            "o": "http://data.linkedct.org/resource/intervention/13986"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00214097", 
+            "o": "Trial NCT00214097"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00715429", 
+            "o": "http://data.linkedct.org/resource/intervention/10049"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00715429", 
+            "o": "Trial NCT00715429"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/10047", 
+            "o": "Behavioral"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/7206", 
+            "o": "7206"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/7206", 
+            "o": "In-home telemonitoring of pediatric patients with persistent asthma"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/7206", 
+            "o": "Intervention #7206 (Procedure:In-home telemonitoring of pediatric patients with persistent asthma)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/7206", 
+            "o": "Procedure"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/39518", 
+            "o": "Home Monitoring follow-ups compared to conventional office visit follow-ups of ICDs"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00523939", 
+            "o": "http://data.linkedct.org/resource/intervention/7206"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00523939", 
+            "o": "Trial NCT00523939"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/53160", 
+            "o": "The HomMed telemonitoring system allows for patients to monitor their weight, blood pressure, oxygen saturation and symptoms of dyspnoea on a daily basis from their home"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/52936", 
+            "o": "Telemonitoring is  the use of electronic communications technology by caregivers to monitor patients in their home and promote the engagement of patients in their care."
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/52936", 
+            "o": "Intervention #52936 (Behavioral:Telemonitoring)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/52936", 
+            "o": "Telemonitoring"
+        }
+    ], 
+    "ideal_answer": [
+        "Home-polysomnography (HPSG)\nBody weight\nBlood pressure control\nHeart failure control\nVital signs - disaster relief, dangerous outdoor sports and adventure monitoring, and antiterrorism activities.\nTelemetric fetal home monitoring system for recording the trans-abdominal fetal heart signal and the uterine contractions\nVital signs - electrocardiograms (ECGs), temperature (T), and oxygen saturation (SaO2) , breath rate\nStep-counting for tele-rehabilitation\nDetection of falls in elderly"
+    ], 
+    "exact_answer": [
+        [
+            "Sleep monitoring"
+        ], 
+        [
+            "Body weight"
+        ], 
+        [
+            "Blood pressure control"
+        ], 
+        [
+            "Heart failure control"
+        ], 
+        [
+            "vital signs"
+        ], 
+        [
+            "fetal heart signal"
+        ], 
+        [
+            "uterine contractions"
+        ], 
+        [
+            "Electrocardiograms", 
+            "ECG"
+        ], 
+        [
+            "Temperature"
+        ], 
+        [
+            "Oxygen saturation", 
+            "SaO2"
+        ], 
+        [
+            "breath rate"
+        ], 
+        [
+            "Step-counting"
+        ], 
+        [
+            "Falls detector"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008904"
+    ], 
+    "type": "list", 
+    "id": "52f895602059c6d71c000040", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 287, 
+            "text": "Home-polysomnography (HPSG) has been proposed as a cost-effective alternative for obstructive sleep apnea (OSA) diagnosis. We assessed, in a feasibility study, whether telematic transmission using the Dream\u00ae and Sleepbox\u00ae technologies was associated with low HPSG failure rate", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23529100", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 342, 
+            "text": " In this study, we monitored remotely self-measured body weight and blood pressure, in parallel with the data automatically transmitted by implantable cardioverter-defibrillators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21971974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1198, 
+            "offsetInEndSection": 1688, 
+            "text": "Body weight, patient activity, and the difference between MHR and RHR are mutually correlated and may reasonably contribute to an algorithm for predicting heart failure deterioration. Blood pressure appears to offer no additional value. As both genesis and symptoms of heart failure exacerbation are non-uniform and complex, the telemonitoring concepts for heart failure patients should employ continuous monitoring of multiple diagnostic parameters, rather than rely on a single parameter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21971974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 348, 
+            "text": "System and can collect users' vital signs with a set of wireless sensors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21250829", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 580, 
+            "offsetInEndSection": 740, 
+            "text": "this terminal is very helpful in special circumstances such as disaster relief, dangerous outdoor sports and adventure monitoring, and antiterrorism activities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21250829", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "A new, phonocardiography-based telemetric fetal home monitoring system.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20925563", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 361, 
+            "text": "The input element of the system was the home monitor with two sensors for recording the trans-abdominal fetal heart signal and the uterine contractions. T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20925563", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 977, 
+            "offsetInEndSection": 1124, 
+            "text": "Telemonitoring is currently being used in community-based healthcare, at the scene of medical emergencies, by ambulance services and in hospitals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20875149", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Mobile telemonitoring for achieving tighter targets of blood pressure control in patients with complicated diabetes: ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20597833", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 449, 
+            "offsetInEndSection": 598, 
+            "text": "Patients in the intervention arm transmitted weekly blood pressure readings wirelessly, using adapted sensors via mobile phones to a central server. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20597833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1284, 
+            "offsetInEndSection": 1483, 
+            "text": "In patients with diabetes, mobile telemonitoring has potential for delivering intensified care to improve blood pressure control, and its use may be associated with reduced exposure to hyperglycemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20597833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 588, 
+            "text": "A new codivilla-spring prosthesis with sensors for telemonitoring / telerehabilitation has been designed and constructed. It provides step counting", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19163770", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 351, 
+            "text": "This article is a survey of systems, algorithms and sensors, for the automatic early detection of the fall of elderly persons. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18002293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 360, 
+            "text": "We describe a vital sign telemonitor (VST) that acquires, records, displays, and provides readings such as: electrocardiograms (ECGs), temperature (T), and oxygen saturation (SaO2) over the Internet to any site. The design of this system consisted of three parts: sensors, analog signal processing circuits, and a user-friendly graphical user interface (GUI). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17272161", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 337, 
+            "text": "The paper describes the development of biomedical clothing for ambulatory telemonitoring of human vital parameters. VTAM (Vetement de Tele-Assistance Medicale) presents a T-shirt made from textile with woven wires and incorporating four smooth dry ECG electrodes, a breath rate sensor, a shock/fall detector and two temperature sensors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15718654", 
+            "endSection": "abstract"
+        }
+    ]
+}

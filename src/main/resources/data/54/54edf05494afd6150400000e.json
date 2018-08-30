@@ -1,0 +1,377 @@
+{
+    "body": "Is there a mouse model for Fanconi anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10936049", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12135664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21240276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19561169", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18812474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22660274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8879267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9531583", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9678061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11879775", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19427003", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21915857"
+    ], 
+    "ideal_answer": [
+        "A number of mouse models have already been generated with a targeted disruption of several Fanconi anemia genes, such as FANCA, FANCF, FANCM, FANCD1, etc."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051856", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13636", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1062"
+    ], 
+    "type": "yesno", 
+    "id": "54edf05494afd6150400000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Cyclophosphamide promotes engraftment of gene-modified cells in a mouse model of Fanconi anemia without causing cytogenetic abnormalities", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22660274", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 525, 
+            "offsetInEndSection": 702, 
+            "text": "We compared Cy preconditioning with fludarabine (Flu) or cytarabine (AraC) or no conditioning as a control in fanca ( -/- ) mutant mice receiving gene-modified bone marrow cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22660274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1132, 
+            "offsetInEndSection": 1307, 
+            "text": "We conclude that Cy is an effective and superior preparative regimen with respect to engraftment of lentivirus-transduced cells and functional correction in fanca ( -/- ) mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22660274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 294, 
+            "offsetInEndSection": 485, 
+            "text": "To study whether there is a causal relationship between FA pathway defects and tumour development, we have generated a mouse model with a targeted disruption of the FA core complex gene Fancf", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 752, 
+            "text": "Fancf-deficient mouse embryonic fibroblasts displayed a phenotype typical for FA cells: they showed an aberrant response to DNA cross-linking agents as manifested by G(2) arrest, chromosomal aberrations, reduced survival, and an inability to monoubiquitinate FANCD2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 754, 
+            "offsetInEndSection": 1082, 
+            "text": "Fancf homozygous mice were viable, born following a normal Mendelian distribution, and showed no growth retardation or developmental abnormalities. The gonads of Fancf mutant mice functioned abnormally, showing compromised follicle development and spermatogenesis as has been observed in other FA mouse models and in FA patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1084, 
+            "offsetInEndSection": 1190, 
+            "text": "In a cohort of Fancf-deficient mice, we observed decreased overall survival and increased tumour incidence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 393, 
+            "text": "To provide further experimental access to the FA-M complementation group we have generated Fancm-deficient mice by deleting exon 2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 395, 
+            "offsetInEndSection": 563, 
+            "text": "FANCM deficiency caused hypogonadism in mice and hypersensitivity to cross-linking agents in mouse embryonic fibroblasts (MEFs), thus phenocopying other FA mouse models", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 761, 
+            "text": "Fancm(Delta2/Delta2) mice also showed unique features atypical for FA mice, including underrepresentation of female Fancm(Delta2/Delta2) mice and decreased overall and tumor-free survival", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Fancm-deficient mice reveal unique features of Fanconi anemia complementation group M", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561169", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Fancf-deficient mice are prone to develop ovarian tumours", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915857", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "In vivo proliferation advantage of genetically corrected hematopoietic stem cells in a mouse model of Fanconi anemia FA-D1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18812474", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 874, 
+            "text": "Using an FA mouse model with a marked hematopoietic phenotype, the FA-D1 (Brca2(Delta27/Delta27)) mice, we demonstrate that the lentivirus-mediated gene therapy of FA HSCs results in the progressive expansion of genetically corrected clones in mild-conditioned FA-D1 recipients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18812474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 876, 
+            "offsetInEndSection": 1038, 
+            "text": "Consistent with these data, hematopoietic progenitors from FA recipients progressively became mitomycin C resistant and their chromosomal instability was reverted", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18812474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Hematopoietic dysfunction in a mouse model for Fanconi anemia group D1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "We have investigated the hematopoietic phenotype of mice with a hypomorphic mutation in the Brca2/Fancd1 gene (Brca2(Delta27/Delta27) mutation)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 867, 
+            "text": "Conventional BM competition experiments showed a marked repopulation defect in Brca2(Delta27/Delta27) hematopoietic stem cells (HSCs), compared to wild-type HSCs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 869, 
+            "offsetInEndSection": 1069, 
+            "text": "Moreover, we have observed for the first time in a DNA repair disease model a very significant proliferation defect in Brca2(Delta27/Delta27) HSCs maintained in their natural physiological environment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1291, 
+            "offsetInEndSection": 1509, 
+            "text": "The hematopoietic phenotype associated with the Brca2(Delta27/Delta27) mutation suggests that this FA-D1 mouse model will constitute an important tool for the development of new therapies for FA, including gene therapy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "In vitro phenotypic correction of hematopoietic progenitors from Fanconi anemia group A knockout mice", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 463, 
+            "text": "In this study we characterized the hematopoietic phenotype of a Fanca knockout mouse model and corrected the main phenotypic characteristics of the bone marrow (BM) progenitors using retroviral vectors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 630, 
+            "text": "The hematopoiesis of these animals was characterized by a modest though significant thrombocytopenia, consistent with reduced numbers of BM megakaryocyte progenitors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 632, 
+            "offsetInEndSection": 757, 
+            "text": "As observed in other FA models, the hematopoietic progenitors from Fanca(-/-) mice were highly sensitive to mitomycin C (MMC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1303, 
+            "offsetInEndSection": 1839, 
+            "text": "Aiming to correct the phenotype of Fanca(-/-) progenitors, purified Lin(-)Sca-1(+) cells were transduced with retroviral vectors encoding the enhanced green fluorescent protein (EGFP) gene and human FANCA genes. Lin(-)Sca-1(+) cells from Fanca(-/-) mice were transduced with an efficiency similar to that of samples from wild-type mice. More significantly, transductions with FANCA vectors corrected both the MMC hypersensitivity as well as the impaired ex vivo expansion ability that characterized the BM progenitors of Fanca(-/-) mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12200363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 892, 
+            "offsetInEndSection": 1092, 
+            "text": " The Btbd12 knockout mouse therefore establishes a disease model for Fanconi anemia and genetically links a regulator of nuclease incision complexes to the Fanconi anemia DNA crosslink repair pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21240276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Hematopoietic dysfunction in a mouse model for Fanconi anemia group D1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "Bone marrow failure in the Fanconi anemia group C mouse model after DNA damage.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9531583", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "In vivo proliferation advantage of genetically corrected hematopoietic stem cells in a mouse model of Fanconi anemia FA-D1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18812474", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Assessment of the flexed-tail mouse as a possible model for Fanconi anemia: analysis of mitomycin C-induced micronuclei.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8879267", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 899, 
+            "offsetInEndSection": 1098, 
+            "text": "The Btbd12 knockout mouse therefore establishes a disease model for Fanconi anemia and genetically links a regulator of nuclease incision complexes to the Fanconi anemia DNA crosslink repair pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21240276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Cyclophosphamide promotes engraftment of gene-modified cells in a mouse model of Fanconi anemia without causing cytogenetic abnormalities.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22660274", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 31, 
+            "text": "Mouse models of Fanconi anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19427003", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 591, 
+            "offsetInEndSection": 735, 
+            "text": "Five of these genes have been deleted or mutated in the mouse, as well as a sixth key regulatory gene, to create mouse models of Fanconi anemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19427003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 736, 
+            "offsetInEndSection": 1039, 
+            "text": "This review summarizes the phenotype of each of the Fanconi anemia mouse models and highlights how genetic and interventional studies using the strains have yielded novel insight into therapeutic strategies for Fanconi anemia and into how the Fanconi anemia pathway protects against genomic instability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19427003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 277, 
+            "text": "To study FA complementation group A using the mouse as a model system, we cloned and characterized the mouse homolog of the human FANCA cDNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10936049", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 248, 
+            "offsetInEndSection": 419, 
+            "text": "Here we describe the phenotype of the Btbd12 knockout mouse, the mouse ortholog of SLX4, which recapitulates many key features of the human genetic illness Fanconi anemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21240276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 591, 
+            "offsetInEndSection": 734, 
+            "text": "Five of these genes have been deleted or mutated in the mouse, as well as a sixth key regulatory gene, to create mouse models of Fanconi anemia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19427003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 342, 
+            "text": "In contrast to observations made in other Fanconi anemia (FA) mouse models, low numbers of hematopoietic colony-forming cells (CFCs) were noted in Brca2(Delta27/Delta27) mice, either young or adult", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16859999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Fanconi anemia group A and C double-mutant mice: functional evidence for a multi-protein Fanconi anemia complex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12135664", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 724, 
+            "offsetInEndSection": 796, 
+            "text": "In addition, mouse models are also useful for testing treatments for FA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11879775", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Development and characterization of immortalized fibroblastoid cell lines from an FA(C) mouse model.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9678061", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 411, 
+            "text": "These mouse models display the characteristic FA feature of cellular hypersensitivity to DNA cross-linking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11879775", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "body": "Is curcumin a phytochemical?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25272063", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25640947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26155681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25543853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25149981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24815764", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25542083", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25964558", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24293118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25661742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25541178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24669820", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24482305"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2792113", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2792113", 
+            "o": "curcumin III"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1259941", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2792113"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2792113", 
+            "o": "C475935"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Curcumin", 
+            "o": "458-37-7"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Curcumin", 
+            "o": "Curcumin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16717035", 
+            "o": "846163"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16717035", 
+            "o": "Curcumin Oral Capsule"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2683192", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16717035"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2683192", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16717035"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, curcumin is a phytochemical derived from rhizome of turmeric Curcuma longa."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003474", 
+        "http://www.biosemantics.org/jochem#4272467", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064209"
+    ], 
+    "type": "yesno", 
+    "id": "56b0eb3b0a360a5e45000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 366, 
+            "offsetInEndSection": 507, 
+            "text": "we analyzed turmeric from different agroclimatic regions for influence of various factors on its growth and yield of important phytochemicals", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26155681", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "The phytochemical, curcumin, has been reported to play many beneficial roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25541178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 470, 
+            "text": "Curcumin (CUR), the major component in Curcuma longa, has been shown as a potent chemopreventive phytochemical that modulates various signaling pathways. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25640947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 277, 
+            "text": "Curcumin (CUR) is a phytochemical that inhibits the xenobiotic ABC efflux transporters implicated in cancer multidrug resistance (MDR), such as P-glycoprotein (P-gp), breast cancer resistance protein (BCRP) and multidrug resistance-associated proteins 1 and 5 (MRP1 and MRP5). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25543853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 87, 
+            "offsetInEndSection": 261, 
+            "text": "In this study, we tested the efficacy of combining temozolomide with curcumin, a phytochemical known to inhibit glioblastoma growth, and investigated the mechanisms involved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25542083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 583, 
+            "text": " In the present study, we investigate whether curcumin (cur), a phytochemical compound with potent anti-inflammatory effect", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25661742", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 98, 
+            "offsetInEndSection": 126, 
+            "text": "the Phytochemicals Curcumin ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25964558", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 388, 
+            "text": "in combination with the phytochemicals curcumin and quercetin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25964558", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 116, 
+            "text": "Curcumin is a phytochemical derived from rhizome of turmeric Curcuma longa, present in the curry spice. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25149981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 352, 
+            "text": "Curcumin, a naturally occurring polyphenolic phytochemical isolated from the medicinal plant Curcuma longa, has anti-inflammatory activities", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24482305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 400, 
+            "text": "In the present study curcumin (CUR), a known anticancer phytochemical, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24815764", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 82, 
+            "text": " Curcumin, a natural phytochemical, exhibits potent anticancer activities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24293118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 355, 
+            "text": "hat curcumin, a phytochemical compound with potent anti-inflammatory properties ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24669820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 370, 
+            "offsetInEndSection": 395, 
+            "text": "curcumin, a phytochemical", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25272063", 
+            "endSection": "abstract"
+        }
+    ]
+}

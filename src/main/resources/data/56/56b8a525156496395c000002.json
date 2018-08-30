@@ -1,0 +1,42 @@
+{
+    "body": "Describe what is the usage of the Theatre software tool for genomic analysis.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12824356"
+    ], 
+    "ideal_answer": [
+        "Theatre is a web-based computing system designed for the comparative analysis of genomic sequences, especially with respect to motifs likely to be involved in the regulation of gene expression. Theatre is an interface to commonly used sequence analysis tools and biological sequence databases to determine or predict the positions of coding regions, repetitive sequences and transcription factor binding sites in families of DNA sequences. The information is displayed in a manner that can be easily understood and can reveal patterns that might not otherwise have been noticed. In addition to web-based output, Theatre can produce publication quality colour hardcopies showing predicted features in aligned genomic sequences.", 
+        "Theatre is a web-based computing system designed for the comparative analysis of genomic sequences, especially with respect to motifs likely to be involved in the regulation of gene expression. The information is displayed in a manner that can be easily understood and can reveal patterns that might not otherwise have been noticed. Theatre can be accessed at http://www.hgmp.mrc.ac.uk/Registered/Webapp/theatre/."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012984", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023281"
+    ], 
+    "type": "summary", 
+    "id": "56b8a525156496395c000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 726, 
+            "text": "Theatre is a web-based computing system designed for the comparative analysis of genomic sequences, especially with respect to motifs likely to be involved in the regulation of gene expression. Theatre is an interface to commonly used sequence analysis tools and biological sequence databases to determine or predict the positions of coding regions, repetitive sequences and transcription factor binding sites in families of DNA sequences. The information is displayed in a manner that can be easily understood and can reveal patterns that might not otherwise have been noticed. In addition to web-based output, Theatre can produce publication quality colour hardcopies showing predicted features in aligned genomic sequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12824356", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Theatre: A software tool for detailed comparative analysis and visualization of genomic sequence.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12824356", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 440, 
+            "text": "Theatre is a web-based computing system designed for the comparative analysis of genomic sequences, especially with respect to motifs likely to be involved in the regulation of gene expression. Theatre is an interface to commonly used sequence analysis tools and biological sequence databases to determine or predict the positions of coding regions, repetitive sequences and transcription factor binding sites in families of DNA sequences. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12824356", 
+            "endSection": "abstract"
+        }
+    ]
+}

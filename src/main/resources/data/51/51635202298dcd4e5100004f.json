@@ -1,0 +1,107 @@
+{
+    "body": "How is myotonic dystrophy inherited?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12577208", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12970845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8154209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18228241", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22332444"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1189440", 
+            "o": "myotonic dystrophy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12058083", 
+            "o": "Myotonic Dystrophy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0027126", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12058083"
+        }
+    ], 
+    "ideal_answer": [
+        "Myotonic dystrophy (DM) is a heterogeneous neuromuscular disease with an autosomal dominant pattern of inheritance."
+    ], 
+    "exact_answer": [
+        "autosomal dominant"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:11722", 
+        "http://www.disease-ontology.org/api/metadata/DOID:655", 
+        "http://www.disease-ontology.org/api/metadata/DOID:9884", 
+        "http://www.disease-ontology.org/api/metadata/DOID:450"
+    ], 
+    "type": "factoid", 
+    "id": "51635202298dcd4e5100004f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 229, 
+            "text": "Myotonic dystrophy type 2 (DM2) is an autosomal dominant, multisystem disorder caused by a CCTG tetranucleotide repeat expansion located in intron 1 of the zinc finger protein 9 gene (ZNF9 gene) on chromosome 3q 21.3.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22332444", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Myotonic dystrophy type 1 (DM1) is an autosomal dominant disorder, caused by an expansion of a CTG triplet repeat in the DMPK gene.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18228241", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 362, 
+            "text": "Myotonic dystrophy (DM), the most common form of muscular dystrophy in adults, is a clinically and genetically heterogeneous neuromuscular disorder. DM is characterized by autosomal dominant inheritance, muscular dystrophy, myotonia, and multisystem involvement. Type 1 DM (DM1) is caused by a (CTG)(n) expansion in the 3' untranslated region of DMPK in 19q13.3.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12970845", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 470, 
+            "offsetInEndSection": 677, 
+            "text": "proximal myotonic myopathy (PROMM) and type 2 DM (DM2) but without the DM1 mutation, showed linkage to the 3q21 region and were recently shown to segregate a (CCTG)(n) expansion mutation in intron 1 of ZNF9.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12970845", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 859, 
+            "offsetInEndSection": 905, 
+            "text": "All patients have the DM2 (CCTG)(n) expansion.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12970845", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 195, 
+            "text": "Myotonic dystrophy type 1 is a neuromuscular, degenerative and progressive disease, with an autosomal dominant pattern of inheritance, variable expressivity and incomplete penetrance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12577208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1259, 
+            "text": "The worldwide intergenerational behavior of the DM1 mutation is similar in Costa Rica", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12577208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Dystrophic myotonia is a sufficiently rare disease inherited mainly by the autosomal dominant type.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8154209", 
+            "endSection": "sections.0"
+        }
+    ]
+}

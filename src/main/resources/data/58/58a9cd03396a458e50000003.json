@@ -1,0 +1,83 @@
+{
+    "body": "What is the Shelterin complex?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27814571", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26598048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26748096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26921407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27135879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26871633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26119943"
+    ], 
+    "ideal_answer": [
+        "Human telomeres are associated with the shelterin complex which consists of six telomere-associated proteins that specifically bind to telomeric DNA. Alterations or removal of individual shelterin components would lead to telomere uncapping and telomere dysfunction, resulting in cellular senescence and transformation to a malignant state."
+    ], 
+    "type": "summary", 
+    "id": "58a9cd03396a458e50000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 424, 
+            "offsetInEndSection": 764, 
+            "text": "Human telomeres are associated with the shelterin complex which consists of six telomere-associated proteins that specifically bind to telomeric DNA. Alterations or removal of individual shelterin components would lead to telomere uncapping and telomere dysfunction, resulting in cellular senescence and transformation to a malignant state.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27814571", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Telomeres interact with numerous proteins, including components of the shelterin complex, whose alteration, similarly to proliferation-induced telomere shortening, initiates cellular senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26119943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Telomere repeat binding factor TRF2 is a member of shelterin complex with an important role in protecting and stabilizing chromosomal ends.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26598048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 236, 
+            "text": "In human, the shelterin complex binds TTAGGG DNA repeats and provides capping to chromosome ends.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26748096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Shelterin Protects Chromosome Ends by Compacting Telomeric Chromatin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26871633", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Telomeres, repetitive DNA sequences at chromosome ends, are shielded against the DNA damage response (DDR) by the shelterin complex. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26871633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 106, 
+            "offsetInEndSection": 357, 
+            "text": "Telomeres need to be protected by the shelterin complex to avoid junctions occurring between chromosomes while failing topoisomerases or clustered DNA damage processing may produce double-strand breaks, thus requiring swift repair to avoid cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26921407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 274, 
+            "text": "A multiprotein complex known as shelterin prevents recognition of telomeric sequences as sites of DNA damage. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27135879", 
+            "endSection": "abstract"
+        }
+    ]
+}

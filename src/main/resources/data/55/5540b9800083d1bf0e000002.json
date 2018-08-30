@@ -1,0 +1,134 @@
+{
+    "body": "Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21527722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15522301", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10652315", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14747656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14761982", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3517024", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1634521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11502188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9356261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21215336", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9115173"
+    ], 
+    "ideal_answer": [
+        "Alpha and beta spectrin subunits form antiparallel spectrin heterodimers by lateral association."
+    ], 
+    "exact_answer": [
+        "antiparallel"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4249968", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008091"
+    ], 
+    "type": "factoid", 
+    "id": "5540b9800083d1bf0e000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1185, 
+            "offsetInEndSection": 1258, 
+            "text": "\u03b1- and \u03b2-spectrin by LC-MS/MS identifies Cys in these antiparallel chains", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21527722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 56, 
+            "offsetInEndSection": 90, 
+            "text": "antiparallel spectrin heterodimers", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14761982", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 565, 
+            "text": "alpha- and beta-spectrins are stable as monomeric forms but occur physiologically as alpha,beta-heterodimers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14761982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 703, 
+            "offsetInEndSection": 894, 
+            "text": "human erythroid alpha-spectrin repeats 13 and 14 (HEalpha13,14) and human erythroid beta-spectrin repeats 8 and 9 (HEbeta8,9), are located opposite each other on antiparallel spectrin dimers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14747656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Spectrins comprise \u03b1- and \u03b2-subunits made up predominantly of a series of homologous repeating units of about 106 amino acids; the \u03b1- and \u03b2-chains form antiparallel dimers by lateral association", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21215336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "The spectrin heterodimer is formed by the antiparallel lateral association of an alpha and a beta subunit", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10652315", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 657, 
+            "offsetInEndSection": 890, 
+            "text": "Two of the less stably folded fragments, human erythroid alpha-spectrin repeats 13 and 14 (HEalpha13,14) and human erythroid beta-spectrin repeats 8 and 9 (HEbeta8,9), are located opposite each other on antiparallel spectrin dimers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14747656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Influence of lateral association on forced unfolding of antiparallel spectrin heterodimers.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14761982", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "The antiparallel side-to-side association of spectrin alpha and beta monomers is a two-step process which occurs in seconds even at 0 degrees C and at low concentrations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1634521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "The spectrin heterodimer is formed by the antiparallel lateral association of an alpha and a beta subunit, each of which comprises largely a series of homologous triple-helical motifs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10652315", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "Human erythrocyte spectrin is an antiparallel heterodimer comprised of a 280 kDa alpha subunit and a 246 kDa beta subunit which further associates into tetramers in the red cell membrane cytoskeleton", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11502188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "The spectrin heterodimer is formed by the antiparallel lateral association of an alpha and a beta subunit, each of which comprises largely a series of homologous triple-helical motifs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10652315", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 810, 
+            "offsetInEndSection": 917, 
+            "text": "The basic unit of spectrin is an antiparallel heterodimer composed of two homologous chains, beta and alpha", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9356261", 
+            "endSection": "abstract"
+        }
+    ]
+}

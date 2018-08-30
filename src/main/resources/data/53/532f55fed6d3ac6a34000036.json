@@ -1,0 +1,251 @@
+{
+    "body": "What is the gene mutated in the Gaucher disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8213821", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8556817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11479729", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16039881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8986634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23936319", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20004604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14757438", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1899336", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10882637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21704274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9733040", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21223590", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22230121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9187679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8051940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7857677", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2464926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17427031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2117855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2349952", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9175735", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9295080", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7923859"
+    ], 
+    "ideal_answer": [
+        "The glucocerebrosidase gene (GBA)"
+    ], 
+    "exact_answer": [
+        "glucocerebrosidase"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005776", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1926"
+    ], 
+    "type": "factoid", 
+    "id": "532f55fed6d3ac6a34000036", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 242, 
+            "text": "The glucocerebrosidase gene (GBA), located in a gene-rich region on chromosome 1q 21, is mutated in Gaucher disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21704274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 16, 
+            "offsetInEndSection": 143, 
+            "text": "(GD) is the most common of the lysosomal storage disorders and is caused by defects in the GBA gene encoding glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23936319", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 91, 
+            "text": "(GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22230121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 78, 
+            "text": "Gaucher disease is caused by defective glucocerebrosidase activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21223590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3, 
+            "offsetInEndSection": 71, 
+            "text": "Gaucher disease (GD), the inherited deficiency of glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20004604", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 73, 
+            "text": "utations in the glucocerebrosidase (GBA) gene cause Gaucher disease (GD)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17427031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 554, 
+            "offsetInEndSection": 596, 
+            "text": "mutations in glucocerebrosidase (GBA) gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16039881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 122, 
+            "text": "GD) is a disorder of glycosphinglipid metabolism caused by deficiency of lysosomal acid beta-glucosidase ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16039881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 134, 
+            "text": "Gaucher disease (GD) is a heterogeneous disease characterized by an impaired activity of the lysosomal glucocerebrosidase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757438", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 276, 
+            "text": "Mutations in GBA may lead to Gaucher disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11479729", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 20, 
+            "offsetInEndSection": 129, 
+            "text": "Gaucher's disease (GD) is an autosomal recessive disease produced by mutations of the Glucocerebrosidase gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10882637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 97, 
+            "text": "aucher disease results, in most patients, from mutations in the gene encoding glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9733040", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 333, 
+            "text": "mutations in the glucocerebrosidase gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9295080", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 129, 
+            "text": "type I Gaucher disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9295080", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 394, 
+            "text": "complete deletion of the beta-glucocerebrosidase gene was investigated in 25 unrelated non-Jewish patients with Gaucher's disease ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9187679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 120, 
+            "text": "aucher disease is a heterogeneous disease characterized by impaired activity of the lysosomal enzyme glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9175735", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 97, 
+            "text": "aucher disease, resulting from the decreased activity of the lysosomal enzyme glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8986634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 148, 
+            "text": "screening of the glucocerebrosidase gene by SSCP analysis revealed an abnormal pattern of exon 10 in two unrelated Italian Gaucher patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8556817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 74, 
+            "text": "GD) is an inherited deficiency of beta-glucocerebrosidase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7857677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 160, 
+            "text": "Gaucher disease is type 1. The N370S glucocerebrosidase gene mutation accounts for 63% of mutated alleles", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7923859", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 43, 
+            "offsetInEndSection": 115, 
+            "text": "mutated glucocerebrosidase alleles of Portuguese type 1 Gaucher patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8051940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 32, 
+            "offsetInEndSection": 132, 
+            "text": "mutated alleles known to occur in the glucocerebrosidase gene was determined in 247 Gaucher patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8213821", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 264, 
+            "text": "Gaucher disease has marked phenotypic variation and molecular heterogeneity, and several simple and complex alleles of the acid beta-glucosidase gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1899336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 49, 
+            "offsetInEndSection": 193, 
+            "text": "Gaucher disease in 3 successive generations were tested for the presence of the 2 common mutations known to occur in the glucocerebrosidase gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2117855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 262, 
+            "text": "Gaucher disease has marked phenotypic variation and molecular heterogeneity, and seven point mutations in the acid beta-glucosidase (beta-Glc) gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2349952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 147, 
+            "text": "cDNA clones containing the entire coding sequence of human glucocerebrosidase were isolated from libraries originated from Gaucher patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2464926", 
+            "endSection": "abstract"
+        }
+    ]
+}

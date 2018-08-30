@@ -1,0 +1,370 @@
+{
+    "body": "Do brown fat cells produce heat?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23834768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26910308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22796012", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21196229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23818608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6148836", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3083882", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26496384", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26322018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15058310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6819159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21982742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24567786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27528872", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8042786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25642708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27528697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27552974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1550210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25068090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2039657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21123942", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9277366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24129212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/5262992", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24046370", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26912151", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6315457", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/541897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25466254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16594742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26749900", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22654830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19641492"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0018837", 
+            "o": "Heat"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0018837", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0066521"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0066521", 
+            "o": "Heat"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0018837", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18591807"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18591807", 
+            "o": "heat"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, brown fat cells produce heat."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002477", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002001", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D052437", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006359", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005223"
+    ], 
+    "type": "yesno", 
+    "id": "58ca906a02b8c6095300002e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 271, 
+            "offsetInEndSection": 512, 
+            "text": "WAT and BAT are both involved in energy balance. WAT is mainly involved in the storage and mobilization of energy in the form of triglycerides, whereas BAT specializes in dissipating energy as heat during cold- or diet-induced thermogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24567786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 76, 
+            "offsetInEndSection": 288, 
+            "text": "Because brown adipose\u00a0tissue (BAT) dissipates energy in the form of heat, increasing energy expenditure by augmenting BAT-mediated thermogenesis may represent an approach to counter obesity and its complications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25466254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 254, 
+            "text": "Classic brown fat and inducible beige fat both dissipate chemical energy in the form of heat through the actions of mitochondrial uncoupling protein 1. This nonshivering thermogenesis is crucial for mammals as a defense against cold and obesity/diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23818608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 245, 
+            "text": "Mitochondrial uncoupling protein 1 in brown fat cells produces heat by dissipating the energy generated by fatty acid and glucose oxidation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22654830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 36, 
+            "text": "Brown fat biology and thermogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21196229", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Brown fat (brown adipose tissue, BAT) primary function is to produce heat. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21196229", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 353, 
+            "text": "Brown fat cells were classified into 6 types: Type 1 cells are fat-depleted cells filled with granular cytoplasm and are believed to be produced after oxidation of fat for heat production.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1226, 
+            "offsetInEndSection": 1487, 
+            "text": "Calorimetric measurements from cell suspensions showed that ATP increased basal heat production of isolated brown fat cells by approximately 40% but had no effect on the greater than fivefold increase in heat production seen with maximal adrenergic stimulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9277366", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Classic brown fat and inducible beige fat both dissipate chemical energy in the form of heat through the actions of mitochondrial uncoupling protein 1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23818608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Brown adipocytes oxidize fatty acids to produce heat in response to cold or to excessive energy intake; stimulation of brown fat development and function may thus counteract obesity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21982742", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1032, 
+            "offsetInEndSection": 1285, 
+            "text": "The occurrence of Types 1 and/or 6 cells that has been revealed in 65 out of the total 180 samples (36%), suggests that the oxidation of fat for the thermogenesis proceeds in the brown fat tissue and that brown fat cells partially undergo fat depletion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 354, 
+            "text": "Brown fat cells were classified into 6 types: Type 1 cells are fat-depleted cells filled with granular cytoplasm and are believed to be produced after oxidation of fat for heat production.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 333, 
+            "text": "In response to cold, both classical brown fat and the newly identified \"beige\" or \"brite\" cells are activated by \u03b2-adrenergic signaling and catabolize stored lipids and carbohydrates to produce heat via UCP1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26322018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "The ability of brown adipocytes (fat cells) to dissipate energy as heat shows great promise for the treatment of obesity and other metabolic disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26496384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Inappropriate heat dissipation ignites brown fat thermogenesis in mice with a mutant thyroid hormone receptor \u03b11", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24046370", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Brown fat and vascular heat dissipation: The new cautionary tail", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25068090", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 255, 
+            "offsetInEndSection": 458, 
+            "text": "Brown adipose produces heat as a defense against hypothermia and obesity, and the appearance of brown-like adipocytes within white adipose tissue depots is associated with improved metabolic phenotypes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21123942", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1764, 
+            "offsetInEndSection": 1902, 
+            "text": "In the same manner, marked ability to produce a considerable amount of heat was evidenced in  brown fat tissue of children and teenagers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 355, 
+            "text": "Brown fat cells were classified into 6 types: Type 1 cells are fat-depleted cells filled with granular cytoplasm and are believed to be produced after oxidation of fat for heat production. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1616, 
+            "offsetInEndSection": 1739, 
+            "text": "It is inferred that brown-adipose-tissue heat production is reduced during (and probably also some time after) anesthesia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8042786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Parallel measurements of heat production and thermogenin content in brown fat cells during cold acclimation of rats.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3083882", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 39, 
+            "offsetInEndSection": 287, 
+            "text": "The classical white adipose tissue builds up energy in the form of triglycerides and is useful for preventing fatigue during periods of low caloric intake and the brown adipose tissue instead of inducing fat accumulation can produce energy as heat.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27528872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 334, 
+            "text": "In response to cold, both classical brown fat and the newly identified \"beige\" or \"brite\" cells are activated by \u03b2-adrenergic signaling and catabolize stored lipids and carbohydrates to produce heat via UCP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26322018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 103, 
+            "offsetInEndSection": 245, 
+            "text": "White adipose tissue stores energy reserves as fat, whereas the metabolic function of brown adipose tissue is lipid oxidation to produce heat.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23834768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "The main function of brown adipose tissue (BAT) is to produce heat in response to cold.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6148836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Brown adipocytes oxidize fatty acids to produce heat in response to cold or caloric overfeeding.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24129212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Brown fat (brown adipose tissue, BAT) primary function is to produce heat.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21196229", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 293, 
+            "text": "Adipose tissue plays an active role in energy balance because it is not only a lipid storing and mobilizing tissue but consists of functionally specialized tissues able to produce heat (in brown adipose tissue) and to produce or release a vast number of so called adipokines or adipocytokines.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15058310", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Brown adipose tissue (BAT), a specialized fat that dissipates energy to produce heat, plays an important role in the regulation of energy balance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25642708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Brown adipose cells are specialized to dissipate chemical energy in the form of heat, as a physiological defence against cold and obesity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19641492", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1286, 
+            "offsetInEndSection": 1430, 
+            "text": "In the present study, the thermogenesis of human brown fat tissue was suggested chiefly with regard to the occurrence of Types 1 and/or 6 cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1764, 
+            "offsetInEndSection": 1901, 
+            "text": "In the same manner, marked ability to produce a considerable amount of heat was evidenced in  brown fat tissue of children and teenagers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/962510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Adult humans have heat-producing and energy-consuming brown adipose tissue in the clavicular region of the neck.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26749900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Brown and beige adipocytes expend chemical energy to produce heat and are therefore important in regulating body temperature and body weight.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27552974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2005, 
+            "offsetInEndSection": 2203, 
+            "text": "In human perirenal brown fat tissue, darkly stained fat-depleted cells (D) occupy, with other cell types (CR, CR'), an important part in the reversible heat production cycle of the brown fat tissue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2039657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Brown fat is a specialized fat depot that can increase energy expenditure and produce heat.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26912151", 
+            "endSection": "abstract"
+        }
+    ]
+}

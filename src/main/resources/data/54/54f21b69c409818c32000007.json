@@ -1,0 +1,103 @@
+{
+    "body": "Which disorders are associated to mutated Hepcidin (HAMP)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21916273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20837779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23577916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24321703", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21862411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22408404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19214511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19342478", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20542038"
+    ], 
+    "ideal_answer": [
+        "Juvenile hemochromatosis (JH) is the most severe form of heriditary hemochromatosis, usually caused by mutations in hemojuvelin (HJV) or hepcidin (HAMP)."
+    ], 
+    "exact_answer": [
+        [
+            "juvenile hemochromatosis"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.uniprot.org/uniprot/HEPC_ONCMY", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064451"
+    ], 
+    "type": "list", 
+    "id": "54f21b69c409818c32000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 602, 
+            "offsetInEndSection": 667, 
+            "text": "juvenile hemochromatosis due to hemojuvelin and hepcidin mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321703", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 520, 
+            "text": " Mutations in all of the currently known genes implicated in non-HFE HH (hemojuvelin, hepcidin, transferrin receptor 2, and ferroportin) have been reported in patients from the Asia-Pacific region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23577916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1128, 
+            "offsetInEndSection": 1266, 
+            "text": " In conclusion, HAMP and hemojuvelin mutations are rare among Spanish HH patients, and their impact in this population is not significant.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19214511", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 396, 
+            "text": "Juvenile hemochromatosis (JH) is the most severe form, usually caused by mutations in hemojuvelin (HJV) or hepcidin (HAMP). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19342478", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 874, 
+            "offsetInEndSection": 1052, 
+            "text": "We have identified novel mutations in HJV, HAMP, and SLC40A1 in countries not normally associated with hereditary hemochromatosis (Pakistan, Bangladesh, Sri Lanka, and Thailand).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19342478", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 948, 
+            "offsetInEndSection": 1053, 
+            "text": "In humans, loss of TfR2, HJV, and hepcidin itself or FPN mutations result in full-blown hemochromatosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20542038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 719, 
+            "offsetInEndSection": 858, 
+            "text": "Targeting hepcidin with replacement therapy to decrease iron may be a treatment of not only HCV, HH, and alcoholic cirrhosis, but also PCT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21916273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 367, 
+            "text": "Hepcidin deficiency underlies iron overload in HFE-hemochromatosis as well as in several other genetic iron excess disorders, such as hemojuvelin or hepcidin-related hemochromatosis and transferrin receptor 2-related hemochromatosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21862411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 664, 
+            "text": "In addition to HFE gene, mutations in the genes that encode hemojuvelin (HJV), hepcidin (HAMP), transferrin receptor 2 (TFR2) and ferroportin (SLC40A1) have been associated with regulation of iron homeostasis and development of HH", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22408404", 
+            "endSection": "abstract"
+        }
+    ]
+}

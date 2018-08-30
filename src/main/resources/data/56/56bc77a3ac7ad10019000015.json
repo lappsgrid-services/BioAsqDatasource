@@ -1,0 +1,246 @@
+{
+    "body": "RTS S AS01 vaccine was developed to prevent which disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19859560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25913272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25007730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21782519", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24468190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23787092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25024381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21816030", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21816031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23454164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19806009", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21604980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22739688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21073995", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20735271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21816032", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25077418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24292709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25072396"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0049608", 
+            "o": "D004194"
+        }
+    ], 
+    "ideal_answer": [
+        "RTS,S/AS01 vaccine was developed for prevention of malaria."
+    ], 
+    "exact_answer": [
+        "malaria"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014612", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194"
+    ], 
+    "type": "factoid", 
+    "id": "56bc77a3ac7ad10019000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 188, 
+            "offsetInEndSection": 401, 
+            "text": "This randomized, double-blind study (NCT01323972) assessed consistency of three RTS,S/AS01 malaria vaccine batches formulated from commercial-scale purified antigen bulk lots in terms of anti-CS-responses induced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25077418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 84, 
+            "offsetInEndSection": 206, 
+            "text": "Until now, only one candidate malaria vaccine RTS,S/AS01 has shown modest protection in phase 3 trial in African infants. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24468190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 186, 
+            "text": "Efficacy and safety of RTS,S/AS01 malaria vaccine with or without a booster dose in infants and children in Africa: final results of a phase 3, individually randomised, controlled trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913272", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "BACKGROUND: The efficacy and safety of the RTS,S/AS01 candidate malaria vaccine during 18 months of follow-up have been published previously. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3356, 
+            "offsetInEndSection": 3546, 
+            "text": "INTERPRETATION: RTS,S/AS01 prevented a substantial number of cases of clinical malaria over a 3-4 year period in young infants and children when administered with or without a booster dose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1163, 
+            "offsetInEndSection": 1376, 
+            "text": "WHO anticipates that the RTS,S/AS01 vaccine will be recommended for the 6-14 week age group for co-administration together with other vaccines as part of routine immunization programs in malaria endemic countries.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22739688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 474, 
+            "text": "Recent phase 3 trials with malaria vaccine candidate RTS,S/AS01 (RTS,S) in children has demonstrated modest efficacy against clinical and severe malaria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24292709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 823, 
+            "offsetInEndSection": 906, 
+            "text": "The RTS,S/AS01(E) malaria vaccine candidate has recently entered phase III testing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21073995", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "The efficacy of RTS,S/AS01 as a vaccine for malaria is being tested in a phase 3 clinical trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23454164", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Assessment of severe malaria in a multicenter, phase III, RTS, S/AS01 malaria candidate vaccine trial: case definition, standardization of data collection and patient care.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21816031", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1240, 
+            "offsetInEndSection": 1501, 
+            "text": "If the phase III results confirm the observations made during phase II testing, the RTS,S/AS01(E) vaccine, when broadly implemented and judiciously integrated with other malaria-prevention measures, would have a major public-health impact in sub-Saharan Africa.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21073995", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "The RTS,S/AS01(E) malaria vaccine candidate has recently entered Phase 3 testing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19806009", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 153, 
+            "text": "The RTS,S/AS01(E) candidate malaria vaccine is being developed for immunisation of infants in Africa through the expanded programme on immunisation (EPI)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21782519", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "The RTS,S/AS01(E) malaria candidate vaccine is being developed for immunization of African infants through the Expanded Program of Immunization (EPI)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20735271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 327, 
+            "text": "Of the multiple approaches that have been pursued, the RTS,S/AS01 vaccine candidate represents the most developed and clinically validated malaria vaccine formulation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21604980", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 338, 
+            "text": "AS01 has been selected for the clinical development of several candidate vaccines including the RTS,S malaria vaccine and the subunit glycoprotein E varicella zoster vaccine (both currently in phase III)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25024381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Safety and efficacy of the RTS,S/AS01E candidate malaria vaccine given with expanded-programme-on-immunisation vaccines: 19 month follow-up of a randomised, open-label, phase 2 trial", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21782519", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "A randomized trial assessing the safety and immunogenicity of AS01 and AS02 adjuvanted RTS,S malaria vaccine candidates in children in Gabon.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19859560", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Effect of ingested human antibodies induced by RTS, S/AS01 malaria vaccination in children on Plasmodium falciparum oocyst formation and sporogony in mosquitoes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25007730", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 3196, 
+            "offsetInEndSection": 3546, 
+            "text": "The incidence of generalised convulsive seizures within 7 days of RTS,S/AS01 booster was 2\ufffd2 per 1000 doses in young infants and 2\ufffd5 per 1000 doses in children.INTERPRETATION: RTS,S/AS01 prevented a substantial number of cases of clinical malaria over a 3-4 year period in young infants and children when administered with or without a booster dose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Development of standardized laboratory methods and quality processes for a phase III study of the RTS, S/AS01 candidate malaria vaccine.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21816032", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Statistical methodology for the evaluation of vaccine efficacy in a phase III multi-centre trial of the RTS, S/AS01 malaria vaccine in African children.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21816030", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1579, 
+            "offsetInEndSection": 1932, 
+            "text": "Meningitis was reported as a serious adverse event in 16/5,949 and 1/2,974 children and in 9/4,358 and 3/2,179 infants in the RTS,S/AS01 and control groups, respectively.CONCLUSIONS: RTS,S/AS01 prevented many cases of clinical and severe malaria over the 18 mo after vaccine dose 3, with the highest impact in areas with the greatest malaria incidence. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25072396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 1517, 
+            "text": "This article provides a summary of the discussions, conclusions and recommendations from that meeting.Meeting sessions included: a review of the efficacy of artemisinin-based combination therapy in Guyana and Suriname; the outcomes from a consultation on non-malaria febrile illness; the outcomes from the second meeting of the Evidence Review Group on malaria burden estimation; an update on the review of the WHO Guidelines for the Treatment of Malaria; an update regarding progress on the constitution of the vector control Technical Expert Group; updates on the RTS, S/AS01 vaccine and the malaria vaccine technology roadmap; financing and resource allocation for malaria control; malaria surveillance and the need for a surveillance, monitoring and evaluation Technical Expert Group; criteria and classification related to malaria elimination; the next meeting of the Evidence Review Group on Intermittent Preventive Treatment in pregnancy; an update on the soon-to-be launched Elimination Scenario Planning Tool; and an update on the process for the Global Technical Strategy for Malaria Control and Elimination (2016-2025).Policy statements, position statements, and guidelines that arise from the MPAC meeting conclusions and recommendations will be formally issued and disseminated to World Health Organization Member States by the World Health Organization Global Malaria Programme.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 329, 
+            "text": "the RTS,S/AS01 vaccine candidate represents the most developed and clinically validated malaria vaccine formulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21604980", 
+            "endSection": "abstract"
+        }
+    ]
+}

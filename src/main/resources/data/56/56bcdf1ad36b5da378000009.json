@@ -1,0 +1,164 @@
+{
+    "body": "Dracorhodin perchlorate was tested for treatment of which cancers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15215653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16864444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22711363", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15684474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21505988"
+    ], 
+    "ideal_answer": [
+        "Dracorhodin perchlorate induce apoptosis in prostate cancer, gastric tumor, melanoma and premyelocytic leukemia."
+    ], 
+    "exact_answer": [
+        [
+            "prostate cancer"
+        ], 
+        [
+            "gastric tumor"
+        ], 
+        [
+            "melanoma"
+        ], 
+        [
+            "premyelocytic leukemia"
+        ]
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4016161", 
+        "http://www.biosemantics.org/jochem#4016161"
+    ], 
+    "type": "list", 
+    "id": "56bcdf1ad36b5da378000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Dracorhodin perchlorate induced human breast cancer MCF-7 apoptosis through mitochondrial pathways.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 317, 
+            "text": "It was reported that DP could induce apoptosis in human prostate cancer, human gastric tumor cells and human melanoma, but the cytotoxic effect of DP on human breast cancer was not investigated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1550, 
+            "offsetInEndSection": 1675, 
+            "text": "CONCLUSION: Therefore DP was a candidate for anti-breast cancer, DP induced apoptosis of MCF-7 through mitochondrial pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "Dracorhodin perchlorate has been recently shown to induce apoptotic cell death in cancer cells. However, the molecular mechanisms underlying these effects are unknown in human gastric tumor cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22711363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Dracorhodin perchlorate suppresses proliferation and induces apoptosis in human prostate cancer cell line PC-3.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21505988", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "The growth inhibition and pro-apoptosis effects of dracorhodin perchlorate on human prostate cancer PC-3 cell line were examined. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21505988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Dracorhodin perchlorate, an anthocyanin red pigment, induces human premyelocytic leukemia HL-60 cell death through apoptotic pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16864444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Dracorhodin perchlorate, an anthocyanin red pigment, induces human melanoma A375-S2 cell death through the apoptotic pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15684474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Dracorhodin perchlorate inhibited proliferation of several tumor cell lines. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15215653", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "The growth inhibition and pro-apoptosis effects of dracorhodin perchlorate on human prostate cancer PC-3 cell line were examined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21505988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 318, 
+            "text": "It was reported that DP could induce apoptosis in human prostate cancer, human gastric tumor cells and human melanoma, but the cytotoxic effect of DP on human breast cancer was not investigated. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 307, 
+            "text": " Dracorhodin perchlorate (DP) was a synthetic analogue of the antimicrobial anthocyanin red pigment dracorhodin. It was reported that DP could induce apoptosis in human prostate cancer, human gastric tumor cells and human melanoma, but the cytotoxic effect of DP on human breast cancer was not investigated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": " The growth inhibition and pro-apoptosis effects of dracorhodin perchlorate on human prostate cancer PC-3 cell line were examined. After administration of 10-80 \u03bcmol/L dracorhodin perchlorate for 12-48 h, cell viability of PC-3 cells was measured by MTT colorimetry.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21505988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 401, 
+            "text": "It was reported that DP could induce apoptosis in human prostate cancer, human gastric tumor cells and human melanoma, but the cytotoxic effect of DP on human breast cancer was not investigated. This study would investigate whether DP was a candidate chemical of anti-human breast cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 307, 
+            "text": "Dracorhodin perchlorate (DP) was a synthetic analogue of the antimicrobial anthocyanin red pigment dracorhodin. It was reported that DP could induce apoptosis in human prostate cancer, human gastric tumor cells and human melanoma, but the cytotoxic effect of DP on human breast cancer was not investigated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23869191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "The growth inhibition and pro-apoptosis effects of dracorhodin perchlorate on human prostate cancer PC-3 cell line were examined. After administration of 10-80 \u03bcmol/L dracorhodin perchlorate for 12-48 h, cell viability of PC-3 cells was measured by MTT colorimetry.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21505988", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "body": "Is SUMOylation a post-translational modification in eukaryotes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18468939", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20414307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25561743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15744326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21178495", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22192309", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27012284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21255632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26259101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24797264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18547337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20074036", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20562097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25997832", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24616021", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24880118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25867063", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25959766", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25833950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23273862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26142185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20299342", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24140722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22525038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27195426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23387271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21832256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18218095", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24970140", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25308709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22438991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18621739", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27152458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25533125", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22584054"
+    ], 
+    "ideal_answer": [
+        "Yes, SUMOylation that is the conjugation of target proteins with SUMO (small ubiquitin-related modifier), is a type of post-translational modification in eukaryotes."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0043687", 
+        "http://amigo.geneontology.org/amigo/term/GO:0016925", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058207"
+    ], 
+    "type": "yesno", 
+    "id": "58a6b98860087bc10a000028", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "SUMOylation, the conjugation of target proteins with SUMO (small ubiquitin-related modifier), is a type of post-translational modification in eukaryotes and involves the sequential action of activation (E1), conjugation (E2) and ligation (E3) enzymes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27152458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Plants have evolved to cope with changing environmental conditions. One way plants achieve this is through post-translational modification of target proteins by ubiquitination and SUMOylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27012284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Sumoylation is a post-translational modification essential in most eukaryotes that regulates stability, localization, activity, or interaction of a multitude of proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25833950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "SUMOylation, the covalent attachment of a member of the small ubiquitin-like modifier (SUMO) family of proteins to lysines in target substrates, is an essential post-translational modification in eukaryotes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25308709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Post-translational modification by SUMO is a highly conserved pathway in eukaryotes that plays very important regulatory roles in many cellular processes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24797264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 340, 
+            "text": "SUMOylation is an essential post-translational modification that regulates a variety of cellular processes including cell cycle progression. Although the SUMOylation pathway has been identified and investigated in many eukaryotes, the mechanisms of SUMOylation in regulating the functions of various substrates are still poorly understood. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24880118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "SUMOylation is a relevant protein post-translational modification in eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21832256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "SUMOylation is a reversible post-translational modification essential for genome stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 696, 
+            "text": "Many SUMOylated lysines have previously been reported to be ubiquitinated, acetylated or methylated, thus indicating cross-talk between SUMO and other post-translational modifications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 281, 
+            "text": "Sumoylation is a post-translational modification shown to play a role in diverse biological processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20299342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 363, 
+            "offsetInEndSection": 574, 
+            "text": "Besides phosphorylation or ubiquitylation, for which many examples of modulation by pathogens exist, a post-translational modification called SUMOylation was recently shown to be targeted by pathogenic bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21178495", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1669, 
+            "offsetInEndSection": 1808, 
+            "text": "cruzi SUMOylated proteins are similarly modified, indicating conserved functions for protein SUMOylation in this early divergent eukaryote.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21832256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "PML is a potent tumor suppressor and proapoptotic factor and is functionally regulated by post-translational modifications such as phosphorylation, sumoylation, and ubiquitination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18621739", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "SUMOylation is an essential post-translational modification that regulates a variety of cellular processes including cell cycle progression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24880118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "SUMOylation in Giardia lamblia: A Conserved Post-Translational Modification in One of the Earliest Divergent Eukaryotes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24970140", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "SUMOylation, the covalent attachment of a member of the small ubiquitin-like modifier (SUMO) family of proteins to lysines in target substrates, is an essential post-translational modification in eukaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25308709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "SUMOylation is a relevant protein post-translational modification in eukaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21832256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 817, 
+            "offsetInEndSection": 1167, 
+            "text": "Post-translational modifications (PTMs) are one facet of this proteasomal regulation, with over 400 known phosphorylation sites, over 500 ubiquitination sites and 83 internal lysine acetylation sites, as well as multiple sites for caspase cleavage, glycosylation (such as O-GlcNAc modification), methylation, nitrosylation, oxidation, and SUMOylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24140722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "SUMOylation is an important post-translational modification, and Akt SUMOylation was found to regulate cell proliferation, tumorigenesis and cell cycle, but the molecular mechanism of Akt SUMOylation is less well known", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25867063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "SUMOylation is a form of post-translational modification where small ubiquitin-like modifiers (SUMO) are covalently attached to target proteins to regulate their properties", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25533125", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 61, 
+            "offsetInEndSection": 256, 
+            "text": "One distinctive feature in acute proteotoxic stresses, such as heat shock (HS), is rapid post-translational modification of proteins by SUMOs (small ubiquitin-like modifier proteins; SUMOylation)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26259101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Post-translational modification by the Small Ubiquitin-like Modifier (SUMO) proteins, a process termed SUMOylation, is involved in many fundamental cellular processes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142185", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 260, 
+            "text": "SUMOylation is an important post-translational modification that is involved in many key biological processes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22192309", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "Group III metabotropic glutamate receptors (mGluRs) undergo post-translational modification by SUMO in in vitro assays but the SUMOylation of full-length mGluRs in mammalian cells has not been reported", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21255632", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "SUMOylation is a relevant protein post-translational modification in eukaryotes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21832256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 424, 
+            "offsetInEndSection": 574, 
+            "text": "However, the effects of pathogenic bacteria on SUMOylation, an essential post-translational modification in eukaryotic cells, remain largely unknown. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20414307", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "A novel post-translational modification of nucleolin, SUMOylation at Lys-294, mediates arsenite-induced cell death by regulating gadd45\ufffd mRNA stability.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25561743", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Drosophila Bicoid is a substrate of sumoylation and its activator function is subject to inhibition by this post-translational modification.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22584054", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 665, 
+            "offsetInEndSection": 829, 
+            "text": "Here, we demonstrate that SUMOylation of RelB might be one of these post-translational modifications rendering the function of the NF-\ufffdB transcription factor RelB. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24616021", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "In the last decade, SUMOylation has emerged as an essential post-translational modification in eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20074036", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 251, 
+            "text": "SUMOylation, the conjugation of target proteins with SUMO (small ubiquitin-related modifier), is a type of post-translational modification in eukaryotes and involves the sequential action of activation (E1), conjugation (E2) and ligation (E3) enzymes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27152458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 207, 
+            "text": "SUMOylation, the covalent attachment of a member of the small ubiquitin-like modifier (SUMO) family of proteins to lysines in target substrates, is an essential post-translational modification in eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25308709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 192, 
+            "text": "One way plants achieve this is through post-translational modification of target proteins by ubiquitination and SUMOylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27012284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "The small ubiquitin-like modifier (SUMO) pathway in eukaryotes is an essential post-translational modification required for a variety of cellular processes, development and organelle biogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22525038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Post-translational modification by SUMO is a highly conserved pathway in eukaryotes that plays very important regulatory roles in many cellular processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24797264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 1058, 
+            "text": "Many SUMOylated lysines have previously been reported to be ubiquitinated, acetylated or methylated, thus indicating cross-talk between SUMO and other post-translational modifications. We identified 70 phosphorylation and four acetylation events in proximity to SUMOylation sites, and we provide evidence for acetylation-dependent SUMOylation of endogenous histone H3. SUMOylation regulates target proteins involved in all nuclear processes including transcription, DNA repair, chromatin remodeling, precursor-mRNA splicing and ribosome assembly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 260, 
+            "text": "SUMOylation is a reversible post-translational modification essential for genome stability. Using high-resolution MS, we have studied global SUMOylation in human cells in a site-specific manner, identifying a total of>4,300 SUMOylation sites in>1,600 proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 386, 
+            "offsetInEndSection": 880, 
+            "text": "We quantitatively studied SUMOylation dynamics in response to SUMO protease inhibition, proteasome inhibition and heat shock. Many SUMOylated lysines have previously been reported to be ubiquitinated, acetylated or methylated, thus indicating cross-talk between SUMO and other post-translational modifications. We identified 70 phosphorylation and four acetylation events in proximity to SUMOylation sites, and we provide evidence for acetylation-dependent SUMOylation of endogenous histone H3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 589, 
+            "text": "Sumoylation is a post-translational modification shown to play a role in diverse biological processes. Here, we demonstrate that sumoylation is essential for proper heterochromatin function in Drosophila through modification of SU(VAR)3-7. Indeed, SU(VAR)3-7 is sumoylated at lysine K839; this modification is required for localization of SU(VAR)3-7 at pericentric heterochromatin, chromosome 4, and telomeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20299342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 418, 
+            "text": "Sumoylation is a post-translational modification shown to play a role in diverse biological processes. Here, we demonstrate that sumoylation is essential for proper heterochromatin function in Drosophila through modification of SU(VAR)3-7.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20299342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 800, 
+            "offsetInEndSection": 952, 
+            "text": "Our results suggest a new level of regulation of Sall activity in vivo during animal development through post-translational modification by sumoylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20562097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 485, 
+            "text": "BACKGROUND: Small Ubiquitin-like MOdifier protein (SUMO) is a key regulator of nuclear functions but little is known regarding the role of the post-translational modification sumoylation outside of the nucleus, particularly in the Central Nervous System (CNS).METHODOLOGY/PRINCIPAL FINDINGS: Here, we report that the expression levels of SUMO-modified substrates as well as the components of the sumoylation machinery are temporally and spatially regulated in the developing rat brain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22438991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "SUMOylation in Giardia lamblia: A Conserved Post-Translational Modification in One of the Earliest Divergent Eukaryotes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24970140", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Identification of a novel post-translational modification in Plasmodium falciparum: protein sumoylation in different cellular compartments.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18547337", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 899, 
+            "text": "More recently, Akt has been identified as a substrate for many different post-translational modifications, including not only phosphorylation of other residues, but also acetylation, glycosylation, oxidation, ubiquitination and SUMOylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25997832", 
+            "endSection": "abstract"
+        }
+    ]
+}

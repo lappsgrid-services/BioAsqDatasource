@@ -1,0 +1,34 @@
+{
+    "body": "What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23354439"
+    ], 
+    "ideal_answer": [
+        "Reduced dosage of ERF, which encodes an inhibitory ETS transcription factor directly bound by ERK1/2 causes complex craniosynostosis (premature fusion of the cranial sutures) in humans and mice. Features of this newly recognized clinical disorder include multiple-suture synostosis, craniofacial dysmorphism, Chiari malformation and language delay."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/ERK1_CANAL", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2340", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070371"
+    ], 
+    "type": "summary", 
+    "id": "553fa2201d53b76422000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Reduced dosage of ERF causes complex craniosynostosis in humans and mice and links ERK1/2 signaling to regulation of osteogenesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23354439", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 793, 
+            "text": "we show that reduced dosage of ERF, which encodes an inhibitory ETS transcription factor directly bound by ERK1/2 (refs. 2,3,4,5,6,7), causes complex craniosynostosis (premature fusion of the cranial sutures) in humans and mice. Features of this newly recognized clinical disorder include multiple-suture synostosis, craniofacial dysmorphism, Chiari malformation and language delay. Mice with functional Erf levels reduced to \u223c30% of normal exhibit postnatal multiple-suture synostosis; by contrast, embryonic calvarial development appears mildly delayed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23354439", 
+            "endSection": "abstract"
+        }
+    ]
+}

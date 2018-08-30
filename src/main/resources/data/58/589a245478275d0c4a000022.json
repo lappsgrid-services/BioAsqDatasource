@@ -1,0 +1,248 @@
+{
+    "body": "Is intraoperative radiotherapy used for treatment of glioblastoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25535398", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8092110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6328061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7623073", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26824195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3014858", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2852827", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25724425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16044217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7709332"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0338240", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A4352743"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A4352743", 
+            "o": "intraoperative radiotherapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017636", 
+            "o": "GBM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0338240", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7582156"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7582156", 
+            "o": "radiotherapy, intraoperative"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0338240", 
+            "o": "intraoperative radiation therapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017636", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18647416"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18647416", 
+            "o": "glioblastoma"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, intraoperative radiotherapy (IORT) is being used for treatment of glioblastoma. IORT combined with extensive tumor removal has an acceptable toxicity in previously irradiated patients and can be effective for selected recurrent malignant brain tumors."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005909", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3068", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011878", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3073", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007430"
+    ], 
+    "type": "yesno", 
+    "id": "589a245478275d0c4a000022", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 181, 
+            "offsetInEndSection": 294, 
+            "text": " 1) Intraoperative radiotherapy ( IOR , 1,000-2,000 rad) was applied in 13 cases; the 2-year survival was 41.6%. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6328061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 837, 
+            "text": "The median survival time after IORT was 12 months for 9 patients with glioblastoma or anaplastic astrocytoma, while it was 51 months for 8 patients with less infiltrative tumors (ependymoma, anaplastic ependymoma, and anaplastic oligodendroglioma). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8092110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1147, 
+            "offsetInEndSection": 1339, 
+            "text": "It is concluded that IORT combined with extensive tumor removal has an acceptable toxicity in previously irradiated patients and can be effective for selected recurrent malignant brain tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8092110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1467, 
+            "offsetInEndSection": 1642, 
+            "text": "CONCLUSIONS: The results of this study indicate that IORT can contribute to successful tumor treatment while neither increasing peri-operative morbidity nor subacute sequelae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7709332", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 694, 
+            "text": "This review compiles preclinical and clinical evidence for a dedicated treatment of both residual cancer cells and regional microenvironment using intraoperative radiotherapy (IORT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26824195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 380, 
+            "offsetInEndSection": 624, 
+            "text": " Intraoperative radiotherapy (IORT) is a pragmatic and effective approach to sterilize the margins from persistent tumor cells, abrogate post-injury proliferative stimuli and to bridge the therapeutic gap between surgery and radiochemotherapy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25535398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "[Surgical treatment and radiation therapy for glioblastoma multiforme, with special reference to intraoperative radiotherapy].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6328061", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 58, 
+            "text": "Rationale for intraoperative radiotherapy in glioblastoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26824195", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Intraoperative radiotherapy (IORT) was performed in 20 of 36 patients with glioma; 11 glioblastomas, 7 malignant astrocytomas, 2 benign astrocytomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7623073", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "[Surgical treatment and radiation therapy for glioblastoma multiforme, with special reference to intraoperative radiotherapy]", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6328061", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "INTRAGO: intraoperative radiotherapy in glioblastoma multiforme\u2014a phase I/II dose escalation study", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25535398", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "Intraoperative cobalt-60 treatment of glioblastoma multiforme", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2852827", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "An intraoperative remote afterloading endocurietherapy (ECT) technique with high-activity 60cobalt (60Co) for the treatment of glioblastoma multiforme (GM) is described", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2852827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "[Surgical treatment and radiation therapy for glioblastoma multiforme, with special reference to intraoperative radiotherapy].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6328061", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 59, 
+            "text": "Rationale for intraoperative radiotherapy in glioblastoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26824195", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Intraoperative cobalt-60 treatment of glioblastoma multiforme.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2852827", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "INTRAGO: intraoperative radiotherapy in glioblastoma multiforme\u2014a phase I/II dose escalation study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25535398", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Intraoperative remote afterloading endocurietherapy with high-activity 60cobalt for treatment of glioblastoma multiforme.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3014858", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Combining intraoperative carmustine wafers and Stupp regimen in multimodal first-line treatment of primary glioblastomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25724425", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1243, 
+            "offsetInEndSection": 1378, 
+            "text": "The intraoperative use of carmustine wafers in combination with Stupp regimen is a viable first-line treatment option of glioblastomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25724425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "An intraoperative remote afterloading endocurietherapy (ECT) technique with high-activity 60cobalt (60Co) for the treatment of glioblastoma multiforme (GM) is described.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2852827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "The study investigated if intraoperative use of carmustine wafers, particularly in combination with Stupp regimen, is a viable and safe first-line treatment option of glioblastomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25724425", 
+            "endSection": "abstract"
+        }
+    ]
+}

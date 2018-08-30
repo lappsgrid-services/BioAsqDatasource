@@ -1,0 +1,68 @@
+{
+    "body": "Are circRNAs associated with diseases and traits?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26052092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24339831"
+    ], 
+    "ideal_answer": [
+        "Yes. Circular RNAs (circRNAs) play a crucial role in fine tuning the level of miRNA mediated regulation of gene expression by sequestering the miRNAs. Their interaction with disease associated miRNAs indicates that circular RNAs are important for disease regulation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194"
+    ], 
+    "type": "yesno", 
+    "id": "56b73c7a345adcac48000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Circ2Traits: a comprehensive database for circular RNA potentially associated with disease and traits.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24339831", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 258, 
+            "offsetInEndSection": 508, 
+            "text": "Circular RNAs play a crucial role in fine tuning the level of miRNA mediated regulation of gene expression by sequestering the miRNAs. Their interaction with disease associated miRNAs indicates that circular RNAs are important for disease regulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24339831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 630, 
+            "offsetInEndSection": 806, 
+            "text": "Firstly, the interactions of circRNAs with disease associated miRNAs were identified, following which the likelihood of a circRNA being associated with a disease was calculated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24339831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 1086, 
+            "text": "Emerging evidence indicates that circRNAs might play important roles in atherosclerotic vascular disease risk, neurological disorders, prion diseases and cancer; exhibit aberrant expression in colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC); and serve as diagnostic or predictive biomarkers of some diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26052092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 510, 
+            "offsetInEndSection": 808, 
+            "text": "In this paper we studied the potential association of circular RNAs (circRNA) with human diseases in two different ways. Firstly, the interactions of circRNAs with disease associated miRNAs were identified, following which the likelihood of a circRNA being associated with a disease was calculated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24339831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 631, 
+            "offsetInEndSection": 990, 
+            "text": "Firstly, the interactions of circRNAs with disease associated miRNAs were identified, following which the likelihood of a circRNA being associated with a disease was calculated. For the miRNAs associated with individual diseases, we constructed a network of predicted interactions between the miRNAs and protein coding, long non-coding and circular RNA genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24339831", 
+            "endSection": "abstract"
+        }
+    ]
+}

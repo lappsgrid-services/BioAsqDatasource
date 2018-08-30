@@ -1,0 +1,282 @@
+{
+    "body": "Is there any role of TBR1 in autism?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24441682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26578866", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25309323", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23431145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25232744"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0004352", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18645844"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18645844", 
+            "o": "autistic disorders"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0004352", 
+            "o": "Autism"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0004352", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0474209"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0474209", 
+            "o": "autism"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0004352", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18571407"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18571407", 
+            "o": "autistic disorder"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Exome sequencing studies have identified multiple genes harboring de novo loss-of-function (LoF) variants in individuals with autism spectrum disorders (ASD), including T-Brain-1 (TBR1), a master regulator of cortical development. T-brain-1 (TBR1) is a brain-specific T-box transcription factor. In 1995, Tbr1 was first identified from a subtractive hybridization that compared mouse embryonic and adult telencephalons. Previous studies of Tbr1 (-\u2215-) mice have indicated critical roles for TBR1 in the development of the cerebral cortex, amygdala, and olfactory bulb. Neuronal migration and axonal projection are two important developmental features controlled by TBR1."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000067877", 
+        "http://www.uniprot.org/uniprot/TBR1_MOUSE", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12849", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060042", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060041", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001321", 
+        "http://www.uniprot.org/uniprot/TBR1_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "58965ed478275d0c4a000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 60, 
+            "text": "TBR1 regulates autism risk genes in the developing neocortex", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 1160, 
+            "text": "Exome sequencing studies have identified multiple genes harboring de novo loss-of-function (LoF) variants in individuals with autism spectrum disorders (ASD), including TBR1, a master regulator of cortical development. We performed ChIP-seq for TBR1 during mouse cortical neurogenesis and show that TBR1-bound regions are enriched adjacent to ASD genes. ASD genes were also enriched among genes that are differentially expressed in Tbr1 knockouts, which together with the ChIP-seq data, suggests direct transcriptional regulation. Of the nine ASD genes examined, seven were misexpressed in the cortices of Tbr1 knockout mice, including six with increased expression in the deep cortical layers. ASD genes with adjacent cortical TBR1 ChIP-seq peaks also showed unusually low levels of LoF mutations in a reference human population and among Icelanders. We then leveraged TBR1 binding to identify an appealing subset of candidate ASD genes. Our findings highlight a TBR1-regulated network of ASD genes in the developing neocortex that are relatively intolerant to LoF mutations, indicating that these genes may play critical roles in normal cortical development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "T-Brain-1--A Potential Master Regulator in Autism Spectrum Disorders.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 521, 
+            "text": "T-Brain-1 (TBR1), a causative gene in autism spectrum disorders (ASDs), encodes a brain-specific T-box transcription factor. It is therefore possible that TBR1 controls the expression of other autism risk factors. The downstream genes of TBR1 have been identified using microarray and promoter analyses. In this study, we annotated individual genes downstream of TBR1 and investigated any associations with ASDs through extensive literature searches. Of 124 TBR1 target genes, 23 were reported to be associated with ASDs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 1513, 
+            "text": "Among these 24 genes, four transcription factors Auts2, Nfia, Nr4a2, and Sox5 were found, suggesting that TBR1 controls a transcriptional cascade relevant to autism pathogenesis. A further five of the 24 genes (Cd44, Cdh8, Cntn6, Gpc6, and Ntng1) encode membrane proteins that regulate cell adhesion and axonal outgrowth. These genes likely contribute to the role of TBR1 in regulation of neuronal migration and axonal extension. Besides, decreases in Grin2b expression and increases in Gad1 expression imply that neuronal activity may be aberrant in Tbr1 deficient mice. These analyses provide direction for future experiments to reveal the pathogenic mechanism of autism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 323, 
+            "text": "The activity-regulated gene expression of transcription factors is required for neural plasticity and function in response to neuronal stimulation. T-brain-1 (TBR1), a critical neuron-specific transcription factor for forebrain development, has been recognized as a high-confidence risk gene for autism spectrum disorders. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25309323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 212, 
+            "text": "Disruptive mutations in the TBR1 gene have been repeatedly identified in patients with autism spectrum disorders (ASDs). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24441682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 393, 
+            "text": "Next-generation sequencing recently revealed that recurrent disruptive mutations in a few genes may account for 1% of sporadic autism cases. Coupling these novel genetic data to empirical assays of protein function can illuminate crucial molecular networks. Here we demonstrate the power of the approach, performing the first functional analyses of TBR1 variants identified in sporadic autism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25232744", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 657, 
+            "text": "T-brain-1 (TBR1) is a brain-specific T-box transcription factor. In 1995, Tbr1 was first identified from a subtractive hybridization that compared mouse embryonic and adult telencephalons. Previous studies of Tbr1 (-\u2215-) mice have indicated critical roles for TBR1 in the development of the cerebral cortex, amygdala, and olfactory bulb. Neuronal migration and axonal projection are two important developmental features controlled by TBR1. Recently, recurrent de novo disruptive mutations in the TBR1 gene have been found in patients with autism spectrum disorders (ASDs). Human genetic studies have identified TBR1 as a high-confidence risk factor for ASDs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26578866", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "TBR1 regulates autism risk genes in the developing neocortex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "De novo TBR1 mutations in sporadic autism disrupt protein functions.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25232744", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 945, 
+            "offsetInEndSection": 1033, 
+            "text": "In humans, PAX6, EOMES, and TBR1 have been linked to intellectual disability and autism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23431145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 212, 
+            "text": "It is therefore possible that TBR1 controls the expression of other autism risk factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Neuronal excitation upregulates Tbr1, a high-confidence risk gene of autism, mediating Grin2b expression in the adult brain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25309323", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "T-Brain-1 (TBR1), a causative gene in autism spectrum disorders (ASDs), encodes a brain-specific T-box transcription factor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 435, 
+            "offsetInEndSection": 567, 
+            "text": "Recently, recurrent de novo disruptive mutations in the TBR1 gene have been found in patients with autism spectrum disorders (ASDs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26578866", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 256, 
+            "offsetInEndSection": 391, 
+            "text": "Here we demonstrate the power of the approach, performing the first functional analyses of TBR1 variants identified in sporadic autism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25232744", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 832, 
+            "offsetInEndSection": 1010, 
+            "text": "Among these 24 genes, four transcription factors Auts2, Nfia, Nr4a2, and Sox5 were found, suggesting that TBR1 controls a transcriptional cascade relevant to autism pathogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 210, 
+            "text": "Disruptive mutations in the TBR1 gene have been repeatedly identified in patients with autism spectrum disorders (ASDs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24441682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "T-Brain-1 (TBR1), a causative gene in autism spectrum disorders (ASDs), encodes a brain-specific T-box transcription factor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 1017, 
+            "text": "Among these 24 genes, four transcription factors Auts2, Nfia, Nr4a2, and Sox5 were found, suggesting that TBR1 controls a transcriptional cascade relevant to autism pathogenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 210, 
+            "text": "Disruptive mutations in the TBR1 gene have been repeatedly identified in patients with autism spectrum disorders (ASDs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24441682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 1018, 
+            "text": "Among these 24 genes, four transcription factors Auts2, Nfia, Nr4a2, and Sox5 were found, suggesting that TBR1 controls a transcriptional cascade relevant to autism pathogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 213, 
+            "text": "It is therefore possible that TBR1 controls the expression of other autism risk factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25600067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "TBR1 regulates autism risk genes in the developing neocortex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "De novo TBR1 mutations in sporadic autism disrupt protein functions.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25232744", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 939, 
+            "offsetInEndSection": 1160, 
+            "text": "Our findings highlight a TBR1-regulated network of ASD genes in the developing neocortex that are relatively intolerant to LoF mutations, indicating that these genes may play critical roles in normal cortical development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27325115", 
+            "endSection": "abstract"
+        }
+    ]
+}

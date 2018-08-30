@@ -1,0 +1,364 @@
+{
+    "body": "Which proteins act as histone-like molecules in prokaryotes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/14596799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6253884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23818873", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12220682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3282561", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9016640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11278072", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1925023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15556475", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10645441", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16911001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1549572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/656568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14711120", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8339930", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/667214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6294066", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15102446", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18515342", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7748943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11075932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12056890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21463569"
+    ], 
+    "ideal_answer": [
+        "Prokaryotic histone-like proteins (Hlps) or nucleoid-associated proteins (NAPs) are abundant proteins found in bacterial and plastid nucleoids. HU protein is a small, basic, heat-stable DNA-binding protein that is well-conserved in prokaryotes and is associated with the bacterial nucleoid. HU is well conserved in all prokaryotes but surprisingly, it is also homologous to another E. coli DNA-binding protein, IHF. In prokaryotes, IHF and HU are key architectural proteins present at high concentrations. Histone-like Nucleoid Structuring (H-NS) protein can facilitate correct recognition of a promoter by RNA polymerase in AT-rich gene regulatory regions", 
+        "THe histone-like proteins HU, IHF, H-NS (Nucleoid Structuring) act as histones in prokaryotes"
+    ], 
+    "exact_answer": [
+        [
+            "HU"
+        ], 
+        [
+            "IHF"
+        ], 
+        [
+            "H-NS"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/HNS_ECO57", 
+        "http://www.uniprot.org/uniprot/H33L2_CAEEL", 
+        "http://www.uniprot.org/uniprot/HLP_RICCN", 
+        "http://www.uniprot.org/uniprot/H2AZL_XENTR", 
+        "http://www.uniprot.org/uniprot/H13_CAEEL", 
+        "http://www.uniprot.org/uniprot/HNS_SALPA", 
+        "http://www.uniprot.org/uniprot/HLP_RICMO", 
+        "http://www.uniprot.org/uniprot/H33L1_CAEEL", 
+        "http://www.uniprot.org/uniprot/HNS_SALTI", 
+        "http://www.uniprot.org/uniprot/HLP_RICTY", 
+        "http://www.uniprot.org/uniprot/HLP_RICRI", 
+        "http://www.uniprot.org/uniprot/HLP_RICPR", 
+        "http://www.uniprot.org/uniprot/H3L_ENCCU", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006657", 
+        "http://www.uniprot.org/uniprot/DBH_GUITH", 
+        "http://www.uniprot.org/uniprot/HNS_SALTY", 
+        "http://www.uniprot.org/uniprot/HQ1_COXBU", 
+        "http://www.uniprot.org/uniprot/H3L3_LILLO", 
+        "http://www.uniprot.org/uniprot/DBH_MYCS2", 
+        "http://www.uniprot.org/uniprot/H3L2_LILLO", 
+        "http://www.uniprot.org/uniprot/HNS_PROVU", 
+        "http://www.uniprot.org/uniprot/B4_XENLA", 
+        "http://www.uniprot.org/uniprot/YMOA_YERPE", 
+        "http://www.biosemantics.org/jochem#4278518", 
+        "http://www.uniprot.org/uniprot/H3L5_ARATH", 
+        "http://www.uniprot.org/uniprot/HDAH_ALCSD", 
+        "http://www.uniprot.org/uniprot/H16_CAEEL", 
+        "http://www.uniprot.org/uniprot/H3L2_ARATH", 
+        "http://www.uniprot.org/uniprot/H14_CAEEL", 
+        "http://www.uniprot.org/uniprot/HNS_ECOLI", 
+        "http://www.uniprot.org/uniprot/DBH_MYCLE", 
+        "http://www.uniprot.org/uniprot/H15_CAEEL", 
+        "http://www.uniprot.org/uniprot/H3L1_LILLO", 
+        "http://www.uniprot.org/uniprot/DBH_MYCBO", 
+        "http://www.uniprot.org/uniprot/YMOA_YEREN", 
+        "http://www.uniprot.org/uniprot/HNS_ECOL6", 
+        "http://www.uniprot.org/uniprot/HLP_RICBR", 
+        "http://www.uniprot.org/uniprot/HNS_SERMA", 
+        "http://www.uniprot.org/uniprot/SKP_ECOLI", 
+        "http://www.uniprot.org/uniprot/H3L4_ARATH", 
+        "http://www.uniprot.org/uniprot/H3L1_ARATH", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011387", 
+        "http://www.uniprot.org/uniprot/H3L3_ARATH", 
+        "http://www.uniprot.org/uniprot/H3CL_BOVIN", 
+        "http://www.uniprot.org/uniprot/18C_DROME", 
+        "http://www.uniprot.org/uniprot/DBH_MYCTU", 
+        "http://www.uniprot.org/uniprot/H12_CAEEL", 
+        "http://www.uniprot.org/uniprot/HC2D_CHLTR", 
+        "http://www.uniprot.org/uniprot/HLP_RICFE", 
+        "http://www.uniprot.org/uniprot/H2AZL_XENLA", 
+        "http://www.uniprot.org/uniprot/H1X_CAEEL"
+    ], 
+    "type": "list", 
+    "id": "52ef7754c8da898910000014", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 233, 
+            "offsetInEndSection": 396, 
+            "text": "We show that Histone-like Nucleoid Structuring (H-NS) protein can facilitate correct recognition of a promoter by RNA polymerase in AT-rich gene regulatory regions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23818873", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 277, 
+            "text": "One feature is a histone-like protein that is associated with the DNA, condensing it into subunits similar to those in eukaryotic chromatin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/656568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 466, 
+            "offsetInEndSection": 556, 
+            "text": "Recently the histone-like proteins were found in some primitive eucaryotes and procaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/667214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 499, 
+            "text": "The relationship between HMGs (1 + 2) and the \"primitive\" histone-like DNA-packaging proteins from prokaryotes and mitochondria is discussed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6253884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 445, 
+            "offsetInEndSection": 593, 
+            "text": "The amino acid composition of the protein resembled those of the other prokaryotic histone-like proteins and also to eukaryotic histones H2A and H2B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6294066", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 717, 
+            "text": "In prokaryotes and in the pool of vegetative phage DNA the most abundant histone-like protein HU is not associated with the bulk DNA, but localised in the border region with ribosomes where transcription and translation occur", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3282561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 73, 
+            "offsetInEndSection": 255, 
+            "text": "Like the histones, HU is able to condense DNA in vitro and to introduce negative super-coiling in covalently closed circular, relaxed DNA molecules in the presence of topoisomerase I", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1925023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 257, 
+            "offsetInEndSection": 380, 
+            "text": "HU is well conserved in all prokaryotes but surprisingly, it is also homologous to another E. coli DNA-binding protein, IHF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1925023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 149, 
+            "offsetInEndSection": 377, 
+            "text": "Here we describe the identification of two developmental stage-specific genes, one of which is predicted to encode a 26-kDa lysine- and alanine-rich protein that appears to be homologous to several eukaryotic histone H1 proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1549572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 472, 
+            "offsetInEndSection": 662, 
+            "text": "No sequence homology was observed between this protein and other bacterial \"histone-like\" chromosomal proteins, but homology does exist with two other recently described prokaryotic proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1549572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 358, 
+            "text": "In this study we show that these proteins can substitute for the prokaryotic DNA-bending protein HU in promoting the assembly of the Hin invertasome, an intermediate structure in Hin-mediated site-specific DNA inversion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8339930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 259, 
+            "text": "We have characterized the role of HU in assembling the invertasome, an intermediate nucleoprotein complex involved in Hin-mediated site-specific recombination", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7748943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 849, 
+            "offsetInEndSection": 1052, 
+            "text": "Using ligase-mediated circularization of short DNA fragments we also show that HU, the high mobility group (HMG) 1 and 2 proteins from mammals, and a protein from yeast can bend DNA extremely efficiently", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7748943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 352, 
+            "offsetInEndSection": 512, 
+            "text": "The repression of transcription of two overlapping promoters of the gal operon in Escherichia coli requires Gal repressor (GalR) and the histone-like protein HU", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9016640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 806, 
+            "offsetInEndSection": 910, 
+            "text": "We report GalR mediated DNA looping in which HU plays an obligatory role by helping GalR tetramerization", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9016640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1758, 
+            "offsetInEndSection": 1878, 
+            "text": "The protein has unique dual domains with homology to both bacterial histone-like proteins (HU) and eukaryotic histone H1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10645441", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 957, 
+            "offsetInEndSection": 1093, 
+            "text": " Four out of seven multi-copy suppressors were identified to encode HU, (3 for HUalpha and 1 for HUB) a histone-like DNA binding protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11075932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 68, 
+            "text": "oles of Escherichia coli histone-like protein HU in DNA replication", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11278072", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 149, 
+            "text": "HU protein is a small, basic, heat-stable DNA-binding protein that is well-conserved in prokaryotes and is associated with the bacterial nucleoid", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11278072", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 95, 
+            "text": "role of surface-exposed lysines in wrapping DNA about the bacterial histone-like protein HU", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12056890", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 105, 
+            "text": "basic proteins, including the ubiquitous HU proteins, serve histone-like functions in prokaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12056890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 136, 
+            "text": "modification of E. coli histone-like protein H-NS and bovine histones by short-chain poly-(R)-3-hydroxybutyrate (cPHB)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12220682", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 362, 
+            "offsetInEndSection": 484, 
+            "text": "Here we examine Escherichia coli protein H-NS and calf thymus histones, H1, H2A, H2B, H3, and H4, for the presence of cPHB", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12220682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 583, 
+            "text": "The process requires negatively supercoiled DNA and the presence of the histone-like protein HU", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14596799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 282, 
+            "offsetInEndSection": 659, 
+            "text": "Characterization of the major DNA-binding proteins of nucleoids revealed essential differences in the two lineages of photosynthetic eukaryotes, namely nucleoids of green plants contain sulfite reductase as a major DNA-binding protein that represses the genomic activity, whereas the prokaryotic DNA-binding protein HU is abundant in plastid nucleoids of the rhodophyte lineage", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14711120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 170, 
+            "offsetInEndSection": 258, 
+            "text": "In prokaryotes, IHF and HU are key architectural proteins present at high concentrations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15102446", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 368, 
+            "text": "The deficit of TFs in some genomes might be compensated by the presence of proteins organizing and compacting DNA, such as histone-like proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15556475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 103, 
+            "text": "okaryotic histone-like proteins (Hlps) are abundant proteins found in bacterial and plastid nucleoids", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16911001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 143, 
+            "text": "n mesophilic prokaryotes, the DNA-binding protein HU participates in nucleoid organization as well as in regulation of DNA-dependent processes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18515342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 383, 
+            "text": "We show here that HU from the hyperthermophilic eubacterium Thermotoga maritima HU bends DNA and constrains negative DNA supercoils in the presence of topoisomerase I", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18515342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1085, 
+            "offsetInEndSection": 1319, 
+            "text": " We suggest that T. maritima HU serves an architectural function when associating with a single 35 bp site, but generates a very stable and compact aggregate at higher protein concentrations that organizes and protects the genomic DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18515342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 104, 
+            "text": "ittle is known about the structure and function of most nucleoid-associated proteins (NAPs) in bacteria", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21463569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 381, 
+            "offsetInEndSection": 548, 
+            "text": "n this study, we investigate the distribution of HU in Caulobacter crescentus using a combination of super-resolution fluorescence imaging and spatial point statistics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21463569", 
+            "endSection": "abstract"
+        }
+    ]
+}

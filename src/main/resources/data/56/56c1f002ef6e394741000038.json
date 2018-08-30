@@ -1,0 +1,104 @@
+{
+    "body": "Is lenvatinib effective for thyroid cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25974026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26105190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26316818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25553081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25671254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25913680"
+    ], 
+    "ideal_answer": [
+        "Yes, lenvatinib is effective for thyroid cancer."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3963", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013964", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1781"
+    ], 
+    "type": "yesno", 
+    "id": "56c1f002ef6e394741000038", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "New insights in the treatment of radioiodine refractory differentiated thyroid carcinomas: to lenvatinib and beyond.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25974026", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1130, 
+            "offsetInEndSection": 1377, 
+            "text": "However, even more impressive responses and progression-free survival benefits were seen in the phase III SELECT trial with lenvatinib, giving even higher hopes for the future management of what was considered just a decade ago an orphan disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25974026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 514, 
+            "offsetInEndSection": 741, 
+            "text": "Sorafenib and lenvatinib, small-molecule multikinase inhibitors, were approved for the treatment of progressive, symptomatic, radioactive iodine refractory, advanced differentiated thyroid cancer in 2013 and 2015, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26105190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "A phase 2 trial of lenvatinib (E7080) in advanced, progressive, radioiodine-refractory, differentiated thyroid cancer: A clinical outcomes and biomarker assessment.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913680", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1811, 
+            "offsetInEndSection": 2021, 
+            "text": "CONCLUSIONS: In patients with and without prior exposure to VEGF therapy, the encouraging response rates, median time to response, and PFS for lenvatinib have prompted further investigation in a phase 3 trial. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 488, 
+            "text": "Since 2011, four multikinase inhibitors (MKIs) have been approved by the US Food and Drug Administration for thyroid cancer - cabozantinib and vandetanib for medullary thyroid cancer and sorafenib and lenvatinib for differentiated thyroid cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26316818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 690, 
+            "offsetInEndSection": 970, 
+            "text": "Moreover, four of those investigational drugs, vandetanib, cabozantinib, sorafenib and lenvatinib, have reached a phase III clinical trial with favorable results in progression-free survival and overall survival in medullary thyroid carcinoma and differentiated thyroid carcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25553081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 486, 
+            "text": "Since 2011, four multikinase inhibitors (MKIs) have been approved by the US Food and Drug Administration for thyroid cancer - cabozantinib and vandetanib for medullary thyroid cancer and sorafenib and lenvatinib for differentiated thyroid cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26316818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 654, 
+            "text": "BACKGROUND: Lenvatinib, an oral inhibitor of vascular endothelial growth factor receptors 1, 2, and 3, fibroblast growth factor receptors 1 through 4, platelet-derived growth factor receptor \ufffd, RET, and KIT, showed clinical activity in a phase 2 study involving patients with differentiated thyroid cancer that was refractory to radioiodine (iodine-131).METHODS: In our phase 3, randomized, double-blind, multicenter study involving patients with progressive thyroid cancer that was refractory to iodine-131, we randomly assigned 261 patients to receive lenvatinib (at a daily dose of 24 mg per day in 28-day cycles) and 131 patients to receive placebo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25671254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 421, 
+            "offsetInEndSection": 803, 
+            "text": "Positive phase 1 results in solid tumors prompted a phase 2 trial in patients with advanced, radioiodine-refractory, differentiated thyroid cancer (RR-DTC).METHODS: Fifty-eight patients with RR-DTC who had disease progression during the previous 12 months received lenvatinib 24 mg once daily in 28-day cycles until disease progression, unmanageable toxicity, withdrawal, or death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25913680", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "body": "Which human disease is associated with mutated UBQLN2", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27400686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27480424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25398946", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26075709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27834214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27477512"
+    ], 
+    "ideal_answer": [
+        "Ggene mutations in UBQLN2 cause dominant inheritance of amyotrophic lateral sclerosis (ALS)."
+    ], 
+    "exact_answer": [
+        "ALS", 
+        "amyotrophic lateral sclerosis"
+    ], 
+    "type": "factoid", 
+    "id": "58bc5e2202b8c60953000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 851, 
+            "offsetInEndSection": 1039, 
+            "text": "Finally, we found that mutations in UBQLN2, which lead to neurodegeneration in humans, are defective in chaperone binding, impair aggregate clearance, and cause cognitive deficits in mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27477512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1051, 
+            "text": "UBQLN2 mutations are detected in ALS cases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27480424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "C9ORF72 and UBQLN2 mutations are causes of amyotrophic lateral sclerosis in New Zealand", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27480424", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Missense mutations in ubiquilin 2 (UBQLN2) cause ALS with frontotemporal dementia (ALS-FTD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27834214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 519, 
+            "text": "Amyotrophic Lateral Sclerosis (ALS) is the most frequent motor neuron disease in adults. Classical ALS is characterized by the death of upper and lower motor neurons leading to progressive paralysis. Approximately 10\u00a0% of ALS patients have familial form of the disease. Numerous different gene mutations have been found in familial cases of ALS, such as mutations in superoxide dismutase 1 (SOD1), TAR DNA-binding protein 43 (TDP-43), fused in sarcoma (FUS), C9ORF72, ubiquilin-2 (UBQLN2), optineurin (OPTN) and others.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27400686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "A mutation in the ubiquilin 2 gene (UBQLN2) was recently identified as a cause of X-linked amyotrophic lateral sclerosis (ALS)/frontotemporal dementia (FTD) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25398946", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 258, 
+            "text": "Interest in the proteins has been heightened by the discovery that gene mutations in UBQLN2 cause dominant inheritance of amyotrophic lateral sclerosis (ALS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26075709", 
+            "endSection": "abstract"
+        }
+    ]
+}

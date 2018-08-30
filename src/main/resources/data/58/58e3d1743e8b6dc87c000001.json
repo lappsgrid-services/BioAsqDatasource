@@ -1,0 +1,150 @@
+{
+    "body": "Are hepadnaviral minichromosomes free of nucleosomes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/3023620", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8649399", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1337883", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8380890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21331901"
+    ], 
+    "ideal_answer": [
+        "Nucleosomes along viral cccDNA in the minichromosomes are not random but sequence-specifically positioned.", 
+        "In vitro assembled minichromosomes were able to replicate efficiently in vitro, when the DNA was preincubated with T-antigen, a cytosolic S100 extract and three deoxynucleoside triphosphates prior to chromatin assembly, indicating that the origin has to be free of nucleosomes for replication initiation. The transcriptionally inactive locus is covered by an array of positioned nucleosomes extending over 1,400 bp. In minichromosomes with a (mu)LCR or DNase I-hypersensitive site 2 (HS2) which actively transcribe the epsilon-globin gene, the nucleosome at the promoter is altered or disrupted while positioning of nucleosomes in the rest of the locus is retained. Viral minichromosomes were found to exist in at least two defined structures covered with 11 or 12 nucleosomes, leaving open gaps accessible for interactions with other host factors. Minichromosomes from both preparations contain the full complement of nucleosomes, but salt treatment removes histone H1 and a fraction of nonhistone chromatin proteins. This double-stranded DNA serves as a template for replication as well as transcription and is assembled into host nucleosomes, yielding circular viral minichromosomes. In contrast, the replicated untreated minichromosomes were found to be densely packed with nucleosomes, indicating that an assembly of new nucleosomes occurred during in vitro replication.", 
+        "Several nucleosome-protected sites in a region of the DHBV genome [nucleotides (nt) 2000 to 2700], known to harbor various cis transcription regulatory elements, were consistently identified in all DHBV-positive liver samples. In addition, we observed other nucleosome protection sites in DHBV minichromosomes that may vary among individual ducks, but the pattern of MNase mapping in those regions is transmittable from the adult ducks to the newly infected ducklings.", 
+        "nucleosomes along viral cccDNA in the minichromosomes are not random but sequence-specifically positioned. In addition, we observed other nucleosome protection sites in DHBV minichromosomes that may vary among individual ducks, but the pattern of MNase mapping in those regions is transmittable from the adult ducks to the newly infected ducklings."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58e3d1743e8b6dc87c000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 556, 
+            "offsetInEndSection": 782, 
+            "text": "Several nucleosome-protected sites in a region of the DHBV genome [nucleotides (nt) 2000 to 2700], known to harbor various cis transcription regulatory elements, were consistently identified in all DHBV-positive liver samples.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 783, 
+            "offsetInEndSection": 1024, 
+            "text": "In addition, we observed other nucleosome protection sites in DHBV minichromosomes that may vary among individual ducks, but the pattern of MNase mapping in those regions is transmittable from the adult ducks to the newly infected ducklings.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1054, 
+            "offsetInEndSection": 1160, 
+            "text": "nucleosomes along viral cccDNA in the minichromosomes are not random but sequence-specifically positioned.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 593, 
+            "text": "Investigators studying the structure and function of hepadnaviral CCC DNA (3) have provided evidence that suggests that this structure exists in the nucleus of infected hepatocytes as a heterogeneous population of viral minichromosomes, which range from half to fully chromatinized, thought to be owing to their association with variable numbers of nucleosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21331901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Characterization of nucleosome positioning in hepadnaviral covalently closed circular DNA minichromosomes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 554, 
+            "text": "To obtain insight on the structure of hepadnaviral cccDNA minichromosomes, we utilized ducks infected with the duck hepatitis B virus (DHBV) as a model and determined the in vivo nucleosome distribution pattern on viral cccDNA by the micrococcal nuclease (MNase) mapping and genome-wide PCR amplification of isolated mononucleosomal DHBV DNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 497, 
+            "text": "Mature SV40 minichromosomes are estimated to contain about 27 nucleosomes (error +/- 2), except for those molecules with a nucleosome-free gap, which are interpreted to contain 25 nucleosomes (error +/- 2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3023620", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 591, 
+            "offsetInEndSection": 791, 
+            "text": "In vitro replication in the presence of protein-free competitor DNA shows that replicating trypsinized minichromosomes do not lose nucleosomes and replicating competitor DNA does not gain nucleosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8649399", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 595, 
+            "offsetInEndSection": 795, 
+            "text": "In vitro replication in the presence of protein-free competitor DNA shows that replicating trypsinized minichromosomes do not lose nucleosomes and replicating competitor DNA does not gain nucleosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8649399", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 599, 
+            "offsetInEndSection": 793, 
+            "text": "We conclude that in both cases parental nucleosomes are transferred to progeny DNA, and, in addition, that an assembly of new nucleosomes occurs during the replication of native minichromosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1337883", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 657, 
+            "offsetInEndSection": 845, 
+            "text": "In contrast, the replicated untreated minichromosomes were found to be densely packed with nucleosomes, indicating that an assembly of new nucleosomes occurred during in vitro replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8380890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 233, 
+            "offsetInEndSection": 593, 
+            "text": "Investigators studying the structure and function of hepadnaviral CCC DNA (3) have provided evidence that suggests that this structure exists in the nucleus of infected hepatocytes as a heterogeneous population of viral minichromosomes, which range from half to fully chromatinized, thought to be owing to their association with variable numbers of nucleosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21331901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 554, 
+            "text": "To obtain insight on the structure of hepadnaviral cccDNA minichromosomes, we utilized ducks infected with the duck hepatitis B virus (DHBV) as a model and determined the in vivo nucleosome distribution pattern on viral cccDNA by the micrococcal nuclease (MNase) mapping and genome-wide PCR amplification of isolated mononucleosomal DHBV DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Characterization of nucleosome positioning in hepadnaviral covalently closed circular DNA minichromosomes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 555, 
+            "text": "To obtain insight on the structure of hepadnaviral cccDNA minichromosomes, we utilized ducks infected with the duck hepatitis B virus (DHBV) as a model and determined the in vivo nucleosome distribution pattern on viral cccDNA by the micrococcal nuclease (MNase) mapping and genome-wide PCR amplification of isolated mononucleosomal DHBV DNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22787202", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 233, 
+            "offsetInEndSection": 595, 
+            "text": "Investigators studying the structure and function of hepadnaviral CCC DNA (3) have provided evidence that suggests that this structure exists in the nucleus of infected hepatocytes as a heterogeneous population of viral minichromosomes, which range from half to fully chromatinized, thought to be owing to their association with variable numbers of nucleosomes..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21331901", 
+            "endSection": "abstract"
+        }
+    ]
+}

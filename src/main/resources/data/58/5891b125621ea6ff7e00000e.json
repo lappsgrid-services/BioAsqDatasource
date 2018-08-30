@@ -1,0 +1,284 @@
+{
+    "body": "Which disease is treated with taliglucerase alfa?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27102949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23980545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27174694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21235447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24630271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21900191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27499018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26053270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22654679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23199589", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27839981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25453586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23046562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27559188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25812601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22916340"
+    ], 
+    "ideal_answer": [
+        "Taliglucerase alfa, the first available plant cell-expressed recombinant therapeutic protein, is an enzyme replacement therapy approved for Gaucher disease."
+    ], 
+    "exact_answer": [
+        "Gaucher disease"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category"
+    ], 
+    "type": "factoid", 
+    "id": "5891b125621ea6ff7e00000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Enzyme replacement therapy with taliglucerase alfa: 36-month safety and efficacy results in adult patients with Gaucher disease previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27102949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Taliglucerase alfa is the first available plant cell-expressed human recombinant therapeutic protein. It is indicated for treatment of patients with type 1 Gaucher disease (GD) in adult and pediatric patients in several countries. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27102949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1425, 
+            "offsetInEndSection": 1656, 
+            "text": "The 36-month results of switching from imiglucerase to taliglucerase alfa treatment in adults with GD provide further data on the clinical safety and efficacy of taliglucerase alfa beyond the initial 9 months of the original study.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27102949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Long-term efficacy and safety results of taliglucerase alfa up to 36 months in adult treatment-na\u00efve patients with Gaucher disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27174694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 320, 
+            "text": "Taliglucerase alfa is an intravenous enzyme replacement therapy approved for treatment of type 1 Gaucher disease (GD), and is the first available plant cell-expressed recombinant therapeutic protein. Herein, we report long-term safety and efficacy results of taliglucerase alfa in treatment-na\u00efve adult patients with GD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27174694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 996, 
+            "offsetInEndSection": 1168, 
+            "text": " These 36-month results of taliglucerase alfa in treatment-na\u00efve adult patients with GD demonstrate continued improvement in disease parameters with no new safety concerns.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27174694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Long-term efficacy and safety results of taliglucerase alfa through 5years in adult treatment-na\u00efve patients with Gaucher disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27499018", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Taliglucerase alfa, the first available plant cell-expressed recombinant therapeutic protein, is an enzyme replacement therapy approved for Gaucher disease (GD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27499018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Long-term safety and efficacy of taliglucerase alfa in pediatric Gaucher disease patients who were treatment-na\u00efve or previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27839981", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 261, 
+            "text": "A Phase 3, multicenter, open-label, switchover trial to assess the safety and efficacy of taliglucerase alfa, a plant cell-expressed recombinant human glucocerebrosidase, in adult and pediatric patients with Gaucher disease previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1412, 
+            "offsetInEndSection": 1496, 
+            "text": "These results support safety and efficacy of taliglucerase alfa for Gaucher disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21900191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Taliglucerase alfa leads to favorable bone marrow responses in patients with type I Gaucher disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23199589", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 58, 
+            "text": "Taliglucerase alfa for the treatment of Gaucher's disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22916340", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Safety and efficacy of two dose levels of taliglucerase alfa in pediatric patients with Gaucher disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25453586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1422, 
+            "offsetInEndSection": 1506, 
+            "text": "These results support safety and efficacy of taliglucerase alfa for Gaucher disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21900191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1217, 
+            "offsetInEndSection": 1372, 
+            "text": "These findings provide evidence of the efficacy and safety profile of taliglucerase alfa as an ERT for GD in patients previously treated with imiglucerase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 543, 
+            "text": "This multicenter, randomized, double-blind, parallel-dose, 12-month study assessed efficacy and safety of taliglucerase alfa in pediatric patients with GD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25453586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 260, 
+            "text": "A Phase 3, multicenter, open-label, switchover trial to assess the safety and efficacy of taliglucerase alfa, a plant cell-expressed recombinant human glucocerebrosidase, in adult and pediatric patients with Gaucher disease previously treated with imiglucerase", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 308, 
+            "offsetInEndSection": 520, 
+            "text": "A Phase 3, multicenter, open-label, 9-month study assessed safety and efficacy of switching to taliglucerase alfa in adult and pediatric patients with GD treated with imiglucerase for at least the previous 2years", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1217, 
+            "offsetInEndSection": 1371, 
+            "text": "These findings provide evidence of the efficacy and safety profile of taliglucerase alfa as an ERT for GD in patients previously treated with imiglucerase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1396, 
+            "text": "Clinical trials have demonstrated that taliglucerase alfa is efficacious, with a well-established safety profile in adult, ERT-na\u00efve patients with symptomatic GD1, and for such patients previously treated with imiglucerase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24630271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2407, 
+            "offsetInEndSection": 3070, 
+            "text": "One study examined substrate reduction therapy in people with chronic neuronopathic (type 3) Gaucher disease who continued to receive enzyme replacement therapy.Treatment-na\u00efve participants had similar increases in haemoglobin when comparing those receiving imiglucerase or alglucerase at 60 units/kg, imiglucerase or velaglucerase alfa at 60 U/kg, taliglucerase alfa at 30 units/kg or 60 units/kg, and velaglucerase alfa at 45 units/g or 60 units/kg. For platelet count response in participants with intact spleens, a benefit for imiglucerase over velaglucerase alfa at 60 units/kg was observed, mean difference -79.87 (95% confidence interval -137.57 to -22.17)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25812601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1217, 
+            "offsetInEndSection": 1373, 
+            "text": "These findings provide evidence of the efficacy and safety profile of taliglucerase alfa as an ERT for GD in patients previously treated with imiglucerase. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 212, 
+            "text": "Taliglucerase alfa (Protalix Biotherapeutics, Israel) is a carrot-cell-expressed recombinant human beta-glucocerebrosidase recently approved in the United States for the treatment of type 1 Gaucher disease (GD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23199589", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 997, 
+            "offsetInEndSection": 1168, 
+            "text": "These 36-month results of taliglucerase alfa in treatment-na\u00efve adult patients with GD demonstrate continued improvement in disease parameters with no new safety concerns.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27174694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 308, 
+            "offsetInEndSection": 521, 
+            "text": "A Phase 3, multicenter, open-label, 9-month study assessed safety and efficacy of switching to taliglucerase alfa in adult and pediatric patients with GD treated with imiglucerase for at least the previous 2years.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1397, 
+            "text": "Clinical trials have demonstrated that taliglucerase alfa is efficacious, with a well-established safety profile in adult, ERT-na\u00efve patients with symptomatic GD1, and for such patients previously treated with imiglucerase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24630271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1509, 
+            "offsetInEndSection": 1628, 
+            "text": "These data suggest that taliglucerase alfa has the potential to be a therapeutic treatment option for children with GD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25453586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Enzyme replacement therapy with taliglucerase alfa: 36-month safety and efficacy results in adult patients with Gaucher disease previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27102949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Long-term safety and efficacy of taliglucerase alfa in pediatric Gaucher disease patients who were treatment-na\u00efve or previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27839981", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "A Phase 3, multicenter, open-label, switchover trial to assess the safety and efficacy of taliglucerase alfa, a plant cell-expressed recombinant human glucocerebrosidase, in adult and pediatric patients with Gaucher disease previously treated with imiglucerase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24950666", 
+            "endSection": "title"
+        }
+    ]
+}

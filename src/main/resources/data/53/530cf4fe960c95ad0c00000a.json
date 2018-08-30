@@ -1,0 +1,95 @@
+{
+    "body": "Is zolpidem an antibiotic?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8098760", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9433391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11154097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1403792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2871178"
+    ], 
+    "ideal_answer": [
+        "No, zolpidem is a short-acting imidazopyridine hypnotic drug"
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4205693", 
+        "http://www.biosemantics.org/jochem#4259685", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000900"
+    ], 
+    "type": "yesno", 
+    "id": "530cf4fe960c95ad0c00000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 106, 
+            "text": "Zolpidem is a short-acting imidazopyridine hypnotic drug that is metabolized mainly by CYP3A4.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9433391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 461, 
+            "offsetInEndSection": 719, 
+            "text": "FGIN-1-27 and alpidem, like the neurosteroid 3 alpha,21-dehydroxy-5 alpha-pregnane-20-one (THDOC), clonazepam and zolpidem (the direct allosteric modulators of gamma-aminobutyric acidA receptors) delay the onset of isoniazid and metrazol-induced convulsions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8098760", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 231, 
+            "text": "olpidem is a new, short-acting hypnotic of imidazopyridine structure which binds selectively to a subpopulation of receptors involved in the action of benzodiazepines [omega 1 (BZ1) sites of the gamma-aminobutyric acidA receptors]", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8098760", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 231, 
+            "text": "lpidem is a new, short-acting hypnotic of imidazopyridine structure which binds selectively to a subpopulation of receptors involved in the action of benzodiazepines [omega 1 (BZ1) sites of the gamma-aminobutyric acidA receptors]", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1403792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1334, 
+            "offsetInEndSection": 1469, 
+            "text": "In contrast, after repeated treatment with zolpidem, there was no change in its ability to produce sedative and anticonvulsant effects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1403792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Zolpidem, a novel nonbenzodiazepine hypnotic. I. Neuropharmacological and behavioral effects.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2871178", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Zolpidem [N,N,6-trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide hemitartrate] is reported to be a rapid onset, short duration hypnotic that interacts at the benzodiazepine recognition site.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2871178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "The imidazopyridine zolpidem is a short-acting hypnotic chemically distinct from benzodiazepines (BZs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11154097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 279, 
+            "text": "According to its peculiar neuropharmacologic activity (selectivity for the omega 1-BZ receptors), zolpidem is expected to be a pure hypnotic, without the other effects of BZs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11154097", 
+            "endSection": "abstract"
+        }
+    ]
+}

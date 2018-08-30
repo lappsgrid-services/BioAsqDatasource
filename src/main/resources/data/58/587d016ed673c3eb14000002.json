@@ -1,0 +1,57 @@
+{
+    "body": "What is TOPAZ1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26358182", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22069478"
+    ], 
+    "ideal_answer": [
+        "TOPAZ1 is a novel germ cell-specific expressed gene conserved during evolution across vertebrates. Its PAZ-domain protein is abundantly expressed in the gonads during germ cell meiosis. The expression pattern of TOPAZ1, and its high degree of conservation, suggests that it may play an important role in germ cell development. Further characterization of TOPAZ1 may elucidate the mechanisms involved in gametogenesis, and particularly in the RNA silencing process in the germ line.", 
+        "TOPAZ1 (Testis and Ovary-specific PAZ domain gene 1) is a germ cell specific factor that is essential for male meiotic progression. Topaz1 is supposed to have a role during gametogenesis and may be involved in the piRNA pathway and contribute to silencing of transposable elements and maintenance of genome integrity. It is highly conserved in vertebrates."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TOPZ1_BOVIN", 
+        "http://www.uniprot.org/uniprot/TOPZ1_RAT", 
+        "http://www.uniprot.org/uniprot/TOPZ1_MOUSE", 
+        "http://www.uniprot.org/uniprot/TOPZ1_MACFA", 
+        "http://www.uniprot.org/uniprot/TOPZ1_CALJA", 
+        "http://www.uniprot.org/uniprot/TOPZ1_MACMU", 
+        "http://www.uniprot.org/uniprot/TOPZ1_SHEEP", 
+        "http://www.uniprot.org/uniprot/TOPZ1_HUMAN"
+    ], 
+    "type": "summary", 
+    "id": "587d016ed673c3eb14000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "TOPAZ1, a germ cell specific factor, is essential for male meiotic progression", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26358182", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Topaz1 (Testis and Ovary-specific PAZ domain gene 1) is a germ cell specific gene highly conserved in vertebrates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26358182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 423, 
+            "text": "Topaz1 is supposed to have a role during gametogenesis and may be involved in the piRNA pathway and contribute to silencing of transposable elements and maintenance of genome integrity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26358182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "TOPAZ1, a novel germ cell-specific expressed gene conserved during evolution across vertebrates", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22069478", 
+            "endSection": "title"
+        }
+    ]
+}

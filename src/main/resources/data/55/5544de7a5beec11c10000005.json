@@ -1,0 +1,99 @@
+{
+    "body": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16950921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20479947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20036541"
+    ], 
+    "ideal_answer": [
+        "Factors involved in RNA polymerase (RNAP) processivity or transcriptional derepression, such as Mfd (transcription coupling repair factor), contribute to the generation of stress-induced mutations. Under stress, transcription-associated mutagenesis is increased. Stress-induced transcription-associated mutations are acquired by nondividing cells, during stationary phase, and are not observed under conditions of exponential growth."
+    ], 
+    "exact_answer": [
+        "stationary phase"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007049", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006351", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022403", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000115", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090418"
+    ], 
+    "type": "factoid", 
+    "id": "5544de7a5beec11c10000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 716, 
+            "offsetInEndSection": 1152, 
+            "text": "factors involved in RNA polymerase (RNAP) processivity or transcriptional derepression contribute to the generation of stress-induced mutations. In Bacillus subtilis, transcription-associated mutagenesis has been shown to be independent of recombination-dependent repair and, in some cases, of the Y DNA polymerases. Central to stationary-phase mutagenesis in B. subtilis is the requirement for Mfd, transcription coupling repair factor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Adaptive (stationary phase) mutagenesis is a phenomenon by which nondividing cells acquire beneficial mutations as a response to stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 859, 
+            "offsetInEndSection": 1205, 
+            "text": "the level of Leu(+) reversions increased significantly in parallel with the induced increase in transcription levels. This mutagenic response was not observed under conditions of exponential growth. Since transcription is a ubiquitous biological process, transcription-associated mutagenesis may influence evolutionary processes in all organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Transcription-associated mutation in Bacillus subtilis cells under stress.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 415, 
+            "text": "Transcription-associated mutagenesis is increased under stress and depends on the DNA sequence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20479947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1934, 
+            "offsetInEndSection": 2028, 
+            "text": "Nonrandom transcription-associated mutagenesis under stress should improve the survival of E.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20479947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 304, 
+            "offsetInEndSection": 400, 
+            "text": "Transcription-associated mutagenesis is increased under stress and depends on the DNA sequence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20479947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 241, 
+            "text": "Stress-induced mutagenesis describes the accumulation of mutations that occur in nongrowing cells, in contrast to mutagenesis that occurs in actively dividing populations, and has been referred to as stationary-phase or adaptive mutagenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20036541", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1033, 
+            "offsetInEndSection": 1077, 
+            "text": "Central to stationary-phase mutagenesis in B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "body": "Are CD44 variants (CD44v) associated with poor prognosis of metastasis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7587629", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9732216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10601048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12842543", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9849582", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7585612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7544777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9742519", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11751503", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9949626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9815811", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8869105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9224749", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12747468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9413216"
+    ], 
+    "ideal_answer": [
+        "Yes, several isoforms (obtained by by usage of ten variant exons in various combinations) have been causally related to metastasis."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009362", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011379", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018960", 
+        "http://www.uniprot.org/uniprot/CD44_BOVIN"
+    ], 
+    "type": "yesno", 
+    "id": "533bf29cc45e133714000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 41, 
+            "text": "CD44 variants and prognosis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10601048", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 136, 
+            "text": "The CD44 variant (CD44v) isoforms have been noted as markers for tumour metastasis and prognosis in several adenocarcinomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10601048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1285, 
+            "offsetInEndSection": 1417, 
+            "text": "Positive CD44v3 expression was associated with more advanced pathological stage and poorer prognosis than negative CD44v3 expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11751503", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1393, 
+            "offsetInEndSection": 1518, 
+            "text": "CD44v6 expression in the adenocarcinoma component may directly affect the behavior of carcinoma and the prognosis of patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12747468", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 138, 
+            "text": "D44 variant 6 in endometrioid carcinoma of the uterus: its expression in the adenocarcinoma component is an independent prognostic marker", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12747468", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1661, 
+            "offsetInEndSection": 1852, 
+            "text": "CD44v5 expression is independently positively correlated with the aggressiveness of thymic epithelial tumors. The expression of CD44v5 may be a potential trigger of tumor invasion in thymomas", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12842543", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2363, 
+            "offsetInEndSection": 2497, 
+            "text": "analysis of CD44v expression provides indications of biological and clinical relevance also in low grade lymphoproliferative disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9949626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 15, 
+            "offsetInEndSection": 107, 
+            "text": "clinical relevance of CD44 variant isoform expression on B-cell chronic lymphocytic leukemia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9949626", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 82, 
+            "text": "CD44 variants and its association with survival in pancreatic cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9849582", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 10, 
+            "offsetInEndSection": 117, 
+            "text": "CD44 variant 6(v6) molecule has been noted as a marker for tumor metastasis and prognosis in several tumors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9849582", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1530, 
+            "offsetInEndSection": 1637, 
+            "text": "CD44v2 and CD44v6 may be useful markers for poor prognosis in curatively resected primary pancreatic cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9849582", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1272, 
+            "offsetInEndSection": 1508, 
+            "text": "CD44v8-10 may play an important role in the adhesion of tumor cells to the capillaries of distant organs in the metastatic process, and that immunohistochemical detection of CD44v8-10 may be a biologic marker of prognostic significance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9742519", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 899, 
+            "offsetInEndSection": 991, 
+            "text": "combined expression of CD44v8-10 and SLX may be a biologic marker of prognostic significance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9732216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 195, 
+            "text": "variant isoforms (CD44v) are expressed on different malignant cells and tissues. Their upregulation has been implicated, in the progression and metastasis of malignomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9413216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 112, 
+            "text": "expression of the CD44 variant exon 6 is associated with lymph node metastasis in non-small cell lung cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9815811", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1409, 
+            "offsetInEndSection": 1639, 
+            "text": "a number of variant forms of CD44 are frequently expressed, although these variants are infrequently expressed in normal lung tissue, and that the expression of CD44v6 is particularly associated with lymph node metastasis in NSCLC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9815811", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1305, 
+            "offsetInEndSection": 1397, 
+            "text": "Expression of CD44v6 may suggest an increased risk for local lymph node metastasis in NSCLCs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9224749", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 831, 
+            "offsetInEndSection": 926, 
+            "text": "different CD44 isoforms are found in human skin cancers and are modulated during carcinogenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8869105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 99, 
+            "text": "D44 isoforms correlate with cellular differentiation but not with prognosis in human breast cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7585612", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 851, 
+            "text": "Correlations between prognosis and expression of CD44v have been reported for gastric and colon carcinoma, for non-Hodgkin's lymphoma, and recently for breast carcinoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7585612", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 459, 
+            "text": "Certain splice variants (CD44v) can promote the metastatic behaviour of cancer cells. In human colon and breast cancer the presence of epitopes encoded by exon v6 on primary resected tumour material indicates poor prognosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7587629", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 434, 
+            "text": "In human mammary carcinomas and colorectal carcinomas, the expression of CD44v has also been correlated with more progressed tumor stages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7544777", 
+            "endSection": "abstract"
+        }
+    ]
+}

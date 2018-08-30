@@ -1,0 +1,367 @@
+{
+    "body": "What disease is Velcade (bortezomib) mainly used for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15626743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21751810", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22381702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23176720", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20079210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21223249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15985470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22353937", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21634429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20685499", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19190249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16470606", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18410447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22028144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18381602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21501555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17133426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21839906", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22699304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22189222", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18327587", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22087865"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15661541", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1174739", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A4368130"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A4368130", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7589426", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10483519", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A4361967", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7827139", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }
+    ], 
+    "ideal_answer": [
+        "Velcade (bortezomid), a proteasome inhibitor drug indicated for multiple myeloma (MM) treatment. Velcade is also approved for the treatment of patients with mantle cell lymphoma."
+    ], 
+    "exact_answer": [
+        "multiple myeloma"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=2001025", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=2001023", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0008144", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0017144", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0042737", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=2001039", 
+        "http://www.disease-ontology.org/api/metadata/DOID:9974", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=2001040", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0042493", 
+        "http://www.biosemantics.org/jochem#4241338"
+    ], 
+    "type": "factoid", 
+    "id": "51631154298dcd4e5100004e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 40, 
+            "text": "patients with multiple myeloma (MM)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23176720", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 242, 
+            "text": "bortezomib, and lenalidomide have shown improved outcomes in these patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23176720", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 212, 
+            "text": "Bortezomib, a proteasome inhibitor drug very effective against multiple myeloma, may induce the so-called bortezomib-induced peripheral neuropathy (BIPN), hardly manageable with common analgesic drugs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699304", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 800, 
+            "text": "bortezomib have emerged as effective treatment in patients with multiple myeloma (MM).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22381702", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 481, 
+            "text": "the use of thalidomide to treat multiple myeloma, and describe problems arising in the Thaled\u00ae outpatient department. METHODS: Multiple myeloma patients treated with thalidomide at Hitachi General Hospital.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22189222", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1363, 
+            "offsetInEndSection": 1676, 
+            "text": "Thalidomide showed some success in treating multiple myeloma either after auto-PBSCT or following treatment with bortezomib. In the case demonstrating hematotoxicity Grade 3 (in addition to neutropenia), grave complications could have very easily developed, thus underscoring the importance of careful monitoring.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22189222", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 525, 
+            "offsetInEndSection": 731, 
+            "text": "Patients aged \u226518 years with relapsed or refractory multiple myeloma or non-Hodgkin's lymphoma received intravenous bortezomib 1.3\u2009mg/m2, administered on days 1, 4, 8 and 11 of a 21-day cycle, for 3 cycles.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22087865", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2100, 
+            "offsetInEndSection": 2414, 
+            "text": "In patients with multiple myeloma or non-Hodgkin's lymphoma, co-administration of rifampicin decreased the exposure to bortezomib but did not affect the proteasome inhibition or safety profiles; co-administration of dexamethasone did not affect the exposure to bortezomib, proteasome inhibition or safety profiles.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22087865", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 615, 
+            "offsetInEndSection": 818, 
+            "text": "we provide data comparing sFLC with M protein as biomarkers of response in newly diagnosed patients with MM undergoing induction therapy with the novel agents thalidomide, lenalidomide and/or bortezomib.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22028144", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 245, 
+            "text": "Bortezomib, indicated for multiple myeloma (MM) treatment, is available in 3.5-mg vials, a quantity higher than the average dose commonly prescribed.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839906", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Bortezomib, a dipeptidyl boronic acid and potent inhibitor of the 26S proteasome, is remarkably effective against multiple myeloma (MM) but not against solid tumors.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21634429", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 257, 
+            "text": "efficacy and safety of bortezomib (BOR) for treatment of multiple myeloma in comparison with thalidomide (THAL) by reference to adverse events, and searched for laboratory markers that could be used for prognostication of patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21501555", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 607, 
+            "offsetInEndSection": 907, 
+            "text": "BOR showed a higher rate of effectiveness than THAL for refractory multiple myeloma, and its effects were rapid. BOR treatment prolonged the survival time of THAL-resistant patients. The efficacy of BOR was unrelated to patient age, the number of previous therapeutic regimens, or the disease period.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21501555", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1236, 
+            "offsetInEndSection": 1547, 
+            "text": "It is suggested that BOR has therapeutic efficacy for multiple myeloma as a first-line medical treatment and/or for patients with THAL resistance, and can improve prognosis and survival. Since serum ALP elevation was observed in many patients for whom BOR was effective, this may be a predictor of BOR efficacy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21501555", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1065, 
+            "offsetInEndSection": 1404, 
+            "text": "Bortezomib-treated MM patients whose tumours had high baseline expression of genes suppressed by LCQ195 had significantly shorter progression-free and overall survival than those with low levels of these transcripts in their MM cells. These observations provide insight into the biological relevance of multi-targeted CDK inhibition in MM.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21223249", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 57, 
+            "offsetInEndSection": 294, 
+            "text": "bortezomib is the only effective agent in the treatment of plasma cell leukemia (PCL), a type of plasma cell dyscrasia characterized by poor prognosis despite conventional chemotherapy including autologous and allogeneic transplantation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20685499", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2518, 
+            "offsetInEndSection": 2655, 
+            "text": "These 3 patients with primary or secondary PCL who received a bortezomib-based regimen as rescue medication did not respond to treatment.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20685499", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 162, 
+            "text": "To evaluate the effects and safety of the regimen of bortezomib combined with dexamethasone (VD) in the treatment of primary systemic (AL) amyloidosis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20079210", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1025, 
+            "text": "VD regimen might be an efficient, rapid effective and safe regimen in the treatment of AL amyloidosis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20079210", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 240, 
+            "offsetInEndSection": 496, 
+            "text": "Bortezomib (BZM) is a proteasome inhibitor in clinical use for multiple myeloma. Here, we investigated whether the combination of these compounds would yield increased antitumor efficacy in multiple myeloma and glioblastoma cell lines in vitro and in vivo.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19190249", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1404, 
+            "text": "Taken together, our results indicate that green tea polyphenols may have the potential to negate the therapeutic efficacy of BZM and suggest that consumption of green tea products may be contraindicated during cancer therapy with BZM.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19190249", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Relapsed/refractory myeloma has a poor outcome because of multi-drug resistance, patient low-performance status and toxicity of conventional chemotherapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18410447", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 607, 
+            "text": "Bortezomib, by inhibiting proteasome function, may enhance chemosensitivity to other drugs and overcome drug-resistance. Notably, doxorubicin and bortezomib may reciprocally increase their efficacy. Thus, to improve outcome whilst minimizing therapy-related toxicity, liposomal doxorubicin was added to a bortezomib-based combination.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18410447", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 371, 
+            "offsetInEndSection": 703, 
+            "text": "the growth inhibitory and pro-apoptotic effects of the proteasome inhibitor bortezomib in combination with anti-EGFR drugs, such as gefitinib, vandetanib, and cetuximab in EGFR-expressing human cancer cell lines. Bortezomib determined dose-dependent growth inhibition in a nine cancer cell line panel (IC(50) values, range 6-42 nM).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18381602", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1280, 
+            "offsetInEndSection": 1727, 
+            "text": "overexpression of a constitutively active P-Akt protected A549 cells by cell growth inhibition and apoptosis following treatment with bortezomib and EGFR inhibitors. The combined treatment with bortezomib and EGFR inhibitors has a synergistic growth inhibitory and pro-apoptotic activity in different human cancer cells which possess a functional EGFR-dependent autocrine growth pathway through to a more efficient and sustained inhibition of Akt.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18381602", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1353, 
+            "offsetInEndSection": 1431, 
+            "text": "Among 19 patients with breast cancer, four had evidence of a clinical benefit.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18327587", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 265, 
+            "text": "Pre-clinical studies combining the proteasome inhibitor bortezomib with anthracyclines have shown enhanced anti-tumor activity. We conducted a phase I trial of bortezomib and pegylated liposomal doxorubicin (PLD) in patients with refractory solid tumors.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18327587", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1554, 
+            "offsetInEndSection": 1722, 
+            "text": "A regimen of bortezomib, 1.3 mg/m(2) on days 1, 4, 8, and 11 with PLD, 30 mg/m(2), on day 4 of a 21-day cycle, was safe in this study, and merits further investigation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18327587", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Bortezomib, a proteasome inhibitor, has been used for patients with refractory and relapsed multiple myeloma, lymphoma and leukemia.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17133426", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 168, 
+            "text": "Bortezomib, a first-in-class proteasome inhibitor, has shown clinical activity in relapsed, refractory multiple myeloma in a pivotal Phase II trial, SUMMIT.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16470606", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1535, 
+            "offsetInEndSection": 1651, 
+            "text": "treatment with bortezomib results in meaningful long-term benefit for patients with relapsed and refractory myeloma.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16470606", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 205, 
+            "text": "The proteasome inhibitor bortezomib (BTZ), used in antineoplastic chemotherapy, must be diluted in NaCl 0.9% for injection and stored for no more than 3 hours in a syringe or 8 hours in a vial.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15985470", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 444, 
+            "text": "Proteasome inhibitors, a novel class of chemotherapeutic agents, enhance the antitumor efficacy of anthracyclines in vitro and in vivo. We therefore sought to determine the maximum tolerated dose (MTD) and dose-limiting toxicities of bortezomib and pegylated liposomal doxorubicin (PegLD). Bortezomib was given on days 1, 4, 8, and 11 from 0.90 to 1.50 mg/m2 and PegLD on day 4 at 30 mg/m2 to 42 patients with advanced hematologic malignancies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15626743", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 943, 
+            "offsetInEndSection": 1471, 
+            "text": "Antitumor activity was seen against multiple myeloma, with 8 of 22 evaluable patients having a complete response (CR) or near-CR, including several with anthracycline-refractory disease, and another 8 having partial responses (PRs). One patient with relapsed/refractory T-cell non-Hodgkin lymphoma (NHL) achieved a CR, whereas 2 patients each with acute myeloid leukemia and B-cell NHL had PRs. Bortezomib/PegLD was safely administered in this study with promising antitumor activity, supporting further testing of this regimen.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15626743", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 694, 
+            "offsetInEndSection": 801, 
+            "text": "These patients were treated with bortezomib variously combined with other drugs outside of clinical trials.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20685499", 
+            "endSection": "sections.0"
+        }
+    ]
+}

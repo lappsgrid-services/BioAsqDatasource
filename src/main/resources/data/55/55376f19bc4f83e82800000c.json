@@ -1,0 +1,91 @@
+{
+    "body": "Which is the most common type of pediatric cerebellar tumor?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21315459", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23951168", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25499213", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6502196", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21681603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16479172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9447621"
+    ], 
+    "ideal_answer": [
+        "Medulloblastoma is the most common malignant cerebellar tumor seen in the pediatric age group, which has a known ability to metastasize extraneurally.", 
+        "Medulloblastoma is a malignant cerebellar tumor seen primarily in the pediatric age group that has a known ability to metastasize extraneurally  "
+    ], 
+    "exact_answer": [
+        "Medulloblastoma"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:5059", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002528"
+    ], 
+    "type": "factoid", 
+    "id": "55376f19bc4f83e82800000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "Medulloblastoma (MDB) is the most common malignant cerebellar tumor in children", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21681603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Medulloblastoma is a malignant cerebellar tumor seen primarily in the pediatric age group that has a known ability to metastasize extraneurally", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6502196", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 210, 
+            "text": "Medulloblastoma (MB) is the most common malignant pediatric brain tumor which is thought to originate from cerebellar granule cell precursors (CGNPs) that fail to properly exit the cell cycle and differentiate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16479172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Medulloblastoma (MDB) is the most common malignant cerebellar tumor in children.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21681603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Medulloblastoma, the most common pediatric brain tumor, is thought to arise from deregulated proliferation of cerebellar granule precursor (CGP) cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23951168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 284, 
+            "text": "Medulloblastoma (MB) is the most common malignant pediatric brain tumor and is thought to arise from genetic anomalies in developmental pathways required for the normal maturation of the cerebellar cortex, notably developmental pathways for granule cell progenitor (GCP) neurogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21315459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 438, 
+            "offsetInEndSection": 624, 
+            "text": "Most adult brain tumors are supratentorial malignant gliomas, whereas the most common malignant pediatric brain tumor is the cerebellar primitive neuroectodermal tumor (medulloblastoma).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9447621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Mouse models have increased our understanding of the pathogenesis of medulloblastoma (MB), the most common malignant pediatric brain tumor that often forms in the cerebellum", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25499213", 
+            "endSection": "abstract"
+        }
+    ]
+}

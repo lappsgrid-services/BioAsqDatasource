@@ -1,0 +1,87 @@
+{
+    "body": "What is SCENAR therapy used for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20396722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20879466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16924799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8779182"
+    ], 
+    "ideal_answer": [
+        "all patients experienced substantial relief of pain from the first treatment. an electronic biofeedback device (scenar) may be successfully utilized in the management of post-herpetic neuralgia. scenar) as effective in the treatment of neurogenic dysfunction of the bladder in children with nocturnal enuresis. post-herpetic neuralgia using a bioelectronical device (scenar). addition of scenar therapy to the complex conventional pharmacotherapy fastened ulcer healing, increased the effectiveness of helicobacter pylori eradication, and improved the condition of the gastroduodenal mucosa. scenar therapy to patients with localized suppurative peritonitis in the postoperative period. a new technique of low-frequency modulated electric current therapy, scenar therapy, was used in treatment of 103 patients with duodenal ulcer (du). ", 
+        "localized suppurative peritonitis in the postoperative period\nmanagement of post-herpetic neuralgia\ntreatment of 103 patients with duodenal ulcer\ntreatment of neurogenic dysfunction of the bladder in children with nocturnal enuresis"
+    ], 
+    "exact_answer": [
+        [
+            "peritonitis postoperative"
+        ], 
+        [
+            "pain in postherpetic neuralgia"
+        ], 
+        [
+            "duodenal ulcer"
+        ], 
+        [
+            "nocturnal enuresis"
+        ]
+    ], 
+    "type": "list", 
+    "id": "535d69177d100faa09000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 48, 
+            "offsetInEndSection": 141, 
+            "text": "SCENAR therapy to patients with localized suppurative peritonitis in the postoperative period", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20396722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 157, 
+            "text": "post-herpetic neuralgia using a bioelectronical device (SCENAR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20879466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 474, 
+            "text": "All patients experienced substantial relief of pain from the first treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20879466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 715, 
+            "offsetInEndSection": 831, 
+            "text": "An electronic biofeedback device (SCENAR) may be successfully utilized in the management of post-herpetic neuralgia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20879466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "A new technique of low-frequency modulated electric current therapy, SCENAR therapy, was used in treatment of 103 patients with duodenal ulcer (DU).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16924799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 433, 
+            "offsetInEndSection": 648, 
+            "text": "Addition of SCENAR therapy to the complex conventional pharmacotherapy fastened ulcer healing, increased the effectiveness of Helicobacter pylori eradication, and improved the condition of the gastroduodenal mucosa.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16924799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 184, 
+            "text": "SCENAR) as effective in the treatment of neurogenic dysfunction of the bladder in children with nocturnal enuresis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8779182", 
+            "endSection": "abstract"
+        }
+    ]
+}

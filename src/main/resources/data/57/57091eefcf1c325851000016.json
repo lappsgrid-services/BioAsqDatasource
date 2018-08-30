@@ -1,0 +1,514 @@
+{
+    "body": "Is NOD1 activated in inflammation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23740944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24829218", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24828250", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12813035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18574154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24279792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22870324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23712977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20921147", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19074871", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24534531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21330608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25253572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25732381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21677137", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21469090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23162548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24041848", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23848281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23259058"
+    ], 
+    "ideal_answer": [
+        "Nod proteins fight off bacterial infections by stimulating proinflammatory signaling and cytokine networks and by inducing antimicrobial effectors, such as nitric oxide and antimicrobial peptides. NOD1 engagement generates an inflammatory response via activation of NF\u03baB and MAPK pathways and several inflammatory disorders, such as Crohn's disease and asthma, are linked to genetic changes in either Nod1 or Nod2. Nod1 is also critically implicated in shaping adaptive immune responses towards bacterial-derived constituents. Together, Nod1 and Nod2 represent central players in the control of immune responses to bacterial infections and inflammation. Mice deficient for both Nod1 and Nod2 had attenuated inflammatory pathology, reduced levels of inflammatory cytokines, and increased colonization of the mucosal tissue", 
+        "Nod1/2 DKO mice show increased susceptibility for intestinal permeability while vascular permeability was not affected. The present study analyzed Nod1 and Nod2 double deficient (Nod1/2 DKO) mice under physiological and inflammatory conditions. The increased intestinal permeability is associated with enhanced inflammatory cytokine production and epithelial cell proliferation in Nod1-deficient mice as compared with wild-type mice. However, the influence of Rip2 was strictly dependent on infection conditions that favored expression of the Salmonella pathogenicity island 2 (SPI-2) type III secretion system (TTSS), as Rip2 was dispensable for inflammation when mice were infected with bacteria grown under conditions that promoted expression of the SPI-1 TTSS.", 
+        "Nod1 and Nod2 control bacterial infections and inflammation"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007249", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053474"
+    ], 
+    "type": "yesno", 
+    "id": "57091eefcf1c325851000016", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 73, 
+            "text": "Nod1 and Nod2 control bacterial infections and inflammation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 370, 
+            "text": "The Nod proteins Nod1 and Nod2 are two NLR family members that trigger immune defense in response to bacterial peptidoglycan", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 372, 
+            "offsetInEndSection": 568, 
+            "text": "Nod proteins fight off bacterial infections by stimulating proinflammatory signaling and cytokine networks and by inducing antimicrobial effectors, such as nitric oxide and antimicrobial peptides.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 680, 
+            "text": "Nod1 is also critically implicated in shaping adaptive immune responses towards bacterial-derived constituents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1035, 
+            "text": "Together, Nod1 and Nod2 represent central players in the control of immune responses to bacterial infections and inflammation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17690884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "The innate immune receptor Nod1 protects the intestine from inflammation-induced tumorigenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074871", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 677, 
+            "offsetInEndSection": 1093, 
+            "text": "we show that Nod1 deficiency results in the increased development of both colitis-associated and Apc tumor suppressor-related colon tumors. In the absence of Nod1 signaling, there is a greater disruption of the intestinal epithelial cell barrier due to chemically induced injury as manifested by increased surface epithelial apoptosis early on during chemically induced colitis and increased intestinal permeability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1094, 
+            "offsetInEndSection": 1282, 
+            "text": "The increased intestinal permeability is associated with enhanced inflammatory cytokine production and epithelial cell proliferation in Nod1-deficient mice as compared with wild-type mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1283, 
+            "offsetInEndSection": 1560, 
+            "text": "Depletion of the gut microbiota suppressed tumor development in Nod1-deficient mice, thus highlighting a link between the commensal bacteria within the intestine and the host innate immune Nod1 signaling pathway in the regulation inflammation-mediated colon cancer development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1079, 
+            "text": " NOD1 protein is expressed in the eye and promotes ocular inflammation in a dose- and time-dependent fashion. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "NOD1 expression in the eye and functional contribution to IL-1beta-dependent ocular inflammation in mice", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 283, 
+            "text": "Polymorphisms in NOD1 are associated with autoinflammatory diseases characterized by uveitis such as Crohn's disease and sarcoidosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 285, 
+            "offsetInEndSection": 457, 
+            "text": "NOD1 is homologous to NOD2, which is responsible for an autosomal dominant form of uveitis. Nonetheless, the role of NOD1 in intraocular inflammation has not been explored.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Nod1 and Nod2 regulation of inflammation in the Salmonella colitis model", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20921147", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 458, 
+            "text": "mice deficient for both Nod1 and Nod2 had attenuated inflammatory pathology, reduced levels of inflammatory cytokines, and increased colonization of the mucosal tissue", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20921147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1249, 
+            "offsetInEndSection": 1400, 
+            "text": "The present study has demonstrated an unexpected role of Nod1 in the development of site-specific vascular inflammation, especially coronary arteritis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21330608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 55, 
+            "text": "Nod1 ligands induce site-specific vascular inflammation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21330608", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Phenotyping of Nod1/2 double deficient mice and characterization of Nod1/2 in systemic inflammation and associated renal disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259058", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 270, 
+            "text": "The present study analyzed Nod1 and Nod2 double deficient (Nod1/2 DKO) mice under physiological and inflammatory conditions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 510, 
+            "text": "Several inflammatory disorders, such as Crohn's disease and asthma, are linked to genetic changes in either Nod1 or Nod2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1696, 
+            "offsetInEndSection": 1835, 
+            "text": "Systematic analysis of Nod1/2 DKO mice revealed a possible role of Nod1/2 in the development of renal disease during systemic inflammation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "NOD1 and NOD2 Signaling in Infection and Inflammation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23162548", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 396, 
+            "text": "NOD1 engagement generates an inflammatory response via activation of NF\u03baB and MAPK pathways. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22870324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1090, 
+            "offsetInEndSection": 1246, 
+            "text": "In addition we profile novel inhibitors of RIP2 and NOD1 itself, which specifically inhibit NOD1 ligand induced inflammatory signalling in the vasculature. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22870324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1428, 
+            "offsetInEndSection": 1612, 
+            "text": "This data supports the potential utility of NOD1 and RIP2 as therapeutic targets in human disease where vascular inflammation is a clinical feature, such as in sepsis and septic shock.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22870324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "NOD1 expression elicited by iE-DAP in first trimester human trophoblast cells and its potential role in infection-associated inflammation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24041848", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 462, 
+            "text": "This study aimed to investigate the expression and function of NOD1 in first trimester trophoblast cells, and evaluate the potential role of trophoblast cells in infection-associated inflammation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24041848", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1503, 
+            "offsetInEndSection": 1686, 
+            "text": "NOD1 may have a role in mediating infection-associated inflammation. Once iE-DAP is recognized by NOD1, the inflammatory response may be induced via NOD1-RICK-NF-\u03baB-mediated pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24041848", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1134, 
+            "offsetInEndSection": 1252, 
+            "text": "NOD1/2(-/-) mice were protected from HFD-induced inflammation, lipid accumulation, and peripheral insulin intolerance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 774, 
+            "offsetInEndSection": 1007, 
+            "text": "In contrast, Nod1 gene-deficient mice developed enhanced joint inflammation with concomitant elevated levels of proinflammatory cytokines and cartilage damage, consistent with a model in which Nod1 controls the inflammatory reaction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18574154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1565, 
+            "offsetInEndSection": 1794, 
+            "text": "These data indicate that the NLR family members Nod1 and Nod2 have different functions in controlling inflammation, and that intracellular Nod1-Nod2 interactions may determine the severity of arthritis in this experimental model.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18574154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1059, 
+            "offsetInEndSection": 1315, 
+            "text": "Whereas the lymphotoxin pathway was critical for the induction of the B cell chemoattractant CXCL13 in response to Nod1 agonists, B cell accumulation within the spleen following Nod1-induced systemic inflammation was independent of the lymphotoxin pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24534531", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 627, 
+            "offsetInEndSection": 735, 
+            "text": "The effect of NOD1 and NOD2 activation on inflammation and the insulin signalling pathway was also assessed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24829218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 445, 
+            "offsetInEndSection": 525, 
+            "text": "Nonetheless, the role of NOD1 in intraocular inflammation has not been explored.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "A key role for the endothelium in NOD1 mediated vascular inflammation: comparison to TLR4 responses.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22870324", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 522, 
+            "text": "We previously demonstrated that human first-trimester trophoblasts express Nod1 and Nod2, which trigger inflammation upon stimulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21677137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1026, 
+            "offsetInEndSection": 1166, 
+            "text": "In addition, recent studies have revealed a role for intracellular NOD1 receptors in the regulation of vascular inflammation and metabolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23848281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1919, 
+            "offsetInEndSection": 2083, 
+            "text": "In conclusion, the present findings describe an important role for NOD1 in the development of insulin resistance and inflammation in pregnancies complicated by GDM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24829218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Phenotyping of Nod1/2 double deficient mice and characterization of Nod1/2 in systemic inflammation and associated renal disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259058", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Nod1 activation by bacterial iE-DAP induces maternal-fetal inflammation and preterm labor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21677137", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 400, 
+            "text": "The nucleotide-binding oligomerisation domain (NOD) intracellular molecules recognise a wide range of microbial products, as well as other intracellular danger signals, thereby initiating inflammation through activation of nuclear factor \u03baB (NF\u03baB). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24829218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "Nod1 ligands induce site-specific vascular inflammation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21330608", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 169, 
+            "offsetInEndSection": 484, 
+            "text": "The nucleotide oligomerization domain (NOD) intracellular molecules recognize a wide range of microbial products as well as other intracellular danger signals, thereby initiating inflammation through activation of nuclear factor KB (NFKB), a central regulator of the terminal processes of human labor and delivery. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23740944", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1865, 
+            "offsetInEndSection": 2003, 
+            "text": "CONCLUSIONS: We identify NOD proteins as innate immune components that are involved in diet-induced inflammation and insulin intolerance. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Nod1 and Nod2 regulation of inflammation in the Salmonella colitis model.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20921147", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 308, 
+            "text": "In particular, muramyl peptides trigger inflammation, contribute to host defense against microbial infections, and modulate the adaptive immune response to antigens. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21469090", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 794, 
+            "offsetInEndSection": 919, 
+            "text": "Systemic and tissue-specific inflammation was assessed using enzyme-linked immunosorbent assays in NOD ligand-injected mice. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1865, 
+            "offsetInEndSection": 2223, 
+            "text": "CONCLUSIONS: We identify NOD proteins as innate immune components that are involved in diet-induced inflammation and insulin intolerance. Acute activation of NOD proteins by mimetics of bacterial PGNs causes whole-body insulin resistance, bolstering the concept that innate immune responses to distinctive bacterial cues directly lead to insulin resistance. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 791, 
+            "offsetInEndSection": 1043, 
+            "text": "Interferon-gamma (IFN gamma), which is a potent pro-inflammatory cytokine in intestinal mucosal inflammation, activates CARD4/NOD1 mRNA transcription in a time- and dose-dependent manner and results in augmentation of CARD4/NOD1 protein in SW480 cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12813035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1631, 
+            "offsetInEndSection": 1812, 
+            "text": "These studies suggest that the Th1 cytokine, IFN gamma, activates CARD4/NOD1 transcription and regulate innate immune mechanisms in the condition of intestinal mucosal inflammation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12813035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 202, 
+            "text": "NOD1 activation triggers inflammation,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25253572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1671, 
+            "offsetInEndSection": 1950, 
+            "text": "In contrast to enhanced leptin mRNA by LPS and TNF\u03b1, NOD1 activation suppressed leptin mRNA in adipocytes, suggesting the differential effects of NOD1 activation in adipocytes.  Overall, our results suggest that NOD1 represents a novel target for adipose inflammation in obesity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23712977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 290, 
+            "text": "NOD1 activation triggers inflammation, antimicrobial mechanisms and autophagy in both epithelial cells and murine macrophages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25253572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 519, 
+            "text": "NOD1 is an intracellular immune receptor that senses peptidoglycan from Gram-negative bacteria and responds by inducing autophagy and activating NF-\u03baB, leading to inflammation-mediated bacterial clearance; however chronic pathogens can evade NOD1-mediated clearance by altering peptidoglycan structure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25732381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1438, 
+            "offsetInEndSection": 1635, 
+            "text": "Bacterial NOD1 activation is positioned as a component of metabolic endotoxemia that can contribute to hyperlipidemia, systemic inflammation and insulin resistance by acting directly on adipocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24828250", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1693, 
+            "offsetInEndSection": 1818, 
+            "text": "NOD1 ligand also caused inflammation and insulin resistance directly in primary hepatocytes from WT, but not NOD1(-/-), mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21715553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1458, 
+            "offsetInEndSection": 1621, 
+            "text": "We conclude that NOD1 activation reduced AHR in allergen-induced lung inflammation, which was accompanied by a reduction of allergen-specific T-cell proliferation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24279792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 631, 
+            "text": "The effect of NOD1 and NOD2 activation on inflammation and the insulin signalling pathway was also assessed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24829218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 792, 
+            "offsetInEndSection": 1044, 
+            "text": "Interferon-gamma (IFN gamma), which is a potent pro-inflammatory cytokine in intestinal mucosal inflammation, activates CARD4/NOD1 mRNA transcription in a time- and dose-dependent manner and results in augmentation of CARD4/NOD1 protein in SW480 cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12813035", 
+            "endSection": "abstract"
+        }
+    ]
+}

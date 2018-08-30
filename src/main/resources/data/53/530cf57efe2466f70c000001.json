@@ -1,0 +1,104 @@
+{
+    "body": "Has depression been shown to be a predictor of frailty?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9520923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24314697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18684366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10855595", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11490597"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15575023", 
+            "o": "797"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0424594", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A15575023"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0424594", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7186488"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0424594", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17777767"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7186488", 
+            "o": "Frailty"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0424594", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7186488"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17777767", 
+            "o": "R54"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17777767", 
+            "o": "ICD-10-CM"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003866", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003863"
+    ], 
+    "type": "yesno", 
+    "id": "530cf57efe2466f70c000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1457, 
+            "offsetInEndSection": 1560, 
+            "text": "significant role of frailty as a predictor of depression in a relatively younger old Chinese population", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24314697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1246, 
+            "offsetInEndSection": 1335, 
+            "text": "significant relationships between frailty and depressive symptoms and mortality at 1 year", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18684366", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1168, 
+            "offsetInEndSection": 1367, 
+            "text": "These findings suggest that malnutrition is a major predictor of frailty or the \"failure to thrive\" syndrome in older persons. Depression is a major cause of poor nutritional status in older persons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11490597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2000, 
+            "offsetInEndSection": 2288, 
+            "text": "Depressed mood was associated with increased risk of steep strength decline, in particular in older men with low body weight. Low body weight in combination with depressed mood may be an indicator of frailty or severe disease status that leads to accelerated strength loss and disability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10855595", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1049, 
+            "offsetInEndSection": 1198, 
+            "text": "Longitudinally, depressed mood was the only independent predictor of decline in cognition, functional ability, physician-rated health, and mortality;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9520923", 
+            "endSection": "abstract"
+        }
+    ]
+}

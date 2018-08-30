@@ -1,0 +1,153 @@
+{
+    "body": "List clinical features of EEM syndrome.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25707507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10420194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11424132", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22140374", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15805154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2628819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16970031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18199584", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6302256"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0683325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18567231"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0683325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18585749"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18585749", 
+            "o": "aspects clinical"
+        }
+    ], 
+    "ideal_answer": [
+        "EEM syndrome is characterized by ectodermal dysplasia, ectrodactyly and macular dystrophy."
+    ], 
+    "exact_answer": [
+        [
+            "ectodermal dysplasia"
+        ], 
+        [
+            "ectrodactyly"
+        ], 
+        [
+            "macular dystrophy"
+        ]
+    ], 
+    "type": "list", 
+    "id": "5895e9977d9090f353000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Hypotrichosis with juvenile macular dystrophy (HJMD) and ectodermal dysplasia, ectrodactyly and macular dystrophy (EEM) are both caused by mutations in the CDH3 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22140374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 567, 
+            "text": "Loss-of-function mutations in CDH3, which encodes P-cadherin, result in two allelic autosomal recessive disorders: hypotrichosis with juvenile macular dystrophy (HJMD) and ectodermal dysplasia, ectrodactyly, and macular dystrophy (EEM) syndromes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25707507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 348, 
+            "text": "Recently, mutations in the P-cadherin gene (CDH3) have been shown to cause two inherited diseases in humans: hypotrichosis with juvenile macular dystrophy (HJMD) and ectodermal dysplasia, ectrodactyly, macular dystrophy (EEM syndrome).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18199584", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "EEM syndrome is a rare condition characterised by ectodermal dysplasia, ectrodactyly and macular dystrophy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16970031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "BACKGROUND: EEM syndrome is the rare association of ectodermal dysplasia, ectrodactyly, and macular dystrophy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15805154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Distinct CDH3 mutations cause ectodermal dysplasia, ectrodactyly, macular dystrophy (EEM syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15805154", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Ectodermal dysplasia, ectrodactyly and macular dystrophy (EEM syndrome) in siblings.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11424132", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Association of ectodermal dysplasia, ectrodactyly, and macular dystrophy: the EEM syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6302256", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Association of ectodermal dysplasia, ectrodactyly and macular dystrophy: EEM syndrome (case report).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2628819", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "EEM syndrome is the rare association of ectodermal dysplasia, ectrodactyly, and macular dystrophy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15805154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "We report a brother and sister with ectodermal dysplasia, ectrodactyly, and macular dystrophy (the EEM syndrome).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11424132", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Ectodermal dysplasia, ectrodactyly and macular dystrophy (EEM syndrome) in siblings.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11424132", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Distinct CDH3 mutations cause ectodermal dysplasia, ectrodactyly, macular dystrophy (EEM syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15805154", 
+            "endSection": "title"
+        }
+    ]
+}

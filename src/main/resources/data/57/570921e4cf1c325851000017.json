@@ -1,0 +1,94 @@
+{
+    "body": "In which genomic regions are Alu enriched?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2716062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12777511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6165649", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23420552", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11884141"
+    ], 
+    "ideal_answer": [
+        "There are regions such as the four homeobox gene clusters, which are nearly devoid of these repeats that contrast with repeat dense regions in other transcriptionally active regions of the genome. Alu elements are more clustered in genes which are involved in metabolism, transport, and signaling processes. In contrast, they are significantly fewer in genes coding for information pathway components as well as structural proteins.\nThis bias in Alu distribution is independent of the effect of Alu density of the flanking genomic region and is also not affected by the GC content of the gene and its upstream and downstream regions.", 
+        "There are regions such as the four homeobox gene clusters, which are nearly devoid of these repeats that contrast with repeat dense regions in other transcriptionally active regions of the genome."
+    ], 
+    "exact_answer": [
+        [
+            "genes which are involved in metabolism, transport, and signaling processes"
+        ], 
+        [
+            "gene conversion-prone regions"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020087"
+    ], 
+    "type": "list", 
+    "id": "570921e4cf1c325851000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 317, 
+            "text": "There are regions such as the four homeobox gene clusters, which are nearly devoid of these repeats that contrast with repeat dense regions in other transcriptionally active regions of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 664, 
+            "text": "These elements are more clustered in genes which are involved in metabolism, transport, and signaling processes. In contrast, they are significantly fewer in genes coding for information pathway components as well as structural proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 665, 
+            "offsetInEndSection": 865, 
+            "text": "This bias in Alu distribution is independent of the effect of Alu density of the flanking genomic region and is also not affected by the GC content of the gene and its upstream and downstream regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 866, 
+            "offsetInEndSection": 1078, 
+            "text": "The relative proportions of Alu subfamilies (Alu J, Alu S, and Alu Y) are not significantly different in genes with high Alu density belonging to the functional categories of transport, metabolism, and signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1199, 
+            "offsetInEndSection": 1332, 
+            "text": "We suggest that Alu elements might be involved in regulatory mechanisms and are therefore differentially selected in primate genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12832639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 449, 
+            "offsetInEndSection": 666, 
+            "text": "Sequence analysis demonstrated these \"young\" Alu insertions represented gene conversion events of pre-existing ancient Alu elements or independent parallel insertions of older Alu elements in the same genomic region. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11884141", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1049, 
+            "offsetInEndSection": 1171, 
+            "text": "This study suggests that the majority of Alu insertions in primate genomes are the products of unique evolutionary events.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11884141", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 577, 
+            "offsetInEndSection": 745, 
+            "text": "Our screening of the Alu insertion loci also resulted in the recovery of several \"young\" Alu elements that resided at orthologous positions in nonhuman primate genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12777511", 
+            "endSection": "abstract"
+        }
+    ]
+}

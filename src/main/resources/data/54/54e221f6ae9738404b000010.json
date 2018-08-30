@@ -1,0 +1,189 @@
+{
+    "body": "Describe the mechanism of action of aliskiren. ", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19183745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19895758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23355128", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20812878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23087256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20467589", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25534713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21687346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23438929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23723254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18374681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20380486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21285669", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23418282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22522051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19337534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24003484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20019471", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20019472", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19066408", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23764715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20203685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20675959", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18443751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21779913", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23174623", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22387646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19279548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21628356", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20957132"
+    ], 
+    "ideal_answer": [
+        "Aliskiren is a low-molecular-weight, orally active, hydrophilic non-peptide molecule that blocks renin and consequential angiotensin I generation. Renin inhibition interrupts the renin-angiotensin-aldosterone system (RAAS)."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4240636"
+    ], 
+    "type": "summary", 
+    "id": "54e221f6ae9738404b000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 364, 
+            "offsetInEndSection": 494, 
+            "text": "Preliminary assignment a direct renin inhibitor aliskiren enhances the diuretic, natriuretic and kaliyuretic effects of the drug. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24003484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Aliskiren: An orally active renin inhibitor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21687346", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 583, 
+            "offsetInEndSection": 748, 
+            "text": "Optimization of this compound by Novartis led to the development of aliskiren - the only direct renin inhibitor which is clinically used as an antihypertensive drug.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21687346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 815, 
+            "offsetInEndSection": 979, 
+            "text": "Aliskiren is a new renin inhibitor of a novel structural class that has recently been shown to be efficacious in hypertensive patients after once-daily oral dosing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21687346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 462, 
+            "text": "Aliskiren is a direct renin inhibitor that interrupts the renin-angiotensin-aldosterone system (RAAS) at its rate-limiting step.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21285669", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 578, 
+            "offsetInEndSection": 780, 
+            "text": "THE READER WILL GAIN: Aliskiren, the first approved renin inhibitor to reach the market, is a low-molecular-weight, orally active, hydrophilic non-peptide molecule that blocks angiotensin I generation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20812878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1414, 
+            "offsetInEndSection": 1561, 
+            "text": "TAKE HOME MESSAGE: The DRI aliskiren is an effective antihypertensive agent that preliminary data suggests has a beneficial effect in CVD and CKD. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20380486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Aliskiren is a novel molecule which blocks the renin-angiotensin-aldosterone system in its rate limiting step by renin inhibition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019472", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 291, 
+            "text": "After discovery of the first direct renin inhibitor, aliskiren, which blocks the renin-angiotensin-aldosterone system in the first rate limiting step, in addition to angiotensin-converting enzymes (ACE) and angiotensin-receptor blockers (ARB), renin has become an important target nowadays. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019471", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Aliskiren, the first orally effective direct renin inhibitor, is an effective antihypertensive agent with distinctive properties including placebo-like tolerability, pharmacologic effects that persist after drug discontinuation, and a unique mechanism of action.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19895758", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 873, 
+            "text": "Aliskiren, the first direct renin inhibitor to reach the market, is a low-molecular-weight, orally active, hydrophilic nonpeptide. Aliskiren blocks Ang I generation, while plasma renin concentration increases because the drugs blocks the negative feed-back exerted by Ang II on renin synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19183745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Pharmacokinetics and pharmacodynamics of aliskiren, an oral direct renin inhibitor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19066408", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 267, 
+            "text": "One drug that emerged from this effort is aliskiren, a direct human renin inhibitor that blocks the conversion of angiotensinogen to angiotensin I (Ang I).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19066408", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 875, 
+            "offsetInEndSection": 1111, 
+            "text": "With its unique mechanism of action, combining aliskiren with another RAAS-blocking agent that has a different mechanism of action may provide more comprehensive blockade of the RAAS, potentially conferring additional clinical benefits.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21285669", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 415, 
+            "offsetInEndSection": 561, 
+            "text": "In the ALTITUDE trial the use of the direct renin inhibitor, aliskiren, was associated with hypotensive episodes and an excess of ischaemic stroke", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23418282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 222, 
+            "text": "Renin is the rate limiting enzyme of the RAAS and aliskiren is a highly potent and selective inhibitor of the human renin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25534713", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 243, 
+            "text": "Aliskiren, the first direct renin inhibitor to be approved for the treatment of hypertension, blocks the RAAS at its point of activation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20203685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 875, 
+            "offsetInEndSection": 1110, 
+            "text": "With its unique mechanism of action, combining aliskiren with another RAAS-blocking agent that has a different mechanism of action may provide more comprehensive blockade of the RAAS, potentially conferring additional clinical benefits", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21285669", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "body": "Where is the protein slitrk1 localized?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25379384", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21315458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22703893", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27273464"
+    ], 
+    "ideal_answer": [
+        "Slitrk1 is enriched in postsynaptic fractions and is localized to excitatory synapses. "
+    ], 
+    "type": "summary", 
+    "id": "58a87bd338c171fb5b000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 43, 
+            "text": "Slitrk1 is localized to excitatory synapses", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27273464", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 500, 
+            "offsetInEndSection": 587, 
+            "text": " Slitrk1 is enriched in postsynaptic fractions and is localized to excitatory synapses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27273464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 587, 
+            "offsetInEndSection": 655, 
+            "text": " The porcine SLITRK1 gene is expressed exclusively in brain tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25379384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 226, 
+            "text": "Six family members exist (Slitrk1-6) and all are highly expressed in the central nervous system (CNS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21315458", 
+            "endSection": "abstract"
+        }
+    ]
+}

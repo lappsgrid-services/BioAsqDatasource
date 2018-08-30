@@ -1,0 +1,263 @@
+{
+    "body": "Which are the triad symptoms of pheochromocytoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23513638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8302154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12584992", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27034920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24059371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1988766", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19497985", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17102071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12002199", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20169139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12814824", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21125743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24382904", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22980466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18206604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1867186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22953071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26998444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21226896", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16789642"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076994", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18632370"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18632370", 
+            "o": "triad"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076994", 
+            "o": "triad"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0031511", 
+            "o": "Pheochromocytoma"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0031511", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0486392"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0486392", 
+            "o": "pheochromocytoma"
+        }
+    ], 
+    "ideal_answer": [
+        "The classic triad of symptoms are episodic headache, excessive sweating (diaphoresis) and palpitation."
+    ], 
+    "exact_answer": [
+        [
+            "headache"
+        ], 
+        [
+            "excessive sweating", 
+            "diaphoresis"
+        ], 
+        [
+            "palpitation"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010673"
+    ], 
+    "type": "list", 
+    "id": "58da5b588acda34529000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 2236, 
+            "offsetInEndSection": 2403, 
+            "text": "Diaphoresis (LR+ 2.2, LR- 0.45), Palpitation (LR+ 1.9, LR- 0.52) and headache (LR+ 1.6, LR- 0.24) were significant symptoms in clinical diagnosis of pheochromocytoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27034920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 931, 
+            "text": "In the 52 cases analyzed, 40 of the patients had symptoms: 31 patients had hypertension; 10 had the triad of palpitations, diaphoresis, and headaches; and all had elevated urinary metanephrine concentrations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24059371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 192, 
+            "offsetInEndSection": 322, 
+            "text": " The symptoms and signs of pheochromocytoma include the classic triad of episodic headache, increased sweating, and palpitations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23513638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 543, 
+            "text": "Among the presenting symptoms, episodes of palpitations, headaches, and profuse sweating are typical and constitute a classic triad.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22953071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 183, 
+            "text": "The classic triad of symptoms are episodic headache, excessive sweating and palpitation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21125743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 192, 
+            "offsetInEndSection": 320, 
+            "text": "The symptoms and signs of pheochromocytoma include the classic triad of episodic headache, increased sweating, and palpitations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23513638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 830, 
+            "offsetInEndSection": 1065, 
+            "text": "Combinations of symptoms can be of value: 2 or more symptoms from the triad of headache, palpitations, and diaphoresis were present in the majority of pheochromocytoma patients, but in a smaller number of non-pheochromocytoma patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1988766", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 320, 
+            "text": "The symptoms and signs of pheochromocytoma include the classic triad of episodic headache, increased sweating, and palpitations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23513638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 67, 
+            "offsetInEndSection": 411, 
+            "text": "Pheochromocytoma in pregnancy is rare, and if unrecognized, can cause serious perinatal morbidity and mortality.A patient with severe hypertension, postpartum pulmonary edema, and a recognized pheochromocytoma is described.Abdominal palpation after vaginal childbirth reproduced the diagnostic triad of hypertension, headaches, and palpitations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12002199", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 836, 
+            "offsetInEndSection": 1070, 
+            "text": "Combinations of symptoms can be of value: 2 or more symptoms from the triad of headache, palpitations, and diaphoresis were present in the majority of pheochromocytoma patients, but in a smaller number of non-pheochromocytoma patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1988766", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 457, 
+            "text": "Although hypertension, headache, and diaphoresis are common symptoms in a dialyzed patient, pheochromocytoma has to be eliminated in the presence of this clinical triad", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1867186", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 538, 
+            "text": "Pheochromocytomas are catecholamine producing tumors that classically present with the triad of sweating, palpitations and headache.9-year-old boy whose only presenting complaints were polyuria and polydipsia for 2 years.Routine measurement of blood pressure detected mild hypertension, and subsequent investigations revealed bilateral pheochromocytoma.Surgical removal of the tumors resulted in complete resolution of polyuria and polydipsia.The case highlights the importance of measuring BP for children as part of physical examination", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24382904", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 321, 
+            "text": "The symptoms and signs of pheochromocytoma include the classic triad of episodic headache, increased sweating, and palpitations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23513638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 458, 
+            "text": "Although hypertension, headache, and diaphoresis are common symptoms in a dialyzed patient, pheochromocytoma has to be eliminated in the presence of this clinical triad.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1867186", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 836, 
+            "offsetInEndSection": 1071, 
+            "text": "Combinations of symptoms can be of value: 2 or more symptoms from the triad of headache, palpitations, and diaphoresis were present in the majority of pheochromocytoma patients, but in a smaller number of non-pheochromocytoma patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1988766", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 680, 
+            "offsetInEndSection": 888, 
+            "text": "In the 52 cases analyzed, 40 of the patients had symptoms: 31 patients had hypertension; 10 had the triad of palpitations, diaphoresis, and headaches; and all had elevated urinary metanephrine concentrations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24059371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 182, 
+            "text": "The classic triad of symptoms are episodic headache, excessive sweating and palpitation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21125743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 1149, 
+            "text": "The clinical symptoms of these tumors vary from isolated hypertension or hypertension accompanied by paroxysmal episodes -including the classical triad of headache, palpitations and diaphoresis-to potentially serious manifestations such as acute pulmonary edema, arrhythmias and sudden death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22980466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 841, 
+            "text": "A very few symptoms were specific, like the triad \"headaches, sweating, palpitations\" whose onlyone third of patients was concerned by.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12814824", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 63, 
+            "offsetInEndSection": 142, 
+            "text": "Classically, a triad of symptoms includes sweating, palpitations, and headache.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17102071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 307, 
+            "offsetInEndSection": 425, 
+            "text": "The triad of diaphoresis, tachycardia, and headache in hypertensive patients is highly suggestive of pheochromocytoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8302154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 708, 
+            "offsetInEndSection": 843, 
+            "text": "A very few symptoms were specific, like the triad \"headaches, sweating, palpitations\" whose onlyone third of patients was concerned by.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12814824", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3501, 
+            "offsetInEndSection": 3696, 
+            "text": "We noticed, like others, when the triad of headache, sweating and palpitations is accompanied by hypertension, the diagnosis of pheochromocytoma can be made with specify and sensitivity over 93%.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12584992", 
+            "endSection": "abstract"
+        }
+    ]
+}

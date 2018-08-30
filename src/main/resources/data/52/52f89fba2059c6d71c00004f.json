@@ -1,0 +1,46 @@
+{
+    "body": "Can DMSO as an additive improve proteomic analysis results?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18393531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18926777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23975139"
+    ], 
+    "ideal_answer": [
+        "Quantitative precisions improved significantly when DMSO (dimethylsulfoxide) was added to the matrix solution.\nIntroducing to the 80% formic acid injection solution an organic solvent such as acetonitrile or acetonitrile-DMSO induced further retention selectivity, and increasing levels of organic solvents reduced on-column retention.\nLow percentages of dimethylsulfoxide (DMSO) in liquid chromatography solvents lead to a strong enhancement of electrospray ionization of peptides, improving the sensitivity of protein identification in bottom-up proteomics by up to tenfold.", 
+        "Llow percentages of dimethylsulfoxide (DMSO) in liquid chromatography solvents lead to a strong enhancement of electrospray ionization of peptides, improving the sensitivity of protein identification in bottom-up proteomics by up to tenfold. Additionally, the presence of DMSO in the sample allow the retention time selectivity of the peptides."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020543", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004121", 
+        "http://www.biosemantics.org/jochem#4275915"
+    ], 
+    "type": "summary", 
+    "id": "52f89fba2059c6d71c00004f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 821, 
+            "text": "Introducing to the 80% formic acid injection solution an organic solvent such as acetonitrile or acetonitrile-DMSO induced further retention selectivity, and increasing levels of organic solvents reduced on-column retention.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18926777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 256, 
+            "text": "We report that low percentages of dimethylsulfoxide (DMSO) in liquid chromatography solvents lead to a strong enhancement of electrospray ionization of peptides, improving the sensitivity of protein identification in bottom-up proteomics by up to tenfold. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23975139", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 464, 
+            "text": "We found that the quantitative precisions improved significantly when DMSO (dimethylsulfoxide) was added to the matrix solution.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18393531", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "body": "What is the functionality of the Triplex R/bioconductor package?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23709494"
+    ], 
+    "ideal_answer": [
+        "Triplex is an R/Bioconductor package for identification and visualization of potential intramolecular triplex patterns in DNA sequences. The package provides functions that can be used to search Bioconductor genomes and other DNA sequence data for occurrence of nucleotide patterns capable of forming intramolecular triplexes (H-DNA). Functions producing 2D and 3D diagrams of the identified triplexes allow instant visualization of the search results. Leveraging the power of Biostrings and GRanges classes, the results get fully integrated into the existing Bioconductor framework, allowing their passage to other Genome visualization and annotation packages, such as GenomeGraphs, rtracklayer or Gviz."
+    ], 
+    "type": "summary", 
+    "id": "56d1ddd267f0cb3d66000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Triplex: an R/Bioconductor package for identification and visualization of potential intramolecular triplex patterns in DNA sequences.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23709494", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 258, 
+            "offsetInEndSection": 829, 
+            "text": "The new package provides functions that can be used to search Bioconductor genomes and other DNA sequence data for occurrence of nucleotide patterns capable of forming intramolecular triplexes (H-DNA). Functions producing 2D and 3D diagrams of the identified triplexes allow instant visualization of the search results. Leveraging the power of Biostrings and GRanges classes, the results get fully integrated into the existing Bioconductor framework, allowing their passage to other Genome visualization and annotation packages, such as GenomeGraphs, rtracklayer or Gviz.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23709494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 579, 
+            "text": "RESULTS: We combined a previously published implementation of a triplex DNA search algorithm with visualization to create a versatile R/Bioconductor package 'triplex'. The new package provides functions that can be used to search Bioconductor genomes and other DNA sequence data for occurrence of nucleotide patterns capable of forming intramolecular triplexes (H-DNA). Functions producing 2D and 3D diagrams of the identified triplexes allow instant visualization of the search results. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23709494", 
+            "endSection": "abstract"
+        }
+    ]
+}

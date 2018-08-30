@@ -1,0 +1,285 @@
+{
+    "body": "Is Calcium homeostasis important in cardiac physiology and pathophysiology?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23595672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21750914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22137362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24657282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19678847", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22707075", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23554644", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17517353", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7889444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22733365", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22673935", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17353151", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18172603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20875630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17509680", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20347784", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21614516"
+    ], 
+    "ideal_answer": [
+        "Calcium homeostasis is very important in cardiac physiology and pathophysiology. Maintenance of cellular calcium homeostasis is critical to regulating  cardiac contraction. Abnormalities in calcium homeostasis underlie cardiac arrhythmia, contractile dysfunction and cardiac remodelling."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003301", 
+        "http://www.biosemantics.org/jochem#4277675", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0055074", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042592"
+    ], 
+    "type": "yesno", 
+    "id": "54c26e29f693c3b16b000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Maintenance of cellular calcium homeostasis is critical to regulating mitochondrial ATP production and cardiac contraction. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24657282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1520, 
+            "offsetInEndSection": 1753, 
+            "text": "the Ca(2+) signal regulates the most important activities of the cell, from the expression of genes, to heart and muscle contraction and other motility processes, to diverse metabolic pathways involved in the generation of cell fuels", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23595672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Pharmacologic modification of cellular calcium handling recently moved into focus as an alternative for prevention and treatment of ventricular tachyarrhythmias", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673935", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1128, 
+            "offsetInEndSection": 1472, 
+            "text": "diabetic rats displayed abnormal cardiac structure and systolic and diastolic dysfunction, and spermine (CaSR agonist) could prevent or slow its progression. These results indicate that the CaSR expression of myocardium is reduced in the progress of DCM, and its potential mechanism is related to the impaired intracellular calcium homeostasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22137362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 37, 
+            "offsetInEndSection": 68, 
+            "text": "calcium-sensing receptor (CaSR)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22137362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Na(+)/Ca(2+) exchanger (NCX) plays important roles in cardiac electrical activity and calcium homeostasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21750914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 321, 
+            "text": "NCX current (I(NCX)) shows transmural gradient across left ventricle in many species. Previous studies demonstrated that NCX expression was increased and transmural gradient of I(NCX) was disrupted in failing heart", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21750914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 298, 
+            "text": "calcium homeostasis, the key process underlying excitation-contraction coupling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21614516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2057, 
+            "offsetInEndSection": 2186, 
+            "text": "The results indicate the calcium handling properties of hiPSC-derived cardiomyocytes are relatively immature to hESC counterparts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21614516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 495, 
+            "text": "Our understanding of the molecular processes which regulate cardiac function has grown immeasurably in recent years. Even with the advent of \u03b2-blockers, angiotensin inhibitors and calcium modulating agents, heart failure (HF) still remains a seriously debilitating and life-threatening condition. Here, we review the molecular changes which occur in the heart in response to increased load and the pathways which control cardiac hypertrophy, calcium homeostasis, and immune activation during HF.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20875630", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 238, 
+            "text": "Calcium-sensing receptors (CaSRs) are G-protein coupled receptors which maintain systemic calcium homeostasis and participate in hormone secretion, activation of ion channels, cell apoptosis, proliferation, and differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23554644", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1389, 
+            "offsetInEndSection": 1540, 
+            "text": "CaSRs are associated with I/R injury and apoptosis in neonatal rat ventricular cardiomyocytes via suppressing Bcl-2 and promoting caspase-3 expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23554644", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 533, 
+            "text": "Important insights into the molecular basis of hypertrophic cardiomyopathy and related diseases have been gained by studying families with inherited cardiac hypertrophy. Integrated clinical and genetic investigations have demonstrated that different genetic defects can give rise to the common phenotype of cardiac hypertrophy. Diverse pathways have been identified, implicating perturbations in force generation, force transmission, intracellular calcium homeostasis, myocardial energetics, and cardiac metabolism in causing disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20347784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 407, 
+            "text": "HAX-1 as a regulator of contractility and calcium cycling in the heart. HAX-1 overexpression reduced sarcoplasmic reticulum Ca-ATPase (SERCA2) pump activity in isolated cardiomyocytes and in vivo, leading to depressed myocyte calcium kinetics and mechanics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 917, 
+            "offsetInEndSection": 1104, 
+            "text": "Thus, HAX-1 represents a regulatory mechanism in cardiac calcium cycling and its responses to sympathetic stimulation, implicating its importance in calcium homeostasis and cell survival.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "Calcium ions are the most ubiquitous and versatile signaling molecules in eukaryotic cells. Calcium homeostasis and signaling systems are crucial for both the normal growth of the budding yeast Saccharomyces cerevisiae and the intricate working of the mammalian heart.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19678847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1233, 
+            "text": "this knowledge can be used to help treat relevant human diseases such as pathological cardiac hypertrophy and heart failure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19678847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 373, 
+            "text": "With aging, the heart develops myocyte hypertrophy associated with impaired relaxation indices. To define the cellular basis of this adaptation, we examined the physiological changes that arise in calcium handling in the aging heart and contrasted the adaptations that occur following the imposition of a stimulus that alters calcium homeostasis in a young and an old heart", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18172603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1306, 
+            "offsetInEndSection": 1489, 
+            "text": "alterations in the calcium-handling machinery of the cardiocyte differ in the context of age and as such may predispose the older heart to the development of a hypertrophic phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18172603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 142, 
+            "text": "The cardiac sodium-calcium exchanger (NCX1) is a key sarcolemmal protein for the maintenance of calcium homeostasis in the heart. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17517353", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1302, 
+            "offsetInEndSection": 1435, 
+            "text": "Thus exchanger overexpression in mice leads to abnormal calcium handling and a decompensatory transition to heart failure with stress", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17517353", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 472, 
+            "text": "Central to controlling intracellular calcium concentration ([Ca(2+)](i)) are a number of Ca(2+) transporters and channels with the L-type Ca(2+) channel, Na(+)-Ca(2+) exchanger and sarcoplasmic reticulum Ca(2+)-ATPase (SERCA) being of particular note in the heart. This review concentrates on the regulation of [Ca(2+)](i) in cardiac muscle and the homeostatic mechanisms employed to ensure that the heart can operate under steady-state conditions on a beat by beat basis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17509680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1121, 
+            "offsetInEndSection": 1480, 
+            "text": "the tight regulation of SR Ca(2+) content is also required to prevent the abnormal, spontaneous or diastolic release of Ca(2+) from the SR. Such diastolic events are a major factor contributing to the genesis of cardiac arrhythmias in disease situations and in recently identified familial mutations in the SR Ca(2+) release channel (ryanodine receptor, RyR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17509680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 56, 
+            "offsetInEndSection": 570, 
+            "text": "Calcium channels have a unique functional role, because not only do they participate in this activity, they form the means by which electrical signals are converted to responses within the cell. Calcium channels play an integral role in excitation in the heart and shaping the cardiac action potential. In addition, calcium influx through calcium channels is responsible for initiating contraction. Abnormalities in calcium homeostasis underlie cardiac arrhythmia, contractile dysfunction and cardiac remodelling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17353151", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Cardiac calcium (Ca(2+)) handling subsumes the mechanisms maintaining the myocardial Ca(2+) homeostasis that contribute essentially to cardiac performance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22707075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Calcium is an important mediator in cardiac excitation and disorders in cardiac Ca(2+) homeostasis have great influence on the cardiac action potential.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22733365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 778, 
+            "text": "We review the physiology of the cardiac calcium homeostasis, including the cardiac excitation contraction coupling and myocyte calcium cycling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19068246", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 777, 
+            "text": "We review the physiology of the cardiac calcium homeostasis, including the cardiac excitation contraction coupling and myocyte calcium cycling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19068246", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Calcium is an important mediator in cardiac excitation and disorders in cardiac Ca(2+) homeostasis have great influence on the cardiac action potential", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22733365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1397, 
+            "offsetInEndSection": 1576, 
+            "text": "The role of calcium in cardiac and vascular smooth muscle physiology was reviewed, highlighting the major mechanisms responsible for maintaining calcium homeostasis in these cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7889444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Energy metabolism and Ca(2+) handling serve critical roles in cardiac physiology and pathophysiology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20457122", 
+            "endSection": "abstract"
+        }
+    ]
+}

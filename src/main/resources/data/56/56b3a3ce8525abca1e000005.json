@@ -1,0 +1,145 @@
+{
+    "body": "List proteins of lipids droplets", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23204327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18202123", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21420243", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24036367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19717842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19748893", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15731108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20870251"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "PLIN1_HUMAN"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "http://linkedlifedata.com/resource/#_4F363032343000B"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "http://linkedlifedata.com/resource/#_4F363032343000C"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F363032343000B", 
+            "o": "Perilipin-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F363032343000C", 
+            "o": "Lipid droplet-associated protein"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "PLIN_RAT"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "http://linkedlifedata.com/resource/#_503433383834009"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503433383834009", 
+            "o": "Lipid droplet-associated protein"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503433383834008", 
+            "o": "Perilipin-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "http://linkedlifedata.com/resource/#_503433383834008"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "PERL_RAT"
+        }
+    ], 
+    "ideal_answer": [
+        "perilipins\nadipose differentiation-related protein\nlipid storage droplet protein 5 \ntail-interacting protein of 47 kilodaltons \nS3-12"
+    ], 
+    "exact_answer": [
+        [
+            "perilipins"
+        ], 
+        [
+            "adipose differentiation-related protein", 
+            "ADFP"
+        ], 
+        [
+            "LSDP5", 
+            "lipid storage droplet protein 5"
+        ], 
+        [
+            "tail-interacting protein of 47 kilodaltons", 
+            "TIP47"
+        ], 
+        [
+            "S3-12"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56b3a3ce8525abca1e000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 690, 
+            "text": "The perilipins are a multi-protein family that targets lipid droplet surfaces and regulates lipid storage and hydrolysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24036367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1264, 
+            "offsetInEndSection": 1364, 
+            "text": "or the abundance of the lipid droplet coat proteins (perilipins 2, 3, 4, and 5) between treatments. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20870251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "This study investigated the lipid droplet coat proteins perilipin 1 (PLIN1) and perilipin 2 (PLIN2) localization in pig skeletal muscle and their relationship with intramuscular fat (IMF) content.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21420243", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 587, 
+            "text": "Lipid droplets of mammalian cells are coated with one or more members of the PAT protein family, which serve important functions in regulating lipolysis. In this study, we investigate the mechanisms by which PAT family members, perilipin A, adipose differentiation-related protein (ADFP), and LSDP5, control lipolysis catalyzed by hormone-sensitive lipase (HSL), a major lipase in adipocytes and several non-adipose cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19717842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 257, 
+            "offsetInEndSection": 640, 
+            "text": "The coordination of lipid storage and utilization is regulated by the perilipin family of lipid droplet coat proteins [perilipin, adipophilin/adipocyte differentiation-related protein (ADRP), S3-12, tail-interacting protein of 47 kilodaltons (TIP47), and myocardial lipid droplet protein (MLDP)/oxidative tissues-enriched PAT protein (OXPAT)/lipid storage droplet protein 5 (LSDP5)].", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18202123", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 523, 
+            "text": " Perilipin is a member of the evolutionarily related family of PAT proteins (Perilipin, Adipophilin, TIP47), which is defined by sequence similarity and association with lipid droplets. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15731108", 
+            "endSection": "abstract"
+        }
+    ]
+}

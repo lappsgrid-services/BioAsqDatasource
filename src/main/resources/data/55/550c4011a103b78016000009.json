@@ -1,0 +1,152 @@
+{
+    "body": "Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22232559", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15834418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18562315", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11813001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23314528", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23567651"
+    ], 
+    "ideal_answer": [
+        "Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinson's disease patients where it mainly accumulates in the Lewy bodiesApproximately 90% of \u03b1-syn deposited in Lewy bodies is phosphorylated at serine 129 (Ser129). In contrast, only 4% or less of total \u03b1-syn is phosphorylated at this residue in the normal brain. This suggests that the accumulation of Ser129-phosphorylated \u03b1-syn leads to the formation of Lewy bodies and dopaminergic neurodegeneration in Parkinson's disease", 
+        "Alpha-synuclein is phosphorylated at serine 129 (Ser129) in intracellular protein aggregates called Lewy bodies, which are characteristic pathologic lesions of Parkinson disease.", 
+        "Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinsons disease patients where it mainly accumulates in the Lewy bodies", 
+        "Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinson s disease patients where it mainly accumulates in the Lewy bodies  "
+    ], 
+    "exact_answer": [
+        "Serine 129"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SYUA_SERCA", 
+        "http://www.uniprot.org/uniprot/SYUA_MOUSE", 
+        "http://www.uniprot.org/uniprot/SYUA_PANPA", 
+        "http://www.uniprot.org/uniprot/SYUA_ERYPA", 
+        "http://www.uniprot.org/uniprot/SYUA_GORGO", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016310", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12217", 
+        "http://www.uniprot.org/uniprot/SYUA_ATEGE", 
+        "http://www.uniprot.org/uniprot/SYUA_RAT", 
+        "http://www.uniprot.org/uniprot/SYUA_PONAB", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051844", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020961", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016631", 
+        "http://www.uniprot.org/uniprot/SYUA_MACMU"
+    ], 
+    "type": "factoid", 
+    "id": "550c4011a103b78016000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Alpha-synuclein phosphorylated at serine 129 (S129) is highly elevated in Parkinson's disease patients where it mainly accumulates in the Lewy bodies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23567651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 294, 
+            "offsetInEndSection": 649, 
+            "text": "Approximately 90% of \u03b1-syn deposited in Lewy bodies is phosphorylated at serine 129 (Ser129). In contrast, only 4% or less of total \u03b1-syn is phosphorylated at this residue in the normal brain. This suggests that the accumulation of Ser129-phosphorylated \u03b1-syn leads to the formation of Lewy bodies and dopaminergic neurodegeneration in Parkinson's disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 198, 
+            "text": "Alpha-synuclein is phosphorylated at serine 129 (Ser129) in intracellular protein aggregates called Lewy bodies. These inclusion bodies are the characteristic pathologic lesions of Parkinson disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15834418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Alpha-synuclein is phosphorylated at serine 129 (Ser129) in intracellular protein aggregates called Lewy bodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15834418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "\ufffd-Synuclein is causative for autosomal dominant familial Parkinson disease and dementia with Lewy bodies, and the phosphorylation of \ufffd-synuclein at residue Ser-129 is a key posttranslational modification detected in Parkinson disease/dementia with Lewy bodies lesions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22232559", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 710, 
+            "offsetInEndSection": 939, 
+            "text": "Here, we show by mass spectrometry analysis and studies with an antibody that specifically recognizes phospho-Ser 129 of alpha-synuclein, that this residue is selectively and extensively phosphorylated in synucleinopathy lesions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11813001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 940, 
+            "text": "Here, we show by mass spectrometry analysis and studies with an antibody that specifically recognizes phospho-Ser 129 of alpha-synuclein, that this residue is selectively and extensively phosphorylated in synucleinopathy lesions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11813001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "alpha-Synuclein is a major protein component deposited in Lewy bodies and Lewy neurites that is extensively phosphorylated at Ser(129), although its role in neuronal degeneration is still elusive.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18562315", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1563, 
+            "offsetInEndSection": 1802, 
+            "text": "These observations are most consistent with a model in which preferential accumulation of normally produced Ser-129 phosphorylated alpha-synuclein is the key event responsible for the formation of Lewy bodies in various Lewy body diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16847063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 304, 
+            "offsetInEndSection": 406, 
+            "text": "The predominant modification of alpha-synuclein in Lewy bodies is a single phosphorylation at Ser-129.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16847063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 390, 
+            "text": "Approximately 90% of \u00ce\u00b1-syn deposited in Lewy bodies is phosphorylated at serine 129 (Ser129).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 491, 
+            "offsetInEndSection": 655, 
+            "text": "This suggests that the accumulation of Ser129-phosphorylated \u00ce\u00b1-syn leads to the formation of Lewy bodies and dopaminergic neurodegeneration in Parkinson's disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23314528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 939, 
+            "text": "Here, we show by mass spectrometry analysis and studies with an antibody that specifically recognizes phospho-Ser 129 of alpha-synuclein, that this residue is selectively and extensively phosphorylated in synucleinopathy lesions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11813001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Alpha-synuclein is phosphorylated at serine 129 (Ser129) in intracellular protein aggregates called Lewy bodies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15834418", 
+            "endSection": "abstract"
+        }
+    ]
+}

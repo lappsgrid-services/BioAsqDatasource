@@ -1,0 +1,338 @@
+{
+    "body": "Is there any association of the chromosomal region harboring the gene ITIH3 with schizophrenia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22614287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24373612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25136889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25414627", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24618187", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24461634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21926972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21926974"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/P56652", 
+            "o": "http://linkedlifedata.com/resource/#_5035363635320014"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5035363635320011", 
+            "o": "Inter-alpha-inhibitor heavy chain 3"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5035363635320014", 
+            "o": "ITIH3"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5035363635320011", 
+            "o": "ITI-HC3"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5035363635320011", 
+            "o": "Inter-alpha-trypsin inhibitor heavy chain H3"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5035363635320011", 
+            "o": "ITI heavy chain H3"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11649840", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11649841", 
+            "o": "H3P"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17763944", 
+            "o": "ITIH3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16692007", 
+            "o": "pre-alpha (globulin) inhibitor, H3 polypeptide"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12006059"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6901933", 
+            "o": "ITIH3 gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12006059", 
+            "o": "INTER-ALPHA-TRYPSIN INHIBITOR, HEAVY CHAIN 3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11649841"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16692008"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17748015"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11649840", 
+            "o": "inter-alpha (globulin) inhibitor H3"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16692007"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17763944"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11948666"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17748015"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16692008", 
+            "o": "inter-alpha-trypsin inhibitor heavy chain H3"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6901933"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11649840"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11649841", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16692007", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16692008", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17748015", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17763944", 
+            "o": "6168"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0063693", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1453112"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11866112", 
+            "o": "Inter alpha trypsin inhibitor"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6956473", 
+            "o": "inter-alpha-trypsin inhibitor, heavy chain"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0195956", 
+            "o": "inter-alpha-inhibitor"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453112", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7833732"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453112", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6970526"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6956403", 
+            "o": "SHAP protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7833732", 
+            "o": "ITIH3 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453112", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7833732"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0235686", 
+            "o": "Trypsin inhibitor, inter-alpha-"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6988771", 
+            "o": "pre-alpha (globulin) inhibitor, H3 polypeptide, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6970526", 
+            "o": "Inter-alpha-inhibitor heavy chain 3 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453112", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6988771"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0195957", 
+            "o": "inter-alpha-trypsin inhibitor"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R115190989", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1416508"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1416508", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R109169453"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, genome-wide significant associations in schizophrenia has been linked to the locus harboring the ITIH3/4 genes."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:1229", 
+        "http://www.uniprot.org/uniprot/ITIH3_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012559", 
+        "http://www.uniprot.org/uniprot/ITIH3_RABIT", 
+        "http://www.biosemantics.org/jochem#4252946", 
+        "http://www.uniprot.org/uniprot/ITIH3_PONAB", 
+        "http://www.disease-ontology.org/api/metadata/DOID:5419", 
+        "http://www.uniprot.org/uniprot/ITIH3_MESAU"
+    ], 
+    "type": "yesno", 
+    "id": "54d63d873706e89528000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 807, 
+            "offsetInEndSection": 1000, 
+            "text": "The most widely shared subset of genes-common to five of six disorders-included ANK3, AS3MT, CACNA1C, CACNB2, CNNM2, CSMD1, DPCR1, ITIH3, NT5C2, PPP1R11, SYNE1, TCF4, TENM4, TRIM26, and ZNRD1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25414627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Genome-wide significant associations in schizophrenia to ITIH3/4, CACNA1C and SDCCAG8, and extensive replication of associations reported by the Schizophrenia PGC.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22614287", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 852, 
+            "offsetInEndSection": 1053, 
+            "text": "After combining the new schizophrenia data with those of the PGC, variants at three loci (ITIH3/4, CACNA1C and SDCCAG8) that had not previously been GWS in schizophrenia attained that level of support.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22614287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 916, 
+            "offsetInEndSection": 1195, 
+            "text": "In a joint analysis with a bipolar disorder sample (16,374 affected individuals and 14,044 controls), three loci reached genome-wide significance: CACNA1C (rs4765905, P = 7.0 \u00d7 10(-9)), ANK3 (rs10994359, P = 2.5 \u00d7 10(-8)) and the ITIH3-ITIH4 region (rs2239547, P = 7.8 \u00d7 10(-9)).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21926974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 728, 
+            "offsetInEndSection": 901, 
+            "text": "Finally, a combined GWAS analysis of schizophrenia and bipolar disorder yielded strong association evidence for SNPs in CACNA1C and in the region of NEK4-ITIH1-ITIH3-ITIH4. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21926972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "A recent genome-wide analysis indicated that a polymorphism (rs2535629) of ITIH3 showed the strongest association signal with susceptibility to psychiatric disorders in Caucasian populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24373612", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1336, 
+            "text": "We detected a novel association between suicide attempt and the ITIH3/4-region in a combined group of patients with BD, SCZ and related psychosis spectrum disorders. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24461634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 908, 
+            "offsetInEndSection": 1221, 
+            "text": "These include variations in chromosomal structure at 16p11.2, rare de novo point mutations at the gene SCN2A, and common single nucleotide polymorphisms (SNPs) mapping near loci encoding the genes ITIH3, AS3MT, CACNA1C and CACNB2. These selected examples point to the challenges to current diagnostic approaches. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24618187", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1073, 
+            "offsetInEndSection": 1271, 
+            "text": "STAB1 is located in close proximity to PBMR1 and the NEK4-ITIH1-ITIH3-ITIH4 region, which are the top findings from GWAS meta-analyses of mood disorder, and a combined BD and schizophrenia data set.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25136889", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1364, 
+            "offsetInEndSection": 1499, 
+            "text": "Our findings suggest that rs2535629 influences the susceptibility to psychiatric disorders by affecting the expression level of GLT8D1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24373612", 
+            "endSection": "abstract"
+        }
+    ]
+}

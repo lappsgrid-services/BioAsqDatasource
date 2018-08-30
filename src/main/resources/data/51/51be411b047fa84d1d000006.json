@@ -1,0 +1,76 @@
+{
+    "body": "Which are currently available software tools for detecting rare codon clusters in coding sequences?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18923675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18457591", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22467916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10689191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22199385", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20167116"
+    ], 
+    "ideal_answer": [
+        "Rare codon clusters (RCCs) correspond to regions along mRNA sequences where among the possible choices of synonymous codons those  with lower usage are observed. Due to the fact that relative codon frequencies have been shown to correlate with their cognate tRNA frequencies, RCCs indicate possible translational attenuation sites. A few tools specific for this task have been described in the literature, namely: LaTcOm, %MinMax, PAUSE, Sherlocc, Sliding Window (RiboTempo)"
+    ], 
+    "exact_answer": [
+        [
+            "LaTcOm"
+        ], 
+        [
+            "%MinMax"
+        ], 
+        [
+            "PAUSE"
+        ], 
+        [
+            "Sherlocc"
+        ], 
+        [
+            "Sliding Window", 
+            "RiboTempo"
+        ]
+    ], 
+    "type": "list", 
+    "id": "51be411b047fa84d1d000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 631, 
+            "offsetInEndSection": 755, 
+            "text": "Our program Sherlocc, detects statistically relevant conserved rare codon clusters and produces a user-friendly HTML output.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22467916", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "LaTcOm: a web server for visualizing rare codon clusters in coding sequences", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22199385", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 133, 
+            "text": "We present LaTcOm, a new web tool, which offers several alternative methods for 'rare codon cluster' (RCC) identification", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22199385", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 485, 
+            "text": "three RCC detection schemes are implemented: the recently described %MinMax algorithm and a simplified sliding window approach, along with a novel modification of a linear-time algorithm for the detection of maximally scoring subsequences tailored to the RCC detection problem", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22199385", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 403, 
+            "text": "The PAUSE software has been developed as a new tool to study translational control over protein targeting. This makes it possible to correlate the position of clusters of rare codons in a gene, predicted to cause a translational pause, with the position of hydrophobic stretches in the encoded protein, predicted to span a membrane or to act as a cleavable signal for targeting to the secretory pathway.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10689191", 
+            "endSection": "sections.0"
+        }
+    ]
+}

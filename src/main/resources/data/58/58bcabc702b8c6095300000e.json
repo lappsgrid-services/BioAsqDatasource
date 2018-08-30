@@ -1,0 +1,95 @@
+{
+    "body": "What gene is mutated in Sickle Cell Anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27802215", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27814292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17662889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1301951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11172667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20886046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8745433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6310991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7624311"
+    ], 
+    "ideal_answer": [
+        "Sickle cell anemia (SCA) is an autosomal recessive disease caused by by the HBB:c.20A>T mutation that leads to hemoglobin S synthesis.", 
+        " sca patients present clinical and hematologic variability that cannot be only explained by the single mutation in the beta-globin gene."
+    ], 
+    "exact_answer": [
+        "HBB"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000755", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006451", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10923", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012805"
+    ], 
+    "type": "factoid", 
+    "id": "58bcabc702b8c6095300000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 204, 
+            "text": "Sickle cell anemia (SCA) is an inherited blood disorder. SCA patients present clinical and hematologic variability that cannot be only explained by the single mutation in the beta-globin gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27802215", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Sickle cell anemia (SCA) is an autosomal recessive disease caused by the HBB:c.20A>T mutation that leads to hemoglobin S synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27814292", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Sickle cell anemia is caused by a single type of mutation, a homozygous A\u2192T substitution in the \u00df globin gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20886046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 159, 
+            "offsetInEndSection": 486, 
+            "text": "Implementation of this approach for disorders resulting from mutations affecting the beta-globin gene (e.g., beta-thalassemia and sickle cell anemia), however, has been hampered by the inability to generate recombinant viruses able to efficiently and faithfully transmit the necessary sequences for appropriate gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7624311", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 398, 
+            "text": "The allele-specific PCR approach has been modified by introducing a second mismatch at the 3'-penultimate link of the primer and used to identify the sickle cell anemia mutation (A-->T transversion in the sixth codon of the human beta-globin gene causing Glu-->Val substitution in the protein), thus obviating the problem of an interpretationally ambiguous 3'-terminal mismatch including T residue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1301951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Sickle-cell anemia results from an A leads to T transversion in the second nucleotide of codon 6 of the beta-globin gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6310991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Sickle cell anemia is a genetic blood disorder arising from a point mutation in the beta-globin gene that leads to the replacement of glutamic acid residue by valine at the sixth position of the beta--chain of hemoglobin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11172667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 153, 
+            "text": "Sickle cell anemia is a genetic blood disease resulting from production of mutant beta-globin (beta(S)) and has severe clinical consequences. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17662889", 
+            "endSection": "abstract"
+        }
+    ]
+}

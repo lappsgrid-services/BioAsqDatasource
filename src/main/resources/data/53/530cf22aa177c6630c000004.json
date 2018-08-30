@@ -1,0 +1,268 @@
+{
+    "body": "What is the main role of Ctf4 in dna replication?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11287619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24255107", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20381454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19805216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12455694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19430531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19661920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9199353", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20980819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24805245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1448101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20089864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19496828", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16962805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19910927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15226378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14742710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21470422"
+    ], 
+    "ideal_answer": [
+        "coupling MCM2-7 to replicative polymerases is an important feature of the regulation of chromosome replication in eukaryotes, and highlight a key role for Ctf4 in this processAnd-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery", 
+        "Ctf4 coordinates the progression of helicase and DNA polymerase alpha.  Mcm10 and And-1/CTF4 recruit DNA polymerase alpha to chromatin for initiation of DNA replication. And-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery."
+    ], 
+    "exact_answer": [
+        "Coordination of the progression of helicase and DNA polymerase alpha at the eukaryotic replication fork."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045740", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006261", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006260", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004261", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006275", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008156"
+    ], 
+    "type": "factoid", 
+    "id": "530cf22aa177c6630c000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 95, 
+            "offsetInEndSection": 351, 
+            "text": "In this report, interactions between human Ctf4 (hCtf4) and the replicative helicase containing the cell division cycle 45 (Cdc45)/minichromosome maintenance 2-7 (Mcm2-7)/Go, Ichi, Nii, and San (GINS) (CMG) proteins [human CMG (hCMG) complex] were examined", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24255107", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 932, 
+            "offsetInEndSection": 1130, 
+            "text": "We demonstrate that the hCtf4-CMG complex contains a homodimeric hCtf4 and a monomeric hCMG complex and suggest that the homodimeric hCtf4 acts as a platform linking polymerase \u03b1 to the hCMG complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24255107", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Drosophila Ctf4 is essential for efficient DNA replication and normal cell cycle progression", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 392, 
+            "text": "The Ctf4 protein has been shown to be a central member of the replication fork and links the replicative MCM helicase and DNA polymerase \u03b1 primase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 584, 
+            "text": " it has been implicated as a member of a complex that promotes replication fork stability, the Fork Protection Complex (FPC), and as being important for sister chromatid cohesion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 795, 
+            "offsetInEndSection": 913, 
+            "text": "Drosophila Ctf4 is a conserved protein that interacts with members of the GINS complex, Mcm2, and Polymerase \u03b1 primase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1125, 
+            "offsetInEndSection": 1173, 
+            "text": "Ctf4 remains a central player in DNA replication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1004, 
+            "offsetInEndSection": 1084, 
+            "text": "These data indicate that Ctf4p facilitates Mcm10p to promote the DNA replication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20381454", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 939, 
+            "offsetInEndSection": 1050, 
+            "text": " hCtf4 plays an essential role in DNA replication and its ability to stimulate the replicative DNA polymerases ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20089864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 592, 
+            "text": "Our data indicate that a complex of the GINS and Ctf4 components of the RPC is crucial to couple MCM2-7 to DNA polymerase alpha", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19661920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 944, 
+            "offsetInEndSection": 1119, 
+            "text": "coupling MCM2-7 to replicative polymerases is an important feature of the regulation of chromosome replication in eukaryotes, and highlight a key role for Ctf4 in this process", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19661920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Ctf4 coordinates the progression of helicase and DNA polymerase alpha", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19496828", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Mcm10 and And-1/CTF4 recruit DNA polymerase alpha to chromatin for initiation of DNA replication", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 278, 
+            "offsetInEndSection": 433, 
+            "text": "We show that And-1/Ctf4 (Chromosome transmission fidelity 4) interacts with Mcm10, which associates with MCM2-7, and with the p180 subunit of DNA pol alpha", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 854, 
+            "offsetInEndSection": 1125, 
+            "text": "And-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Mcm10 and And-1/CTF4 recruit DNA polymerase alpha to chromatin for initiation of DNA replication.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1082, 
+            "offsetInEndSection": 1131, 
+            "text": "Ctf4 remains a central player in DNA replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Drosophila Ctf4 is essential for efficient DNA replication and normal cell cycle progression.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Influence of the human cohesion establishment factor Ctf4/AND-1 on DNA replication.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20089864", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Ctf4/AND-1 is a highly conserved gene product required for both DNA replication and the establishment of sister chromatid cohesion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20089864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 130, 
+            "offsetInEndSection": 250, 
+            "text": "In this report, we examined the mechanism of action of human Ctf4 (hCtf4) in DNA replication both in vitro and in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20089864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 847, 
+            "offsetInEndSection": 1120, 
+            "text": "And-1/Ctf4 is therefore a new replication initiation factor that brings together the MCM2-7 helicase and the DNA pol alpha-primase complex, analogous to the linker between helicase and primase or helicase and polymerase that is seen in the bacterial replication machinery.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17761813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 738, 
+            "offsetInEndSection": 909, 
+            "text": "We show that cells lacking both Ctf4 and Mrc1 experience chronic activation of the DNA damage checkpoint during chromosome replication and do not complete the cell cycle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19661920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 886, 
+            "offsetInEndSection": 1083, 
+            "text": "Using in vivo RNAi knockdown of CTF4 in Drosophila we show that Ctf4 is required for viability, S phase progression, sister chromatid cohesion, endoreplication, and coping with replication stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1268, 
+            "offsetInEndSection": 1480, 
+            "text": "We show that Ctf4 function is conserved and that Drosophila can be effectively used as a model to further probe the precise function of Ctf4 as a member of the replication fork and possible roles in development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21470422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Chromosome transmission fidelity 4 (Ctf4) is a conserved protein required for DNA replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24255107", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 626, 
+            "text": "Here we show that three proteins required for sister chromatid cohesion, Eco1, Ctf4, and Ctf18, are found at, and Ctf4 travels along chromosomes with, replication forks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16962805", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "A key role for Ctf4 in coupling the MCM2-7 helicase to DNA polymerase alpha within the eukaryotic replisome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19661920", 
+            "endSection": "title"
+        }
+    ]
+}

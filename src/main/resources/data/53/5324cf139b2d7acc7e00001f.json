@@ -1,0 +1,299 @@
+{
+    "body": "List the off-label use of SSRIs", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22473248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16310120", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22136212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20235039", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15062207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18330528", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18371047", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21176430", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22712761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23093633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15928960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23425613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18360636", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22760463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21077473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21601255", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16481094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15291651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15643101"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/55601", 
+            "o": "Use within normal clinical practice"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/55601", 
+            "o": "Intervention #55601 (Drug:SSRIs)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/55601", 
+            "o": "SSRIs"
+        }
+    ], 
+    "ideal_answer": [
+        "depression during childhood and adolescence\nPremature ejaculation (PE)\nerectile dysfunction\nInsomnia\npostprostatectomy established stress urinary incontinence.\nmood and anxiety disorders during pregnancy and breast feeding\nsymptoms of vasomotor dysregulation (hot flashes) associated with the menopausal transition and sex hormone deprivation\n..off-label uses include the treatment of bulimia, benzodiazepine/alcohol dependence, fibromyalgia, central nervous system degenerative diseases (behavioral disorders in dementia and other organic disorders), schizophrenia, chronic pain disease and diabetic neuropathy, sexual dysfunction."
+    ], 
+    "exact_answer": [
+        [
+            "depression during childhood and adolescence"
+        ], 
+        [
+            "Premature ejaculation", 
+            "PE"
+        ], 
+        [
+            "erectile dysfunction"
+        ], 
+        [
+            "Insomnia"
+        ], 
+        [
+            "postprostatectomy established stress urinary incontinence", 
+            "SUI"
+        ], 
+        [
+            "mood and anxiety disorders during pregnancy and breast feeding"
+        ], 
+        [
+            "hot flashes", 
+            "postmenopausal symptoms"
+        ], 
+        [
+            "bulimia"
+        ], 
+        [
+            "benzodiazepine/alcohol dependence"
+        ], 
+        [
+            "fibromyalgia"
+        ], 
+        [
+            "behavioral disorders in dementia"
+        ], 
+        [
+            "schizophrenia"
+        ], 
+        [
+            "chronic pain disease"
+        ], 
+        [
+            "diabetic neuropathy"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D045506", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056687"
+    ], 
+    "type": "list", 
+    "id": "5324cf139b2d7acc7e00001f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 138, 
+            "text": "The present analysis evaluates the prevalence and medication use in inpatients with depression during childhood and adolescence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23425613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 979, 
+            "offsetInEndSection": 1478, 
+            "text": "Fluoxetine and mirtazapine were the most frequently prescribed substances. Sertraline, escitalopram, and citalopram were also prescribed. CONCLUSION: A reserved medical treatment can be observed in child and adolescence psychiatry. Off-label use seems to be nearly unavoidable due to the lack of newly authorized medicine. Moreover, the numerous prescriptions for fluoxetine, the only SSRI currently approved for this age group in Germany, lead to the question of possible unauthorized alternatives.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23425613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Premature ejaculation (PE) is a common sexual dysfunction affecting 20% to 30% of men worldwide", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23093633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 654, 
+            "text": "Treatment of PE typically involves pharmacotherapy, particularly when lifelong. Although there are numerous reports on the off-label use of selective serotonin reuptake inhibitors (SSRIs) and other compounds, only 2 treatments have been evaluated in randomized controlled phase 3 clinical trials: PSD502 and dapoxetine (SSRI)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23093633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 88, 
+            "text": "Drug therapy of fibromyalgia syndrome. Systematic review, meta-analysis and guideline].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22760463", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1526, 
+            "offsetInEndSection": 1744, 
+            "text": "Amitriptyline and-in case of comorbid depressive disorder or generalized anxiety disorder-duloxetine are recommended. Off-label use of duloxetine and pregabalin can be considered in case of no comorbid mental disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22760463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 617, 
+            "text": "Trazodone is an antidepressant belonging to the class of serotonin receptor antagonists and reuptake inhibitors. It is approved by the FDA for the treatment of depression. Insomnia is the most frequent reason for prescription of trazodone. It has also been proven useful in the treatment of anxiety disorders. Other off-label uses include the treatment of bulimia, benzodiazepine/alcohol dependence, fibromyalgia, central nervous system degenerative diseases (behavioral disorders in dementia and other organic disorders), schizophrenia, chronic pain disease and diabetic neuropathy, sexual dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22712761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 85, 
+            "offsetInEndSection": 405, 
+            "text": "symptoms of vasomotor dysregulation (hot flashes) associated with the menopausal transition and sex hormone deprivation. Implication of changes in central neurotransmission in the pathogenesis of hot flashes has prompted the off-label use of serotonergic and \u03b3-aminobutyric acid-ergic drugs as a therapeutic alternative,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22473248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 701, 
+            "offsetInEndSection": 1052, 
+            "text": "Sertraline was the most prescribed antidepressant for the treatment of major depressive disorder, followed by fluvoxamine and tianeptine. Fluvoxamine was the most prescribed antidepressant for the treatment of anxiety disorders and mixed disorders of emotions and conduct. Off-label prescribing of antidepressants was found in 85.6% of young patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22136212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1653, 
+            "offsetInEndSection": 1786, 
+            "text": "Our results suggest that duloxetine is a possible alternative treatment of postprostatectomy established stress urinary incontinence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21601255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 42, 
+            "text": "Pharmacological treatment of fibromyalgia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21176430", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 664, 
+            "offsetInEndSection": 838, 
+            "text": "different classes of drugs with different mechanisms of action are used off-label, including tricyclic antidepressants (TCAs), selective serotonin reuptake inhibitors (SSRIs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21176430", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 473, 
+            "text": "Gynaecological cancer patients generally suffer from an earlier and more severe menopausal syndrome than the general female population. Hormone replacement therapy is often contraindicated and there are non-hormonal treatments that are proven to be more effective than placebo in randomized controlled trials, e.g., some antidepressants, gabapentine and clonidine. The main limits to the use of these drugs in controlling hot flashes are the off-label use for this purpose,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21077473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 150, 
+            "text": "ymptomatic therapy for patients with erectile dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20235039", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 940, 
+            "offsetInEndSection": 1073, 
+            "text": "a oral daily off label use therapy with selective serotonin re-uptake inhibitors (paroxetine, fluoxetine, sertraline) can be offered.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20235039", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1547, 
+            "offsetInEndSection": 1668, 
+            "text": "Without the Food and Drug Administration approval, dapoxetine, as well as other SSRIs in PE, is an off-label drug for PE.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18371047", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 512, 
+            "text": "the treatment of PE consists of primarily off-label use of oral selective serotonin reuptake inhibitors (SSRIs) via either on-demand or daily delivery. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18360636", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 802, 
+            "offsetInEndSection": 961, 
+            "text": "The results of this off-label use show that Duloxetine is effective in men with SUI after prostate surgery even if standard pelvic floor exercises have failed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18330528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Preliminary results on the off-label use of duloxetine for the treatment of stress incontinence after radical prostatectomy or cystectomy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16481094", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1536, 
+            "offsetInEndSection": 1972, 
+            "text": "the number of children and adolescents whose visits involved prescription of antidepressants, particularly SSRIs, has increased markedly through 2002. Although fluoxetine remained the most commonly prescribed, other SSRIs were increasingly prescribed through 2002. These trends raise concerns regarding the widespread off-label use of antidepressants lacking reliable evidence of safety and efficacy for use in children and adolescents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16310120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 518, 
+            "offsetInEndSection": 732, 
+            "text": "Given the presumed efficacy of these new compounds and the off-label use of the current SSRIs, one might conclude that psychotherapy\\behavior therapy for rapid ejaculation is an obsolete and antiquated intervention", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15928960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "The use of selective serotonin reuptake inhibitors during pregnancy and breast-feeding:", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15643101", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 171, 
+            "offsetInEndSection": 618, 
+            "text": "The use of selective serotonin reuptake inhibitors during pregnancy or lactation is, to date, not promoted because of lack of safety documentation. However, the off-label use of these drugs has been common for several years. In the treatment of mood and anxiety disorders during pregnancy, the serotonin reuptake inhibitors are often preferred over tricyclic antidepressants because of their relatively few adverse effects and safety in overdose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15643101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 224, 
+            "text": "The last few years have seen a remarkable rise in the off-label use of trazodone for inducing sleep in nondepressed patients, to a degree that it is prescribed for this purpose as commonly as the leading hypnotic", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15291651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 558, 
+            "offsetInEndSection": 693, 
+            "text": "Since the mid-1980s there has been a rapid rise in the off-label use of antidepressants, particularly trazodone, for treating insomnia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15062207", 
+            "endSection": "abstract"
+        }
+    ]
+}

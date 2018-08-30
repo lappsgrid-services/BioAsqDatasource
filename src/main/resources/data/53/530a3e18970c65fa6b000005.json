@@ -1,0 +1,383 @@
+{
+    "body": "List bacteria that may be useful in uranium bioremediation.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19717633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15819846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18378664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11976101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23038171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21112694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12368813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23446832", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22327592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19651424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19129865", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18451051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21337330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21255372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23275510", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12788780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16204552", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22510989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22432531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18497157", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18843300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12626092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19346346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18279349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21261921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20010635", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18450691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18059491", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23416228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23894087"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7801424", 
+            "o": "D001673"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0598015", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1303884"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0598015", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7801424"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1303884", 
+            "o": "bioremediation"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7801424", 
+            "o": "Bioremediation"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7801424", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1303884", 
+            "o": "1850-1558"
+        }
+    ], 
+    "ideal_answer": [
+        "The main bacteria studied in uranium bioremediation are Geobacteraceae. Other bacteria are: \nFirmicutes, \nShewanella oneidensis\nPseudomonas aeruginosa\nAnaeromyxobacter dehalogenans  \nstrain Rf4T"
+    ], 
+    "exact_answer": [
+        [
+            "Betaproteobacteria"
+        ], 
+        [
+            "Firmicutes"
+        ], 
+        [
+            "Geobacter", 
+            "Geobacteraceae", 
+            "Geobacter uraniireducens"
+        ], 
+        [
+            "Shewanella oneidensis"
+        ], 
+        [
+            "Pseudomonas aeruginosa"
+        ], 
+        [
+            "Anaeromyxobacter dehalogenans"
+        ], 
+        [
+            "strain Rf4T"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014501", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001673", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017974", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001419", 
+        "http://www.biosemantics.org/jochem#4278179"
+    ], 
+    "type": "list", 
+    "id": "530a3e18970c65fa6b000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 588, 
+            "text": "Members of the Betaproteobacteria (i.e. Dechloromonas, Ralstonia, Rhodoferax, Polaromonas, Delftia, Chromobacterium) and the Firmicutes dominated the biostimulated aquifer community.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23894087", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "Shewanella oneidensis is an important model organism for bioremediation studies because of its diverse respiratory capabilities, conferred in part by multicomponent, branched electron transport systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12368813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 719, 
+            "text": "metal-reducing Geobacter species", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 779, 
+            "offsetInEndSection": 1066, 
+            "text": " Identifications based on bacterial 16S rRNA sequence analysis showed that the dominant cultivable bacteria belonged to the genus Bacillus. Members of the genera Paenibacillus, Lysinibacillus, Klebsiella, Microbacterium and Chryseobacterium were also isolated from the LAAs soil samples.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23416228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 60, 
+            "offsetInEndSection": 70, 
+            "text": " Geobacter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23038171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 36, 
+            "offsetInEndSection": 50, 
+            "text": "Geobacteraceae", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11976101", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 2262, 
+            "offsetInEndSection": 2390, 
+            "text": "Geobacteraceae will be responsible for much of the Fe(III) and U(VI) reduction during uranium bioremediation in these sediments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11976101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 845, 
+            "text": " Our previous studies have demonstrated that the microbial communities involved in uranium bioremediation and energy harvesting are both dominated by microorganisms in the family Geobacteraceae and that the organisms in this family are responsible for uranium bioremediation and electron transfer to electrodes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12626092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 301, 
+            "text": "the organisms in the family Geobacteraceae that have been found to be associated with metal reduction in previous studies ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12788780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1475, 
+            "offsetInEndSection": 1560, 
+            "text": "to stimulate the activity of Geobacter species during in situ uranium bioremediation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15819846", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1188, 
+            "text": "Geobacteraceae", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16204552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 530, 
+            "text": " Geobacter species are known to be important members of the microbial community: (1) a uranium-contaminated aquifer located in Rifle, CO, USA undergoing in situ bioremediation;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18059491", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 960, 
+            "offsetInEndSection": 1069, 
+            "text": "Geobacteraceae feoB transcripts in groundwater samples from a site undergoing in situ uranium bioremediation ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18279349", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1495, 
+            "offsetInEndSection": 1635, 
+            "text": " Geobacteraceae activity during metal reduction in carbon-amended microcosms, with the highest expression observed in the glucose treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18378664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Geobacter uraniireducens sp. nov., isolated from subsurface sediment undergoing uranium bioremediation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18450691", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 229, 
+            "text": "A Gram-negative, rod-shaped, motile bacterium, strain Rf4T, which conserves energy from dissimilatory Fe(III) reduction concomitant with acetate oxidation, was isolated from subsurface sediment undergoing uranium bioremediation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18450691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 837, 
+            "offsetInEndSection": 1028, 
+            "text": ". Constant levels of Geobacter ompB transcripts were detected in groundwater during a field experiment in which acetate was added to the subsurface to promote in situ uranium bioremediation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18451051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 231, 
+            "offsetInEndSection": 280, 
+            "text": "Geobacter species are the predominant organisms, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18497157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1198, 
+            "offsetInEndSection": 1356, 
+            "text": "Firmicutes were the predominant organisms whereas no Firmicutes sequences were detected in background sediments which did not have the capacity to sorb U(VI),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18497157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 350, 
+            "text": "Geobacter species that predominates during in situ uranium bioremediation at this site.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18843300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "As part of an effort to diagnose the physiological status of Geobacter species during in situ bioremediation of uranium-contaminated groundwater, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19129865", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 593, 
+            "text": "Geobacter uraniireducens", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19129865", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 380, 
+            "offsetInEndSection": 541, 
+            "text": " Geobacter species are often the dominant members of the groundwater community during active bioremediation and the primary organisms catalysing U(VI) reduction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21261921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 291, 
+            "text": "Anaeromyxobacter dehalogenans strains implicated in hexavalent uranium reduction and immobilization are present in the fractured saprolite subsurface environment at the U.S. Department of Energy Integrated Field-Scale Subsurface Research Challenge (IFC) site near Oak Ridge, TN. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19346346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 604, 
+            "text": "Both enrichments were capable of reducing U(VI) rapidly. 16S rRNA gene clone libraries of the two enrichments revealed that Desulfovibrio spp. are dominant in the sulfate-reducing enrichment, and Clostridium spp. are dominant in the iron-reducing enrichment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19651424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1296, 
+            "offsetInEndSection": 1373, 
+            "text": ". The results demonstrate that Geobacter species can effectively reduce U(VI)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20010635", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Uranium biomineralization by a metal-resistant Pseudomonas aeruginosa strain isolated from uranium mine waste was characterized for its potential in bioremediation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21112694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Uranium biomineralization by a metal resistant Pseudomonas aeruginosa strain isolated from contaminated mine waste.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21112694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 358, 
+            "offsetInEndSection": 402, 
+            "text": "Geobacter-mediated bioremediation of uranium", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21337330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 772, 
+            "offsetInEndSection": 835, 
+            "text": "The cytochrome genes detected were primarily from Geobacter sp.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22327592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "Acetate amendment at uranium contaminated sites in Rifle, CO. leads to an initial bloom of Geobacter accompanied by the removal of U(VI) from the groundwater, followed by an increase of sulfate-reducing bacteria (SRBs) which are poor reducers of U(VI).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22510989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 186, 
+            "offsetInEndSection": 271, 
+            "text": "Whole-genome microarray analyses of a subsurface isolate of Geobacter uraniireducens,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23275510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 389, 
+            "text": " At the US Department of Energy's Integrated Field Research Challenge (IFRC) site in Rifle, CO, the stimulation of Geobacter growth and activity via subsurface acetate addition leads to precipitation of U(VI) from groundwater as U(IV)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21255372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 442, 
+            "text": "Here, we report a proteomics-based approach for simultaneously documenting the strain membership and microbial physiology of the dominant Geobacter community members during in situ acetate amendment of the U-contaminated Rifle,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19717633", 
+            "endSection": "abstract"
+        }
+    ]
+}

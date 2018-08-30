@@ -1,0 +1,419 @@
+{
+    "body": "What is the effect of resveratrol on mTOR activity?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23272906", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23211629", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21966552", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24060150", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22530672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23680031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21179458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22269797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22029423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21168265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19471118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23248098", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25448084", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20169165"
+    ], 
+    "ideal_answer": [
+        "Resveratrol (RSV) inhibits leucine-stimulated mTORC1 activation by promoting mTOR/DEPTOR.", 
+        "Resveratrol downregulates PI3K/Akt/mTOR signaling pathways in human cells. It has been found that resveratrol targets multiple components of the phosphatidylinositol 3- kinase(PI3K)/Akt and mTOR signaling pathways, including PI3K, Akt, PTEN, and DEPTOR, suggesting that this natural compound and its derivatives may offer a promising new cancer treatment."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MTOR_MOUSE", 
+        "http://www.uniprot.org/uniprot/MTOR_HUMAN", 
+        "http://www.biosemantics.org/jochem#4272358"
+    ], 
+    "type": "summary", 
+    "id": "551177626a8cde6b72000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Resveratrol inhibits mTOR signaling by promoting the interaction between mTOR and DEPTOR", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 359, 
+            "text": "Here, we show that RSV inhibits insulin- and leucine-stimulated mTOR signaling in C2C12 fibroblasts via a Sirt1-independent mechanism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 361, 
+            "offsetInEndSection": 601, 
+            "text": "Treating C2C12 cells with RSV dramatically inhibited insulin-stimulated Akt, S6 kinase, and 4E-BP1 phosphorylation but had little effect on tyrosine phosphorylation of the insulin receptor and activation of the p44/42 MAPK signaling pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 603, 
+            "offsetInEndSection": 790, 
+            "text": "RSV treatment also partially blocked mTOR and S6 kinase phosphorylation in TSC1/2-deficient mouse embryonic fibroblasts, suggesting the presence of an inhibitory site downstream of TSC1/2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1187, 
+            "offsetInEndSection": 1396, 
+            "text": "Taken together, our studies reveal that RSV inhibits leucine-stimulated mTORC1 activation by promoting mTOR/DEPTOR interaction and thus uncover a novel mechanism by which RSV negatively regulates mTOR activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 681, 
+            "offsetInEndSection": 824, 
+            "text": "Recent studies suggest that modulation of the mTOR signalling pathway could play an important role in mediating the beneficial effects of RSV. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24060150", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Resveratrol inhibits the mTOR mitogenic signaling evoked by oxidized LDL in smooth muscle cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1125, 
+            "offsetInEndSection": 1299, 
+            "text": "esveratrol blocked the oxLDL-induced phosphorylation and activation of the PI3K/Akt/mTOR/p70S6K pathway and strongly inhibited both the DNA synthesis and proliferation of SMC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "At concentrations that inhibit mTOR, resveratrol suppresses cellular senescence", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19471118", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Here we demonstrated that, at cytostatic, near-toxic concentrations, resveratrol inhibited S6 phosphorylation and prevented the senescence morphology in human cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19471118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Resveratrol downregulates PI3K/Akt/mTOR signaling pathways in human U251 glioma cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 910, 
+            "offsetInEndSection": 1011, 
+            "text": "On the other hand, RSV significantly increased the association between mTOR and its inhibitor, DEPTOR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 55, 
+            "text": "Resveratrol inhibits mTOR signaling by targeting DEPTOR", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21966552", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 502, 
+            "text": "Recent studies suggest that suppressing the signaling pathway mediated by mTOR, a well-known energy sensor that integrates various hormonal, nutrient and environmental signals to regulate cell growth, metabolism and survival, could play an important role in mediating the beneficial effect of RSV", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21966552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Resveratrol engages AMPK to attenuate ERK and mTOR signaling in sensory neurons and inhibits incision-induced acute and chronic pain", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22269797", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 778, 
+            "offsetInEndSection": 1018, 
+            "text": "Our results demonstrate that resveratrol profoundly inhibits ERK and mTOR signaling in sensory neurons in a time- and concentration-dependent fashion and that these effects are mediated by AMPK activation and independent of sirtuin activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22269797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Resveratrol enhances the antitumor effects of temozolomide in glioblastoma via ROS-dependent AMPK-TSC-mTOR signaling pathway", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22530672", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Resveratrol enhances the anti-tumor activity of the mTOR inhibitor rapamycin in multiple breast cancer cell lines mainly by suppressing rapamycin-induced AKT signaling.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21168265", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Resveratrol inhibits mTOR signaling by promoting the interaction between mTOR and DEPTOR.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1459, 
+            "offsetInEndSection": 1681, 
+            "text": "Consistent with the in vitro findings, resveratrol intervention in the PTEN knockout mouse model was associated with reduction in the prostatic levels of mTOR complex 1 (mTORC1) activity and increased expression of SIRT1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23248098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 482, 
+            "offsetInEndSection": 546, 
+            "text": "Resveratrol inhibited the phosphorylation of PI3K, AKT and mTOR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21179458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Resveratrol inhibits the mTOR mitogenic signaling evoked by oxidized LDL in smooth muscle cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1310, 
+            "text": "Resveratrol also alleviated the PI3K/Akt/mTOR signaling by down-regulation of Akt phosphorylation and up-regulation of PTEN expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25448084", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1095, 
+            "offsetInEndSection": 1272, 
+            "text": "Resveratrol blocked the oxLDL-induced phosphorylation and activation of the PI3K/Akt/mTOR/p70S6K pathway and strongly inhibited both the DNA synthesis and proliferation of SMC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 825, 
+            "text": "Resveratrol reduced phosphorylation of ribosomal protein S6 and the mTOR inhibitor rapamycin further enhanced resveratrol-induced cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Resveratrol downregulates PI3K/Akt/mTOR signaling pathways in human U251 glioma cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 778, 
+            "offsetInEndSection": 1019, 
+            "text": "Our results demonstrate that resveratrol profoundly inhibits ERK and mTOR signaling in sensory neurons in a time- and concentration-dependent fashion and that these effects are mediated by AMPK activation and independent of sirtuin activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22269797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 695, 
+            "text": "The SIRT1 activator resveratrol reduces, whereas SIRT1 inhibitor nicotinamide enhances mTOR activity in a SIRT1 dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20169165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1087, 
+            "offsetInEndSection": 1257, 
+            "text": "We conclude that resveratrol is an inhibitor of global protein synthesis, and that this effect is mediated through modulation of mTOR-dependent and independent signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22242130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 732, 
+            "offsetInEndSection": 888, 
+            "text": "RSV treatment has no effect on the expression levels of mTOR, raptor and DEPTOR, but greatly promotes the interaction between mTOR and its inhibitor DEPTOR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21966552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1187, 
+            "offsetInEndSection": 1397, 
+            "text": "Taken together, our studies reveal that RSV inhibits leucine-stimulated mTORC1 activation by promoting mTOR/DEPTOR interaction and thus uncover a novel mechanism by which RSV negatively regulates mTOR activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1012, 
+            "offsetInEndSection": 1184, 
+            "text": "Furthermore, the inhibitory effect of RSV on leucine-stimulated mTOR signaling was greatly reduced in cells in which the expression levels of DEPTOR were suppressed by RNAi", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1468, 
+            "offsetInEndSection": 1688, 
+            "text": "Consistent with the in vitro findings, resveratrol intervention in the PTEN knockout mouse model was associated with reduction in the prostatic levels of mTOR complex 1 (mTORC1) activity and increased expression of SIRT1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23248098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 694, 
+            "text": "The SIRT1 activator resveratrol reduces, whereas SIRT1 inhibitor nicotinamide enhances mTOR activity in a SIRT1 dependent manner", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20169165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1140, 
+            "offsetInEndSection": 1298, 
+            "text": "However, most frequently, RSV is found to inhibit the activity of the mTOR pathway proteins, and to activate AMPK and LKB1, which can suppress mTOR signalling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24060150", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 557, 
+            "text": "Over the past few years, numerous studies have suggested that suppressing the activity of mammalian target of rapamycin (mTOR), a critical regulator of cell metabolism, growth, and proliferation, may provide a key mechanism underlying the anticarcinogenic properties of resveratrol", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272906", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1530, 
+            "offsetInEndSection": 1628, 
+            "text": "Resveratrol blocks specifically this pathway, thereby inhibiting oxLDL-induced SMC proliferation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19108833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 198, 
+            "offsetInEndSection": 300, 
+            "text": "Resveratrol causes cell cycle arrest and induces apoptotic cell death in various types of cancer cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 507, 
+            "offsetInEndSection": 575, 
+            "text": "Resveratrol decreased both the expression and phosphorylation of Akt", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19827268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 73, 
+            "offsetInEndSection": 119, 
+            "text": " Modulation of the AMPK, Akt and mTOR pathways", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22029423", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 991, 
+            "offsetInEndSection": 1097, 
+            "text": "RSV (2.5-5 \u03bcM) inhibited clonogenic survival of PC3 and 22RV1 cells but not of normal prostate PNT1A cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22029423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1413, 
+            "offsetInEndSection": 1513, 
+            "text": "RSV enhanced IR-activation of ATM and AMPK but inhibited basal and IR-induced phosphorylation of Akt", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22029423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1528, 
+            "offsetInEndSection": 1755, 
+            "text": "Our results suggest that RSV arrests cell cycle, promotes apoptosis and sensitizes PrCa cells to IR likely through a desirable dual action to activate the ATM-AMPK-p53-p21(cip1)/p27(kip1) and inhibit the Akt signalling pathways", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22029423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Resveratrol pre-treatment reduces early inflammatory responses induced by status epilepticus via mTOR signaling", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23211629", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 558, 
+            "text": "Over the past few years, numerous studies have suggested that suppressing the activity of mammalian target of rapamycin (mTOR), a critical regulator of cell metabolism, growth, and proliferation, may provide a key mechanism underlying the anticarcinogenic properties of resveratrol.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272906", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 559, 
+            "offsetInEndSection": 840, 
+            "text": "It has been found that resveratrol targets multiple components of the phosphatidylinositol 3- kinase(PI3K)/Akt and mTOR signaling pathways, including PI3K, Akt, PTEN, and DEPTOR, suggesting that this natural compound and its derivatives may offer a promising new cancer treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272906", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Autophagic cell death induced by resveratrol depends on the Ca(2+)/AMPK/mTOR pathway in A549 cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23680031", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1424, 
+            "offsetInEndSection": 1587, 
+            "text": "In conclusion, we demonstrate that resveratrol-induced A549 cell death was mediated by the process of autophagic cell death via Ca(2+)/AMPK-mTOR signaling pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23680031", 
+            "endSection": "abstract"
+        }
+    ]
+}

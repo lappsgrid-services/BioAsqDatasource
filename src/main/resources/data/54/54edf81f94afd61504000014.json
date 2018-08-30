@@ -1,0 +1,92 @@
+{
+    "body": "Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11726552"
+    ], 
+    "ideal_answer": [
+        "The Fanconi anemia protein FANCA has been shown to interact with the brm-related gene 1 (BRG1) product. BRG1 is a subunit of the SWI/SNF complex, which remodels chromatin structure through a DNA-dependent ATPase activity.", 
+        "FANCA was demonstrated to associate with the endogenous SWI/SNF complexFANCA may recruit the SWI/SNF complex to target genes, thereby enabling coupled nuclear functions such as transcription and DNA repair"
+    ], 
+    "exact_answer": [
+        "BRG1"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D052217"
+    ], 
+    "type": "factoid", 
+    "id": "54edf81f94afd61504000014", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Fanconi anemia protein, FANCA, associates with BRG1, a component of the human SWI/SNF complex", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 325, 
+            "text": "We identified an interaction between the FA protein, FANCA and brm-related gene 1 (BRG1) product. BRG1 is a subunit of the SWI/SNF complex, which remodels chromatin structure through a DNA-dependent ATPase activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 398, 
+            "text": "FANCA was demonstrated to associate with the endogenous SWI/SNF complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 997, 
+            "offsetInEndSection": 1131, 
+            "text": "FANCA may recruit the SWI/SNF complex to target genes, thereby enabling coupled nuclear functions such as transcription and DNA repair", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Fanconi anemia protein, FANCA, associates with BRG1, a component of the human SWI/SNF complex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 208, 
+            "text": "We identified an interaction between the FA protein, FANCA and brm-related gene 1 (BRG1) product.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 887, 
+            "text": "Finally, we demonstrated co-localization in the nucleus between transfected FANCA and BRG1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 207, 
+            "text": "We identified an interaction between the FA protein, FANCA and brm-related gene 1 (BRG1) product", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 886, 
+            "text": "Finally, we demonstrated co-localization in the nucleus between transfected FANCA and BRG1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11726552", 
+            "endSection": "abstract"
+        }
+    ]
+}

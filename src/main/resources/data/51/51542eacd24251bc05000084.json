@@ -1,0 +1,142 @@
+{
+    "body": "Does HER2 under-expression lead to favorable response to trastuzumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22711713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20392785", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23082154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11148461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19606230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12503030", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21709140", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18534031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19435924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22580986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19624808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19920112", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22658319"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00072", 
+            "o": "Trastuzumab"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0728747", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10771788"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10771788", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1545807", 
+            "o": "trastuzumab"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8438296", 
+            "o": "TRASTUZUMAB"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1545806", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }
+    ], 
+    "ideal_answer": [
+        "No, trastuzumab is effective only in cancers where Her2 is over-expessed."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015870", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060079", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020869", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0010467", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018734", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0038128", 
+        "http://www.biosemantics.org/jochem#4002084", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0005176", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005786", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060080"
+    ], 
+    "type": "yesno", 
+    "id": "51542eacd24251bc05000084", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 331, 
+            "text": "over-expression of HER2 is reported in approximately 20% of gastric tumours, challenging the use of targeted therapies. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22711713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 802, 
+            "text": "In patients with advanced gastric or gastro-oesophageal junction cancer, addition of trastuzumab to chemotherapy significantly improved overall survival compared with chemotherapy alone. Addition of trastuzumab to chemotherapy did not increase the incidence of adverse events.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22711713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 348, 
+            "offsetInEndSection": 408, 
+            "text": "treatment of HER2-overexpressing breast cancer: trastuzumab,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22658319", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 354, 
+            "text": "Trastuzumab has demonstrated clinical activity in several types of HER2-overexpressing epithelial tumors, such as breast and metastatic gastric or gastroesophageal junction cancer. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22580986", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1621, 
+            "offsetInEndSection": 1817, 
+            "text": "An example is the established benefit of trastuzumab as adjuvant therapy for breast cancer; a clear definition of HER2-positivity and the assay reproducibility have, however, remained unanswered. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20392785", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 136, 
+            "text": "Trastuzumab is a monoclonal antibody targeted to the Her2 receptor and approved for treatment of Her2-positive breast cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920112", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 350, 
+            "text": "Human epidermal growth factor receptor 2 (HER2/neu) is an important target for the treatment of the breast cancers in which it is overexpressed. However, no approved anti-HER2/neu therapy is available for the majority of breast cancer patients, who express HER2/neu at low levels (with scores of 1+ or 2+/fluorescence in situ hybridization-negative).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19435924", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 146, 
+            "text": "The humanized anti-HER2 monoclonal antibody trastuzumab (Herceptin) is useful in the treatment of ErbB2-overexpressing breast cancers,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12503030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 280, 
+            "text": "HercepTestTM (DAKO A/S, Glostrup, Denmark) is an immunohistochemical assay that detects HER2/neu gene products, and evaluates the overexpression status of the HER2/neu protein in determining eligibility for the Trastuzumab (HerceptinR, Genentech, San Francisco, CA, USA) therapy. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11148461", 
+            "endSection": "sections.0"
+        }
+    ]
+}

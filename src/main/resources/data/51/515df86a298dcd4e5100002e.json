@@ -1,0 +1,170 @@
+{
+    "body": "List co-morbidities that may occur together with \"Stiff man Syndrome\"", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2135382", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7714921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12803695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8464926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8381208", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16006304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9443464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9771977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8710121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6859058", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8263140"
+    ], 
+    "ideal_answer": [
+        "SMS (Stiff man Syndrome) is is a rare disorder of the central nervous system of probable autoimmune origin and as such is associated with other autoimmune diseases, such as Insulin Dependent Diabetes Mellitus . GAD-65 is a dominant auto-antigen that is found both in in stiff-man syndrome and insulin-dependent diabetes mellitus. TRAB -positive Graves' disease has been reported to occur together with SMS. \nIn a subgroup of patients with the stiff-man syndrome, the condition is likely to have an autoimmune paraneoplastic origin. The detection of autoantibodies against the 128-kd antigen in patients with this syndrome should be considered an indication to search for an occult breast cancer.\n\nHCV may be the etiologic virus of progressive encephalomyelitis with rigidity; a rare disorder similar to stiff-man syndrome although different because it is progressive and fatal.\nIt is possible that the reported case of association of progressive dementia with concomitant development of stiff-man syndrome in an elderly man represents an exaggerated form of such motor disturbances in dementia, and that clinical and electromyographic features of stiff-man syndrome may be present with increased incidence in patients with dementia."
+    ], 
+    "exact_answer": [
+        [
+            "Insulin Dependent Diabetes Mellitus", 
+            "type I (insulin-dependent) diabetes mellitus (IDDM)"
+        ], 
+        [
+            "Grave's disease"
+        ], 
+        [
+            "Breast Cancer"
+        ], 
+        [
+            "Dementia"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016750", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13366"
+    ], 
+    "type": "list", 
+    "id": "515df86a298dcd4e5100002e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 162, 
+            "text": "To report an association between two autoimmune conditions, Graves' disease and stiff-person (stiff-man) syndrome, and discuss the relevant literature.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16006304", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1747, 
+            "offsetInEndSection": 1919, 
+            "text": "This case illustrates the association between TRAB-positive Graves' disease and stiff-person syndrome and the improvement of Graves' disease with immunosuppressive therapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16006304", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 763, 
+            "offsetInEndSection": 943, 
+            "text": "HCV may be the etiologic virus of progressive encephalomyelitis with rigidity; a rare disorder similar to stiff-man syndrome although different because it is progressive and fatal.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12803695", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 624, 
+            "text": "The triad of stiff-man syndrome, breast cancer, and autoantibodies against amphiphysin identifies a new autoimmune paraneoplastic syndrome of the CNS.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9443464", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 230, 
+            "text": "GAD has been suggested as an autoantigen in insulin-dependent diabetes mellitus and stiff-man syndrome", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7714921", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Stiff-man syndrome (SMS) is a rare disorder of the central nervous system of probable autoimmune origin.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8263140", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 227, 
+            "text": "Patients with SMS often have other autoimmune diseases, in particular type I (insulin-dependent) diabetes mellitus (IDDM).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8263140", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 319, 
+            "offsetInEndSection": 414, 
+            "text": "GAD-65 is a dominant autoantigen in stiff-man syndrome and insulin-dependent diabetes mellitus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8464926", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 429, 
+            "text": "In this group, there is a striking association of the stiff-man syndrome with organ-specific autoimmune diseases, primarily insulin-dependent diabetes mellitus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8381208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 439, 
+            "offsetInEndSection": 508, 
+            "text": "We studied three women with the stiff-man syndrome and breast cancer,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8381208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 1030, 
+            "text": "RESULTS: Autoantibodies directed against a 128-kd brain protein were found in two of the women with the stiff-man syndrome and breast cancer. These results led to a search for breast cancer in the third patient with the stiff-man syndrome, who also had autoantibodies. A small invasive ductal carcinoma was detected by ultrasonography and removed.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8381208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1441, 
+            "offsetInEndSection": 1741, 
+            "text": "CONCLUSIONS: In a subgroup of patients with the stiff-man syndrome, the condition is likely to have an autoimmune paraneoplastic origin. The detection of autoantibodies against the 128-kd antigen in patients with this syndrome should be considered an indication to search for an occult breast cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8381208", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 93, 
+            "offsetInEndSection": 282, 
+            "text": "We have previously reported the presence of autoantibodies against glutamic acid decarboxylase (GAD) in a patient with stiff-man syndrome, epilepsy, and insulin-dependent diabetes mellitus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2135382", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 773, 
+            "offsetInEndSection": 994, 
+            "text": "These findings support the hypothesis that stiff-man syndrome is an autoimmune disease and suggest that GAD is the primary autoantigen involved in stiff-man syndrome and the associated insulin-dependent diabetes mellitus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2135382", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 766, 
+            "text": "An elderly man with progressive dementia and concomitant development of stiff-man syndrome is described. He had not had stiff-man syndrome one year earlier, when he had only mild dementia. An association between stiff-man syndrome and dementia has not been previously described.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6859058", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 970, 
+            "offsetInEndSection": 1211, 
+            "text": "It is possible that this patient represents an exaggerated form of such motor disturbances in dementia, and that clinical and electromyographic features of stiff-man syndrome may be present with increased incidence in patients with dementia.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6859058", 
+            "endSection": "sections.0"
+        }
+    ]
+}

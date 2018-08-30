@@ -1,0 +1,289 @@
+{
+    "body": "Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22960625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23691029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22882958", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22038740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21712654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19336275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20219857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20959496", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21464712", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20015039", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22859901", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20649511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19043405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19706597", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20980922"
+    ], 
+    "ideal_answer": [
+        "MicroRNA-21 (miR-21) is a highly expressed microRNA (miRNA) in cardiovascular system. Recent studies have revealed that its expression is deregulated in heart and vasculature under cardiovascular disease conditions such as proliferative vascular disease, cardiac hypertrophy and heart failure, and ischemic heart disease. miR-21 is found to play important roles in vascular smooth muscle cell proliferation and apoptosis, cardiac cell growth and death, and cardiac fibroblast functions. Accordingly, miR-21 is proven to be involved in the pathogenesis of the above-mentioned cardiovascular diseases as demonstrated by both loss-of-function and gain-of-function approaches"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D035683", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1287"
+    ], 
+    "type": "yesno", 
+    "id": "54f4703764850a5854000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1167, 
+            "offsetInEndSection": 1329, 
+            "text": "The synergistic effect of miR-21 and miR-1 were functionally validated for their significant influences on myocardial apoptosis, cardiac hypertrophy and fibrosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23691029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1435, 
+            "offsetInEndSection": 1682, 
+            "text": "Taken together, we found a novel reciprocal loop between miR-21 and TGF\u03b2RIII in cardiac fibrosis caused by myocardial infarction in mice, and targeting this pathway could be a new strategy for the prevention and treatment of myocardial remodeling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 316, 
+            "text": "It is still controversial whether microRNA-21 (miR-21) participates in the process of cardiac fibrosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 184, 
+            "offsetInEndSection": 288, 
+            "text": "In mice, myocardial miR-21 overexpression is related to cardiac fibrosis elicited by pressure overload. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22882958", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 940, 
+            "offsetInEndSection": 1135, 
+            "text": "The myocardial and plasma levels of miR-21 were significantly higher in the AS patients compared with the controls and correlated directly with the echocardiographic mean transvalvular gradients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22882958", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1527, 
+            "offsetInEndSection": 1751, 
+            "text": "Our results support the role of miR-21 as a regulator of the fibrotic process that occurs in response to pressure overload in AS patients and underscore the value of circulating miR-21 as a biomarker for myocardial fibrosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22882958", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1736, 
+            "offsetInEndSection": 1914, 
+            "text": "Ad-miR-21 improves LV remodeling and decreases the apoptosis of myocardial cells, suggesting the possible mechanism by which Ad-miR-21 functions in protecting against I/R injury.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22859901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1131, 
+            "offsetInEndSection": 1309, 
+            "text": "In the Ad-miR-21 group, LV dimensions, myocardial infarct size, LV/BW, collagen type \u2160, type \u2162 and PCNA positive cells all significantly decreased compared with the Ad-GFP group.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22859901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 423, 
+            "offsetInEndSection": 825, 
+            "text": "While miR-21, -133, -150, -195, and -214 regulate cardiomyocyte hypertrophy, miR-1/-133 and miR-208 have been elucidated to influence myocardial contractile function. In addition, miR-21, -24, -133, -210, -494, and -499 appear to protect myocytes against I/R-induced apoptosis, whereas miR-1, -29, -199a, and -320 promote apoptosis. Myocardial fibrosis can be regulated by the miR-29 family and miR-21.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22038740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "The small regulatory RNA microRNA-21 (miR-21) plays a crucial role in a plethora of biological functions and diseases including development, cancer, cardiovascular diseases and inflammation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21712654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 907, 
+            "text": "During recent years, additional roles of miR-21 in cardiovascular and pulmonary diseases, including cardiac and pulmonary fibrosis as well as myocardial infarction have been described.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21712654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 607, 
+            "offsetInEndSection": 758, 
+            "text": "On the other hand, miR-21, miR-199a, miR-210, and miR-494 have been proven critical for the myocytes' adaptation and survival during hypoxia/ischemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21464712", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 625, 
+            "offsetInEndSection": 858, 
+            "text": "Studies have shown that several miRs, including miR-1, miR-133, miR-21, miR-126, miR-320, miR-92a, and miR-199a, are regulated after preconditioning and play an active role in protecting the heart against ischemia/reperfusion injury.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20980922", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 810, 
+            "offsetInEndSection": 1053, 
+            "text": "Studies using various in vivo, ex vivo, and in vitro models have suggested the possible involvement of miR-1, miR-21, miR-29, miR-92a, miR-133, miR-199a, and miR-320 in ischemia-reperfusion injury and/or remodeling after myocardial infarction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20959496", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 672, 
+            "text": "MicroRNA-21 (miR-21) is a highly expressed microRNA (miRNA) in cardiovascular system. Recent studies have revealed that its expression is deregulated in heart and vasculature under cardiovascular disease conditions such as proliferative vascular disease, cardiac hypertrophy and heart failure, and ischemic heart disease. miR-21 is found to play important roles in vascular smooth muscle cell proliferation and apoptosis, cardiac cell growth and death, and cardiac fibroblast functions. Accordingly, miR-21 is proven to be involved in the pathogenesis of the above-mentioned cardiovascular diseases as demonstrated by both loss-of-function and gain-of-function approaches.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 993, 
+            "text": "miR-21 might be a novel therapeutic target in cardiovascular diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 994, 
+            "offsetInEndSection": 1103, 
+            "text": "This review article summarizes the research progress regarding the roles of miR-21 in cardiovascular disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 1173, 
+            "text": "Remarkably, miR-21 was one of most upregulated miRNAs in hearts after IP. In vivo, IP-mediated cardiac protection against ischaemia/reperfusion injury was inhibited by knockdown of cardiac miR-21. In cultured cardiac myocytes, we identified that miR-21 also had a protective effect on hypoxia/reoxygenation-induced cell apoptosis that was associated with its target gene, programmed cell death 4. The protective effect of miR-21 on cardiac cell apoptosis was further confirmed in rat hearts after ischaemia/reperfusion injury in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20219857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 747, 
+            "text": "Lately, some highlight articles revealed that the altered expression of miRNAs such as miR-1, miR-133, miR-21, miR-208 etc in hearts also contributed to cardiovascular diseases, such as heart ischemia, cardiac hypertrophy, and arrhythmias.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20015039", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 495, 
+            "offsetInEndSection": 1537, 
+            "text": "Remarkably, miR-21 expression was significantly down-regulated in infarcted areas, but was up-regulated in border areas. The down-regulation of miR-21 in the infarcted areas was inhibited by ischemic preconditioning, a known cardiac protective method. Overexpression of miR-21 via adenovirus expressing miR-21 (Ad-miR-21) decreased myocardial infarct size by 29% at 24 h and decreased the dimension of left ventricles at 2 weeks after AMI. Using both gain-of-function and loss-of-function approaches in cultured cardiac myocytes, we identified that miR-21 had a protective effect on ischemia-induced cell apoptosis that was associated with its target gene programmed cell death 4 and activator protein 1 pathway. The protective effect of miR-21 against ischemia-induced cardiac myocyte damage was further confirmed in vivo by decreased cell apoptosis in the border and infarcted areas of the infarcted rat hearts after treatment with Ad-miR-21. The results suggest that miRNAs such as miR-21 may play critical roles in the early phase of AMI.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19706597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1439, 
+            "offsetInEndSection": 1792, 
+            "text": "The results suggest that miR-21 is sensitive to H(2)O(2) stimulation. miR-21 participates in H(2)O(2)-mediated gene regulation and functional modulation in cardiac myocytes. miR-21 might play an essential role in heart diseases related to ROS such as cardiac hypertrophy, heart failure, myocardial infarction, and myocardial ischemia/reperfusion injury.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19336275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "MicroRNA-21 contributes to myocardial disease by stimulating MAP kinase signalling in fibroblasts", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19043405", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Myocardial and circulating levels of microRNA-21 reflect left ventricular fibrosis in aortic stenosis patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22882958", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "MicroRNA 21 inhibits left ventricular remodeling in the early phase of rat model with ischemia-reperfusion injury by suppressing cell apoptosis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22859901", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "MicroRNA-21 protects against the H(2)O(2)-induced injury on cardiac myocytes via its target gene PDCD4", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19336275", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "MicroRNA-21 (miR-21) is a highly expressed microRNA (miRNA) in cardiovascular system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "MicroRNA-21 contributes to myocardial disease by stimulating MAP kinase signalling in fibroblasts.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19043405", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "MicroRNA-21 (miR-21) is a highly expressed microRNA (miRNA) in cardiovascular system", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 992, 
+            "text": "miR-21 might be a novel therapeutic target in cardiovascular diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20560046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "MicroRNA-21 as therapeutic target in cancer and cardiovascular disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20649511", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1163, 
+            "offsetInEndSection": 1273, 
+            "text": "These findings reveal that microRNAs can contribute to myocardial disease by an effect in cardiac fibroblasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19043405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1274, 
+            "offsetInEndSection": 1451, 
+            "text": "Our results validate miR-21 as a disease target in heart failure and establish the therapeutic efficacy of microRNA therapeutic intervention in a cardiovascular disease setting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19043405", 
+            "endSection": "abstract"
+        }
+    ]
+}

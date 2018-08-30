@@ -1,0 +1,77 @@
+{
+    "body": "List viral vectors used in gene therapy.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26611583", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25636961", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26611600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25962909", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24519667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26607476"
+    ], 
+    "ideal_answer": [
+        "adeno-associated viruses\nlentiviruses\nherpes simplex viral vector"
+    ], 
+    "exact_answer": [
+        [
+            "adeno-associated viruses"
+        ], 
+        [
+            "lentiviruses"
+        ], 
+        [
+            "herpes simplex viral vector"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58ea59273e8b6dc87c000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 228, 
+            "offsetInEndSection": 450, 
+            "text": "Not only can some genetically engineered adenoviral vectors achieve remarkably efficient and specific gene delivery to target cells, but they also may act as anticancer agents by selectively replicating within cancer cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26611583", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 349, 
+            "offsetInEndSection": 503, 
+            "text": ". Using these criteria, we then evaluate approaches made to model PD using viral vectors to date, including both adeno-associated viruses and lentiviruses", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26611600", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "Recombinant AAV (rAAV) vectors are a suitable vector for gene therapy studies because of desired characteristics such as low immunogenicity, transfection of non-dividing and dividing cells, and long-term expression of the transgene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26607476", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 292, 
+            "text": "Over the last five years, the number of clinical trials involving AAV (adeno-associated virus) and lentiviral vectors continue to increase by about 150 trials each year. For continued success, AAV and lentiviral expression cassettes need to be designed to meet each disease's specific needs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25636961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 633, 
+            "text": "describes commonly used gene therapeutics (herpes simplex viral vector (HSV) and adeno-associated viral vector (AAV))", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25962909", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 230, 
+            "text": "This study examined the efficacy of gene therapy of lung adenocarcinoma using specifically controlled type I herpes simplex virus recombinant vector expressing Gibbon ape leukemia virus membrane fusion glycoprotein gene (GALV.fus)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24519667", 
+            "endSection": "abstract"
+        }
+    ]
+}

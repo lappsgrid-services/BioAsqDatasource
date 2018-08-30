@@ -1,0 +1,208 @@
+{
+    "body": "List the human acrocentric chromosomes that are involved in Robertsonian translocation.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15845597", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6163355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2793186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23771085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3463445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2831495", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25179263", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15284799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10096024", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20045761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11330398", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12424707", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8659523", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8010709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2658738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12210293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1478673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11536270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/527972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2095460", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15505407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9865780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19070179"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0333715", 
+            "o": "Robertsonian Translocation"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0333715", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18692913"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18692913", 
+            "o": "robertsonian translocation"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0333715", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18618720"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18618720", 
+            "o": "robertsonian translocations"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0333715", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18637418"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18637418", 
+            "o": "translocation robertsonian"
+        }
+    ], 
+    "ideal_answer": [
+        "Robertsonian translocations (ROBs) are the most common chromosomal rearrangements in humans. ROBs are whole-arm rearrangements between the acrocentric chromosomes 13, 14, 15, 21, and 22."
+    ], 
+    "exact_answer": [
+        [
+            "13"
+        ], 
+        [
+            "14"
+        ], 
+        [
+            "15"
+        ], 
+        [
+            "21"
+        ], 
+        [
+            "22"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002904", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014178", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002877", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006801", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002875"
+    ], 
+    "type": "list", 
+    "id": "58da14178acda34529000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Sperm segregation analysis of a (13;22) Robertsonian translocation carrier by FISH: a comparison of locus-specific probe and whole chromosome painting.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15845597", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 277, 
+            "text": "The t(13;22) Robertsonian translocation constitutes a rare form of rearrangement between acrocentric human chromosomes. Most of the meiotic segregation studies of human Robertsonian translocations have been performed on common t(13;14) and t(14;21) translocations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15845597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 365, 
+            "text": "Robertsonian translocations (ROBs) are the most common chromosomal rearrangements in humans. ROBs are whole-arm rearrangements between the acrocentric chromosomes 13-15, 21, and 22. ROBs can be classified into two groups depending on their frequency of occurrence, common (rob(13q14q) and rob(14q21q)), and rare (all remaining possible nonhomologous combinations). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12424707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 477, 
+            "text": "Robertsonian translocations (ROBs) are the most common rearrangements in humans, contributing significantly to genetic imbalance, fetal wastage, mental retardation and birth defects. Rob(14q21q) and rob(13q14q), which are formed predominantly during female meiosis, comprise the majority (approximately 85%) of all ROBs. Previous studies have shown that the breakpoints are consistently located within specific regions of the proximal short arms of chromosomes 13, 14, and 21. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11330398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 203, 
+            "offsetInEndSection": 506, 
+            "text": "To localize the chAB4 sequences more precisely on the acrocentrics, chAB4-specific probes together with rDNA and a number of satellite sequences were hybridized to metaphase chromosomes of normal probands and of carriers of Robertsonian translocations of the frequent types rob(13q14q) and rob(14q21q). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9865780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 660, 
+            "offsetInEndSection": 968, 
+            "text": "Chromosome 22, most probably, is the only chromosome where chAB4 is found in the direct neighbourhood of the centromere. Fluorescence in situ hybridization analyses of metaphase chromosomes of carriers of rob(21q22q) revealed breakpoint diversity for this rare type of Robertsonian translocation chromosome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9865780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 466, 
+            "offsetInEndSection": 793, 
+            "text": "This process is suggested for the evolution of an alpha satellite subfamily recently found on chromosomes 13, 14 and 21. The presence of this alpha subfamily may allow pairing between these chromosomes leading to the observed non-random participation of these chromosomes in t(13q14q) and t(14q21q) Robertsonian translocations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2095460", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "The pattern of association of acrocentric chromosomes was examined in ten and five carriers of a 15/21 and a 13/14 Robertsonian translocation, respectively, and was compared with that of the same numbers of relatives with normal karyotypes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/527972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 203, 
+            "text": "Homologous alpha satellite sequences on human acrocentric chromosomes with selectivity for chromosomes 13, 14 and 21: implications for recombination between nonhomologues and Robertsonian translocations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2831495", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 1339, 
+            "text": "Out of 21 structural chromosomal anomalies and polymorphic variants, six deletions and microdeletions, four situations with abnormal long \"p\" arm of acrocentric chromosomes, two duplications, two reciprocal translocations, two inversions, two additions, one Robertsonian translocation associating trisomy 13, one 9q heteromorphism and one complex chromosome rearrangement were noticed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23771085", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 414, 
+            "text": "The purpose of this study was to search for cytologic evidence of robertsonian translocation formation that involves chromosomes 14q and 21q in human oogenesis with the use of dual color fluorescent in situ hybridization with whole chromosome paints.The oocytes from a chromosomally normal fetus at 23.5 weeks of gestation underwent cohybridization with chromosome specific DNA libraries from chromosomes 14 and 21", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15284799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "The t(13;22) Robertsonian translocation constitutes a rare form of rearrangement between acrocentric human chromosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15845597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Homologous alpha satellite sequences on human acrocentric chromosomes with selectivity for chromosomes 13, 14 and 21: implications for recombination between nonhomologues and Robertsonian translocations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2831495", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "The t(13;22) Robertsonian translocation constitutes a rare form of rearrangement between acrocentric human chromosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15845597", 
+            "endSection": "abstract"
+        }
+    ]
+}

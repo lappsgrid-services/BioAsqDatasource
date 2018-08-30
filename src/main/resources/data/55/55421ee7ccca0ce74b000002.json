@@ -1,0 +1,377 @@
+{
+    "body": "Which tumor suppressor is referred to as \"the guardian of the genome\"?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18794879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21875573", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22017796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22611192", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19243304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11156366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24264057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20165689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25302307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22248668", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11729185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20406950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23103206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22528751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23209608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19128788", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22978174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17589818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24231949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23948487", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18336191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8844397", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15701641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23412905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20935678", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12494467", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21341346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20740625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22374721", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11906841", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19184427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17457049", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21452930", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12629332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9219832", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15033688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20922462"
+    ], 
+    "ideal_answer": [
+        "The major tumour suppressor protein, p53, is one of the most well-studied proteins in cell biology. It plays a crucial role in regulating the transcription of numerous genes responsible for cells cycle arrest, DNA repair, angiogenesis, cell senescence, or apoptosis in response to various stress signals, and is considered one of the most important players in the development of cancer. p53 contributes to the maintenance of genomic stability. Thus, p53 has been described as \"the guardian of the genome\"."
+    ], 
+    "exact_answer": [
+        "p53"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051726", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016147", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D025521"
+    ], 
+    "type": "factoid", 
+    "id": "55421ee7ccca0ce74b000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 287, 
+            "text": "The major tumour suppressor protein, p53, is one of the most well-studied proteins in cell biology. Often referred to as the Guardian of the Genome, the list of known functions of p53 include regulatory roles in cell cycle arrest, apoptosis, angiogenesis, DNA repair and cell senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24264057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "p53-Based cyclotherapy: exploiting the 'guardian of the genome' to protect normal cells from cytotoxic therapy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24231949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 255, 
+            "text": "The tumor suppressor protein p53 has been described \"as the guardian of the genome\" for its crucial role in regulating the transcription of numerous genes responsible for cells cycle arrest, senescence, or apoptosis in response to various stress signals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23209608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 859, 
+            "offsetInEndSection": 929, 
+            "text": "the critical tumor suppressor p53, known as the guardian of the genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22528751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 214, 
+            "text": "p53 is well known as the \"guardian of the genome\" for differentiated and neoplastic cells. p53 induces cell-cycle arrest and cell death after DNA damage and thus contributes to the maintenance of genomic stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22248668", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 269, 
+            "text": "The classical functions of p53 protein are those related to its role on DNA damage, cell growth arrest, senescence and apoptosis. For this reason it is called 'the guardian of the genome' and is considered one of the most important players in the development of cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21452930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 281, 
+            "offsetInEndSection": 375, 
+            "text": "Tumor suppressor p53 is a genome guardian and important negative regulator of the cell cycle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22611192", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 601, 
+            "text": "The p53 gene is a tumor suppressor gene that acts as \"guardian of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12629332", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 229, 
+            "offsetInEndSection": 394, 
+            "text": "Among many genetic lesions, mutational inactivation of p53 tumor suppressor, the \"guardian of the genome,\" is the most frequent event found in 50% of human cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20165689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 980, 
+            "offsetInEndSection": 1147, 
+            "text": "The tumor suppressor p53 is known as a guardian of the genome that mediates the cellular response to environmental stress, leading to cell cycle arrest or cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18794879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1049, 
+            "offsetInEndSection": 1234, 
+            "text": "This is the first report that demonstrates the mechanism of action of the MAR-binding protein SMAR1 in modulating the activity of p53, often referred to as the \"guardian of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15701641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Inhibition of tumor angiogenesis by p53: a new role for the guardian of the genome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17589818", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "The tumor suppressor p53 is often referred to as \"the guardian of the genome\" because of its central role in the cellular response to oncogenic stress and prevention of tumor development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20406950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "The tumor suppressor p53, encoded by the TP53 gene, is recognized as the guardian of the human genome because it regulates many downstream genes to exercise its function in cell cycle and cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20935678", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 296, 
+            "text": "p53, the guardian of the genome, is the most important tumor suppressor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23948487", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "The tumor suppressor protein p53 is often referred to as the guardian of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23103206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 328, 
+            "offsetInEndSection": 462, 
+            "text": "The tumor suppressor p53 is the most frequently mutated gene in human cancer and is often referred to as the \"guardian of the genome\".", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21875573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 396, 
+            "text": "The p53 tumor suppressor protein is often referred to as the \"guardian of the genome\" since its response to DNA-damage or checkpoint failure gives rise to a series of anti-proliferative responses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18336191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Tumor suppressor p53, known as the guardian of the genome, has the ability to prevent the emergence of transformed cells by the induction of cell cycle arrest and apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978174", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "Tumor suppressor p53 functions as a \"guardian of the genome\" to prevent cells from transformation. p53 is constitutively ubiquitinated and degradated in unstressed conditions, thereby suppressing the expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22374721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 95, 
+            "offsetInEndSection": 244, 
+            "text": "Commonly referred as a \"guardian of the genome\", p53 is responsible for determining the fate of the cell when the integrity of its genome is damaged.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21341346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 212, 
+            "text": "The p53 gene is involved in genome stability and thus is referred to as \"the guardian of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20740625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 267, 
+            "text": "p53 has been referred to as the guardian of the genome because of its role in protecting the cell from DNA damage. p53 performs its duties by regulating cell-cycle progression and DNA repair and, in cases of irreparable DNA damage, by executing programmed cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19243304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "The p53 gene has been referred to as the guardian of the genome because it controls apoptosis and cell cycle arrest.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19184427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "The tumor suppressor protein, p53, is often referred to as the guardian of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11906841", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 463, 
+            "text": "The tumor suppressor p53 is the most frequently mutated gene in human cancer and is often referred to as the \"guardian of the genome\".", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21875573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Oncogenic mutations of the p53 tumor suppressor: the demons of the guardian of the genome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11156366", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 245, 
+            "text": "Commonly referred as a \"guardian of the genome\", p53 is responsible for determining the fate of the cell when the integrity of its genome is damaged.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21341346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 988, 
+            "offsetInEndSection": 1154, 
+            "text": "The tumor suppressor p53 is known as a guardian of the genome that mediates the cellular response to environmental stress, leading to cell cycle arrest or cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18794879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "p53, sometimes referred to as the \"guardian of the genome,\" helps regulate cell-cycle arrest, DNA-damage repair, apoptosis, and senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19128788", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "The tumor suppressor protein p53 is often referred to as the guardian of the genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23103206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 395, 
+            "text": "The p53 tumor suppressor protein is often referred to as the \"guardian of the genome\" since its response to DNA-damage or checkpoint failure gives rise to a series of anti-proliferative responses", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18336191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 462, 
+            "text": "The tumor suppressor p53 is the most frequently mutated gene in human cancer and is often referred to as the \"guardian of the genome\"", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21875573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 710, 
+            "text": "Remarkably, the guardians--p53, p73, and p63--of the genome are in control of most of the known tumor suppressor miRNAs, tumor suppressor genes, and metastasis suppressors by suppressing c-myc through miR-145/let-7/miR-34/TRIM32/PTEN/FBXW7", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20922462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 413, 
+            "text": "The p53 gene is involved in genome stability and thus is referred to as \"the guardian of the genome.\" To better understand the antigenotoxic effects of p53 in ultraviolet light B (UVB)-induced mutagenesis, mutations were measured in the epidermis of UVB-irradiated p53(+/+) and p53(-/-) gpt delta mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20740625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "The guardians of the genome (p53, TA-p73, and TA-p63) are regulators of tumor suppressor miRNAs network.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20922462", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 624, 
+            "offsetInEndSection": 763, 
+            "text": "Therefore, while p53 can be rightly defined as the guardian of the genome, we could think of p73 as the \"assistant\" guardian of the genome!", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15033688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 988, 
+            "offsetInEndSection": 1153, 
+            "text": "The tumor suppressor p53 is known as a guardian of the genome that mediates the cellular response to environmental stress, leading to cell cycle arrest or cell death", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18794879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "The tumor suppressor protein, p53, is often referred to as the guardian of the genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11906841", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1057, 
+            "offsetInEndSection": 1242, 
+            "text": "This is the first report that demonstrates the mechanism of action of the MAR-binding protein SMAR1 in modulating the activity of p53, often referred to as the \"guardian of the genome.\"", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15701641", 
+            "endSection": "abstract"
+        }
+    ]
+}

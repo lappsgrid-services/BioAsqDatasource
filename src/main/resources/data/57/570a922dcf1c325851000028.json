@@ -1,0 +1,78 @@
+{
+    "body": "Which major signaling pathways are regulated by RIP1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25767797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24224954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24460252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25391899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23674612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25326752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24874734"
+    ], 
+    "ideal_answer": [
+        "necroptosis\napoptosis  \npro-survival/inflammation NF-\u03baB activation"
+    ], 
+    "exact_answer": [
+        [
+            "necroptosis"
+        ], 
+        [
+            "apoptosis"
+        ], 
+        [
+            "pro-survival/inflammation NF-\u03baB activation"
+        ]
+    ], 
+    "type": "list", 
+    "id": "570a922dcf1c325851000028", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 159, 
+            "offsetInEndSection": 282, 
+            "text": "Major signaling pathways regulated by RIP1 include necroptosis, apoptosis, and pro-survival/inflammation NF-\u03baB activation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25767797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 866, 
+            "offsetInEndSection": 924, 
+            "text": "receptor-interacting protein-1 (RIP1)-mediated necroptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25391899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1090, 
+            "offsetInEndSection": 1257, 
+            "text": "TNF-induced apoptotic signaling pathways were assessed by monitoring levels of the anti-apoptotic protein, A20, and cleavage products of the caspase-8 substrate, RIP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24224954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Receptor-interacting protein (RIP) kinases promote the induction of necrotic cell death pathways. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24874734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 730, 
+            "offsetInEndSection": 946, 
+            "text": "Together our results reveal a specific role for the RIP1-RIP3-DRP1 pathway in RNA virus-induced activation of the NLRP3 inflammasome and establish a direct link between inflammation and cell-death signaling pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25326752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 403, 
+            "offsetInEndSection": 545, 
+            "text": "Necroptosis exhibits a unique signaling pathway that requires the involvement of receptor interaction protein kinases 1 and 3 (RIP1 and RIP3),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24460252", 
+            "endSection": "abstract"
+        }
+    ]
+}

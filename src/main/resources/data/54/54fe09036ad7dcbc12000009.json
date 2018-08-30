@@ -1,0 +1,104 @@
+{
+    "body": "List fish anti-freeze proteins.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19857362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23479899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17189482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10405170", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15059666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16297800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12065219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17553775", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11240367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15146494", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22180206"
+    ], 
+    "ideal_answer": [
+        "AFP-I\nAFP-II\nAFP-III\nAnti-freeze glycoprotein\nThermal hysteresis protein"
+    ], 
+    "exact_answer": [
+        [
+            "anti-freeze protein-3", 
+            "AFP-III"
+        ], 
+        [
+            "anti-freeze glycoprotein"
+        ], 
+        [
+            "Thermal hysteresis protein"
+        ], 
+        [
+            "AFP-I"
+        ], 
+        [
+            "AFP-II"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011506", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009409", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050826", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005615", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033637"
+    ], 
+    "type": "list", 
+    "id": "54fe09036ad7dcbc12000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 713, 
+            "offsetInEndSection": 780, 
+            "text": "the anti-freeze glycoprotein of Antarctic and Arctic notothenoids, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22180206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 54, 
+            "offsetInEndSection": 86, 
+            "text": "pe III anti-freeze protein (AFP)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17189482", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 292, 
+            "offsetInEndSection": 308, 
+            "text": "AFP I or AFP III", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16297800", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 945, 
+            "offsetInEndSection": 975, 
+            "text": "type III anti-freeze proteins ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15146494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 356, 
+            "text": "wild type III thermal hysteresis protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15059666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 66, 
+            "offsetInEndSection": 338, 
+            "text": "Thermal hysteresis proteins (THPs) have been found in vertebrates, invertebrates, plants, bacteria and fungi and are able to depress the freezing point of water (in the presence of ice crystals) in a non-colligative manner by binding to the surface of nascent ice crystals", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11240367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 393, 
+            "offsetInEndSection": 424, 
+            "text": "skin-type anti-freeze protein-3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10405170", 
+            "endSection": "abstract"
+        }
+    ]
+}

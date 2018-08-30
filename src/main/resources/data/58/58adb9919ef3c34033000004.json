@@ -1,0 +1,127 @@
+{
+    "body": "Which proteins form part of the NRD complex in S. cerevisiae?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9804427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25877920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21211720", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10545197"
+    ], 
+    "ideal_answer": [
+        "The purification of an ATR complex allowed identification of chromodomain-helicase-DNA-binding protein 4 (CHD4) as an ATR-associated protein by tandem mass spectrometric sequencing. CHD4 (also called Mi-2beta) is a component of a histone-deacetylase-2 (HDAC2)-containing complex, the nucleosome remodeling and deacetylating (NRD) complex. Endogenous ATR, CHD4, and HDAC2 are shown to coimmunoprecipitate, and ATR and HDAC2 coelute through two biochemical purification steps. Other members of the NRD complex, HDAC1, MTA1, and MTA2, are also detectable in ATR immunoprecipitates. Sen1 of S. cerevisiae is a known component of the NRD complex implicated in transcription termination of nonpolyadenylated as well as some polyadenylated RNA polymerase II transcripts.  We now show that Pcf11, a component of the cleavage and polyadenylation complex (CPAC), is also generally required for NRD-dependent transcription termination through the action of its C-terminal domain (CTD)-interacting domain (CID)."
+    ], 
+    "exact_answer": [
+        [
+            "Chd2"
+        ], 
+        [
+            "Chd4"
+        ], 
+        [
+            "Hdac2"
+        ], 
+        [
+            "Mta1"
+        ], 
+        [
+            "Mta2"
+        ], 
+        [
+            "Sen1"
+        ], 
+        [
+            "Pcf11"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58adb9919ef3c34033000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1007, 
+            "offsetInEndSection": 1314, 
+            "text": "This activity is derived from the CHD3 and CHD4 proteins which contain helicase/ATPase domains found in SWI2-related chromatin remodelling factors, and facilitates the deacetylation of oligonucleosomal histones in vitro. We refer to this complex as the nucleosome remodelling and deacetylating (NRD) complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9804427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Molecular association between ATR and two components of the nucleosome remodeling and deacetylating complex, HDAC2 and CHD4", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10545197", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 602, 
+            "text": "The purification of an ATR complex allowed identification of chromodomain-helicase-DNA-binding protein 4 (CHD4) as an ATR-associated protein by tandem mass spectrometric sequencing. CHD4 (also called Mi-2beta) is a component of a histone-deacetylase-2 (HDAC2)-containing complex, the nucleosome remodeling and deacetylating (NRD) complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10545197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 604, 
+            "offsetInEndSection": 843, 
+            "text": "Endogenous ATR, CHD4, and HDAC2 are shown to coimmunoprecipitate, and ATR and HDAC2 coelute through two biochemical purification steps. Other members of the NRD complex, HDAC1, MTA1, and MTA2, are also detectable in ATR immunoprecipitates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10545197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "Sen1 of S. cerevisiae is a known component of the NRD complex implicated in transcription termination of nonpolyadenylated as well as some polyadenylated RNA polymerase II transcripts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211720", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 401, 
+            "text": "We now show that Pcf11, a component of the cleavage and polyadenylation complex (CPAC), is also generally required for NRD-dependent transcription termination through the action of its C-terminal domain (CTD)-interacting domain (CID).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25877920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "In Saccharomyces cerevisiae, short noncoding RNA (ncRNA) generated by RNA polymerase II (Pol II) are terminated by the NRD complex consisting of Nrd1, Nab3, and Sen1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25877920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Sen1 of S. cerevisiae is a known component of the NRD complex implicated in transcription termination of nonpolyadenylated as well as some polyadenylated RNA polymerase II transcripts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211720", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 445, 
+            "offsetInEndSection": 601, 
+            "text": "CHD4 (also called Mi-2beta) is a component of a histone-deacetylase-2 (HDAC2)-containing complex, the nucleosome remodeling and deacetylating (NRD) complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10545197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 736, 
+            "offsetInEndSection": 839, 
+            "text": "Other members of the NRD complex, HDAC1, MTA1, and MTA2, are also detectable in ATR immunoprecipitates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10545197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "In Saccharomyces cerevisiae, short noncoding RNA (ncRNA) generated by RNA polymerase II (Pol II) are terminated by the NRD complex consisting of Nrd1, Nab3, and Sen1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25877920", 
+            "endSection": "abstract"
+        }
+    ]
+}

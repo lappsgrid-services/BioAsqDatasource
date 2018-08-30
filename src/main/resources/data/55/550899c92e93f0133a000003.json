@@ -1,0 +1,91 @@
+{
+    "body": "Is K-63 linked protein ubiquitination related to proteasomal degradation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18042044", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21737094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19091944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21071436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15728425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20663875"
+    ], 
+    "ideal_answer": [
+        "Ubiquitination is best known for its role in targeting proteins for degradation by the proteasome, but evidence of the nonproteolytic functions of ubiquitin is also rapidly accumulating. One example of the regulatory, rather than proteolytic, function of ubiquitin is provided by study of the tumor necrosis factor (TNF) receptor-associated factor (TRAF) proteins, which function as ubiquitin ligases to synthesize lysine 63 (K(63))-linked polyubiquitin chains to mediate protein kinase activation through a proteasome-independent mechanism. Some TRAF proteins, such as TRAF2 and TRAF3, have recently been shown to have a positive role in the canonical pathway that activates nuclear factor kappaB (NF-kappaB) through IkappaB kinase beta (IKKbeta), but a negative role in the noncanonical pathway that activates NF-kappaB through IKKalpha. These opposing roles of TRAF proteins may be linked to their ability to synthesize distinct forms of polyubiquitin chains. Indeed, the TRAF2-interacting protein RIP can mediate IKK activation when it is modified by K(63) polyubiquitin chains, but is targeted to degradation by the proteasome when it is K(48)-polyubiquitinted by the NF-kappaB inhibitor A20. Thus, ubiquitin chains are dynamic switches that can influence signaling outputs in dramatically different ways.In contrast to K48-linked polyubiquitin chains, K63-linked polyubiquitin chains function in nonproteasomal biological processes.", 
+        "In contrast to K48-linked polyubiquitin chains, K63-linked polyubiquitin chains function in nonproteasomal biological processes. Modification of proteins by the addition of lysine (K)-63-linked polyubiquitin (polyUb) chains is suggested to play important roles in a variety of cellular events, including DNA repair, signal transduction, and receptor endocytosis. One example of the regulatory, rather than proteolytic, function of ubiquitin is provided by study of the tumor necrosis factor (TNF) receptor-associated factor (TRAF) proteins, which function as ubiquitin ligases to synthesize lysine 63 (K(63))-linked polyubiquitin chains to mediate protein kinase activation through a proteasome-independent mechanism.", 
+        "One example of the regulatory, rather than proteolytic, function of ubiquitin is provided by study of the tumor necrosis factor (TNF) receptor-associated factor (TRAF) proteins, which function as ubiquitin ligases to synthesize lysine 63 (K(63))-linked polyubiquitin chains to mediate protein kinase activation through a proteasome-independent mechanism", 
+        "Modification of proteins by the addition of lysine (K)-63-linked polyubiquitin (polyUb) chains is suggested to play important roles in a variety of cellular events, including DNA repair, signal transduction, and receptor endocytosis. In contrast to K48-linked polyubiquitin chains, K63-linked polyubiquitin chains function in nonproteasomal biological processes."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0061136", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016567", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010498"
+    ], 
+    "type": "yesno", 
+    "id": "550899c92e93f0133a000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 364, 
+            "text": "In contrast to K48-linked polyubiquitin chains, K63-linked polyubiquitin chains function in nonproteasomal biological processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20663875", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "Modification of proteins by the addition of lysine (K)-63-linked polyubiquitin (polyUb) chains is suggested to play important roles in a variety of cellular events, including DNA repair, signal transduction, and receptor endocytosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19091944", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 1310, 
+            "text": "Ubiquitination is best known for its role in targeting proteins for degradation by the proteasome, but evidence of the nonproteolytic functions of ubiquitin is also rapidly accumulating. One example of the regulatory, rather than proteolytic, function of ubiquitin is provided by study of the tumor necrosis factor (TNF) receptor-associated factor (TRAF) proteins, which function as ubiquitin ligases to synthesize lysine 63 (K(63))-linked polyubiquitin chains to mediate protein kinase activation through a proteasome-independent mechanism. Some TRAF proteins, such as TRAF2 and TRAF3, have recently been shown to have a positive role in the canonical pathway that activates nuclear factor kappaB (NF-kappaB) through IkappaB kinase beta (IKKbeta), but a negative role in the noncanonical pathway that activates NF-kappaB through IKKalpha. These opposing roles of TRAF proteins may be linked to their ability to synthesize distinct forms of polyubiquitin chains. Indeed, the TRAF2-interacting protein RIP can mediate IKK activation when it is modified by K(63) polyubiquitin chains, but is targeted to degradation by the proteasome when it is K(48)-polyubiquitinted by the NF-kappaB inhibitor A20. Thus, ubiquitin chains are dynamic switches that can influence signaling outputs in dramatically different ways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15728425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1709, 
+            "offsetInEndSection": 1961, 
+            "text": "Importantly, although Lys-48-linked ubiquitin chains appear to trigger proteasomal degradation, the presence of Lys-63-linked ubiquitin chains suggests that ubiquitination of IP(3)Rs may have physiological consequences beyond signaling for degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21071436", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 263, 
+            "text": "Chains of ubiquitin linked via lysine 48 (K48) are associated with protein degradation while chains linked via lysine 63 (K63) are associated with intracellular signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21737094", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 481, 
+            "text": "Lys(48)-linked chains target proteins for proteasomal degradation, and Lys(63)-linked chains function in signal transduction, endocytosis and DNA repair", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18042044", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1302, 
+            "offsetInEndSection": 1535, 
+            "text": "Remarkably, the attached Lys-48- and Lys-63-linked ubiquitin chains are homogeneous and are segregated to separate IP(3)R subunits, and Lys-48-linked ubiquitin chains, but not Lys-63-linked chains, are required for IP(3)R degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21071436", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Activated inositol 1,4,5-trisphosphate receptors are modified by homogeneous Lys-48- and Lys-63-linked ubiquitin chains, but only Lys-48-linked chains are required for degradation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21071436", 
+            "endSection": "title"
+        }
+    ]
+}

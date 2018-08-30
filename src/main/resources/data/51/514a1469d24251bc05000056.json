@@ -1,0 +1,235 @@
+{
+    "body": "Is there a pharmacogenetic test for trastuzumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20590449", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16809727", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11838648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17785760", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11265171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15970231", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16235569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15510616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21632460", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22461093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17159499", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17947471", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17184417", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11579337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11097337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22065003", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15217485", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22112244"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10771788", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1545807", 
+            "o": "trastuzumab"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0728747", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10771788"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8438296", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16756458", 
+            "o": "TRASTUZUMAB"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00072", 
+            "o": "http://dbpedia.org/resource/Trastuzumab"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. HER2 testing is performed in breast cancer patients to determine suitability for trastuzumab (Herceptin therapy)."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4002084", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010597"
+    ], 
+    "type": "yesno", 
+    "id": "514a1469d24251bc05000056", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 518, 
+            "text": "The clinical need for novel approaches to improve drug therapy derives from the high rate of adverse reactions to drugs and their lack of efficacy in many individuals that may be predicted by pharmacogenetic testing.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22461093", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1429, 
+            "offsetInEndSection": 1549, 
+            "text": "the assessment of the human epidermal growth factor receptor (HER-2) expression for trastuzumab therapy of breast cancer", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22461093", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 379, 
+            "offsetInEndSection": 440, 
+            "text": "HER2 positive breast cancer and the use of the drug Herceptin", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17184417", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 696, 
+            "offsetInEndSection": 988, 
+            "text": "The dependence on gene copy number or expression levels of HER2 and epidermal growth factor receptor (EGFR) for therapeutic efficacy of trastuzumab and cetuximab (Erbitux), respectively, supports the importance of selecting suitable patient populations based on their pharmacogenetic profile.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16235569", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 718, 
+            "text": "to explore informed consent issues surrounding the use of the drug Herceptin, widely cited as an example of a novel approach to drug development called pharmacogenetics. Drawing on qualitative semi-structured interviews with 25 UK-based breast cancer specialists, this paper explores Herceptin's disputed epistemological status, as an example of pharmacogenetics or as something out of the ordinary in terms of clinical practice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15970231", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "There have been several success stories in the field of pharmacogenetics in recent years, including the analysis of HER2 amplification for trastuzumab selection in breast cancer", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22065003", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Trastuzumab is standard of care in the treatment of human epidermal growth factor receptor (HER)-2\u207a early and advanced breast cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21632460", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 169, 
+            "text": "HER-2 overexpression as a predictor of response to trastuzumab", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17947471", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Pharmacogenomic analysis aspires to identify individuals with specific genetic characteristics in order to predict a positive response or reduce a negative response to a therapeutic modality.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11097337", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 792, 
+            "offsetInEndSection": 998, 
+            "text": "Assays are available to detect the HER2 protein receptor or copies of the HER2 gene sequence to determine eligibility for Herceptin treatment or adriamycin treatment in node positive patients, respectively.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11097337", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Determining the HER2 status of breast carcinomas is a prerequisite for the use of the monoclonal antibody trastuzumab (Herceptin), which has recently been licensed for the treatment of metastatic disease.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11265171", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 190, 
+            "text": "Laboratory testing of HER2/neu in breast carcinoma has become vital to patient care following the approval of trastuzumab as the first therapy to target the HER2/neu oncoprotein.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11579337", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 474, 
+            "text": "Immunohistochemical (IHC) analysis was performed with use of a diagnostic test for the assessment of HER2 overexpression, the HercepTest.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11838648", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 270, 
+            "offsetInEndSection": 490, 
+            "text": "To test for HER-2/neu overexpression in patients with non-Hodgkin's lymphoma and the possible role of the recombinant monoclonal anti-HER-2/neu antibody trastuzumab (Herceptin) in the treatment of non-Hodgkin's lymphoma.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15510616", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 195, 
+            "text": "To evaluate concordance between local and central laboratory HER2 testing results in patients from the North Central Cancer Treatment Group (NCCTG) N9831 adjuvant trial of trastuzumab.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16809727", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1559, 
+            "offsetInEndSection": 1749, 
+            "text": "These findings support the importance of using high-volume, experienced laboratories for HER2 testing to improve the process of selecting patients likely to benefit from trastuzumab therapy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16809727", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 256, 
+            "offsetInEndSection": 617, 
+            "text": "we measured trastuzumab levels in the serum and in cerebrospinal fluid of metastatic breast cancer patients with brain metastases receiving trastuzumab for HER2-overexpressing metastatic breast cancer. In a pilot study, metastatic breast cancer patients with brain metastases and HER2-overexpressing tumors (HercepTest; Dako, Copenhagen, Denmark) were included.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17159499", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1687, 
+            "offsetInEndSection": 1966, 
+            "text": "Monitoring of trastuzumab levels in the serum and cerebrospinal fluid may enable individualized therapy strategies in metastatic breast cancer patients with brain metastases, and lead to a better understanding of trastuzumab pharmacokinetics in the cerebrospinal fluid and serum.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17159499", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 102, 
+            "text": "Biotin-labeled trastuzumab (BiotHER) can be used to test for HER2 by immunohistochemistry.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17785760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1395, 
+            "offsetInEndSection": 1547, 
+            "text": "The results support a role for BiotHER testing in better tailoring trastuzumab-based treatments in patients with advanced HER2-amplified breast cancers.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17785760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 308, 
+            "offsetInEndSection": 393, 
+            "text": "response to anti-human epidermal growth factor receptor 2 (HER2) therapy trastuzumab.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20590449", 
+            "endSection": "sections.0"
+        }
+    ]
+}

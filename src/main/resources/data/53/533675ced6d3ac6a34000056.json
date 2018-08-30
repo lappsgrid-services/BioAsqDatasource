@@ -1,0 +1,280 @@
+{
+    "body": "What histone variants play a role in the DNA damage reponse?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18296106", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20407219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11893489", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19234522", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21901086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16951256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21383063", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17851762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19131518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12202754", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19607843", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21700704", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23777805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16094454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23319141", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20703100", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17613284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23365640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19896956", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22122340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22493515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22331172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16760674", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22253857"
+    ], 
+    "ideal_answer": [
+        "Mostly H2A.X, but H2A.Z and H1R have also been associated to DNA damage"
+    ], 
+    "exact_answer": [
+        [
+            "H2A.X"
+        ], 
+        [
+            "H2A.Z"
+        ], 
+        [
+            "H1R"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006974", 
+        "http://www.uniprot.org/uniprot/H2BV_BOVIN", 
+        "http://www.biosemantics.org/jochem#4278518", 
+        "http://www.uniprot.org/uniprot/H2AZ_CHAGB", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004249", 
+        "http://www.uniprot.org/uniprot/H2BV_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006657"
+    ], 
+    "type": "list", 
+    "id": "533675ced6d3ac6a34000056", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 185, 
+            "offsetInEndSection": 333, 
+            "text": "H2A.Z is an evolutionarily ancient and highly conserved H2A variant that regulates processes ranging from gene expression to the DNA damage response", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22493515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 746, 
+            "text": "activation of DNA damage checkpoints (ataxia telangiectasia mutated (ATM) and H2A histone family, member X (H2AFX (H2AFX)))", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22331172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 188, 
+            "offsetInEndSection": 349, 
+            "text": "the specialization imparted by histone H2A (H2A.X and H2A.Z) variants to the nucleosome core particle constitutes the earliest response to DNA damage in the cell", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22253857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 425, 
+            "offsetInEndSection": 705, 
+            "text": "histone variants (H2AX and H2A.Z), histone post-translational modifications (acetylation, phosphorylation, methylation and ubiquitination) and chromatin-remodeling complexes (INO80, SWR1, SWI/SNF, RSC and NuRD) are important and direct players in the DNA double-strand break (DSB)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22122340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1456, 
+            "offsetInEndSection": 1593, 
+            "text": "H2A.Z incorporation in the coding regions of genes encoding proteins involved in the regulation of meiosis and genotoxic stress responses", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21901086", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 742, 
+            "offsetInEndSection": 787, 
+            "text": " phosphorylation of H2AX, a DNA damage signal", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21700704", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 114, 
+            "text": "DSB) are generally considered the most critical lesion induced by ionizing radiation (IR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19896956", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 283, 
+            "text": "phosphorylated forms of histone H2AX ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19896956", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 710, 
+            "text": "H2AX has a complete SQ(E/D)varphi (where varphi denotes a hydrophobic residue) known to be phosphorylated in response to DNA damage", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19607843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 701, 
+            "offsetInEndSection": 774, 
+            "text": "H2A.X, plays a very important role in the cellular response to DNA damage", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19234522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 201, 
+            "text": "H2A.X is an H2A variant present in multicellular organisms that is specifically phosphorylated on the serine in the C-terminal consensus sequence, canonically \"SQEY,\" in response to DNA damage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19131518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 37, 
+            "offsetInEndSection": 113, 
+            "text": "H2AFX) is important in maintaining chromatin structure and genetic stability", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17851762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3, 
+            "offsetInEndSection": 78, 
+            "text": "Saccharomyces cerevisiae, the linker histone HHO1 is involved in DNA repair", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 58, 
+            "text": "H1 variant, H1R is involved in DNA damage response", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613284", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 339, 
+            "offsetInEndSection": 477, 
+            "text": "high levels of histone H2AX phosphorylation and an increased incorporation of the Htz1p histone variant into chromatin surrounding the DSB", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16951256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 951, 
+            "offsetInEndSection": 1071, 
+            "text": "TRF2 upregulation was more dramatic in drug-resistant cells and occurred before the expression of ATM, gammaH2AX and p53", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16760674", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 305, 
+            "text": "DNA double-strand breaks induced by anticancer drugs or irradiation increase TRF2 expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16760674", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 467, 
+            "text": "Histone variant H2AX and core histone H2A are phosphorylated in mammals and budding yeast, respectively. We demonstrate the DSB-induced phosphorylation of histone variant H2Av in Drosophila melanogaster", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12202754", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 40, 
+            "offsetInEndSection": 119, 
+            "text": "formation of a double-strand break (DSB) in chromosomal DNA is highly conserved", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12202754", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 339, 
+            "text": "H2A variants, H2AX and H2AZ. H2AX is phosphorylated on a serine four residues from the carboxyl terminus in response to the introduction of DNA double-strand breaks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11893489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 649, 
+            "text": "In response to IR, ZNF668 knockdown reduces Tip60-H2AX interaction and impairs IR-induced histone H2AX hyperacetylation, thus impairing chromatin relaxation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23777805", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1092, 
+            "offsetInEndSection": 1182, 
+            "text": "RPA foci formation were reduced in parallel with increasing levels of H2AX phosphorylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23365640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 182, 
+            "text": "H2AX phosphorylation on a C-terminal serine residue to form \"\u03b3-H2AX\" is a critical early event in the chromatin response to chromosomal DNA double strand breaks in eukaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20703100", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 936, 
+            "offsetInEndSection": 1075, 
+            "text": "The phosphorylation of the histone variant H2AX (gammaH2AX) is one of the best examples of histone PTMs in response to DNA damage induction", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20407219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 603, 
+            "offsetInEndSection": 830, 
+            "text": "One of the most well-characterized modifications is caused by the formation of DNA double strand breaks (DSBs), resulting in phosphorylation of histone H2AX (the so-called gamma-H2AX) on the chromatin surrounding the DNA lesion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18296106", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 867, 
+            "text": "H2AX appears to be mainly associated with maintaining the genome integrity by participating in the repair of the double-stranded DNA breaks exogenously introduced by environmental damage (ionizing radiation, chemicals) or in the process of homologous recombination during meiosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16094454", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 645, 
+            "text": "The sustained localization of BMI1 to damage sites is dependent on intact ATM and ATR and requires H2AX phosphorylatio", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 886, 
+            "offsetInEndSection": 1114, 
+            "text": "unique functional interactions among various chromatin modifiers, suggesting new regulatory pathways, such as a heterochromatin-specific modulation of DNA damage response involving H2A.X and WICH, both enriched in silent domains", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23319141", 
+            "endSection": "abstract"
+        }
+    ]
+}

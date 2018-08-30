@@ -1,0 +1,326 @@
+{
+    "body": "Can ferric carboxymaltose be used to treat anemia in inflammatory bowel disease patients?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21699794", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21340038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24114623", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23078888", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23889159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19787830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21479141", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22023204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18371137", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24081613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23644823", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22179489"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A13386134", 
+            "o": "C522335"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2001867", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A13386134"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A13386134", 
+            "o": "ferric carboxymaltose"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2001867", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A13386134"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A13386134", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Ferric carboxymaltose can be used to treat anemia in patients with inflammatory bowel disease, and prevents recurrence of anemia in these patients, compared with placebo. Treatment with ferric carboxymaltose is efficious, safe and well tolerated in iron-deficient IBD patients."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003093", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2355", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005290", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050589", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015212", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009220"
+    ], 
+    "type": "yesno", 
+    "id": "530cf4fe960c95ad0c00000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 641, 
+            "offsetInEndSection": 805, 
+            "text": "Intravenous iron should be preferred where oral iron is poorly tolerated or where it has failed in moderate to severe anemia, and in combination with erythropoietin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24114623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 938, 
+            "offsetInEndSection": 1069, 
+            "text": "Ferric carboxymaltose is much more convenient, and has been shown to be more effective than iron sucrose in a large randomized tria", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24114623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 84, 
+            "text": "nemia and iron deficiency anemia are very common in inflammatory bowel disease (IBD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24114623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 817, 
+            "offsetInEndSection": 941, 
+            "text": "Ferric carboxymaltose was associated with cost savings of 30-44\u00a0% per patient per treatment cycle compared to iron sucrose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24081613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 385, 
+            "text": "Iron deficiency is common in pregnancy, postpartum, inflammatory bowel disease, chronic kidney disease, chronic heart failure, heavy uterine bleeding, cancer and following surgery. We estimate the budget impact (BI) on the Swiss mandatory health insurance associated with substituting iron sucrose (standard) with ferric carboxymaltose (new treatment) using real-life data.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24081613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1438, 
+            "offsetInEndSection": 1583, 
+            "text": "reating iron deficiency involves substantial costs to the Swiss MHI which may be reduced by substituting iron sucrose with ferric carboxymaltose.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24081613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 129, 
+            "offsetInEndSection": 347, 
+            "text": "e aim of this study was to observe, in a non-interventional way, how Swedish gastroenterologists adhere to guidelines in IBD outpatients treated with intravenous ferric carboxymaltose (FCM), and the result of treatment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23889159", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1658, 
+            "offsetInEndSection": 1766, 
+            "text": "FCM lowers platelet counts and platelet activation in patients with IBD-associated secondary thrombocytosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23644823", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 777, 
+            "text": "We performed a randomized, single-blinded placebo-controlled trial testing the effect of ferric carboxymaltose (FCM) in patients with IBD with secondary thrombocytosis (platelets > 450 G/L)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23644823", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 228, 
+            "offsetInEndSection": 410, 
+            "text": "e performed a randomized, placebo-controlled trial to determine if administration of ferric carboxymaltose (FCM) prevents anemia in patients with IBD and low levels of serum ferritin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23078888", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1670, 
+            "offsetInEndSection": 1749, 
+            "text": "FCM prevents recurrence of anemia in patients with IBD, compared with placebo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23078888", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 403, 
+            "text": " A subgroup was analyzed regarding efficacy and side effects of iron supplementation with ferric carboxymaltose.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22179489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1169, 
+            "offsetInEndSection": 1332, 
+            "text": "Iron deficiency and anemia are frequent in IBD patients. Treatment with ferric carboxymaltose is efficious, safe and well tolerated in iron-deficient IBD patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22179489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 1001, 
+            "text": " Intravenous iron avoids these concerns, especially with the development of ferric carboxymaltose, which allow up to 1000mg to be given rapidly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22023204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "What is the optimal treatment for anemia in inflammatory bowel disease?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22023204", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 441, 
+            "text": "We compared the efficacy and safety of a novel fixed-dose ferric carboxymaltose regimen (FCM) with individually calculated iron sucrose (IS) doses in patients with inflammatory bowel disease (IBD) and IDA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21699794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1332, 
+            "offsetInEndSection": 1447, 
+            "text": "Study drugs were well tolerated and drug-related adverse events were in line with drug-specific clinical experience", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21699794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1542, 
+            "offsetInEndSection": 1706, 
+            "text": " The simpler FCM-based dosing regimen showed better efficacy and compliance, as well as a good safety profile, compared with the Ganzoni-calculated IS dose regimen.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21699794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1450, 
+            "offsetInEndSection": 1701, 
+            "text": "Ferric carboxymaltose can be rapidly administered in doses of 15 mg/kg body weight, up to a ceiling dose of 1000 mg. A test dose is not required, and it can be used more widely across a spectrum of iron deficiency and iron deficiency anemia indication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21340038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 425, 
+            "offsetInEndSection": 970, 
+            "text": " Intravenous iron offers a rapid means of iron repletion and is superior to oral iron in many circumstances, especially in the presence of anemia of chronic disease, where it appears to overcome the block to absorption of iron from the gastrointestinal tract and immobilization of stored iron. The clinical situations where high doses of iron are commonly required are reviewed. These include nondialysis-dependent chronic kidney disease, inflammatory bowel disease, obstetrics, menorrhagia, and anemia associated with cancer and its treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21340038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 268, 
+            "offsetInEndSection": 723, 
+            "text": "Ferric carboxymaltose can be administered at 15 mg/kg body weight to a maximum dose of 1000 mg, whereas iron isomaltoside 1000 can be administered at 20 mg/kg body weight. The ability to give high doses of iron is important in the context of managing iron deficiency anemia in a number of clinical conditions where demands for iron are high (including chronic blood loss associated with inflammatory bowel disease, menorrhagia, and chronic kidney disease)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21479141", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 456, 
+            "text": "erric carboxymaltose (FCM, Ferinject) was effective and well tolerated in the treatment of iron-deficiency anemia (IDA) in nine, Phase III, randomized, controlled, multicenter trials in a diverse range of indications, including patients with inflammatory bowel disease (IBD), post-partum anemia (PPA) or abnormal uterine bleeding (AUB), chronic heart failure (CHF), non-dialysis-dependent chronic kidney disease (CKD) and those undergoing hemodialysis (HD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1306, 
+            "offsetInEndSection": 1404, 
+            "text": "In patients with IBD or PPA, improvements in Hb levels were more rapid with FCM than with FeSulf. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2101, 
+            "offsetInEndSection": 2263, 
+            "text": "CM improved patient quality of life to an equivalent extent to oral FeSulf in patients with IBD or PPA, and to a greater extent than oral FeSulf in women with AUB", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1205, 
+            "text": "Four different products are principally used in clinical practice, which differ in their pharmacokinetic properties and safety profiles: iron gluconate and iron sucrose (lower single doses), and iron dextran and ferric carboxymaltose (higher single doses).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19787830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 104, 
+            "text": "he prevalence of anemia across studies on patients with inflammatory bowel disease (IBD) is high (30%).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19787830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 158, 
+            "text": " novel intravenous iron formulation for treatment of anemia in inflammatory bowel disease: the ferric carboxymaltose (FERINJECT) randomized controlled trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18371137", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1356, 
+            "offsetInEndSection": 1544, 
+            "text": "FeCarb is effective and safe in IBD-associated anemia. It is noninferior to FeSulf in terms of Hb change over 12 wk, and provides a fast Hb increase and a sufficient refill of iron stores.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18371137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1156, 
+            "offsetInEndSection": 1342, 
+            "text": "Treatment-related adverse events (AEs) occurred in 28.5% of the FeCarb and 22.2% of the FeSulf groups, with discontinuation of study medication due to AEs in 1.5% and 7.9%, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18371137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 658, 
+            "offsetInEndSection": 812, 
+            "text": "The median Hb improved from 8.7 to 12.3 g/dL in the FeCarb group and from 9.1 to 12.1 g/dL in the FeSulf group, demonstrating noninferiority (P= 0.6967). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18371137", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Ferric carboxymaltose prevents recurrence of anemia in patients with inflammatory bowel disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23078888", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 458, 
+            "text": "Ferric carboxymaltose (FCM, Ferinject) was effective and well tolerated in the treatment of iron-deficiency anemia (IDA) in nine, Phase III, randomized, controlled, multicenter trials in a diverse range of indications, including patients with inflammatory bowel disease (IBD), post-partum anemia (PPA) or abnormal uterine bleeding (AUB), chronic heart failure (CHF), non-dialysis-dependent chronic kidney disease (CKD) and those undergoing hemodialysis (HD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 457, 
+            "text": "Ferric carboxymaltose (FCM, Ferinject) was effective and well tolerated in the treatment of iron-deficiency anemia (IDA) in nine, Phase III, randomized, controlled, multicenter trials in a diverse range of indications, including patients with inflammatory bowel disease (IBD), post-partum anemia (PPA) or abnormal uterine bleeding (AUB), chronic heart failure (CHF), non-dialysis-dependent chronic kidney disease (CKD) and those undergoing hemodialysis (HD)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648930", 
+            "endSection": "abstract"
+        }
+    ]
+}

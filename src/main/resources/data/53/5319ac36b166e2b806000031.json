@@ -1,0 +1,73 @@
+{
+    "body": "Which G protein is essential in the formation and function of lamellipodia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11709084", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19801976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24265417", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9301423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11230698"
+    ], 
+    "ideal_answer": [
+        "Recruitment of the small G-protein Rac1 to the plasma membrane is essential in inducing the local formation of specialized cellular processes termed lamellipodia."
+    ], 
+    "exact_answer": [
+        "Rac1"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011554", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019204", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020744"
+    ], 
+    "type": "factoid", 
+    "id": "5319ac36b166e2b806000031", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1039, 
+            "offsetInEndSection": 1329, 
+            "text": "We specifically identified that the Spa homology domain (aa 250-420) of GIT1 is required for GIT1-cortactin complex localization to the leading edge. The mechanisms involved extracellular signal-regulated kinases 1 and 2-mediated Cortactin-S405 phosphorylation and activation of Rac1/Cdc42.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24265417", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 377, 
+            "offsetInEndSection": 586, 
+            "text": "We demonstrated the utility of this system with LAD constructs that can recruit the small G-protein Rac1 to the plasma membrane and induce the local formation of lamellipodia in response to focal illumination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19801976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 858, 
+            "offsetInEndSection": 1122, 
+            "text": "We found that fibroblasts from EDG-1 null embryos did not migrate toward PDGF or SPP, and inhibition of motility correlated with defective activation of the small guanosine triphosphatase Rac, which is required for lamellipodia formation and directional locomotion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11709084", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 288, 
+            "offsetInEndSection": 510, 
+            "text": "Deletion of edg-1 or inhibition of sphingosine kinase suppressed chemotaxis toward PDGF and also activation of the small guanosine triphosphatase Rac, which is essential for protrusion of lamellipodia and forward movement.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11230698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 530, 
+            "offsetInEndSection": 714, 
+            "text": "Evidence from these models indicates that migration is a highly complex process, which is likely to involve the tightly controlled spatial and temporal interaction of multiple factors:", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9301423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1335, 
+            "offsetInEndSection": 1479, 
+            "text": "(v) molecules which regulate cytoskeletal function (e.g. Rac), which allows the formation of specialized cellular processes termed lamellipodia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9301423", 
+            "endSection": "abstract"
+        }
+    ]
+}

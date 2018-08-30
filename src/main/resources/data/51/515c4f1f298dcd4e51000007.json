@@ -1,0 +1,105 @@
+{
+    "body": "Which genes does thyroid hormone receptor beta1 regulate in the heart?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19171649", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21149577", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9927321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19629520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11577024", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17317766"
+    ], 
+    "ideal_answer": [
+        "\u03b2-MHC, HCN4, KCND2/3, SERCA, TRbeta1, alpha-MHC"
+    ], 
+    "exact_answer": [
+        [
+            "\u03b2-MHC"
+        ], 
+        [
+            "HCN4"
+        ], 
+        [
+            "KCND2/3"
+        ], 
+        [
+            "SERCA"
+        ], 
+        [
+            "TRbeta1"
+        ], 
+        [
+            "alpha-MHC"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/THB_PAROL"
+    ], 
+    "type": "list", 
+    "id": "515c4f1f298dcd4e51000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1079, 
+            "text": "we identified thyroid hormone receptor \u03b21 (TR\u03b21), which negatively regulates \u03b2-MHC transcription, as a target of miR-27a", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21149577", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1121, 
+            "offsetInEndSection": 1239, 
+            "text": "HCN2 gene expression was not significantly affected by TR beta 1. TR beta 1 exclusively suppressed HCN4 transcription.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19629520", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 824, 
+            "offsetInEndSection": 1010, 
+            "text": "TRalpha1 increased I(to), while TRbeta1 significantly reduced I(to) in size, which was associated with TRalpha1-mediated increase and TRbeta1-mediated reduction of KCND2/3 transcription.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19171649", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1342, 
+            "offsetInEndSection": 1392, 
+            "text": "he TRbeta1 aporeceptor suppressed KCND3 expression", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19171649", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1651, 
+            "offsetInEndSection": 1792, 
+            "text": "increasing TR expression in the hypertrophied heart is associated with an improvement in contractile function and increased SERCA expression.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17317766", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1315, 
+            "offsetInEndSection": 1373, 
+            "text": "TRbeta1 to transcription of beta-MyHC, SERCA, and TRbeta1,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11577024", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 75, 
+            "offsetInEndSection": 288, 
+            "text": "Our study investigates both the regulation of cardiac-specific genes and contractile behavior of the heart in the presence of a mutant thyroid hormone receptor beta1 (T3Rbeta1-delta337T) derived from the S kindred", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9927321", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 939, 
+            "text": "The messenger RNA levels for MHC alpha and SERCA2 were markedly down-regulated, MHC beta messenger RNA was up-regulated. Although T3 levels were normal in these animals, this pattern of cardiac gene expression mimics a hypothyroid phenotype.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9927321", 
+            "endSection": "sections.0"
+        }
+    ]
+}

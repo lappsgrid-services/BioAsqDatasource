@@ -1,0 +1,57 @@
+{
+    "body": "Which kinase is inhibited by Tripolin A?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23516487"
+    ], 
+    "ideal_answer": [
+        "Tripolin A reduced the localization of pAurora A on spindle microtubules (MTs), affected centrosome integrity, spindle formation and length, as well as MT dynamics in interphase, consistent with Aurora A inhibition by RNAi or other specific inhibitors, such as MLN8054 or MLN8237. Interestingly, Tripolin A affected the gradient distribution towards the chromosomes, but not the MT binding of HURP (Hepatoma Up-Regulated Protein), a MT-associated protein (MAP) and substrate of the Aurora A kinase. Therefore Tripolin A reveals a new way of regulating mitotic MT stabilizers through Aurora A phosphorylation. Mitotic regulators exhibiting gain of function in tumor cells are considered useful cancer therapeutic targets for the development of small-molecule inhibitors.", 
+        "Tripolin A inhibits Aurora A kinase activity both in vitro and in human cells."
+    ], 
+    "exact_answer": [
+        "Aurora A"
+    ], 
+    "type": "factoid", 
+    "id": "56cb9b065795f9a73e000032", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Tripolin A, a novel small-molecule inhibitor of aurora A kinase, reveals new regulation of HURP's distribution on microtubules.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516487", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 446, 
+            "text": "The human Aurora kinases are a family of such targets. In this study, from a panel of 105 potential small-molecule inhibitors, two compounds Tripolin A and Tripolin B, inhibited Aurora A kinase activity in vitro. In human cells however, only Tripolin A acted as an Aurora A inhibitor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516487", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 216, 
+            "offsetInEndSection": 372, 
+            "text": "In this study, from a panel of 105 potential small-molecule inhibitors, two compounds Tripolin A and Tripolin B, inhibited Aurora A kinase activity in vitro", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516487", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Tripolin A, a novel small-molecule inhibitor of aurora A kinase, reveals new regulation of HURP&apos;s distribution on microtubules", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516487", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 446, 
+            "text": "In this study, from a panel of 105 potential small-molecule inhibitors, two compounds Tripolin A and Tripolin B, inhibited Aurora A kinase activity in vitro. In human cells however, only Tripolin A acted as an Aurora A inhibitor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516487", 
+            "endSection": "abstract"
+        }
+    ]
+}

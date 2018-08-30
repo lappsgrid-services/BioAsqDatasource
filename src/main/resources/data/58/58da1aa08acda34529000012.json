@@ -1,0 +1,96 @@
+{
+    "body": "Which protein is associated with hyperemesis gravidarum during pregrancy?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25963653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20735820", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11380287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21360554"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0020450", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18647822"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18647822", 
+            "o": "gravidarum hyperemesis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0020450", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18610602"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18610602", 
+            "o": "excessive vomiting in pregnancy"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0020450", 
+            "o": "Hyperemesis Gravidarum"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0020450", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18666384"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18666384", 
+            "o": "hyperemesis gravidarum"
+        }
+    ], 
+    "ideal_answer": [
+        "Human chorionic gonadotropin (hCG) is associated with hyperemesis gravidarum during pregrancy."
+    ], 
+    "exact_answer": [
+        "Human chorionic gonadotropin", 
+        "hCG"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014839", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1832", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006939", 
+        "http://www.disease-ontology.org/api/metadata/DOID:9357", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018997"
+    ], 
+    "type": "factoid", 
+    "id": "58da1aa08acda34529000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1105, 
+            "offsetInEndSection": 1246, 
+            "text": "Maternal smoking, BMI, parity, ethnicity, fetal gender, placental weight and hyperemesis gravidarum symptoms were associated with total hCG. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25963653", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "First trimester maternal serum PAPP-A and free \u03b2-HCG levels in hyperemesis gravidarum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21360554", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 896, 
+            "offsetInEndSection": 1043, 
+            "text": "HG is associated with elevated levels of PAPP-A and free \u03b2-hCG, and such changes are independent of serum indicators of thyroid and liver function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21360554", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 1133, 
+            "text": "hCG promotes progesterone production by corpus luteal cells; promotes angiogenesis in uterine vasculature; promoted the fusion of cytotrophoblast cell and differentiation to make syncytiotrophoblast cells; causes the blockage of any immune or macrophage action by mother on foreign invading placental cells; causes uterine growth parallel to fetal growth; suppresses any myometrial contractions during the course of pregnancy; causes growth and differentiation of the umbilical cord; signals the endometrium about forthcoming implantation; acts on receptor in mother's brain causing hyperemesis gravidarum, and seemingly promotes growth of fetal organs during pregnancy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20735820", 
+            "endSection": "abstract"
+        }
+    ]
+}

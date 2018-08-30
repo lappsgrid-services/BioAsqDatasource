@@ -1,0 +1,294 @@
+{
+    "body": "What is the functional role of the protein Drp1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24302731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17015472", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23027751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22334657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23888838", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23904108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20850011", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25658204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23334860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16684605", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25012575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22703557", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24080278", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19638400", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23128392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24485837", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25036098", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24388463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20649536", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22020994", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25348719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24878071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20179104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15791210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25192600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24764190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22367970", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24755420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24631294", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24616159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21613270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21459773", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25237193", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26038571", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25332205"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0112997", 
+            "o": "D012380"
+        }
+    ], 
+    "ideal_answer": [
+        "Drp1 is involved in the regulation of mitochondrial fission.", 
+        "Dynamin-related protein 1 (Drp1) mediates mitochondrial fission."
+    ], 
+    "exact_answer": [
+        "mitochondrial fission"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D024101", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012380"
+    ], 
+    "type": "factoid", 
+    "id": "5717dbfe7de986d80d000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 318, 
+            "text": "dynamin-related protein 1 (Drp1), a GTPase that mediates mitochondrial fission,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25332205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 389, 
+            "text": "dynamin-related protein 1 (DRP1), a protein required for mitochondrial network division.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25658204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 307, 
+            "offsetInEndSection": 370, 
+            "text": "dynamin-related protein 1 (Drp1)-mediated mitochondrial fission", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26038571", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 192, 
+            "text": "Mitochondrial fission is mediated by dynamin-related protein 1 (Drp1),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25192600", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Drp1 is a dynamin-like GTPase that mediates mitochondrial and peroxisomal division in a process dependent on self-assembly and coupled to GTP hydrolysis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25237193", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 521, 
+            "offsetInEndSection": 698, 
+            "text": "Mitochondrial fission requires the dynamin GTPase Drp1, which assembles in a ring around the mitochondrion and appears to constrict both outer and inner mitochondrial membranes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24485837", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 304, 
+            "text": "DRP1; a mitochondrial fission protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24631294", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 446, 
+            "text": "Mitochondrial morphology is primarily controlled by the activation of dynamin-related proteins including dynamin-related protein 1 (Drp1), which promotes mitochondrial fission. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25012575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 467, 
+            "offsetInEndSection": 617, 
+            "text": "The change in mitochondrial morphology was caused by downregulation of the expression of Fis1 and Drp1, two proteins regulating mitochondrial fission.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20179104", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1325, 
+            "offsetInEndSection": 1645, 
+            "text": "Furthermore, overexpression of the fission protein Drp1 (dynamin-related protein 1) or knocking down of the fusion protein OPA1 (optical atrophy 1) suppressed PINK1 RNAi-induced mitochondrial morphological defect, and overexpression of PINK1 or Parkin suppressed the elongated mitochondria phenotype caused by Drp1 RNAi.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21613270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 858, 
+            "offsetInEndSection": 1054, 
+            "text": "These results collectively indicate that ER-specific BNIP1 plays an important role in mitochondrial dynamics by modulating the mitochondrial fission protein Drp1 in a BH3 domain-dependent fashion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 710, 
+            "text": "In the present study, we found a marked upregulation of mitochondrial fission protein dynamin-related protein 1 (Drp1) expression in human invasive breast carcinoma and metastases to lymph nodes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23128392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1073, 
+            "offsetInEndSection": 1367, 
+            "text": "Mitochondrial remodeling was associated with increased proximity between Rab11a and mitochondrial membranes, changes in fusion-fission dynamics, and mitochondrial relocalization of the fission factor dynamin-related protein 1 (Drp1), which was regulated by the Rab11a effector protein FIP1/RCP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24302731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 750, 
+            "text": "Functional analysis demonstrated that BNIP1 expression increased dynamin-related protein 1 (Drp1) expression followed by the mitochondrial translocation of Drp1 and subsequent mitochondrial fission.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Role of dynamin-related protein 1 (Drp1)-mediated mitochondrial fission in oxygen sensing and constriction of the ductus arteriosus.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334860", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 227, 
+            "text": "In this study the role of the mitochondrial fission protein, Drp1 during Shigella infection in HeLa cells was examined", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24755420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 403, 
+            "text": "In this study, we investigate the role of mitochondrial fission factor dynamin-related protein 1 (Drp1) in myogenic differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23904108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Role of dynamin-related protein 1 (Drp1)-mediated mitochondrial fission in oxygen sensing and constriction of the ductus arteriosus", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334860", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 356, 
+            "offsetInEndSection": 553, 
+            "text": "Functional analysis demonstrated that BNIP1 expression increased dynamin-related protein 1 (Drp1) expression followed by the mitochondrial translocation of Drp1 and subsequent mitochondrial fission", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 666, 
+            "offsetInEndSection": 861, 
+            "text": "These results collectively indicate that ER-specific BNIP1 plays an important role in mitochondrial dynamics by modulating the mitochondrial fission protein Drp1 in a BH3 domain-dependent fashion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Glucocorticoid modulation of mitochondrial function in hepatoma cells requires the mitochondrial fission protein Drp1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22703557", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Mitochondria in DRG neurons undergo hyperglycemic mediated injury through Bim, Bax and the fission protein Drp1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16684605", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 577, 
+            "offsetInEndSection": 680, 
+            "text": "This novel function for DRP1 is distinct from its recognized role in regulating mitochondrial fission. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15791210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Abnormal interaction between the mitochondrial fission protein Drp1 and hyperphosphorylated tau in Alzheimer's disease neurons: implications for mitochondrial dysfunction and neuronal damage.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22367970", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "SUMOylation of the mitochondrial fission protein Drp1 occurs at multiple nonconsensus sites within the B domain and is linked to its activity cycle.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19638400", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Dynamic regulation of mitochondrial fission through modification of the dynamin-related protein Drp1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20649536", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 546, 
+            "text": "We highlight posttranslational modifications of the mitochondrial fission protein Drp1, for which these regulatory mechanisms are best characterized.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20649536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1011, 
+            "offsetInEndSection": 1476, 
+            "text": "Furthermore, overexpression of the fission protein Drp1 (dynamin-related protein 1) or knocking down of the fusion protein OPA1 (optical atrophy 1) suppressed PINK1 RNAi-induced mitochondrial morphological defect, and overexpression of PINK1 or Parkin suppressed the elongated mitochondria phenotype caused by Drp1 RNAi. Functionally, PINK1 knockdown and overexpression had opposite effects on dendritic spine formation and neuronal vulnerability to excitotoxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21613270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 110, 
+            "offsetInEndSection": 229, 
+            "text": "In this study the role of the mitochondrial fission protein, Drp1 during Shigella infection in HeLa cells was examined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24755420", 
+            "endSection": "abstract"
+        }
+    ]
+}

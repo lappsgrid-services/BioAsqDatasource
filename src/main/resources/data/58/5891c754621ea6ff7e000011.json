@@ -1,0 +1,98 @@
+{
+    "body": "What is REVIGO?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21789182"
+    ], 
+    "ideal_answer": [
+        "REVIGO summarizes and visualizes long lists of gene ontology terms.", 
+        "REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures. Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views. REVIGO is freely available at http://revigo.irb.hr/.", 
+        "Outcomes of high-throughput biological experiments are typically interpreted by statistical testing for enriched gene functional categories defined by the Gene Ontology (GO). The resulting lists of GO terms may be large and highly redundant, and thus difficult to interpret.REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures. Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views. REVIGO is freely available at http://revigo.irb.hr/."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D063990"
+    ], 
+    "type": "summary", 
+    "id": "5891c754621ea6ff7e000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 67, 
+            "text": "REVIGO summarizes and visualizes long lists of gene ontology terms.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 845, 
+            "text": "REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures. Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views. REVIGO is freely available at http://revigo.irb.hr/.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 790, 
+            "text": "Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 479, 
+            "text": "The resulting lists of GO terms may be large and highly redundant, and thus difficult to interpret.REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "REVIGO summarizes and visualizes long lists of gene ontology terms", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 479, 
+            "text": "The resulting lists of GO terms may be large and highly redundant, and thus difficult to interpret.REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 481, 
+            "offsetInEndSection": 791, 
+            "text": "Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 480, 
+            "text": "The resulting lists of GO terms may be large and highly redundant, and thus difficult to interpret.REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "REVIGO summarizes and visualizes long lists of gene ontology terms.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 481, 
+            "offsetInEndSection": 792, 
+            "text": "Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21789182", 
+            "endSection": "abstract"
+        }
+    ]
+}

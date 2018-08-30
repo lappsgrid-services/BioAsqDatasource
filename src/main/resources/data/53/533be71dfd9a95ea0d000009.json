@@ -1,0 +1,229 @@
+{
+    "body": "Which is the histone residue methylated by MLL1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18562676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22666422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19855399", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17942719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21875999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16651450", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21124902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19187761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21113167", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22488473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23038103", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18838538", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17168535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15941828", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19818711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19219072", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23399917", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20861184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22046413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19481096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15960975"
+    ], 
+    "ideal_answer": [
+        "Histone H3 at lysine 4 (H3K4)"
+    ], 
+    "exact_answer": [
+        "H3K4"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MLL1_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042054", 
+        "http://www.uniprot.org/uniprot/SETMR_HUMAN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042800", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011495", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0018024", 
+        "http://www.uniprot.org/uniprot/MLL1_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "533be71dfd9a95ea0d000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 771, 
+            "offsetInEndSection": 894, 
+            "text": "lack of interaction with the histone methyltransferase, MLL1, resulting in decreased histone H3K4me3 and gene transcription", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23399917", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1408, 
+            "offsetInEndSection": 1446, 
+            "text": "histone H3K4me3 methylase MLL1 complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23038103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 304, 
+            "text": "MEN1 encodes menin, a subunit of MLL1/MLL2-containing histone methyltransferase complexes that trimethylate histone H3 at lysine 4 (H3K4me3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22666422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 837, 
+            "text": "MLL1, MLL5, Set1 and ASH1 to be highly up-regulated during transdifferentiation of HSCs. All of these histone methyltransferases regulate methylation of lysine 4 of histone H3, which is a signature of actively transcribed genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22488473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 807, 
+            "offsetInEndSection": 897, 
+            "text": "MLL1 (Mixed Lineage Leukemia 1), a histone methyltransferase that methylates H3K4 residues", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22046413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 36, 
+            "offsetInEndSection": 227, 
+            "text": "H3K4) in Saccharomyces cerevisiae is implemented by Set1/COMPASS, which was originally purified based on the similarity of yeast Set1 to human MLL1 and Drosophila melanogaster Trithorax (Trx)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21875999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 170, 
+            "text": "istone H3 lysine 4 (K4) methylation is a prevalent mark associated with transcription activation and is mainly catalyzed by the MLL/SET1 family histone methyltransferase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21124902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 928, 
+            "offsetInEndSection": 1007, 
+            "text": "Mutations in the MLL1 SET domain that fail to support overall H3 K4 methylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21124902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 436, 
+            "offsetInEndSection": 562, 
+            "text": "MLL1, a mammalian homolog of Drosophila trithorax, is an H3K4-specific methyltransferase implicated in transcriptional control", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21113167", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 724, 
+            "offsetInEndSection": 827, 
+            "text": "We show that the mixed lineage leukemia 1 (MLL1) protein, a histone methyltransferase specific for H3K4", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20861184", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 998, 
+            "offsetInEndSection": 1046, 
+            "text": "MLL1 histone H3 Lys4 methyltransferase complexes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19855399", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 216, 
+            "offsetInEndSection": 264, 
+            "text": "MLL1 histone methyltransferase (H3K4me3) complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19818711", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 468, 
+            "text": "In the human MLL1 (mixed-lineage leukemia-1) HMT complex, DPY-30L binds to the BRE2 homolog ASH2L in order to regulate histone 3-lysine 4 trimethylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19481096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 936, 
+            "offsetInEndSection": 1097, 
+            "text": "MLL1 and MLL2 H3K4 methyltransferase complexes are tethered by p52 on the MMP9 but not on the IkappaBalpha promoter, and the H3K4 trimethyltransferase activity r", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19219072", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 134, 
+            "offsetInEndSection": 261, 
+            "text": "The biological function of MLL1 is mediated by the histone H3K4 methyltransferase activity of the carboxyl-terminal SET domain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19187761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 37, 
+            "offsetInEndSection": 313, 
+            "text": "Set1/COMPASS is capable of methylating H3K4, a posttranslational modification associated with actively transcribed genes. There is only one Set1 in yeast; yet in mammalian cells there are multiple H3K4 methylases, including Set1A/B, forming human COMPASS complexes, and MLL1-4", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18838538", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1478, 
+            "offsetInEndSection": 1541, 
+            "text": " trimethylated H3K4 histones and histone methyltransferase MLL1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18562676", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 640, 
+            "offsetInEndSection": 815, 
+            "text": " lacZ knock-in allele of mixed-lineage leukemia 1 (Mll1), a histone methyltransferase expressed in GABAergic and other cortical neurons, resulted in decreased H3K4 methylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 169, 
+            "text": "effectors of H3K4 methylation is mixed-lineage leukemia 1 (MLL1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17168535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 204, 
+            "text": "MLL1/MLL2 histone methyltransferase complexes specific for Lys4 of histone H3 (H3K4)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16651450", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 52, 
+            "offsetInEndSection": 80, 
+            "text": "H3 K4 methyltransferase MLL1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960975", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 374, 
+            "offsetInEndSection": 508, 
+            "text": "purified complex has a robust MLL1-mediated histone methyltransferase activity that can effect mono-, di-, and trimethylation of H3 K4", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 362, 
+            "offsetInEndSection": 501, 
+            "text": "MLL1 localizes with RNA polymerase II (Pol II) to the 5' end of actively transcribed genes, where histone H3 lysine 4 trimethylation occurs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15941828", 
+            "endSection": "abstract"
+        }
+    ]
+}

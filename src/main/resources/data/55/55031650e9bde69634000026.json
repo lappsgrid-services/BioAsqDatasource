@@ -1,0 +1,112 @@
+{
+    "body": "Is PTEN involved in follicular thyroid carcinoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11297621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16487009", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9832031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21417916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12203792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18055323", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9790504"
+    ], 
+    "ideal_answer": [
+        "The PTEN mutation frequency in unselected cases of follicular thyroid carcinoma was 4.8%."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3962", 
+        "http://www.uniprot.org/uniprot/PTEN_XENLA"
+    ], 
+    "type": "yesno", 
+    "id": "55031650e9bde69634000026", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 986, 
+            "offsetInEndSection": 1221, 
+            "text": "Two of the 259 patients (0.8%), with both follicular thyroid carcinoma and macrocephaly, were found to carry a germline mutation in the PTEN gene. The PTEN mutation frequency in unselected cases of follicular thyroid carcinoma was 4.8%", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21417916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1235, 
+            "offsetInEndSection": 1422, 
+            "text": "The frequency of germline pathogenic PTEN mutations in an unselected series of patients with DTC is relatively low, but it is enriched by considering follicular histology and macrocephaly", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21417916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 594, 
+            "text": "Similarly, there is increasing evidence demonstrating that mutations leading to activation of the phosphatidylinositol 3- kinase (PI3K)/AKT effectors -PTEN and PI3KCa- are essential for the pathogenesis of follicular thyroid carcinoma (FTC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18055323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1351, 
+            "offsetInEndSection": 1489, 
+            "text": "A single male with follicular thyroid carcinoma from one of these 64 (2%) CS-like families harboured a germline point mutation, c.209T-->C", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9832031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 595, 
+            "text": "Similarly, there is increasing evidence demonstrating that mutations leading to activation of the phosphatidylinositol 3- kinase (PI3K)/AKT effectors -PTEN and PI3KCa- are essential for the pathogenesis of follicular thyroid carcinoma (FTC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18055323", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1123, 
+            "offsetInEndSection": 1437, 
+            "text": "The transcriptional silencing of PTEN was significantly associated with the anaplastic subtype, suggesting that PTEN is involved in the carcinogenesis of highly malignant or late-stage thyroid cancers, whereas this particular mechanism appears to be of minor importance in differentiated follicular thyroid tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12203792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1499, 
+            "offsetInEndSection": 1656, 
+            "text": "These results show a high frequency of PTEN promoter hypermethylation, especially in follicular tumors, suggesting its possible role in thyroid tumorigenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16487009", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1093, 
+            "offsetInEndSection": 1215, 
+            "text": "Our findings suggest that the PTEN tumor suppressor gene is occasionally inactivated in sporadic follicular thyroid tumors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9790504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 235, 
+            "offsetInEndSection": 471, 
+            "text": "Germline mutations in the tumor suppressor gene PTEN, which encodes a dual-specificity phosphatase, have been found in up to 80% of patients with Cowden syndrome suggesting a role of PTEN in the pathogenesis of follicular thyroid tumors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11297621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 535, 
+            "offsetInEndSection": 647, 
+            "text": "The most common neoplasms in Cowden disease patients arise in the breast, skin, and thyroid (follicular subtype)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9790504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1123, 
+            "offsetInEndSection": 1436, 
+            "text": "The transcriptional silencing of PTEN was significantly associated with the anaplastic subtype, suggesting that PTEN is involved in the carcinogenesis of highly malignant or late-stage thyroid cancers, whereas this particular mechanism appears to be of minor importance in differentiated follicular thyroid tumors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12203792", 
+            "endSection": "abstract"
+        }
+    ]
+}

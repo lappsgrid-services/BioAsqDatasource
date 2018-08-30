@@ -1,0 +1,45 @@
+{
+    "body": "Is TENS machine effective in pain?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7644247", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17333874"
+    ], 
+    "ideal_answer": [
+        "Transcutaneous electrical nerve stimulation is widely used in pain management"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018710", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010146", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059350", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004561"
+    ], 
+    "type": "yesno", 
+    "id": "535d75ab7d100faa09000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Transcutaneous electrical nerve stimulation is widely used in pain management but its effectiveness depends on the stimulation being targeted appropriately", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17333874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 36, 
+            "offsetInEndSection": 146, 
+            "text": "hypoalgesic effects of transcutaneous electrical nerve stimulation upon experimentally induced ischaemic pain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7644247", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1174, 
+            "offsetInEndSection": 1416, 
+            "text": "The results of this study have provided evidence of the hypoalgesic effects of TENS upon experimental ischaemic pain which were found to be frequency specific with the lower frequency used here (4 Hz) demonstrating the only significant effect", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7644247", 
+            "endSection": "abstract"
+        }
+    ]
+}

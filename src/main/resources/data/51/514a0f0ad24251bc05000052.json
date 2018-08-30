@@ -1,0 +1,129 @@
+{
+    "body": "Does the Oncotype DX test work with paraffin embedded tissues?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18922117", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17463177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23074401", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17140367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16361546", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17039265"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7572812", 
+            "o": "Paraffin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0030415", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A9424108"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17999423", 
+            "o": "Paraffin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8438050", 
+            "o": "PARAFFIN"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16755941", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, the Oncotype DX test works with paraffin embedded tissue."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016612"
+    ], 
+    "type": "yesno", 
+    "id": "514a0f0ad24251bc05000052", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 2732, 
+            "offsetInEndSection": 3135, 
+            "text": "The Oncotype-DX Breast Cancer Assay (Genomic Health, Redwood City, CA) quantifies gene expression for 21 genes in breast cancer tissue by performing reverse transcription polymerase chain reaction (RT-PCR) on formalin-fixed paraffin-embedded (FFPE) tumour blocks that are obtained during initial surgery (lumpectomy, mastectomy, or core biopsy) of women with early breast cancer that is newly diagnosed.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074401", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 546, 
+            "text": "Oncotype DXtrade mark, is a diagnostic test comprised of a 21-gene assay applied to paraffin-embedded breast cancer tissue, which allows physicians to predict subgroups of hormone-receptor-positive, node-negative patients who may benefit from hormonal therapy alone or require adjuvant chemotherapy to attain the best survival outcome.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18922117", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 250, 
+            "text": "Oncotype DX is a clinically validated, high-complexity, multianalyte reverse transcription-PCR genomic test that predicts the likelihood of breast cancer recurrence in early-stage, node-negative, estrogen receptor-positive breast cancer. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17463177", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 578, 
+            "text": "We therefore investigated the analytical performance of the assay.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17463177", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 848, 
+            "text": "Assays used a pooled RNA sample from fixed paraffin-embedded tissues to evaluate the analytical performance of a 21-gene panel with respect to amplification efficiency, precision, linearity, and dynamic range, as well as limits of detection and quantification.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17463177", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 726, 
+            "offsetInEndSection": 960, 
+            "text": "One such strategy is the 21-gene assay (Oncotype DX), which is currently in commercial use in the USA. One advantage of this test is the use of paraffin-embedded blocks instead of previous methods, which required fresh frozen tissue. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17140367", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 119, 
+            "offsetInEndSection": 263, 
+            "text": "We used paraffin-embedded core biopsies from a completed phase II trial to identify genes that correlate with response to primary chemotherapy. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17039265", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 590, 
+            "offsetInEndSection": 700, 
+            "text": "In addition to the individual genes, the correlation of the Oncotype DX Recurrence Score with pCR was examined", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17039265", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 377, 
+            "offsetInEndSection": 415, 
+            "text": "RNA was extracted from paraffin blocks", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16361546", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 114, 
+            "text": "to develop the 21-gene Recurrence Score assay (Oncotype DX)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16361546", 
+            "endSection": "sections.0"
+        }
+    ]
+}

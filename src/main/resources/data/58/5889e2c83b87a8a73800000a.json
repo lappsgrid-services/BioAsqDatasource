@@ -1,0 +1,56 @@
+{
+    "body": "Is there any role for Pds5b in cohesion establishment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24141881"
+    ], 
+    "ideal_answer": [
+        "Yes. Pds5 proteins are essential for cohesion establishment by allowing Smc3 acetylation by the cohesin acetyl transferases (CoATs) Esco1/2 and binding of Sororin."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/PD5AA_XENLA", 
+        "http://www.uniprot.org/uniprot/PD5BA_XENLA", 
+        "http://www.uniprot.org/uniprot/PDS5A_RAT", 
+        "http://amigo.geneontology.org/amigo/term/GO:0034085", 
+        "http://www.uniprot.org/uniprot/PDS5B_RAT", 
+        "http://amigo.geneontology.org/amigo/term/GO:0034087", 
+        "http://www.uniprot.org/uniprot/PDS5B_MOUSE", 
+        "http://amigo.geneontology.org/amigo/term/GO:0034089"
+    ], 
+    "type": "yesno", 
+    "id": "5889e2c83b87a8a73800000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Pds5B is required for cohesion establishment and Aurora B accumulation at centromeres.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24141881", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 1070, 
+            "text": "Here, we demonstrate that Pds5 proteins are essential for cohesion establishment by allowing Smc3 acetylation by the cohesin acetyl transferases (CoATs) Esco1/2 and binding of Sororin. While both proteins contribute to telomere and arm cohesion, Pds5B is specifically required for centromeric cohesion. Furthermore, reduced accumulation of Aurora B at the inner centromere region in cells lacking Pds5B impairs its error correction function, promoting chromosome mis-segregation and aneuploidy. Our work supports a model in which the composition and function of cohesin complexes differs between different chromosomal regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24141881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Pds5B is required for cohesion establishment and Aurora B accumulation at centromeres.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24141881", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 628, 
+            "text": "Here, we demonstrate that Pds5 proteins are essential for cohesion establishment by allowing Smc3 acetylation by the cohesin acetyl transferases (CoATs) Esco1/2 and binding of Sororin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24141881", 
+            "endSection": "abstract"
+        }
+    ]
+}

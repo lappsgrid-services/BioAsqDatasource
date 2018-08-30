@@ -1,0 +1,131 @@
+{
+    "body": "Explain the concept proteostasis.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23463216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24116849", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23986815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23119163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23479439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23746257", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24126073", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24094931", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23833797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23986914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24079818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23894132"
+    ], 
+    "ideal_answer": [
+        "Protein homeostasis, or proteostasis, refers to a proper balance between synthesis, maturation, and degradation of cellular proteins. Disruption of proteostasis is implicated in aging and the pathogenesis of numerous degenerative diseases."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057165"
+    ], 
+    "type": "summary", 
+    "id": "55048939f8aee20f27000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Protein homeostasis, or proteostasis, refers to a proper balance between synthesis, maturation, and degradation of cellular proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24126073", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 240, 
+            "text": "Mechanisms that promote the homeostasis of the proteome, or proteostasis, can slow aging and decrease the incidence of age-related diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24094931", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 468, 
+            "text": "The eukaryotic cell possesses specialized pathways to turn over and degrade redundant proteins and organelles. Each pathway is unique and responsible for degradation of distinctive cytosolic material. The ubiquitin-proteasome system and autophagy (chaperone-mediated, macro, micro and organelle specific) act synergistically to maintain proteostasis. Defects in this equilibrium can be deleterious at cellular and organism level, giving rise to various disease states.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24116849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 268, 
+            "text": " protein homeostasis (proteostasis) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24079818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 207, 
+            "text": "The folding biology common to all three kingdoms of life (Archaea, Bacteria, and Eukarya) is proteostasis. The proteostasis network (PN) functions as a \u201ccloud\u201d to generate, protect, and degrade the proteome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23986914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 256, 
+            "text": "Maintaining the dynamic proteome of a living cell in the face of an ever-changing environment depends on a fine-tuned balance of protein synthesis and protein degradation. Molecular chaperones exert key functions during protein homeostasis (proteostasis). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23986815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 631, 
+            "text": "This research highlighted the central importance of protein homeostasis, or proteostasis for short, defined as the cellular state in which the proteome is both stable and functional. It implicates an equilibrium between synthesis, folding, trafficking, aggregation, disaggregation and degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23894132", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Protein homeostasis, also called proteostasis, is critical for cellular health and its dysregulation is implicated in aging, cancer, metabolic disease, and neurodegenerative disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23833797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 174, 
+            "text": " protein homeostasis (proteostasis) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23746257", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 343, 
+            "text": " Disruption of proteostasis is implicated in aging and the pathogenesis of numerous degenerative diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23746257", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Protein homeostasis, proteostasis, is essential to understand cell function. Protein degradation is a crucial component of the proteostatic mechanisms of the cell.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23119163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 494, 
+            "text": "Maintaining correct cellular function is a fundamental biological process for all forms of life. A critical aspect of this process is the maintenance of protein homeostasis (proteostasis) in the cell, which is largely performed by a group of proteins, referred to as the protein quality control (PQC) network. This network of proteins, comprised of chaperones and proteases, is critical for maintaining proteostasis not only during favourable growth conditions, but also in response to stress. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23479439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 521, 
+            "text": "All organisms--Bacteria, Archaea and Eukarya--have evolved a protein homeostasis, or proteostasis, network comprising chaperones and folding factors, degradation components, signalling pathways and specialized compartmentalized modules that manage protein folding in response to environmental stimuli and variation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463216", 
+            "endSection": "abstract"
+        }
+    ]
+}

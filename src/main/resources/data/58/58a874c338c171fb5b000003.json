@@ -1,0 +1,39 @@
+{
+    "body": "What is the result of Mff overexpression in mitochondria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26446846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21149567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24167709"
+    ], 
+    "ideal_answer": [
+        "The Drp1 receptor Mff is a major regulator of mitochondrial fission, and its overexpression results in increased fission."
+    ], 
+    "type": "summary", 
+    "id": "58a874c338c171fb5b000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 459, 
+            "text": "The Drp1 receptor Mff is a major regulator of mitochondrial fission, and its overexpression results in increased fission. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26446846", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 961, 
+            "offsetInEndSection": 1088, 
+            "text": "Overexpression of MFF also increases the interaction between DLP1 and Pex11p\u03b2, which knockdown of MFF, but not Fis1, abolishes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24167709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 621, 
+            "text": "whereas Mff overexpression stimulated mitochondrial recruitment of Drp1 accompanied by mitochondrial fission", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21149567", 
+            "endSection": "abstract"
+        }
+    ]
+}

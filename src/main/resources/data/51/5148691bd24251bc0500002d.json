@@ -1,0 +1,98 @@
+{
+    "body": "Which protein is affected by dusp8 activation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11313966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23032483", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11948422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12598532", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23159405"
+    ], 
+    "ideal_answer": [
+        "dusp8 (M3/6) is a dual-specificity phosphatase selective for JNK."
+    ], 
+    "exact_answer": [
+        "JNK"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/DUS8_MOUSE", 
+        "http://www.uniprot.org/uniprot/DUS8_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "5148691bd24251bc0500002d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1270, 
+            "offsetInEndSection": 1417, 
+            "text": "Thus, rosiglitazone's neuroprotective effect after ischemia is mediated by blocking JNK phosphorylation induced by ischemia via DUSP8 upregulation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23032483", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Prevention of JNK phosphorylation as a mechanism for rosiglitazone in neuroprotection after transient cerebral ischemia: activation of dual specificity phosphatase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23032483", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1219, 
+            "offsetInEndSection": 1337, 
+            "text": "These results suggest that JNK activation by H(2)O(2) plus PDTC resulted from the down-regulation of JNK phosphatases.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11313966", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 693, 
+            "text": "M3/6 is a dual-specificity phosphatase selective for JNK", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Phosphorylation of the M3/6 dual-specificity phosphatase enhances the activation of JNK by arsenite.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 447, 
+            "text": "Dual-specificity phosphatases (DUSPs) play a very important role in these events by modulating the extent of JNK phosphorylation and activation and thus regulating cellular responses to stress. M3/6 (DUSP8) is one of the dual-specificity protein phosphatases with distinct specificity towards JNK", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 432, 
+            "offsetInEndSection": 536, 
+            "text": "Both anisomycin and arsenite activate the JNK pathway and, in addition, inactivate the M3/6 phosphatase.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11948422", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 416, 
+            "offsetInEndSection": 676, 
+            "text": "M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK and, to a lesser extent, p38 MAPKs and is found in a complex with these kinases, along with other pathway components, held together by scaffold proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159405", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1062, 
+            "offsetInEndSection": 1211, 
+            "text": ". We suggest that reduction of HSP70 by expanded polyglutamine is implicated in aggregation and inhibition of M3/6 and in activation of JNK and AP-1.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12598532", 
+            "endSection": "sections.0"
+        }
+    ]
+}

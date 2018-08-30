@@ -1,0 +1,297 @@
+{
+    "body": "What is the inheritance pattern of Emery-Dreifuss muscular dystrophy? ", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9536090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8445613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11799477", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11863303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23349612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8042665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10080180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16791377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3729752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/4022362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3203701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3701378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12424964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16585054", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11731280", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9781539", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2230849", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2163170", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18266676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15967842"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17680512", 
+            "o": "Emery-Dreifuss Muscular Dystrophy"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0410189", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17945027"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17945027", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1644284", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/pubmed/mesh/Muscular+Dystrophy%2C+Emery-Dreifuss", 
+            "o": "http://linkedlifedata.com/resource/pubmed/Mesh"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1644283", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1644288", 
+            "o": "Emery-Dreifuss Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1644282", 
+            "o": "Emery-Dreifuss Muscular Dystrophy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1644287", 
+            "o": "Emery Dreifuss Syndrome"
+        }
+    ], 
+    "ideal_answer": [
+        "The inheritance pattern of Emery-Dreifuss muscular dystrophy (EDMD) can be X-linked, autosomal dominant or autosomal recessive."
+    ], 
+    "exact_answer": [
+        [
+            "X-linked"
+        ], 
+        [
+            "autosomal dominant"
+        ], 
+        [
+            "autosomal recessive"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040582", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020389", 
+        "http://www.disease-ontology.org/api/metadata/DOID:655", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050172", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11726"
+    ], 
+    "type": "list", 
+    "id": "51656c94298dcd4e51000058", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 471, 
+            "text": ". Loss-of-function truncation mutations in EMD, encoding the nuclear membrane protein emerin, cause X-linked Emery-Dreifuss muscular dystrophy (EDMD) characterized by localized contractures and skeletal myopathy in adolescence, sinus node dysfunction (SND) in early adulthood, and atrial fibrillation as a variably associated trait.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18266676", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1553, 
+            "offsetInEndSection": 1903, 
+            "text": "Mutation of EMD can underlie X-linked familial AF. Lys37del is associated with epithelial cell emerin deficiency, as in EDMD, yet it causes electrical atriomyopathy in the absence of skeletal muscle disease. Targeted genetic testing of EMD should be considered in patients with SND-associated AF and/or family history suggesting X-linked inheritance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18266676", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "The Emery-Dreifuss muscular dystrophy is a form of muscular dystrophy that frequently presents early contractures and cardiac conduction defects, caused by emerin deficiency in the inner nuclear membrane of the muscular fibers.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16791377", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 407, 
+            "offsetInEndSection": 448, 
+            "text": "compatible with X-linked inheritance form", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16791377", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 486, 
+            "offsetInEndSection": 567, 
+            "text": "The first patient was a member of a family with molecularly proven X-linked EDMD.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16585054", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1102, 
+            "offsetInEndSection": 1279, 
+            "text": "As these resemble the cardiac features of patients with the autosomal dominant variant of EDMD, we examined the lamin A/C gene, identifying a de-novo mutation in the propositus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16585054", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2077, 
+            "offsetInEndSection": 2135, 
+            "text": "contribute to disease severity in autosomal dominant EDMD.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16585054", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 357, 
+            "text": "The STA gene encodes emerin and is one of the genes that is affected in Emery-Dreifuss muscular dystrophy (EDMD). Although it has been reported that EDMD caused by the STA gene mutation is associated with X-linked recessive inheritance, the genotype-phenotype correlations, with special reference to cardiac manifestations, are not well defined.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15967842", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 661, 
+            "text": "Emery-Dreifuss muscular dystrophy (EDMD) is a muscular disorder characterized by 1) early contracture of the elbows. Achilles tendons and post-cervical muscles, 2) slowly progressive muscle wasting and weakness with a humeroperoneal distribution, and 3) life-threatening cardiomyopathy with conduction block. Most of families with EDMD show X-linked recessive inheritance with mutations in the STA gene on chromosome Xq28, which encodes a protein named emerin. A rare autosomal dominant form of EDMD (AD-EDMD) is caused by mutations in lamin A/C gene (LMNA) on chromosome 1q21. Both emerin and lamin A/C are located in the inner surface membrane of the nucleus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12424964", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 662, 
+            "text": "Emery-Dreifuss muscular dystrophy is an X-linked recessive myopathy. The patient had no familial background of the disease. This patient might have a sporadic inheritance pattern with severe cardiac involvement.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11863303", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1498, 
+            "offsetInEndSection": 1551, 
+            "text": "autosomal dominant Emery-Dreifuss muscular dystrophy,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11799477", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 643, 
+            "text": "Emery-Dreifuss muscular dystrophy is characterized by the clinical triad of early onset contractures of elbows, Achilles tendons and spine, wasting and weakness with a predominantly humero-peroneal distribution and life-threatening cardiac conduction defects and/or cardiomyopathy. Two main types of inheritance have been described: the X-linked form is caused by mutations in the STA gene on locus Xq28 and the gene for the autosomal dominant form (LMNA gene) has been localized on chromosome 1q11-q23. Recently, mutations in this LMNA gene have been also found to be responsible for the less frequent autosomal recessive form of the disease.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11731280", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 485, 
+            "text": "Emery-Dreifuss muscular dystrophy (EDMD) is characterized by early contractures of elbows and Achilles tendons, slowly progressive muscle wasting and weakness, and a cardiomyopathy with conduction blocks which is life-threatening. Two modes of inheritance exist, X-linked (OMIM 310300) and autosomal dominant (EDMD-AD; OMIM 181350). EDMD-AD is clinically identical to the X-linked forms of the disease. Mutations in EMD, the gene encoding emerin, are responsible for the X-linked form.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10080180", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 258, 
+            "text": "including X-linked Emery-Dreifuss MD,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9781539", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1492, 
+            "offsetInEndSection": 1714, 
+            "text": "this form is not X-linked Emery-Dreifuss MD. We suggest that these patients represent a severe MD characterized by early onset distal wasting and severe rigidity of the spine, with probable autosomal recessive inheritance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9781539", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 320, 
+            "text": "Seventeen families with Emery-Dreifuss muscular dystrophy (EDMD) have been studied both by DNA sequencing and by emerin protein expression. Fourteen had mutations in the X-linked emerin gene, while three showed evidence of autosomal inheritance. Twelve of the 14 emerin mutations caused early termination of translation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9536090", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 75, 
+            "offsetInEndSection": 253, 
+            "text": "One family presented a rare autosomal dominant variant of Emery-Dreifuss muscular dystrophy, another with X-linked recessive inheritance showed unusual intrafamilial variability.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8042665", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 408, 
+            "text": "Emery-Dreifuss muscular dystrophy (EMD) is characterised by (1) early contractures of the Achilles tendons, elbows, and postcervical muscles, (2) slowly progressive muscle wasting and weakness with a predominantly humeroperoneal distribution in the early stages, and (3) cardiomyopathy with conduction defects and risk of sudden death. Inheritance is usually X linked recessive but can be autosomal dominant.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8445613", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 438, 
+            "offsetInEndSection": 691, 
+            "text": "Tendon contractures may be a partial expression of this myopathic disorder, suggesting an autosomal dominant inheritance with variable penetrance. A muscular dystrophy clinically similar to that of the Emery-Dreifuss (EDMD) type can thus occur in women.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2230849", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 540, 
+            "text": "Since the disease was diagnosed in 3 brothers, the X-coupled recessive type of its inheritance is assumed. An opinion is advanced that the described form is a clinical variety of Emery-Dreyfus myodystrophy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2163170", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 48, 
+            "offsetInEndSection": 77, 
+            "text": "Emery-Dreifuss syndrome (EDS)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3203701", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 385, 
+            "offsetInEndSection": 583, 
+            "text": "the term Emery-Dreifuss muscular dystrophy should be avoided. Instead, each case of EDS should be classified as myopathic or neurogenic with X chromosome recessive or autosomal dominant inheritance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3203701", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 383, 
+            "text": "Emery-Dreifuss muscular dystrophy is a syndrome with five salient features: early and unusual contractures; humeroperoneal muscle wasting; the slow progression of weakness, beginning in childhood; cardiac conduction defects; and X-linked inheritance. We present two cases and detail other reports with a similar constellation of findings with apparent autosomal dominant inheritance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3729752", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 420, 
+            "offsetInEndSection": 587, 
+            "text": "Emery-Dreifuss muscular dystrophy with proximal weakness in both the upper and lower limbs and X-linked scapuloperoneal muscular dystrophy represent the same disorder.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3701378", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 538, 
+            "text": "There is at least one other report of autosomal dominant transmission of this clinical picture, which had previously only been reported as Emery-Dreifuss muscular dystrophy with X-linked recessive inheritance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/4022362", 
+            "endSection": "sections.0"
+        }
+    ]
+}

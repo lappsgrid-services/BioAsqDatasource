@@ -1,0 +1,60 @@
+{
+    "body": "Which are the main histone modifications associated with enhancers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22270183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20621055", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19021773"
+    ], 
+    "ideal_answer": [
+        "Histone 3 lysine 4 mono- (H3K4me1) and di-methylation (H3K4me2) are the main post-transcriptional histone modifications related to enhancer activity.", 
+        "Using H3K4me2 as a mark for active enhancers (PMID: 22270183) Hyperacetylation of histones H3 and H4, a mark of active chromatin, is established broadly across target loci by enhancers that function over long distances (PMID: 19021773) The enhancer region itself was marked by mono-methylation at K4 and K9, distinguishing it from the methyl marks in the gene coding region (PMID: 19021773) H3K4 methylation to monovalent and bivalent domains (PMID: 20621055)", 
+        "H3K4 methylation to monovalent and bivalent domains. The enhancer region itself was marked by mono-methylation at K4 and K9, distinguishing it from the methyl marks in the gene coding region. Hyperacetylation of histones H3 and H4, a mark of active chromatin, is established broadly across target loci by enhancers that function over long distances. Using H3K4me2 as a mark for active enhancers. "
+    ], 
+    "exact_answer": [
+        [
+            "Histone 3 lysine 4 mono-methylation (H3K4me1)"
+        ], 
+        [
+            "Histone 3 lysine 4 di-methylation (H3K4me2)"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056545"
+    ], 
+    "type": "list", 
+    "id": "5131bef65274a5fb07000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 246, 
+            "text": "Using H3K4me2 as a mark for active enhancers", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22270183", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 257, 
+            "text": "Hyperacetylation of histones H3 and H4, a mark of active chromatin, is established broadly across target loci by enhancers that function over long distances", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19021773", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 881, 
+            "offsetInEndSection": 1018, 
+            "text": "The enhancer region itself was marked by mono-methylation at K4 and K9, distinguishing it from the methyl marks in the gene coding region", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19021773", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 351, 
+            "text": "H3K4 methylation to monovalent and bivalent domains", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20621055", 
+            "endSection": "sections.0"
+        }
+    ]
+}

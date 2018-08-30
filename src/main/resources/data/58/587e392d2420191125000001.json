@@ -1,0 +1,89 @@
+{
+    "body": "What is LedPred?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26628586"
+    ], 
+    "ideal_answer": [
+        "LedPred is an R/bioconductor package to predict regulatory sequences using support vector machines. LedPred is provided as an R/Bioconductor package connected to an online server to avoid installation of non-R software. Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D060388", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012045"
+    ], 
+    "type": "summary", 
+    "id": "587e392d2420191125000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "LedPred: an R/bioconductor package to predict regulatory sequences using support vector machines", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 803, 
+            "text": "Here, we present LedPred, a flexible SVM workflow that predicts new regulatory sequences based on the annotation of known CRMs, which are associated to a large variety of feature types. LedPred is provided as an R/Bioconductor package connected to an online server to avoid installation of non-R software. Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "LedPred: an R/bioconductor package to predict regulatory sequences using support vector machines.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 606, 
+            "offsetInEndSection": 787, 
+            "text": "Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 487, 
+            "text": "Here, we present LedPred, a flexible SVM workflow that predicts new regulatory sequences based on the annotation of known CRMs, which are associated to a large variety of feature types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 1085, 
+            "text": "Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software.LedPred is available on GitHub: https://github.com/aitgon/LedPred and Bioconductor: http://bioconductor.org/packages/release/bioc/html/LedPred.html under the MIT license.aitor.gonzalez@univ-amu.frSupplementary data are available at Bioinformatics online.<CopyrightInformation>\u00a9 The Author 2015.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "LedPred: an R/bioconductor package to predict regulatory sequences using support vector machines.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 791, 
+            "text": "Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 304, 
+            "offsetInEndSection": 489, 
+            "text": "Here, we present LedPred, a flexible SVM workflow that predicts new regulatory sequences based on the annotation of known CRMs, which are associated to a large variety of feature types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26628586", 
+            "endSection": "abstract"
+        }
+    ]
+}

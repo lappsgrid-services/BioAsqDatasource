@@ -1,0 +1,186 @@
+{
+    "body": "Borden classification is used for which disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22107858", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20678361", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20678360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22374275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20849795", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23570149", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25479123", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23811958", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20966056", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26120845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23582488", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25516093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25746311", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25354667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15842944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26246101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8893721", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20176602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16286391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19408992"
+    ], 
+    "ideal_answer": [
+        "Borden classification systems is used for the prediction of clinical behavior of cranial dural arteriovenous fistulas."
+    ], 
+    "exact_answer": [
+        "cranial dural arteriovenous fistula", 
+        "DAVF"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002965", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category"
+    ], 
+    "type": "factoid", 
+    "id": "5890fde5621ea6ff7e000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 545, 
+            "text": "The locations of DAVFs were the transverse-sigmoid sinus in 11, tentorium in 10, cranial vault in 9, and superior sagittal sinus, jugular bulb, foramen magnum, and middle cranial fossa in 1 each. Borden classification was type I in 7, type II in 3, and type III in 24.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25746311", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1001, 
+            "offsetInEndSection": 1236, 
+            "text": "Transarterial glue embolization is highly effective for Borden type III DAVF with direct cortical venous drainage, but has limitations for Borden type I and II DAVFs in which the affected sinus is part of the normal venous circulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25746311", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1082, 
+            "text": "The results of subtype (Borden and Cognard classification), venous reflux and fistula sites were also accurately exhibited in 4D-CTA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25354667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 305, 
+            "text": "The commonly used Borden and Cognard classification systems for the prediction of clinical behavior of cranial dural arteriovenous shunts focus on the venous drainage, particularly the presence of leptomeningeal venous drainage, and on the direction of flow, particularly the presence of retrograde flow. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25516093", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 413, 
+            "offsetInEndSection": 527, 
+            "text": "The CS DAVFs and the NCS DAVFs were categorized using the Barrow and Borden classification systems, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25479123", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 194, 
+            "offsetInEndSection": 388, 
+            "text": "The two most commonly used and clinically accepted DAVF classifications are the Merland-Cognard classification and the Borden classification, both based on the morphology of the venous drainage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22107858", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1153, 
+            "offsetInEndSection": 1371, 
+            "text": "When analyzed according to the Borden classification, none (0%) of 55 Type I intracranial dural AVFs, two (11%) of 18 Type II, and 14 (48%) of 29 Type III intracranial dural AVFs presented with hemorrhage (p < 0.0001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8893721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2651, 
+            "offsetInEndSection": 2855, 
+            "text": "The configuration of venous anatomy as reflected by both the Cognard and Borden classifications strongly predicts intracranial dural AVFs that will present with ICH or nonhemorrhagic neurological deficit.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8893721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 388, 
+            "text": "The two most commonly used and clinically accepted DAVF classifications are the Merland-Cognard classification and the Borden classification, both based on the morphology of the venous drainage", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22107858", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": "The commonly used Borden and Cognard classification systems for the prediction of clinical behavior of cranial dural arteriovenous shunts focus on the venous drainage, particularly the presence of leptomeningeal venous drainage, and on the direction of flow, particularly the presence of retrograde flow", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25516093", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1163, 
+            "offsetInEndSection": 1383, 
+            "text": "When analyzed according to the Borden classification, none (0%) of 55 Type I intracranial dural AVFs, two (11%) of 18 Type II, and 14 (48%) of 29 Type III intracranial dural AVFs presented with hemorrhage (p &lt; 0.0001)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8893721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 476, 
+            "offsetInEndSection": 587, 
+            "text": "Borden classification showed Type III in 1 and Type II in 10 ncsDAVFs, and Type II in 4 and Type I in 6 csDAVFs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22374275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "The recently proposed classification scheme of Borden, Wu, and Shucart (Borden(*)) should have the ability to identify those intracranial dural arteriovenous fistulae (ICDAVF) which will continue to behave in a benign fashion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20678360", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 389, 
+            "text": "The two most commonly used and clinically accepted DAVF classifications are the Merland-Cognard classification and the Borden classification, both based on the morphology of the venous drainage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22107858", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 510, 
+            "text": "The CS DAVFs and the NCS DAVFs were categorized using the Barrow and Borden classification systems, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25479123", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1432, 
+            "offsetInEndSection": 1623, 
+            "text": "A multivariate logistic regression model showed that intracranial hemorrhage in patients with DAVFs was correlated with higher Borden classification (OR 5.880; 95% CI, 3.370-10.257; p<0.001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26120845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2668, 
+            "offsetInEndSection": 2873, 
+            "text": "The configuration of venous anatomy as reflected by both the Cognard and Borden classifications strongly predicts intracranial dural AVFs that will present with ICH or nonhemorrhagic neurological deficit..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8893721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 589, 
+            "text": "Borden classification showed Type III in 1 and Type II in 10 ncsDAVFs, and Type II in 4 and Type I in 6 csDAVFs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22374275", 
+            "endSection": "abstract"
+        }
+    ]
+}

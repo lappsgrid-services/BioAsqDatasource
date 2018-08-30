@@ -1,0 +1,132 @@
+{
+    "body": "Under which conditions does AMPK phosphorylate TSC2?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15261145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19245654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16483933", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18439900", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24173372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17041622"
+    ], 
+    "ideal_answer": [
+        "The AMP-activated serine/threonine protein kinase (AMPK) is a sensor of cellular energy status found in all eukaryotes, and it is activated under conditions of low intracellular ATP following stresses such as nutrient deprivation or hypoxia.", 
+        "The AMP-activated serine/threonine protein kinase (AMPK) is a sensor of cellular energy status found in all eukaryotes that is activated under conditions of low intracellular ATP following stresses such as nutrient deprivation or hypoxia."
+    ], 
+    "type": "summary", 
+    "id": "56cd765b5795f9a73e000038", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 238, 
+            "text": "The AMP-activated serine/threonine protein kinase (AMPK) is a sensor of cellular energy status found in all eukaryotes that is activated under conditions of low intracellular ATP following stresses such as nutrient deprivation or hypoxia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19245654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 982, 
+            "offsetInEndSection": 1155, 
+            "text": "AMPK directly phosphorylates at least two proteins to induce rapid suppression of mTORC1 activity, the TSC2 tumour suppressor and the critical mTORC1 binding subunit raptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19245654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 374, 
+            "text": "AMPK is a highly conserved sensor of cellular energy status that is activated under conditions of low intracellular ATP. AMPK responds to energy stress by suppressing cell growth and biosynthetic processes, in part through its inhibition of the rapamycin-sensitive mTOR (mTORC1) pathway. AMPK phosphorylation of the TSC2 tumor suppressor contributes to suppression of mTORC1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18439900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 511, 
+            "text": "TSC2 is regulated by cellular energy levels and plays an essential role in the cellular energy response pathway. Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1811, 
+            "offsetInEndSection": 2113, 
+            "text": "Conversely, energy depletion reduces Rheb-GTP charging through the ability of the adenosine monophosphate-activated protein kinase to phosphorylate TSC2 and stimulate its Rheb-GTPase activating function, as well as by HIFalpha-mediated transcriptional responses that act upstream of the TSC1/2 complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17041622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 630, 
+            "text": "Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 647, 
+            "offsetInEndSection": 925, 
+            "text": "Here, we report that LKB1 is required for repression of mTOR under low ATP conditions in cultured cells in an AMPK- and TSC2-dependent manner, and that Lkb1 null MEFs and the hamartomatous gastrointestinal polyps from Lkb1 mutant mice show elevated signaling downstream of mTOR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15261145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 482, 
+            "offsetInEndSection": 569, 
+            "text": "Hypoxia results in energy starvation and activation of the AMPK/TSC2/Rheb/mTOR pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16483933", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 439, 
+            "offsetInEndSection": 592, 
+            "text": "AMPK phosphorylation of the TSC2 tumor suppressor contributes to suppression of mTORC1; however, TSC2-deficient cells remain responsive to energy stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18439900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 512, 
+            "text": "Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 288, 
+            "offsetInEndSection": 442, 
+            "text": "AMPK phosphorylation of the TSC2 tumor suppressor contributes to suppression of mTORC1; however, TSC2-deficient cells remain responsive to energy stress. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18439900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 390, 
+            "offsetInEndSection": 640, 
+            "text": "Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity. Phosphorylation of TSC2 by AMPK is required for translation regulation and cell size control in response to energy deprivation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 254, 
+            "offsetInEndSection": 512, 
+            "text": "Here, we describe that TSC2 is regulated by cellular energy levels and plays an essential role in the cellular energy response pathway. Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14651849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 403, 
+            "text": "Once activated under the various metabolic stress conditions, AMPK regulates a multitude of metabolic pathways to balance cellular energy. In addition, AMPK also induces cell cycle arrest or apoptosis through several tumor suppressors including LKB1, TSC2, and p53.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24173372", 
+            "endSection": "abstract"
+        }
+    ]
+}

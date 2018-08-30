@@ -1,0 +1,58 @@
+{
+    "body": "Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23064518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8006040", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19140748", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16939266"
+    ], 
+    "ideal_answer": [
+        "2.3 megadalton"
+    ], 
+    "exact_answer": [
+        "2.3 megadalton"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0043933", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D046912", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013057", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D046911", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0065003", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D021241", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013058", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0034621", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0032991", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008970", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0034622", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018629", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053719"
+    ], 
+    "type": "factoid", 
+    "id": "514c3fd7d24251bc05000062", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 354, 
+            "text": "Here we show that the Orbitrap mass analyzer can be used to measure protein assemblies of molecular weights approaching one megadalton with sensitivity down to the detection of single ions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23064518", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 874, 
+            "offsetInEndSection": 1015, 
+            "text": "Using this relationship we show that we can determine masses of both 30S subunits and intact 2.3 MDa 70S ribosomes from Thermus thermophilus.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16939266", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1415, 
+            "offsetInEndSection": 1801, 
+            "text": "We confirm the existence of these subpopulations using tandem mass spectrometry of intact 30S subunits. Overall, the results show that, rather than uniform particles, gas-phase ribosomes consist of a number of discrete populations. More generally, the results establish a rigorous procedure for accurate mass measurement and spectral analysis of heterogeneous macromolecular assemblies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16939266", 
+            "endSection": "sections.0"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "body": "Are transcription and splicing connected?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20808788", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23097425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17189193", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21964334", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16921380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15870275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22479188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22975042", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15905409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21095588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16172632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15383674", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22156210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23209445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16769980"
+    ], 
+    "ideal_answer": [
+        "Yes. There is strong evidence that splicing and transcription are intimately coupled in metazoans, with  genome wide surveys show that most splicing occurs during transcription. Chromatin structure, RNA polymerase dynamics, and recruitment of splicing factors through the transcriptional machinery are factors that explain a role for transcription in the regulation of splicing."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "517395b98ed59a060a00001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 476, 
+            "offsetInEndSection": 791, 
+            "text": ", as splicing is often cotranscriptional, a complex picture emerges in which splicing regulation not only depends on the balance of splicing factor binding to their pre-mRNA target sites but also on transcription-associated features such as protein recruitment to the transcribing machinery and elongation kinetics.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 851, 
+            "offsetInEndSection": 968, 
+            "text": "recent evidence shows that chromatin structure is another layer of regulation that may act through various mechanisms", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 971, 
+            "offsetInEndSection": 1135, 
+            "text": "hese span from regulation of RNA polymerase II elongation, which ultimately determines splicing decisions, to splicing factor recruitment by specific histone marks.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1136, 
+            "offsetInEndSection": 1250, 
+            "text": "Chromatin may not only be involved in alternative splicing regulation but in constitutive exon recognition as well", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1252, 
+            "offsetInEndSection": 1480, 
+            "text": "Moreover, splicing was found to be necessary for the proper 'writing' of particular chromatin signatures, giving further mechanistic support to functional interconnections between splicing, transcription and chromatin structure.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1481, 
+            "offsetInEndSection": 1671, 
+            "text": "These links between chromatin configuration and splicing raise the intriguing possibility of the existence of a memory for splicing patterns to be inherited through epigenetic modifications.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23074139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 285, 
+            "text": "Spliceosome assembly occurs co-transcriptionally, raising the possibility that DNA structure may directly influence alternative splicing.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21964334", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 287, 
+            "offsetInEndSection": 475, 
+            "text": "upporting such an association, recent reports have identified distinct histone methylation patterns, elevated nucleosome occupancy and enriched DNA methylation at exons relative to introns", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21964334", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 564, 
+            "text": "Moreover, the rate of transcription elongation has been linked to alternative splicing.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21964334", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 827, 
+            "text": "ere we provide the first evidence that a DNA-binding protein, CCCTC-binding factor (CTCF), can promote inclusion of weak upstream exons by mediating local RNA polymerase II pausing both in a mammalian model system for alternative splicing, CD45, and genome-wide", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21964334", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 232, 
+            "text": "We recently showed that cotranscriptional splicing occurs efficiently in Drosophila,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23097425", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 221, 
+            "text": "In recent years it became apparent that splicing is predominantly cotranscriptional", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22975042", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 385, 
+            "text": "To determine the prevalence of cotranscriptional splicing in Drosophila, we sequenced nascent RNA transcripts from Drosophila S2 cells as well as from Drosophila heads. Eighty-seven percent of the introns assayed manifest >50% cotranscriptional splicing. The remaining 13% are cotranscriptionally spliced poorly or slowly, with \u223c3% being almost completely retained in nascent pre-mRNA.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22156210", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 720, 
+            "offsetInEndSection": 877, 
+            "text": "We estimate that > or =90% of endogenous yeast splicing is posttranscriptional, consistent with an analysis of posttranscriptional snRNP-associated pre-mRNA.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17189193", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 748, 
+            "offsetInEndSection": 1039, 
+            "text": "Notably, the topoisomerase I inhibitor camptothecin, which stalls elongating Pol II, increased cotranscriptional splicing factor accumulation and splicing in parallel. This provides direct evidence for a kinetic link between transcription, splicing factor recruitment and splicing catalysis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16921380", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 739, 
+            "offsetInEndSection": 950, 
+            "text": "Recent evidence indicates that transcriptional elongation and splicing can be influenced reciprocally: Elongation rates control alternative splicing and splicing factors can, in turn, modulate pol II elongation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15383674", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 951, 
+            "offsetInEndSection": 1251, 
+            "text": "The presence of transcription factors in the spliceosome and the existence of proteins, such as the coactivator PGC-1, with dual activities in splicing and transcription can explain the links between both processes and add a new level of complexity to the regulation of gene expression in eukaryotes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15383674", 
+            "endSection": "sections.0"
+        }
+    ]
+}

@@ -1,0 +1,914 @@
+{
+    "body": "Are there any clinical trials of the effect of evening primrose oil on postmenopausal symptoms ?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17593379", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12435217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8136666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14716179", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23625331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20979541", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16753687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15292498"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00381251", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/10439", 
+            "o": "Condition #10439 (Postmenopause)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00381251", 
+            "o": "Trial NCT00381251"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/10439", 
+            "o": "Postmenopause"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005466", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005466", 
+            "o": "Trial NCT00005466"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00443716", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/10430", 
+            "o": "Postmenopausal"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/10430", 
+            "o": "Condition #10430 (Postmenopausal)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00443716", 
+            "o": "Trial NCT00443716"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00195455", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00195455", 
+            "o": "Trial NCT00195455"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00149604", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00149604", 
+            "o": "Trial NCT00149604"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000555", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000555", 
+            "o": "Trial NCT00000555"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00701337", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00701337", 
+            "o": "Trial NCT00701337"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000613", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000613", 
+            "o": "Trial NCT00000613"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00425776", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00425776", 
+            "o": "Trial NCT00425776"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00001890", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00001890", 
+            "o": "Trial NCT00001890"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00094237", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00094237", 
+            "o": "Trial NCT00094237"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005220", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005220", 
+            "o": "Trial NCT00005220"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00023543", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00023543", 
+            "o": "Trial NCT00023543"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00102141", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00102141", 
+            "o": "Trial NCT00102141"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00435175", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00435175", 
+            "o": "Trial NCT00435175"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00522873", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00522873", 
+            "o": "Trial NCT00522873"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00651534", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00651534", 
+            "o": "Trial NCT00651534"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005446", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005446", 
+            "o": "Trial NCT00005446"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00199914", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00199914", 
+            "o": "Trial NCT00199914"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00530582", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00530582", 
+            "o": "Trial NCT00530582"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000611", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000611", 
+            "o": "Trial NCT00000611"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00420576", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00420576", 
+            "o": "Trial NCT00420576"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00123110", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00123110", 
+            "o": "Trial NCT00123110"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005173", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005173", 
+            "o": "Trial NCT00005173"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00160316", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00160316", 
+            "o": "Trial NCT00160316"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000549", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000549", 
+            "o": "Trial NCT00000549"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00152295", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00152295", 
+            "o": "Trial NCT00152295"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000598", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000598", 
+            "o": "Trial NCT00000598"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00706225", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00706225", 
+            "o": "Trial NCT00706225"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00457262", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00457262", 
+            "o": "Trial NCT00457262"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005152", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005152", 
+            "o": "Trial NCT00005152"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006407", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006407", 
+            "o": "Trial NCT00006407"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000601", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000601", 
+            "o": "Trial NCT00000601"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000466", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000466", 
+            "o": "Trial NCT00000466"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00235924", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00235924", 
+            "o": "Trial NCT00235924"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005185", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005185", 
+            "o": "Trial NCT00005185"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00574574", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00574574", 
+            "o": "Trial NCT00574574"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006313", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006313", 
+            "o": "Trial NCT00006313"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00367536", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00367536", 
+            "o": "Trial NCT00367536"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00115024", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00115024", 
+            "o": "Trial NCT00115024"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005515", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005515", 
+            "o": "Trial NCT00005515"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000605", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000605", 
+            "o": "Trial NCT00000605"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00603967", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00603967", 
+            "o": "Trial NCT00603967"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00222872", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00222872", 
+            "o": "Trial NCT00222872"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00009659", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00009659", 
+            "o": "Trial NCT00009659"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00001752", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00001752", 
+            "o": "Trial NCT00001752"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00484107", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00484107", 
+            "o": "Trial NCT00484107"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00577837", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00577837", 
+            "o": "Trial NCT00577837"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00029757", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00029757", 
+            "o": "Trial NCT00029757"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005441", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00005441", 
+            "o": "Trial NCT00005441"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00550433", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00550433", 
+            "o": "Trial NCT00550433"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00214903", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00214903", 
+            "o": "Trial NCT00214903"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000481", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000481", 
+            "o": "Trial NCT00000481"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00380887", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00380887", 
+            "o": "Trial NCT00380887"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00472927", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00472927", 
+            "o": "Trial NCT00472927"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00717145", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00717145", 
+            "o": "Trial NCT00717145"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00384072", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00384072", 
+            "o": "Trial NCT00384072"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00455741", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00455741", 
+            "o": "Trial NCT00455741"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00479778", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00479778", 
+            "o": "Trial NCT00479778"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00667667", 
+            "o": "http://data.linkedct.org/resource/condition/10430"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00667667", 
+            "o": "Trial NCT00667667"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00251082", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00251082", 
+            "o": "Trial NCT00251082"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00361075", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00361075", 
+            "o": "Trial NCT00361075"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00011193", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00011193", 
+            "o": "Trial NCT00011193"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00152282", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00152282", 
+            "o": "Trial NCT00152282"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00294463", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00294463", 
+            "o": "Trial NCT00294463"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00051402", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00051402", 
+            "o": "Trial NCT00051402"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00543634", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00543634", 
+            "o": "Trial NCT00543634"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000559", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000559", 
+            "o": "Trial NCT00000559"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000532", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00000532", 
+            "o": "Trial NCT00000532"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00745173", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00745173", 
+            "o": "Trial NCT00745173"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006539", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00006539", 
+            "o": "Trial NCT00006539"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00010712", 
+            "o": "http://data.linkedct.org/resource/condition/10439"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00010712", 
+            "o": "Trial NCT00010712"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/nct_alias", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00010712", 
+            "o": "NCT00009386"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00554255", 
+            "o": "http://data.linkedct.org/resource/condition/10436"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/10436", 
+            "o": "Condition #10436 (Postmenopausal Women)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/10436", 
+            "o": "Postmenopausal Women"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00554255", 
+            "o": "Trial NCT00554255"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00577720", 
+            "o": "http://data.linkedct.org/resource/condition/10436"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00577720", 
+            "o": "Trial NCT00577720"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00235586", 
+            "o": "http://data.linkedct.org/resource/condition/10436"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00235586", 
+            "o": "Trial NCT00235586"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00566553", 
+            "o": "http://data.linkedct.org/resource/condition/10436"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00566553", 
+            "o": "Trial NCT00566553"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004042", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D031825", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016430", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D031665", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016449", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017698"
+    ], 
+    "type": "yesno", 
+    "id": "5324cf869b2d7acc7e000020", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 449, 
+            "text": "To analyze whether the time (morning/evening) of administration of a compound containing 60 mg of dry soy seed extract (glycine max) with 40% of total isoflavones, primrose oil and \u03b1-tocopherol modifies the effect on the climacteric syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20979541", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 277, 
+            "text": "The object of this study was to evaluate the effect of different doses of a compound containing isoflavones 60 mg, primrose oil 440 mg and vitamin E 10 mg. (IOVE) on menopausal complaints. This was an open, multicentre, randomised, group comparative, efficacy and safety trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16753687", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 802, 
+            "offsetInEndSection": 937, 
+            "text": "Emphasis was placed on randomized, double-blind, placebo-controlled clinical trials, as these provide the best efficacy and safety data", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15292498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1351, 
+            "offsetInEndSection": 1490, 
+            "text": "Nonprescription therapies reviewed include black cohosh, dong quai, evening primrose oil, physical activity, phytoestrogens, and red clover", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15292498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23625331", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 180, 
+            "offsetInEndSection": 305, 
+            "text": "The aim of this study was to compare the efficacy of evening primrose with placebo in improvement of menopausal hot flashes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23625331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1443, 
+            "offsetInEndSection": 1582, 
+            "text": " The application of oral evening primrose oil compared with placebo for controlling hot flashes may decrease more the intensity of attacks ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23625331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 733, 
+            "offsetInEndSection": 977, 
+            "text": "Our search identified 58 randomised controlled trials of which 11 involved the use of clonidine, six for SSRIs, four for gabapentin, seven for black cohosh, seven for red clover, 18 for phytoestrogens, two for ginseng, one for evening primrose,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17593379", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 961, 
+            "offsetInEndSection": 1042, 
+            "text": "Single clinical trials have found no benefit for dong quai, evening primrose oil,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14716179", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1810, 
+            "offsetInEndSection": 1881, 
+            "text": "Single clinical trials have found that dong quai, evening primrose oil,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12435217", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 214, 
+            "text": "To evaluate the efficacy of gamolenic acid provided by evening primrose oil in treating hot flushes and sweating associated with the menopause. DESIGN: Randomised, double blind, placebo controlled study.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8136666", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "body": "Which disease phenotypes are associated to PRPS1 mutations?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23190330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20380929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24961627", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24285972"
+    ], 
+    "ideal_answer": [
+        "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5), Arts syndrome, and non-syndromic sensorineural deafness (DFN2) are allelic syndromes, caused by reduced activity of phosphoribosylpyrophosphate synthetase 1 (PRS-I) due to loss-of-function mutations in PRPS1."
+    ], 
+    "exact_answer": [
+        [
+            "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5)"
+        ], 
+        [
+            "Arts syndrome"
+        ], 
+        [
+            "Non-syndromic sensorineural deafness (DFN2)"
+        ]
+    ], 
+    "type": "list", 
+    "id": "5713b0a51174fb175500000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "X-linked Charcot-Marie-Tooth disease, Arts syndrome, and prelingual non-syndromic deafness form a disease continuum: evidence from a family with a novel PRPS1 mutation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 272, 
+            "text": "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5), Arts syndrome, and non-syndromic sensorineural deafness (DFN2) are allelic syndromes, caused by reduced activity of phosphoribosylpyrophosphate synthetase 1 (PRS-I) due to loss-of-function mutations in PRPS1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 993, 
+            "offsetInEndSection": 1364, 
+            "text": "Our findings demonstrate that CMTX5, Arts syndrome and DFN2 are phenotypic clusters on an intrafamilial continuum, including overlapping phenotypes even within individuals. The respective phenotypic presentation seems to be determined by the exact PRPS1 mutation and the residual enzyme activity, the latter being largely influenced by the degree of skewed X-inactivation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 399, 
+            "offsetInEndSection": 491, 
+            "text": "Mutations in PRPS1 are associated with a spectrum of non-syndromic to syndromic hearing loss", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23190330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 798, 
+            "offsetInEndSection": 1085, 
+            "text": "Gain of function mutations in PRPS1 cause a superactivity of the PRS-I protein whereas the loss-of-function mutations result in X-linked nonsyndromic sensorineural deafness type 2 (DFN2), or in syndromic deafness including Arts syndrome and X-linked Charcot-Marie-Tooth disease-5 (CMTX5)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23190330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "X-linked Charcot-Marie-Tooth disease, Arts syndrome, and prelingual non-syndromic deafness form a disease continuum: evidence from a family with a novel PRPS1 mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 718, 
+            "offsetInEndSection": 995, 
+            "text": "Mutations described thus far in PRPS1 are all missense mutations that result in PRS-I superactivity or in variable levels of decreased activity, resulting in X-linked Charcot-Marie-Tooth disease-5 (CMTX5), Arts syndrome, and X-linked nonsyndromic sensorineural deafness (DFN2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20380929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 720, 
+            "text": "Mutations described thus far in PRPS1 are all missense mutations that result in PRS-I superactivity or in variable levels of decreased activity, resulting in X-linked Charcot-Marie-Tooth disease-5 (CMTX5), Arts syndrome, and X-linked nonsyndromic sensorineural deafness (DFN2)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20380929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 260, 
+            "text": "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5), Arts syndrome, and non-syndromic sensorineural deafness (DFN2) are allelic syndromes, caused by reduced activity of phosphoribosylpyrophosphate synthetase 1 (PRS-I) due to loss-of-function mutations in PRPS1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "X-linked Charcot-Marie-Tooth disease type 5 (CMTX5) is caused by mutations in the gene encoding phosphoribosyl pyrophosphate synthetase I (PRPS1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24285972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 1047, 
+            "text": "Gain of function mutations in PRPS1 cause a superactivity of the PRS-I protein whereas the loss-of-function mutations result in X-linked nonsyndromic sensorineural deafness type 2 (DFN2), or in syndromic deafness including Arts syndrome and X-linked Charcot-Marie-Tooth disease-5 (CMTX5).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23190330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 79, 
+            "offsetInEndSection": 271, 
+            "text": "The spectrum of PRPS1-related disorders associated with reduced activity includes Arts syndrome, Charcot-Marie-Tooth disease-5 (CMTX5) and X-linked non-syndromic sensorineural deafness (DFN2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24961627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "X-linked Charcot-Marie-Tooth disease, Arts syndrome, and prelingual non-syndromic deafness form a disease continuum: evidence from a family with a novel PRPS1 mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24528855", 
+            "endSection": "title"
+        }
+    ]
+}

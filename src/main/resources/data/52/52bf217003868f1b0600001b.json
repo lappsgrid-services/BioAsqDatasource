@@ -1,0 +1,98 @@
+{
+    "body": "What can Nothobranchius furzeri be used as a model system for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19302373", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19052641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17049789", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16687936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16164422"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2174134", 
+            "o": "105023"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1048677", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2174134"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1048677", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2174134"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2174134", 
+            "o": "Nothobranchius furzeri"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2174134", 
+            "o": "NCBI Taxonomy"
+        }
+    ], 
+    "ideal_answer": [
+        "N. furzeri an interesting model system to investigate the effects of experimental manipulations on longevity and age-related pathologies.\nN. furzeri could represent a model system for studying the genetic control of life-history traits in natural populations.\nN. furzeri could be a very useful model for comparative genomics of aging.\nIt can be employed to test the effects of experimental manipulation on aging and apharmacological research."
+    ], 
+    "exact_answer": [
+        "aging research"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023421"
+    ], 
+    "type": "factoid", 
+    "id": "52bf217003868f1b0600001b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 270, 
+            "text": "The short-lived annual fish Nothobranchius furzeri shows extremely short captive life span and accelerated expression of age markers, making it an interesting model system to investigate the effects of experimental manipulations on longevity and age-related pathologies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19302373", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1339, 
+            "offsetInEndSection": 1527, 
+            "text": "Owing to large differences in aging phenotypes in different lines, N. furzeri could represent a model system for studying the genetic control of life-history traits in natural populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19052641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1201, 
+            "offsetInEndSection": 1362, 
+            "text": "It is very close to the Japanese Medaka, and close to the pufferfishes and stickleback and might represent a very useful model for comparative genomics of aging.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17049789", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 991, 
+            "offsetInEndSection": 1111, 
+            "text": "In the last three years, N. furzeri has moved from biological curiosity to a promising model system for drug validation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17049789", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 645, 
+            "offsetInEndSection": 1244, 
+            "text": " This result identifies resveratrol as the first molecule which consistently retards aging in organisms as diverse as yeast, worm, fly and fish, but it also reveals the potential of this short-lived fish as an animal model for pharmacological research. Moreover, being related to stickleback (Gasterosteus aculeatus) the \"pufferfishes\" Takifugu and Tetraodon, and even more closely related to medaka (Oryzias latipes), it can greatly beneficiate from the recent development of genomic resources for these fish models and in the future become a complete model system for the aging research community.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16687936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1340, 
+            "offsetInEndSection": 1610, 
+            "text": "These fishes can become excellent models for aging studies. They can be employed to test the effects of experimental manipulation on aging at a pace comparable with that of Drosophila and to probe the effects of natural selection on the evolution of aging-related genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16164422", 
+            "endSection": "abstract"
+        }
+    ]
+}

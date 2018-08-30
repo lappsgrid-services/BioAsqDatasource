@@ -1,0 +1,69 @@
+{
+    "body": "Is synapsin a phosphoprotein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26425441", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26400944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25843720", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25576091", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26538647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25972175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25967550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26670182"
+    ], 
+    "ideal_answer": [
+        "Yes, synapsin is an evolutionarily conserved presynaptic phosphoprotein."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58a8962338c171fb5b000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 67, 
+            "text": "Synapsin is an evolutionarily conserved presynaptic phosphoprotein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26670182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Synapsins as a family of presynaptic terminal phosphoprotein participates in neuronal development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25576091", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 41, 
+            "text": "Synapsin III (SynIII) is a phosphoprotein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25843720", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 285, 
+            "offsetInEndSection": 325, 
+            "text": "The neuronal phosphoprotein synapsin III", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25967550", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "Synapsin II is a member of the neuronal phosphoprotein family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26425441", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 480, 
+            "text": "phosphoprotein synapsin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26538647", 
+            "endSection": "abstract"
+        }
+    ]
+}

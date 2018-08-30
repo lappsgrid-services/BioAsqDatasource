@@ -1,0 +1,98 @@
+{
+    "body": "Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21050448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19004816"
+    ], 
+    "ideal_answer": [
+        "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assayThese results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system.", 
+        "Here, we report that Polo-like kinase 2 (PLK2), an enzyme up-regulated in synucleinopathy-diseased brains, interacts with, phosphorylates and enhances \u03b1-synuclein autophagic degradation in a kinase activity-dependent manner. These results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system.", 
+        "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in central nervous system  "
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "551910fa622b19434500000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "An increase in \u03b1-synuclein levels due to gene duplications/triplications or impaired degradation is sufficient to trigger its aggregation and cause familial Parkinson disease ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 540, 
+            "text": "Here, we report that Polo-like kinase 2 (PLK2), an enzyme up-regulated in synucleinopathy-diseased brains, interacts with, phosphorylates and enhances \u03b1-synuclein autophagic degradation in a kinase activity-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Polo-like kinase 2 regulates selective autophagic \u03b1-synuclein clearance and suppresses its toxicity in vivo", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1004, 
+            "offsetInEndSection": 1219, 
+            "text": "Collectively, our findings demonstrate that PLK2 is a previously undescribed regulator of \u03b1-synuclein turnover and that modulating its kinase activity could be a viable target for the treatment of synucleinopathies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23983262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 728, 
+            "offsetInEndSection": 845, 
+            "text": " \u03b1-Synuclein increased PLK2 levels and GSK-3\u03b2 activity and increased the levels of phosphorylated \u03b1-Synuclein and Tau", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21050448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in central nervous system", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Several neurological diseases, including Parkinson disease and dementia with Lewy bodies, are characterized by the accumulation of alpha-synuclein phosphorylated at Ser-129 (p-Ser-129)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 477, 
+            "text": "Here we submit evidence that polo-like kinase 2 (PLK2, also known as serum-inducible kinase or SNK) is a principle contributor to alpha-synuclein phosphorylation at Ser-129 in neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 566, 
+            "text": "PLK2 directly phosphorylates alpha-synuclein at Ser-129 in an in vitro biochemical assay", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 859, 
+            "offsetInEndSection": 975, 
+            "text": "These results indicate that PLK2 plays a critical role in alpha-synuclein phosphorylation in central nervous system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004816", 
+            "endSection": "abstract"
+        }
+    ]
+}

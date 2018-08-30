@@ -1,0 +1,186 @@
+{
+    "body": "Is the Histidine-Rich Calcium Binding protein (HRC) related to arrhythmias and cardiac disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17030629", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20807542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15191886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24125847", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19403607", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21742996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22040806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18617481"
+    ], 
+    "ideal_answer": [
+        "Histidine-rich calcium binding protein (HRC) is a high capacity, low affinity Ca(2+) binding protein with a potential role in heart failure and arrhythmogenesis due to its activity as regulator of SR Ca(2+) uptake and Ca(2+) release.In addition, HRC null mice displayed a significantly exaggerated response to the induction of cardiac hypertrophy by isoproterenol compared to their wild-type littermates. A human genetic variant (Ser96Ala) in HRC has been linked to ventricular arrhythmia and sudden death in dilated cardiomyopathy."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006331", 
+        "http://www.biosemantics.org/jochem#4263030"
+    ], 
+    "type": "yesno", 
+    "id": "54f482d264850a5854000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 212, 
+            "text": "A human genetic variant (Ser96Ala) in the sarcoplasmic reticulum (SR) histidine-rich Ca(2+)-binding (HRC) protein has been linked to ventricular arrhythmia and sudden death in dilated cardiomyopathy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24125847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1817, 
+            "offsetInEndSection": 1998, 
+            "text": "These findings suggest that aberrant SR Ca2+ release and increased susceptibility to delayed afterdepolarizations underlie triggered arrhythmic activity in human Ala96 HRC carriers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24125847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 214, 
+            "text": "The histidine-rich calcium binding protein (HRC) Ser96Ala polymorphism was shown to correlate with ventricular arrhythmias and sudden death only in dilated cardiomyopathy patients but not in healthy human carriers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21742996", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1274, 
+            "offsetInEndSection": 1525, 
+            "text": "These findings indicate that the HRC Ser96Ala variant increases the propensity of arrhythmogenic Ca(2+) waves in the stressed failing heart, suggesting a link between this genetic variant and life-threatening ventricular arrhythmias in human carriers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21742996", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1040, 
+            "offsetInEndSection": 1403, 
+            "text": "HRC plays an important role in myocyte differentiation and in antiapoptotic cardioprotection against ischemia/reperfusion induced cardiac injury. Interestingly, HRC has been linked with familiar cardiac conduction disease and an HRC polymorphism was shown to associate with malignant ventricular arrhythmias in the background of idiopathic dilated cardiomyopathy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20807542", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1404, 
+            "offsetInEndSection": 1575, 
+            "text": "This review summarizes studies, which have established the critical role of HRC in Ca(2+)-homeostasis, suggesting its importance in cardiac physiology and pathophysiology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20807542", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 1193, 
+            "text": "HRC is a SR luminal Ca(2+) binding protein known to associate with both triadin and the sarcoplasmic reticulum Ca(2+)-ATPase, and may thus mediate the crosstalk between SR Ca(2+) uptake and release. Indeed, evidence from genetic models of JCN and HRC indicate that they are important in cardiophysiology as alterations in these proteins affect SR Ca(2+) handling and cardiac function. In addition, downregulation of JCN and HRC may contribute to Ca(2+) cycling perturbations manifest in the failing heart, where their protein levels are significantly reduced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19403607", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1207, 
+            "offsetInEndSection": 1423, 
+            "text": "The Ser96Ala genetic variant of HRC is associated with life-threatening ventricular arrhythmias in idiopathic DCM and may serve as an independent predictor of susceptibility to arrhythmogenesis in the setting of DCM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18617481", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "AAV-mediated knock-down of HRC exacerbates transverse aorta constriction-induced heart failure.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 191, 
+            "offsetInEndSection": 323, 
+            "text": "Chronic overexpression of HRC that may disrupt intracellular Ca(2+) homeostasis is implicated in pathogenesis of cardiac hypertrophy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 325, 
+            "offsetInEndSection": 499, 
+            "text": "Ablation of HRC showed relatively normal phenotypes under basal condition, but exhibited a significantly increased susceptibility to isoproterenol-induced cardiac hypertrophy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1949, 
+            "offsetInEndSection": 2095, 
+            "text": "Our results present evidence that down-regulation of HRC could deteriorate cardiac function in TAC-FH through perturbed SR-mediated Ca(2+) cycling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1296, 
+            "offsetInEndSection": 1441, 
+            "text": "However, AAV9-mediated HRC-KD in TAC-FH was associated with decreased fractional shortening and increased cardiac fibrosis compared with control.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22952658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 448, 
+            "text": "Histidine-rich calcium binding protein (HRC) is a high capacity, low affinity Ca(2+) binding protein, specifically expressed in striated muscles of mammals. In rabbit skeletal and cardiac muscles, HRC binds to sarcoplasmic reticulum (SR) membranes via triadin, a junctional SR protein. Recently, a potential role in heart failure and arrhythmogenesis has been assigned to HRC due to its activity as regulator of SR Ca(2+) uptake and Ca(2+) release.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22040806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 996, 
+            "offsetInEndSection": 1488, 
+            "text": "In addition, HRC null mice displayed a significantly exaggerated response to the induction of cardiac hypertrophy by isoproterenol compared to their wild-type littermates. The exaggerated response of HRC knockout mice to the induction of cardiac hypertrophy is consistent with a regulatory role for HRCBP in calcium handling in vivo and suggests that mutations in HRC, in combination with other genetic or environmental factors, might contribute to pathological hypertrophy and heart failure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17030629", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 288, 
+            "offsetInEndSection": 377, 
+            "text": "We observed that the levels of HRC were reduced in animal models and human heart failure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15191886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1297, 
+            "offsetInEndSection": 1456, 
+            "text": "Collectively, these data indicate that alterations in expression levels of HRC are associated with impaired cardiac SR Ca homeostasis and contractile function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15191886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Abnormal calcium cycling and cardiac arrhythmias associated with the human Ser96Ala genetic variant of histidine-rich calcium-binding protein.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24125847", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "The Ser96Ala variant in histidine-rich calcium-binding protein is associated with life-threatening ventricular arrhythmias in idiopathic dilated cardiomyopathy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18617481", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1186, 
+            "offsetInEndSection": 1402, 
+            "text": "Interestingly, HRC has been linked with familiar cardiac conduction disease and an HRC polymorphism was shown to associate with malignant ventricular arrhythmias in the background of idiopathic dilated cardiomyopathy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20807542", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "body": "Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23272425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8896569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23836442", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9556633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10980580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22184102", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20860806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8401580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21656899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22974608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23043324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8894691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22131258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16080919"
+    ], 
+    "ideal_answer": [
+        "Hirschsprung disease (HSCR, aganglionic megacolon) is a common congenital malformation leading to bowel obstruction, with an incidence of 1/5,000 live births. It is characterized by the absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract.  ", 
+        "The medical condition characterized by the congenital absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract is called aganlionic megacolon or Hirschsprung disease.", 
+        "Hirschsprung disease (HSCR) is a congenital disorder associated with the absence of intrinsic ganglion cells in the distal gastrointestinal tract.This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells.", 
+        "Hirschsprungs disease (HSCR), also known as aganglionic megacolon, derives from a congenital malformation of the enteric nervous system (ENS). This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells."
+    ], 
+    "exact_answer": [
+        "Aganlionic megacolon or Hirschsprung disease"
+    ], 
+    "type": "factoid", 
+    "id": "55000cc4e9bde69634000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Hirschsprung's disease (HSCR), also known as aganglionic megacolon, derives from a congenital malformation of the enteric nervous system (ENS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23043324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 373, 
+            "offsetInEndSection": 599, 
+            "text": "This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23043324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 162, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21656899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 316, 
+            "text": "Hirschsprung disease (HSCR, aganglionic megacolon) is a common congenital malformation leading to bowel obstruction, with an incidence of 1/5,000 live births. It is characterized by the absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8896569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder associated with the absence of intrinsic ganglion cells in the distal gastrointestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8894691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22184102", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21656899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Hirschsprung's disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerves forming the plexus of the lower intestine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23836442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Hirschsprung disease (HSCR) is an inherited disorder characterised by absence of intrinsic ganglion cells in the distal gastrointestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10980580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Hirschsprung disease (HSCR) is a frequent congenital disorder (1 in 5,000 newborns) of unknown origin characterized by the absence of parasympathetic intrinsic ganglion cells of the hindgut.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8401580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 213, 
+            "text": "Hirschsprung disease (HSCR) is a neurocristopathy characterized by the absence of parasympathetic intrinsic ganglion cells in the submucosal and myenteric plexuses along a variable portion of the intestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20860806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "BACKGROUND: Hirschsprungs Disease (HD) is a developmental disorder of enteric nervous system characterised by the absence of ganglion cells in submucosal (Meissners) and myenteric (Aurbachs) plexuses of distal bowel.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Hirschsprung's disease is an inherited disorder characterized by the absence of ganglion cells in the distal bowel.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16080919", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disease characterized by the absence of ganglion cells in various length of distal digestive tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22131258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder associated with the absence of intrinsic ganglion cells in the distal gastrointestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8894691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Hirschsprung's disease (HSCR) is a congenital intestinal disease, characterized by the absence of ganglion cells in the distal portion of the intestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9556633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by the absence of intramural ganglion cells along with variable lengths of the gastrointestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22974608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21656899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22184102", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Hirschsprung's disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerves forming the plexus of the lower intestine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23836442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Hirschsprung disease (HSCR) is a frequent congenital disorder (1 in 5,000 newborns) of unknown origin characterized by the absence of parasympathetic intrinsic ganglion cells of the hindgut", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8401580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 212, 
+            "text": "Hirschsprung disease (HSCR) is a neurocristopathy characterized by the absence of parasympathetic intrinsic ganglion cells in the submucosal and myenteric plexuses along a variable portion of the intestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20860806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Hirschsprung disease (HSCR) is an inherited disorder characterised by absence of intrinsic ganglion cells in the distal gastrointestinal tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10980580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of ganglion cells in the nerve plexuses of the lower digestive tract", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+            "endSection": "abstract"
+        }
+    ]
+}

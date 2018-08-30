@@ -1,0 +1,263 @@
+{
+    "body": "List clinical trials for prevention of sarcopenia", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21968872", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18615229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22739566", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23892221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21159787"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00557388", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/11756", 
+            "o": "Sarcopenia"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/11756", 
+            "o": "Condition #11756 (Sarcopenia)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00557388", 
+            "o": "Trial NCT00557388"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00475501", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00475501", 
+            "o": "Trial NCT00475501"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00748696", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00748696", 
+            "o": "Trial NCT00748696"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00529659", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00529659", 
+            "o": "Trial NCT00529659"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00240981", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00240981", 
+            "o": "Trial NCT00240981"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00690534", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00690534", 
+            "o": "Trial NCT00690534"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00183040", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00183040", 
+            "o": "Trial NCT00183040"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00730184", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00730184", 
+            "o": "Trial NCT00730184"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00190060", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00190060", 
+            "o": "Trial NCT00190060"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00465153", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00465153", 
+            "o": "Trial NCT00465153"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00744094", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00744094", 
+            "o": "Trial NCT00744094"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00357214", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00357214", 
+            "o": "Trial NCT00357214"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00260442", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00260442", 
+            "o": "Trial NCT00260442"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00174135", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00174135", 
+            "o": "Trial NCT00174135"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00473902", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/acronym", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00473902", 
+            "o": "OTR"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00473902", 
+            "o": "Trial NCT00473902"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00725166", 
+            "o": "http://data.linkedct.org/resource/condition/11756"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/acronym", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00725166", 
+            "o": "CERA"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00725166", 
+            "o": "Trial NCT00725166"
+        }
+    ], 
+    "ideal_answer": [
+        "Several clinical trials with androgen replacement therapy. \nStudy was to evaluate the effect of omega-3 fatty acid supplementation on the rate of muscle protein synthesis. This trial was registered at clinical trials.gov as NCT00794079"
+    ], 
+    "exact_answer": [
+        [
+            "androgen replacement trials"
+        ], 
+        [
+            "omega-3 fatty acid supplementation", 
+            "NCT00794079"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016032", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002986", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D055948", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016430", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011315"
+    ], 
+    "type": "list", 
+    "id": "52f893f92059c6d71c00003c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 154, 
+            "offsetInEndSection": 249, 
+            "text": "several clinical trials with androgen replacement therapy have failed to show clinical benefit.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23892221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1146, 
+            "offsetInEndSection": 1220, 
+            "text": "Clinical trials are needed to find better interventions for this syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22739566", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 705, 
+            "offsetInEndSection": 935, 
+            "text": "emergence of many promising interventions towards this age-related condition (e.g., physical exercise [in particular, resistance training], testosterone, antioxidant supplementations), the need for Phase II trial designs is high. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21968872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 448, 
+            "text": "The objective of this study was to evaluate the effect of omega-3 fatty acid supplementation on the rate of muscle protein synthesis in older adults.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21159787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1676, 
+            "offsetInEndSection": 1740, 
+            "text": "This trial was registered at clinical trials.gov as NCT00794079.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21159787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 689, 
+            "text": "The extreme paucity of clinical trials on sarcopenia in literature is mainly due to difficulties in designing studies able to isolate the aging process from its multiple and interconnected consequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18615229", 
+            "endSection": "abstract"
+        }
+    ]
+}

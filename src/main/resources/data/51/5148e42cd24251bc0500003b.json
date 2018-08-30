@@ -1,0 +1,267 @@
+{
+    "body": "Can PLN mutations lead to dilated cardiomyopathy?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20634894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22137083", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15336969", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15769782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23349452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21282613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17019811", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12639993", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22820313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16432188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16235537", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12610310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19324307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17998275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17010801", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22155237", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22427649"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17851795", 
+            "o": "Dilated cardiomyopathy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0035199", 
+            "o": "Cardiomyopathies, Dilated"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11995504", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17895723", 
+            "o": "Dilated Cardiomyopathy"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0048982", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12058799", 
+            "o": "Cardiomyopathy, Dilated"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A13286677", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, PLN mutations can lead to dilated cardiomyopathy."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017354", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004106", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018389", 
+        "http://www.uniprot.org/uniprot/PPLA_CHICK", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050700", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009202", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054643", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002311", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020125", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004252", 
+        "http://www.uniprot.org/uniprot/PPLA_RAT", 
+        "http://www.uniprot.org/uniprot/PPLA_RABIT", 
+        "http://www.uniprot.org/uniprot/PPLA_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004108", 
+        "http://www.uniprot.org/uniprot/PPLA_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016368", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12930", 
+        "http://www.uniprot.org/uniprot/PPLA_CANFA", 
+        "http://www.uniprot.org/uniprot/PPLA_PIG", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017384", 
+        "http://www.uniprot.org/uniprot/PPLA_BOVIN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154"
+    ], 
+    "type": "yesno", 
+    "id": "5148e42cd24251bc0500003b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 674, 
+            "offsetInEndSection": 826, 
+            "text": "A PLN founder mutation (43 cases) and LMNA mutations (19 cases, 16 different mutations) were most prevalent and often demonstrated a specific phenotype.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23349452", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 350, 
+            "offsetInEndSection": 441, 
+            "text": "PLN mutation R14del was identified in 12 (12 %) ARVC patients and in 39 (15 %) DCM patients", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22820313", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1337, 
+            "offsetInEndSection": 1453, 
+            "text": "The PLN R14del founder mutation is present in a substantial number of patients clinically diagnosed with DCM or ARVC", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22820313", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 272, 
+            "text": "Arg(9) \u2192 Cys (R9C) and Arg(14) deletion (R14del) mutations in PLN are associated with lethal dilated cardiomyopathy in humans", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22427649", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 306, 
+            "offsetInEndSection": 443, 
+            "text": "We previously reported the deletion of the highly conserved amino acid residue arginine 14 (nucleic acids 39, 40 and 41) in DCM patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22155237", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 157, 
+            "offsetInEndSection": 252, 
+            "text": "Mutations in the gene encoding PLN have been associated with idiopathic dilated cardiomyopathy;", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22137083", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1429, 
+            "offsetInEndSection": 1565, 
+            "text": "Mutations in the PLN gene are a rare cause of heart failure, present almost exclusively in patients with dilated cardiomyopathy etiology", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22137083", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 294, 
+            "text": "A missense mutation in PLN cytoplasmic domain (R9C) triggers dilated cardiomyopathy in humans, leading to premature death.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21282613", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 599, 
+            "text": "Complete genetic and clinical analyses were performed in a family with familial dilated cardiomyopathy due to the PLN-R14Del mutation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19324307", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 753, 
+            "offsetInEndSection": 1090, 
+            "text": "A candidate gene approach resulted in identification of a heterozygous deletion of arginine 14 in the gene encoding phospholamban (PLN-R14Del) segregating with dilated cardiomyopathy in the family pedigree. Mutation carriers suffered from familial dilated cardiomyopathy associated with cardiac death between the ages of 26 and 50 years.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19324307", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 522, 
+            "offsetInEndSection": 599, 
+            "text": "a family with familial dilated cardiomyopathy due to the PLN-R14Del mutation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19324307", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1103, 
+            "offsetInEndSection": 1320, 
+            "text": "For the phospholamban (PLN) and titin cap (TTN) genes, a direct mutation screening approach was used. DNA sequence analysis of all exons showed no evidence that these genes are involved in DCM in the Newfoundland dog.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17998275", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1096, 
+            "offsetInEndSection": 1229, 
+            "text": "two human PLN mutations, associated with either absence or sustained dephosphorylation of PLN, were linked to dilated cardiomyopathy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17019811", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 379, 
+            "text": "Mutations in the gene encoding PLN have been associated with dilated cardiomyopathy characterized by early onset and the presence of lethal ventricular arrhythmias.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17010801", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 962, 
+            "offsetInEndSection": 1143, 
+            "text": "The identical PLN mutation can be associated with both mild and severe forms of dilated cardiomyopathy. Additionally, PLN mutations should be considered in late onset cardiomyopathy", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17010801", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 466, 
+            "text": "Through genetic screening of dilated cardiomyopathy patients, we identified a previously uncharacterized deletion of arginine 14 (PLN-R14Del) in the coding region of the phospholamban (PLN) gene in a large family with hereditary heart failure.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16432188", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 742, 
+            "offsetInEndSection": 922, 
+            "text": "No PLN gene mutation was found in patients with DCM in Chengdu. This result indicated that PLN gene mutation may not be a common cause for DCM in the Chinese population in Chengdu.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16235537", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1341, 
+            "offsetInEndSection": 1352, 
+            "text": "none in PLN", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15769782", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 1027, 
+            "text": "the recent discoveries of human PLN mutations leading to disease states.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15336969", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 768, 
+            "text": "Strikingly, both individuals homozygous for L39stop developed dilated cardiomyopathy and heart failure, requiring cardiac transplantation at ages 16 and 27.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12639993", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1320, 
+            "offsetInEndSection": 1377, 
+            "text": "humans lacking PLN develop lethal dilated cardiomyopathy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12639993", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 188, 
+            "offsetInEndSection": 386, 
+            "text": "Here we report that an inherited human dilated cardiomyopathy with refractory congestive heart failure is caused by a dominant Arg --> Cys missense mutation at residue 9 (R9C) in phospholamban (PLN)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12610310", 
+            "endSection": "sections.0"
+        }
+    ]
+}

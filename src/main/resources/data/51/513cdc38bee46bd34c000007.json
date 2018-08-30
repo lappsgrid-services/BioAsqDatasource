@@ -1,0 +1,171 @@
+{
+    "body": "Is thrombophilia related to increased risk of miscarriage?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11583310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16962918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19135285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15713144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15027582", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7986734", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20860491", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22543699", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22164918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18845284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19165673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19031171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21380983"
+    ], 
+    "ideal_answer": [
+        "Thrombophilia has been found to be considerably more common in women with pregnancy-associated complications in comparison with the general population, and most frequently in conjunction with venous thromboembolism during pregnancy and the postpartum period. In particular there is an increased risk of pregnancy-related venous thrombosis in carriers of severe inherited thrombophilia. When counseling white women with a history of preeclampsia, screening for thrombophilia can be useful for preconceptional counseling and pregnancy management."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0007565", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018566", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019851", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011248", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10591", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011255", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011256"
+    ], 
+    "type": "yesno", 
+    "id": "513cdc38bee46bd34c000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1065, 
+            "offsetInEndSection": 1159, 
+            "text": "Thrombophilia does hardly increase the risk of IUGR/PMPC or if so, it can be prevented by LMWH", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22543699", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 571, 
+            "offsetInEndSection": 796, 
+            "text": "for illustrative purposes, a patient presenting with combined thrombophilia--both genetic and acquired--will be discussed. This patient had suffered severe gestational complications that led to devastating obstetrical outcome", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22164918", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 235, 
+            "text": "Thrombophilias have been implicated in complications related to ischemic placental disease including recurrent pregnancy loss, intrauterine fetal demise, preeclampsia, fetal growth restriction, placental abruption, and preterm delivery", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21380983", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 905, 
+            "offsetInEndSection": 1061, 
+            "text": "Further information about the combined risk of aPC resistance and pregnancy is needed before guidance on the management of affected women can be formulated.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7986734", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 263, 
+            "text": "Thrombotic risk during pregnancy and the puerperium is higher in asymptomatic women with than without thrombophilia", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15027582", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 734, 
+            "offsetInEndSection": 870, 
+            "text": "Further studies are required to assess the thrombotic risk in women with preeclampsia as well as early or late recurrent pregnancy loss.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15027582", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Risk of pregnancy-related venous thrombosis in carriers of severe inherited thrombophilia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11583310", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1265, 
+            "offsetInEndSection": 1532, 
+            "text": "In conclusion, homozygous carriers of factor V Leiden and, to a lesser extent, double heterozygous carriers of factor V Leiden and of the prothrombin mutation have an increased risk of venous thrombosis during pregnancy, particularly high during the postpartum period", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11583310", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 767, 
+            "offsetInEndSection": 873, 
+            "text": "Careful diagnosis, observation and monitoring can add significant benefit to LMWH therapy during pregnancy", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19135285", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Pregnancy in healthy women is accompanied by hypercoagulable changes that may interact with thrombophilia risk factors and threaten pregnancy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19031171", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1239, 
+            "offsetInEndSection": 1444, 
+            "text": "Fifty-three (13 %) women had antiphospholipid antibodies (lupus anticoagulant and/or anti-beta2-glycoprotein 1 antibodies) mainly associated with the risk of spontaneous abortion during the first trimester", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19031171", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1461, 
+            "offsetInEndSection": 1713, 
+            "text": "thrombophilia was found to be considerably more common in women with pregnancy-associated complications in comparison with the general population, and most frequently in conjunction with venous thromboembolism during pregnancy and the postpartum period", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19031171", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1104, 
+            "offsetInEndSection": 1262, 
+            "text": "When counseling white women with a history of preeclampsia, screening for thrombophilia can be useful for preconceptional counseling and pregnancy management.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18845284", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 604, 
+            "offsetInEndSection": 779, 
+            "text": "knowledge combined with the appropriate use of thromboprophylaxis and treatment in women who have objectively confirmed VTE continue to improve maternal and perinatal outcomes", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16962918", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1508, 
+            "offsetInEndSection": 1666, 
+            "text": "The risk of having thrombophilia is doubled in men who have fathered pregnancies which ended in perinatal death as well as in the mothers of such pregnancies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15713144", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 707, 
+            "text": "The prevalence of thrombophilic variants is of possible public health significance for other morbidity; but perhaps not in relation to preeclampsia", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19165673", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 694, 
+            "offsetInEndSection": 826, 
+            "text": "This study suggests that thrombophilia \"mediates\" in lowering of cardiovascular risk factors in women with a history of preeclampsia", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20860491", 
+            "endSection": "sections.0"
+        }
+    ]
+}

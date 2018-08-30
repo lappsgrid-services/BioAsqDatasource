@@ -1,0 +1,51 @@
+{
+    "body": "What is a miR?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27814624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27924483", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27734397", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27586262"
+    ], 
+    "ideal_answer": [
+        "The discovery of microRNAs (miRNAs) has opened an entire new avenue for drug development. These short (15-22 nucleotides) noncoding RNAs, which function in RNA silencing and posttranscriptional regulation of gene expression, have been shown to critically affect numerous pathways in both development and disease progression."
+    ], 
+    "exact_answer": [
+        "MiRs are small (~23 nt) noncoding RNAs"
+    ], 
+    "type": "factoid", 
+    "id": "58f0b1d670f9fc6f0f000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 634, 
+            "text": "As novel molecules, microRNAs (miRs) take part in regulating protein-coding gene expression at the post-transcriptional level,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27814624", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 399, 
+            "offsetInEndSection": 461, 
+            "text": "The discovery of microRNA (miRNA) regulation in tumorigenesis ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27586262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 467, 
+            "offsetInEndSection": 671, 
+            "text": "MiRs are small (~23 nt) noncoding RNAs that regulate gene expression by specifically interacting with the 3' untranslated region (UTR) of target gene mRNA to repress translation or enhance mRNA cleavage. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27734397", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 325, 
+            "text": "The discovery of microRNAs (miRNAs) has opened an entire new avenue for drug development. These short (15-22 nucleotides) noncoding RNAs, which function in RNA silencing and posttranscriptional regulation of gene expression, have been shown to critically affect numerous pathways in both development and disease progression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924483", 
+            "endSection": "abstract"
+        }
+    ]
+}

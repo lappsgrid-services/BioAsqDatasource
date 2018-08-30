@@ -1,0 +1,202 @@
+{
+    "body": "List markers for autophagy.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22807527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23940944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23193914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23626658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24141623", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24231340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24126619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24291536", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24255881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23608825", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23437259", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23737395", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23727153", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23182945", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23598404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23117929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22652752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23822101"
+    ], 
+    "ideal_answer": [
+        "Expression of LC3-II and BECN1 as well as SQSTM1 are used as markers of autophagy activity."
+    ], 
+    "exact_answer": [
+        [
+            "LC3-II", 
+            "microtubule-associated protein 1 light chain 3"
+        ], 
+        [
+            "BECN1", 
+            "beclin 1"
+        ], 
+        [
+            "SQSTM1", 
+            "p62", 
+            "Sequestosome 1"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000943", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006914", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001343"
+    ], 
+    "type": "list", 
+    "id": "5505b9ff8e1671127b000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 536, 
+            "offsetInEndSection": 580, 
+            "text": ". Light chain 3/Atg8 as an autophagy marker ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24291536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 1235, 
+            "text": "increased conversion of microtubule-associated protein, 1A/1B-light chain 3, from its cytosolic form (LC3B-I) to its lipidated form (LC3B-II), increased Beclin-1 levels, and increased acridine orange staining as determined by flow cytometry analysis, providing further evidence of \u03b3-tocotrienol-induced autophagy in these mammary cancer cell lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24231340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 926, 
+            "offsetInEndSection": 1070, 
+            "text": "Western blotting was used to detect hepatic microtubule-associated protein 1 light chain 3 (LC3)-II protein expression as a marker for autophagy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24255881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1821, 
+            "offsetInEndSection": 1844, 
+            "text": "autophagy marker LC3-II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24255881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 41, 
+            "text": "autophagy marker LC3B ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24141623", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 498, 
+            "offsetInEndSection": 522, 
+            "text": "the autophagy marker LC3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24126619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 519, 
+            "offsetInEndSection": 562, 
+            "text": "autophagy marker molecules, p62 and LC3-II ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23940944", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1635, 
+            "offsetInEndSection": 1742, 
+            "text": " LC3-I into LC3-II and has been confirmed in multiple mammalian cell lines with multiple autophagy markers ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23822101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 685, 
+            "text": " light chain 3 (LC3), which is an autophagy marker.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23737395", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 876, 
+            "offsetInEndSection": 904, 
+            "text": "LC3 (tfLC3) autophagy marker", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23727153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 684, 
+            "text": "the autophagy marker LC3,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23608825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 624, 
+            "offsetInEndSection": 731, 
+            "text": "autophagy marker beclin 1 and microtubule-associated protein light chain 3 (LC3) were analyzed in control, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23626658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 925, 
+            "text": " LC3-II levels (an autophagy marker);", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23598404", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 851, 
+            "offsetInEndSection": 918, 
+            "text": "autophagy marker, microtubule-associated protein light chain3 (LC3)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23437259", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1229, 
+            "offsetInEndSection": 1257, 
+            "text": "the autophagy marker LC3B-II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23193914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 480, 
+            "text": "utophagy marker protein microtubule-associated protein 1 light chain 3 (LC3)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23182945", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 594, 
+            "text": "autophagy marker LC3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23117929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 225, 
+            "offsetInEndSection": 320, 
+            "text": "We used the expression of LC3-II and BECN1 as well as SQSTM1 as markers of autophagy activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22652752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1082, 
+            "offsetInEndSection": 1102, 
+            "text": "autophagy marker LC3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22807527", 
+            "endSection": "abstract"
+        }
+    ]
+}

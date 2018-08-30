@@ -1,0 +1,70 @@
+{
+    "body": "Is microRNA(miRNA) 30 involved in post-ischemic cardiac remodeling?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22352753", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21434842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22038740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19096030"
+    ], 
+    "ideal_answer": [
+        "Myocardial remodeling after an ischemic insult involves extracellular matrix proteins with increased fibrosis\nInitial experimental data indicate that miRNA 30 decreases CTGF a key molecule in the process of fibrosis, by directly downregulating the production of CTGF"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0010586", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020257", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D035683"
+    ], 
+    "type": "yesno", 
+    "id": "513f4249bee46bd34c000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "The myocardium of the failing heart undergoes a number of structural alterations, most notably hypertrophy of cardiac myocytes and an increase in extracellular matrix proteins, often seen as primary fibrosi", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 345, 
+            "text": "Connective tissue growth factor (CTGF) is a key molecule in the process of fibrosis and therefore seems an attractive therapeutic target", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 571, 
+            "offsetInEndSection": 659, 
+            "text": "CTGF is importantly regulated by 2 major cardiac microRNAs (miRNAs), miR-133 and miR-30.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 667, 
+            "offsetInEndSection": 1060, 
+            "text": "the expression of both miRNAs was inversely related to the amount of CTGF in 2 rodent models of heart disease and in human pathological left ventricular hypertrophy. Second, in cultured cardiomyocytes and fibroblasts, knockdown of these miRNAs increased CTGF levels. Third, overexpression of miR-133 or miR-30c decreased CTGF levels, which was accompanied by decreased production of collagens.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1249, 
+            "offsetInEndSection": 1296, 
+            "text": "miR-30 importantly limit the production of CTGF", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1531, 
+            "offsetInEndSection": 1733, 
+            "text": "miR-30 directly downregulate CTGF, a key profibrotic protein, and thereby establish an important role for these miRNAs in the control of structural changes in the extracellular matrix of the myocardium.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19096030", 
+            "endSection": "sections.0"
+        }
+    ]
+}

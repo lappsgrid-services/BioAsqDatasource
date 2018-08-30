@@ -1,0 +1,183 @@
+{
+    "body": "How is OCT3 associated with serotonin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20402963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19033200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19280114", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19025979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21636115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24618127", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24246570", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12584728", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19371745"
+    ], 
+    "ideal_answer": [
+        "OCT3 plays a role in serotonin clearance"
+    ], 
+    "exact_answer": [
+        "serotonin clearance"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4274509", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012701", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4274509", 
+        "http://www.uniprot.org/uniprot/OCT3_ARATH"
+    ], 
+    "type": "factoid", 
+    "id": "571e2beabb137a4b0c000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "The organic cation transporter 3 (OCT3) is a widely expressed transporter for endogenous and exogenous organic cations. Of particular interest is OCT3 expression and function in the brain, where it plays a role in serotonin clearance and influences mood and behavior. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 761, 
+            "offsetInEndSection": 959, 
+            "text": "Interestingly, OCT3 mRNA is however also significantly up-regulated in the hippocampus of serotonin transporter knockout mice where it might serve as an alternative reuptake mechanism for serotonin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19280114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 413, 
+            "text": "Of particular interest is OCT3 expression and function in the brain, where it plays a role in serotonin clearance and influences mood and behavior.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 989, 
+            "offsetInEndSection": 1152, 
+            "text": "However, OCT3 was determined to be a high-capacity and low-affinity transporter for the neurotransmitters dopamine (DA), norepinephrine (NE), and serotonin (5-HT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20402963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "Organic cation transporter 3 (OCT3) is a high-capacity, low-affinity transporter that mediates bidirectional, sodium-independent transport of dopamine, norepinephrine, epinephrine, serotonin, and histamine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19025979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 361, 
+            "text": "The effect of blockade of either 5-hydroxytryptamine (5-HT)/serotonin transporter (SERT) with citalopram or the organic cation transporter 3 (OCT3)/plasma membrane monoamine transporter (PMAT) with decynium-22 (D-22) on spontaneous and evoked release of 5-HT in the nucleus tractus solitarius (NTS) was investigated in rat brainstem slices treated with gabazine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24618127", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 266, 
+            "text": "Of particular interest is OCT3 expression and function in the brain, where it plays a role in serotonin clearance and influences mood and behavior", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 831, 
+            "offsetInEndSection": 993, 
+            "text": "However, OCT3 was determined to be a high-capacity and low-affinity transporter for the neurotransmitters dopamine (DA), norepinephrine (NE), and serotonin (5-HT)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20402963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 764, 
+            "text": "Interestingly, OCT3 mRNA is however also significantly up-regulated in the hippocampus of serotonin transporter knockout mice where it might serve as an alternative reuptake mechanism for serotonin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19280114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "Organic cation transporter 3 (OCT3) is a high-capacity, low-affinity transporter that mediates bidirectional, sodium-independent transport of dopamine, norepinephrine, epinephrine, serotonin, and histamine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19025979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1386, 
+            "text": "RESULTS: We found a drastic decrease in IL-4 production by stimulated basophils on exposure to serotonin (5-hydroxytryptamine [5-HT]) that is taken up by basophils through the specific high-affinity transporters serotonin transporter and the polyspecific, high-capacity organic cation transporter 3 (OCT3; or Slc22a3) but inhibits their function exclusively through the latter. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21636115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 268, 
+            "text": "Of particular interest is OCT3 expression and function in the brain, where it plays a role in serotonin clearance and influences mood and behavior. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 831, 
+            "offsetInEndSection": 995, 
+            "text": "However, OCT3 was determined to be a high-capacity and low-affinity transporter for the neurotransmitters dopamine (DA), norepinephrine (NE), and serotonin (5-HT). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20402963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Organic cation transporter 3: Keeping the brake on extracellular serotonin in serotonin-transporter-deficient mice.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19033200", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Organic cation transporter capable of transporting serotonin is up-regulated in serotonin transporter-deficient mice.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12584728", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 766, 
+            "text": "Interestingly, OCT3 mRNA is however also significantly up-regulated in the hippocampus of serotonin transporter knockout mice where it might serve as an alternative reuptake mechanism for serotonin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19280114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 268, 
+            "text": "Of particular interest is OCT3 expression and function in the brain, where it plays a role in serotonin clearance and influences mood and behavior.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23982114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 832, 
+            "offsetInEndSection": 995, 
+            "text": "However, OCT3 was determined to be a high-capacity and low-affinity transporter for the neurotransmitters dopamine (DA), norepinephrine (NE), and serotonin (5-HT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20402963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 977, 
+            "offsetInEndSection": 1345, 
+            "text": "We found a drastic decrease in IL-4 production by stimulated basophils on exposure to serotonin (5-hydroxytryptamine [5-HT]) that is taken up by basophils through the specific high-affinity transporters serotonin transporter and the polyspecific, high-capacity organic cation transporter 3 (OCT3; or Slc22a3) but inhibits their function exclusively through the latter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21636115", 
+            "endSection": "abstract"
+        }
+    ]
+}

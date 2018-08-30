@@ -1,0 +1,286 @@
+{
+    "body": "What is the function of the yeast protein Aft1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8670839", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11877447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16024809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21542867", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17096368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14739928", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15649888", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16648636", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9200812", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20439772", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19469713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11223939", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21361388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7720713"
+    ], 
+    "ideal_answer": [
+        "The Aft1 transcription factor regulates the iron regulon in response to iron availability in Saccharomyces cerevisiae. Aft1 activates a battery of genes required for iron uptake under iron-starved conditions, whereas Aft1 function is inactivated under iron-replete conditions. Aft1 interacts with  the FOB (ferrioxamine B) transporter Arn3 and may regulate the ubiquitination of Arn3 in the cytosolic compartment. Aft1 has been implicated in numerous cellular processes including cell-cycle progression and chromosome stability.  Aft1 has also been shown to affect a diverse range of cellular processes, including the RIM101 pH pathway, cell-wall stability, DNA damage, protein transport, chromosome stability, mitochondrial function, while it was recently shown to interact with the kinetochore protein Iml3 and to promote pericentromeric cohesin."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/AFT1_YEAST"
+    ], 
+    "type": "summary", 
+    "id": "51600ca2298dcd4e51000037", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Using a scheme for selecting mutants of Saccharomyces cerevisiae with abnormalities of iron metabolism, we have identified a gene, AFT1, that mediates the control of iron uptake", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7720713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1216, 
+            "offsetInEndSection": 1358, 
+            "text": "AFT1 functions to activate transcription of target genes in response to iron deprivation and thereby plays a central role in iron homeostasis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7720713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Iron-regulated DNA binding by the AFT1 protein controls the iron regulon in yeast", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8670839", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Iron deprivation of Saccharomyces cerevisiae induces transcription of genes required for high-affinity iron uptake. AFT1 mediates this transcriptional control.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8670839", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "The AFT1 transcriptional factor is differentially required for expression of high-affinity iron uptake genes in Saccharomyces cerevisiae.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9200812", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1260, 
+            "offsetInEndSection": 1461, 
+            "text": "Aft1 displays phosphorylation modifications depending on the growth stage of the cells, and it might link induction of genes for iron uptake to other metabolically dominant requirement for cell growth.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9200812", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 352, 
+            "offsetInEndSection": 431, 
+            "text": "an aft1 mutation in S. cerevisiae that makes cells dependent on iron for growth", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11223939", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Subcellular localization of Aft1 transcription factor responds to iron status in Saccharomyces cerevisiae.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11877447", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 275, 
+            "text": "The Aft1 transcription factor regulates the iron regulon in response to iron availability in Saccharomyces cerevisiae. Aft1 activates a battery of genes required for iron uptake under iron-starved conditions, whereas Aft1 function is inactivated under iron-replete conditions", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11877447", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 965, 
+            "offsetInEndSection": 1177, 
+            "text": "the nuclear export of Aft1 is critical for ensuring iron-responsive transcriptional activation of the Aft1 regulon and that the nuclear import/export systems are involved in iron sensing by Aft1 in S. cerevisiae.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11877447", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1154, 
+            "offsetInEndSection": 1197, 
+            "text": "the Aft1 iron-responsive DNA-binding factor", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14739928", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Two transcriptional activators, Aft1 and Aft2, regulate iron homeostasis in Saccharomyces cerevisiae.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15649888", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1158, 
+            "offsetInEndSection": 1250, 
+            "text": "iron sensing by Aft1/Aft2 is not linked to the maturation of cytosolic/nuclear Fe-S proteins", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15649888", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "The yeast Saccharomyces cerevisiae contains a pair of paralogous iron-responsive transcription activators, Aft1 and Aft2. Aft1 activates the cell surface iron uptake systems in iron depletion,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16024809", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1138, 
+            "offsetInEndSection": 1245, 
+            "text": "the absence of either Aft1 or Aft2 showed an iron-dependent increase in the amount of the remaining paralog", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16024809", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "The transcription factors Aft1 and Aft2 from Saccharomyces cerevisiae regulate the expression of genes involved in iron homeostasis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16648636", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 108, 
+            "offsetInEndSection": 163, 
+            "text": "iron insufficiency-responsive transcription factor Aft1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17096368", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 225, 
+            "offsetInEndSection": 472, 
+            "text": "The mRNA levels of 14 proteins involved in iron homeostasis were shown to be increased by cisplatin. Interestingly, the expression of all 14 genes is known to be regulated by Aft1, a transcription factor activated in response to iron insufficiency", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17096368", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Aft1 is a transcriptional activator in Saccharomyces cerevisiae that responds to iron availability and regulates the expression of genes in the iron regulon", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19469713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 310, 
+            "text": "we found that Aft1 physically interacts with the FOB (ferrioxamine B) transporter Arn3", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19469713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 787, 
+            "offsetInEndSection": 911, 
+            "text": "These results suggest that Aft1 interacts with Arn3 and may regulate the ubiquitination of Arn3 in the cytosolic compartment", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19469713", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 247, 
+            "text": "The Saccharomyces cerevisiae transcription factor Aft1 is activated in iron-deficient cells to induce the expression of iron regulon genes, which coordinate the increase of iron uptake and remodel cellular metabolism to survive low-iron conditions", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20439772", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 375, 
+            "text": "Aft1 has been implicated in numerous cellular processes including cell-cycle progression and chromosome stability", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20439772", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1093, 
+            "offsetInEndSection": 1485, 
+            "text": "We demonstrate that Aft1 works in parallel with the RIM101 pH pathway and the role of Aft1 in DNA damage repair is mediated by iron. In contrast, through both directed studies and microarray transcriptional profiling, we show that the role of Aft1 in chromosome maintenance and benomyl resistance is independent of its iron regulatory role, potentially through a nontranscriptional mechanism.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20439772", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "Aft1p is a major iron regulator in budding yeast Saccharomyces cerevisiae. It indirectly senses cytosolic Fe status and responds by activating or repressing iron regulon genes", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21361388", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 276, 
+            "text": "Expression of components of the high-affinity system is controlled by the Aft1 transcriptional factor", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21542867", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Iron-responsive transcription factor Aft1 interacts with kinetochore protein Iml3 and promotes pericentromeric cohesin", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "The Saccharomyces cerevisiae iron-responsive transcription factor, Aft1, has a well established role in regulating iron homeostasis through the transcriptional induction of iron-regulon genes", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 325, 
+            "text": "recent studies have implicated Aft1 in other cellular processes independent of iron regulation such as chromosome stability", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 392, 
+            "offsetInEndSection": 454, 
+            "text": "Aft1 interacts with and co-localizes with kinetochore proteins", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 837, 
+            "offsetInEndSection": 915, 
+            "text": "Our work defines a new role for Aft1 in chromosome stability and transmission.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22157760", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 693, 
+            "offsetInEndSection": 912, 
+            "text": "Our genetic network reveals that Aft1 affects a diverse range of cellular processes, including the RIM101 pH pathway, cell-wall stability, DNA damage, protein transport, chromosome stability, and mitochondrial function.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20439772", 
+            "endSection": "sections.0"
+        }
+    ]
+}

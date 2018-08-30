@@ -1,0 +1,57 @@
+{
+    "body": "Which gene is associated with the Mitchell-Riley syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21215266", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23914949"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17467973", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2748662", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17467973"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17467973", 
+            "o": "MITCHELL-RILEY SYNDROME"
+        }
+    ], 
+    "ideal_answer": [
+        "Mutations in the gene coding for the transcription factor RFX6 (regulatory factor X,6) have been described as the cause of the Mitchell-Riley syndrome."
+    ], 
+    "exact_answer": [
+        "RFX6"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004402", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050657", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11589", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "factoid", 
+    "id": "52e92c6e98d0239505000024", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Mutations in rfx6 were recently associated with Mitchell-Riley syndrome, which involves neonatal diabetes, and other digestive system defects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21215266", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 10, 
+            "offsetInEndSection": 215, 
+            "text": "bi-allelic mutations in the transcription factor RFX6 were described as the cause of a rare condition characterized by neonatal diabetes with pancreatic and biliary hypoplasia and duodenal/jejunal atresia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23914949", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "body": "For the treatment of which conditions can atypical neuroleptic drugs be used?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16625511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10440458", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16047503", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11533860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7952245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8891947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1618284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12596031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10746298", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9384923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17347940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10320209"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8360847", 
+            "o": "94.23"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17351788", 
+            "o": "Neuroleptic therapy"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1281543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8360847"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1281543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17351788"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1281543", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17351788"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8360847", 
+            "o": "ICD-9-CM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17351788", 
+            "o": "Metathesaurus Names"
+        }
+    ], 
+    "ideal_answer": [
+        "Atypical neuroloeptic drugs are antipsychotics used in patients with schizophrenia, schizoaffective disorder, delusional disorder, psychotic disorders, psychotic relapse in neuroleptic malignant syndrome and attention deficit hyperactivity disorder when presenting with negativism and conduct disorder."
+    ], 
+    "exact_answer": [
+        [
+            "schizophrenia", 
+            "schizophrenia psychosis"
+        ], 
+        [
+            "schizoaffective disorder"
+        ], 
+        [
+            "delusional disorder"
+        ], 
+        [
+            "psychotic relapse in neuroleptic malignant syndrome"
+        ], 
+        [
+            "attention deficit hyperactivity disorder (ADHD) with negativism or conduct disorders"
+        ], 
+        [
+            "psychotic disorders"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016320", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014150", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004364"
+    ], 
+    "type": "list", 
+    "id": "52bf1f4503868f1b06000016", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1297, 
+            "offsetInEndSection": 1554, 
+            "text": "Further clinical implications are described (capability of learning the therapeutic strategies, deliverability in broader clinical settings, acceptability by patients, combination with atypical neuroleptic drugs,and treatment of choice in risk populations).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12596031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1784, 
+            "offsetInEndSection": 1993, 
+            "text": "Intervention strategies are a multimodal psychological programme for the intervention in early prodromal stages and a combination of psychotherapy with atypical neuroleptic drugs in the late prodromal stages. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11533860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Atypical neuroleptic drugs have enriched our treatment programs, especially in childhood and adolescent schizophrenia. Reviewed here is the use of atypical neuroleptics in children and adolescents with a schizophrenic disorder. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10746298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 400, 
+            "text": "o prove whether weight gain is a relevant side effect of atypical neuroleptics, the charts of all patients admitted with DSM-III-R diagnoses of schizophrenia, schizoaffective disorder, or delusional disorder in the years 1991 to 1995 were evaluated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10440458", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 364, 
+            "text": "The handwriting of 18 schizophrenic patients before and during treatment with typical (haloperidol, haloperidol decanoate) and atypical (clozapine, risperidone) neuroleptic drugs was examined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10320209", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "Atypical and typical neuroleptics, when administered chronically, can bring about profound but contrasting changes in schizophrenic symptoms and motor activation and dramatically modulate brain neurochemistry", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8891947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Recent studies suggest that clozapine is more effective than typical neuroleptics for patients with treatment-resistant schizophrenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9384923", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Acute and late onset movement disorders frequently complicate the treatment of psychosis with typical neuroleptic drugs like haloperidol, but not with atypical neuroleptic drugs like clozapine. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1618284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1224, 
+            "text": "Only the group of boys presented other comorbidities such as negativism and conduct disorders; approximately 25% of them required treatment with atypical neuroleptic drugs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17347940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 480, 
+            "text": "Atypical neuroleptic drugs are the preferred treatment for symptoms such as delusions, hallucinations, agitation and aggressive behaviour.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16625511", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 904, 
+            "text": "Monotherapeutic treatment with new atypical neuroleptic drugs had a more positive effect on the mental health related quality of life (MCS) in comparison to treatment with polypharmacological treatment but not with oral conventional antipsychotics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16047503", 
+            "endSection": "abstract"
+        }
+    ]
+}

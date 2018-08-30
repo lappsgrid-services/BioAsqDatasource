@@ -1,0 +1,46 @@
+{
+    "body": "Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24565614", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20922352"
+    ], 
+    "ideal_answer": [
+        "Icatibant and ecallantide are medication acting via bradykinin system that are used for treatment of ACE-inhibitor-induced angioedema."
+    ], 
+    "exact_answer": [
+        [
+            "icatibant"
+        ], 
+        [
+            "ecallantide"
+        ]
+    ], 
+    "type": "list", 
+    "id": "54cf6d40f693c3b16b00000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 983, 
+            "offsetInEndSection": 1206, 
+            "text": "Medications recently developed, primarily icatibant and ecallantide, to control hereditary angioedema, a disorder also associated with kallikrein-kinin activation, have been used to treat ACEI angioedema with some success. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24565614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 539, 
+            "text": "A patient with acute ACE inhibitor-induced angioedema was treated with icatibant, a specific bradykinin B2 receptor antagonist approved for the treatment of hereditary angioedema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20922352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 538, 
+            "text": "A patient with acute ACE inhibitor-induced angioedema was treated with icatibant, a specific bradykinin B2 receptor antagonist approved for the treatment of hereditary angioedema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20922352", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "body": "Which is the molecular function of the protein CCDC40?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22499950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25493340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23234452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23402890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22693285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25802884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23255504", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25186273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21131974"
+    ], 
+    "ideal_answer": [
+        "The coiled-coil domain containing protein CCDC40 is essential for motile cilia function and left-right axis formation and mutations in CCDC39 and CCDC40 are the major cause of primary ciliary dyskinesia with axonemal disorganization and absent inner dynein arms."
+    ], 
+    "type": "summary", 
+    "id": "56d2adc5f22319765a000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Primary ciliary dyskinesia (PCD) is a genetically heterogeneous, autosomal recessive disorder that results from functional and ultrastructural abnormalities of motile cilia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25802884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Primary ciliary dyskinesia (PCD) is a rare genetic disorder leading to recurrent respiratory tract infections.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25186273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Ciliary beat pattern and frequency in genetic variants of primary ciliary dyskinesia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25186273", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Mutations in CCDC39 and CCDC40 are the major cause of primary ciliary dyskinesia with axonemal disorganization and absent inner dynein arms.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23255504", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "Human cilia were once thought merely to be important in respiratory mucociliary clearance, with primary ciliary dyskinesia (PCD) the sole manifestation of ciliary dysfunction. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23234452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "The coiled-coil domain containing protein CCDC40 is essential for motile cilia function and left-right axis formation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21131974", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1505, 
+            "offsetInEndSection": 1612, 
+            "text": "CCDC39 and CCDC40 mutations represent the major cause of PCD with IDA defects and axonemal disorganisation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22693285", 
+            "endSection": "abstract"
+        }
+    ]
+}

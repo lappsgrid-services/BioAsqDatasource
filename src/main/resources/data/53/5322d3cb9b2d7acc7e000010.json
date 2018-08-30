@@ -1,0 +1,236 @@
+{
+    "body": "Which are the enzymes involved in the control of tubulin acetylation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21677656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17574768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22700584", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23126280", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22046262", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18697214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17868033", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20520769", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22972992"
+    ], 
+    "ideal_answer": [
+        "Acetyltransferase MEC-17, and deacetylases SIRT2 (Sirtuin 2), HDAC6 (histone deacetylase 6) and dTip60 are known to control the levels of tubulin acetylation."
+    ], 
+    "exact_answer": [
+        [
+            "MEC-17"
+        ], 
+        [
+            "SIRT2 (Sirtuin 2)"
+        ], 
+        [
+            "HDAC6 (histone deacetylase 6)"
+        ], 
+        [
+            "dTip60"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007021", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015631", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014404", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071929", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000107", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045298"
+    ], 
+    "type": "list", 
+    "id": "5322d3cb9b2d7acc7e000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Inhibition of HDAC6 deacetylase activity increases its binding with microtubules and suppresses microtubule dynamic instability in MCF-7 cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 333, 
+            "offsetInEndSection": 454, 
+            "text": "HDAC6, the tubulin deacetylase, plays a key role in maintaining typical distribution of acetylated microtubules in cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 645, 
+            "offsetInEndSection": 924, 
+            "text": "We found that whereas both pharmacological inhibition of HDAC6 as well as its depletion enhance microtubule acetylation, only pharmacological inhibition of HDAC6 activity leads to an increase in microtubule stability against cold and nocodazole-induced depolymerizing conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1397, 
+            "offsetInEndSection": 1546, 
+            "text": "The evidence presented in this study indicated that the increased binding of HDAC6, rather than the acetylation per se, causes microtubule stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1547, 
+            "offsetInEndSection": 1727, 
+            "text": "The results are in support of a hypothesis that in addition to its deacetylase function, HDAC6 might function as a MAP that regulates microtubule dynamics under certain conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23798680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 684, 
+            "text": "Moreover, acetylation of \u03b1-tubulin is under the control of the acetyltransferase MEC-17 and deacetylases SIRT2 (Sirtuin 2) and HDAC6 (histone deacetylase 6).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23126280", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "MEC-17 deficiency leads to reduced \u03b1-tubulin acetylation and impaired migration of cortical neurons", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22972992", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 387, 
+            "offsetInEndSection": 546, 
+            "text": "MEC-17 is a newly discovered \u03b1-tubulin acetyltransferase that has been found to play a major role in the acetylation of \u03b1-tubulin in different species in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22972992", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1277, 
+            "offsetInEndSection": 1516, 
+            "text": "Thus, MEC-17, which regulates the acetylation of \u03b1-tubulin, appears to control the migration and morphological transition of cortical neurons. This finding reveals the importance of MEC-17 and \u03b1-tubulin acetylation in cortical development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22972992", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1248, 
+            "offsetInEndSection": 1327, 
+            "text": "NT secretion is prevented by overexpression of HDAC6, an \u03b1-tubulin deacetylase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22700584", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1135, 
+            "offsetInEndSection": 1296, 
+            "text": "Moreover, \u03b1-tubulin acetylation levels of microtubules specifically extending into the terminal synaptic boutons are reduced in response to dTip60 HAT reduction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22046262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 550, 
+            "text": "In this study, angiotensin II induced disassembly and deacetylation of \u03b1-tubulin, which were blocked by pretreatment with an angiotensin II type 1 receptor blocker losartan and a sirtuin class deacetylase inhibitor sirtinol, and by depletion of a deacetylase SIRT2 using RNA interference.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21677656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1565, 
+            "offsetInEndSection": 1793, 
+            "text": "These data show that angiotensin II and mechanical stretch stimulate microtubule redistribution and deacetylation via SIRT2 in endothelial cells, suggesting the emerging role of SIRT2 in hypertension-induced vascular remodeling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21677656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 282, 
+            "text": "Tubulin is a major substrate of the cytoplasmic class II histone deacetylase HDAC6. Inhibition of HDAC6 results in higher levels of acetylated tubulin and enhanced binding of the motor protein kinesin-1 to tubulin, which promotes transport of cargoes along microtubules.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20520769", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Alcohol-induced alterations in hepatic microtubule dynamics can be explained by impaired histone deacetylase 6 function", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18697214", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 892, 
+            "offsetInEndSection": 1051, 
+            "text": "Addition of trichostatin A (TSA), an HDAC6 inhibitor, induced microtubule acetylation to the same extent as in ethanol-treated cells (approximately threefold).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18697214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1528, 
+            "offsetInEndSection": 1763, 
+            "text": "Interestingly, HDAC6 from ethanol-treated cells was able to bind and deacetylate exogenous tubulin to the same extent as control, suggesting that ethanol-induced tubulin modifications prevented HDAC6 binding to endogenous microtubules.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18697214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1776, 
+            "offsetInEndSection": 1918, 
+            "text": "We propose that lower HDAC6 levels combined with decreased microtubule binding lead to increased tubulin acetylation in ethanol-treated cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18697214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1464, 
+            "offsetInEndSection": 1744, 
+            "text": "The results also showed that both pan-HDAC and class-I-specific inhibitor treatment resulted in increased acetylation of histones, but only pan-HDAC inhibitor treatment resulted in increased tubulin acetylation, which is in agreement with their activity towards the HDAC6 isoform.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17868033", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 969, 
+            "text": "Nicotinamide but not 3-aminobenzamide, an inhibitor for poly(ADP)ribose polymerase, enhanced tubulin acetylation and resistance to axonal degeneration in cultured cerebellar granule cells from wild-type (WT) mice, suggesting that mammalian Sir2-related protein (SIRT) 2, a nicotinamide adenine dinucleotide (NAD)--dependent tubulin deacetylase, could modulate resistance to axonal degeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1065, 
+            "offsetInEndSection": 1188, 
+            "text": "Moreover, SIRT2 overexpression abrogated microtubule hyperacetylation and resistance to axonal degeneration in these cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1189, 
+            "offsetInEndSection": 1371, 
+            "text": "Conversely, SIRT2 knockdown by using a lentiviral vector expressing small interfering RNA, enhanced microtubule acetylation and resistance to axonal degeneration in WT granule cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1372, 
+            "offsetInEndSection": 1563, 
+            "text": "Taken together, these results suggest that SIRT2-mediated tubulin deacetylation is involved in both microtubule hyperacetylation and resistance to axonal degeneration in Wld(S) granule cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 846, 
+            "offsetInEndSection": 954, 
+            "text": "Compared to control cultures, higher levels of acetylated tubulin were found in neurons treated with tubacin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20520769", 
+            "endSection": "abstract"
+        }
+    ]
+}

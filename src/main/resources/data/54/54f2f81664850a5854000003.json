@@ -1,0 +1,48 @@
+{
+    "body": "What is the suggested clinical management of Fanconi anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22675616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12525204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23146055"
+    ], 
+    "ideal_answer": [
+        "Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential.In patients with FA, there is a high incidence of aggressive HNSCC at a young age. Surgery remains the mainstay of treatment because patients with FA tolerate radiation therapy and chemotherapy poorly, with significant morbidity", 
+        "Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential. Surgery remains the mainstay of treatment because patients with FA tolerate radiation therapy and chemotherapy poorly, with significant morbidity. In patients with FA, there is a high incidence of aggressive HNSCC at a young age. Bone marrow surveillance is an important part of the clinical management of FA and often reveals cytogenetic aberrations. ", 
+        "Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential.", 
+        "Surgery remains the mainstay of treatment because patients with FA tolerate radiation therapy and chemotherapy poorly, with significant morbidity. In patients with FA, there is a high incidence of aggressive HNSCC at a young age. Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential. Bone marrow surveillance is an important part of the clinical management of FA and often reveals cytogenetic aberrations. "
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051856", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13636", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1062"
+    ], 
+    "type": "summary", 
+    "id": "54f2f81664850a5854000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 636, 
+            "offsetInEndSection": 810, 
+            "text": "Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23146055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 280, 
+            "text": "Bone marrow surveillance is an important part of the clinical management of FA and often reveals cytogenetic aberrations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22675616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1554, 
+            "offsetInEndSection": 1782, 
+            "text": "In patients with FA, there is a high incidence of aggressive HNSCC at a young age. Surgery remains the mainstay of treatment because patients with FA tolerate radiation therapy and chemotherapy poorly, with significant morbidity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12525204", 
+            "endSection": "abstract"
+        }
+    ]
+}

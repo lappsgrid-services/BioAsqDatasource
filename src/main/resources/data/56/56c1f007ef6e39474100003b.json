@@ -1,0 +1,381 @@
+{
+    "body": "Tumor-treating fields are effective for treatment of which cancers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19133110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23899985", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23095807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18596382", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21548832", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20492723", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25213867", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23659608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23891283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19387848"
+    ], 
+    "ideal_answer": [
+        "Clinical trials have shown that Tumor-treating fields are effective for treatment of non-small cell lung cancer and glioblastoma. Ongoing and future trials will evaluate TTFields in solid tumor brain metastases, and ovarian, pancreatic cancers and multidrug resistance cancer cells."
+    ], 
+    "exact_answer": [
+        [
+            "non-small cell lung cancer"
+        ], 
+        [
+            "glioblastoma"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009369", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812"
+    ], 
+    "type": "list", 
+    "id": "56c1f007ef6e39474100003b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Alternating electric fields (tumor-treating fields therapy) can improve chemotherapy treatment efficacy in non-small cell lung cancer both in vitro and in vivo.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213867", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 829, 
+            "offsetInEndSection": 1219, 
+            "text": "e evaluated the effects of combining TTFields with standard chemotherapeutic agents on several NSCLC cell lines, both in vitro and in vivo. Frequency titration curves demonstrated that the inhibitory effects of TTFields were maximal at 150 kHz for all NSCLC cell lines tested, and that the addition of TTFields to chemotherapy resulted in enhanced treatment efficacy across all cell lines. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1647, 
+            "offsetInEndSection": 1798, 
+            "text": "Together, these findings suggest that combining TTFields therapy with chemotherapy may provide an additive efficacy benefit in the management of NSCLC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Response patterns of recurrent glioblastomas treated with tumor-treating fields.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 1152, 
+            "text": "NovoTTF Therapy is a novel and US Food and Drug Administration (FDA)-approved antimitotic treatment for recurrent GBM with potential benefits compared with other options. Recurrent GBM patients from two prior trials with demonstrated radiologic tumor response to single-agent NovoTTF Therapy were analyzed to better characterize tumor response patterns and evaluate the associations between response, compliance, and OS. In addition, a compartmental tumor growth model was developed and evaluated for its ability to predict GBM response to tumor-treating fields (TTFields). The overall response rate across both trials was 15% (4% complete responses): 14% in the phase III trial (14/120) and 20% (2/10) in a pilot study. Tumor responses to NovoTTF Therapy developed slowly (median time to response, 5.2 months) but were durable (median duration, 12.9 months).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1645, 
+            "offsetInEndSection": 1807, 
+            "text": "NovoTTF Therapy is a novel antimitotic treatment for recurrent GBM associated with slowly developing but durable tumor responses in approximately 15% of patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "The effect of field strength on glioblastoma multiforme response in patients treated with the NovoTTF\u2122-100A system.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 334, 
+            "text": " An ongoing trial is assessing its efficacy for newly diagnosed glioblastoma multiforme (GBM) and it has been FDA-approved for recurrent GBM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 595, 
+            "offsetInEndSection": 712, 
+            "text": "We present three patients with GBM in whom the fields were adjusted at recurrence and the effects of each adjustment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 837, 
+            "offsetInEndSection": 975, 
+            "text": "The first patient underwent subtotal resection, radiotherapy with temozolomide (TMZ), and then began NovoTTF Therapy with metronomic TMZ. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1232, 
+            "offsetInEndSection": 1713, 
+            "text": " A second patient underwent two resections followed by radiotherapy/TMZ and NovoTTF Therapy/TMZ. Six months later, two new distal lesions were noted, and he underwent further resection with adjustment of his fields. He remained stable over the subsequent year on NovoTTF Therapy and bevacizumab. A third patient on NovoTTF Therapy/TMZ remained stable for two years but developed a small, slow growing enhancing lesion, which was resected, and his fields were adjusted accordingly. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24884522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "A phase I/II trial of Tumor Treating Fields (TTFields) therapy in combination with pemetrexed for advanced non-small cell lung cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23891283", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 466, 
+            "text": "Promising preclinical data have led to a single arm phase I/II trial in NSCLC patients.METHODS: Forty-two inoperable stage IIIB (with pleural effusion) and IV NSCLC patients who had had tumor progression received pemetrexed 500 mg/m(2) iv q3w together with daily TTFields therapy until disease progression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23891283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 660, 
+            "offsetInEndSection": 770, 
+            "text": "The median time to in-field progression was 28 weeks and the median time to systemic progression was 22 weeks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23891283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 989, 
+            "offsetInEndSection": 1298, 
+            "text": "CONCLUSIONS: The combination of TTFields and pemetrexed as a second line therapy for NSCLC is safe and potentially more effective than pemetrexed alone. TTFields improved disease control within the treatment field and a phase III study is planned to further investigate its role as a novel treatment in NSCLC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23891283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 203, 
+            "text": "Tumor treating fields (TTFields) is a noninvasive, regional antimitotic treatment modality that has been approved for the treatment of recurrent glioblastoma by the U.S. FDA and has a CE mark in Europe. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23659608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 675, 
+            "offsetInEndSection": 1227, 
+            "text": "The antimitotic effect of TTFields therapy has been demonstrated in multiple cell lines when the appropriate frequency was utilized. A phase III trial of TTFields monotherapy compared to active chemotherapy in recurrent glioblastoma patients established that TTFields therapy is associated with minimal toxicity, better quality of life, and comparable efficacy to chemotherapy. Ongoing and future trials will evaluate TTFields in newly diagnosed glioblastoma, solid tumor brain metastases, nonsmall cell lung cancer, and ovarian and pancreatic cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23659608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 70, 
+            "offsetInEndSection": 401, 
+            "text": "The U.S. Food and Drug Administration has approved the first device, the NovoTTF-100A\u2122, that uses this technology and is indicated for use in progressive glioblastoma multiforme after standard therapies have failed. Promising clinical trial results will likely lead to expanded uses in primary brain tumors and other cancer types. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23899985", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Long-term survival of patients suffering from glioblastoma multiforme treated with tumor-treating fields.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23095807", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 1080, 
+            "text": "Tumor-treating fields (TTField) therapy is a novel treatment technique that has recently received CE and FDA approval for the treatment of RGBM, and is based on the principle that low intensity, intermediate frequency electric fields (100 to 300 kHz) may induce apoptosis in specific cell types. Our center was the first to apply TTField treatment to histologically proven GBM in a small pilot study of 20 individuals in 2004 and 2005, and four of those original 20 patients are still alive today. We report two cases of GBM and two cases of RGBM treated by TTField therapy, all in good health and no longer receiving any treatment more than seven years after initiating TTField therapy, with no clinical or radiological evidence of recurrence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23095807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 349, 
+            "text": "Tumor treating fields (TTFields) are low intensity (1 ? 2 V/cm), intermediate frequency (100 ? 200 kHz) alternating electric fields administered using insulated electrodes placed on the skin surrounding the region of a malignant tumor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21548832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 1113, 
+            "text": "Furthermore, it summarizes the clinical experience with TTFields, mainly in two indications: one in recurrent glioblastoma multiforme: in a large prospective randomized Phase III trial TTFields was compared with best standard care (including chemotherapy): TTFields significantly improved median overall survival (OS) compared with standard therapy (7.8 vs 6.1 months) for the patients treated per protocol.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21548832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1182, 
+            "offsetInEndSection": 1331, 
+            "text": "The second indication was a Phase II study in second-line non-small cell lung cancer, where TTFields was administered concomitantly with pemetrexed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21548832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1546, 
+            "offsetInEndSection": 1711, 
+            "text": "EXPERT OPINION: The proof of concept of TTFields has been well demonstrated in the preclinical setting, and the clinical data seem promising in various tumor types. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21548832", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1568, 
+            "offsetInEndSection": 1831, 
+            "text": "CONCLUSIONS: The results indicate that TTFields alone and in combination with paclitaxel and doxorubicin effectively reduce the viability of both wild type and MDR cell sub-lines and thus can potentially be used as an effective treatment of drug resistant tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20492723", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Alternating electric fields (TTFields) inhibit metastatic spread of solid tumors to the lungs.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19387848", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 314, 
+            "text": "Tumor treating fields (TTFields) are low intensity, intermediate frequency, alternating electric fields used to treat cancerous tumors. This novel treatment modality effectively inhibits the growth of solid tumors in vivo and has shown promise in pilot clinical trials in patients with advanced stage solid tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19387848", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "BACKGROUND: The present study explores the efficacy and toxicity of combining a new, non-toxic, cancer treatment modality, termed Tumor Treating Fields (TTFields), with chemotherapeutic treatment in-vitro, in-vivo and in a pilot clinical trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19133110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 489, 
+            "offsetInEndSection": 847, 
+            "text": "In addition, we studied the effects of combining chemotherapy with TTFields in an animal tumor model and in a pilot clinical trial in recurrent and newly diagnosed GBM patients.RESULTS: The efficacy of TTFields-chemotherapy combination in-vitro was found to be additive with a tendency towards synergism for all drugs and cell lines tested (combination index", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19133110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "A pilot study with very low-intensity, intermediate-frequency electric fields in patients with locally advanced and/or metastatic solid tumors.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18596382", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 306, 
+            "offsetInEndSection": 555, 
+            "text": "PATIENTS AND METHODS: This open, prospective pilot study was designed to evaluate the safety, tolerability, and efficacy profile of TTFields treatment in patients with locally advanced and/or metastatic solid tumors using the NovoTTF100A(TM) device.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18596382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 848, 
+            "offsetInEndSection": 1442, 
+            "text": "Outcomes showed 1 partial response of a treated skin metastasis from a primary breast cancer, 3 cases where tumor growth was arrested during treatment, and 1 case of disease progression. One mesothelioma patient experienced lesion regression near TTFields with simultaneous tumor stability or progression in distal areas.CONCLUSION: Although the number of patients in this study is small, the lack of therapy toxicity and the efficacy observed in data gathered to date indicate the potential of TTFields as a new treatment modality for solid tumors, definitely warranting further investigation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18596382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Mitotic disruption and reduced clonogenicity of pancreatic cancer cells in vitro and in vivo by tumor treating fields.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 279, 
+            "text": "OBJECTIVES: Tumor Treating Fields (TTFields) are a non-invasive cancer treatment modality approved for the treatment of patients with recurrent glioblastoma. The present study determined the efficacy and mechanism of action of TTFields in preclinical models of pancreatic cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 507, 
+            "offsetInEndSection": 1371, 
+            "text": "RESULTS: Application of TTFields in vitro showed a significant decrease in cell count, an increase in cell volume and reduced clonogenicity. Further analysis demonstrated significant increase in the number of abnormal mitotic figures, as well as a decrease in G2-M cell population. In hamsters with orthotopic pancreatic tumors, TTFields significantly reduced tumor volume accompanied by an increase in the frequency of abnormal mitotic events. TTFields efficacy was enhanced both in vitro and in vivo when combined with chemotherapy.CONCLUSIONS: These results provide the first evidence that TTFields serve as an effective antimitotic treatment in preclinical pancreatic cancer models and have a long term negative effect on cancer cell survival. These results make TTFields an attractive candidate for testing in the treatment of patients with pancreatic cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "Tumor Treating Fields (TTFields) are a non-invasive cancer treatment modality approved for the treatment of patients with recurrent glioblastoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 861, 
+            "offsetInEndSection": 1013, 
+            "text": "In addition, a compartmental tumor growth model was developed and evaluated for its ability to predict GBM response to tumor-treating fields (TTFields).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 629, 
+            "offsetInEndSection": 924, 
+            "text": "Tumor-treating fields (TTField) therapy is a novel treatment technique that has recently received CE and FDA approval for the treatment of RGBM, and is based on the principle that low intensity, intermediate frequency electric fields (100 to 300 kHz) may induce apoptosis in specific cell types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23095807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "Tumor treating fields (TTFields) is a noninvasive, regional antimitotic treatment modality that has been approved for the treatment of recurrent glioblastoma by the U.S. FDA and has a CE mark in Europe.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23659608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 632, 
+            "text": "Tumor-treating fields (TTField) therapy is a novel treatment technique that has recently received CE and FDA approval for the treatment of RGBM, and is based on the principle that low intensity, intermediate frequency electric fields (100 to 300 kHz) may induce apoptosis in specific cell types. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23095807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 867, 
+            "text": "In addition, a compartmental tumor growth model was developed and evaluated for its ability to predict GBM response to tumor-treating fields (TTFields). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25213870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "OBJECTIVES: Tumor Treating Fields (TTFields) are a non-invasive cancer treatment modality approved for the treatment of patients with recurrent glioblastoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Tumor Treating Fields (TTFields) are a non-invasive cancer treatment modality approved for the treatment of patients with recurrent glioblastoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555979", 
+            "endSection": "abstract"
+        }
+    ]
+}

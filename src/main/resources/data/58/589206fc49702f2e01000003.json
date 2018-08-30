@@ -1,0 +1,59 @@
+{
+    "body": "Are there methods for generating highly multiplexed ChIP-seq libraries?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24885602"
+    ], 
+    "ideal_answer": [
+        "Yes. There are methods for generating highly multiplexed ChIP-seq libraries."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015698", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D047369", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056656"
+    ], 
+    "type": "yesno", 
+    "id": "589206fc49702f2e01000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "A method for generating highly multiplexed ChIP-seq libraries.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885602", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 817, 
+            "text": "The barcoding of next generation sequencing libraries has become an essential part of the experimental design. Barcoding not only allows the sequencing of more than one sample per lane, but also reduces technical bias. However, current barcoding strategies impose significant limitations and/or technical barriers in their implementation for ChIP-sequencing.FINDINGS: Converting Y-shaped sequencing adapters to double stranded DNA prior to agarose gel size selection reduces adapter dimer contamination and quantitating the number of cycles required for amplification of the library with qPCR prior to library amplification eliminates library over-amplification.CONCLUSIONS: We describe an efficient and cost effective method for making barcoded ChIP-seq libraries for sequencing on the Illumina platform.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "A method for generating highly multiplexed ChIP-seq libraries", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885602", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "A method for generating highly multiplexed ChIP-seq libraries.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885602", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 654, 
+            "offsetInEndSection": 785, 
+            "text": "We describe an efficient and cost effective method for making barcoded ChIP-seq libraries for sequencing on the Illumina platform..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885602", 
+            "endSection": "abstract"
+        }
+    ]
+}

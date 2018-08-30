@@ -1,0 +1,1372 @@
+{
+    "body": "Is Turcot syndrome associated with glioblastoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24310308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9505220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2165772", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20657316", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10921328", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19156169", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8127448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11339660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3032534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2540108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16000562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11907360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22676959", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8025896", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16144131", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19822006", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16960645", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11975096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9343324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15701281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6307612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23119205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8387650", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9695069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17138070", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23320220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10223463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7515658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6274254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23729388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9508118"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/PMSL2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "Turcot syndrome with glioblastoma, 276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/PMSL2", 
+            "o": "PMSL2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/COCA2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "Turcot syndrome with glioblastoma, 276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/COCA2", 
+            "o": "COCA2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/MLH1"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/MLH1", 
+            "o": "MLH1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/MLH1", 
+            "o": "http://www.dbpedia.org/resource/MLH1"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HNPCC4"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HNPCC4", 
+            "o": "HNPCC4"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HNPCC2"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HNPCC2", 
+            "o": "HNPCC2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/PMS2"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/PMS2", 
+            "o": "PMS2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/PMS2", 
+            "o": "http://www.dbpedia.org/resource/PMS2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1156"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1156", 
+            "o": "http://www.dbpedia.org/resource/Turcot_syndrome"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1156", 
+            "o": "Turcot_syndrome"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1156"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/treat", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/primaryAccessionNo", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "DB03431"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "Adenosine-5'-Diphosphate"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/secondaryAccessionNumber", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "expt00436"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalIupacName", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphono hydrogen phosphate"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/possibleDrug", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/possibleDiseaseTarget", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB03431", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/possibleDrug", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/chemicalIupacName", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl (dihydroxyphosphinothioyloxy-hydroxyphosphoryl) hydrogen phosphate"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/primaryAccessionNo", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "DB02930"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "Phosphothiophosphoric Acid-Adenylate Ester"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/secondaryAccessionNumber", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "expt00458"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/treat", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/possibleDiseaseTarget", 
+            "s": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB02930", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7628038", 
+            "o": "C3938"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608078", 
+            "o": "MMRCS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615647", 
+            "o": "BRAIN TUMOR-POLYPOSIS SYNDROME 1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16608079"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467817", 
+            "o": "Turcot syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608080", 
+            "o": "BTPS1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16608080"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16615647"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16608078"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16608081"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16749653"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7628038"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7628038", 
+            "o": "Turcot Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608079", 
+            "o": "MMR DEFICIENCY"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615646", 
+            "o": "CHILDHOOD CANCER SYNDROME"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16609958", 
+            "o": "BTP1 SYNDROME"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18458641"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16749653", 
+            "o": "Turcot syndrome (disorder)"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458641", 
+            "o": "CNS tumors with Familial polyposis of the colon"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16615646"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18467817"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16611904", 
+            "o": "MISMATCH REPAIR CANCER SYNDROME"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16619491"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16609958"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608081", 
+            "o": "TURCOT SYNDROME"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16611904"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16619491", 
+            "o": "MISMATCH REPAIR DEFICIENCY"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458641", 
+            "o": "C536928"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467817", 
+            "o": "C536928"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608078", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608079", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608080", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608081", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16609958", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16611904", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615646", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615647", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16619491", 
+            "o": "276300"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608078", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608079", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608080", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608081", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16609958", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16611904", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615646", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615647", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16619491", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18458641", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467817", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7628038", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16749653", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#definition", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "NCI: The syndrome of polyposis coli, colon cancer and brain tumors."
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520870"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R69865242", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108937798"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/omim", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://bio2rdf.org/omim:120436"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R119892539", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54264357", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527990"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520871"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108533303", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108535497", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54326923"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108512677", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527985", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108535496", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/chromosomalLocation", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/3p21.3"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292285"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108508498", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108533841", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/omim", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://bio2rdf.org/omim:600259"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108535497"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108533304"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292286"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108513938", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520859"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108507257", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/omimPage", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=600259"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527988", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292287"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527984", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108533841"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R69798948", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108537658"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292288"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108513096", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108533302"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226085", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R69830643"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520857"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226396", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108514384", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108535496"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108507331", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108533303"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292289"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54393456"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108514872"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226673", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108541476", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520869"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527986", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520858"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54263586", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527985"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108512676", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527989", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520868"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R119807587"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108533302", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108513097", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R120073491", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527986"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520867"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226105", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108512678", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108508077", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108537658", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108506793", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520856"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R119807589"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520866"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527987"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54438032"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108541476"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108512226", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108510291", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520865"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R69877248", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108536636", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527984"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520855"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R119807588"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527988"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226224", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54438031"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527990", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520864"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520854"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R113837386", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108527987", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108508424", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108527989"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108536636"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108508968", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#inScheme", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R69826314"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520863"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520874"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R113845414"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520862"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54226336", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108533304", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108507918", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R119979672", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54166689", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/chromosomalLocation", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/7p22"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520861"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108507347", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108508425", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R108937799", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520872"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R54292290"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R69817576"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/class", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4101", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Cancer"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/class", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4102", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Cancer"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R54228336", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0265325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520860"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0265325", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R108520873"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, Turcot syndrome is associated with glioblastoma. Turcot syndrome is an autosomal recessive disorder clinically characterized by the occurrence of primary glial tumors of the central nervous system, including glioblastoma, and adenomatous colonic polyps during the first or second decades of life, with a spectrum of clinical features such as \"caf\u00e9-au-lait\" spots, axillary freckling, and hyperpigmented spots."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005909", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3068", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3073", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "yesno", 
+    "id": "533581f5d6d3ac6a3400004d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 330, 
+            "text": "Turcot syndrome is an autosomal recessive disorder clinically characterized by the occurrence of primary tumors of the central nervous system and adenomatous colonic polyps during the first or second decades of life, with a spectrum of clinical features such as \"caf\u00e9-au-lait\" spots, axillary freckling, and hyperpigmented spots. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23320220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 541, 
+            "text": "We present the case of a 20-year-old male with a clinical presentation of both glioblastoma multiforme and multiple adenomatous colonic polyps. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23320220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 316, 
+            "text": "Turcot syndrome (TS) is a rare hereditary disorder clinically characterized by the occurrence of primary tumors of the colon and the central nervous system (CNS). Here we present the case of an 11-year-old boy with a synchronous clinical presentation of both glioblastoma multiforme (GBM) and colonic adenocarcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23119205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 494, 
+            "offsetInEndSection": 681, 
+            "text": "Based on this case study, the synchronous presentation of glioblastoma multiforme and adenocarcinoma of the colon might suggest a shorter survival rate for patients with Turcot syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23119205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 526, 
+            "text": "A 15-year-old boy was admitted with the diagnosis of colonic polyposis, and during a 2-year follow-up, he underwent operation for right parieto-occipital anaplastic astrocytoma, left-side colonic non-Hodgkin lymphoma (NHL) and cerebella glioblastoma which were all confirmed by histology. Although cases of Turcot's syndrome (TS) (colonic polyposis and primary brain tumour occurring in the same patient) have been previously described, association with haematological malignancy is rare. We hereby report such a case with TS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22676959", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Type A microsatellite instability in pediatric gliomas as an indicator of Turcot syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19156169", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 696, 
+            "text": " Biallelic mutations of MMR genes are associated with pediatric cancers, including glial tumors, in Turcot syndrome type 1 (TS1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19156169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Glioblastomas with giant cell and sarcomatous features in patients with Turcot syndrome type 1: a clinicopathological study of 3 cases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20657316", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 141, 
+            "text": "Turcot syndrome (TS) is a rare genetic disorder of DNA mismatch repair predisposing to glioblastoma (GBM) in the type 1 variant. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20657316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 152, 
+            "offsetInEndSection": 242, 
+            "text": "We report the clinicopathological and genetic features of 3 gliomas in TS type 1 patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20657316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1527, 
+            "offsetInEndSection": 1739, 
+            "text": "We conclude that 1) the giant cell variant of GBM is overrepresented in TS; 2) gliosarcomas may also be encountered; and 3) survival is often favorable, despite histological anaplasia and exuberant proliferation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20657316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Malignant transformation of high-grade astrocytoma associated with neurocysticercosis in a patient with Turcot syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17138070", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "A 45-year-old woman with anaplastic astrocytoma was clinically diagnosed with Turcot syndrome, and subsequently developed simultaneous neurocysticercosis and malignant transformation to glioblastoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17138070", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Familial glioblastoma multiforme is a rather uncommon entity, being in most cases associated to known genetic disorders (as Turcot syndrome, Li-Fraumeni syndrome, neurofibromatosis, etc.). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16960645", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 331, 
+            "text": "Turcot syndrome (MIM276300) has been described as the association of central nervous system malignant tumors and familial colorectal cancer and has been reported to be both a dominant and recessive disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16000562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1380, 
+            "offsetInEndSection": 1568, 
+            "text": "We report here the first identification of a homozygous mutation in MSH6 in a family with childhood-onset brain tumor, lymphoma, colorectal cancer, and neurofibromatosis type 1 phenotype. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16000562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1141, 
+            "offsetInEndSection": 1388, 
+            "text": "Of the 21 patients, 12 have died (10 after relapse, with a median time to progression for the whole series of 14 months; one with intratumoral bleeding at 40 months after diagnosis; and one affected by Turcot syndrome for duodenal cancer relapse).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15701281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "[Glioblastoma multiforme as a manifestation of Turcot syndrome].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11975096", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 451, 
+            "text": "In the present case, a 60-year-old patient with glioblastoma multiforme and a history of hereditary malignomas is described as an example of a HNPCC-associated Turcot's syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11975096", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 177, 
+            "offsetInEndSection": 426, 
+            "text": "Computed tomography brain scan and computed tomography-guided biopsy revealed a left frontoparietal glioblastoma multiforme. This case illustrates the rare presentation of Turcot syndrome-a hereditary colorectal polyposis syndrome-in an older adult.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11907360", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Turcot syndrome is the association of colorectal polyposis with primary neuroepithelial tumors of the central nervous system such as glioblastoma and medulloblastoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10921328", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 771, 
+            "offsetInEndSection": 879, 
+            "text": "Brain tumor is mainly diagnosed as glioblastoma or astrocytoma and mismatch repair genes might be involved. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10921328", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 348, 
+            "text": "Patients with Turcot syndrome (TS) are predisposed to colon tumors and primary brain tumors, typically glioblastomas or medulloblastomas. The authors describe a patient with TS featuring a known germline mutation of exon 5 of the hPMS2 mismatch repair gene who developed two metachronous glioblastomas, both with distinct oligodendroglial features.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10223463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 602, 
+            "offsetInEndSection": 831, 
+            "text": "Because this patient had an unusual underlying condition and his tumor had a unique histological appearance for TS, it was hypothesized that this genetic defect may predispose to malignant gliomas with oligodendroglial features. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10223463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 407, 
+            "text": "Turcot Syndrome caused by APC gene develops medulloblastoma and Turcot Syndrome caused by mismatch repair gene develops glioblastoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9695069", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 178, 
+            "offsetInEndSection": 271, 
+            "text": "It is characterized by central nervous system (CNS) neoplasms and gastrointestinal polyposis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9508118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 563, 
+            "text": "Seven months after resection of this Dukes' C2 adenocarcinoma, she presented with a second primary CNS tumor, a glioblastoma multiforme.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9508118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "The Turcot syndrome has been defined as the simultaneous presence of multiple polyposis of the colon and a malignant brain tumor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9505220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 283, 
+            "offsetInEndSection": 485, 
+            "text": "The case of a 47-year-old man submitted to a right hemicolectomy for cancer and polyposis, following a series of endoscopic polypectomies and, finally, removal of left temporal glioma is here presented.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9505220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2254, 
+            "offsetInEndSection": 2381, 
+            "text": " Two of 13 showed microsatellite instability, one of which in a patient with Turcot syndrome, the other in gliomatosis cerebri.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9343324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "The Turcot syndrome (TS) is a rare, probably autosomal recessive, disorder characterized by development of primary neuroepithelial tumors of the central nervous system (CNS) and numerous adenomatous colorectal polyps. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7515658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 857, 
+            "text": "However, no somatic mutations in APC were found among 91 neuroepithelial tumors (medulloblastoma, glioblastoma, astrocytoma, and oligodendroglioma), whether sporadic or associated with TS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7515658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 378, 
+            "text": "Such syndromes include neurofibromatosis type 2, neurofibromatosis type 1, Li-Fraumeni syndrome, as well as von Hippel-Lindau disease, tuberous sclerosis, and Turcot syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8025896", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 76, 
+            "offsetInEndSection": 242, 
+            "text": "This patient's case deals with the association between a glioblastoma, anaplastic glioma (WHO Grade III) and colonic adenocarcinoma based on familial polyposis coli. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8127448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "The authors describe two patients with the association of polyposis-coli and central nervous system tumor (Turcot's syndrome). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2165772", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "We report a case of Turcot's syndrome in a 20-year old man with multiple adenomatous polyps of the colon and glioblastoma multiforme. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2540108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "Another unusual autopsy case of the Turcot syndrome is reported in a 23-year-old woman with polyposis coli, who developed primary carcinoma of the jejunum and glioblastoma multiforme of the left frontal lobe. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6307612", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 291, 
+            "text": "Turcot syndrome represents the unique and discrete occurrence of polyposis coli with glioblastoma multiforme, medulloblastoma, or both.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6274254", 
+            "endSection": "abstract"
+        }
+    ]
+}

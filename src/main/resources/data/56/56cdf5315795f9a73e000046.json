@@ -1,0 +1,42 @@
+{
+    "body": "Which is the enzyme that degrades decapped mRNAs?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24510189", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22383165"
+    ], 
+    "ideal_answer": [
+        "The removal of the 5'-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5'-to-3' exonucleolytic degradation by XRN1", 
+        "The removal of the 5'-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5'-to-3' exonucleolytic degradation by XRN1."
+    ], 
+    "exact_answer": [
+        "XRN1"
+    ], 
+    "type": "factoid", 
+    "id": "56cdf5315795f9a73e000046", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "The removal of the 5'-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5'-to-3' exonucleolytic degradation by XRN1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24510189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1056, 
+            "offsetInEndSection": 1227, 
+            "text": "DCP2 activation by DCP1 occurs preferentially on the EDC4 scaffold, which may serve to couple DCP2 activation by DCP1 with 5'-to-3' mRNA degradation by XRN1 in human cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24510189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "XRN1 is a 5' \u2192 3' processive exoribonuclease that degrades mRNAs after they have been decapped", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22383165", 
+            "endSection": "abstract"
+        }
+    ]
+}

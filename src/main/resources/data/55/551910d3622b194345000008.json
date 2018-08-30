@@ -1,0 +1,288 @@
+{
+    "body": "Which proteins have been identified as RET ligands?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10652334", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15013219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10790203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11973622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9473110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9284737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16294336", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11409869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11324313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11106284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17638907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10822229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22753894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9700200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10321971", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9885824", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12668632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8896569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18970938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10027003", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9764818"
+    ], 
+    "ideal_answer": [
+        "RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin.", 
+        "The RET proto-oncogene encodes a receptor tyrosine kinase, which is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin (NRTN), artemin (ARTN), and persephin (PSPN)."
+    ], 
+    "exact_answer": [
+        [
+            "GDNF", 
+            "glial cell-line-derived neurotrophic factor"
+        ], 
+        [
+            "ARTN", 
+            "artemin"
+        ], 
+        [
+            "NTN", 
+            "neurturin"
+        ], 
+        [
+            "PSPN", 
+            "persephin"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008024", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051096"
+    ], 
+    "type": "list", 
+    "id": "551910d3622b194345000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Polymorphisms in the genes encoding the 4 RET ligands, GDNF, NTN, ARTN, PSPN, and susceptibility to Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18970938", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 507, 
+            "offsetInEndSection": 649, 
+            "text": "Given the pivotal role of RET in HSCR, the genes encoding their ligands (GDNF, NRTN, ARTN, and PSPN) are also good candidates for the disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18970938", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1179, 
+            "offsetInEndSection": 1308, 
+            "text": "Indeed, the RET ligands persephin and GDNF robustly stimulated calcitonin mRNA, which was blocked by pretreatment with NVP-AST487", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17638907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 301, 
+            "text": "The ligands bind RET through GDNF family receptor alpha, termed GFRalpha1-4", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16294336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 66, 
+            "offsetInEndSection": 224, 
+            "text": "RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16294336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "GDNF availability determines enteric neuron number by controlling precursor proliferation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12668632", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 365, 
+            "text": "Five germline mutations in the glial cell-line-derived neurotrophic factor (GDNF) gene, one of the RET ligands, have been detected in HSCR patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11973622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "The glial-cell-line-derived neurotrophic factor (GDNF) family receptors alpha (GFRalpha) are cell surface bound glycoproteins that mediate interactions of the GDNF ligand family with the RET receptor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11409869", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 882, 
+            "offsetInEndSection": 1035, 
+            "text": "In particular, the recent identification of neurotrophic factors acting as RET ligands (GDNF and Neurturin) provide additional candidate genes for HSCR. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11324313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 467, 
+            "offsetInEndSection": 663, 
+            "text": "Mutations in genes that encode RET ligands (GDNF and NTN); components of another signaling pathway (EDNRB, EDN3, ECE-1); and the transcription factor, SOX10, have been identified in HSCR patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11106284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Expression of RET and its ligand complexes, GDNF/GFRalpha-1 and NTN/GFRalpha-2, in medullary thyroid carcinomas", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10822229", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 214, 
+            "offsetInEndSection": 418, 
+            "text": "Mutations in the GDNF gene, and encoding one of the RET ligands, either alone or in combination with RET mutations, can also cause HSCR, as can mutations in four other genes (EDN3, EDNRB, ECE1, and SOX10)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 883, 
+            "offsetInEndSection": 1036, 
+            "text": "In particular, the recent identification of neurotrophic factors acting as RET ligands (GDNF and Neurturin) provide additional candidate genes for HSCR. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9885824", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 260, 
+            "text": "Ret ligands have been recently identified as the neuron survival factor GDNF (Glial-Derived Neurotrophic Factor) and Neurturin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9764818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Mutation of the RET ligand, neurturin, supports multigenic inheritance in Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9700200", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 555, 
+            "text": "Considering that RET and glial cell line-derived neurotrophic factor (GDNF) mutations have been reported in the disease, we regarded the other RET ligand, neurturin (NTN), as an attractive candidate gene, especially as it shares large homologies with GDNF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9700200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 507, 
+            "offsetInEndSection": 648, 
+            "text": "Given the pivotal role of RET in HSCR, the genes encoding their ligands (GDNF, NRTN, ARTN, and PSPN) are also good candidates for the disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18970938", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 224, 
+            "text": "The c-ret protooncogene, RET, encodes a receptor tyrosine kinase. RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16294336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Glial cell line-derived neurotrophic factor (GDNF), a ligand of RET tyrosine kinase, and its family ligands promote the survival and differentiation of a variety of neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15013219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 231, 
+            "offsetInEndSection": 615, 
+            "text": "We demonstrate here that, after injury, the absence of c-Jun specifically in SCs caused impaired axonal regeneration and severely increased neuronal cell death. c-Jun deficiency resulted in decreased expression of several neurotrophic factors, and GDNF and Artemin, both of which encode ligands for the Ret receptor tyrosine kinase, were identified as novel direct c-Jun target genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22753894", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 611, 
+            "text": "GDNF, now known to be the first identified member of a family of factors, signals through the previously known receptor tyrosine kinase, Ret. Unlike most ligands for receptor tyrosine kinases, GDNF does not bind and activate Ret directly, but requires the presence of GPI-linked coreceptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10321971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "BACKGROUND/PURPOSE: In 1996, the glial cell line-derived neurotrophic factor (GDNF) was identified as one of the ligands of the RET transmembrane receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9473110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "The ret proto-oncogene encodes a receptor tyrosine kinase whose ligands belong to the glial cell line-derived neurotrophic factor (GDNF) protein family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10027003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 66, 
+            "offsetInEndSection": 225, 
+            "text": "RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16294336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 259, 
+            "text": "Ret ligands have been recently identified as the neuron survival factor GDNF (Glial-Derived Neurotrophic Factor) and Neurturin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9764818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 804, 
+            "offsetInEndSection": 968, 
+            "text": "Glial cell line-derived neurotrophic factor (GDNF) and its receptor molecule GDNFR-alpha, have recently been identified as members of the RET ligand binding complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9284737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1305, 
+            "offsetInEndSection": 1412, 
+            "text": "Recently, the Glial cell line-derived neurotrophic factor (GDNF) has been identified to be a ligand for RET", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8896569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 753, 
+            "offsetInEndSection": 1027, 
+            "text": "Replacing short segments of GDNF with the homologous segments from persephin (PSPN) (which cannot bind or activate GFRalpha1.RET or GFRalpha2.RET) identified sites along the second finger of GDNF critical for activating the GFRalpha1.RET and GFRalpha2.RET receptor complexes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10652334", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 186, 
+            "offsetInEndSection": 407, 
+            "text": "GDNF mediates its actions through a multicomponent receptor system composed of a ligand-binding glycosyl-phosphatidylinositol (GPI)-linked protein (designated GDNFR-alpha) and the transmembrane protein tyrosine kinase Ret", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9192898", 
+            "endSection": "abstract"
+        }
+    ]
+}

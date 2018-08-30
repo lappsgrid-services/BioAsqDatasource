@@ -1,0 +1,242 @@
+{
+    "body": "Which disease is treated with ZMapp?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25694097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25171469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27274814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26311869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25404321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26962157", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27279622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25648233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26798032", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26861827", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27683818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25465382", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26191408", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26946569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25414384", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27521366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25760722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25648530", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25352204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27067649", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27676206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25260583", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27465308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25387576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27732819"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0012634", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0049608"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0049608", 
+            "o": "Disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1022004", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3147522"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3147522", 
+            "o": "Disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0012634", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18683747"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18683747", 
+            "o": "disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0012634", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0015569"
+        }
+    ], 
+    "ideal_answer": [
+        "ZMapp is a combination of antibodies for treatment of Ebola virus disease."
+    ], 
+    "exact_answer": [
+        "Ebola virus disease"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category"
+    ], 
+    "type": "factoid", 
+    "id": "5880e417713cbdfd3d000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 424, 
+            "offsetInEndSection": 691, 
+            "text": "This includes agents belonging to various therapeutic classes, namely direct antiviral agents (favipiravir and BCX4430), a combination of antibodies (ZMapp), type I interferons, RNA interference-based drugs (TKM-Ebola and AVI-7537), and anticoagulant drugs (rNAPc2). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26798032", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "During the latest outbreak of Ebola virus disease in West Africa, monoclonal antibody therapy (e.g., ZMapp) was utilized to treat patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26861827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Recent successes with monoclonal antibody cocktails ZMapp(TM) and MIL77 against Ebola virus (EBOV) infections have reignited interest in antibody-based therapeutics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27067649", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 708, 
+            "text": "The human-mouse chimeric monoclonal antibody (mAb) cocktail ZMapp, previously shown to be efficacious in EBOV (variant Kikwit) lethally infected nonhuman primates (NHPs) when administration was initiated up to 5 days, was used in some patients during the outbreak. We show that a two-antibody cocktail, MIL77E, is fully protective in NHPs when administered at 50 mg/kg 3 days after challenge with a lethal dose of EBOV variant Makona, the virus responsible for the ongoing 2014-2015 outbreak, whereas a similar formulation of ZMapp protected two of three NHPs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26962157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "The growing promise of plant-made biologics is highlighted by the success story of ZMapp\u2122 as a potentially life-saving drug during the Ebola outbreak of 2014-2016. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27274814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Reversion of advanced Ebola virus disease in nonhuman primates with ZMapp.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25171469", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Background Data from studies in nonhuman primates suggest that the triple monoclonal antibody cocktail ZMapp is a promising immune-based treatment for Ebola virus disease (EVD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27732819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Several patients with Ebola virus disease (EVD) managed in the United States have received ZMapp monoclonal antibodies, TKM-Ebola small interfering RNA, brincidofovir, and/or convalescent plasma as investigational therapeutics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27521366", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 648, 
+            "offsetInEndSection": 838, 
+            "text": "Also there is no specific vaccine and treatment for Ebola virus; however, many candidate vaccines and antiviral-drugs such as ZMapp and TKM-Ebola are being developed for Ebola virus disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25648530", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "A Randomized, Controlled Trial of ZMapp for Ebola Virus Infection.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27732819", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 757, 
+            "offsetInEndSection": 869, 
+            "text": "ELISA and neutralizing antibody assays indicate that ZMapp is cross-reactive with the Guinean variant of Ebola. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25171469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1233, 
+            "offsetInEndSection": 1489, 
+            "text": "Going forward, this work now provides a basis for strategic selection of next-generation antibody cocktails against Ebola and related viruses and a model for predicting the impact of ZMapp on potential escape mutations in ongoing or future Ebola outbreaks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 742, 
+            "text": "Some potential therapeutic materials including ZMapp were supplied and the treated people got over the EVD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25648233", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1580, 
+            "offsetInEndSection": 1876, 
+            "text": "Cocktails of inhibitory monoclonal antibodies (MAbs), such as ZMAb, MB-003, and in particular ZMapp, have demonstrated in animal models some of the most significant therapeutic potential for treating EVD, and in 2014, 15 patients were treated with ZMapp or ZMAb under compassionate-use protocols.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26311869", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 666, 
+            "text": "This review explores some of the more prominent recent advances in the biofarming of viral vaccines and therapies, including the recent use of ZMapp for Ebolavirus infection, and explores some possible future applications of the technology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25465382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "During the latest outbreak of Ebola virus disease in West Africa, monoclonal antibody therapy (e.g., ZMapp) was utilized to treat patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26861827", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 757, 
+            "offsetInEndSection": 868, 
+            "text": "ELISA and neutralizing antibody assays indicate that ZMapp is cross-reactive with the Guinean variant of Ebola.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25171469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1581, 
+            "offsetInEndSection": 1877, 
+            "text": "Cocktails of inhibitory monoclonal antibodies (MAbs), such as ZMAb, MB-003, and in particular ZMapp, have demonstrated in animal models some of the most significant therapeutic potential for treating EVD, and in 2014, 15 patients were treated with ZMapp or ZMAb under compassionate-use protocols.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26311869", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 176, 
+            "offsetInEndSection": 369, 
+            "text": "For example, several patients of the present Ebola virus outbreak in West Africa were treated with ZMapp, a cocktail of three monoclonal antibodies which are expressed in Nicotiana benthamiana.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26191408", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Reversion of advanced Ebola virus disease in nonhuman primates with ZMapp.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25171469", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "body": "What is the mechanism of action of raxibacumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24812521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20068396", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26648915", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23344456", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26094508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26097803", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24447197", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20450444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20811384"
+    ], 
+    "ideal_answer": [
+        "Raxibacumab is a recombinant human IgG1 monoclonal antibody that binds the protective antigen of Bacillus anthracis, thus blocking toxin effects.\nIt is approved to treat inhalational anthrax."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4002353", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D045504"
+    ], 
+    "type": "summary", 
+    "id": "587f857b8ce3255b64000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 334, 
+            "text": " Raxibacumab, an IgG1 monoclonal antibody, binds the protective antigen (PA) of Bacillus anthracis, thus blocking toxin effects and leading to improved survival in the rabbit and monkey models of inhalational anthrax. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 945, 
+            "offsetInEndSection": 1063, 
+            "text": "RESULTS: Interesting results were obtained using monoclonal antibodies: raxibacumab, cAb29 or cocktails of antibodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26094508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 299, 
+            "text": "We showed previously in a 96-h sedated canine model that raxibacumab, a monoclonal antibody against protective antigen, augmented hemodynamic support (HS) and improved survival with lethal toxin challenge.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26097803", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 253, 
+            "text": "On December 14, 2012, the FDA approved Raxibacumab, the first monoclonal antibody product developed under Project BioShield to achieve this milestone, and the first biologic product to be approved through the FDA animal efficacy rule (or \"Animal Rule\").", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26648915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1077, 
+            "offsetInEndSection": 1281, 
+            "text": "With the only anthrax toxin inhibiting therapy (protective antigen-targeting with a monoclonal antibody, raxibacumab) approved to treat inhalational anthrax, the situation, in our view, is still insecure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24447197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 524, 
+            "text": "Raxibacumab is a recombinant human monoclonal antibody developed against inhalational anthrax.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24812521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 973, 
+            "offsetInEndSection": 1122, 
+            "text": "Raxibacumab is the first monoclonal antitoxin antibody made available that can be used with the antibiotics recommended for treatment of the disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24812521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 410, 
+            "text": "Antibiotics can control B. anthracis bacteremia, whereas raxibacumab binds PA and blocks lethal toxin effects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23344456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 379, 
+            "text": "Blocking the activity of the toxins with raxibacumab, a fully-human mAb directed against the protective antigen of Bacillus anthracis, may serve as an adjunct treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20450444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 260, 
+            "text": "Raxibacumab is a human IgG1lambda monoclonal antibody directed against protective antigen, a component of the anthrax toxin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Raxibacumab (ABthrax) is a human IgG1 monoclonal antibody against Bacillus anthracis protective antigen. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20068396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "Raxibacumab for the treatment of inhalational anthrax.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Added benefit of raxibacumab to antibiotic treatment of inhalational anthrax.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 731, 
+            "text": "To assess raxibacumab's added benefit over levofloxacin (LVX) alone, rabbits surviving to 84 h after a challenge with 200 times the median (50%) lethal dose of B. anthracis spores were randomized to receive 3 daily intragastric LVX doses of 50 mg/kg of body weight, with the first LVX dose administered just prior to administration of a single intravenous dose of placebo or 40 mg/kg raxibacumab. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 261, 
+            "text": "Raxibacumab is a human IgG1lambda monoclonal antibody directed against protective antigen, a component of the anthrax toxin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Bacillus anthracis protective antigen kinetics in inhalation spore-challenged untreated or levofloxacin/ raxibacumab-treated New Zealand white rabbits.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23344456", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 254, 
+            "offsetInEndSection": 537, 
+            "text": "Raxibacumab is approved for the treatment of adult and pediatric patients with inhalational anthrax due to Bacillus anthracis in combination with appropriate antibiotic drugs and for prophylaxis of inhalational anthrax when alternative therapies are not available or not appropriate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26648915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 518, 
+            "text": "The availability of bioterrorism countermeasures has become more important since the September 2001 anthrax attacks, and development of raxibacumab is a significant advance in this area.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20068396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1032, 
+            "offsetInEndSection": 1236, 
+            "text": "With the only anthrax toxin inhibiting therapy (protective antigen-targeting with a monoclonal antibody, raxibacumab) approved to treat inhalational anthrax, the situation, in our view, is still insecure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24447197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 409, 
+            "text": "anthracis bacteremia, whereas raxibacumab binds PA and blocks lethal toxin effects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23344456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1911, 
+            "offsetInEndSection": 2138, 
+            "text": "Concentrations of raxibacumab provide a surrogate end point that should be predictive of clinical benefit.CONCLUSIONS: A single dose of raxibacumab improved survival in rabbits and monkeys with symptomatic inhalational anthrax.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 449, 
+            "text": "Raxibacumab is a human IgG1lambda monoclonal antibody directed against protective antigen, a component of the anthrax toxin.METHODS: We evaluated the efficacy of raxibacumab as a prophylactic agent and after disease onset in a total of four randomized, placebo-controlled studies conducted in rabbits and monkeys.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 117, 
+            "offsetInEndSection": 333, 
+            "text": "Raxibacumab, an IgG1 monoclonal antibody, binds the protective antigen (PA) of Bacillus anthracis, thus blocking toxin effects and leading to improved survival in the rabbit and monkey models of inhalational anthrax.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1225, 
+            "offsetInEndSection": 1378, 
+            "text": "Raxibacumab provides additional protection against inhalational anthrax via a mechanism different from that of either antibiotics or active immunization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24812521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 55, 
+            "text": "Raxibacumab for the treatment of inhalational anthrax.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587338", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Raxibacumab for inhalational anthrax: an effective specific therapeutic approach?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20450444", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "Added benefit of raxibacumab to antibiotic treatment of inhalational anthrax.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25487792", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Approval of Raxibacumab for the Treatment of Inhalation Anthrax Under the US Food and Drug Administration \"Animal Rule\".", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26648915", 
+            "endSection": "title"
+        }
+    ]
+}

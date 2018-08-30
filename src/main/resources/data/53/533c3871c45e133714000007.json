@@ -1,0 +1,181 @@
+{
+    "body": "Does splicing occur co-transcriptionally?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22326677", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22022255", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22955974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19710184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19656867", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16440002", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22056773", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20631007", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23638305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21264352", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19185575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11602343"
+    ], 
+    "ideal_answer": [
+        "The consensus view, based on four organisms, is that the majority of splicing events take place co-transcriptionally in most cells and tissues. RNA processing events that take place on the transcribed pre-mRNA include capping, splicing, editing, 3' processing, and polyadenylation. Most of these processes occur co-transcriptionally while the RNA polymerase II (Pol II) enzyme is engaged in transcriptional elongation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012326", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045292"
+    ], 
+    "type": "yesno", 
+    "id": "533c3871c45e133714000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 78, 
+            "offsetInEndSection": 350, 
+            "text": "Researchers working in multiple model organisms - notably yeast, insects and mammalian cells - have shown that pre-mRNA can be spliced during the process of transcription (i.e. co-transcriptionally), as well as after transcription termination (i.e. post-transcriptionally)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23638305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 752, 
+            "offsetInEndSection": 895, 
+            "text": "The consensus view, based on four organisms, is that the majority of splicing events take place co-transcriptionally in most cells and tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23638305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Deep sequencing of subcellular RNA fractions shows splicing to be predominantly co-transcriptional", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955974", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 234, 
+            "offsetInEndSection": 319, 
+            "text": "We show that in the human genome, splicing occurs predominantly during transcription.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 993, 
+            "offsetInEndSection": 1228, 
+            "text": "Consistent with co-transcriptional spliceosome assembly and splicing, we have found significant enrichment of spliceosomal snRNAs in chromatin-associated RNA compared with other cellular RNA fractions and other nonspliceosomal snRNAs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 449, 
+            "text": "The majority of introns in higher eukaryotes are excised prior to transcript release in a manner that is dependent on transcription through pol II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22326677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 452, 
+            "offsetInEndSection": 681, 
+            "text": "s a result of co-transcriptional splicing, variations in pol II elongation influence alternative splicing patterns, wherein a slower elongation rate is associated with increased inclusion of alternative exons within mature mRNA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22326677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 661, 
+            "text": "We show that the pattern of intronic sequence read coverage is explained by nascent transcription in combination with co-transcriptional splicing", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22056773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 573, 
+            "offsetInEndSection": 797, 
+            "text": "Modelling reveals co-transcriptional splicing to be the most probable and most efficient splicing pathway for the reporter transcripts, due in part to a positive feedback mechanism for co-transcriptional second step splicing", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22022255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 273, 
+            "text": "RNA processing events that take place on the transcribed pre-mRNA include capping, splicing, editing, 3' processing, and polyadenylation. Most of these processes occur co-transcriptionally while the RNA polymerase II (Pol II) enzyme is engaged in transcriptional elongation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21264352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 266, 
+            "text": "Abundant evidence indicates that splicing to excise introns occurs co-transcriptionally, prior to release of the nascent transcript from RNAP II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20631007", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 912, 
+            "offsetInEndSection": 1087, 
+            "text": "Together, our work establishes a system for co-transcriptional splicing in vitro, in which the spliceosome containing the 5' and 3' exons are tethered to RNAP II for splicing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20631007", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Co-transcriptional splicing of constitutive and alternative exons", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19656867", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 184, 
+            "offsetInEndSection": 351, 
+            "text": "Current evidence supports co-transcriptional spliceosomal assembly, but there is little quantitative information on how much splicing is completed during RNA synthesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19656867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1215, 
+            "offsetInEndSection": 1352, 
+            "text": "Thus, we demonstrate that the decision to include or skip an alternative exon is made during transcription and not post-transcriptionally", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19656867", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 284, 
+            "text": "Here, we demonstrated that the co-transcriptional splicing of the intron in vitro was blocked by antisense oligonucleotides (AONs) targeting the P3-P7 core of the intron", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19185575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "RNA editing and alternative splicing: the importance of co-transcriptional coordination", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16440002", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Co-transcriptional splicing of pre-messenger RNAs: considerations for the mechanism of alternative splicing", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11602343", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 321, 
+            "text": "The realization that splicing occurs co-transcriptionally requires two important considerations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11602343", 
+            "endSection": "abstract"
+        }
+    ]
+}

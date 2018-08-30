@@ -1,0 +1,326 @@
+{
+    "body": "List mouse models for autism spectrum disorder (ASD).", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22958973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24096295", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24293564", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23516405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22560338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20699105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23536326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22016815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23994547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23270976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22492990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22802640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21079609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21484200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22726567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23621888", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24211371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22249109", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21878566", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24124122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21908517", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24315484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23141534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23123587", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21182206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22677272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21093492"
+    ], 
+    "ideal_answer": [
+        "Numerous mouse models exists for autism spectrum disorder, such as: BTBR T+tf/J (BTBR), maternal immune, activation (MIA) mouse model of gestational poly(IC) exposure, C58/J and ProSAP1/Shank2."
+    ], 
+    "exact_answer": [
+        [
+            "maternal immune activation (MIA) mouse model of gestational poly(IC) exposure", 
+            "C58/J", 
+            "Grin1", 
+            "Shank3-deficient mice", 
+            "C57BL/6J", 
+            "SYNGAP1", 
+            "Tsc2f/-", 
+            "MALTT", 
+            "(Dp(11)17/+)", 
+            "NR1(neo-/-)", 
+            "TS2-neo mouse", 
+            "Tbx1 heterozygous (HT) mice"
+        ], 
+        [
+            "BTBR T+tf/J (BTBR)", 
+            "VPA600", 
+            "ProSAP1/Shank2"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008957", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008962", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004195", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018345", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008822", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023421", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008818", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051379"
+    ], 
+    "type": "list", 
+    "id": "52f5417b2059c6d71c000024", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 361, 
+            "text": "maternal immune activation (MIA) mouse model that is known to display features of ASD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24315484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 540, 
+            "offsetInEndSection": 599, 
+            "text": "BTBR T+tf/J (BTBR), a model of ASD with cognitive deficits,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24293564", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 574, 
+            "text": "C58/J mouse strain, a model of ASD core symptoms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24211371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 67, 
+            "offsetInEndSection": 98, 
+            "text": "the C58/J mouse model of autism", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24211371", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 865, 
+            "offsetInEndSection": 938, 
+            "text": "Both C58/J and Grin1 knockdown mice, another model of ASD-like behavior, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24211371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 498, 
+            "text": "Mice injected subcutaneously with 600\u2009mg/kg valproic acid (VPA600) at gestational day 12.5 show reduced social interaction in adulthood (at 8 weeks of age), and they have been proposed as a mouse model of autism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24124122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 852, 
+            "text": "BTBR T+tf/J (BTBR), a commonly-used model presenting all core autism-related phenotypes ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24096295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 38, 
+            "text": "The Autism ProSAP1/Shank2 mouse model ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23994547", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 843, 
+            "offsetInEndSection": 864, 
+            "text": "Shank3-deficient mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23621888", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 629, 
+            "text": "a panel of Shank mutant mouse models", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23536326", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 604, 
+            "offsetInEndSection": 682, 
+            "text": "maternal immune activation (MIA) mouse model of gestational poly(IC) exposure ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1424, 
+            "offsetInEndSection": 1473, 
+            "text": "poly(IC) mouse model of autism spectrum disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23516405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 79, 
+            "offsetInEndSection": 124, 
+            "text": "BTBR T+ tf/J strain, a mouse model of autism.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23270976", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 193, 
+            "text": "The inbred BTBR T+ tf/J (BTBR) strain, a putative mouse model of autism,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23270976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 336, 
+            "text": "C57BL/6J strain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23270976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 256, 
+            "offsetInEndSection": 285, 
+            "text": "SYNGAP1 mouse model of ID/ASD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23141534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 787, 
+            "text": "Tsc2f/-;Cre mice demonstrated increased repetitive behavior as assessed with marble burying activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23123587", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 58, 
+            "text": "BTBR T+ tf/J mouse model for autism spectrum disorders", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22958973", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 314, 
+            "text": "Furthermore, maternal infection (maternal immune activation, MIA) is a risk factor for ASD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22802640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 415, 
+            "offsetInEndSection": 431, 
+            "text": "NR1(neo-/-) mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22726567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 583, 
+            "offsetInEndSection": 620, 
+            "text": "mice heterozygous for the Gabrb3 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20699105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Gestational immune activation and Tsc2 haploinsufficiency", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21079609", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 402, 
+            "offsetInEndSection": 432, 
+            "text": "novel transgenic mouse, MALTT,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21093492", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 416, 
+            "text": "sing a mouse model, CD38, a transmembrane protein expressed in immune cells but also in brain, was found to be critical for social behavior via regulation of oxytocin secretion. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21182206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 562, 
+            "offsetInEndSection": 587, 
+            "text": "fmr1 knockout mouse model", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21484200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1119, 
+            "offsetInEndSection": 1132, 
+            "text": "TS2-neo mouse", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21878566", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 735, 
+            "text": "Congenic Tbx1 heterozygous (HT) mice ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21908517", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 644, 
+            "offsetInEndSection": 689, 
+            "text": "the valproic acid (VPA) mouse model of autism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22016815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1527, 
+            "offsetInEndSection": 1696, 
+            "text": " indicates that the MeCP2+/- model may be useful for preclinical development targeting specific cortical processing abnormalities in RTT with potential relevance to ASD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22249109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 378, 
+            "offsetInEndSection": 391, 
+            "text": "(Dp(11)17/+) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22492990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "BTBR T+tf/J (BTBR) inbred mice are frequently used as a model of autism spectrum disorders (ASD)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22677272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Intact and impaired executive abilities in the BTBR mouse model of autism.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22677272", 
+            "endSection": "title"
+        }
+    ]
+}

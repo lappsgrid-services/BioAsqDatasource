@@ -1,0 +1,78 @@
+{
+    "body": "Is oxalate renal excretion increased after bariatric surgery?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21295813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23821183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16925274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18701613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2218396", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9689695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23024163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20566568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19762051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19013593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18501812", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16217311", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17222634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22554593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2669121"
+    ], 
+    "ideal_answer": [
+        "Bariatric surgery is associated with a significant risk of nephrolithiasis.\nEnteric hyperoxaluria, nephrolithiasis, and oxalate nephropathy must be considered with the other risks of bariatric surgery\nHyperoxaluria in patients treated with bariatric surgery was found to be a result of hyperabsorption of oxalate", 
+        "Urinary oxalate increases after bariatric surgery"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007588", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002129", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015390", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010070", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D049088", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013502", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050110"
+    ], 
+    "type": "yesno", 
+    "id": "52df887498d023950500000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 630, 
+            "text": "Despite the fact that bariatric surgery-induced weight loss is associated with a significant decrease in morbidity and mortality and improvement in renal function, bariatric surgery has recently been shown to be associated with a significant risk of nephrolithiasis. The main risk factor for nephrolithiasis is increased excretion of urinary oxalate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20566568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1444, 
+            "offsetInEndSection": 1557, 
+            "text": "Enteric hyperoxaluria, nephrolithiasis, and oxalate nephropathy must be considered with the other risks of RYGBP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16925274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 724, 
+            "text": "The urinary excretion of oxalate was high: 1.112 mumol/24 h (normal range: 55-400 mumol/24 h), and citrate excretion was low: 1.48 mmol/24 h (normal range: 2-5 mmol/24 h). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9689695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 744, 
+            "offsetInEndSection": 981, 
+            "text": "Hyperoxaluria in patients with JIB was found to be a result of hyperabsorption of oxalate, and these patients displayed altered oxalate kinetics with continued urinary excretion of orally administered 14C-oxalate for more than 48 hours. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2669121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1086, 
+            "offsetInEndSection": 1517, 
+            "text": "Malabsorption of calcium and low fasting urinary calcium excretion in the JIB patients were associated with high tubular reabsorption of calcium, the latter presumably attributable to a compensatory increase in circulating parathyroid hormone (PTH). In most recurrent renal stone formers the urinary calcium concentration was increased, with an inverse relationship to serum PTH, indicating intestinal hyperabsorption of calcium. A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2669121", 
+            "endSection": "abstract"
+        }
+    ]
+}

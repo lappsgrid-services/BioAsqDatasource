@@ -1,0 +1,66 @@
+{
+    "body": "Is there any relationship between histone ubiquitylation and splicing?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23824326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19561118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23209445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22188810"
+    ], 
+    "ideal_answer": [
+        "Yes, in the case of histone H2B"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012326", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054875", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D025801", 
+        "http://www.uniprot.org/uniprot/UBIQ_CAMDR", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008380", 
+        "http://www.biosemantics.org/jochem#4278518", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016574"
+    ], 
+    "type": "yesno", 
+    "id": "5344194daeec6fbd07000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 387, 
+            "offsetInEndSection": 551, 
+            "text": "histone H2B-specific deubiquitinase and demonstrate that H2B deubiquitination by USP49 is required for efficient cotranscriptional splicing of a large set of exons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23824326", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 357, 
+            "text": "H2B monoubiquitylation (H2BK123ub1) marks introns in Saccharomyces cerevisiae", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22188810", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 35, 
+            "offsetInEndSection": 78, 
+            "text": "H2B ubiquitination by facilitating splicing", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561118", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1505, 
+            "offsetInEndSection": 1574, 
+            "text": "pre-mRNA splicing plays a critical role in histone H2B ubiquitination", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1454, 
+            "offsetInEndSection": 1540, 
+            "text": "unanticipated functional link between histone H2B ubiquitination and pre-mRNA splicing", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23209445", 
+            "endSection": "abstract"
+        }
+    ]
+}

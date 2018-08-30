@@ -1,0 +1,90 @@
+{
+    "body": "Does MVIIA and MVIIC bind to the same calcium channel?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8898826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9063691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10694509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20820758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10648826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8853221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16546143", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9315745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11273667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7804605"
+    ], 
+    "ideal_answer": [
+        "No, the omega-conotoxin MVIIC blocks P/Q-type calcium channels with high affinity and N-type calcium channels with low affinity, while the highly homologous omega-conotoxin MVIIA blocks only N-type calcium channels."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015220"
+    ], 
+    "type": "yesno", 
+    "id": "56cf2a153975bb303a000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 757, 
+            "text": "We examined the post-pubertal behavioral effects of neonatal (postnatal day 7) medial prefrontal cortex infusion of either vehicle or N-type and P/Q-type presynaptic voltage-dependent calcium channel blockers (omega-conotoxins MVIIA and MVIIC respectively; 6.8 and 45 pmol infused respectively) in rat pups.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16546143", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 614, 
+            "text": "Additionally, the number of binding sites for radioligands labelling L- ([3H]nitrendipine), N- ([125I]omega-conotoxin MVIIA) and P/Q-type ([125I]omega-conotoxin MVIIC) Ca2+ channels was assessed in the rat retina and, for further comparison, in the rat cortex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11273667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "Omega-conotoxin MVIIC (MVIIC) blocks P/Q-type calcium channels with high affinity and N-type calcium channels with low affinity, while the highly homologous omega-conotoxin MVIIA blocks only N-type calcium channels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10648826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1726, 
+            "offsetInEndSection": 1939, 
+            "text": "However, omega-conotoxin MVIIC seems to bind to sites different from those recognised by omega-conotoxin GVIA and MVIIA, which are markedly differentiated by their Ca2+ requirements for binding to their receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9063691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Despite their high sequence homology, the peptide neurotoxins omega-conotoxin MVIIA and MVIIC selectively block N- and P/Q-type calcium channels, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9315745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "Replacement of the N-terminal half of omega-conotoxin MVIIC, a peptide blocker of P/Q-type calcium channels, with that of omega-conotoxin MVIIA significantly increased the affinity for N-type calcium channels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10694509", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 405, 
+            "text": " Omega-conotoxin MVIIC (MVIIC) blocks P/Q-type calcium channels with high affinity and N-type calcium channels with low affinity, while the highly homologous omega-conotoxin MVIIA blocks only N-type calcium channels. We wished to obtain MVIIC analogues more selective for P/Q-type calcium channels than MVIIC to elucidate structural differences among the channels, which discriminate the omega-conotoxins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10648826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1532, 
+            "offsetInEndSection": 1643, 
+            "text": "omega-conotoxin MVIIC seems to bind to sites different from those recognised by omega-conotoxin GVIA and MVIIA,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9063691", 
+            "endSection": "abstract"
+        }
+    ]
+}

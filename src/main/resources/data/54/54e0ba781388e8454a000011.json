@@ -1,0 +1,132 @@
+{
+    "body": "Where is the metaxin complex localized?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19552401", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9045676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17981999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17624330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10381257", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11027586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17510655", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9705320"
+    ], 
+    "ideal_answer": [
+        "The metaxin complex is localized to the outer mitochondrial membrane."
+    ], 
+    "exact_answer": [
+        "To the outer mitochondrial membrane."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032991", 
+        "http://www.uniprot.org/uniprot/MTX1_HUMAN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043234"
+    ], 
+    "type": "factoid", 
+    "id": "54e0ba781388e8454a000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1554, 
+            "offsetInEndSection": 1797, 
+            "text": " The C-terminus plays an important role in targeting TSPO to mitochondria, whereas its import into the OMM is dependent upon the presence of the Schellman motif. Final integration of TSPO into the OMM occurs via its interaction with Metaxin 1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19552401", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 443, 
+            "text": " TOM20 (translocase of the outer mitochondrial membrane), METAXIN, and mtOM64 (outer mitochondrial membrane protein of 64 kD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17981999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 862, 
+            "offsetInEndSection": 1068, 
+            "text": "The outer membrane protein METAXIN was characterized to play a role in the import of mitochondrial precursor proteins and likely plays a role in the assembly of beta-barrel proteins into the outer membrane.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17981999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "The mitochondrial inner membrane protein mitofilin exists as a complex with SAM50, metaxins 1 and 2, coiled-coil-helix coiled-coil-helix domain-containing protein 3 and 6 and DnaJC11.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17624330", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 440, 
+            "offsetInEndSection": 838, 
+            "text": " The functional role of this new complex is uncertain. However, a role in protein import related to maintenance of mitochondrial structure is suggested as mitofilin helps regulate mitochondrial morphology and at least four of the associated proteins (metaxins 1 and 2, SAM50 and CHCHD3) have been implicated in protein import, while DnaJC11 is a chaperone-like protein that may have a similar role.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17624330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1097, 
+            "offsetInEndSection": 1253, 
+            "text": "We conclude that the pathway of VDAC biogenesis in human mitochondria involves the TOM complex, Sam50 and metaxins, and that it is evolutionarily conserved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17510655", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Functional analysis of human metaxin in mitochondrial protein import in cultured cells and its relationship with the Tom complex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11027586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Metaxin is an outer membrane protein of mammalian mitochondria which is suggested to be involved in protein import into the organelle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11027586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Metaxin 1 interacts with metaxin 2, a novel related protein associated with the mammalian mitochondrial outer membrane.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10381257", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 837, 
+            "offsetInEndSection": 1021, 
+            "text": "In subcellular fractions of mouse liver, a 29 kD immunoreactive protein, consistent in size with the predicted translation product of metaxin 2 cDNA, was found solely in mitochondria. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10381257", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1135, 
+            "offsetInEndSection": 1313, 
+            "text": ". Metaxin 2 in intact mitochondria was susceptible to digestion with proteinase K, indicating that metaxin 2 is located on the cytosolic face of the mitochondrial outer membrane.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10381257", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 285, 
+            "text": "metaxin gene (Mtx), which encodes an outer mitochondrial membrane import protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9705320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Metaxin is a component of a preprotein import complex in the outer membrane of the mammalian mitochondrion.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9045676", 
+            "endSection": "title"
+        }
+    ]
+}

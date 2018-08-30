@@ -1,0 +1,53 @@
+{
+    "body": "What is the Arnold-Chiari syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18546951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19287845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15785984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17874345"
+    ], 
+    "ideal_answer": [
+        "Arnold Chiari syndrome is a condition characterized by herniation of the cerebellar tonsils through the foramen magnum, manifesting usually with downbeat nystagmus, palsy of the caudal cerebral nerves, headache, and vertigo."
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001139", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "summary", 
+    "id": "5318985eb166e2b80600001d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 137, 
+            "offsetInEndSection": 256, 
+            "text": "Arnold Chiari syndrome is a condition characterized by herniation of the cerebellar tonsils through the foramen magnum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19287845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "The Arnold-Chiari malformation is very rare hindbrain abnormalities characterized by herniation of the hindbrain through the foramen magnum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18546951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 833, 
+            "text": "The origin of Arnold-Chiari syndrome is connected with narrowness in the posterior fossa, particularly with narrowing of the arachnoid spaces.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17874345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 193, 
+            "text": "Arnold-Chiari Syndrome I is a malformation of the cervicomedullary junction, manifesting usually with downbeat nystagmus, palsy of the caudal cerebral nerves, headache, and vertigo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15785984", 
+            "endSection": "abstract"
+        }
+    ]
+}

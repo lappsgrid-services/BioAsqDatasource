@@ -1,0 +1,134 @@
+{
+    "body": "Which E3 ubiquitin ligase mediates the ubiquitination and degradation of the interferon receptor type 1 (IFNAR1)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19948722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16551269", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17873516", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21173164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14532120", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15337770", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18056411"
+    ], 
+    "ideal_answer": [
+        "Ubiquitination and degradation of the IFNAR1 (interferon alpha receptor 1) subunit of the type I interferon (IFN) receptor is mediated by the SCFbeta-Trcp (Skp1-Cullin1-F-box protein beta transducin repeat-containing protein) E3 ubiquitin ligase in a phosphorylation-dependent manner.", 
+        "Ubiquitination, endocytosis, and lysosomal degradation of the IFNAR1 (interferon alpha receptor 1) subunit of the type I interferon (IFN) receptor is mediated by the SCFbeta-Trcp (Skp1-Cullin1-F-box protein beta transducin repeat-containing protein) E3 ubiquitin ligase in a phosphorylation-dependent manner.  "
+    ], 
+    "exact_answer": [
+        "\u03b2Trcp", 
+        "beta-Trcp", 
+        "SCFbeta-Trcp", 
+        "SCFbeta-Trcp (Skp1-Cullin1-F-box protein beta transducin repeat-containing protein)", 
+        "Skp1-Cullin1-HOS-Roc1 (SCF(HOS))"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D044767"
+    ], 
+    "type": "factoid", 
+    "id": "55192892622b194345000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 409, 
+            "offsetInEndSection": 571, 
+            "text": "IFNAR1 ubiquitination is facilitated by the \u03b2Trcp E3 ubiquitin ligase that is recruited to IFNAR1 upon its degron phosphorylation, which is induced by the ligand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21173164", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 514, 
+            "offsetInEndSection": 730, 
+            "text": "Both ligand-dependent and -independent pathways converge on phosphorylation of Ser(535) within the IFNAR1 degron leading to recruitment of beta-Trcp E3 ubiquitin ligase and concomitant ubiquitination and degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19948722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 696, 
+            "text": "The SCF(betaTrcp) (Skp1-Cullin1-F-box complex) E3 ubiquitin ligase that mediates IFNAR1 ubiquitination and degradation in cells can conjugate both types of chains in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18056411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 480, 
+            "text": " Levels of IFNAR1 (regulated via degradation mediated by the betaTrcp E3 ubiquitin ligase) and IFNalpha signaling were reduced in 1205Lu melanoma cell line that harbors activated BRAF and exhibits high levels of betaTrcp ubiquitin ligase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17873516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 641, 
+            "text": "IFNalpha promotes the phosphorylation of IFNAR1 on Ser535, followed by recruitment of the E3 ubiquitin ligase, beta-TrCP2 (beta-transducin repeats-containing protein 2), ubiquitination of IFNAR1 and proteolysis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16551269", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 308, 
+            "text": "Ubiquitination, endocytosis, and lysosomal degradation of the IFNAR1 (interferon alpha receptor 1) subunit of the type I interferon (IFN) receptor is mediated by the SCFbeta-Trcp (Skp1-Cullin1-F-box protein beta transducin repeat-containing protein) E3 ubiquitin ligase in a phosphorylation-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337770", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 570, 
+            "text": "Here we show that IFNAR1 interacts with the Homolog of Slimb (HOS) F-box protein in a phosphorylation-dependent manner, and that this interaction is promoted by interferon alpha (IFNalpha). IFNAR1 is ubiquitinated by the Skp1-Cullin1-HOS-Roc1 (SCF(HOS)) ubiquitin ligase in vitro. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14532120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 693, 
+            "text": "The SCF(betaTrcp) (Skp1-Cullin1-F-box complex) E3 ubiquitin ligase that mediates IFNAR1 ubiquitination and degradation in cells can conjugate both types of chains in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18056411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 568, 
+            "text": "IFNAR1 ubiquitination is facilitated by the \u03b2Trcp E3 ubiquitin ligase that is recruited to IFNAR1 upon its degron phosphorylation, which is induced by the ligand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21173164", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 638, 
+            "text": "IFNalpha promotes the phosphorylation of IFNAR1 on Ser535, followed by recruitment of the E3 ubiquitin ligase, beta-TrCP2 (beta-transducin repeats-containing protein 2), ubiquitination of IFNAR1 and proteolysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16551269", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 511, 
+            "offsetInEndSection": 728, 
+            "text": "Both ligand-dependent and -independent pathways converge on phosphorylation of Ser(535) within the IFNAR1 degron leading to recruitment of beta-Trcp E3 ubiquitin ligase and concomitant ubiquitination and degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19948722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 307, 
+            "text": "Ubiquitination, endocytosis, and lysosomal degradation of the IFNAR1 (interferon alpha receptor 1) subunit of the type I interferon (IFN) receptor is mediated by the SCFbeta-Trcp (Skp1-Cullin1-F-box protein beta transducin repeat-containing protein) E3 ubiquitin ligase in a phosphorylation-dependent manner", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337770", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 695, 
+            "text": "The SCF(betaTrcp) (Skp1-Cullin1-F-box complex) E3 ubiquitin ligase that mediates IFNAR1 ubiquitination and degradation in cells can conjugate both types of chains in vitro", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18056411", 
+            "endSection": "abstract"
+        }
+    ]
+}

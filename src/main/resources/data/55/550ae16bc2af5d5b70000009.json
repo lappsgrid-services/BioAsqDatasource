@@ -1,0 +1,185 @@
+{
+    "body": "Is protein Fbw7 a SCF type of E3 ubiquitin ligase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22665065", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23776410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23507969", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20826802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20935640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21282377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21827743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22124735", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22608923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18094723", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14672936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23820376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21349854", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19679664"
+    ], 
+    "ideal_answer": [
+        "Fbxw7 (also known as Fbw7, SEL-10, hCdc4, or hAgo) is the F-box protein subunit of an Skp1-Cul1-F-box protein (SCF)-type ubiquitin ligase complex that plays a central role in the degradation of Notch family members.The F-box protein Fbw7 (also known as Fbxw7, hCdc4 and Sel-10) functions as a substrate recognition component of a SCF-type E3 ubiquitin ligase. SCF(Fbw7) facilitates polyubiquitination and subsequent degradation of various proteins such as Notch, cyclin E, c-Myc and c-Jun.", 
+        "The F-box protein Fbw7 (also known as Fbxw7, hCdc4 and Sel-10) functions as a substrate recognition component of a SCF-type E3 ubiquitin ligase. SCF(Fbw7) facilitates polyubiquitination and subsequent degradation of various proteins such as Notch, cyclin E, c-Myc and c-Jun."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D044843", 
+        "http://www.uniprot.org/uniprot/SKP1_ASPFN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D044767"
+    ], 
+    "type": "yesno", 
+    "id": "550ae16bc2af5d5b70000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "FBW7 (F-box and WD repeat domain-containing 7) is the substrate recognition component of an evolutionary conserved SCF (complex of SKP1, CUL1 and F-box protein)-type ubiquitin ligase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18094723", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 700, 
+            "text": "However, very few E3 ubiquitin ligases are known to target G-CSFR for ubiquitin-proteasome pathway. Here we identified F-box and WD repeat domain-containing 7 (Fbw7), a substrate recognizing component of Skp-Cullin-F box (SCF) E3 ubiquitin Ligase physically associates with G-CSFR and promotes its ubiquitin-mediated proteasomal degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23820376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "FBW7 is a crucial component of an SCF-type E3 ubiquitin ligase, which mediates degradation of an array of different target proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23776410", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "F-box and WD repeat domain-containing 7 (FBW7), the substrate-binding subunit of E3 ubiquitin ligase SCF(FBW7) (a complex of SKP1, cullin-1 and FBW7), plays important roles in various physiological and pathological processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23507969", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "The tumor suppressor Fbxw7 (also known as Sel-10, hCdc4, hAgo, or Fbw7) is an F-box protein that functions as the substrate-recognition subunit of an SCF ubiquitin ligase complex and targets a group of oncoproteins for degradation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22665065", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Fbw7 is the substrate recognition component of the Skp1-Cullin-F-box (SCF)-type E3 ligase complex and a well-characterized tumor suppressor that targets numerous oncoproteins for destruction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22608923", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Fbw7 is a member of F-box family proteins, which constitute one subunit of Skp1, Cul1, and F-box protein (SCF) ubiquitin ligase complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22124735", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 274, 
+            "text": "The F-box protein Fbw7 (also known as Fbxw7, hCdc4 and Sel-10) functions as a substrate recognition component of a SCF-type E3 ubiquitin ligase. SCF(Fbw7) facilitates polyubiquitination and subsequent degradation of various proteins such as Notch, cyclin E, c-Myc and c-Jun.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 270, 
+            "offsetInEndSection": 485, 
+            "text": "Fbxw7 (also known as Fbw7, SEL-10, hCdc4, or hAgo) is the F-box protein subunit of an Skp1-Cul1-F-box protein (SCF)-type ubiquitin ligase complex that plays a central role in the degradation of Notch family members.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21349854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 314, 
+            "text": "The Fbxw7 (F-box/WD repeat-containing protein 7; also called CDC4, Sel10, Ago, and Fbw7) component of the SCF (Skp1/Cullin/F-box protein) E3 ubiquitin ligase complex acts as a tumor suppressor in several tissues and targets multiple transcriptional activators and protooncogenes for ubiquitin-mediated degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21282377", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "The F-box protein Fbw7 (also known as Fbxw7, hCdc4 and Sel-10) functions as a substrate recognition component of a SCF-type E3 ubiquitin ligase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 227, 
+            "offsetInEndSection": 475, 
+            "text": "We demonstrate here that Fbw7 (F-box and WD repeat domain containing-7), the substrate recognition component of an SCF (complex of SKP1, CUL1 and F-box protein)-type E3 ubiquitin ligase, is a key regulator of NSC/NPC viability and differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20935640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "The SCF(Fbw7) ubiquitin ligase complex plays important roles in cell growth, survival, and differentiation via the ubiquitin-proteasome-mediated regulation of protein stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19679664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 271, 
+            "text": "F-box and WD-40 domain protein 7 (Fbw7) provides substrate specificity for the Skp1-Cullin1-F-box protein (SCF) ubiquitin ligase complex that targets multiple oncoproteins for degradation, including cyclin E, c-Myc, c-Jun, Notch, and mammalian target of rapamycin (mTOR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20826802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 236, 
+            "text": "Mammalian Fbw7 (also known as Sel-10, hCdc4, or hAgo) is the F-box protein component of an SCF (Skp1-Cul1-F-box protein-Rbx1)-type ubiquitin ligase, and the mouse Fbw7 is expressed prominently in the endothelial cell lineage of embryos.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14672936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "The F-box protein Fbw7 (also known as Fbxw7, hCdc4 and Sel-10) functions as a substrate recognition component of a SCF-type E3 ubiquitin ligase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 476, 
+            "text": "We demonstrate here that Fbw7 (F-box and WD repeat domain containing-7), the substrate recognition component of an SCF (complex of SKP1, CUL1 and F-box protein)-type E3 ubiquitin ligase, is a key regulator of NSC/NPC viability and differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20935640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 459, 
+            "offsetInEndSection": 699, 
+            "text": "Here we identified F-box and WD repeat domain-containing 7 (Fbw7), a substrate recognizing component of Skp-Cullin-F box (SCF) E3 ubiquitin Ligase physically associates with G-CSFR and promotes its ubiquitin-mediated proteasomal degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23820376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "FBW7 is a crucial component of an SCF-type E3 ubiquitin ligase, which mediates degradation of an array of different target proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23776410", 
+            "endSection": "abstract"
+        }
+    ]
+}

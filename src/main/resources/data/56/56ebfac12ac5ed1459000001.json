@@ -1,0 +1,156 @@
+{
+    "body": "Does the 3D structure of  the genome remain stable during cell differentiation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25693564", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26340639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24346698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25218583", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22495300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23199754", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24305663", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25479748", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24905166"
+    ], 
+    "ideal_answer": [
+        "Many studies have suggested a link between the spatial organization of genomes and fundamental biological processes such as genome reprogramming, gene expression, and differentiation. The open chromatin of embryonic stem cells (ESCs) condenses into repressive heterochromatin as cells exit the pluripotent state. The relation between alterations in chromatin structure and changes in gene expression during cell differentiation has served as a paradigm to understand the link between genome organization and function. Insulators are involved in 3D genome organization at multiple spatial scales and are important for dynamic reorganization of chromatin structure during reprogramming and differentiation. Architectural proteins orchestrate higher-order chromatin organization through the establishment of interactions between regulatory elements across multiple spatial scales. The regulation of these proteins, their interaction with DNA, and their co-occurrence in the genome, may be responsible for the plasticity of 3D chromatin architecture that dictates cell and time-specific blueprints of gene expression.", 
+        "Chromatin insulators have emerged as one of the central components of the genome organization tool-kit across species. We identify large, megabase-sized local chromatin interaction domains, which we term 'topological domains', as a pervasive structural feature of the genome organization. Many studies have suggested a link between the spatial organization of genomes and fundamental biological processes such as genome reprogramming, gene expression, and differentiation. Thus, p63 and its direct target Brg1 play an essential role in remodelling the higher-order chromatin structure of the EDC and in the specific positioning of this locus within the landscape of the 3D nuclear space, as required for the efficient expression of EDC genes in epidermal progenitor cells during skin development."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002454", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016678", 
+        "http://amigo.geneontology.org/amigo/term/GO:0030154"
+    ], 
+    "type": "yesno", 
+    "id": "56ebfac12ac5ed1459000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 940, 
+            "offsetInEndSection": 1109, 
+            "text": "We identify large, megabase-sized local chromatin interaction domains, which we term 'topological domains', as a pervasive structural feature of the genome organization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22495300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1207, 
+            "offsetInEndSection": 1376, 
+            "text": "The domains are stable across different cell types and highly conserved across species, indicating that topological domains are an inherent property of mammalian genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22495300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 733, 
+            "text": "Insulators are involved in 3D genome organization at multiple spatial scales and are important for dynamic reorganization of chromatin structure during reprogramming and differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26340639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "The relation between alterations in chromatin structure and changes in gene expression during cell differentiation has served as a paradigm to understand the link between genome organization and function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218583", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 521, 
+            "offsetInEndSection": 929, 
+            "text": "Architectural proteins orchestrate higher-order chromatin organization through the establishment of interactions between regulatory elements across multiple spatial scales. The regulation of these proteins, their interaction with DNA, and their co-occurrence in the genome, may be responsible for the plasticity of 3D chromatin architecture that dictates cell and time-specific blueprints of gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25218583", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 198, 
+            "offsetInEndSection": 430, 
+            "text": "The role of 3D genome organisation in the control and execution of lineage-specific transcription programmes during the development and differentiation of multipotent stem cells into specialised cell types remains poorly understood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24346698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "Chromatin structural states and their remodelling, including higher-order chromatin folding and three-dimensional (3D) genome organisation, play an important role in the control of gene expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24346698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 431, 
+            "offsetInEndSection": 666, 
+            "text": "Here, we show that substantial remodelling of the higher-order chromatin structure of the epidermal differentiation complex (EDC), a keratinocyte lineage-specific gene locus on mouse chromosome 3, occurs during epidermal morphogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24346698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Many studies have suggested a link between the spatial organization of genomes and fundamental biological processes such as genome reprogramming, gene expression, and differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24305663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 717, 
+            "offsetInEndSection": 908, 
+            "text": "Moreover, we reveal that formation of such highly condensed, transcriptionally repressed heterochromatin promotes transcriptional activation of differentiation genes and loss of pluripotency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25479748", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "The open chromatin of embryonic stem cells (ESCs) condenses into repressive heterochromatin as cells exit the pluripotent state.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25479748", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 551, 
+            "offsetInEndSection": 715, 
+            "text": "we find that localized heterochromatin condensation of ribosomal RNA genes initiates establishment of highly condensed chromatin structures outside of the nucleolus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25479748", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 522, 
+            "offsetInEndSection": 676, 
+            "text": "We focus on the emerging relationship between genome organization and lineage-specific transcriptional regulation, which we argue are inextricably linked.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24905166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 408, 
+            "text": "Cells face the challenge of storing two meters of DNA in the three-dimensional (3D) space of the nucleus that spans only a few microns. The nuclear organization that is required to overcome this challenge must allow for the accessibility of the gene regulatory machinery to the DNA and, in the case of embryonic stem cells (ESCs), for the transcriptional and epigenetic changes that accompany differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23199754", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 715, 
+            "offsetInEndSection": 1076, 
+            "text": "In this review we summarize some of the recent findings illuminating the 3D structure of the eukaryotic genome, as well as the relationship between genome topology and function from the level of whole chromosomes to enhancer-promoter loops with a focus on features affecting genome organization in ESCs and changes in nuclear organization during differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23199754", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 481, 
+            "offsetInEndSection": 742, 
+            "text": "We observe that although self-associating chromatin domains are stable during differentiation, chromatin interactions both within and between domains change in a striking manner, altering 36% of active and inactive chromosomal compartments throughout the genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25693564", 
+            "endSection": "abstract"
+        }
+    ]
+}

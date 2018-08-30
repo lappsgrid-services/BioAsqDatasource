@@ -1,0 +1,103 @@
+{
+    "body": "Is the gene SLC6A2 associated with orthostatic intolerance?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23580201", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12589229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22723437", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11458707", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12391111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15894713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12805287"
+    ], 
+    "ideal_answer": [
+        "Yes, variants of the SLC6A2 (or NET) gene are associated with orthostatic intolerance."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054971"
+    ], 
+    "type": "yesno", 
+    "id": "56d8ba1851531f7e33000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "Orthostatic intolerance is a debilitating syndrome characterized by tachycardia on assumption of upright posture. The norepinephrine (NE) transporter (NET) has been implicated in a genetic form of the disorder. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12391111", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1185, 
+            "offsetInEndSection": 1324, 
+            "text": "Thus attenuated baroreflex function and reduced sympathetic outflow may contribute to the orthostatic intolerance of severe NET deficiency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12391111", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "A mutation in the human norepinephrine transporter gene (SLC6A2) associated with orthostatic intolerance disrupts surface expression of mutant and wild-type transporters.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12805287", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 334, 
+            "text": " Recently, our laboratory reported a polymorphism in the human NET (hNET) gene A457P in an individual with the autonomic disorder orthostatic intolerance (OI). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12805287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 348, 
+            "offsetInEndSection": 578, 
+            "text": "Nonsynonymous single nucleotide polymorphisms (SNPs) in the human NET (hNET) gene that influence transporter function can contribute to disease, such as the nonfunctional transporter, A457P, identified in orthostatic intolerance. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15894713", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Orthostatic intolerance is not necessarily related to a specific mutation (Ala457Pro) in the human norepinephrine transporter gene.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12589229", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 117, 
+            "text": "We propose that chromatin-modifying events associated with SLC6A2 gene suppression may constitute a mechanism of POTS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723437", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 348, 
+            "offsetInEndSection": 457, 
+            "text": "The goal of the present study was to further characterize the role and regulation of the SLC6A2 gene in POTS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723437", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1114, 
+            "offsetInEndSection": 1383, 
+            "text": "In the absence of altered SLC6A2 gene sequence or promoter methylation, this reduced expression was directly correlated with chromatin modifications.  We propose that chromatin-modifying events associated with SLC6A2 gene suppression may constitute a mechanism of POTS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723437", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 458, 
+            "text": "A coding mutation in the norepinephrine transporter gene (SLC6A2) sequence has been reported in 1 family kindred only. The goal of the present study was to further characterize the role and regulation of the SLC6A2 gene in POTS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723437", 
+            "endSection": "abstract"
+        }
+    ]
+}

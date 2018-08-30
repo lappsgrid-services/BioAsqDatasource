@@ -1,0 +1,57 @@
+{
+    "body": "Has proteomics been used in the study of Pick's disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11880199", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16987245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16555340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12650976"
+    ], 
+    "ideal_answer": [
+        "Yes, proteomics has been used in the study of Pick's disease."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020543", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057180", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11870", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020774"
+    ], 
+    "type": "yesno", 
+    "id": "532f05bdd6d3ac6a34000026", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 776, 
+            "offsetInEndSection": 993, 
+            "text": "In Pick's disease, increased AGE, CML, CEL, HNE and MDAL bands of about 50 kDa were observed in the frontal cortex (but not in the occipital cortex) in association with increased density of glial acidic protein bands.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16987245", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 529, 
+            "text": "Thus, brain and cerebrospinal fluid (CSF) samples from patients with Alzheimer's disease, Down syndrome, Pick's disease, Parkinson's disease, schizophrenia, and other disorders as well as brain and CSF from animals serving as models of neurological disorders have been analyzed by proteomics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16555340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 493, 
+            "offsetInEndSection": 771, 
+            "text": "The present study is designed to investigate expression of peroxiredoxins (Prxs), the newly characterized family of highly conserved antioxidant enzymes, and other antioxidant enzymes in frontal cortex and cerebellum of DS, AD and PD patients using the technique of proteomics. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12650976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 486, 
+            "text": "HMT levels were measured in the frontal cortex and cerebellum of brains of patients with AD, DS, and PiD, and normal aged subjects using proteomics techniques. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11880199", 
+            "endSection": "abstract"
+        }
+    ]
+}

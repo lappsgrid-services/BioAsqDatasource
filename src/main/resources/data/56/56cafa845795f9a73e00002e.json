@@ -1,0 +1,56 @@
+{
+    "body": "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24558442"
+    ], 
+    "ideal_answer": [
+        "mTORC1, in coordination with mTORC2, controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FOXO3a at Ser314."
+    ], 
+    "exact_answer": [
+        "The mTOR pathway"
+    ], 
+    "type": "factoid", 
+    "id": "56cafa845795f9a73e00002e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "The mTOR pathway controls cell proliferation by regulating the FoxO3a transcription factor via SGK1 kinase", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24558442", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 427, 
+            "text": "the FoxO3a transcription factor is coordinately regulated by mTORC1 and mTORC2, and plays a crucial role in controlling cell proliferation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24558442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1370, 
+            "offsetInEndSection": 1525, 
+            "text": "mTORC1, in coordination with mTORC2, controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FoxO3a at Ser314", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24558442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1343, 
+            "offsetInEndSection": 1525, 
+            "text": "These results suggest that mTORC1, in coordination with mTORC2, controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FoxO3a at Ser314", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24558442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1154, 
+            "offsetInEndSection": 1527, 
+            "text": "SGK1 overexpression suppressed CDKI expression in p18-deficient cells, whereas SGK1 knockdown induced CDKI expression in wild-type cells, resulting in the suppression of cell proliferation. These results suggest that mTORC1, in coordination with mTORC2, controls cell proliferation by regulating FoxO3a gene expression and SGK1-mediated phosphorylation of FoxO3a at Ser314.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24558442", 
+            "endSection": "abstract"
+        }
+    ]
+}

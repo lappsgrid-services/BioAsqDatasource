@@ -1,0 +1,42 @@
+{
+    "body": "Which signaling pathway is activating the dishevelled proteins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25358879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15936275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19561403"
+    ], 
+    "ideal_answer": [
+        "Dishevelled (Xdsh) controls cell fate via canonical Wnt signaling"
+    ], 
+    "exact_answer": [
+        "Wnt signaling"
+    ], 
+    "type": "factoid", 
+    "id": "5708a845cf1c32585100000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 291, 
+            "text": "Wnt signaling is known to be important for diverse embryonic and post-natal cellular events and be regulated by the proteins Dishevelled and Axin. Although Dishevelled is activated by Wnt and involved in signal transduction, it is not clear how Dishevelled-mediated signaling is turned off. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19561403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "The Dishevelled protein mediates several diverse biological processes. Intriguingly, within the same tissues where Xenopus Dishevelled (Xdsh) controls cell fate via canonical Wnt signaling,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15936275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Dishevelled (DVL) proteins, three of which have been identified in humans, are highly conserved components of canonical and noncanonical Wnt signaling pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25358879", 
+            "endSection": "abstract"
+        }
+    ]
+}

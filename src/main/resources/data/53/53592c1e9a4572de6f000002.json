@@ -1,0 +1,50 @@
+{
+    "body": "Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18461550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19416569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16912493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18726925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9471429"
+    ], 
+    "ideal_answer": [
+        "NT is physiological for a measurement < 3 mm but the incidence of chromosomal abnormalities (essentially trisomies 21, 18 and 13) increases when NT > or = 3 mm. As women aged, this upper NT threshold value changed according to gestational age. In women aged 35 to 37 years, combined prenatal screening was always positive when NT exceeded 2.8 mm, 3.0 mm, and 3.4 mm at 11, 12, and 13 weeks of gestation, respectively."
+    ], 
+    "exact_answer": [
+        "3mm"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004314", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018566", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D048208", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14250"
+    ], 
+    "type": "factoid", 
+    "id": "53592c1e9a4572de6f000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 511, 
+            "offsetInEndSection": 610, 
+            "text": "Combined prenatal screening was always positive for Down syndrome when NT thickness exceeded 4.0 mm", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19416569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 695, 
+            "offsetInEndSection": 867, 
+            "text": "In women aged 35 to 37 years, combined prenatal screening was always positive when NT exceeded 2.8 mm, 3.0 mm, and 3.4 mm at 11, 12, and 13 weeks of gestation, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19416569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 459, 
+            "offsetInEndSection": 618, 
+            "text": "NT is physiological for a measurement < 3 mm but the incidence of chromosomal abnormalities (essentially trisomies 21, 18 and 13) increases when NT > or = 3 mm", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9471429", 
+            "endSection": "abstract"
+        }
+    ]
+}

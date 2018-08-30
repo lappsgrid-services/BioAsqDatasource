@@ -1,0 +1,198 @@
+{
+    "body": "Which proteins constitute the methyl-directed mismatch repair system (MMR) in bacteria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21940221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14602928", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12067333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16414311", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9852252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11591694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8244947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1920448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15709980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10652107", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18687413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15503140", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12860461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19192394", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22473602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20018207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24214875", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12513688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19474347", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24062730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17951114", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20921378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11952911", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3280983", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23228104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19029144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15113836"
+    ], 
+    "ideal_answer": [
+        "The mismatch repair system (MMR) recognizes and corrects mismatched or unpaired bases caused mainly by DNA polymerase, and contributes to the fidelity of DNA replication in living cells. In bacteria, the methyldirected mismatch repair (MMR) is comprised of MutS and MutL proteins, encoded by the mutS/L operon."
+    ], 
+    "exact_answer": [
+        [
+            "mutS"
+        ], 
+        [
+            "mutL"
+        ], 
+        [
+            "mutH"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006298"
+    ], 
+    "type": "list", 
+    "id": "5540eda30083d1bf0e000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 472, 
+            "text": "MutY and MutSL (mismatch repair system [MMR])", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 60, 
+            "text": "Escherichia coli DNA Mismatch Repair (MMR) protein MutS ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18687413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 424, 
+            "text": "We have characterized the mismatch repair system (MMR) of the highly radiation-resistant type strain of Deinococcus radiodurans, ATCC 13939. We show that the MMR system is functional in this organism, where it participates in ensuring the fidelity of DNA replication and recombination. The system relies on the activity of two key proteins, MutS1 and MutL, which constitute a conserved core involved in mismatch recognition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15503140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 402, 
+            "offsetInEndSection": 479, 
+            "text": "the mutS/L operon essential for methyldirected mismatch repair (MMR) activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24214875", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "The mismatch repair system (mutS, mutL and uvrD genes) in Pseudomonas aeruginosa", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11952911", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 332, 
+            "text": "The mismatch repair system (MMR) recognizes and corrects mismatched or unpaired bases caused mainly by DNA polymerase, and contributes to the fidelity of DNA replication in living cells. In Escherichia coli, the MutHLS system is known to function in MMR, and homologues of MutS and MutL are widely conserved in almost all organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15113836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "A simple genetic system has been developed to test the effect of over-expression of wild-type or mutated human MutL homologue 1 (hMLH1) proteins on methyl-directed mismatch repair (MMR) in Escherichia coli.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12513688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 753, 
+            "text": "Among these six mutated genes was mutS, which encodes a component of the methyl-directed mismatch repair (MMR) system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22473602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 369, 
+            "offsetInEndSection": 529, 
+            "text": "The majority of naturally occurring, strong mutators contain defects in the methyl-directed mismatch repair (MMR) system, with mutations in mutS predominating.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12860461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 385, 
+            "text": "The picture of MutH-independent MMR in other bacteria is less clear, as MMR components other than MutS and MutL have not been identified in the majority of bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21940221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 250, 
+            "text": "The methyl-directed mismatch repair (MMR) mechanism has been extensively studied in vitro and in vivo, but one of the difficulties in determining the biological relationships between the MMR-related proteins is the tendency of MutL to self-aggregate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19192394", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 757, 
+            "text": "Among these six mutated genes was mutS, which encodes a component of the methyl-directed mismatch repair (MMR) system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22473602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "MutL is required to assist the mismatch repair protein MutS during initiation of the methyl-directed mismatch repair (MMR) response in various organisms ranging from prokaryotes to eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19029144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 495, 
+            "text": "Moreover, methyl-directed mismatch repair (MMR) is known to trigger sensitivity to methylating agents via a mechanism that involves recognition by MutS of the O(6)-mG:T replication intermediates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20921378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 424, 
+            "text": "The system relies on the activity of two key proteins, MutS1 and MutL, which constitute a conserved core involved in mismatch recognition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15503140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 314, 
+            "text": "In Escherichia coli, the best studied mismatch repair (MMR) pathway is the methyl-directed long patch repair system which is mediated by three gene products; MutS, MutL and MutH.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9852252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1118, 
+            "offsetInEndSection": 1367, 
+            "text": "Cells devoid of MutS1 or MutL proteins were as resistant to gamma-rays, mitomycin C and UV-irradiation as wild-type bacteria, suggesting that the mismatch repair system is not essential for the reconstitution of a functional genome after DNA damage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15503140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 423, 
+            "text": "The system relies on the activity of two key proteins, MutS1 and MutL, which constitute a conserved core involved in mismatch recognition", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15503140", 
+            "endSection": "abstract"
+        }
+    ]
+}

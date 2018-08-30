@@ -1,0 +1,62 @@
+{
+    "body": "Elaborate on the link between conserved noncoding elements (CNEs) and fractality.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26899868", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24787386"
+    ], 
+    "ideal_answer": [
+        "Well-developed fractality is revealed for the chromosomal distribution of different classes of CNEs in the human genome by employing the scaling of block entropy and box-counting. This is characteristic of elements that are either extremely conserved between species or are of ancient origin, i.e. conserved between distant organisms across evolution. There are also power-law-like distributions, i.e. linearity in double logarithmic scale, in the inter-CNE distances, a feature which is connected with fractality and self-similarity."
+    ], 
+    "type": "summary", 
+    "id": "587f57f692a5b8ad44000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Fractality and entropic scaling in the chromosomal distribution of conserved noncoding elements in the human genome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26899868", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 696, 
+            "text": "We explored the chromosomal distribution of different classes of CNEs in the human genome. We employed two methodologies: the scaling of block entropy and box-counting, with the aim to assess fractal characteristics of different CNE datasets. Both approaches converged to the conclusion that well-developed fractality is characteristic of elements that are either extremely conserved between species or are of ancient origin, i.e. conserved between distant organisms across evolution. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26899868", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Conserved noncoding elements follow power-law-like distributions in several genomes as a result of genome dynamics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24787386", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 480, 
+            "offsetInEndSection": 666, 
+            "text": "We find widespread power-law-like distributions, i.e. linearity in double logarithmic scale, in the inter-CNE distances, a feature which is connected with fractality and self-similarity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24787386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 480, 
+            "offsetInEndSection": 667, 
+            "text": "We find widespread power-law-like distributions, i.e. linearity in double logarithmic scale, in the inter-CNE distances, a feature which is connected with fractality and self-similarity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24787386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Conserved noncoding elements follow power-law-like distributions in several genomes as a result of genome dynamics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24787386", 
+            "endSection": "title"
+        }
+    ]
+}

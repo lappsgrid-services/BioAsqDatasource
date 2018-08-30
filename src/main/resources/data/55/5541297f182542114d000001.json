@@ -1,0 +1,79 @@
+{
+    "body": "What is the efficacy of oxaliplatin monotherapy in the management of colorectal cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9704726", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16702162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15879624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10408744", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18094427"
+    ], 
+    "ideal_answer": [
+        "Oxaliplatin is a promising treatment option for patients with metastatic colorectal cancer. It appears to be particularly advantageous (in terms of response rate and duration of progression-free survival) when used in combination with fluorouracil/calcium folinate as both a first- and second-line option, although preliminary studies have failed to show any survival advantage over fluorouracil/calcium folinate alone. Promising results have been found in studies of the drug as monotherapy, and oxaliplatin may also prove useful in the neoadjuvant setting in patients with unresectable liver metastases; however, data are limited at present"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4278407", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015179", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003123", 
+        "http://www.disease-ontology.org/api/metadata/DOID:9256"
+    ], 
+    "type": "summary", 
+    "id": "5541297f182542114d000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 125, 
+            "text": " Oxaliplatin, a platinum compound, has been commonly used around the world for treating advanced colorectal cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16702162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1542, 
+            "offsetInEndSection": 1672, 
+            "text": "The oxaliplatin monotherapy dose schedule of 130 mg/m(2) every 3 weeks, recommended worldwide, is acceptable for Japanese patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16702162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2188, 
+            "offsetInEndSection": 2830, 
+            "text": "oxaliplatin is a promising treatment option for patients with metastatic colorectal cancer. It appears to be particularly advantageous (in terms of response rate and duration of progression-free survival) when used in combination with fluorouracil/calcium folinate as both a first- and second-line option, although preliminary studies have failed to show any survival advantage over fluorouracil/calcium folinate alone. Promising results have been found in studies of the drug as monotherapy, and oxaliplatin may also prove useful in the neoadjuvant setting in patients with unresectable liver metastases; however, data are limited at present", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10408744", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1394, 
+            "offsetInEndSection": 1587, 
+            "text": "This phase II study provides clear evidence of the safety and efficacy of oxaliplatin monotherapy at this dose and schedule in patients with previously untreated metastatic colorectal carcinoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9704726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "This phase II study provides clear evidence of the safety and efficacy of oxaliplatin monotherapy at this dose and schedule in patients with previously untreated metastatic colorectal carcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9704726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1345, 
+            "offsetInEndSection": 1539, 
+            "text": "This phase II study provides clear evidence of the safety and efficacy of oxaliplatin monotherapy at this dose and schedule in patients with previously untreated metastatic colorectal carcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9704726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Capecitabine and oxaliplatin are both effective and well-tolerated monotherapies for the treatment of advanced colorectal cancer (CRC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15879624", 
+            "endSection": "abstract"
+        }
+    ]
+}

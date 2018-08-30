@@ -1,0 +1,256 @@
+{
+    "body": "Is there an association between FGFR3 mutation and plagiocephaly?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23949953", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21739570", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17693524", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17992550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14577033", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15253176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18216705"
+    ], 
+    "ideal_answer": [
+        "Yes, FGFR3 mutation is associated with plagiocephaly. It is the most common mutation in plagiocephaly. FGFR genes have important effects on bone development, and mutations in 4 \"hot spot\" exons of FGFR1-3 are found in many patients with craniosynostosis and some with synostotic plagiocephaly."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/FGFR3_CHICK", 
+        "http://www.uniprot.org/uniprot/FGFR3_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D049068", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.uniprot.org/uniprot/FGFR3_PLEWA", 
+        "http://www.uniprot.org/uniprot/FGFR3_DANRE", 
+        "http://www.uniprot.org/uniprot/FGFR3_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059041"
+    ], 
+    "type": "yesno", 
+    "id": "56c1f042ef6e394741000056", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 251, 
+            "offsetInEndSection": 490, 
+            "text": "Series of neurosurgical interventions were carried out, principally for acrocephaly and posterior plagiocephaly. The most common achondroplasia mutation, a p.Gly380Arg in the fibroblast growth factor receptor 3 (FGFR3) gene, was detected. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23949953", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 335, 
+            "text": " The most common mutation for achondroplasia (FGFR3 Gly380Arg, resulting in 1138G>A) was identified. Imaging studies disclosed complex craniosynostosis and neurosurgical intervention was carried out, particularly for posterior plagiocephaly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21739570", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 33, 
+            "text": "FGFR mutations and plagiocephaly.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216705", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "FGFR genes have important effects on bone development, and mutations in 4 \"hot spot\" exons of FGFR1-3 are found in many patients with craniosynostosis and some with synostotic plagiocephaly. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1667, 
+            "offsetInEndSection": 1805, 
+            "text": "Mutation analyses in the FGFR3 gene revealed nucleotide alterations located in the mutational hot spot at amino acid residue 250 (g.C749).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17992550", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1014, 
+            "offsetInEndSection": 1351, 
+            "text": "RESULTS: In our cohort of 159 patients with various craniosynostosis syndromes, mutations were found in 100% of patients with Apert syndrome, 83.3% with Pfeiffer syndrome, 72.7% with Crouzon syndrome, 50.0% with Saethre-Chotzen syndrome, 27.7% with plagiocephaly, 31.8% with brachicephaly, 20% of complex cases, and 6.9% of mixed cases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17693524", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 165, 
+            "offsetInEndSection": 253, 
+            "text": "The genetic alterations that could cause unilateral coronal synostosis are more elusive.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15253176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1168, 
+            "offsetInEndSection": 1356, 
+            "text": "Mutations were found in eight of 47 patients: two patients with different single-amino-acid changes in FGFR2, three patients with FGFR3 Pro250Arg, and three patients with TWIST mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15253176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1721, 
+            "offsetInEndSection": 1870, 
+            "text": "Other abnormalities in the craniofacial region and extremities were clues to a particular mutation in FGFR2, FGFR3, TWIST, or the X-linked mutation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15253176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 291, 
+            "text": "To determine whether the autosomal dominant fibroblast growth factor receptor 3 (FGFR3) Pro250Arg mutation causes anterior plagiocephaly, patients with either apparently sporadic unicoronal synostosis (N = 37) or other forms of anterior plagiocephaly (N = 10) were studied for this mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1647, 
+            "offsetInEndSection": 1798, 
+            "text": "The occurrence of the FGFR3 mutation among patients with unicoronal synostosis provides evidence for a genetic basis of certain forms of plagiocephaly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 851, 
+            "text": "None of the 6 patients with nonsynostotic plagiocephaly and none of the 4 patients with additional suture synostosis had the FGFR3 mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 914, 
+            "offsetInEndSection": 1076, 
+            "text": "Between January and December of 1996, patients with a diagnosis of plagiocephaly at the Children's Hospital of Philadelphia were evaluated for the FGFR3 mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 930, 
+            "text": "Between January and December of 1996, patients with a diagnosis of plagiocephaly at the Children&apos;s Hospital of Philadelphia were evaluated for the FGFR3 mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "FGFR genes have important effects on bone development, and mutations in 4 &quot;hot spot&quot; exons of FGFR1-3 are found in many patients with craniosynostosis and some with synostotic plagiocephaly", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 290, 
+            "text": "To determine whether the autosomal dominant fibroblast growth factor receptor 3 (FGFR3) Pro250Arg mutation causes anterior plagiocephaly, patients with either apparently sporadic unicoronal synostosis (N = 37) or other forms of anterior plagiocephaly (N = 10) were studied for this mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 713, 
+            "text": "None of the 6 patients with nonsynostotic plagiocephaly and none of the 4 patients with additional suture synostosis had the FGFR3 mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1519, 
+            "offsetInEndSection": 1669, 
+            "text": "The occurrence of the FGFR3 mutation among patients with unicoronal synostosis provides evidence for a genetic basis of certain forms of plagiocephaly", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 32, 
+            "text": "FGFR mutations and plagiocephaly", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216705", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 922, 
+            "text": "Between January and December of 1996, patients with a diagnosis of plagiocephaly at the Children's Hospital of Philadelphia were evaluated for the FGFR3 mutation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 715, 
+            "text": "None of the 6 patients with nonsynostotic plagiocephaly and none of the 4 patients with additional suture synostosis had the FGFR3 mutation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1509, 
+            "offsetInEndSection": 1661, 
+            "text": "The occurrence of the FGFR3 mutation among patients with unicoronal synostosis provides evidence for a genetic basis of certain forms of plagiocephaly. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 430, 
+            "text": " To determine whether the autosomal dominant fibroblast growth factor receptor 3 (FGFR3) Pro250Arg mutation causes anterior plagiocephaly, patients with either apparently sporadic unicoronal synostosis (N = 37) or other forms of anterior plagiocephaly (N = 10) were studied for this mutation. Of 37 patients with unicoronal synostosis, 4 tested positive for the Pro250Arg mutation in FGFR3, and 33 were negative for this mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 292, 
+            "text": "To determine whether the autosomal dominant fibroblast growth factor receptor 3 (FGFR3) Pro250Arg mutation causes anterior plagiocephaly, patients with either apparently sporadic unicoronal synostosis (N = 37) or other forms of anterior plagiocephaly (N = 10) were studied for this mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 724, 
+            "offsetInEndSection": 823, 
+            "text": "In a girl with seemingly isolated plagiocephaly we identified a P250L (749C-->T) mutation in FGFR3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14577033", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 34, 
+            "text": "FGFR mutations and plagiocephaly.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216705", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 715, 
+            "text": "None of the 6 patients with nonsynostotic plagiocephaly and none of the 4 patients with additional suture synostosis had the FGFR3 mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9580776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1510, 
+            "offsetInEndSection": 1661, 
+            "text": "The occurrence of the FGFR3 mutation among patients with unicoronal synostosis provides evidence for a genetic basis of certain forms of plagiocephaly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11743367", 
+            "endSection": "abstract"
+        }
+    ]
+}

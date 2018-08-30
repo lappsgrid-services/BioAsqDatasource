@@ -1,0 +1,201 @@
+{
+    "body": "Which factors play a role in promoter proximal pausing of RNA polymerase II?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23589332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19245807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18373978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12782658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20534440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17942706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24050178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22244331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22549956", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17567605", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23699410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16880520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19860741", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20028984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21670248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18332113", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20170405"
+    ], 
+    "ideal_answer": [
+        "NELF (negative elongator factor) and DSIF (DRB Sensitivity Inducing Factor)"
+    ], 
+    "exact_answer": [
+        [
+            "NELF"
+        ], 
+        [
+            "DSIF"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006366", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012319"
+    ], 
+    "type": "list", 
+    "id": "533ec7abc45e133714000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 589, 
+            "offsetInEndSection": 720, 
+            "text": "Among the factors we describe are the pausing factors--NELF (negative elongation factor) and DSIF (DRB sensitivity-inducing factor)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24050178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 927, 
+            "offsetInEndSection": 1023, 
+            "text": "BMP target gene expression requires the pause-inducing negative elongation factor (NELF) complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23699410", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 151, 
+            "text": "NA polymerase II (Pol II) and the pausing complex, NELF and DSIF, are detected near the transcription start site (TSS) of many active and silent genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23589332", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 93, 
+            "text": "pausing complex NELF/DSIF", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23589332", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 919, 
+            "offsetInEndSection": 1013, 
+            "text": "knockdown of the pause-inducing factor NELF leads to broadly attenuated immune gene activation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22549956", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 464, 
+            "offsetInEndSection": 493, 
+            "text": "pausing factors NELF and DSIF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22244331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 810, 
+            "offsetInEndSection": 839, 
+            "text": "pausing factors NELF and DSIF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21670248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 708, 
+            "offsetInEndSection": 761, 
+            "text": "pausing factor DSIF (DRB sensitivity-inducing factor)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 27, 
+            "offsetInEndSection": 204, 
+            "text": "(NELF) and 5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole sensitivity-inducing factor (DSIF) are involved in pausing RNA Polymerase II (Pol II) in the promoter-proximal region", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20534440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 381, 
+            "offsetInEndSection": 562, 
+            "text": "Pausing and resumption of the elongation of transcripts is under the control of transcription elongation factors. Three of them, P-TEFb, DSIF, and NELF have been well characterized ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20170405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 207, 
+            "text": "NELF-mediated stalling of RNAPII ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20028984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 382, 
+            "offsetInEndSection": 525, 
+            "text": "At several eukaryotic promoters, DSIF, together with NELF (negative elongation factor), leads to promoter-proximal pausing of RNA polymerase II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19860741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 25, 
+            "offsetInEndSection": 70, 
+            "text": "negative transcription elongation factor NELF", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19245807", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 130, 
+            "offsetInEndSection": 366, 
+            "text": "(DSIF), is involved in regulating the processivity of RNA polymerase II. DSIF plays also a role in transcriptional activation, and in concert with the negative elongation factor NELF causes promoter proximal pausing of RNA polymerase II", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18373978", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 194, 
+            "text": "NELF causes Pol II to pause in the promoter-proximal region", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18332113", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 119, 
+            "offsetInEndSection": 275, 
+            "text": "(DSIF) regulates RNA polymerase II (RNAPII) processivity by promoting, in concert with negative elongation factor (NELF), promoter-proximal pausing of RNAPI", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17567605", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 83, 
+            "offsetInEndSection": 212, 
+            "text": "(DSIF) and negative elongation factor (NELF) negatively regulate transcription elongation by RNA polymerase II (RNAPII) in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16880520", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 16, 
+            "offsetInEndSection": 39, 
+            "text": "pausing caused by NELF ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16880520", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 69, 
+            "text": "ELF and DSIF collaborate to inhibit elongation by RNA polymerase IIa", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12782658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 720, 
+            "text": "The presence of DSIF reduced pausing,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17567605", 
+            "endSection": "abstract"
+        }
+    ]
+}

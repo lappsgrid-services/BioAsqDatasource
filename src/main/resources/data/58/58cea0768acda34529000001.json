@@ -1,0 +1,66 @@
+{
+    "body": "Which disease(s) are caused by HEX A deficiency?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25606403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20100466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7717398", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2220809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15108204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9073025"
+    ], 
+    "ideal_answer": [
+        "Mutations in the HEX A gene, encoding the alpha-subunit of beta-hexosaminidase A (Hex A), are the cause of Tay-Sachs disease as well as of juvenile, chronic, and adult GM2 gangliosidoses."
+    ], 
+    "type": "summary", 
+    "id": "58cea0768acda34529000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "Tay-Sachs disease (TSD) is a recessively inherited neurodegenerative disorder due to mutations in the HEXA gene resulting in a beta-hexosaminidase A (Hex A) deficiency. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20100466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "Rapid identification of HEXA mutations in Tay-Sachs patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20100466", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "Tay-Sachs disease (TSD) is a recessively inherited neurodegenerative disorder caused by mutations in the HEXA gene resulting in \u03b2-hexosaminidase A (HEX A) deficiency and neuronal accumulation of GM2 ganglioside.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25606403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Tay-Sachs disease is a genetically determined neurodegenerative disorder, resulting from mutations of the hexosaminidase (Hex) A gene coding for the alpha-subunit of beta-D-N-acetyl-hexosaminidase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9073025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Tay-Sachs disease (TSD) results from mutations in HEXA that cause Hex A deficiency. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7717398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "Mutations in the HEX A gene, encoding the alpha-subunit of beta-hexosaminidase A (Hex A), are the cause of Tay-Sachs disease as well as of juvenile, chronic, and adult GM2 gangliosidoses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2220809", 
+            "endSection": "abstract"
+        }
+    ]
+}

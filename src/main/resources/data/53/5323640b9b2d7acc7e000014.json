@@ -1,0 +1,183 @@
+{
+    "body": "Which gene is involved in CADASIL?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19788051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22664156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17854869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21038489", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19539236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19018300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20224942", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17726918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18313300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21702048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17622327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17996090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19255248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22878905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23308019"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13945", 
+            "o": "UMLS_CUI:C0751587"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13945", 
+            "o": "cadasil"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:13945", 
+            "o": "MSH2010_2010_02_22:D046589"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400718", 
+            "o": "C499374"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1452875", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8407072"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400738", 
+            "o": "Notch homolog 3 (Drosophila) protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400718", 
+            "o": "NOTCH3 protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1452875", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400718"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1452875", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8407072"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1452875", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400738"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8407072", 
+            "o": "CADASIL protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400738", 
+            "o": "C499374"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8407072", 
+            "o": "C499374"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400718", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400738", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8407072", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL), the most common form of familial vascular dementia, is caused by mutations of the NOTCH3 gene."
+    ], 
+    "exact_answer": [
+        "Notch3 gene"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011506", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13945", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015870", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D046589", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796"
+    ], 
+    "type": "factoid", 
+    "id": "5323640b9b2d7acc7e000014", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 71, 
+            "offsetInEndSection": 195, 
+            "text": "leukoencephalopathy (CADASIL), the most common form of familial vascular dementia, is caused by mutations of the NOTCH3 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22664156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 594, 
+            "text": "Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy (CADASIL) is a hereditary disease caused by mutations of the Notch3 gene encoding the Notch3 protein. Notch3 is involved in the regulation of apoptosis, modulating Fas-Ligand (Fas-L)- induced apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22878905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 189, 
+            "text": ": Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a small vessel disease of the brain caused by mutations in the NOTCH3 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23308019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 467, 
+            "text": "Mutations in Notch3 gene are linked to cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL), a disorder characterized by stroke and dementia in young adults", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21702048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 252, 
+            "text": "(CADASIL) is caused by mutations in the NOTCH3 gene and is clinically characterized by recurrent stroke, cognitive decline, psychiatric disturbances and migraine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21038489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 298, 
+            "text": "To evaluate the role of apoptosis in the pathogenesis of brain lesions in cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL), a hereditary microangiopathy leading to cognitive decline and dementia, caused by mutations in the NOTCH3 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19788051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 467, 
+            "offsetInEndSection": 616, 
+            "text": "NOTCH3 (Notch homolog 3), the gene involved in CADASIL, encodes a transmembrane receptor primarily expressed in systemic arterial smooth-muscle cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19539236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 352, 
+            "text": "(CADASIL) is a vascular dementing disease caused by mutations in the NOTCH3 gene, most which are missense mutations leading to an uneven number of cysteine residues in epidermal growth factor-like repeats in the extracellular domain of Notch3 receptor (N3ECD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17622327", 
+            "endSection": "abstract"
+        }
+    ]
+}

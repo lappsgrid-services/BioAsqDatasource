@@ -1,0 +1,121 @@
+{
+    "body": "Which syndrome is caused by deletion of Pds5b in mice?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17652350", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19412548"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1442161", 
+            "o": "Gene Deletion"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0039082", 
+            "o": "Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0039082", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0121946"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0121946", 
+            "o": "Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/989712", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3242053"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3242053", 
+            "o": "Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1511760", 
+            "o": "Deletion"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1442161", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10802767"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10802767", 
+            "o": "Deletion"
+        }
+    ], 
+    "ideal_answer": [
+        "mice lacking sister chromatid cohesion protein pds5b exhibit developmental abnormalities reminiscent of cornelia de lange syndrome.", 
+        "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome. ", 
+        "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome.", 
+        "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome", 
+        "Mice lacking sister chromatid cohesion protein Pds5b exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome."
+    ], 
+    "exact_answer": [
+        "Cornelia de Lange syndrome."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0090695", 
+        "http://www.uniprot.org/uniprot/PDS5B_RAT", 
+        "http://www.uniprot.org/uniprot/PDS5B_MOUSE"
+    ], 
+    "type": "factoid", 
+    "id": "5889eb503b87a8a73800000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17652350", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 364, 
+            "text": "Pds5B mutant mice have developmental abnormalities resembling CdLS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19412548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17652350", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 460, 
+            "text": "Pds5B mutant mice have developmental abnormalities resembling CdLS; however the role of Pds5A in mammals and the association of PDS5 proteins with CdLS are unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19412548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 462, 
+            "text": "Pds5B mutant mice have developmental abnormalities resembling CdLS; however the role of Pds5A in mammals and the association of PDS5 proteins with CdLS are unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19412548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Mice lacking sister chromatid cohesion protein PDS5B exhibit developmental abnormalities reminiscent of Cornelia de Lange syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17652350", 
+            "endSection": "title"
+        }
+    ]
+}

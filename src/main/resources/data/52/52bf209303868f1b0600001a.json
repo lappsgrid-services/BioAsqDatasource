@@ -1,0 +1,442 @@
+{
+    "body": "What are the indications for alteplase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19804685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10172049", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23336348", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7579782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23727456", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12450926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23463740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8521760", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11778213", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17656661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2689138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11794977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23251746", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1641820", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9385884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15532135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7549071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11919252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10581997"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/2894", 
+            "o": "Drug"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/2894", 
+            "o": "Cathflo Activase (Alteplase)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/2894", 
+            "o": "Intervention #2894 (Drug:Cathflo Activase (Alteplase))"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/48561", 
+            "o": "Drug"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/48561", 
+            "o": "Alteplase (Activase, Genentech)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/48561", 
+            "o": "Intervention #48561 (Drug:Alteplase (Activase, Genentech))"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/48561", 
+            "o": "48561"
+        }
+    ], 
+    "ideal_answer": [
+        "Intravenous alteplase (recombinant tissue plasminogen activator) is the only approved thrombolytic agent at present indicated for acute ischaemic stoke.\nFood and Drug Administration approval of alteplase for central venous catheter (CVC) occlusions. \nAlteplase is now firmly established as a treatment of choice in the management of acute myocardial infarction. The efficacy of intravenous alteplase in the treatment of pulmonary thromboembolism has also been established and appears to be similar to that of streptokinase and urokinase in this indication and in arterial thrombotic occlusion. However, its use in this latter indication and in other vascular disorders has not been as extensively documented. \nPreliminary data suggest efficacy of alteplase of deep vein thrombosis and arterial thrombotic occlusion."
+    ], 
+    "exact_answer": [
+        [
+            "ischemic stroke"
+        ], 
+        [
+            "central venous catheter (CVC) occlusions"
+        ], 
+        [
+            "thrombolysis"
+        ], 
+        [
+            "myocardial infarction"
+        ], 
+        [
+            "acute pulmonary embolism"
+        ], 
+        [
+            "deep vein thrombosis"
+        ], 
+        [
+            "limb artery occlusions"
+        ], 
+        [
+            "Ischaemic Stroke"
+        ], 
+        [
+            "Acute Myocardial Infarction", 
+            "AMI", 
+            "MI"
+        ], 
+        [
+            "Pulmonary Thromboembolism"
+        ], 
+        [
+            "Vein Thrombosis"
+        ], 
+        [
+            "Arterial Thrombotic Occlusion"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TPA_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010959", 
+        "http://www.biosemantics.org/jochem#4002037"
+    ], 
+    "type": "list", 
+    "id": "52bf209303868f1b0600001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "In Japan, intravenous alteplase, a recombinant tissue-type plasminogen activator (rt-PA), was approved for an indication of ischemic stroke in 2005 on the basis of the results of a clinical trial with a unique dose of the drug (0.6 mg/kg). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23727456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1858, 
+            "offsetInEndSection": 2051, 
+            "text": "Alteplase appears to show efficacy for treatment of thrombus-related venous catheter occlusion in pediatric patients; however, data regarding its use in occluded dialysis catheters are limited.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 898, 
+            "offsetInEndSection": 1171, 
+            "text": "The trials used to support Food and Drug Administration approval of alteplase for central venous catheter (CVC) occlusions generally had low pediatric enrollment; however, additional small studies are available that support use of alteplase for this indication in children.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 168, 
+            "text": "To review the literature pertaining to the efficacy of alteplase for restoration of patency of occluded venous and dialysis catheters in pediatric patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 190, 
+            "text": "Intravenous thrombolysis with recombinant tissue Plasminogen Activator improves outcomes in patients treated early after stroke but at the risk of causing intracranial hemorrhage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23336348", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 157, 
+            "offsetInEndSection": 309, 
+            "text": "Intravenous alteplase (recombinant tissue plasminogen activator) is the only approved thrombolytic agent at present indicated for acute ischaemic stoke.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251746", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 1014, 
+            "text": "This paper presents a summary of the evidence review group report into the clinical effectiveness and cost-effectiveness of alteplase for the treatment of acute ischaemic stroke, in accordance with the licensed indication, based upon the evidence submission from the manufacturer to the National Institute for Health and Clinical Excellence (NICE) as part of the single technology appraisal (STA) process. The submitted clinical evidence included several randomised controlled trials indicating that, in highly selected patients, alteplase administered at a licensed dose within 3 hours of the onset of acute ischaemic stroke is associated with a statistically significant reduction in the risk of death or dependency at 3 months compared with placebo, despite a significantly increased risk of symptomatic intracranial haemorrhage within the first 7-10 days. Data from the National Institute of Neurological Disorders and Stroke (NINDS) trial suggest that the benefit of treatment is sustained at 6 and 12 months.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19804685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2560, 
+            "offsetInEndSection": 2837, 
+            "text": "The guidance issued by NICE in April 2007 as a result of the STA states that alteplase is recommended for the treatment of acute ischaemic stroke only when used by physicians trained and experienced in the management of acute stroke and in centres with the required facilities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19804685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 211, 
+            "text": "Because of the risk of hemorrhage, especially in the brain, thrombolytic therapy with intravenous alteplase is restricted by guidelines, and only a small number of selected patients are being treated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17656661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1062, 
+            "offsetInEndSection": 1280, 
+            "text": "Alteplase can be given to patients with cervical artery dissection, seizure at onset and evidence of acute ischemia on brain imaging, and after carefully weighing risk and benefit in pregnancy and during menstruation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17656661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 144, 
+            "text": "Alteplase is the first thrombolytic drug to be approved in France for the treatment of ischaemic stroke within three hours of symptom onset.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15532135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 376, 
+            "text": "However, the Cochrane systematic review of thrombolysis for acute ischaemic stroke suggests that alteplase is the most promising treatment for acute ischaemic stroke. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12450926", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 10, 
+            "offsetInEndSection": 256, 
+            "text": " To determine whether cryopreserved solutions of the thrombolytic agent alteplase could be used as a safe, effective, and economically reasonable alternative to urokinase in patients presenting with occluded central venous access devices (CVADs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11919252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 370, 
+            "text": "Alteplase has been reported as an efficacious alternative to urokinase for treatment of occluded CVADs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11919252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 908, 
+            "offsetInEndSection": 1044, 
+            "text": "Patients presenting with occluded CVADs received a sufficient volume of the thawed alteplase solution to fill the occluded catheter(s). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11919252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1475, 
+            "offsetInEndSection": 1760, 
+            "text": "Cryopreserved 1-mg/mL aliquots of alteplase are safe and effective in the clearance of occluded CVADs when stored at -20 degrees C for 30 days. The ability to cryopreserve alteplase aliquots makes it an economically reasonable alternative to urokinase in the setting of CVAD occlusion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11919252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 489, 
+            "text": "Of the thrombolytic agents and therapeutic protocols in use, alteplase 100 mg/2 hours seems to be the best compromise between the risk of bleeding and efficacy in reducing pulmonary resistances by 30 to 40% and relatively early pulmonary revascularisation of 40-50%. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11794977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 230, 
+            "text": "To explore the best regimen of treatment for acute pulmonary embolism(APE), and to evaluate the efficacy and safety of 2-h infusion of recombinant tissue-type plasminogen activator, Alteplase (rt-PA) and urokinase(UK). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11778213", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 983, 
+            "offsetInEndSection": 1125, 
+            "text": "A 2 h regimen of rt-PA or UK showed reliable efficacy and safety for treatment of APE. The indication of thrombolytic therapy can be extended.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11778213", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Tissue type plasminogen activator is available, through recombinant technology, for thrombolytic use as alteplase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 363, 
+            "text": "Alteplase has been used successfully in evolving myocardial infarction (MI) to reopen occluded coronary arteries. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 475, 
+            "offsetInEndSection": 760, 
+            "text": "Alteplase is most effective when given early in MI and is probably ineffective when given 12 h after the onset of symptoms. The effectiveness of alteplase in MI can be increased by front loading with a bolus of 15 mg, followed by an infusion of 50 mg over 30 min and 35 mg over 60 min.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1017, 
+            "offsetInEndSection": 1467, 
+            "text": "A reduced dose of alteplase to increase coronary artery patency prior to angioplasty may be useful in MI. An exciting new indication for the use of alteplase is in stroke, where it has become the first beneficial intervention. Alteplase is used to reopen occluded cerebral vessels but is associated with an increased risk of intracerebral haemorrhage. Alteplase is beneficial if given within 3 h of the onset of stroke but not after this time period.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1586, 
+            "offsetInEndSection": 1813, 
+            "text": "Clinical trials have not established a role for alteplase in the treatment of acute coronary syndromes or deep vein thrombosis. However, alteplase is useful in treating pulmonary thromboembolism and peripheral vascular disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 277, 
+            "text": "Our aim was to design and evaluate a new and easily administered recombinant tissue-type plasminogen activator (rt-PA) regimen for thrombolysis in acute myocardial infarction (AMI) based on established pharmacokinetic data that improve the reperfusion success rate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9385884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 430, 
+            "text": "Rapid restoration of Thrombolysis in Myocardial Infarction (TIMI) grade 3 flow is a primary predictor of mortality after thrombolysis in AMI.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9385884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1912, 
+            "offsetInEndSection": 2123, 
+            "text": "The 60-min alteplase thrombolysis in AMI protocol achieved a TIMI grade 3 patency rate of 81.1% at 90 min with no indication of an increased bleeding hazard; it was associated with a 1.2% overall mortality rate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9385884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 244, 
+            "offsetInEndSection": 1001, 
+            "text": "Alteplase is now firmly established as a treatment of choice in the management of acute myocardial infarction. The efficacy of intravenous alteplase in the treatment of pulmonary thromboembolism has also been established and appears to be similar to that of streptokinase and urokinase in this indication and in arterial thrombotic occlusion. However, its use in this latter indication and in other vascular disorders has not been as extensively documented. Although trials demonstrating the efficacy of intravenous alteplase in patients with deep vein thrombosis and intra-arterial alteplase in patients with arterial thrombotic occlusion exist, reliable data on the efficacy of the fibrinolytic in ischaemic stroke and intracranial haemorrhage are scarce.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8521760", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1756, 
+            "offsetInEndSection": 1965, 
+            "text": "Further, preliminary data suggest efficacy in the therapy of deep vein thrombosis and arterial thrombotic occlusion, and alteplase has a proven place in the fibrinolytic treatment of pulmonary thromboembolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8521760", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 386, 
+            "offsetInEndSection": 527, 
+            "text": "The non-antigenic competitor for these two compounds for the indication of MI is alteplase (recombinant tissue plasminogen activator, rt-PA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7579782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1144, 
+            "offsetInEndSection": 1270, 
+            "text": " In the framework of tailored thrombolytic therapy, alteplase or urokinase appear to be the drugs of choice in these patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7579782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 484, 
+            "text": "Patients with a recent (less than 10 days) proximal deep vein thrombosis of the leg or pelvis are candidates for thrombolysis as the major benefit over heparin seems to be the prevention of the postphlebitic limb, an aim which is still not proven in a satisfactory manner. Nonocclusive thrombi appear to lyse more readily than occlusive thrombi. For this indication the optimal dose regimens for the three thrombolytic drugs (streptokinase, urokinase, alteplase) are not established. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7549071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 679, 
+            "offsetInEndSection": 1301, 
+            "text": "To save 1 year of life, the costs of thrombolytic therapy using intravenous streptokinase, alteplase (recombinant tissue plasminogen activator; rt-PA) or anistreplase (anisoylated plasminogen streptokinase activator complex) under standard restricted indication criteria, vary from 1000 pounds British sterling to 1700 pounds British sterling in the UK, SEK3090 to 9660 in Scandinavia and $US35 000 to 800 000 in the US, depending on time delay in starting treatment after pain onset, size of infarct, thrombolytic agents used, study methodology, lists of clinical events considered in cost counting and the discount rate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10172049", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1037, 
+            "offsetInEndSection": 1390, 
+            "text": "Thus, the results of the ETTT trial show that the used low dosages of alteplase administered intravenously over 3-7 days in heparinized patients cannot be recommended as a treatment for patients with deep venous thrombosis of lower limbs and/or pelvis. Further studies are needed to define a more suitable dosage regimen of alteplase in this indication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1641820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 941, 
+            "offsetInEndSection": 1119, 
+            "text": "Streptokinase, urokinase and alteplase have all been shown to accelerate the lysis of pulmonary emboli and to decrease pulmonary vascular obstruction and pulmonary hypertension. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2689138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1669, 
+            "offsetInEndSection": 1918, 
+            "text": "The local treatment of acute arterial occlusion in limb arteries results in rapid clearing of the artery in 67% of patients treated with streptokinase; the corresponding success rates for urokinase and alteplase are 81% and 88 to 94%, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2689138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 241, 
+            "text": "More recently, new drugs like alteplase, reteplase, lanoteplase and saruplase have been a breakthrough in the treatment of acute myocardial infarction", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10581997", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 386, 
+            "offsetInEndSection": 526, 
+            "text": "The non-antigenic competitor for these two compounds for the indication of MI is alteplase (recombinant tissue plasminogen activator, rt-PA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7579782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 863, 
+            "offsetInEndSection": 1135, 
+            "text": "The trials used to support Food and Drug Administration approval of alteplase for central venous catheter (CVC) occlusions generally had low pediatric enrollment; however, additional small studies are available that support use of alteplase for this indication in children", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 722, 
+            "offsetInEndSection": 874, 
+            "text": "Some acute ischemic strokes (before the 3rd hour) could be treated with alteplase if there is no absolute or relative contraindication for thrombolysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10581997", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 539, 
+            "text": "Alteplase and reteplase are the most efficient thrombolytics despite a higher risk of cerebral bleeding. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10581997", 
+            "endSection": "abstract"
+        }
+    ]
+}

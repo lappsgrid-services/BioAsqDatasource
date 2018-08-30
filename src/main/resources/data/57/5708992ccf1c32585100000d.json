@@ -1,0 +1,68 @@
+{
+    "body": "What is the RESID database?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12520062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15174122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10592227", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11125090", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9847179"
+    ], 
+    "ideal_answer": [
+        "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications"
+    ], 
+    "exact_answer": [
+        "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications"
+    ], 
+    "type": "factoid", 
+    "id": "5708992ccf1c32585100000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "The RESID Database of Protein Modifications as a resource and annotation tool.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15174122", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 203, 
+            "text": "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15174122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "The RESID Database is a comprehensive collection of annotations and structures for protein pre-, co- and post-translational modifications including amino-terminal, carboxyl-terminal and peptide chain cross-link modifications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520062", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "The RESID Database is a comprehensive collection of annotations and structures for protein post-translational modifications including N-terminal, C-terminal and peptide chain cross-link modifications. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11125090", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "The RESID Database contains supplemental information on post-translational modifications for the standardized annotations appearing in the PIR-International Protein Sequence Database. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10592227", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "The RESID Database of protein structure modifications.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9847179", 
+            "endSection": "title"
+        }
+    ]
+}

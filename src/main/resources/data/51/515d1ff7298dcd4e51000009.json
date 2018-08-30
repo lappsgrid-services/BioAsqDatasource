@@ -1,0 +1,217 @@
+{
+    "body": "Which cellular processes are regulated by Nanog?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19544407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20962578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20581802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20578184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22421047", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19139263", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22493428", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22315219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22378194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19415763", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16518401", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14728807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22934707"
+    ], 
+    "ideal_answer": [
+        "The pluripotency sustaining factor Nanog, controls a cascade of pathways that are intricately connected to govern pluripotency, self-renewal, genome surveillance and cell fate determination. Elevated expression of Nanog has also been reported to result in clonal expansion of murine ESCs, but it also plays a role in tumor development. A positive regulator of cell proliferation, it is essential for G1 to S transition in human embryonic stem cells while it regulates primordial germ cell migration."
+    ], 
+    "exact_answer": [
+        [
+            "cell proliferation"
+        ], 
+        [
+            "pluripotency"
+        ], 
+        [
+            "cell fate determination"
+        ], 
+        [
+            "G1 to S transition"
+        ], 
+        [
+            "germ cell migration"
+        ], 
+        [
+            "tumour development"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/NANOG_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0065007"
+    ], 
+    "type": "list", 
+    "id": "515d1ff7298dcd4e51000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 487, 
+            "offsetInEndSection": 536, 
+            "text": "critical for the regulation of cancer stem cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22934707", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1525, 
+            "offsetInEndSection": 1665, 
+            "text": "the effect of FAK and Nanog cross-regulation on cancer cell morphology, invasion, and growth that plays a significant role in carcinogenesis", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22493428", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 39, 
+            "text": "Nanog-like regulates endoderm formation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421047", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "In mammalian embryonic stem cells, the acquisition of pluripotency is dependent on Nanog", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421047", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 338, 
+            "text": "we identified a zebrafish Nanog ortholog and found that its\u00a0knockdown impaired endoderm formation", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421047", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 925, 
+            "offsetInEndSection": 1047, 
+            "text": "establishes a role for Nanog-like in regulating the formation of the extraembryonic tissue required for endoderm induction", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421047", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Nanog regulates molecules involved in stemness and cell cycle-signaling pathway for maintenance of pluripotency", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22378194", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 44, 
+            "offsetInEndSection": 170, 
+            "text": "Nanog, a key transcription factor in the maintenance of pluripotency of embryonic stem (ES) and embryonal carcinoma (EC) cells", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22378194", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 947, 
+            "offsetInEndSection": 1015, 
+            "text": "Nanog, a positive regulator of ESC proliferation and G1/S transition", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22315219", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Nanog is a stem cell transcription factor required for self-renewal and for maintaining pluripotency", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20962578", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 33, 
+            "text": "NANOG regulates glioma stem cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20581802", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 519, 
+            "offsetInEndSection": 626, 
+            "text": "We find that NANOG modulates gliomasphere clonogenicity, CD133(+) stem cell cell behavior and proliferation", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20581802", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 789, 
+            "offsetInEndSection": 831, 
+            "text": "NANOG is essential for GBM tumourigenicity", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20581802", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 46, 
+            "text": "Nanog regulates primordial germ cell migration", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20578184", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1274, 
+            "offsetInEndSection": 1334, 
+            "text": "Nanog mediates PGC migration by regulating Cxcr4b expression", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20578184", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 60, 
+            "text": "Nanog regulates proliferation during early fish development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19544407", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 693, 
+            "offsetInEndSection": 777, 
+            "text": "Nanog is necessary for S-phase transition and proliferation in the developing embryo", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19544407", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1137, 
+            "offsetInEndSection": 1293, 
+            "text": "our results demonstrate that NANOG, a cell-fate regulatory molecule known to be important for ESC self-renewal, also plays a novel role in tumor development", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19415763", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 25, 
+            "offsetInEndSection": 86, 
+            "text": "the self-renewal gene NANOG regulates human tumor development", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19415763", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 936, 
+            "offsetInEndSection": 1134, 
+            "text": "The emerging picture is one in which Oct4 and Nanog control a cascade of pathways that are intricately connected to govern pluripotency, self-renewal, genome surveillance and cell fate determination", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16518401", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 58, 
+            "offsetInEndSection": 98, 
+            "text": "the pluripotency sustaining factor nanog", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14728807", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "body": "What is the role of photodynamic therapy for meningioma treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8384325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10327048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23465372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1984490", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8672259", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1388826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2176016", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21073472", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16788926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24486853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2855780"
+    ], 
+    "ideal_answer": [
+        "Photodynamic therapy was shown to have activity againt meningioma treatment. Gefitinib and ciprofloxacin enhance efficacy of photodynamic therapy."
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3565", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008579", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812"
+    ], 
+    "type": "summary", 
+    "id": "56c097deef6e394741000027", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1221, 
+            "offsetInEndSection": 1382, 
+            "text": "CONCLUSIONS: Efficacy of 5-ALA PDT could be increased by adjunction of ciprofloxacin in conventional clinical dosing and by prolongation of ALA incubation time. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24486853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1023, 
+            "offsetInEndSection": 1187, 
+            "text": "CONCLUSION: Gefitinib can inhibit ABCG2-mediated PpIX efflux from malignant brain tumor cells to increase the intracellular PpIX and thereby enhance the PDT effect.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23465372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1528, 
+            "offsetInEndSection": 1630, 
+            "text": "CONCLUSION: ALA-PDT was more effective in killing U-105MG glioma cells than CH-157MN meningioma cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10327048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1726, 
+            "offsetInEndSection": 1889, 
+            "text": "These data indicate unique features of AlPc which suggests its application as a potent, non-toxic photosensitizer in the photodynamic therapy of human meningiomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8672259", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Photodynamic therapy is being investigated as an adjuvant treatment for intracranial neoplasms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8384325", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 563, 
+            "offsetInEndSection": 735, 
+            "text": "It was found that PDT using haematoporphyrin derivative as a photosensitizing drug showed dose-dependent activity against a variety of histological subtypes of meningioma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1388826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Photodynamic therapy is a promising treatment for human brain tumors because of the selective retention of certain compounds by tumor cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1984490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Susceptibility to 5-aminolevulinic acid based photodynamic therapy in WHO I meningioma cells corresponds to ferrochelatase activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21073472", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1175, 
+            "offsetInEndSection": 1425, 
+            "text": "We conclude that differences in intracellular PpIX concentrations between HBL-52 and BEN-MEN-1 benign meningioma cells were mainly due to differences in FECH activity and that these differences correspond to their susceptibility to 5-ALA-induced PDT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21073472", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 626, 
+            "text": "Photodynamic therapy (PDT) has been employed in the management of recurrent cerebral gliomas but its activity against meningiomas has not been specifically studied.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1388826", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Enhancing the effect of 5-aminolevulinic acid based photodynamic therapy in human meningioma cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24486853", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "An in vitro study of the effect of photodynamic therapy on human meningiomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1388826", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 465, 
+            "text": "Photodynamic therapy (PDT) has been employed in the management of recurrent cerebral gliomas but its activity against meningiomas has not been specifically studied. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1388826", 
+            "endSection": "abstract"
+        }
+    ]
+}

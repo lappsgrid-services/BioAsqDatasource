@@ -1,0 +1,115 @@
+{
+    "body": "In which phase of the cell cycle arrest is impaired in Fanconi anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9414295", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14988723", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9650445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11749045"
+    ], 
+    "ideal_answer": [
+        "In response to damage induced by DNA cross-linking agents, the S-phase checkpoint is inefficient in Fanconi anemia (FA) cells, leading to accumulation of secondary lesions, such as single- and double-strand breaks and gaps. The prolonged time in G2 phase seen in FA cells therefore exists in order to allow the cells to remove lesions which accumulated during the preceding abnormal S phase."
+    ], 
+    "exact_answer": [
+        "In Fanconi anemia cells, the S-phase checkpoint is inefficient."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051856", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007050", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059447", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022403"
+    ], 
+    "type": "factoid", 
+    "id": "54ede8c594afd61504000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 538, 
+            "offsetInEndSection": 850, 
+            "text": "We found that ICLs activate a branched pathway downstream of the ATR kinase: one branch depending on CHK1 activity and the other on the FANCs-RMN complex. The transient slow-down of DNA synthesis was abolished in cells lacking ATR, whereas CHK1-siRNA-treated cells, NBS1 or FA cells showed partial S-phase arrest", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14988723", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Arrest of S-phase progression is impaired in Fanconi anemia cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Fanconi anemia (FA) is an inherited cancer-susceptibility disorder, characterized by genomic instability, hypersensitivity to DNA cross-linking agents, and a prolonged G2 phase of the cell cycle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 196, 
+            "offsetInEndSection": 374, 
+            "text": "We observed a marked dose-dependent accumulation of FA cells in the G2 compartment after treatment with 4,5',8-trimethylpsoralen (Me(3)Pso) in combination with 365 nm irradiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 664, 
+            "offsetInEndSection": 1090, 
+            "text": "Taken together, the above data suggest that, in response to damage induced by DNA cross-linking agents, the S-phase checkpoint is inefficient in FA cells. This would lead to accumulation of secondary lesions, such as single- and double-strand breaks and gaps. The prolonged time in G2 phase seen in FA cells therefore exists in order to allow the cells to remove lesions which accumulated during the preceding abnormal S phase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "Fanconi anemia (FA) is a genetic disorder defined by cellular hypersensitivity to DNA cross-linking agents, such as mitomycin C (MMC). MMC causes increased FA cell death, chromosome breakage, and accumulation in the G2 phase of the cell cycle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9650445", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "DNA cross-linker-induced G2/M arrest in group C Fanconi anemia lymphoblasts reflects normal checkpoint function", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9414295", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Cells from individuals with Fanconi anemia (FA) arrest excessively in the G2/M cell cycle compartment after exposure to low doses of DNA cross-linking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9414295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1515, 
+            "offsetInEndSection": 1871, 
+            "text": "Based on these studies we conclude that the aberrant G2/M arrest that typifies the response of FA(C) cells to low doses of cross-linking agents does not represent an abnormal cell cycle response but instead represents a normal cellular response to the excessive DNA damage that results in FA(C) cells following exposure to low doses of cross-linking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9414295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Arrest of S-phase progression is impaired in Fanconi anemia cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11035915", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "The 4N cell cycle delay in Fanconi anemia reflects growth arrest in late S phase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11749045", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "body": "Do A-type lamins bind euchromatin or heterochromatin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11953316", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18497856", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22713752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20130288", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24153156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19141474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3497271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7172763"
+    ], 
+    "ideal_answer": [
+        "These data reveal that the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(\u03948-11/\u03948-11) mice", 
+        "Comparative genomic hybridization (CGH) analyses of microdissected blebs, fluorescence in situ hybridization (FISH), and immunofluorescence localization of modified histones demonstrate that gene-rich euchromatin associates with the LA/C blebs. On the other hand, the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(\u03948-11/\u03948-11) mice"
+    ], 
+    "exact_answer": [
+        "Both euchromatin and heterochromatin"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0000792", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D022041", 
+        "http://amigo.geneontology.org/amigo/term/GO:0005521", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006570", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000791", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D034882", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D034904"
+    ], 
+    "type": "factoid", 
+    "id": "570917bccf1c325851000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1243, 
+            "offsetInEndSection": 1538, 
+            "text": "These data reveal that the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(\u03948-11/\u03948-11) mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24153156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 850, 
+            "offsetInEndSection": 1031, 
+            "text": "Lmna(\u03949/\u03949) MEFs exhibit telomere shortening and heterochromatin alterations but do not activate cathepsin L-mediated degradation of 53BP1 and maintain expression of BRCA1 and RAD51", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24153156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Lamin A \u0394exon9 mutation leads to telomere and chromatin defects but not genomic instability", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24153156", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Caspase-6 gene disruption reveals a requirement for lamin A cleavage in apoptotic chromatin condensation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11953316", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "The A- and B-type nuclear lamin networks: microdomains involved in chromatin organization and transcription.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19141474", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 667, 
+            "offsetInEndSection": 910, 
+            "text": "Comparative genomic hybridization (CGH) analyses of microdissected blebs, fluorescence in situ hybridization (FISH), and immunofluorescence localization of modified histones demonstrate that gene-rich euchromatin associates with the LA/C blebs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19141474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 103, 
+            "text": "Lamin A/C, caspase-6, and chromatin configuration during meiosis resumption in the mouse oocyte", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20130288", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 678, 
+            "offsetInEndSection": 862, 
+            "text": "Our results demonstrated that these proteins were always present and that their distributions were related to oocyte maturity, determined by chromatin configuration and oocyte diameter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20130288", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 728, 
+            "text": "Histone acetylation controls, almost exclusively, euchromatin protein dynamics; lamin A expression regulates heterochromatin protein dynamics, and G9a regulates both euchromatin and heterochromatin protein dynamics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22713752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 940, 
+            "text": "Histone acetylation controls, almost exclusively, euchromatin protein dynamics; lamin A expression regulates heterochromatin protein dynamics, and G9a regulates both euchromatin and heterochromatin protein dynamics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22713752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1215, 
+            "offsetInEndSection": 1414, 
+            "text": "Other proteins that reversibly interact with DNA, such as the lamins and nuclear pores, may have a role in the organization of DNA into transcribable euchromatin and nontranscribable heterochromatin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3497271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 514, 
+            "offsetInEndSection": 729, 
+            "text": "Histone acetylation controls, almost exclusively, euchromatin protein dynamics; lamin A expression regulates heterochromatin protein dynamics, and G9a regulates both euchromatin and heterochromatin protein dynamics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22713752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1024, 
+            "offsetInEndSection": 1223, 
+            "text": "Other proteins that reversibly interact with DNA, such as the lamins and nuclear pores, may have a role in the organization of DNA into transcribable euchromatin and nontranscribable heterochromatin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3497271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Role for A-type lamins in herpesviral DNA targeting and heterochromatin modulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18497856", 
+            "endSection": "title"
+        }
+    ]
+}

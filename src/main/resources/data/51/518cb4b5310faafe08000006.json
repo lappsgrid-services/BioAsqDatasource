@@ -1,0 +1,107 @@
+{
+    "body": "Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16910349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2781955", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19675515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9217642", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12727944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16544025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7946779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21135419", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11901034"
+    ], 
+    "ideal_answer": [
+        "Amiodarone-induced thyrotoxicosis treatment includes anti-thyroid drugs and steroid therapy\nRadio Iodine Treatment (RIT) may be a safe and useful method of AIT therapy in patients with low RAIU, in whom other treatment methods are contraindicated.\nLithium is a useful and safe medication for treatment of iodine-induced thyrotoxicosis caused by amiodarone.\nThyrodectomy may be necessary in presence of unresponsiveness to standard medical treatments"
+    ], 
+    "exact_answer": [
+        [
+            "Antithyroid drugs"
+        ], 
+        [
+            "Corticosteroids"
+        ], 
+        [
+            "Lithium"
+        ], 
+        [
+            "Radioiodine"
+        ]
+    ], 
+    "type": "list", 
+    "id": "518cb4b5310faafe08000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1462, 
+            "offsetInEndSection": 1517, 
+            "text": "good response to anti-thyroid drugs and steroid therapy", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21135419", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1813, 
+            "offsetInEndSection": 1986, 
+            "text": "The disease course of amiodarone-induced thyrotoxicosis is usually benign and remits with timely administration of anti-thyroid medications, with or without corticosteroids.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21135419", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2852, 
+            "offsetInEndSection": 2982, 
+            "text": "RIT may be a safe and useful method of AIT therapy in patients with low RAIU, in whom other treatment methods are contraindicated.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19675515", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 144, 
+            "offsetInEndSection": 262, 
+            "text": "Treatment consists in the use of a high dose of anti-thyroid drugs and steroids in an isolated form or in combination.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16544025", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 818, 
+            "offsetInEndSection": 968, 
+            "text": "the addition of lithium carbonate to the two other drugs resulted in a successful and safety therapy in controlling amiodarone-induced thyrotoxicosis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16544025", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1583, 
+            "offsetInEndSection": 1691, 
+            "text": "lithium is a useful and safe medication for treatment of iodine-induced thyrotoxicosis caused by amiodarone.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9217642", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Two patients with amiodarone-induced thyrotoxicosis were treated successfully with potassium perchlorate and carbimazole while treatment with amiodarone was continued.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7946779", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 365, 
+            "offsetInEndSection": 545, 
+            "text": "Amiodarone-induced thyrotoxicosis seems to be a transient condition that can be treated successfully with a short course of antithyroid drugs without stopping amiodarone treatment.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7946779", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 551, 
+            "offsetInEndSection": 643, 
+            "text": "Both patients were successfully treated with propylthiouracil (PTU) and dexamethasone (DXT).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2781955", 
+            "endSection": "sections.0"
+        }
+    ]
+}

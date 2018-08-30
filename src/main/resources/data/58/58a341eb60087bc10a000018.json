@@ -1,0 +1,169 @@
+{
+    "body": "Do statins cause diabetes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26806344", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25245638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24404512", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26597211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25208056", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22845189", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24373206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25939296", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24874977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23704171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23496027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25312577", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26437128", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22658337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26466221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17496714"
+    ], 
+    "ideal_answer": [
+        "The relationship between T2DM and statins is further complicated since these drugs can cause new onset diabetes (NOD) although there is an overall benefit in terms of preventing vascular events.", 
+        "Statin use has been associated with increased risk of developing type 2 diabetes (T2DM), and with impaired glycemic control in T2DM patients"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003924"
+    ], 
+    "type": "yesno", 
+    "id": "58a341eb60087bc10a000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 6, 
+            "offsetInEndSection": 146, 
+            "text": "Statin use has been associated with increased risk of developing type 2 diabetes (T2DM), and with impaired glycemic control in T2DM patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26597211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 530, 
+            "text": "The relationship between T2DM and statins is further complicated since these drugs can cause new onset diabetes (NOD) although there is an overall benefit in terms of preventing vascular events ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26806344", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 248, 
+            "text": "It has been repeatedly reported that statins may cause new-onset diabetes mellitus (DM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25312577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 230, 
+            "text": "However, a small, but significant risk of new-onset diabetes has been reported in patients treated with statins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23496027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 348, 
+            "text": "The National Lipid Association (NLA) Statin Diabetes Safety Task Force concluded that the cardiovascular benefit of statin therapy outweighs the risk for developing diabetes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25939296", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 149, 
+            "offsetInEndSection": 236, 
+            "text": "It has been repeatedly reported that statins may cause new-onset diabetes mellitus (DM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25312577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 378, 
+            "text": "It has been repeatedly reported that statins may cause new-onset diabetes mellitus (DM). However, limited evidence exists from direct head to head comparisons of statins on whether the risk of DM differs among statins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25312577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Short-term statin exposure is associated with reduced all-cause mortality in persons with diabetes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17496714", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 702, 
+            "offsetInEndSection": 937, 
+            "text": "Despite the fact that higher statin doses are more likely to lead to new-onset diabetes, for every case of diabetes caused, there are approximately three cardiovascular events reduced with high dose versus moderate dose statin therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24373206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 149, 
+            "offsetInEndSection": 237, 
+            "text": "It has been repeatedly reported that statins may cause new-onset diabetes mellitus (DM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25312577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 13, 
+            "offsetInEndSection": 186, 
+            "text": " Statins are evidence-based drugs to prevent cardiovascular (CV) disease. However, their benefits have been disputed by a statin-related increased risk of new onset diabetes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26437128", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1929, 
+            "offsetInEndSection": 2101, 
+            "text": " Compared with pravastatin, treatment with higher potency statins, especially atorvastatin and simvastatin, might be associated with an increased risk of new onset diabetes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1339, 
+            "offsetInEndSection": 1456, 
+            "text": " statins are associated with a small increase in incidence of diabetes in patients predisposed to glycemic alteration", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26466221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1542, 
+            "offsetInEndSection": 1748, 
+            "text": " Higher potency statin use is associated with a moderate increase in the risk of new onset diabetes compared with lower potency statins in patients treated for secondary prevention of cardiovascular disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24874977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1600, 
+            "offsetInEndSection": 1732, 
+            "text": "An increased risk of new onset treated diabetes was found in those treated with statins showing significant duration and dose effect", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22845189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1564, 
+            "text": "Although most of the clinical studies suggest a worsening of insulin resistance and secretion, the cardiovascular benefits of statin therapy outweigh the risk of developing insulin resistance, thus the data suggest the need to treat dyslipidemia and to make patients aware of the possible risk of developing type 2 diabetes or, if they already are diabetic, of worsening their metabolic control", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25208056", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1217, 
+            "offsetInEndSection": 1318, 
+            "text": "Statin therapy can slightly increase risk of incident diabetes in subjects with hypercholesterolemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27652354", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "body": "Is RET the major gene involved in Hirschsprung disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12865274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22574178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16816022", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22131258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23400839", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17108762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16986122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23372769", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9727738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16877807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16441254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22584707", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16448984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10790203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20598273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22344793", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17397038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21995290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18285831", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17965226", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7883791"
+    ], 
+    "ideal_answer": [
+        "The RET proto-oncogene is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology.", 
+        "RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology  "
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:10487", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006627", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051096"
+    ], 
+    "type": "yesno", 
+    "id": "5503121de9bde69634000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 477, 
+            "text": "The RET proto-oncogene is the major gene associated to HSCR with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23372769", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 282, 
+            "offsetInEndSection": 465, 
+            "text": "The RET proto-oncogene is the major gene for HSCR with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22574178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 238, 
+            "text": "The rearranged during transfection gene (RET) is considered the major gene in HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22131258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 209, 
+            "text": "RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21995290", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 640, 
+            "offsetInEndSection": 988, 
+            "text": "While all Mendelian modes of inheritance have been described in syndromic HSCR, isolated HSCR stands as a model for genetic disorders with complex patterns of inheritance. The tyrosine kinase receptor RET is the major gene with both rare coding sequence mutations and/or a frequent variant located in an enhancer element predisposing to the disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17965226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 545, 
+            "text": " The rearranged during transfection (RET) proto-oncogene is the major susceptibility gene for Hirschsprung disease, and germline mutations in RET have been reported in up to 50% of the inherited forms of Hirschsprung disease and in 15-20% of sporadic cases of Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22584707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "The RET proto-oncogene is the major gene involved in the complex genetics of Hirschsprung disease (HSCR), or aganglionic megacolon, showing causative loss-of-function mutations in 15-30% of the sporadic cases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16441254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "The major gene for Hirschsprung disease (HSCR) encodes the receptor tyrosine kinase RET.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20598273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "The RET proto-oncogene is considered to be the major susceptibility gene involved in Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17108762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 390, 
+            "text": " Hirschsprung disease (HSCR), a developmental disorder characterized by the absence of enteric neurons in distal segments of the gut, shows a complex pattern of inheritance, with the RET protooncogene acting as a major gene and additional susceptibility loci playing minor roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16986122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 334, 
+            "text": " Traditional RET germline mutations account for a small subset of Hirschsprung disease patients, but several studies have shown that there is a specific haplotype of RET associated with the sporadic forms of Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17108762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "PURPOSE: The RET proto-oncogene is considered to be the major susceptibility gene involved in Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17108762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "The RET proto-oncogene is the major gene involved in the pathogenesis of Hirschsprung (HSCR), a complex genetic disease characterized by lack of ganglia along variable lengths of the gut.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16448984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 437, 
+            "text": "While rare variants (RVs) in the coding sequence (CDS) of several genes involved in ENS development lead to disease, the association of common variants (CVs) with HSCR has only been reported for RET (the major HSCR gene) and NRG1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400839", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 547, 
+            "text": "The rearranged during transfection (RET) proto-oncogene is the major susceptibility gene for Hirschsprung disease, and germline mutations in RET have been reported in up to 50% of the inherited forms of Hirschsprung disease and in 15-20% of sporadic cases of Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22584707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 413, 
+            "text": "The major gene for Hirschsprung disease (HSCR) encodes the receptor tyrosine kinase RET. In a study of 690 European- and 192 Chinese-descent probands and their parents or controls, we demonstrate the ubiquity of a >4-fold susceptibility from a C-->T allele (rs2435357: p = 3.9 x 10(-43) in European ancestry; p = 1.1 x 10(-21) in Chinese samples) that probably arose once within the intronic RET enhancer MCS+9.7.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20598273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 391, 
+            "text": "Hirschsprung disease (HSCR), a developmental disorder characterized by the absence of enteric neurons in distal segments of the gut, shows a complex pattern of inheritance, with the RET protooncogene acting as a major gene and additional susceptibility loci playing minor roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16986122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "BACKGROUND: The RET gene encodes a tyrosine kinase receptor involved in different human neurocristopathies, such as specific neuroendocrine tumours and Hirschsprung disease (HSCR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12865274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 539, 
+            "text": "The first major susceptibility gene for Hirschsprung disease is the RET proto-oncogene on 10q11.2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9727738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 883, 
+            "text": "The developmental abnormalities apparent in these mice, together with the observation that the major tissues affected in MEN 2 and Hirschsprung disease have a common origin in the embryonal neural crest, suggest that RET encodes a receptor for a developmental regulator involved in the genesis of a variety of neural crest derivatives, and in the organogenesis of the kidney.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7883791", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 213, 
+            "text": "RET is the major gene involved in HSCR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 221, 
+            "text": "Recent advances show that the RET gene is a major locus involved in the pathogenesis of HSCR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16877807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 612, 
+            "text": "Although with several genes involved in its pathogenesis, the major HSCR gene is the RET proto-oncogene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22344793", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 285, 
+            "text": "In this model, a major gene, RET, is involved in most if not all cases of isolated (i.e., nonsyndromic) HSCR, in conjunction with other autosomal susceptibility loci under a multiplicative model.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17397038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 186, 
+            "text": "The RET proto-oncogene is the major gene involved in the pathogenesis of Hirschsprung (HSCR), a complex genetic disease characterized by lack of ganglia along variable lengths of the gut", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16448984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "The RET proto-oncogene is the major gene involved in the complex genetics of Hirschsprung disease (HSCR), or aganglionic megacolon, showing causative loss-of-function mutations in 15-30% of the sporadic cases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16441254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "The RET proto-oncogene is considered to be the major susceptibility gene involved in Hirschsprung disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17108762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 402, 
+            "text": "Analysis of the RET gene, the major gene involved in HSCR susceptibility, revealed neither linkage nor mutations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16816022", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 212, 
+            "text": "RET is the major gene involved in HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 611, 
+            "text": "Although with several genes involved in its pathogenesis, the major HSCR gene is the RET proto-oncogene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22344793", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 436, 
+            "text": "While rare variants (RVs) in the coding sequence (CDS) of several genes involved in ENS development lead to disease, the association of common variants (CVs) with HSCR has only been reported for RET (the major HSCR gene) and NRG1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400839", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 546, 
+            "text": "The rearranged during transfection (RET) proto-oncogene is the major susceptibility gene for Hirschsprung disease, and germline mutations in RET have been reported in up to 50% of the inherited forms of Hirschsprung disease and in 15-20% of sporadic cases of Hirschsprung disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22584707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 220, 
+            "text": "Recent advances show that the RET gene is a major locus involved in the pathogenesis of HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16877807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 284, 
+            "text": "In this model, a major gene, RET, is involved in most if not all cases of isolated (i.e., nonsyndromic) HSCR, in conjunction with other autosomal susceptibility loci under a multiplicative model", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17397038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "We report on mutation analysis of five genes involved in the receptor tyrosine kinase (RET) or the endothelin-signalling pathways in 28 sporadic Japanese patients with Hirschsprung disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1287, 
+            "offsetInEndSection": 1465, 
+            "text": "In addition to mutations in the RET and EDNRB genes, embryonic environmental factors and/or other genetic factors appear to be involved in the development of Hirschsprung disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 184, 
+            "offsetInEndSection": 353, 
+            "text": "The RET gene is the major HSCR gene, although reduced penetrance of RET mutations and variable expression of HSCR phenotype indicates that more than one gene is required", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18285831", 
+            "endSection": "abstract"
+        }
+    ]
+}

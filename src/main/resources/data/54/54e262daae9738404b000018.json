@@ -1,0 +1,142 @@
+{
+    "body": "Which cell type has the protein Chromogranin A as marker?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25532001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25294372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25294889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25394660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24888775", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24897131", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25177680", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25099181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25220535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25501094"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/P33716", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503333373136007", 
+            "o": "Chromogranin-A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P33716", 
+            "o": "http://linkedlifedata.com/resource/#_503333373136007"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/P33716", 
+            "o": "http://purl.uniprot.org/keywords/964"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/964", 
+            "o": "Secreted"
+        }
+    ], 
+    "ideal_answer": [
+        "Chromogranin A is a marker for neuroendocrine cells"
+    ], 
+    "exact_answer": [
+        "neuroendocrine cells"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CMGA_BOVIN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000943", 
+        "http://www.biosemantics.org/jochem#4266983", 
+        "http://www.biosemantics.org/jochem#4262122", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053379", 
+        "http://www.biosemantics.org/jochem#4218257", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002864", 
+        "http://www.uniprot.org/uniprot/CMGA_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "54e262daae9738404b000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 562, 
+            "offsetInEndSection": 642, 
+            "text": "Neuroendocrine differentiation (chromogranin A and/or synaptophysin positivity) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25294889", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1029, 
+            "offsetInEndSection": 1093, 
+            "text": "All paragangliomas were universally positive for chromogranin A ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25294372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 92, 
+            "text": "chromogranin A (CGA) is a useful marker for pancreatic neuroendocrine tumors (pNET)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25220535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Together with Chromogranin B and Secretogranins, Chromogranin A (CGA) is stored in secretory (chromaffin) granules of the diffuse neuroendocrine system", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25177680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 21, 
+            "offsetInEndSection": 168, 
+            "text": "Chromogranin A (CgA) is the most important general tumour marker used in the diagnosis and follow-up of patients with neuroendocrine tumours (NET).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25532001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Chromogranin A (CgA) not only plays an important role in pathologic diagnosis, but is also used as a circulating biomarker in patients with gastroenteropancreatic neuroendocrine neoplasm (GEP-NEN).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25501094", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1206, 
+            "offsetInEndSection": 1274, 
+            "text": "numbers of chromogranin A (CHGA)-positive enteroendocrine cells (EEC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25394660", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1761, 
+            "offsetInEndSection": 1816, 
+            "text": " CgA is a reliable serum diagnostic biomarker for PNETs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25099181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 81, 
+            "offsetInEndSection": 186, 
+            "text": "Chromogranin A (CgA) was considered as the most practical and useful serum tumor marker in PNET patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25099181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 401, 
+            "offsetInEndSection": 461, 
+            "text": "the neuroendocrine markers chromogranin A and synaptophysin;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24888775", 
+            "endSection": "abstract"
+        }
+    ]
+}

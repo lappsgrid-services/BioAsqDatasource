@@ -1,0 +1,229 @@
+{
+    "body": "Which mechanisms underlie adaptive mutagenesis (stationary-phase mutagenesis) in Bacillus subtilis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22056936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16950921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24914186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12270822", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15375129", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12644484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9308969", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17917870"
+    ], 
+    "ideal_answer": [
+        "Increased transcription levels potentiate adaptive mutagenesis. Central to stationary-phase mutagenesis in B. subtilis is the requirement for Mfd protein (transcription repair coupling factor). The B. subtilis' ability to accumulate chromosomal mutations under conditions of starvation is influenced by cell differentiation and transcriptional derepression, as well as by proteins homologous to transcription and repair factors. Under conditions of nutritional stress, the processing of deaminated bases in B. subtilis may normally occur in an error-prone manner to promote adaptive mutagenesis. A functional RecA protein is not required for adaptive mutagenesis, which seems to be independent of recombination-dependent repair and, in some cases, of the Y DNA polymerases. Oxidative stress-induced DNA damage has been associated with adaptive mutagenesis. The occurrence of such mutations is exacerbated by reactive oxygen species. Starved B. subtilis cells lacking a functional error prevention GO (8-oxo-G) system (composed of YtkD, MutM, and YfhQ) had a dramatic propensity to increase the number of stationary-phase-induced revertants. The MMR (encoded by the mutSL operon) protects B. subtilis from stationary-phase mutations. The MMR modulation of the mutagenic/antimutagenic properties of MutY regulates stationary-phase mutagenesis. Two of the genes that are involved in the regulation of post-exponential phase prokaryotic differentiation, comA and comK, are involved in adaptive mutagenesis. Also, YqjH, a homolog of DinB protein, plays a role in stationary phase mutagenesis."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001412", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060274", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060275"
+    ], 
+    "type": "summary", 
+    "id": "553f5a20ab98a37113000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1508, 
+            "offsetInEndSection": 1674, 
+            "text": "under conditions of nutritional stress, the processing of deaminated bases in B. subtilis may normally occur in an error-prone manner to promote adaptive mutagenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22056936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1361, 
+            "offsetInEndSection": 1595, 
+            "text": "the B. subtilis' ability to accumulate chromosomal mutations under conditions of starvation is influenced by cell differentiation and transcriptional derepression, as well as by proteins homologous to transcription and repair factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17917870", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 703, 
+            "offsetInEndSection": 775, 
+            "text": "the loss of Mfd has a depressive effect on stationary-phase mutagenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16950921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 861, 
+            "offsetInEndSection": 1152, 
+            "text": "In Bacillus subtilis, transcription-associated mutagenesis has been shown to be independent of recombination-dependent repair and, in some cases, of the Y DNA polymerases. Central to stationary-phase mutagenesis in B. subtilis is the requirement for Mfd, transcription coupling repair factor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 360, 
+            "text": "Oxidative stress-induced DNA damage has been associated with generation of adaptive His(+) and Met(+) but not Leu(+) revertants in strain Bacillus subtilis YB955", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 542, 
+            "text": "an interplay between MutY and MutSL (mismatch repair system [MMR]) plays a pivotal role in the production of adaptive Leu(+) revertants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1341, 
+            "offsetInEndSection": 1465, 
+            "text": "MMR regulation of the mutagenic/antimutagenic properties of MutY promotes stationary-phase mutagenesis in B. subtilis cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 976, 
+            "text": "To further examine the correlation between transcription and adaptive mutation, we placed a point-mutated allele, leuC427, under the control of an inducible promoter and assayed the level of reversion to leucine prototrophy under conditions of leucine starvation. Our results demonstrate that the level of Leu(+) reversions increased significantly in parallel with the induced increase in transcription levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 29, 
+            "offsetInEndSection": 181, 
+            "text": "a Bacillus subtilis strain deficient in mismatch repair (MMR; encoded by the mutSL operon) promoted the production of stationary-phase-induced mutations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 491, 
+            "offsetInEndSection": 698, 
+            "text": "starved B. subtilis cells lacking a functional error prevention GO (8-oxo-G) system (composed of YtkD, MutM, and YfhQ) had a dramatic propensity to increase the number of stationary-phase-induced revertants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 735, 
+            "offsetInEndSection": 870, 
+            "text": "the occurrence of mutations is exacerbated by reactive oxygen species in nondividing cells of B. subtilis having an inactive GO system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1194, 
+            "offsetInEndSection": 1324, 
+            "text": "the absence or depression of both the MMR and GO systems contributes to the production of stationary-phase mutants in B. subtilis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1374, 
+            "offsetInEndSection": 1545, 
+            "text": "oxidative stress is a mechanism that generates genetic diversity in starved cells of B. subtilis, promoting stationary-phase-induced mutagenesis in this soil microorganism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 434, 
+            "text": "this type of mutagenesis is subject to regulation involving at least two of the genes that are involved in the regulation of post-exponential phase prokaryotic differentiation, i.e., comA and comK.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12270822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 454, 
+            "offsetInEndSection": 526, 
+            "text": "a functional RecA protein was not required for this type of mutagenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12270822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 876, 
+            "offsetInEndSection": 992, 
+            "text": "These data suggest a role for YqjH in the generation of at least some types of stationary-phase-induced mutagenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12644484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Error-prone processing of apurinic/apyrimidinic (AP) sites by PolX underlies a novel mechanism that promotes adaptive mutagenesis in Bacillus subtilis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24914186", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Roles of YqjH and YqjW, homologs of the Escherichia coli UmuC/DinB or Y superfamily of DNA polymerases, in stationary-phase mutagenesis and UV-induced mutagenesis of Bacillus subtilis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12644484", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Mismatch repair modulation of MutY activity drives Bacillus subtilis stationary-phase mutagenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20971907", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Novel role of mfd: effects on stationary-phase mutagenesis in Bacillus subtilis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16950921", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Defects in the error prevention oxidized guanine system potentiate stationary-phase mutagenesis in Bacillus subtilis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1033, 
+            "offsetInEndSection": 1231, 
+            "text": "Central to stationary-phase mutagenesis in B. subtilis is the requirement for Mfd, transcription coupling repair factor, which suggests a novel mechanism from those described in other model systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1325, 
+            "offsetInEndSection": 1546, 
+            "text": "In conclusion, our results support the idea that oxidative stress is a mechanism that generates genetic diversity in starved cells of B. subtilis, promoting stationary-phase-induced mutagenesis in this soil microorganism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Previous studies showed that a Bacillus subtilis strain deficient in mismatch repair (MMR; encoded by the mutSL operon) promoted the production of stationary-phase-induced mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1284, 
+            "offsetInEndSection": 1445, 
+            "text": "subtilis can be generated through a novel mechanism mediated by error-prone processing of AP sites accumulated in the stationary phase by the PolX DNA polymerase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24914186", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "body": "What is Path2PPI?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26733452"
+    ], 
+    "ideal_answer": [
+        "Path2PPI is an R package to identify protein-protein interaction (PPI) networks for fully sequenced organisms for which nearly none PPI are known. Path2PPI predicts PPI networks based on sets of proteins from well-established model organisms, providing an intuitive visualization and usability. It can be used to combine and transfer information of a certain pathway or biological process from several reference organisms to one target organism."
+    ], 
+    "type": "summary", 
+    "id": "587e2a0cc32c812009000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Path2PPI: an R package to predict protein-protein interaction networks for a set of proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26733452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 473, 
+            "text": "We introduce Path2PPI, a new R package to identify protein-protein interaction (PPI) networks for fully sequenced organisms for which nearly none PPI are known. Path2PPI predicts PPI networks based on sets of proteins from well-established model organisms, providing an intuitive visualization and usability. It can be used to combine and transfer information of a certain pathway or biological process from several reference organisms to one target organism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26733452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": ": We introduce Path2PPI, a new R package to identify protein-protein interaction (PPI) networks for fully sequenced organisms for which nearly none PPI are known.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26733452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 310, 
+            "text": "Path2PPI predicts PPI networks based on sets of proteins from well-established model organisms, providing an intuitive visualization and usability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26733452", 
+            "endSection": "abstract"
+        }
+    ]
+}

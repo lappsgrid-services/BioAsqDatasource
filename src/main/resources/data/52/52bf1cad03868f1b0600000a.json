@@ -1,0 +1,157 @@
+{
+    "body": "Which virus is Cidofovir (Vistide) indicated for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19725597", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9814660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11772283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11154213"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10493715", 
+            "o": "RXNORM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10493715", 
+            "o": "Cidofovir Injectable Solution"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1251348", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10493715"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1251348", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10493715"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10493715", 
+            "o": "377136"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1236858", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1251348"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1236858", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10660704"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10660704", 
+            "o": "Cidofovir Injectable Solution [Vistide]"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10660704", 
+            "o": "362931"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1751684", 
+            "o": "J0740"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1751684", 
+            "o": "INJECTION, CIDOFOVIR, 375 MG"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0520139", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1751684"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10418206", 
+            "o": "RXNORM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0984907", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10418206"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10418206", 
+            "o": "Cidofovir 75 MG/ML"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1751684", 
+            "o": "HCPCS"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10725904", 
+            "o": "571699"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1605899", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10725904"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10725904", 
+            "o": "Cidofovir 75 MG/ML [Vistide]"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10660704", 
+            "o": "RXNORM"
+        }
+    ], 
+    "ideal_answer": [
+        "Cidofovir is commonly used in the treatment of cytomegalovirus (CMV) infection and disease."
+    ], 
+    "exact_answer": [
+        "cytomegalovirus"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4236374", 
+        "http://www.biosemantics.org/jochem#4261248"
+    ], 
+    "type": "factoid", 
+    "id": "52bf1cad03868f1b0600000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 457, 
+            "text": "Currently, there are four antivirals available that are active against CMV: ganciclovir, valganciclovir, foscarnet, and cidofovir. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19725597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 598, 
+            "offsetInEndSection": 731, 
+            "text": "At present, the antiviral drugs ganciclovir, foscarnet and cidofovir are commonly used in the treatment of CMV infection and disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11772283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1245, 
+            "offsetInEndSection": 1360, 
+            "text": "Cidofovir can be considered as second-line therapy in patients with CMV disease failing previous antiviral therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11154213", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1042, 
+            "offsetInEndSection": 1128, 
+            "text": "dditional drugs like lobucavir and cidofovir have been used for specific indications. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9814660", 
+            "endSection": "abstract"
+        }
+    ]
+}

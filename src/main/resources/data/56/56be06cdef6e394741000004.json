@@ -1,0 +1,72 @@
+{
+    "body": "List symptoms of congenital toxoplasmosis triad.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19744303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25547178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7193392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2089735"
+    ], 
+    "ideal_answer": [
+        "Classic triad of toxoplasmosis include hydrocephalus, cerebral calcification and chorioretinitis."
+    ], 
+    "exact_answer": [
+        [
+            "hydrocephalus"
+        ], 
+        [
+            "cerebral calcification"
+        ], 
+        [
+            "chorioretinitis"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014125", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13336", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012816"
+    ], 
+    "type": "list", 
+    "id": "56be06cdef6e394741000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 844, 
+            "offsetInEndSection": 1011, 
+            "text": "Most patients had systemic manifestations, but only 25% of diagnosed patients exhibited the classic triad of hydrocephalus, cerebral calcification and chorioretinitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25547178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 491, 
+            "text": "The pathogenic potential of T. gondii was recognized in the 1920s and 1930s, in congenitally infected children presenting with the classic triad of symptoms, namely hydrocephalus, retinochoroiditis and encephalitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19744303", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 644, 
+            "offsetInEndSection": 728, 
+            "text": "Intracranial calcifications within the classical triad were only found in two cases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7193392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Congenital toxoplasmosis is characterized by the classical triads: hydrocephaly, chorioretinitis and intracerebral calcifications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2089735", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 844, 
+            "offsetInEndSection": 1012, 
+            "text": "Most patients had systemic manifestations, but only 25% of diagnosed patients exhibited the classic triad of hydrocephalus, cerebral calcification and chorioretinitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25547178", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "body": "Are genes symmetrically distributed between leading and lagging DNA strand in bacteria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20417622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25425232", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23538833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12217498", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24273314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21350489", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15823418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14743977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15942025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19221094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11677621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20600808"
+    ], 
+    "ideal_answer": [
+        "In most bacteria, genes are preferentially encoded on the leading strand than on the lagging strand. This avoids the potentially detrimental head-on collisions that occur between the replication and transcription machineries when genes are encoded on the lagging strand. Head-on collisions are more deleterious than codirectional collisions, and may lead to replication fork arrest and genomic instability. Genes of some functional categories such as ribosome have higher preferences to be on the leading strands, while genes of other functional categories such as transcription factor have higher preferences on the lagging strands. Strand-biased gene distribution correlates with replication-associated purine asymmetry and the presence or absence of polC. Especially essential and highly transcribed genes and genes whose expression is important for fitness are more preferentially situated at the leading strand in bacteria."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006273"
+    ], 
+    "type": "yesno", 
+    "id": "55425615ed966d112c000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 373, 
+            "text": "Genomic DNA is used as the template for both replication and transcription, whose machineries may collide and result in mutagenesis, among other damages. Because head-on collisions are more deleterious than codirectional collisions, genes should be preferentially encoded on the leading strand to avoid head-on collisions, as is observed in most bacterial genomes examined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24273314", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 442, 
+            "text": "Most genes in bacteria are encoded on the leading strand of replication. This presumably avoids the potentially detrimental head-on collisions that occur between the replication and transcription machineries when genes are encoded on the lagging strand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23538833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "The majority of bacterial genes are located on the leading strand", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 555, 
+            "offsetInEndSection": 660, 
+            "text": "genes of some functional categories such as ribosome have higher preferences to be on the leading strands", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 667, 
+            "offsetInEndSection": 778, 
+            "text": "genes of some functional categories such as transcription factor have higher preferences on the lagging strands", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 292, 
+            "text": "essential genes are more preferentially situated at the leading strand than at the lagging strand", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1060, 
+            "offsetInEndSection": 1121, 
+            "text": "remarkable strand-bias of the distribution of essential genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 345, 
+            "text": "Head-on encounters between the replication and transcription machineries on the lagging DNA strand can lead to replication fork arrest and genomic instability. To avoid head-on encounters, most genes, especially essential and highly transcribed genes, are encoded on the leading strand such that transcription and replication are co-directional.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21350489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Replication-associated purine asymmetry may contribute to strand-biased gene distribution.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 170, 
+            "offsetInEndSection": 207, 
+            "text": "strand-biased gene distribution (SGD)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 522, 
+            "text": "SGD correlates not only with polC, but also with purine asymmetry (PAS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "In bacteria, most genes are on the leading strand of replication, a phenomenon attributed to collisions between the DNA and RNA polymerases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15942025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 489, 
+            "offsetInEndSection": 628, 
+            "text": "genes whose expression is important for fitness are selected to the leading strand because this reduces the duration of these interruptions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15942025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Among prokaryotic genomes, the distribution of genes on the leading and lagging strands of the replication fork is known to be biased. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 613, 
+            "offsetInEndSection": 878, 
+            "text": "We show that the evidence they provided is invalid and that the existence of lagging strand encoded genes is explainable by a balance between deleterious mutations that bring genes from the leading to the lagging strand and purifying selection purging such mutants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24273314", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 434, 
+            "text": "Based on those experimentally determined for 10 bacteria, we find that essential genes are more preferentially situated at the leading strand than at the lagging strand, for all the 10 genomes studied, confirming previous findings based on either smaller datasets or putatively assigned ones by homology search.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "The majority of bacterial genes are located on the leading strand, and the percentage of such genes has a large variation across different bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 261, 
+            "text": "Most genes in bacteria are encoded on the leading strand of replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23538833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 712, 
+            "text": "This paradox could be explained by assuming that the stronger mutation pressure and selection after inversion preferentially eliminate genes transferred from the leading to the lagging DNA strand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11677621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 235, 
+            "offsetInEndSection": 515, 
+            "text": "We have shown that the relative number of translocations which have switched positions of genes from the leading to the lagging DNA strand is lower than the number of translocations which have transferred genes from the lagging strand to the leading strand of prokaryotic genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11677621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 260, 
+            "text": "Most genes in bacteria are encoded on the leading strand of replication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23538833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "The majority of bacterial genes are located on the leading strand, and the percentage of such genes has a large variation across different bacteria", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 235, 
+            "offsetInEndSection": 514, 
+            "text": "We have shown that the relative number of translocations which have switched positions of genes from the leading to the lagging DNA strand is lower than the number of translocations which have transferred genes from the lagging strand to the leading strand of prokaryotic genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11677621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 648, 
+            "offsetInEndSection": 921, 
+            "text": "Using Monte Carlo methods, we have simulated, under experimentally determined directional mutation pressure, the divergence rate and the elimination rate of genes depending on their location in respect to the leading/lagging DNA strands in the asymmetric prokaryotic genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15823418", 
+            "endSection": "abstract"
+        }
+    ]
+}

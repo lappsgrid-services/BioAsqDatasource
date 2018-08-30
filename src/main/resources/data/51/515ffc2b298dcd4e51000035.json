@@ -1,0 +1,155 @@
+{
+    "body": "Which species may be used for the biotechnological production of itaconic acid?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23298766", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1366363", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22480369", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22956279", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23397482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22752264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17697977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17451943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20461508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22925689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21324422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23420787", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12146646"
+    ], 
+    "ideal_answer": [
+        "In 1955, the production of itaconic acid was firstly described for Ustilago maydis. Some Aspergillus species, like A. itaconicus and A. terreus, show the ability to synthesize this organic acid and A. terreus can secrete significant amounts to the media. Itaconic acid is mainly supplied by biotechnological processes with the fungus Aspergillus terreus. Cloning of the cadA gene into the citric acid producing fungus A. niger showed that it is possible to produce itaconic acid also in a different host organism."
+    ], 
+    "exact_answer": [
+        [
+            "Aspergillus terreus"
+        ], 
+        [
+            "Aspergillus niger"
+        ], 
+        [
+            "Ustilago maydis"
+        ]
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4276340", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0047370", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0047613", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005656", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001426"
+    ], 
+    "type": "list", 
+    "id": "515ffc2b298dcd4e51000035", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 77, 
+            "text": "continuous itaconic acid production from sucrose with Aspergillus terreus", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1366363", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "A potent itaconic acid producing strain, Aspergillus terreus SKR10, was isolated from horticulture waste", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12146646", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 614, 
+            "text": "Two high itaconic acid yielding mutants, N45 and UNCS1 were obtained by gradient plating", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12146646", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Itaconic acid production using sago starch hydrolysate by Aspergillus terreus TN484-M1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17451943", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 34, 
+            "offsetInEndSection": 110, 
+            "text": "production of itaconic acid and lovastatin by Aspergillus terreus ATCC 20542", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17697977", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "Fermentation products of Aspergillus terreus ATCC 20542 (a parent strain for lovastatin production) were collected, and the coexistence of itaconic acid (IA) with lovastatin was confirmed in this study", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17697977", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Enhancing itaconic acid production by Aspergillus terreus", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20461508", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Aspergillus terreus is successfully used for industrial production of itaconic acid", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20461508", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 250, 
+            "offsetInEndSection": 444, 
+            "text": "From a number of different Aspergillus terreus controlled batch fermentations, those cultures with the largest difference in itaconic acid titer and productivity were selected for mRNA isolation", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21324422", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 335, 
+            "text": "a systematic process optimization was performed with an own isolated strain of Aspergillus terreus", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22752264", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Cells of Aspergillus terreus, free and immobilized in polyurethane foam, were employed in itaconic acid fermentation processes on glycerol-based media.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22956279", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 306, 
+            "text": "current biotechnological production processes with the fungus Aspergillus terreus has to be improved", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23298766", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Reduced by-product formation and modified oxygen availability improve itaconic acid production in Aspergillus niger", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23397482", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 141, 
+            "offsetInEndSection": 303, 
+            "text": "Previously, it was shown that expression of the cis-aconitate decarboxylase gene (cadA) from Aspergillus terreus converted A. niger into an itaconic acid producer", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23397482", 
+            "endSection": "sections.0"
+        }
+    ]
+}

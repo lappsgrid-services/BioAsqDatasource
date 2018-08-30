@@ -1,0 +1,316 @@
+{
+    "body": "Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent, platinum-resistant epithelial ovarian cancer.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22468744", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16804928", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23679284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15839957", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24185383", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16343176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17966166", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18463961", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19469626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23927758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19955917", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18336401", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19901115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12449041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16360545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17938703", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12448655", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10964992"
+    ], 
+    "ideal_answer": [
+        "Gemcitabine is a novel agent that has shown consistent activity as a single agent in the treatment of platinum-resistant ovarian cancer and a favorable toxicity profile. Because of its clinical and preclinical synergism with platinum analogs, gemcitabine has been combined with carboplatin as a convincing approach in the treatment of platinum-sensitive recurrent ovarian cancer patients. Gemcitabine and prolonged oral etoposide have shown reproducible single-agent activity in patients with platinum/paclitaxel-resistant ovarian cancer. The combination of carboplatin and gemcitabine resulted in significantly higher response rates and improved progression-free survival when compared with carboplatin alone. A biweekly schedule of gemcitabine combined with PLD is an active and safe chemotherapy regimen with acceptable and easily manageable toxicities in women with recurrent platinum-resistant ovarian cancer.  Pertuzumab may add activity to gemcitabine for the treatment of platinum-resistant ovarian cancer.  The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer. Gemcitabine plus endostar significantly improved the prognosis in patients with platinum-resistant recurrent ovarian cancer, especially in those with malignant effusion. Though the endostar cohort also improved median OS by 2.1 months, there was no statistically significant difference compared with gemcitabine alone cohort in this case."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4260819", 
+        "http://www.biosemantics.org/jochem#4202605", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2394"
+    ], 
+    "type": "summary", 
+    "id": "553c8fd1f32186855800000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1535, 
+            "offsetInEndSection": 1749, 
+            "text": "Gemcitabine and carboplatin demonstrate moderate toxicity with similar efficacy in both platinum-sensitive and platinum-resistant epithelial ovarian cancer, suggesting reversal of platinum resistance by gemcitabine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "The combination of gemcitabine and carboplatin shows similar efficacy in the treatment of platinum-resistant and platinum-sensitive recurrent epithelial ovarian cancer patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185383", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Gemcitabine-oxaliplatin (GEMOX) as salvage treatment in pretreated epithelial ovarian cancer patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23927758", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1542, 
+            "offsetInEndSection": 1764, 
+            "text": "GEMOX showed encouraging activity and manageable toxicity. Under circumstances requiring a rapid disease control, this combination regimen may offer a particularly viable option, particularly in heavily pretreated patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23927758", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Salvage therapy of gemcitabine plus endostar significantly improves progression-free survival (PFS) with platinum-resistant recurrent epithelial ovarian cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679284", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1031, 
+            "offsetInEndSection": 1199, 
+            "text": "Gemcitabine plus endostar significantly improved the prognosis in patients with platinum-resistant recurrent ovarian cancer, especially in those with malignant effusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 732, 
+            "offsetInEndSection": 899, 
+            "text": "Though the endostar cohort also improved median OS by 2.1 months, there was no statistically significant difference compared with gemcitabine alone cohort in this case", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 125, 
+            "text": "Gemcitabine based combination chemotherapy, a new salvage regimen for recurrent platinum resistant epithelial ovarian cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1069, 
+            "offsetInEndSection": 1258, 
+            "text": "The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1604, 
+            "offsetInEndSection": 1729, 
+            "text": " the combination of gemcitabine and carboplatin is now approved for patients with platinum-sensitive recurrent ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19955917", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Clinical activity of gemcitabine plus pertuzumab in platinum-resistant ovarian cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19901115", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1687, 
+            "offsetInEndSection": 1784, 
+            "text": "Pertuzumab may add activity to gemcitabine for the treatment of platinum-resistant ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19901115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1371, 
+            "offsetInEndSection": 1553, 
+            "text": "The combination of gemcitabine and PLD is an effective and tolerable treatment option, with 74.3 % disease control rate for patients with platinum resistant/refractory ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19469626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 169, 
+            "text": "Both gemcitabine and pegylated liposomal doxorubicin (PLD) are antineoplastic drugs with clinical activity in patients with platinum-resistant ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18463961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1319, 
+            "offsetInEndSection": 1521, 
+            "text": "A biweekly schedule of gemcitabine combined with PLD is an active and safe chemotherapy regimen with acceptable and easily manageable toxicities in women with recurrent platinum-resistant ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18463961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2157, 
+            "offsetInEndSection": 2327, 
+            "text": "the combination of carboplatin and gemcitabine resulted in significantly higher response rates and improved progression-free survival when compared with carboplatin alone", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17938703", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 106, 
+            "offsetInEndSection": 274, 
+            "text": "Gemcitabine is a novel agent that has shown consistent activity as a single agent in the treatment of platinum-resistant ovarian cancer and a favorable toxicity profile", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16343176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 493, 
+            "text": "Because of its clinical and preclinical synergism with platinum analogs, gemcitabine has been combined with carboplatin as a convincing approach in the treatment of platinum-sensitive recurrent ovarian cancer patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16343176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 553, 
+            "text": "Gemcitabine is a new antimetabolite selected for clinical trials based on its activity in preclinical studies. With response rates ranging from 11% to 22% in monotherapy in resistant or platinum refractory diseases, gemcitabine has quickly been shown to be an active agent in the treatment of patients with refractory recurrent ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12449041", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 296, 
+            "text": " Gemcitabine and prolonged oral etoposide have shown reproducible single-agent activity in patients with platinum/paclitaxel-resistant ovarian cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12448655", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1691, 
+            "offsetInEndSection": 1887, 
+            "text": "Gemcitabine combined with platinum chemotherapy appears to be an effective and well-tolerant treatment for recurrent epithelial ovarian cancer, including platinum-resistant or -refractory diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17966166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "[Gemcitabine based combination chemotherapy, a new salvage regimen for recurrent platinum resistant epithelial ovarian cancer].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1506, 
+            "offsetInEndSection": 1722, 
+            "text": "Gemcitabine and carboplatin demonstrate moderate toxicity with similar efficacy in both platinum-sensitive and platinum-resistant epithelial ovarian cancer, suggesting reversal of platinum resistance by gemcitabine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "The combination of gemcitabine and carboplatin shows similar efficacy in the treatment of platinum-resistant and platinum-sensitive recurrent epithelial ovarian cancer patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185383", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Efficacy and toxicity of gemcitabine and pegylated liposomal Doxorubicin in recurrent platinum-resistant/refractory epithelial ovarian cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19469626", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1620, 
+            "offsetInEndSection": 1817, 
+            "text": "Gemcitabine combined with platinum chemotherapy appears to be an effective and well-tolerant treatment for recurrent epithelial ovarian cancer, including platinum-resistant or -refractory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17966166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Salvage therapy of gemcitabine plus endostar significantly improves progression-free survival (PFS) with platinum-resistant recurrent epithelial ovarian cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679284", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1017, 
+            "offsetInEndSection": 1207, 
+            "text": "The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "To evaluate the efficacy and toxicities of gemcitabine combined with ifosfamide and anthracycline chemotherapy for recurrent platinum resistant ovarian epithelial cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "A pilot study evaluating the efficacy and toxicity of biweekly gemcitabine and pegylated liposomal doxorubicin in recurrent platinum-resistant epithelial ovarian cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18463961", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1057, 
+            "offsetInEndSection": 1259, 
+            "text": "CONCLUSION: The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Gemcitabine combined with platinum chemotherapy appears to be an effective and well-tolerant treatment for recurrent epithelial ovarian cancer, including platinum-resistant or -refractory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17966166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21211276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "Gemcitabine combined with oxaliplatin (GEMOX) as salvage treatment in elderly patients with advanced ovarian cancer refractory or resistant to platinum: a single institution experience.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18073158", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1653, 
+            "offsetInEndSection": 1850, 
+            "text": "Gemcitabine combined with platinum chemotherapy appears to be an effective and well-tolerant treatment for recurrent epithelial ovarian cancer, including platinum-resistant or -refractory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17966166", 
+            "endSection": "abstract"
+        }
+    ]
+}

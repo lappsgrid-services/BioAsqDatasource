@@ -1,0 +1,197 @@
+{
+    "body": "Does SCRIB deregulation promote cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21643016", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14767561", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22169974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21965329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24276238", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19041750", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18641685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23730214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21549346"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7659777", 
+            "o": "C36345"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1514542", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7659777"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7659777", 
+            "o": "Protein Deregulation"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, deregulation of scribble promotes cancer."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:162", 
+        "http://www.uniprot.org/uniprot/SCRIB_DANRE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009369", 
+        "http://www.uniprot.org/uniprot/LAP4_DROME"
+    ], 
+    "type": "yesno", 
+    "id": "53314c98d6d3ac6a3400003b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 134, 
+            "offsetInEndSection": 211, 
+            "text": "human homologs of Drosophila dlg, scrib, and lgl are cancer-associated genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14767561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Aberrant overexpression of the cell polarity module scribble in human cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549346", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 140, 
+            "offsetInEndSection": 318, 
+            "text": "we show that Scrib is nearly universally overexpressed in cultured tumor cell lines and genetically disparate cancer patient series compared with matched normal tissues in vivo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 762, 
+            "offsetInEndSection": 939, 
+            "text": "These data uncover a previously unrecognized exploitation of Scrib for aberrant tumor cell motility and invasion, thus potentially contributing to disease progression in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 578, 
+            "offsetInEndSection": 737, 
+            "text": "oss of miR-296 causes aberrantly increased and mislocalized Scrib in human tumors, resulting in exaggerated random cell migration and tumor cell invasiveness. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21643016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 832, 
+            "offsetInEndSection": 904, 
+            "text": "Scrib levels predict tumor relapse in hepatocellular carcinoma patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21643016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 47, 
+            "text": "Scrib heterozygosity predisposes to lung cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24276238", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 754, 
+            "offsetInEndSection": 859, 
+            "text": "loss of Scrib and activated oncogenic KRas cooperate in vivo, resulting in more aggressive lung tumors, l", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24276238", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 463, 
+            "text": "Scribble, a product of a well-known tumor suppressor gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23730214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "CD74-dependent deregulation of the tumor suppressor scribble in human epithelial and breast cancer cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23730214", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 247, 
+            "offsetInEndSection": 358, 
+            "text": " scribble (SCRIB) complexes) is intricately related to advanced stages of tumour progression and invasiveness. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22169974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "SCRIB expression is deregulated in human prostate cancer,", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21965329", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 531, 
+            "offsetInEndSection": 582, 
+            "text": "Scrib heterozygosity initiated prostate hyperplasia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21965329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 984, 
+            "offsetInEndSection": 1153, 
+            "text": "The clinical significance of the work in mice was highlighted by our observation that SCRIB deregulation strongly correlated with poor survival in human prostate cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21965329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 839, 
+            "offsetInEndSection": 1051, 
+            "text": "we demonstrate that scribble inhibits breast cancer formation and that deregulation of polarity pathways promotes dysplastic and neoplastic growth in mammals by disrupting morphogenesis and inhibiting cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19041750", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Deregulation of scribble promotes mammary tumorigenesis and reveals a role for cell polarity in carcinoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19041750", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 743, 
+            "text": "loss of Scribble promotes invasion of cells through extracellular matrix in an organotypic culture system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18641685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1131, 
+            "offsetInEndSection": 1195, 
+            "text": "Scribble expression is decreased in many invasive human cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18641685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Loss of human Scribble cooperates with H-Ras to promote cell invasion through deregulation of MAPK signalling.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18641685", 
+            "endSection": "title"
+        }
+    ]
+}

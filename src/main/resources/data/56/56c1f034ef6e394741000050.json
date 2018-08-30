@@ -1,0 +1,118 @@
+{
+    "body": "List features of the Perry syndrome.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23628468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19136952", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24881494", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20702129", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24676999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24484619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24343258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20437543"
+    ], 
+    "ideal_answer": [
+        "Perry syndrome is a familial parkinsonism associated with central hypoventilation, mental depression, and weight loss."
+    ], 
+    "exact_answer": [
+        [
+            "parkinsonism"
+        ], 
+        [
+            "central hypoventilation"
+        ], 
+        [
+            "depression"
+        ], 
+        [
+            "weight loss"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225"
+    ], 
+    "type": "list", 
+    "id": "56c1f034ef6e394741000050", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "BACKGROUND: Depression, parkinsonism, and hypoventilation (Perry syndrome) or familial motor neuron disease have been linked to mutations in dynactin P150(Glued) (DCTN1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24676999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "BACKGROUND: Perry syndrome (PS) caused by DCTN1 gene mutation is clinically characterized by autosomal dominant parkinsonism, depression, severe weight loss, and hypoventilation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24484619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1150, 
+            "offsetInEndSection": 1431, 
+            "text": "CONCLUSIONS AND RELEVANCE: Mutations of the DCTN1 gene have been previously associated with amyotrophic lateral sclerosis and with Perry syndrome, a rare autosomal dominant disorder characterized by weight loss, parkinsonism, central hypoventilation, and psychiatric disturbances. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24343258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "OBJECTIVES: Perry syndrome consists of autosomal dominant Parkinsonism, depression, weight loss, and central hypoventilation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24881494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 277, 
+            "text": "A patient with a mood disorder and a Parkinsonian syndrome with frontal cognitive impairment thought to resemble progressive supranuclear palsy defied precise diagnosis until the development of respiratory compromise, prompting consideration of the diagnosis of Perry syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23628468", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Perry syndrome is a familial parkinsonism associated with central hypoventilation, mental depression, and weight loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20702129", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Perry syndrome (PS) caused by DCTN1 gene mutation is clinically characterized by autosomal dominant parkinsonism, depression, severe weight loss, and hypoventilation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24484619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Perry syndrome is a familial parkinsonism associated with central hypoventilation, mental depression, and weight loss", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20702129", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Perry syndrome due to the DCTN1 G71R mutation: a distinctive levodopa responsive disorder with behavioral syndrome, vertical gaze palsy, and respiratory failure", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20437543", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 445, 
+            "text": "Perry syndrome consists of early-onset parkinsonism, depression, severe weight loss and hypoventilation, with brain pathology characterized by TDP-43 immunostaining. We carried out genome-wide linkage analysis and identified five disease-segregating mutations affecting the CAP-Gly domain of dynactin (encoded by DCTN1) in eight families with Perry syndrome; these mutations diminish microtubule binding and lead to intracytoplasmic inclusions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19136952", 
+            "endSection": "abstract"
+        }
+    ]
+}

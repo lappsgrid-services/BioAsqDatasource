@@ -1,0 +1,755 @@
+{
+    "body": "Has the protein TIEG1 been associated with apoptosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10471833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12771931", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10573529", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20945337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20691807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17659279", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12788480", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17308981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22349513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18930345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17951258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21423731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23815903", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14743447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22563190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22025675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20201061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17729309", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23244828", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21524276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12065093"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15583787", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828631", 
+            "o": "GDNF inducible factor protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7829067", 
+            "o": "Tieg1 protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15583787", 
+            "o": "Tieg protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7835462", 
+            "o": "TGFB inducible early growth response 1 protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A15583787"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7835462"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7828632"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7829067"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7828631"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828632", 
+            "o": "GDNFIF protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7829067"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828631", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828632", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7829067", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7835462", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15583787", 
+            "o": "C491384"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828631", 
+            "o": "C491384"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7828632", 
+            "o": "C491384"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7829067", 
+            "o": "C491384"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7835462", 
+            "o": "C491384"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q13118", 
+            "o": "http://linkedlifedata.com/resource/#_513133313138001D"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513133313138001D", 
+            "o": "TIEG"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333131380019", 
+            "o": "Transforming growth factor-beta-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333131380018", 
+            "o": "EGR-alpha"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333131380019", 
+            "o": "TGFB-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513133313138001D", 
+            "o": "TIEG1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333131380017", 
+            "o": "Krueppel-like factor 10"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513133313138001D", 
+            "o": "KLF10"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_5131333131380019", 
+            "o": "TIEG-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12983919", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8423440"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12983919"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8423440", 
+            "o": "TIEG1 protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8414282"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12983919", 
+            "o": "TIEG protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8428062", 
+            "o": "early growth response alpha protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410040", 
+            "o": "EGR alpha protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12986334", 
+            "o": "TGFB inducible early growth response protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8414547"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8410044"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410044", 
+            "o": "EGRA protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8428062"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414282", 
+            "o": "KLF10 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8423440"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12986334"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0386762", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8410040"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414547", 
+            "o": "Kruppel-like factor 10, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12986334", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410040", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410044", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414282", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414547", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8423440", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8428062", 
+            "o": "C098111"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/O08876", 
+            "o": "http://linkedlifedata.com/resource/#_4F303838373600E"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600E", 
+            "o": "Tieg"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600E", 
+            "o": "Cpg20"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600B", 
+            "o": "TIEG-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600B", 
+            "o": "TGFB-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600E", 
+            "o": "Tieg1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600E", 
+            "o": "Klf10"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600C", 
+            "o": "Zinc finger transcription factor homolog CPG20"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600A", 
+            "o": "Krueppel-like factor 10"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303838373600B", 
+            "o": "Transforming growth factor-beta-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12983919", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12986334", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410040", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8410044", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414282", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8414547", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8423440", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8428062", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/O89091", 
+            "o": "http://linkedlifedata.com/resource/#_4F38393039310010"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100E", 
+            "o": "TGFB-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F38393039310010", 
+            "o": "Tieg"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100C", 
+            "o": "GDNF-inducible factor"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100D", 
+            "o": "Transcription factor GIF"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F38393039310010", 
+            "o": "Gdnfif"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100E", 
+            "o": "Transforming growth factor-beta-inducible early growth response protein 1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100D", 
+            "o": "mGIF"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100B", 
+            "o": "Krueppel-like factor 10"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F38393039310010", 
+            "o": "Tieg1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F38393039310010", 
+            "o": "Klf10"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_4F383930393100E", 
+            "o": "TIEG-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0012940"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0050767", 
+            "o": "DNA Binding Protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0404940", 
+            "o": "DNA binding protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17877761", 
+            "o": "DNA-Binding Proteins [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17974184", 
+            "o": "Binding Protein, DNA"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0050901", 
+            "o": "DNA-Binding Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0050769", 
+            "o": "DNA Binding Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1308314", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0040648"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0057942", 
+            "o": "Factors, Transcription"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17904335", 
+            "o": "Transcription Factors [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18024172", 
+            "o": "Factor, Transcription"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0127530", 
+            "o": "Transcription Factors"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1811857", 
+            "o": "transcription factors"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18048422", 
+            "o": "Transcription Factor"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1959548", 
+            "o": "TRANSCRIPTION FACTOR"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0490726", 
+            "o": "transcription factor"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, TIEG1 (also known as KLF10) seems to play a role in regulating apoptosis."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/KLF10_RAT", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017209", 
+        "http://www.uniprot.org/uniprot/KLF10_MOUSE", 
+        "http://www.uniprot.org/uniprot/KLF10_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "53386282d6d3ac6a3400005a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 215, 
+            "text": "TGF-beta) inducible early gene 1 (TIEG1) is known to induce apoptosis in TGF-beta sensitive pancreatic cancer cells, yet its effect on TGF-beta resistant cancer cells remains unclear", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18930345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1032, 
+            "offsetInEndSection": 1116, 
+            "text": "overexpression of TIEG1, protected ALL cells against chemotherapy-induced cell death", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18798273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1267, 
+            "offsetInEndSection": 1366, 
+            "text": " TIEG1 might be involved in mediating this effect from the microenvironment onto the leukemia cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18798273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 664, 
+            "offsetInEndSection": 813, 
+            "text": "We also demonstrate that TIEG-1 ectopic expression in CGNPs induces cell cycle arrest that can lead to apoptosis but fails to promote differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17951258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 830, 
+            "text": "TIEG1 acts as an inducer or repressor of gene transcription to enhance the TGFbeta/Smad pathway, as well at other signaling pathways, to regulate cell proliferation, differentiation, and apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17729309", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 98, 
+            "text": "TGFbeta inducible early gene (TIEG1) mimics TGFbeta action and induces apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17659279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 514, 
+            "text": "the transforming growth factor-beta- (TGF-beta-) inducible early response 1 gene (TIEG1), which plays a pivotal role in TGF-beta-regulated cell growth control and apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12788480", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1240, 
+            "offsetInEndSection": 1430, 
+            "text": "Induction of mRNA for Smad4 and the TGF-beta1-regulated apoptosis-inducing transcription factor TGF-beta1-inducible early gene (TIEG1) was detected within the first 6 h of doxazosin treatmen", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12771931", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 316, 
+            "text": "TIEG1 (TGF-beta inducible early gene) is a recently characterized transcription factor regulated by TGF-beta that induces apoptosis when overexpressed in pancreatic adenocarcinoma cell lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12065093", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 32, 
+            "text": "Influence of TIEG1 on apoptosis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23815903", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 36, 
+            "offsetInEndSection": 118, 
+            "text": "the influence of TIEG1 on apoptosis of HL-60 cells and the expression of Bcl-2/Bax", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23815903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 835, 
+            "offsetInEndSection": 1030, 
+            "text": "The expression of genes involved in insulin resistance (PDK4, AHSG) is increased, together with expression of TIEG1, a transcription factor that can induce apoptosis via the mitochondrial pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23244828", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1408, 
+            "offsetInEndSection": 1512, 
+            "text": "the overexpression of TIEG1 mediated growth inhibition and apoptosis in TGF-\u03b21-resistant HCC cell lines,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22563190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 328, 
+            "offsetInEndSection": 421, 
+            "text": "On the other hand, KLF10 deficient keratinocytes showed increased proliferation and apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22349513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 58, 
+            "text": "LF10, transforming growth factor-\u03b2-inducible early gene 1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22349513", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 42, 
+            "text": "IEG1 can induce apoptosis of cancer cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22025675", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 7, 
+            "offsetInEndSection": 108, 
+            "text": "TGF-\u03b2 inducible early gene 1) plays a significant role in regulating cell proliferation and apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21524276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 30, 
+            "offsetInEndSection": 178, 
+            "text": "TIEG1) is a Kr\u00fcppel-like transcription factor (KLF10) that was originally cloned from human osteoblasts as an early response gene to TGF-\u03b2 treatment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21423731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1221, 
+            "offsetInEndSection": 1412, 
+            "text": "Adenoviral delivery of TIEG1 (AdTIEG1) to TIEG1(-/-) cells reversed the RANKL-induced NFATc1 signaling defect in TIEG1(-/-) precursors and eliminated the differentiation and apoptosis defects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21423731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 31, 
+            "offsetInEndSection": 170, 
+            "text": "(TGF)-\u03b2 inducible early gene (TIEG)-1 is implicated in the control of cell proliferation, differentiation, and apoptosis in some cell types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20945337", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 554, 
+            "offsetInEndSection": 685, 
+            "text": "TIEG1 has been shown to mimic the effects of TGF-beta in various carcinoma cells and plays a critical role in the apoptotic cascade", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20691807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 39, 
+            "offsetInEndSection": 181, 
+            "text": "(TIEG) is a family of primary response genes induced by TGF-beta, which are well recognized in regulating cellular proliferation and apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20201061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 385, 
+            "offsetInEndSection": 492, 
+            "text": "In human and murine tissues it has been shown that TIEG1 and TIEG2 induce apoptosis and inhibit cell growth", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17308981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 550, 
+            "text": "overexpression of TIEG1 in OLI-neu cells induced apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14743447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 35, 
+            "offsetInEndSection": 215, 
+            "text": "(TGF-beta(1))-inducible transcription factors have recently elicited interest because of their critical role in the regulation of cell proliferation, differentiation, and apoptosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10573529", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 502, 
+            "text": "ectopic overexpression of TIEG is sufficient to trigger the apoptotic cell program in these cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10471833", 
+            "endSection": "abstract"
+        }
+    ]
+}

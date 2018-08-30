@@ -1,0 +1,117 @@
+{
+    "body": "Is miR-126 involved in heart failure?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21157109", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23465244"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11659990", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1537773", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11659990"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17697100", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17400039", 
+            "o": "mmu-mir-126"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2741955", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17400039"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2825936", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17697100"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2351954", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A15584100"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15584100", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17399048", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2934296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18459725"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18459725", 
+            "o": "miR-126, zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16480760", 
+            "o": "hsa-mir-126 microRNA"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0018801", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0418144"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0418144", 
+            "o": "HEART FAILURE"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, miR-126 is associated with heart failure."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006321", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0003015", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006333", 
+        "http://www.disease-ontology.org/api/metadata/DOID:114"
+    ], 
+    "type": "yesno", 
+    "id": "51485008d24251bc05000028", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1479, 
+            "offsetInEndSection": 1714, 
+            "text": "he miRNAs miR-126 and miR-508-5p are associated with the outcome of ICM and NICM patients with CHF. These two miRNAs could be useful in the diagnosis of CHF patients, and might provide novel targets for prevention and treatment of CHF.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23465244", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1099, 
+            "offsetInEndSection": 1236, 
+            "text": "The plasma concentration of miR-126 was negatively correlated with age and NYHA class, and could be a useful biomarker for heart failure.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21157109", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1085, 
+            "text": "In 10 patients with heart failure, plasma concentrations of miR-126 were up-regulated with improvement of the NYHA class from IV to III.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21157109", 
+            "endSection": "sections.0"
+        }
+    ]
+}

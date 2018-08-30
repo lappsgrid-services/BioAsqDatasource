@@ -1,0 +1,112 @@
+{
+    "body": "Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20403380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24899249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22333191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2499883", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24062730"
+    ], 
+    "ideal_answer": [
+        "Bacterial DNA polymerase III is the primary complex of DNA replication. In most Firmicutes, which are low-GC, gram-positive bacteria, the alpha subunit of their DNA polymerase III is encoded by polC and dnaE. DnaE is widely conserved in most bacteria, while PolC is present mainly in Firmicutes clade."
+    ], 
+    "exact_answer": [
+        [
+            "dnaE"
+        ], 
+        [
+            "polC"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/DPOL3_SULSO", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003887", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004259", 
+        "http://www.uniprot.org/uniprot/DPOL3_SULSH"
+    ], 
+    "type": "list", 
+    "id": "553fac39c6a5098552000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 971, 
+            "offsetInEndSection": 1070, 
+            "text": "PolC co-evolves with RNA degradation enzymes that are present only in the A+T-rich Firmicutes clade", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22333191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 189, 
+            "text": "Bacterial genomes displaying a strong bias between the leading and the lagging strand of DNA replication encode two DNA polymerases III, DnaE and PolC, rather than a single one.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22333191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 537, 
+            "offsetInEndSection": 643, 
+            "text": "SGD, PAS, and polC are all features associated with a group of low-GC, gram-positive bacteria (Firmicutes)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 662, 
+            "offsetInEndSection": 781, 
+            "text": "PAS is a characteristic of organisms with a heterodimeric DNA polymerase III alpha-subunit constituted by polC and dnaE", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 83, 
+            "offsetInEndSection": 357, 
+            "text": "Bacterial DNA polymerase III, the primary complex of DNA replication, consists of PolC and DnaE. PolC is conserved in Gram-positive bacteria, especially in the Firmicutes with low GC content, whereas DnaE is widely conserved in most Gram-negative and Gram-positive bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24062730", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1284, 
+            "offsetInEndSection": 1309, 
+            "text": "PolC-PolE DNA polymerases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20403380", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 645, 
+            "offsetInEndSection": 838, 
+            "text": "We conclude that PAS is a characteristic of organisms with a heterodimeric DNA polymerase III alpha-subunit constituted by polC and dnaE, which may play a direct role in the maintenance of SGD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 643, 
+            "text": "Furthermore, SGD, PAS, and polC are all features associated with a group of low-GC, gram-positive bacteria (Firmicutes)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17532183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 938, 
+            "offsetInEndSection": 1104, 
+            "text": "In contrast, PolC co-evolves with RNA degradation enzymes that are present only in the A+T-rich Firmicutes clade, suggesting at least two origins for the degradosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22333191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "A method for the construction of in frame substitutions in operons: deletion of the essential Escherichia coli holB gene coding for a subunit of the DNA polymerase III holoenzyme.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16083981", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "body": "Is protein M3/6 a dual specificity phosphatase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15888437", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8910287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11948422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12524447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12598532", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10915787", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23159405"
+    ], 
+    "ideal_answer": [
+        "M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK and, to a lesser extent, p38 MAPKs.", 
+        "Yes. Phosphatases play a particularly important role in this respect, by tightly controlling MAPK phosphorylation and activation. M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK and, to a lesser extent, p38 MAPKs and is found in a complex with these kinases, along with other pathway components, held together by scaffold proteins.", 
+        "The protein M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016791", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054638", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054637", 
+        "http://www.uniprot.org/uniprot/DUS1_RAT", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004712", 
+        "http://www.uniprot.org/uniprot/DUS8_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008138", 
+        "http://www.uniprot.org/uniprot/DUS2_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054641", 
+        "http://www.uniprot.org/uniprot/DUS3_HUMAN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0017017", 
+        "http://www.uniprot.org/uniprot/DUS8_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "5512cce26a8cde6b7200000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Involvement of the dual-specificity phosphatase M3/6 in c-Jun N-terminal kinase inactivation following cerebral ischemia in the rat hippocampus.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 453, 
+            "text": "The results revealed upregulation of dual-specificity phosphatase M3/6 (DUSP8) activity at 4\u00a0h of reperfusion in rat hippocampi. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 323, 
+            "text": "This study examines the molecular mechanism underlying JNK dephosphorylation and inactivation evoked by dual-specificity phosphates following cerebral ischemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 677, 
+            "text": "Phosphatases play a particularly important role in this respect, by tightly controlling MAPK phosphorylation and activation. M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK and, to a lesser extent, p38 MAPKs and is found in a complex with these kinases, along with other pathway components, held together by scaffold proteins. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 448, 
+            "text": "Dual-specificity phosphatases (DUSPs) play a very important role in these events by modulating the extent of JNK phosphorylation and activation and thus regulating cellular responses to stress. M3/6 (DUSP8) is one of the dual-specificity protein phosphatases with distinct specificity towards JNK.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 702, 
+            "text": "M3/6 is a dual-specificity phosphatase selective for JNK [7, 8]. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 555, 
+            "text": "Here we describe two new dual specificity phosphatases of the CL100/MKP-1 family that are selective for inactivating ERK or JNK/SAPK and p38 MAP kinases when expressed in COS-7 cells. M3/6 is the first phosphatase of this family to display highly specific inactivation of JNK/SAPK and p38 MAP kinases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8910287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 137, 
+            "offsetInEndSection": 319, 
+            "text": "We previously demonstrated that the dual specificity phosphatases (DSPs) MKP7 and M3/6 bind the scaffold JNK-interacting protein-1 (JIP-1) and inactivate the bound subset of JNK (1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15888437", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 15, 
+            "offsetInEndSection": 52, 
+            "text": "the dual-specificity phosphatase M3/6", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 402, 
+            "text": " dual-specificity phosphatase M3/6 (DUSP8)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 416, 
+            "offsetInEndSection": 523, 
+            "text": "M3/6 (DUSP8) is a dual-specificity phosphatase implicated in the dephosphorylation and inactivation of JNK ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 56, 
+            "text": "the M3/6 dual-specificity phosphatase", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 447, 
+            "text": "M3/6 (DUSP8) is one of the dual-specificity protein phosphatases with distinct specificity towards JNK", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 693, 
+            "text": "M3/6 is a dual-specificity phosphatase selective for JNK", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "The dual specificity phosphatases M3/6 and MKP-3 are highly selective for inactivation of distinct mitogen-activated protein kinases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8910287", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Phosphorylation of the M3/6 dual-specificity phosphatase enhances the activation of JNK by arsenite.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 681, 
+            "text": "Indeed, expanded polyglutamine impaired the solubility of the dual-specificity JNK phosphatase M3/6.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12598532", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Regulation of dual-specificity phosphatases M3/6 and hVH5 by phorbol esters.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10915787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 448, 
+            "text": "M3/6 (DUSP8) is one of the dual-specificity protein phosphatases with distinct specificity towards JNK.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 636, 
+            "offsetInEndSection": 699, 
+            "text": "M3/6 is a dual-specificity phosphatase selective for JNK [7, 8]", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 344, 
+            "offsetInEndSection": 446, 
+            "text": "M3/6 (DUSP8) is one of the dual-specificity protein phosphatases with distinct specificity towards JNK", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22100391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 429, 
+            "text": "Here we describe how diverse cellular stresses affect differently the stability and activity of a JNK-inactivating dual-specificity threonine-tyrosine phosphatase M3/6", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11948422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 700, 
+            "text": "M3/6 is a dual-specificity phosphatase selective for JNK [7, 8]", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11566103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Regulation of dual-specificity phosphatases M3/6 and hVH5 by phorbol esters. Analysis of a delta-like domain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10915787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 451, 
+            "text": "The results revealed upregulation of dual-specificity phosphatase M3/6 (DUSP8) activity at 4\u00a0h of reperfusion in rat hippocampi", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23679081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 680, 
+            "text": "Indeed, expanded polyglutamine impaired the solubility of the dual-specificity JNK phosphatase M3/6", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12598532", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 553, 
+            "offsetInEndSection": 689, 
+            "text": "Here we report that JIP-1 also binds the dual-specificity phosphatases MKP7 and M3/6 via a region independent of its JNK binding domain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12524447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 49, 
+            "text": "Differential regulation of M3/6 (DUSP8) signaling", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159405", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "body": "Are immune cells affected in Amyotrophic Lateral Sclerosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17852013", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7595631", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23881705", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21829620", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25199710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7551976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25904790", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20406178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24995608"
+    ], 
+    "ideal_answer": [
+        "In ALS T-cell deficiency increases neuronal loss, while boosting T cell levels reduces it.", 
+        "The intrathymic injection of donor spleen cells into antilymphocyte serum (ALS)-treated mice induces significant prolongation of donor skin grafts. To elucidate possible mechanisms involved in the induction of unresponsiveness in ALS-treated mice after intrathymic injection of donor spleen cells, we have analysed the reactivity of lymphoid cells from unresponsive mice in various ways. Here, we show that in the mutant superoxide dismutase 1 G93A (mSOD1) mouse model of ALS, the levels of natural killer T (NKT) cells increased dramatically, and T-cell distribution was altered both in lymphoid organs and in the spinal cord relative to wild-type mice. Therapeutic immunization of mSOD1 mice with a myelin-derived peptide led to CP activation, and was followed by the accumulation of immunoregulatory cells, including IL-10-producing monocyte-derived macrophages and Foxp3(+) regulatory T cells, and elevation of the neurotrophic factors IGF-1 and GDNF in the diseased spinal cord parenchyma.", 
+        "Therapeutic immunization of mSOD1 mice with a myelin-derived peptide led to CP activation, and was followed by the accumulation of immunoregulatory cells, including IL-10-producing monocyte-derived macrophages and Foxp3(+) regulatory T cells, and elevation of the neurotrophic factors IGF-1 and GDNF in the diseased spinal cord parenchyma"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000690", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012598", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002477", 
+        "http://www.disease-ontology.org/api/metadata/DOID:230"
+    ], 
+    "type": "yesno", 
+    "id": "56cae51f5795f9a73e000025", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 787, 
+            "offsetInEndSection": 1125, 
+            "text": "Therapeutic immunization of mSOD1 mice with a myelin-derived peptide led to CP activation, and was followed by the accumulation of immunoregulatory cells, including IL-10-producing monocyte-derived macrophages and Foxp3(+) regulatory T cells, and elevation of the neurotrophic factors IGF-1 and GDNF in the diseased spinal cord parenchyma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25904790", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Immunization with a Myelin-Derived Antigen Activates the Brain's Choroid Plexus for Recruitment of Immunoregulatory Cells to the CNS and Attenuates Disease Progression in a Mouse Model of ALS.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25904790", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 220, 
+            "text": "Amyotrophic lateral sclerosis (ALS) is a rapidly progressing fatal neurodegenerative disorder characterized by the selective death of motor neurons (MN) in the spinal cord, and is associated with local neuroinflammation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21829620", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 403, 
+            "offsetInEndSection": 486, 
+            "text": "T-cell deficiency increases neuronal loss, while boosting T cell levels reduces it.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21829620", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 625, 
+            "offsetInEndSection": 1022, 
+            "text": "As disease accelerates, a shift occurs from beneficial immune responses (involving M2 microglia and regulatory T-cells) to deleterious immune responses (involving M1 microglia and Th1 cells). In this review, we underscore the importance of immune-mediated mechanisms in the pathogenesis of ALS and discuss the alterations and distinct phenotypes of immune cells at the different stages of disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23881705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": " Immunological disturbances have been implicated in the pathogenesis of amyotrophic lateral sclerosis (ALS). Chemokines are involved in the recruitment of immune cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17852013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 316, 
+            "text": "The immune system has been found to be involved with positive and negative effects in the nervous system of amyotrophic lateral sclerosis (ALS) patients. In general, T cells, B cells, NK cells, mast cells, macrophages, dendritic cells, microglia, antibodies, complement and cytokines participate in limiting damage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20406178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Immunological disturbances have been implicated in the pathogenesis of amyotrophic lateral sclerosis (ALS). Chemokines are involved in the recruitment of immune cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17852013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2147, 
+            "offsetInEndSection": 2458, 
+            "text": "We propose the following mechanism for the effect of mesenchymal stem cells (MSCs) administered intrathecally in amyotrophic lateral sclerosis (ALS): MSCs increase infiltration of peripheral immune cells into CNS and skew the infiltrated immune cells toward regulatory T lymphocytes (Treg ) and Th2 lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24995608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 271, 
+            "text": "Immune cell infiltration to the brain&apos;s territory was considered for decades to reflect a pathological process in which immune cells attack the central nervous system (CNS); such a process is observed in the inflammatory autoimmune disease, multiple sclerosis (MS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25199710", 
+            "endSection": "abstract"
+        }
+    ]
+}

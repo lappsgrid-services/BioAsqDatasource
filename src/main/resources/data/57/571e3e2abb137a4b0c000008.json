@@ -1,0 +1,279 @@
+{
+    "body": "Are OATP1B1 and OATP1B3 associated with bilirubin transport?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24523126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22232210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23695864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15535988", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24459177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24151358", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21395542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25204339", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17973861", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18509604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22982575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23886114"
+    ], 
+    "ideal_answer": [
+        "Yes, OATP1B1 and OATP1B3 are involved in the transport of bilirubin."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001663", 
+        "http://amigo.geneontology.org/amigo/term/GO:0015723", 
+        "http://www.biosemantics.org/jochem#4274830"
+    ], 
+    "type": "yesno", 
+    "id": "571e3e2abb137a4b0c000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 621, 
+            "offsetInEndSection": 811, 
+            "text": "OATP1B1 and OATP1B3-mediated transport of bilirubin was confirmed and inhibition was determined for atazanavir, rifampicin, indinavir, amprenavir, cyclosporine, rifamycin SV and saquinavir. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1906, 
+            "offsetInEndSection": 2193, 
+            "text": "Examples of adaptive nontoxic changes in liver function, which may elevate direct (conjugated) and/or indirect (unconjugated) bilirubin above baseline levels, include reversible inhibition of UGT1A1-mediated bilirubin metabolism and OATP1B1-, OATP1B3-, or MRP2-mediated transport (Keogh.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24523126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1423, 
+            "offsetInEndSection": 1768, 
+            "text": "Due to limited solubility and poor ionization of bilirubin and its glucuronide, the formation of estradiol 3-glucuronide was used as a surrogate to assess UGT1A1 activity, while the transport of pitavastatin, CDCF, and taurocholate were used as surrogate probe substrates to monitor the function of OATP1B1/OATP1B3, MRP2, and BSEP, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 803, 
+            "offsetInEndSection": 992, 
+            "text": "OATP1B1 and OATP1B3-mediated transport of bilirubin was confirmed and inhibition was determined for atazanavir, rifampicin, indinavir, amprenavir, cyclosporine, rifamycin SV and saquinavir.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 682, 
+            "offsetInEndSection": 919, 
+            "text": "However, because drug transporters also contribute to bilirubin elimination, the purpose of this work was to investigate the in vitro inhibition of OATP1B1, OATP1B3, MRP2, and BSEP of select test drugs known to elicit hyperbilirubinemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1864, 
+            "offsetInEndSection": 2104, 
+            "text": "Thus, disruption of hepatic reuptake of bilirubin glucuronide due to coexisting OATP1B1 and OATP1B3 deficiencies explains Rotor-type hyperbilirubinemia.Moreover, OATP1B1 and OATP1B3 null mutations may confer substantial drug toxicity risks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22982575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 360, 
+            "text": "Bilirubin elimination is a multifaceted process consisting of uptake of bilirubin into the hepatocytes facilitated by OATP1B1 and OATP1B3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Complete OATP1B1 and OATP1B3 deficiency causes human Rotor syndrome by interrupting conjugated bilirubin reuptake into the liver.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22232210", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1775, 
+            "offsetInEndSection": 1927, 
+            "text": "Thus, disruption of hepatic reuptake of bilirubin glucuronide due to coexisting OATP1B1 and OATP1B3 deficiencies explains Rotor-type hyperbilirubinemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22232210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1245, 
+            "offsetInEndSection": 1516, 
+            "text": "The data show that a substantial fraction of bilirubin conjugates is primarily secreted by MRP3 at the sinusoidal membrane into the blood, from where they are subsequently reuptaken by sinusoidal membrane-bound organic anion transporting polypeptides OATP1B1 and OATP1B3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24151358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Evaluating the in vitro inhibition of UGT1A1, OATP1B1, OATP1B3, MRP2, and BSEP in predicting drug-induced hyperbilirubinemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 621, 
+            "offsetInEndSection": 809, 
+            "text": "OATP1B1 and OATP1B3-mediated transport of bilirubin was confirmed and inhibition was determined for atazanavir, rifampicin, indinavir, amprenavir, cyclosporine, rifamycin SV and saquinavir", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 85, 
+            "offsetInEndSection": 222, 
+            "text": "Bilirubin elimination is a multifaceted process consisting of uptake of bilirubin into the hepatocytes facilitated by OATP1B1 and OATP1B3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1085, 
+            "offsetInEndSection": 1429, 
+            "text": "Due to limited solubility and poor ionization of bilirubin and its glucuronide, the formation of estradiol 3-glucuronide was used as a surrogate to assess UGT1A1 activity, while the transport of pitavastatin, CDCF, and taurocholate were used as surrogate probe substrates to monitor the function of OATP1B1/OATP1B3, MRP2, and BSEP, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1630, 
+            "offsetInEndSection": 1916, 
+            "text": "Examples of adaptive nontoxic changes in liver function, which may elevate direct (conjugated) and/or indirect (unconjugated) bilirubin above baseline levels, include reversible inhibition of UGT1A1-mediated bilirubin metabolism and OATP1B1-, OATP1B3-, or MRP2-mediated transport (Keogh", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24523126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 736, 
+            "text": "In vitro, faldaprevir inhibited key processes involved in bilirubin clearance: UDP glucuronosyltransferase (UGT) 1A1 (UGT1A1) (IC50 0.45 \u00b5M), which conjugates bilirubin, and hepatic uptake and efflux transporters, organic anion-transporting polypeptide (OATP) 1B1 (IC50 0.57 \u00b5M), OATP1B3 (IC50 0.18 \u00b5M), and multidrug resistance-associated protein (MRP) 2 (IC50 6.2 \u00b5M), which transport bilirubin and its conjugates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25204339", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1632, 
+            "offsetInEndSection": 1783, 
+            "text": "Thus, disruption of hepatic reuptake of bilirubin glucuronide due to coexisting OATP1B1 and OATP1B3 deficiencies explains Rotor-type hyperbilirubinemia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22232210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1633, 
+            "offsetInEndSection": 1872, 
+            "text": "Thus, disruption of hepatic reuptake of bilirubin glucuronide due to coexisting OATP1B1 and OATP1B3 deficiencies explains Rotor-type hyperbilirubinemia.Moreover, OATP1B1 and OATP1B3 null mutations may confer substantial drug toxicity risks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22982575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "OATP1B1 (a.k.a. OATP-C, OATP2, LST-1, or SLC21A6) is a liver-specific organic anion uptake transporter and has been shown to be a higher affinity bilirubin uptake transporter than OATP1B3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15535988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "In vitro OATP1B1 and OATP1B3 inhibition is associated with observations of benign clinical unconjugated hyperbilirubinemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1630, 
+            "offsetInEndSection": 1948, 
+            "text": "Examples of adaptive nontoxic changes in liver function, which may elevate direct (conjugated) and/or indirect (unconjugated) bilirubin above baseline levels, include reversible inhibition of UGT1A1-mediated bilirubin metabolism and OATP1B1-, OATP1B3-, or MRP2-mediated transport (Keogh. Adv Pharmacol 63:1-42, 2012). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24523126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 980, 
+            "offsetInEndSection": 1196, 
+            "text": "Using mice deficient in Oatp1a/1b and in the multispecific sinusoidal export pump Abcc3, we found that Abcc3 secretes bilirubin conjugates into the blood, while Oatp1a/1b transporters mediate their hepatic reuptake. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22232210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 85, 
+            "offsetInEndSection": 224, 
+            "text": "Bilirubin elimination is a multifaceted process consisting of uptake of bilirubin into the hepatocytes facilitated by OATP1B1 and OATP1B3. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "OATP1B1 polymorphism is a major determinant of serum bilirubin level but not associated with rifampicin-mediated bilirubin elevation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17973861", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 119, 
+            "offsetInEndSection": 272, 
+            "text": "Unconjugated bilirubin (UCB) is taken up into hepatocytes by human organic anion transporting polypeptide 1B1 (OATP1B1; encoded for by the SLCO1B1 gene).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17973861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 1085, 
+            "text": "However, because drug transporters also contribute to bilirubin elimination, the purpose of this work was to investigate the in vitro inhibition of OATP1B1, OATP1B3, MRP2, and BSEP of select test drugs known to elicit hyperbilirubinemia. Test drugs investigated in this study were atazanavir and indinavir, which are associated with hyperbilirubinemia and elevations in serum transaminase; ritonavir and nelfinavir, which are not associated with hyperbilirubinemia; and bromfenac, troglitazone, and trovafloxacin, which are associated with severe idiosyncratic hepatotoxicity exhibiting elevations in serum bilirubin and transaminase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 689, 
+            "offsetInEndSection": 1431, 
+            "text": "Test drugs investigated in this study were atazanavir and indinavir, which are associated with hyperbilirubinemia and elevations in serum transaminase; ritonavir and nelfinavir, which are not associated with hyperbilirubinemia; and bromfenac, troglitazone, and trovafloxacin, which are associated with severe idiosyncratic hepatotoxicity exhibiting elevations in serum bilirubin and transaminase. Due to limited solubility and poor ionization of bilirubin and its glucuronide, the formation of estradiol 3-glucuronide was used as a surrogate to assess UGT1A1 activity, while the transport of pitavastatin, CDCF, and taurocholate were used as surrogate probe substrates to monitor the function of OATP1B1/OATP1B3, MRP2, and BSEP, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 738, 
+            "text": "In vitro, faldaprevir inhibited key processes involved in bilirubin clearance: UDP glucuronosyltransferase (UGT) 1A1 (UGT1A1) (IC50 0.45 \u00b5M), which conjugates bilirubin, and hepatic uptake and efflux transporters, organic anion-transporting polypeptide (OATP) 1B1 (IC50 0.57 \u00b5M), OATP1B3 (IC50 0.18 \u00b5M), and multidrug resistance-associated protein (MRP) 2 (IC50 6.2 \u00b5M), which transport bilirubin and its conjugates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25204339", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "In vitro OATP1B1 and OATP1B3 inhibition is associated with observations of benign clinical unconjugated hyperbilirubinemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1017, 
+            "offsetInEndSection": 1231, 
+            "text": "3.\u2002\u2009The results indicated that in vivo Fi values >0.2 or R-values >1.5 for OATP1B1 or OATP1B3, but not UGT1A1, are associated with previously reported clinical cases of drug-induced unconjugated hyperbilirubinemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 622, 
+            "offsetInEndSection": 811, 
+            "text": "OATP1B1 and OATP1B3-mediated transport of bilirubin was confirmed and inhibition was determined for atazanavir, rifampicin, indinavir, amprenavir, cyclosporine, rifamycin SV and saquinavir.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23886114", 
+            "endSection": "abstract"
+        }
+    ]
+}

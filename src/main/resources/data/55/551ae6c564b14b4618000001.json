@@ -1,0 +1,106 @@
+{
+    "body": "Are people with blood group O protected against severe Malaria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22771625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17959777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23071435", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22818742", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15814030"
+    ], 
+    "ideal_answer": [
+        "It appears that individuals who are of blood-group O are relatively resistant to the severe disease caused by P. falciparum infection."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:14067", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001769", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4176", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12365", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008288", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001789"
+    ], 
+    "type": "yesno", 
+    "id": "551ae6c564b14b4618000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Differential carbonylation of cytoskeletal proteins in blood group O erythrocytes: potential role in protection against severe malaria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22771625", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1267, 
+            "offsetInEndSection": 1460, 
+            "text": ". Our findings indicate a possible correlation between the protection against severe malaria in blood group O individuals and a specific pattern of 4-HNE-carbonylation of cytoskeleton proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22771625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 314, 
+            "text": "There is a predominance of blood group O in malaria-endemic regions, and several lines of evidence suggest that ABO blood groups may influence the outcome of P. falciparum infection", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23071435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1304, 
+            "offsetInEndSection": 1541, 
+            "text": "These data provide the first evidence that ABO blood group antigens influence macrophage clearance of P. falciparum-infected erythrocytes and suggest an additional mechanism by which blood group O may confer resistance to severe malaria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23071435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Blood group phenotypes A and B are risk factors for cerebral malaria in Odisha, India.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22818742", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 519, 
+            "offsetInEndSection": 652, 
+            "text": "type O is significantly associated with protection against CM, patients with type A and B group had increased risk for developing CM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22818742", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Blood group O protects against severe Plasmodium falciparum malaria through the mechanism of reduced rosetting.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17959777", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 448, 
+            "text": "Malaria has been a major selective force on the human population, and several erythrocyte polymorphisms have evolved that confer resistance to severe malaria. Plasmodium falciparum rosetting, a parasite virulence phenotype associated with severe malaria, is reduced in blood group O erythrocytes compared with groups A, B, and AB, but the contribution of the ABO blood group system to protection against severe malaria has received little attention", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17959777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 579, 
+            "text": "We hypothesized that blood group O may confer resistance to severe falciparum malaria through the mechanism of reduced rosetting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17959777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1142, 
+            "text": "It appears that individuals who are of blood-group O are relatively resistant to the severe disease caused by P. falciparum infection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15814030", 
+            "endSection": "abstract"
+        }
+    ]
+}

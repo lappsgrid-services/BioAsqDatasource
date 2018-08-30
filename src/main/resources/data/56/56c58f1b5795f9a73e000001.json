@@ -1,0 +1,151 @@
+{
+    "body": "Which species of bacteria did the mitochondria originate from?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17251118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9823893", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21217797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16381962", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11508688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21300273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9711305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16157484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12594925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16822756", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10376009"
+    ], 
+    "ideal_answer": [
+        "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium. Although the Alphaproteobacteria are thought to be the closest relatives of the mitochondrial progenitor, there is dispute as to what its particular sister group is. Accumulating evolutionary data point to a monophyletic origin of mitochondria from the order Rickettsiales. Phylogenetic analyses indicate that R. prowazekii is more closely related to mitochondria than is any other microbe studied so far."
+    ], 
+    "exact_answer": [
+        "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0005739", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001419", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008928"
+    ], 
+    "type": "factoid", 
+    "id": "56c58f1b5795f9a73e000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 412, 
+            "text": "Recently, \u03b1-proteobacteria have been shown to possess virus-like gene transfer agents that facilitate high frequency gene transfer in natural environments between distantly related lineages. This system could have driven the genomic integration of the mitochondrial progenitor and its proto-eukaryote host and contributed to the evolutionary mosaic of genes seen in modern-day prokaryotic and eukaryotic genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21300273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 80, 
+            "offsetInEndSection": 245, 
+            "text": "Although the Alphaproteobacteria are thought to be the closest relatives of the mitochondrial progenitor, there is dispute as to what its particular sister group is.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21217797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1172, 
+            "offsetInEndSection": 1440, 
+            "text": "More detailed phylogenetic analyses with additional Alphaproteobacteria and including genes from the mitochondria of Reclinomonas americana found matches of mitochondrial genes to those of members of the Rickettsiaceae, Anaplasmataceae, and Rhodospirillaceae families.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21217797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17251118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Mitochondria originated by permanent enslavement of purple non-sulphur bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16822756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 192, 
+            "offsetInEndSection": 339, 
+            "text": "Phylogenetic analyses based on genes located in the mitochondrial genome indicate that these genes originated from within the alpha-proteobacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12594925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1133, 
+            "offsetInEndSection": 1393, 
+            "text": "The strong relationship with alpha-proteobacterial genes observed for some mitochondrial genes, combined with the lack of such a relationship for others, indicates that the modern mitochondrial proteome is the product of both reductive and expansive processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12594925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Accumulating evolutionary data point to a monophyletic origin of mitochondria from the order Rickettsiales.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11508688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 338, 
+            "offsetInEndSection": 511, 
+            "text": "Evolutionary analyses of proteins encoded in the genome contain the strongest phylogenetic evidence to date for the view that mitochondria descend from alpha-proteobacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10376009", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 218, 
+            "offsetInEndSection": 551, 
+            "text": "The functional profiles of these genes show similarities to those of mitochondrial genes: no genes required for anaerobic glycolysis are found in either R. prowazekii or mitochondrial genomes, but a complete set of genes encoding components of the tricarboxylic acid cycle and the respiratory-chain complex is found in R. prowazekii.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9823893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1119, 
+            "offsetInEndSection": 1250, 
+            "text": "Phylogenetic analyses indicate that R. prowazekii is more closely related to mitochondria than is any other microbe studied so far.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9823893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 464, 
+            "text": "The phylogenetic analysis supports the hypothesis that mitochondria are derived from the alpha-proteobacteria and more specifically from within the Rickettsiaceae. We have estimated that the common ancestor of mitochondria and Rickettsiaceae dates back to more than 1500 million years ago.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9711305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 665, 
+            "text": "GOBASE also includes a fully reannotated genome sequence of Rickettsia prowazekii, one of the closest bacterial relatives of mitochondria, and will shortly expand to contain more data from bacteria from which organelles originated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16381962", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "The genome sequence of Rickettsia prowazekii and the origin of mitochondria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9823893", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Although mitochondria derive from alpha-proteobacteria, many proteins acting in this organelle did not originate from bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16157484", 
+            "endSection": "abstract"
+        }
+    ]
+}

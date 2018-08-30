@@ -1,0 +1,46 @@
+{
+    "body": "Which factor interacts with Treslin/TICRR throughout the cell cycle of human cells?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23704573"
+    ], 
+    "ideal_answer": [
+        "MDM two binding protein (MTBP) is a factor that interacts with Treslin/TICRR throughout the cell cycle. MTBP depletion by means of small interfering RNA inhibits DNA replication by preventing assembly of the CMG (Cdc45-MCM-GINS) holohelicase during origin firing. Although MTBP has been implicated in the function of the p53 tumor suppressor, it is required for DNA replication irrespective of a cell's p53 status. MTBP is proposed to act with Treslin/TICRR to integrate signals from cell cycle and DNA damage response pathways to control the initiation of DNA replication in human cells."
+    ], 
+    "exact_answer": [
+        "MDM two binding protein (MTBP)"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TICRR_XENLA", 
+        "http://www.uniprot.org/uniprot/TICRR_MOUSE", 
+        "http://www.uniprot.org/uniprot/TICRR_DANRE", 
+        "http://www.uniprot.org/uniprot/TICRR_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "56d19a363975bb303a000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 917, 
+            "text": "We identified MDM two binding protein (MTBP) as a factor that interacts with Treslin/TICRR throughout the cell cycle. We show that MTBP depletion by means of small interfering RNA inhibits DNA replication by preventing assembly of the CMG (Cdc45-MCM-GINS) holohelicase during origin firing. Although MTBP has been implicated in the function of the p53 tumor suppressor, we found MTBP is required for DNA replication irrespective of a cell's p53 status. We propose that MTBP acts with Treslin/TICRR to integrate signals from cell cycle and DNA damage response pathways to control the initiation of DNA replication in human cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 405, 
+            "text": "We identified MDM two binding protein (MTBP) as a factor that interacts with Treslin/TICRR throughout the cell cycle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 407, 
+            "text": "Treslin/TICRR (TopBP1-interacting, replication stimulating protein/TopBP1-interacting, checkpoint, and replication regulator), the human ortholog of the yeast Sld3 protein, is an essential DNA replication factor that is regulated by cyclin-dependent kinases and the DNA damage checkpoint. We identified MDM two binding protein (MTBP) as a factor that interacts with Treslin/TICRR throughout the cell cycle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704573", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "body": "List representatives of the major fungal hypoxanthine-adenine-guanine transporter families.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/14597637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19121308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24818808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16923723", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7721763"
+    ], 
+    "ideal_answer": [
+        "AzgA and Fcy21p are prototypes of the two major fungal hypoxanthine-adenine-guanine transporter families."
+    ], 
+    "exact_answer": [
+        [
+            "AzgA"
+        ], 
+        [
+            "Fcy21p"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035345"
+    ], 
+    "type": "list", 
+    "id": "554397f6ed966d112c00000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Comparative kinetic analysis of AzgA and Fcy21p, prototypes of the two major fungal hypoxanthine-adenine-guanine transporter families", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16923723", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 190, 
+            "offsetInEndSection": 421, 
+            "text": "We carried out a comparative kinetic analysis of two prototypes of these transporter families. The first was Fcy21p, a herein characterized protein of Candida albicans, and the second was AzgA, a transporter of Aspergillus nidulans", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16923723", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "The azgA gene of Aspergillus nidulans encodes a hypoxanthine-adenine-guanine transporter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14597637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "In Aspergillus nidulans, loss-of-function mutations in the uapA and azgA genes, encoding the major uric acid-xanthine and hypoxanthine-adenine-guanine permeases, respectively, result in impaired utilization of these purines as sole nitrogen sources", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7721763", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Comparative kinetic analysis of AzgA and Fcy21p, prototypes of the two major fungal hypoxanthine-adenine-guanine transporter families.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16923723", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "The azgA gene of Aspergillus nidulans encodes a hypoxanthine-adenine-guanine transporter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14597637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 249, 
+            "text": "In Aspergillus nidulans, loss-of-function mutations in the uapA and azgA genes, encoding the major uric acid-xanthine and hypoxanthine-adenine-guanine permeases, respectively, result in impaired utilization of these purines as sole nitrogen sources.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7721763", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Modelling, substrate docking and mutational analysis identify residues essential for function and specificity of the major fungal purine transporter AzgA.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24818808", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 130, 
+            "offsetInEndSection": 302, 
+            "text": "In Arabidopsis two proteins, AtAzg1 and AtAzg2, show substantial amino acid sequence similarity to the adenine-guanine-hypoxanthine transporter AzgA of Aspergillus nidulans", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19121308", 
+            "endSection": "abstract"
+        }
+    ]
+}

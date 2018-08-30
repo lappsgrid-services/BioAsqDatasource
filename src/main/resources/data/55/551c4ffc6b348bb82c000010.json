@@ -1,0 +1,136 @@
+{
+    "body": "Is TNNI3K a cardiac-specific protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18552163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23085512", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24132636", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21314842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20018082", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19925440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12721663", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23472207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17660584", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23369981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18021318"
+    ], 
+    "ideal_answer": [
+        "Yes, TNNI3K is highly expressed in heart but is undetectable in other tissues."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "551c4ffc6b348bb82c000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 55, 
+            "text": "cardiomyocyte-specific kinase TNNI3K ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24132636", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 382, 
+            "offsetInEndSection": 477, 
+            "text": "We report that cardiac troponin I-interacting kinase (TNNI3K), a cardiomyocyte-specific kinase,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24132636", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 35, 
+            "text": "TNNI3K, a cardiac-specific kinase, ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23472207", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 106, 
+            "offsetInEndSection": 236, 
+            "text": " The cardiac troponin I-interacting kinase (TNNI3K), a novel cardiac specific kinase, is associated with cardiomyocyte hypertrophy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23472207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 286, 
+            "text": "Human cardiac troponin I-interacting kinase (TNNI3K) is a novel cardiac-specific functional kinase that can bind to cTnI in a yeast two-hybrid screen. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23369981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Overexpression of TNNI3K, a cardiac-specific MAPKKK, promotes cardiac dysfunctio", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23085512", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Cardiac troponin I-interacting kinase (TNNI3K) is a cardiac-specific kinase whose biological function remains largely unknown", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23085512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 89, 
+            "text": " Cardiac troponin I-interacting kinase (TNNI3K) is a novel cardiac-specific kinase gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21314842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 826, 
+            "offsetInEndSection": 873, 
+            "text": " a novel cardiac-specific kinase gene (TNNI3K),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20018082", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 547, 
+            "text": " TNNI3K is a novel cardiac troponin I-interacting kinase gene and its overexpression may promote cardiac myogenesis, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19925440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "TNNI3K is a new cardiac-specific MAP kinase whose gene is localized to 1p31.1 and that belongs to a tyrosine kinase-like branch in the kinase tree of the human genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18552163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "The cardiac ankyrin repeat kinase (CARK) gene, also named TNNI3K for its interaction with cardiac troponin I, is both a unique expression and heart-enriched gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18021318", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 258, 
+            "text": "Molecular cloning of cardiac troponin I-interacting kinase (TNNI3K), a novel cardiac-specific protein kinase containing seven N-terminal ankyrin (ANK) repeats followed by a protein kinase domain and a C-terminal Ser-rich domain, has previously been reported.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17660584", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 374, 
+            "offsetInEndSection": 546, 
+            "text": " TNNI3K is highly expressed in heart, but is undetectable in other tissues. Immunohistochemical analysis predominantly localized TNNI3K in the nucleus of cardiac myocytes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12721663", 
+            "endSection": "abstract"
+        }
+    ]
+}

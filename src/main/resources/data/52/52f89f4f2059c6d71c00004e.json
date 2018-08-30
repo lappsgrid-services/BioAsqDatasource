@@ -1,0 +1,90 @@
+{
+    "body": "Which genes have been found mutated in Gray platelet syndrome patients?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23100277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23861251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17209061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21765411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21765413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21765412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24325358"
+    ], 
+    "ideal_answer": [
+        "The genetic defects responsible for gray platelet syndrome are mutations in the genes NBEAL2, GATA1 and GFI1B.", 
+        "The genetic defect responsible for gray platelet syndrome was recently identified in biallelic mutations in the NBEAL2 gene.\nA nonsense mutation in the gene encoding the transcription factor GFI1B (growth factor independent 1B) that causes autosomal dominant gray platelet syndrome.\nX-linked gray platelet syndrome due to a GATA1 Arg216Gln mutation."
+    ], 
+    "exact_answer": [
+        [
+            "neurobeachin-like 2", 
+            "NBEAL2"
+        ], 
+        [
+            "GATA1"
+        ], 
+        [
+            "GFI1B"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030220", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0036345", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2218", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0036344", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D055652"
+    ], 
+    "type": "list", 
+    "id": "52f89f4f2059c6d71c00004e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 315, 
+            "text": "We detected a nonsense mutation in the gene encoding the transcription factor GFI1B (growth factor independent 1B) that causes autosomal dominant gray platelet syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24325358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 279, 
+            "text": "The genetic defect responsible for gray platelet syndrome was recently identified in biallelic mutations in the NBEAL2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23100277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 370, 
+            "text": "Here we show that mutations in NBEAL2 (neurobeachin-like 2), which encodes a BEACH/ARM/WD40 domain protein, cause GPS and that megakaryocytes and platelets from individuals with GPS express a unique combination of NBEAL2 transcripts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21765412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 385, 
+            "offsetInEndSection": 665, 
+            "text": "Linkage analysis revealed a 63 cM region on the X chromosome between markers G10578 and DXS6797, which segregated with the platelet phenotype and included the GATA1 gene. Sequencing of GATA1 revealed a G-to-A mutation at position 759 corresponding to amino acid change Arg216Gln. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17209061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "We identified a family with gray platelet syndrome (GPS) segregating as a sex-linked trait. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17209061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "X-linked gray platelet syndrome due to a GATA1 Arg216Gln mutation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17209061", 
+            "endSection": "title"
+        }
+    ]
+}

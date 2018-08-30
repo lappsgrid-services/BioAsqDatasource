@@ -1,0 +1,198 @@
+{
+    "body": "Is mitofusin 2 a receptor for parkin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22807239", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19076450", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22914740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23958438", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20871098", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21252228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23620051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23845246"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1378212", 
+            "o": "C111567"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0673396", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8256703"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0673396", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1378212"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0673396", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1378212"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8256703", 
+            "o": "parkin protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8256703", 
+            "o": "5004-0064"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1378212", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/ecName", 
+            "s": "http://linkedlifedata.com/resource/#_4337545A483800B", 
+            "o": "3.6.5.-"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4337545A483800B", 
+            "o": "Mitofusin 2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "http://linkedlifedata.com/resource/#_4F39353134300020"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F39353134300020", 
+            "o": "Mitofusin-2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "http://linkedlifedata.com/resource/#_4F39353134300021"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F39353134300021", 
+            "o": "Transmembrane GTPase MFN2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q811U4", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q811U4", 
+            "o": "http://linkedlifedata.com/resource/#_5138313155340016"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5138313155340017", 
+            "o": "Transmembrane GTPase MFN1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/Q811U4", 
+            "o": "http://linkedlifedata.com/resource/#_5138313155340017"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5138313155340016", 
+            "o": "Mitofusin-1"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0005829"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0005829", 
+            "o": "cytosol"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "http://purl.uniprot.org/citations/16710414"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/citations/16710414", 
+            "o": "Nature"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/16710414", 
+            "o": "http://purl.uniprot.org/pubmed/16710414"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/Q811U4", 
+            "o": "http://purl.uniprot.org/tissues/1050"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/1050", 
+            "o": "Tongue"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/uniprot/O95140", 
+            "o": "MFN2_HUMAN"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, Mfn2 functions as a mitochondrial receptor for Parkin."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MFN2_MOUSE", 
+        "http://www.uniprot.org/uniprot/PACRG_MOUSE", 
+        "http://www.uniprot.org/uniprot/PACRG_HUMAN", 
+        "http://www.uniprot.org/uniprot/MFN2_RAT", 
+        "http://www.uniprot.org/uniprot/MARF_DROME", 
+        "http://www.uniprot.org/uniprot/MFN2_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "5318352fb166e2b806000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 283, 
+            "text": "Recent work demonstrates that a phosphorylated form of the mitochondrial fusion protein Mitofusin 2 serves as a receptor for Parkin translocation to damaged mitochondria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23845246", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 421, 
+            "offsetInEndSection": 563, 
+            "text": "We show that the mitochondrial outer membrane guanosine triphosphatase mitofusin (Mfn) 2 mediates Parkin recruitment to damaged mitochondria. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23620051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1087, 
+            "offsetInEndSection": 1201, 
+            "text": "Mfn2 functions as a mitochondrial receptor for Parkin and is required for quality control of cardiac mitochondria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23620051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "Mitofusin 1 and mitofusin 2 are ubiquitinated in a PINK1/parkin-dependent manner upon induction of mitophagy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20871098", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "body": "Can a given genotype exhibit opposite fitness effects (beneficial and detrimental) within the same environment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15454545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19226414"
+    ], 
+    "ideal_answer": [
+        "A given genotype can be either beneficial or detrimental, even deleterious, depending on the environment in which an organism lives. This is known as antagonistic pleiotropy. Antagonistic pleiotropy can operate even within the same environment. For example, in Escherichia coli, certain mutations can exhibit beneficial, deleterious or neutral fitness effects at different growth rates. Also, antagonistic pleiotropy is involved in the evolution of ageing, since a certain genotype may affect late- and early-life fitness in opposite directions."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "5549f7a1f35db7552600000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 311, 
+            "text": "Mutations beneficial in one environment may cause costs in different environments, resulting in antagonistic pleiotropy. Here, we describe a novel form of antagonistic pleiotropy that operates even within the same environment, where benefits and deleterious effects exhibit themselves at different growth rates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 951, 
+            "text": "The hfq mutations were beneficial, deleterious or neutral at an intermediate growth rate (0.5\u2009h(-1)) and one changed from beneficial to deleterious within a 36\u2009min difference in doubling time.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Two genetic models exist to explain the evolution of ageing - mutation accumulation (MA) and antagonistic pleiotropy (AP).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19226414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 345, 
+            "text": "Under AP, late-acting deleterious mutations accumulate because they confer beneficial effects early in life.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19226414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 1135, 
+            "text": "Many marker loci responded in opposite directions to selection for late- and early-life fitness, indicating negative genetic correlations or trade-offs between those traits. Indirect evidence suggested that some negative genetic correlations were due to antagonistic pleiotropy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15454545", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 311, 
+            "text": "Here, we describe a novel form of antagonistic pleiotropy that operates even within the same environment, where benefits and deleterious effects exhibit themselves at different growth rates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "The basis of antagonistic pleiotropy in hfq mutations that have opposite effects on fitness at slow and fast growth rates.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 310, 
+            "text": "Here, we describe a novel form of antagonistic pleiotropy that operates even within the same environment, where benefits and deleterious effects exhibit themselves at different growth rates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23169561", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "body": "Which disease is linked to mutations within BRAG1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22915114"
+    ], 
+    "ideal_answer": [
+        "Mutations in BRAG1 have been identified in families with X-linked intellectual disability (XLID)."
+    ], 
+    "exact_answer": [
+        "X-linked intellectual disability"
+    ], 
+    "type": "factoid", 
+    "id": "56f7fe3709dd18d46b000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 540, 
+            "text": "Mutations in BRAG1 have been identified in families with X-linked intellectual disability (XLID)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22915114", 
+            "endSection": "abstract"
+        }
+    ]
+}

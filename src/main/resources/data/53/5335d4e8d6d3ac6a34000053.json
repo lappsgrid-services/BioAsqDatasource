@@ -1,0 +1,424 @@
+{
+    "body": "Which receptors are targeted by a drug Macitentan?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22311911", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22862294", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23192269", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23830395", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24122306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23984728", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23900878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23077657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22458347", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21611927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21541781", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18780830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24297706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23068290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21670421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19765655", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21403842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24122797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23204120", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23817130", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23353592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24261583", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21175577", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23568224", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23682110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22348175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22189899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20730702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22525377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23829793", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23997048"
+    ], 
+    "ideal_answer": [
+        "Endothelin receptor A and endothelin receptor B are targeted by a drug Macitentan. Macitentan is a potent, orally active, non-peptide dual antagonist of endothelin receptors A and B that is approved for the treatment of pulmonary arterial hypertension."
+    ], 
+    "exact_answer": [
+        [
+            "endothelin receptor A"
+        ], 
+        [
+            "endothelin receptor B"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004872", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011955", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004364"
+    ], 
+    "type": "list", 
+    "id": "5335d4e8d6d3ac6a34000053", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 168, 
+            "text": "Macitentan is a novel dual endothelin receptor antagonist with sustained receptor binding in clinical development for pulmonary arterial hypertension. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23817130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 63, 
+            "offsetInEndSection": 304, 
+            "text": "This prospective, randomised, double-blind, multicentre, parallel-group, placebo-controlled phase II trial (NCT00903331) investigated the efficacy and safety of the endothelin receptor antagonist macitentan in idiopathic pulmonary fibrosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23682110", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Investigation of the effects of ketoconazole on the pharmacokinetics of macitentan, a novel dual endothelin receptor antagonist, in healthy subjects.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23568224", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 27, 
+            "offsetInEndSection": 243, 
+            "text": "Macitentan is a potent, orally active, non-peptide antagonist of endothelin receptors with tissue-targeting properties, currently undergoing clinical development for the treatment of pulmonary arterial hypertension. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23568224", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Interaction profile of macitentan, a new non-selective endothelin-1 receptor antagonist, in vitro.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23353592", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Macitentan is a new non-selective endothelin-1 receptor antagonist under development for the treatment of pulmonary arterial hypertension. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23353592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 796, 
+            "text": "This article highlights how the introduction of new compounds such as macitentan, riociguat and selexipag, which act on the endothelin, nitric oxide and prostacyclin pathways, respectively, have the potential to further improve the prognosis for patients with PAH.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23204120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 503, 
+            "text": "Dual ETRA/ETRB blockade with macitentan (or the combination of the ETRA and ETRB antagonists BQ123 and BQ788) did not enhance antitumor immune cell recruitment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23192269", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 433, 
+            "text": "The novel ERA macitentan has recently concluded testing in a Phase III morbidity/mortality clinical trial in PAH patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23077657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 448, 
+            "offsetInEndSection": 781, 
+            "text": "Given that the newest PAH drugs include a receptor tyrosine kinase antagonist (imatinib), a soluble guanylate cyclase stimulator (riociguat), an oral analog of prostacyclin (selexipag), and a tissue targeting ERA (macitentan) determination of appropriate combinations for various etiologies and clinical stages is urgently required. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23068290", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "The discovery of N-[5-(4-bromophenyl)-6-[2-[(5-bromo-2-pyrimidinyl)oxy]ethoxy]-4-pyrimidinyl]-N'-propylsulfamide (Macitentan), an orally active, potent dual endothelin receptor antagonist.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22862294", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 285, 
+            "offsetInEndSection": 572, 
+            "text": "Among these, compound 17 (macitentan, ACT-064992) emerged as particularly interesting as it is a potent inhibitor of ET(A) with significant affinity for the ET(B) receptor and shows excellent pharmacokinetic properties and high in vivo efficacy in hypertensive Dahl salt-sensitive rats. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22862294", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Renal, retinal and cardiac changes in type 2 diabetes are attenuated by macitentan, a dual endothelin receptor antagonist.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22525377", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 386, 
+            "text": "Here we investigated the effects of macitentan, an orally-active, tissue-targeting dual ET receptor antagonist on chronic complications in type 2 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22525377", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2936, 
+            "offsetInEndSection": 3233, 
+            "text": "Several specific therapeutic agents were developed for the medical management of PAH including prostanoids (epoprostenol, trepoprostenil, iloprost), endothelin receptor antagonists (bosentan, ambrisentan, macitentan soon available) and phosphodiesterase type 5 inhibitors (sildenafil, tadalafil). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23829793", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 845, 
+            "offsetInEndSection": 1229, 
+            "text": "The aim of the present study is to evaluate the in vitro effect of macitentan, an orally active tissue-targeting dual endothelin receptor antagonist, and its major metabolite (ACT-132577) on alpha smooth muscle actin (alphaSMA) expression, evaluated on dermal fibroblasts from healthy subjects and on dermal fibroblasts from lesional and non-lesional skin from sclerodermic patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23830395", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of macitentan, an endothelin receptor antagonist, in an ascending multiple-dose study in healthy subjects.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23900878", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "This multiple-ascending-dose study investigated safety, tolerability, pharmacokinetics, and pharmacodynamics, of macitentan, a new endothelin receptor antagonist (ERA) with sustained receptor binding and enhanced tissue penetration properties compared to other ERAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23900878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 324, 
+            "text": "We assessed the efficacy of macitentan, a new dual endothelin-receptor antagonist, using a primary end point of morbidity and mortality in a long-term trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23984728", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 866, 
+            "text": "Many clinical studies targeting the vasoconstrictor ET-1 pathway with receptor antagonists like bosentan and ambrisentan have shown strong results, even more optimism coming from macitentan, the newest drug.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23997048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 967, 
+            "text": "Promising candidates include tyrosine kinase antagonists (e.g. imatinib); soluble guanylate cyclase stimulators (riociguat); an oral analog of prostacyclin (selexipag); and a tissue targeting endothelin receptor antagonist (macitentan).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24122306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Pharmacokinetics of the novel dual endothelin receptor antagonist macitentan in subjects with hepatic or renal impairment.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24122797", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Efficacy, safety and clinical pharmacology of macitentan in comparison to other endothelin receptor antagonists in the treatment of pulmonary arterial hypertension.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24261583", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 116, 
+            "text": "Macitentan is a novel dual endothelin receptor antagonist (ERA) showing sustained receptor occupancy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24261583", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Macitentan (Opsumit\u00ae) is a novel dual endothelin receptor antagonist (ERA) with sustained receptor binding properties developed by Actelion Pharmaceuticals Ltd. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24297706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 698, 
+            "text": "Endothelin (ET)-1 influences pathological changes via two ET receptor subtypes (ETA and ETB), to which it binds with high affinity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24297706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1191, 
+            "offsetInEndSection": 1359, 
+            "text": "Macitentan was developed by modifying the structure of bosentan in the search for an optimal dual ERA with improved efficacy and tolerability compared with other ERAs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24297706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Absorption, distribution, metabolism, and excretion of macitentan, a dual endothelin receptor antagonist, in humans.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22458347", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "Macitentan is a tissue-targeting, dual endothelin receptor antagonist, currently under phase 3 investigation in pulmonary arterial hypertension. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22458347", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Antivascular therapy for multidrug-resistant ovarian tumors by macitentan, a dual endothelin receptor antagonist.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22348175", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 619, 
+            "offsetInEndSection": 806, 
+            "text": "The nonselective endothelin type A and B receptor antagonists bosentan (100 nmol/L) and macitentan (30 nmol/L) alone relaxed endothelin-contracted rings by 30\u00b15% and 24\u00b13%, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22311911", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Macitentan is a dual endothelin receptor antagonist under phase 3 investigation in pulmonary arterial hypertension.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22189899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1194, 
+            "offsetInEndSection": 1387, 
+            "text": "This rise could largely be prevented with the endothelin receptor antagonist macitentan (\u0394BP: 12.3\u00b11.5 mm Hg) and only mildly with Tempol, a superoxide dismutase mimetic (\u0394BP: 25.9\u00b12.3 mm Hg). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21670421", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 409, 
+            "offsetInEndSection": 643, 
+            "text": "Promising study results for the treatment of IPF were published for the triple tyrosine kinase inhibitor intedanib, other drugs such as the endothelin receptor antagonist (ERA) macitentan are currently investigated in clinical trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21611927", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 174, 
+            "text": "To study the pharmacokinetics, pharmacodynamics, and tolerability of rising single doses of macitentan, an endothelin receptor antagonist, in healthy male subjects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21541781", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "Macitentan (ACT-064992), a tissue-targeting endothelin receptor antagonist, enhances therapeutic efficacy of paclitaxel by modulating survival pathways in orthotopic models of metastatic human ovarian cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403842", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 184, 
+            "offsetInEndSection": 354, 
+            "text": "We investigated the therapeutic efficacy of the dual ETR antagonist, macitentan, on human ovarian cancer cells, SKOV3ip1 and IGROV1, growing orthotopically in nude mice. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Macitentan, a tissue-targeting endothelin receptor antagonist for the potential oral treatment of pulmonary arterial hypertension and idiopathic pulmonary fibrosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20730702", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 320, 
+            "text": "Macitentan (ACT-064992), under development by Actelion Ltd in collaboration with Japanese licensee Nippon Shinyaku Co Ltd, is an orally active, non-peptide dual endothelin (ET)(A) and ET(B) receptor antagonist for the potential treatment of idiopathic pulmonary fibrosis (IPF) and pulmonary arterial hypertension (PAH). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20730702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 620, 
+            "offsetInEndSection": 836, 
+            "text": "Macitentan, because of its ability to target the tissues and to block both ET(A) and ET(B) receptors, is emerging as a new agent to treat cardiovascular disorders associated with chronic tissue ET system activation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20730702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Comparison of the dissolution and pharmacokinetic profiles of two galenical formulations of the endothelin receptor antagonist macitentan.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19765655", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Macitentan (ACT-064992) is an orally active endothelin receptor antagonist. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19765655", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Pharmacology of macitentan, an orally active tissue-targeting dual endothelin receptor antagonist.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18780830", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 246, 
+            "text": "Macitentan, also called Actelion-1 or ACT-064992 [N-[5-(4-bromophenyl)-6-(2-(5-bromopyrimidin-2-yloxy)ethoxy)-pyrimidin-4-yl]-N'-propylaminosulfonamide], is a new dual ET(A)/ET(B) endothelin (ET) receptor antagonist designed for tissue targeting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18780830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 1013, 
+            "text": "Macitentan and its metabolite antagonized the specific binding of ET-1 on membranes of cells overexpressing ET(A) and ET(B) receptors and blunted ET-1-induced calcium mobilization in various natural cell lines, with inhibitory constants within the nanomolar range. In functional assays, macitentan and ACT-132577 inhibited ET-1-induced contractions in isolated endothelium-denuded rat aorta (ET(A) receptors) and sarafotoxin S6c-induced contractions in isolated rat trachea (ET(B) receptors). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18780830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1362, 
+            "offsetInEndSection": 1560, 
+            "text": "In conclusion, macitentan, by its tissue-targeting properties and dual antagonism of ET receptors, protects against end-organ damage in diabetes and improves survival in pulmonary hypertensive rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18780830", 
+            "endSection": "abstract"
+        }
+    ]
+}

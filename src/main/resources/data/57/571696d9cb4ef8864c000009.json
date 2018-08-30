@@ -1,0 +1,162 @@
+{
+    "body": "Can RNAPolII function as an RNA-dependent RNA-polymerase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17855633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20943989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17132145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16624367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18004386", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15827195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15964997"
+    ], 
+    "ideal_answer": [
+        "RNA polymerase II (Pol II) is a well-characterized DNA-dependent RNA polymerase, which has also been reported to have RNA-dependent RNA polymerase (RdRP) activity. Pol II can use a homopolymeric RNA template, can extend RNA by several nucleotides in the absence of DNA, and has been implicated in the replication of the RNA genomes of hepatitis delta virus (HDV) and plant viroids. The RdRP activity of Pol II provides a missing link in molecular evolution, because it suggests that Pol II evolved from an ancient replicase that duplicated RNA genomes.", 
+        "There is, however, evidence that Pol II also possesses RNA-dependent RNA polymerase (RdRP) activity. Here we show the intrinsic RdRP activity of Pol II with only pure polymerase, an RNA template-product scaffold and nucleoside triphosphates (NTPs). RNA polymerase II (Pol II) is a well-characterized DNA-dependent RNA polymerase, which has also been reported to have RNA-dependent RNA polymerase (RdRP) activity. We conclude that influenza A virus replication requires RNAP-II activity not just to provide capped mRNA substrates but also to facilitate nuclear export of selected viral mRNAs.", 
+        "RNA polymerase II acts as an RNA-dependent RNA polymerase to extend and destabilize a non-coding RNA"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012319"
+    ], 
+    "type": "yesno", 
+    "id": "571696d9cb4ef8864c000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "RNA polymerase II acts as an RNA-dependent RNA polymerase to extend and destabilize a non-coding RNA", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "RNA polymerase II (Pol II) is a well-characterized DNA-dependent RNA polymerase, which has also been reported to have RNA-dependent RNA polymerase (RdRP) activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 913, 
+            "text": ". Our studies provide compelling evidence that mammalian Pol II acts as an RdRP to control the stability of a cellular RNA by extending its 3'-end.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 407, 
+            "text": "here is, however, evidence that Pol II also possesses RNA-dependent RNA polymerase (RdRP) activity. Pol II can use a homopolymeric RNA template, can extend RNA by several nucleotides in the absence of DNA, and has been implicated in the replication of the RNA genomes of hepatitis delta virus (HDV) and plant viroids.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18004386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1171, 
+            "offsetInEndSection": 1341, 
+            "text": "The RdRP activity of Pol II provides a missing link in molecular evolution, because it suggests that Pol II evolved from an ancient replicase that duplicated RNA genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18004386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 793, 
+            "offsetInEndSection": 1017, 
+            "text": "The present findings provide a framework for further studies to elucidate the mechanistic principles of transcription by a viral RNA polymerase and have implications for the regulation of Pol II activities in infected cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15827195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Influenza A virus transcribes its segmented negative sense RNA genome in the nuclei of infected cells in a process long known to require host RNA polymerase II (RNAP-II).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17132145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1207, 
+            "offsetInEndSection": 1385, 
+            "text": "We conclude that influenza A virus replication requires RNAP-II activity not just to provide capped mRNA substrates but also to facilitate nuclear export of selected viral mRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17132145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 985, 
+            "text": "Thus, influenza virus specifically interferes with Pol II elongation, but not Pol II initiation. We propose that influenza virus RNA polymerase, by binding to the CTD of initiating Pol II and subsequent cleavage of the capped 5' end of the nascent transcript, triggers premature Pol II termination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16624367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 518, 
+            "offsetInEndSection": 737, 
+            "text": "We show that RNA polymerase II (RNAPolII) preinitiation complex recruitment and H3 Lys 4 (H3-K4) methylation at the Xist promoter form the basis of the Xist expression profiles that drives both imprinted and random XCI.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15964997", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 1096, 
+            "text": "Identification of these ENL-associated proteins (EAPs) by mass spectrometry revealed enzymes with a known role in transcriptional elongation (RNA polymerase II C-terminal domain kinase [RNAPolII CTD] positive transcription elongation factor b [pTEFb]), and in chromatin modification (histone-H3 methyltransferase DOT1L) as well as other frequent MLL partners (AF4, AF5q31, and LAF4), and polycomb group members (RING1, CBX8, and BCoR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17855633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "RNA polymerase II acts as an RNA-dependent RNA polymerase to extend and destabilize a non-coding RNA.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Association of the influenza A virus RNA-dependent RNA polymerase with cellular RNA polymerase II.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15827195", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 290, 
+            "text": "It is also well established that viral RNA-dependent RNA polymerase (vRNP) associates with cellular RNA polymerase II (Pol II), on which viral replication depends. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20943989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 317, 
+            "text": "RNA polymerase II (Pol II) is a well-characterized DNA-dependent RNA polymerase, which has also been reported to have RNA-dependent RNA polymerase (RdRP) activity. Natural cellular RNA substrates of mammalian Pol II, however, have not been identified and the cellular function of the Pol II RdRP activity is unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "RNA polymerase II (Pol II) is a well-characterized DNA-dependent RNA polymerase, which has also been reported to have RNA-dependent RNA polymerase (RdRP) activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "RNA polymerase II acts as an RNA-dependent RNA polymerase to extend and destabilize a non-coding RNA.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23395899", 
+            "endSection": "title"
+        }
+    ]
+}

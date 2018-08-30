@@ -1,0 +1,177 @@
+{
+    "body": "Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19956964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21258569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16410940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15328105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17548640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19302308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10988097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15347635", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12355367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17897062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1441463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19119013"
+    ], 
+    "ideal_answer": [
+        "Mycobacterium avium causes disseminated infection in patients with acquired immune deficiency syndrome. M tuberculosis disease is preventable and curable and yet communicable, physicians should maintain a high degree of suspicion for tuberculosis in HIV-infected adults. In comparison, the goal of treating M avium complex in patients with advanced HIV disease is to reduce constitutional symptoms and improve survival. Patients who were suspected to have disseminated mycobacterial infection, presenting fever and (preferably) a CD4 T cell count<100.0 cell/mL were investigated. Twelve (15%) of the 80 blood cultures were positive for mycobacteria, with Mycobacterium avium being identified in 7 (8.8%) samples and M. tuberculosis in 5 (6.2%).  The antimycobacterial activities of RS-112997, RS-124922 and RS-118641, three capuramycin analogues that inhibit phospho-N-acetylmuramyl-pentapeptide translocase, were tested against clinical isolates of Mycobacterium tuberculosis, Mycobacterium avium and Mycobacterium intracellulare. The MIC50/90 (mg/L) results for RS-118641 were: M. tuberculosis, 1/2; multidrug-resistant (MDR) M. tuberculosis, 0.5/2; M. avium, 4/8; and M. intracellulare, 0.06/0.5"
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "5710a650cf1c32585100002b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1447, 
+            "offsetInEndSection": 1550, 
+            "text": "The prevalence of MAC lung infection in two inner city hospitals was four times higher than that of TB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21258569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1792, 
+            "offsetInEndSection": 1908, 
+            "text": "Most patients with combined infection were clinically consistent with MTB and responded to anti MTB treatment alone.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21258569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1719, 
+            "offsetInEndSection": 1868, 
+            "text": "The triplex PCR developed by us could be used to detect and differentiate M. tuberculosis, M. avium and other mycobacteria in a single reaction tube.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19302308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 402, 
+            "offsetInEndSection": 567, 
+            "text": "Twelve (15%) of the 80 blood cultures were positive for mycobacteria, with Mycobacterium avium being identified in 7 (8.8%) samples and M. tuberculosis in 5 (6.2%). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16410940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 296, 
+            "text": "The antimycobacterial activities of RS-112997, RS-124922 and RS-118641, three capuramycin analogues that inhibit phospho-N-acetylmuramyl-pentapeptide translocase, were tested against clinical isolates of Mycobacterium tuberculosis, Mycobacterium avium and Mycobacterium intracellulare", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15347635", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 461, 
+            "offsetInEndSection": 627, 
+            "text": "The MIC50/90 (mg/L) results for RS-118641 were: M. tuberculosis, 1/2; multidrug-resistant (MDR) M. tuberculosis, 0.5/2; M. avium, 4/8; and M. intracellulare, 0.06/0.5", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15347635", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1456, 
+            "offsetInEndSection": 1692, 
+            "text": "These results suggest that capuramycin analogues exhibit strong antimycobacterial potential and should be considered for further evaluation in the treatment of M. tuberculosis and M. avium-M. intracellulare complex infections in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15347635", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Mycobacterium avium causes disseminated infection in patients with acquired immune deficiency syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12355367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 421, 
+            "offsetInEndSection": 694, 
+            "text": "Overall incidences of Mycobacterium tuberculosis (TB) and Mycobacterium avium complex (MAC) were 0.8 and 1.4 cases/100 person-years of follow-up (PYF), decreasing from 1.8 (TB) and 3.5 cases/100 PYF (MAC) before September 1995 to 0.3 and 0.2 cases/100 PYF after March 1997.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10988097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 750, 
+            "text": "Because M tuberculosis disease is preventable and curable and yet communicable, physicians should maintain a high degree of suspicion for tuberculosis in HIV-infected adults. In comparison, the goal of treating M avium complex in patients with advanced HIV disease is to reduce constitutional symptoms and improve survival.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1441463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1210, 
+            "offsetInEndSection": 1385, 
+            "text": "MAC pulmonary disease should be considered in the differential diagnosis of SPNs, even when encountered in geographic regions with a high prevalence of pulmonary tuberculosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19956964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 186, 
+            "offsetInEndSection": 400, 
+            "text": "From April 2001 to February 2002, 80 blood samples from patients who were suspected to have disseminated mycobacterial infection, presenting fever and (preferably) a CD4 T cell count<100.0 cell/mL were investigated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16410940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "IL-10 underlies distinct susceptibility of BALB/c and C57BL/6 mice to Mycobacterium avium infection and influences efficacy of antibiotic therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17548640", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Clinical utility of rifabutin 1 (RBT), a potent antibiotic used in multidrug regimens for tuberculosis (TB) as well as for infections caused by Mycobacterium avium complex (MAC), has been hampered due to dose-limiting toxicity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 214, 
+            "offsetInEndSection": 364, 
+            "text": "Effective therapeutic regimens exist that are limited by the emergence of drug resistance and the inability of antibiotics to kill dormant organisms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12355367", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "Clinical utility of rifabutin 1 (RBT), a potent antibiotic used in multidrug regimens for tuberculosis (TB) as well as for infections caused by Mycobacterium avium complex (MAC), has been hampered due to dose-limiting toxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 40, 
+            "offsetInEndSection": 179, 
+            "text": "a potent antibiotic used in multidrug regimens for tuberculosis (TB) as well as for infections caused by Mycobacterium avium complex (MAC),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Clinical utility of rifabutin 1 (RBT), a potent antibiotic used in multidrug regimens for tuberculosis (TB) as well as for infections caused by Mycobacterium avium complex (MAC), has been hampered due to dose-limiting toxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1048, 
+            "offsetInEndSection": 1214, 
+            "text": "tuberculosis appear to have different genetic mechanisms for resisting the effects of these antibiotics, with pks12 playing a relatively more significant role in MAC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15328105", 
+            "endSection": "abstract"
+        }
+    ]
+}

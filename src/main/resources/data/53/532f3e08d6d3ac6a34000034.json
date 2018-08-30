@@ -1,0 +1,93 @@
+{
+    "body": "Is shotgun lipidomics the direct infusion of a lipid sample into a mass spectrometer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17920553", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22629264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19408941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22946708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21207296", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22282095", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23825371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21755525"
+    ], 
+    "ideal_answer": [
+        "Yes, shotgun lipidomics relies on direct infusion of total lipid extracts into a high-resolution tandem mass spectrometer."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053719", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008055", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013058", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013057", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007260", 
+        "http://www.biosemantics.org/jochem#4269483"
+    ], 
+    "type": "yesno", 
+    "id": "532f3e08d6d3ac6a34000034", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 70, 
+            "offsetInEndSection": 122, 
+            "text": "In direct infusion/injection (or shotgun) lipidomics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23825371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 374, 
+            "text": "An efficient shotgun lipidomics strategy was established and optimized for fast phospholipid profiling of viscera from three fish species: Lateolabrax japonicas, Ctenopharyngodon idellus, and Carassius auratus. This strategy relies on direct infusion of total lipid extracts into a tandem mass spectrometer without additional separation of the individual molecular species. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22946708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Top-down shotgun lipidomics relies on direct infusion of total lipid extracts into a high-resolution tandem mass spectrometer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22282095", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 317, 
+            "text": "shotgun lipidomic approaches that use direct infusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21755525", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 304, 
+            "offsetInEndSection": 341, 
+            "text": "direct infusion (shotgun lipidomics) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21207296", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 694, 
+            "offsetInEndSection": 745, 
+            "text": "direct infusion-based shotgun lipidomics approaches", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22629264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 201, 
+            "offsetInEndSection": 306, 
+            "text": "shotgun lipidomics (MDMS-SL) data, which are acquired directly from lipid extracts after direct infusion ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19408941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 799, 
+            "offsetInEndSection": 1123, 
+            "text": "Through direct infusion of the resultant enriched solution, we identified and quantitated a variety of very-low-abundance sphingolipid classes (e.g., sphingosine, psychosine, and lysosphingomyelin) and molecular species (e.g., sphingomyelin) using electrospray ionization mass spectrometry (i.e., shotgun sphingolipidomics).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17920553", 
+            "endSection": "abstract"
+        }
+    ]
+}

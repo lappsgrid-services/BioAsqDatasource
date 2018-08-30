@@ -1,0 +1,135 @@
+{
+    "body": "Where in a protein can a signal sequence be found?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8077949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12551941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9624150", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8307567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8955395", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21834515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11575719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21572038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9013954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19453274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9551364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11231276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18931123"
+    ], 
+    "ideal_answer": [
+        "Proteins have signal sequences typically resent at the most N-terminal end."
+    ], 
+    "exact_answer": [
+        "N-terminally"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D021382"
+    ], 
+    "type": "factoid", 
+    "id": "550718e9fd1abe1741000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "A transmembrane domain (TMD) at the N-terminus of a membrane protein is a signal sequence that targets the protein to the endoplasmic reticulum (ER) membrane. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21834515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 384, 
+            "text": " an N-terminal signal sequence,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21572038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 865, 
+            "offsetInEndSection": 916, 
+            "text": "soluble AMO possesses an N-terminal signal sequence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19453274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 614, 
+            "offsetInEndSection": 669, 
+            "text": "n N-terminal \"twin arginine\" signal sequence suggested ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18931123", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Proteins destined for the mitochondrial matrix space have leader sequences that are typically present at the most N-terminal end of the nuclear-encoded precursor protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12551941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 60, 
+            "text": "N-terminal signal sequence ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11575719", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 884, 
+            "offsetInEndSection": 957, 
+            "text": "The predicted amino-acid sequence includes an N-terminal signal sequence ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11231276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 502, 
+            "offsetInEndSection": 560, 
+            "text": "These N-terminal sequences lack a typical signal sequence ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9624150", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 448, 
+            "text": " TAP can be bypassed by targeting peptides directly to the endoplasmic reticulum (ER) using NH2-terminal signal sequences. T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9551364", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 379, 
+            "offsetInEndSection": 415, 
+            "text": "The amino terminal signal sequence, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9013954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 562, 
+            "offsetInEndSection": 615, 
+            "text": "An amino-terminal domain containing a signal sequence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8955395", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 143, 
+            "offsetInEndSection": 340, 
+            "text": "A nuclear localization signal (NLS) sequence was previously defined by point mutations in three short adjacent clusters of basic amino acids located in the amino-terminal region of the E1 protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8077949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 618, 
+            "offsetInEndSection": 688, 
+            "text": "he human homologue also contains a putative N-terminal signal sequence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8307567", 
+            "endSection": "abstract"
+        }
+    ]
+}

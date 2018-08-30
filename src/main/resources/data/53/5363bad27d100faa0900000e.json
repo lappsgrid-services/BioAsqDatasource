@@ -1,0 +1,190 @@
+{
+    "body": "Which are the most abundant human lincRNA?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20459797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22840402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22718948", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17270048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12490325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22840393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22916204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23129630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8785513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23243023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9886562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24035497", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22858678", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22684254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23073843"
+    ], 
+    "ideal_answer": [
+        "MALAT1 (metastasis-associated lung adenocarcinoma transcript 1) locus is misregulated in many human cancers and produces an abundant long nuclear-retained noncoding RNA. MALAT/NEAT2 highly abundant, its expression is strongly regulated in many tumor entities including lung adenocarcinoma and hepatocellular carcinoma as well as physiological processes, and it is associated with many RNA binding proteins and highly conserved throughout evolution. H19 large intergenic non-coding RNA (lincRNA) is one of the most highly abundant and conserved transcripts in mammalian development, being expressed in both embryonic and extra-embryonic cell lineages, yet its physiological function is unknown. Our genome-wide screens in two mammalian species reveal no more than three abundant large non-coding polyadenylated RNAs in the nucleus; the canonical large noncoding RNA XIST and NEAT1 and NEAT2."
+    ], 
+    "exact_answer": [
+        [
+            "MALAT1", 
+            "MALAT-1", 
+            "NEAT2"
+        ], 
+        [
+            "NEAT1"
+        ], 
+        [
+            "H19"
+        ], 
+        [
+            "XIST"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D062085"
+    ], 
+    "type": "list", 
+    "id": "5363bad27d100faa0900000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 630, 
+            "offsetInEndSection": 817, 
+            "text": "One abundant such RNA, ci-ankrd52, largely accumulates to its sites of transcription, associates with elongation Pol II machinery, and acts as a positive regulator of Pol II transcription", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 279, 
+            "text": "long noncoding RNA MALAT1 (metastasis-associated lung adenocarcinoma transcript 1), also known as MALAT-1 or NEAT2 (nuclear-enriched abundant transcript 2), is a highly conserved nuclear noncoding RNA (ncRNA) and a predictive marker for metastasis development in lung cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23243023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 629, 
+            "text": "Because viruses borrow molecular mechanisms from their hosts, we searched highly abundant human long-noncoding RNAs and identified putative ENE-like structures in metastasis-associated lung adenocarcinoma transcript 1 (MALAT1) and multiple endocrine neoplasia-\u03b2 (MEN\u03b2) RNAs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23129630", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 173, 
+            "text": "MALAT1 (metastasis-associated lung adenocarcinoma transcript 1) locus is misregulated in many human cancers and produces an abundant long nuclear-retained noncoding RNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23073843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 418, 
+            "text": "Many long noncoding RNAs (lncRNAs) appear to have epigenetic regulatory function in humans, including HOTAIR and XIST.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22916204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 166, 
+            "text": "metastasis-associated lung adenocarcinoma transcript 1, MALAT1, is a long non-coding RNA (lncRNA) that has been discovered as a marker for lung cancer metastasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 439, 
+            "text": "It is highly abundant, its expression is strongly regulated in many tumor entities including lung adenocarcinoma and hepatocellular carcinoma as well as physiological processes, and it is associated with many RNA binding proteins and highly conserved throughout evolution.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1203, 
+            "offsetInEndSection": 1313, 
+            "text": "Thus, loss of the abundant nuclear long ncRNA MALAT1 is compatible with cell viability and normal development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 250, 
+            "text": "bundant expression of the long noncoding (lnc) PAN (polyadenylated nuclear) RNA by the human oncogenic gammaherpesvirus Kaposi's sarcoma-associated herpesvirus (KSHV) depends on a cis-element called the expression and nuclear retention element (ENE)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22840393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 162, 
+            "text": "alat1 is an abundant long, noncoding RNA that localizes to nuclear bodies known as nuclear speckles, which contain a distinct set of pre-mRNA processing factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22718948", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 251, 
+            "offsetInEndSection": 427, 
+            "text": "Malat1 (metastasis associated lung adenocarcinoma transcript 1) is among the most abundant and highly conserved lncRNAs, and it exhibits an uncommon 3'-end processing mechanism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22840402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 249, 
+            "text": "H19 large intergenic non-coding RNA (lincRNA) is one of the most highly abundant and conserved transcripts in mammalian development, being expressed in both embryonic and extra-embryonic cell lineages, yet its physiological function is unknown. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22684254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1643, 
+            "offsetInEndSection": 1838, 
+            "text": "Our genome-wide screens in two mammalian species reveal no more than three abundant large non-coding polyadenylated RNAs in the nucleus; the canonical large noncoding RNA XIST and NEAT1 and NEAT2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17270048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 149, 
+            "text": "19, which is one of the most abundantly expressed imprinted genes during mammalian embryonic and foetal development, has been cloned from a ruminant", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12490325", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 767, 
+            "offsetInEndSection": 974, 
+            "text": "H19 mRNA is highly abundant in most ovine embryonic and foetal tissues of mesodermal and endodermal origins but was not detected in tissues of ectodermal origin such as the trophectoderm and the foetal brain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12490325", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1264, 
+            "text": "Abundant expression of H19 was evident in fetal bladder but was absent in normal adult bladder", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9886562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1639, 
+            "offsetInEndSection": 1927, 
+            "text": "urthermore, we discuss results showing an abundant expression of H19 gene in some adenocarcinomas of bad prognosis, in the context of the otherwise established tumor-suppressor role of this gene, or the strictly controlled gene dosage, which could be overridden in these particular cases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8785513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 999, 
+            "offsetInEndSection": 1291, 
+            "text": "One of the first lncRNA genes discovered was MALAT1, the metastasis-associated lung adenocarcinoma transcript 1,21 later also referred to as NEAT2 for nuclear-enriched abundant transcript 2. MALAT1 is highly abundant and is expressed in many healthy organs, most strongly in pancreas and lung", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678", 
+            "endSection": "sections.0"
+        }
+    ]
+}

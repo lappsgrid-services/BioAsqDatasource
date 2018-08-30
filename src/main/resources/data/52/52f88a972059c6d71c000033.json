@@ -1,0 +1,75 @@
+{
+    "body": "Can life style changes reduce oxidative stress", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21150342", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23185200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19031760", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23105513"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18450882", 
+            "o": "D008019"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18450882", 
+            "o": "Life Style Induced Illness"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2936742", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18450882"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18450882", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Our results suggested that life style changes which related to migration might reduce DNA damage in Hasake nationalities."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008019", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018384"
+    ], 
+    "type": "yesno", 
+    "id": "52f88a972059c6d71c000033", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1016, 
+            "offsetInEndSection": 1435, 
+            "text": "The CFS group had an unfavorable lipid profile and signs of oxidative stress induced damage to lipids and proteins. These results might be indicative of early proatherogenic processes in this group of patients who are otherwise at low risk for atherosclerosis. Antioxidant treatment and life style changes are indicated for women with CFS, as well as closer observation in order to assess the degree of atherosclerosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23185200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1792, 
+            "offsetInEndSection": 1981, 
+            "text": "Once detected, these patients may be offered more aggressive treatment strategies such as early pharmacotherapy in addition to life style changes targeted to maintaining pericyte integrity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21150342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 855, 
+            "offsetInEndSection": 976, 
+            "text": "Our results suggested that life style changes which related to migration might reduce DNA damage in Hasake nationalities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19031760", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 943, 
+            "offsetInEndSection": 1268, 
+            "text": "Low levels of antioxidants and increased oxidative stress with insulin resistance in metabolic syndrome suggests that besides therapeutic life style changes (TLC) as suggested in ATP III guidelines inclusion of antioxidant vitamins, fruits and vegetable could be beneficial to ward off the consequences of metabolic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23105513", 
+            "endSection": "abstract"
+        }
+    ]
+}

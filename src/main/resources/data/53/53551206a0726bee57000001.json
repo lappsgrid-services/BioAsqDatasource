@@ -1,0 +1,126 @@
+{
+    "body": "What is the major adverse effect of adriamycin(doxorubicin)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15997091", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21295102", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3947104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12074691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15114698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3459397", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3461747", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12445862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7325994"
+    ], 
+    "ideal_answer": [
+        "Cardiac toxicity is a major adverse effect caused by doxorubicin (DOX) therapy  ", 
+        "Cardiac toxicity is a major adverse effect caused by doxorubicin (DOX) therapy. In spite of the routine use of this drug its major adverse effect, the dose-dependent cardiotoxicity, cannot be prevented yet. Cardiotoxicity is a major adverse effect of the anthracycline antibiotics and can be acute or chronic."
+    ], 
+    "exact_answer": [
+        "Cardiotoxicity", 
+        "Cardiac toxicity"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4269440", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004317"
+    ], 
+    "type": "factoid", 
+    "id": "53551206a0726bee57000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 972, 
+            "offsetInEndSection": 1158, 
+            "text": "It remains to be seen whether inhibition by adriamycin of these systems is related to the severe cardiotoxicity, the major adverse effect of the drug that limits its clinical usefulness.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7325994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 961, 
+            "offsetInEndSection": 1058, 
+            "text": "Leukocytopenia was the major adverse effect among patients undergoing systemic THP administration", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3947104", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 536, 
+            "offsetInEndSection": 589, 
+            "text": "The major adverse effect was bone-marrow suppression;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3459397", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 813, 
+            "offsetInEndSection": 866, 
+            "text": "The major adverse effect was bone marrow suppression;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3461747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 644, 
+            "offsetInEndSection": 746, 
+            "text": "Cardiotoxicity is a major adverse effect of the anthracycline antibiotics and can be acute or chronic;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12074691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 864, 
+            "offsetInEndSection": 1034, 
+            "text": "chronic cardiotoxicity represents a serious adverse effect that may be lethal due to the development of irreversible, cumulative dose-dependent, congestive cardiomyopathy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12074691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 380, 
+            "offsetInEndSection": 642, 
+            "text": "Myelosuppression, predominantly neutropenia and leucopenia, is the dose-limiting toxicity; in addition to this, mucositis, nausea, vomiting and alopecia are frequent, whereas hepatopathy, characterised by elevated bilirubin concentrations, occurs less frequently", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12074691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 240, 
+            "text": "In spite of the routine use of this drug its major adverse effect, the dose-dependent cardiotoxicity, cannot be prevented yet", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12445862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 434, 
+            "text": "The major adverse effect was myelosuppression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15114698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "Cardiac toxicity is a major adverse effect caused by doxorubicin (DOX) therapy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15997091", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Antioxidative and cardioprotective effects of Phyllanthus urinaria L. on doxorubicin-induced cardiotoxicity", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15997091", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 164, 
+            "text": "The major adverse effect of DOX treatment in cancer patients is the onset of cardiomyopathy and heart failure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21295102", 
+            "endSection": "abstract"
+        }
+    ]
+}

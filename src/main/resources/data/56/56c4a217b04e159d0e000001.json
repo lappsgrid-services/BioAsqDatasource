@@ -1,0 +1,156 @@
+{
+    "body": "Is the tricarboxylic acid (TCA) cycle affected in inflammation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23776651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24727425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21523508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24361092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21287666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25461442", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24086109", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25686106", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25798621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18383346"
+    ], 
+    "ideal_answer": [
+        "Metabolic reprogramming is implicated in macrophage activation. In many cases, intermediates of the TCA cycle are involved in the response to hypoxic conditions brought about by inflammation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007249", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002952", 
+        "http://amigo.geneontology.org/amigo/term/GO:0006099"
+    ], 
+    "type": "yesno", 
+    "id": "56c4a217b04e159d0e000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 210, 
+            "offsetInEndSection": 555, 
+            "text": "In this study, the levels of amino acids and trichloroacetic acid (TCA) cycle-related molecules in the colonic tissues and sera of patients with ulcerative colitis (UC) were profiled by gas chromatography/mass spectrometry (GC/MS), with the aim of evaluating whether the clinical state induced by UC leads to variations in the amino acid profile", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21523508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1142, 
+            "offsetInEndSection": 1290, 
+            "text": "Our study raises the possibility that GC/MS-based profiling of amino acids and TCA cycle-related molecules is a useful early diagnostic tool for UC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21523508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Succinate is an intermediate of the tricarboxylic acid (TCA) cycle, and plays a crucial role in adenosine triphosphate (ATP) generation in mitochondria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24361092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 876, 
+            "offsetInEndSection": 1025, 
+            "text": "In plasma, most metabolites in the central metabolic pathway (glycolysis and TCA cycle) were significantly downregulated after zymosan administration", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23776651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 804, 
+            "text": "Thus, IL-1beta+TNFalpha treated astrocytes show a marked decrease in glycogen levels, a slight but not significant decrease in lactate release as well as a massive increase in both the pentose phosphate pathway and TCA cycle activities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18383346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 663, 
+            "offsetInEndSection": 879, 
+            "text": "A total of 77 and 92 metabolites were detected in serum and colon tissue, respectively, and among the metabolites the compositions of TCA cycle intermediates and amino acids changed depending on the degree of colitis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21287666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 1119, 
+            "text": "Extension of these findings identified a functional role for stretch-induced inhibition of succinate dehydrogenase (SDH) in mediating normoxic HIF1A stabilization, concomitant increases in glycolytic capacity, and improved tricarboxylic acid (TCA) cycle function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24086109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1756, 
+            "offsetInEndSection": 2006, 
+            "text": "These studies reveal a surprising role for HIF1A in lung protection during ALI, where normoxic HIF1A stabilization and HIF-dependent control of alveolar-epithelial glucose metabolism function as an endogenous feedback loop to dampen lung inflammation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24086109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1347, 
+            "offsetInEndSection": 1570, 
+            "text": "These results suggest a cataplerosis of the TCA cycle induced by phenobarbital, caused by the massive withdrawal of succinyl-CoA by ALAS induction, such that the TCA cycle is unable to supply the reduced cofactors to the RC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24727425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 910, 
+            "text": "The mitochondrial respiratory chain (RC) and the tricarboxylic acid (TCA) cycle were explored in the Hmbs(-/-) mouse model. RC and TCA cycle were significantly affected in comparison to controls in mice treated with phenobarbital with decreased activities of RC complexes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24727425", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1460, 
+            "offsetInEndSection": 1711, 
+            "text": "Several changes in substrate utilization for energy homeostasis were identified in severe AAH, including increased glucose consumption by the pentose phosphate pathway, altered tricarboxylic acid (TCA) cycle activity, and enhanced peptide catabolism. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25461442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 814, 
+            "text": "Enhanced mitochondrial glucose oxidation was achieved by increased recruitment of the NOTCH1 intracellular domain (NICD1) to nuclear and mitochondrial genes that encode respiratory chain components and by NOTCH-dependent induction of pyruvate dehydrogenase phosphatase 1 (Pdp1) expression, pyruvate dehydrogenase activity, and glucose flux to the TCA cycle. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25798621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Metabolic reprogramming is implicated in macrophage activation,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25798621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1294, 
+            "offsetInEndSection": 1526, 
+            "text": "BHB blocks the NLRP3 inflammasome without undergoing oxidation in the TCA cycle, and independently of uncoupling protein-2 (UCP2), sirtuin-2 (SIRT2), the G protein-coupled receptor GPR109A or hydrocaboxylic acid receptor 2 (HCAR2). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25686106", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1865, 
+            "offsetInEndSection": 2030, 
+            "text": "Our findings suggest that the anti-inflammatory effects of caloric restriction or ketogenic diets may be linked to BHB-mediated inhibition of the NLRP3 inflammasome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25686106", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 46, 
+            "text": "Succinate: a metabolic signal in inflammation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24361092", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "body": "What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23580068", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21761402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20805372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22392042"
+    ], 
+    "ideal_answer": [
+        "In up to two thirds of breast cancer patients associated with Li-Fraumeni syndrome, the HER-2 status was found to be positive."
+    ], 
+    "exact_answer": [
+        "Positive"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:1612", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060079", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001943", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050671", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3012", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018579", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016864"
+    ], 
+    "type": "factoid", 
+    "id": "52f21b722059c6d71c00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 257, 
+            "text": "Breast cancer is the most frequent tumor in Li-Fraumeni syndrome (LFS), a rare inherited cancer syndrome associated with germline mutations in the TP53 gene. Recent data show that breast cancer in germline TP53 mutation carriers is commonly HER2+ (63-83 %).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23580068", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 403, 
+            "text": "Breast cancers in TP53 mutation carriers recently have more often been reported to be hormone receptor and HER-2 positive by immunohistochemistry and FISH in small series.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22392042", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1682, 
+            "offsetInEndSection": 1782, 
+            "text": "Most DCIS and invasive ductal carcinomas in LFS are hormone receptor positive and/or HER-2 positive.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22392042", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Early onset HER2-positive breast cancer is associated with germline TP53 mutations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761402", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 130, 
+            "text": "Germline TP53 mutations predispose to early onset breast cancer in women and are associated with Li-Fraumeni syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 614, 
+            "offsetInEndSection": 895, 
+            "text": "Patients who tested positive for germlineTP53 mutations (n = 30) were compared with controls (n = 79). Human epidermal growth factor receptor 2 (HER2) amplification and/or overexpression was found in 67% of the tumors from the cases, compared with 25% for the controls (P = .0001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1445, 
+            "offsetInEndSection": 1556, 
+            "text": "This study suggests an association between germline TP53 mutations and early onset HER2-positive breast cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "A novel HER2-positive breast cancer phenotype arising from germline TP53 mutations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805372", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 141, 
+            "text": "The Li-Fraumeni Syndrome is caused by a germline TP53 mutation and is associated with a high risk of breast cancer at young ages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 790, 
+            "offsetInEndSection": 1035, 
+            "text": "Patients carrying a TP53 mutation showed a significantly higher likelihood of developing a breast cancer with Human Epidermal growth factor Receptor (HER2) amplification (83%) when compared to the cohort of young onset breast cancer cases (16%);", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1126, 
+            "offsetInEndSection": 1252, 
+            "text": "breast cancer developing on a background of an inherited TP53 mutation is highly likely to present with amplification of HER2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805372", 
+            "endSection": "abstract"
+        }
+    ]
+}

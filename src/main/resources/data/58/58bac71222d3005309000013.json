@@ -1,0 +1,273 @@
+{
+    "body": "Which histone mutation is associated with gliomas?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26957305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24242757", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27034984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27701736", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26297251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27392443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23603901", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22661320", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24285547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23539183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25170156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25773741", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25525250", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25401693"
+    ], 
+    "ideal_answer": [
+        "Pediatric central nervous system tumors are the most common solid tumor of childhood. Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3.", 
+        "Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3. Genome-wide analyses indicate a resetting of the transformed precursors to a developmentally more primitive stem cell state, with evidence of major modifications of histone marks at several master regulator genes.", 
+        "some of these molecular changes with clinicopathological utility have been used for the first time in the most recent edition of the world health organization (who) classification of cns tumours to define entities like ependymoma, rela fusion-positive or diffuse midline glioma, h3 k27m-mutant.", 
+        "Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3"
+    ], 
+    "exact_answer": [
+        "K27M in H3.3"
+    ], 
+    "type": "factoid", 
+    "id": "58bac71222d3005309000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 212, 
+            "text": "Over 70% of diffuse intrinsic pediatric gliomas, an aggressive brainstem tumor, harbor heterozygous mutations that create a K27M amino acid substitution (methionine replaces lysine 27) in the tail of histone H3.3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25525250", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 546, 
+            "text": "We show that H3.3K27M expression synergizes with p53 loss and PDGFRA activation in neural progenitor cells derived from human embryonic stem cells, resulting in neoplastic transformation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25525250", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 436, 
+            "offsetInEndSection": 730, 
+            "text": "Some of these molecular changes with clinicopathological utility have been used for the first time in the most recent edition of the World Health Organization (WHO) classification of CNS tumours to define entities like ependymoma, RELA fusion-positive or diffuse midline glioma, H3 K27M-mutant.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27701736", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 828, 
+            "text": "The recent discovery of somatic oncogenic mutations affecting chromatin regulation in pediatric high-grade glioma has markedly improved our understanding of disease pathogenesis, and these findings have stimulated the development of novel therapeutic approaches targeting epigenetic regulators for disease treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27034984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Use of human embryonic stem cells to model pediatric gliomas with H3.3K27M histone mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25525250", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1184, 
+            "offsetInEndSection": 1444, 
+            "text": "In this series, histone H3-K27M mutation was mutually exclusive with IDH1 mutation and EGFR amplification, rarely co-occurred with BRAF-V600E mutation, and was commonly associated with p53 overexpression, ATRX loss (except in pontine gliomas), and monosomy 10.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 249, 
+            "text": "Histone H3.3 (H3F3A) mutation in the codon for lysine 27 (K27M) has been found as driver mutations in pediatric glioblastoma and has been suggested to play critical roles in the pathogenesis of thalamic gliomas and diffuse intrinsic pontine gliomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27392443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Diffuse Midline Gliomas with Histone H3-K27M Mutation: A Series of 47 Cases Assessing the Spectrum of Morphologic Variation and Associated Genetic Alterations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 392, 
+            "offsetInEndSection": 479, 
+            "text": "Here, we describe a series of 47 diffuse midline gliomas with histone H3-K27M mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Histone H3 lysine(27)-to-methionine (H3K27M) gain-of-function mutations occur in highly aggressive pediatric gliomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25170156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Sequencing of pediatric gliomas has identified missense mutations Lys27Met (K27M) and Gly34Arg/Val (G34R/V) in genes encoding histone H3.3 (H3F3A) and H3.1 (HIST3H1B).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23539183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Pediatric brainstem gliomas often harbor oncogenic K27M mutation of histone H3.3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25401693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 454, 
+            "text": "We report that human diffuse intrinsic pontine gliomas (DIPGs) containing the K27M mutation display significantly lower overall amounts of H3 with trimethylated lysine 27 (H3K27me3) and that histone H3K27M transgenes are sufficient to reduce the amounts of H3K27me3 in vitro and in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23539183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1599, 
+            "offsetInEndSection": 1739, 
+            "text": "In particular, histone genes (H3F3A (K27M) , HIST1H3B (K27M) ) mutations are frequent in adult DIBG whereas IDH1 (R132H) mutations are rare.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24242757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "K27M mutation in histone H3.3 defines clinically and biologically distinct subgroups of pediatric diffuse intrinsic pontine gliomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22661320", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 214, 
+            "offsetInEndSection": 290, 
+            "text": "The role of the H3.3K27M mutation in tumorigenesis is not fully understood. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25525250", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "The histone H3.3K27M mutation in pediatric glioma reprograms H3K27 methylation and gene expression.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23603901", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1191, 
+            "offsetInEndSection": 1524, 
+            "text": "In this series, histone H3-K27M mutation was mutually exclusive with IDH1 mutation and EGFR amplification, rarely co-occurred with BRAF-V600E mutation, and was commonly associated with p53 overexpression, ATRX loss (except in pontine gliomas), and monosomy 10. <CopyrightInformation>\u00a9 2015 International Society of Neuropathology.</C", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 385, 
+            "text": "We established a Drosophila animal model for the pathogenic histone H3K27M mutation and show that its overexpression resembles polycomb repressive complex 2 (PRC2) loss-of-function phenotypes, causing derepression of PRC2 target genes and developmental perturbations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25170156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 394, 
+            "offsetInEndSection": 481, 
+            "text": "Here, we describe a series of 47 diffuse midline gliomas with histone H3-K27M mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 455, 
+            "text": "We report that human diffuse intrinsic pontine gliomas (DIPGs) containing the K27M mutation display significantly lower overall amounts of H3 with trimethylated lysine 27 (H3K27me3) and that histone H3K27M transgenes are sufficient to reduce the amounts of H3K27me3 in vitro and in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23539183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1285, 
+            "offsetInEndSection": 1552, 
+            "text": "In contrast, thalamic gliomas with wild-type H3F3A had DNA methylation profiles similar to those of hemispheric glioblastomas.CONCLUSION: We found that high-grade thalamic gliomas from young adults, like those from children and adolescents, frequently had H3F3A K27M.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24285547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1168, 
+            "offsetInEndSection": 1284, 
+            "text": "Gliomas with H3F3A K27M from pediatric or young adult patients had similar, characteristic DNA methylation profiles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24285547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1489, 
+            "offsetInEndSection": 1692, 
+            "text": "Although the K27M mutation was frequently observed in adult brainstem and thalamic gliomas, this mutation tended to be associated with a poorer prognosis in brainstem gliomas but not in thalamic gliomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26297251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Diffuse Midline Gliomas with Histone H3-K27M Mutation: A Series of 47 Cases Assessing the Spectrum of Morphologic Variation and Associated Genetic Alterations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1191, 
+            "offsetInEndSection": 1451, 
+            "text": "In this series, histone H3-K27M mutation was mutually exclusive with IDH1 mutation and EGFR amplification, rarely co-occurred with BRAF-V600E mutation, and was commonly associated with p53 overexpression, ATRX loss (except in pontine gliomas), and monosomy 10.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26517431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "The H3.3 K27M mutation results in a poorer prognosis in brainstem gliomas than thalamic gliomas in adults.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26297251", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "K27M mutation in histone H3.3 defines clinically and biologically distinct subgroups of pediatric diffuse intrinsic pontine gliomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22661320", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 400, 
+            "offsetInEndSection": 651, 
+            "text": "Recently, sequencing of tumor cells revealed that histone H3 is frequently mutated in pediatric HGG, with up to 78\u00a0% of diffuse intrinsic pontine gliomas (DIPGs) carrying K27M and 36\u00a0% of non-brainstem gliomas carrying either K27M or G34R/V mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25773741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1011, 
+            "offsetInEndSection": 1153, 
+            "text": "Interestingly, the G34 mutations, the K36M mutations, and the majority of K27M mutations occur in genes encoding the replacement histone H3.3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25773741", 
+            "endSection": "abstract"
+        }
+    ]
+}

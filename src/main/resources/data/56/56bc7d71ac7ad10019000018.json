@@ -1,0 +1,152 @@
+{
+    "body": "Which disease can be treated with Delamanid?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26288734", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24729727", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22670901"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20909765", 
+            "o": "C516022"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0049608", 
+            "o": "D004194"
+        }
+    ], 
+    "ideal_answer": [
+        "Delamanid is used in patients with multidrug-resistant tuberculosis."
+    ], 
+    "exact_answer": [
+        "tuberculosis"
+    ], 
+    "type": "factoid", 
+    "id": "56bc7d71ac7ad10019000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 362, 
+            "text": "Recently approved anti-Tb drugs (bedaquiline and delamanid) have the potential to induce arrhythmia and are recommended in patients with MDR-Tb when other alternatives fail.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26288734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Delamanid: a review of its use in patients with multidrug-resistant tuberculosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "Delamanid (Deltyba(\u00ae)), a nitroimidazo-oxazole derivative, is a new anti-tuberculosis (TB) drug which exhibits potent in vitro and in vivo antitubercular activity against drug-susceptible and -resistant strains of Mycobacterium tuberculosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 758, 
+            "text": "In a robust phase\u00a0II trial in adult patients with MDR-TB, oral delamanid 100\u00a0mg twice daily for 2\u00a0months plus an optimized background regimen improved sputum culture conversion rates to a significantly greater extent than placebo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1653, 
+            "offsetInEndSection": 1769, 
+            "text": "In conclusion, delamanid is a useful addition to the treatment options currently available for patients with MDR-TB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Delamanid when other anti-tuberculosis-treatment regimens failed due to resistance or tolerability.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 533, 
+            "text": "This review covers the efficacy and safety of delamanid for MDR-TB.AREA COVERED: This paper reviews the pharmacological profile of delamanid and the results of clinical trials evaluating its efficacy for treating MDR-TB in combination with other anti-TB drugs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 750, 
+            "text": "EXPERT OPINION: Delamanid showed potent activity against drug-susceptible and -resistant Mycobacterium tuberculosis in both in vitro and in vivo studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 986, 
+            "offsetInEndSection": 1097, 
+            "text": "In addition, decreased mortality was observed in MDR-TB patients who received>6 months of delamanid treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1228, 
+            "offsetInEndSection": 1455, 
+            "text": "Therefore, delamanid could be used as part of an appropriate combination regimen for pulmonary MDR-TB in adult patients when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25327169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Delamanid for multidrug-resistant pulmonary tuberculosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22670901", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 741, 
+            "text": "BACKGROUND: Delamanid (OPC-67683), a nitro-dihydro-imidazooxazole derivative, is a new antituberculosis medication that inhibits mycolic acid synthesis and has shown potent in vitro and in vivo activity against drug-resistant strains of Mycobacterium tuberculosis.METHODS: In this randomized, placebo-controlled, multinational clinical trial, we assigned 481 patients (nearly all of whom were negative for the human immunodeficiency virus) with pulmonary multidrug-resistant tuberculosis to receive delamanid, at a dose of 100 mg twice daily (161 patients) or 200 mg twice daily (160 patients), or placebo (160 patients) for 2 months in combination with a background drug regimen developed according to World Health Organization guidelines. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22670901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2099, 
+            "offsetInEndSection": 2206, 
+            "text": "This finding suggests that delamanid could enhance treatment options for multidrug-resistant tuberculosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22670901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1193, 
+            "offsetInEndSection": 1484, 
+            "text": "Delamanid was not associated with clinically relevant drug-drug interactions, including with antiretroviral drugs and those commonly used in treating TB. Delamanid was generally well tolerated in patients with MDR-TB, with gastrointestinal adverse events and insomnia reported most commonly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25404020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1233, 
+            "offsetInEndSection": 1444, 
+            "text": "Linezolid may represent a valuable drug to treat cases of XDR-TB. Delamanid, bedaquiline, and PA-824 are new anti-TB agents in the development pipeline that have the potential to enhance the cure rate of XDR-TB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24729727", 
+            "endSection": "abstract"
+        }
+    ]
+}

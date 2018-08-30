@@ -1,0 +1,258 @@
+{
+    "body": "Is H4K20 methylation associated with DNA replication?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24049080", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24013172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20735237", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23924899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23345616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26598646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27268234", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23754963"
+    ], 
+    "ideal_answer": [
+        "We employed genetic, cytological, and genomic approaches to better understand the role of PR-Set7 and H4K20 methylation in regulating DNA replication and genome stability in Drosophila cells. Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes. The methylation state of lysine 20 on histone H4 (H4K20) has been linked to chromatin compaction, transcription, DNA repair and DNA replication. Histone turnover is often associated with various histone modifications such as H3K56 acetylation (H3K56Ac), H3K36 methylation (H3K36me), and H4K20 methylation (H4K20me). We review the signaling pathways and functions associated with a single residue, H4K20, as a model chromatin and clinically important mark that regulates biological processes ranging from the DNA damage response and DNA replication to gene expression and silencing. <CopyrightInformation>\u00a9 2016 by The American Society for Biochemistry and Molecular Biology, Inc.</C In particular, the methylation states of H3K4, H3K36 and H4K20 have been associated with establishing active, repressed or poised origins depending on the timing and extent of methylation. 5BrC and 5ClC may cause aberrant methylation of cytosine during DNA replication and mimic the endogenous methylation signal associated with gene silencing.", 
+        "H4K20 methylation regulates quiescence and chromatin compaction. H4K20 methylation status plays a direct role in recruiting ORC through the binding properties of ORC1 and ORCA/LRWD1. Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes.  Intense research during the past few years has revealed histone H4 lysine 20 methylation (H4K20me) as critically important for the biological processes that ensure genome integrity, such as DNA damage repair, DNA replication and chromatin compaction.", 
+        "The methylation state of lysine 20 on histone H4 (H4K20) has been linked to chromatin compaction, transcription, DNA repair and DNA replication. Disruption of these H4K20-specific histone methyltransferases leads to genomic instability, demonstrating the important functions of H4K20 methylation in genome maintenance.", 
+        "Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes. The methylation state of lysine 20 on histone H4 (H4K20) has been linked to chromatin compaction, transcription, DNA repair and DNA replication."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58adbe999ef3c34033000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1178, 
+            "text": "It seems likely that continued study of the methylation of H4K20 will yield extremely valuable insights concerning the regulation of histone modifications before and during cell division and the impact of these modifications on subsequent gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20735237", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 505, 
+            "offsetInEndSection": 629, 
+            "text": "Aberrant rereplication correlates with decreased levels of H4K20me1 and increased levels of H4K20 trimethylation (H4K20me3).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 980, 
+            "offsetInEndSection": 1255, 
+            "text": "Consistent with this, H4K20 methylation status plays a direct role in recruiting ORC through the binding properties of ORC1 and ORCA/LRWD1. Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "H4K20 methylation regulates quiescence and chromatin compaction.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23924899", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 371, 
+            "offsetInEndSection": 580, 
+            "text": "Mass spectrometry analysis of histone modifications reveals that H4K20me2 and H4K20me3 increase in quiescence and other histone modifications are present at similar levels in proliferating and quiescent cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23924899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 726, 
+            "text": "Analysis of cells in S, G2/M, and G1 phases shows that H4K20me1 increases after S phase and is converted to H4K20me2 and H4K20me3 in quiescence. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23924899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 898, 
+            "offsetInEndSection": 1249, 
+            "text": "Overexpression of Suv4-20h1, the enzyme that creates H4K20me2 from H4K20me1, results in G2 arrest, consistent with a role for H4K20me1 in mitosis. The results suggest that the same lysine on H4K20 may, in its different methylation states, facilitate mitotic functions in M phase and promote chromatin compaction and cell cycle exit in quiescent cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23924899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Histone H4 lysine 20 methylation: key player in epigenetic regulation of genomic integrity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23345616", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 611, 
+            "text": " Intense research during the past few years has revealed histone H4 lysine 20 methylation (H4K20me) as critically important for the biological processes that ensure genome integrity, such as DNA damage repair, DNA replication and chromatin compaction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23345616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 994, 
+            "text": "Disruption of these H4K20-specific histone methyltransferases leads to genomic instability, demonstrating the important functions of H4K20 methylation in genome maintenance. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23345616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Both H4K20 mono-methylation and H3K56 acetylation mark transcription-dependent histone turnover in fission yeast.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27268234", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 291, 
+            "text": "Histone turnover is often associated with various histone modifications such as H3K56 acetylation (H3K56Ac), H3K36 methylation (H3K36me), and H4K20 methylation (H4K20me).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27268234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 974, 
+            "offsetInEndSection": 1121, 
+            "text": "These results together indicate that H4K20me1 as well as H3K56Ac are bona fide marks for transcription-dependent histone turnover in fission yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27268234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Methylation of histone H4 lysine 20 by PR-Set7 ensures the integrity of late replicating sequence domains in Drosophila.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 453, 
+            "offsetInEndSection": 636, 
+            "text": "However, these studies were limited to only a handful of mammalian origins, and it remains unclear how PR-Set7 and H4K20 methylation impact the replication program on a genomic scale.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 254, 
+            "text": "The methylation state of lysine 20 on histone H4 (H4K20) has been linked to chromatin compaction, transcription, DNA repair and DNA replication. Monomethylation of H4K20 (H4K20me1) is mediated by the cell cycle-regulated histone methyltransferase PR-Set7", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 828, 
+            "offsetInEndSection": 1066, 
+            "text": " We find that deregulation of H4K20 methylation had no impact on origin activation throughout the genome. Instead, depletion of PR-Set7 and loss of H4K20me1 results in the accumulation of DNA damage and an ATR-dependent cell cycle arrest.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 875, 
+            "text": "We review the signaling pathways and functions associated with a single residue, H4K20, as a model chromatin and clinically important mark that regulates biological processes ranging from the DNA damage response and DNA replication to gene expression and silencing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26598646", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1113, 
+            "offsetInEndSection": 1248, 
+            "text": "Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 824, 
+            "text": "We employed genetic, cytological, and genomic approaches to better understand the role of PR-Set7 and H4K20 methylation in regulating DNA replication and genome stability in Drosophila cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "The methylation state of lysine 20 on histone H4 (H4K20) has been linked to chromatin compaction, transcription, DNA repair and DNA replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 633, 
+            "text": "However, these studies were limited to only a handful of mammalian origins, and it remains unclear how PR-Set7 and H4K20 methylation impact the replication program on a genomic scale.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 351, 
+            "text": "Methylation of histone H4 lysine-20 has been implicated in DNA repair, transcriptional silencing, genomic stability and regulation of replication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24049080", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1120, 
+            "offsetInEndSection": 1254, 
+            "text": "Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Methylation of histone H3 on lysine 79 associates with a group of replication origins and helps limit DNA replication once per cell cycle", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23754963", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 828, 
+            "text": "We employed genetic, cytological, and genomic approaches to better understand the role of PR-Set7 and H4K20 methylation in regulating DNA replication and genome stability in Drosophila cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27131378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 976, 
+            "text": "We review the signaling pathways and functions associated with a single residue, H4K20, as a model chromatin and clinically important mark that regulates biological processes ranging from the DNA damage response and DNA replication to gene expression and silencing. <CopyrightInformation>\u00a9 2016 by The American Society for Biochemistry and Molecular Biology, Inc.</C", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26598646", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1120, 
+            "offsetInEndSection": 1256, 
+            "text": "Thus, coordinating the status of H4K20 methylation is pivotal for the proper selection of DNA replication origins in higher eukaryotes..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 361, 
+            "offsetInEndSection": 611, 
+            "text": "Intense research during the past few years has revealed histone H4 lysine 20 methylation (H4K20me) as critically important for the biological processes that ensure genome integrity, such as DNA damage repair, DNA replication and chromatin compaction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23345616", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "body": "Which are the most common methods for circular RNA detection from RNASeq?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26657634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27167008"
+    ], 
+    "ideal_answer": [
+        "The main algorithms are circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice.", 
+        "Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance. ", 
+        "Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance.", 
+        "CircRNAs are novel members of the non-coding RNA family. Several pipelines have been developed to specifically identify these non-linear reads and consequently predict the landscape of circRNAs based on deep sequencing datasets. Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance.", 
+        ", use common rnaseq datasets to scrutinize and compare the output from five different algorithms; circrna_finder , find_circ , circexplorer , ciri , and mapsplice and evaluate the levels of bona fide and false positive circrnas based on rnase r resistance. . ", 
+        "here, we use common rnaseq datasets to scrutinize and compare the output from five different algorithms; circrna.finder, find.circ, circexplorer, ciri, and mapsplice and evaluate the levels of bona fide and false positive circrnas based on rnase r resistance."
+    ], 
+    "exact_answer": [
+        [
+            "circRNA_finder"
+        ], 
+        [
+            "find_circ"
+        ], 
+        [
+            "CIRCexplorer"
+        ], 
+        [
+            "CIRI"
+        ], 
+        [
+            "MapSplice"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58e640573e8b6dc87c000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 751, 
+            "text": "Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26657634", 
+            "endSection": "abstract"
+        }
+    ]
+}

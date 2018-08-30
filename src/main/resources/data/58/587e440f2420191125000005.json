@@ -1,0 +1,50 @@
+{
+    "body": "Does CRISPR inversion of CTCF sites alter genome topology?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26276636"
+    ], 
+    "ideal_answer": [
+        "Yes. CRISPR inversion of CTCF sites alters genome topology."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064113", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064112"
+    ], 
+    "type": "yesno", 
+    "id": "587e440f2420191125000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26276636", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 258, 
+            "offsetInEndSection": 1185, 
+            "text": "To test the functional significance of this observation, we combined CRISPR/Cas9-based genomic-DNA-fragment editing with chromosome-conformation-capture experiments to show that the location and relative orientations of CBSs determine the specificity of long-range chromatin looping in mammalian genomes, using protocadherin (Pcdh) and \u03b2-globin as model genes. Inversion of CBS elements within the Pcdh enhancer reconfigures the topology of chromatin loops between the distal enhancer and target promoters and alters gene-expression patterns. Thus, although enhancers can function in an orientation-independent manner in reporter assays, in the native chromosome context, the orientation of at least some enhancers carrying CBSs can determine both the architecture of topological chromatin domains and enhancer/promoter specificity. These findings reveal how 3D chromosome architecture can be encoded by linear genome sequences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26276636", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26276636", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26276636", 
+            "endSection": "title"
+        }
+    ]
+}

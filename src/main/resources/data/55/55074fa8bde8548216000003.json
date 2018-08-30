@@ -1,0 +1,132 @@
+{
+    "body": "What is the definition and the biological role of epithelial-mesenchymal transition (EMT)", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22844540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20819124", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24278531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17922020", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23001200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23073116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14644200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19249648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24090504"
+    ], 
+    "ideal_answer": [
+        "Epithelial-mesenchymal transition (EMT) is a complex process in which epithelial cells acquire the characteristics of invasive mesenchymal cells. EMT has been implicated in cancer progression and metastasis as well as the formation of many tissues and organs during development. Epithelial cells undergoing EMT lose cell-cell adhesion structures and polarity, and rearrange their cytoskeletons. Several oncogenic pathways such as transforming growth factor (TGF) -\u03b2, Wnt, and Notch signaling pathways, have been shown to induce EMT. The epithelial-mesenchymal transition (EMT) is a fundamental process governing morphogenesis in multicellular organisms. This process is also reactivated in a variety of diseases including fibrosis and in the progression of carcinoma.", 
+        "This process is also reactivated in a variety of diseases including fibrosis and in the progression of carcinoma. This term is used to describe the mechanisms facilitating cellular repositioning and redeployment during embryonic development and tissue reconstruction after injury. Several oncogenic pathways such as transforming growth factor (TGF) -\u03b2, Wnt, and Notch signaling pathways, have been shown to induce EMT. Recently, EMT has also been applied to potential mechanisms for malignant progression and has appeared as a specific diagnostic category of tumors. EMT has been implicated in cancer progression and metastasis as well as the formation of many tissues and organs during development. EMT has also been reported to produce cells with stem cell-like properties. These pathways have activated transcription factors including Snail, Slug, and the ZEB family which work as transcriptional repressors of E-cadherin, thereby making epithelial cells motile and resistant to apoptosis. Epithelial cells undergoing EMT lose cell-cell adhesion structures and polarity, and rearrange their cytoskeletons. Epithelial-to-mesenchymal transition (EMT) is a process known to contribute to metastasis in cancer and it is mainly characterized by loss of E-cadherin expression. ", 
+        "This term is used to describe the mechanisms facilitating cellular repositioning and redeployment during embryonic development and tissue reconstruction after injury. This process is also reactivated in a variety of diseases including fibrosis and in the progression of carcinoma. Several oncogenic pathways such as transforming growth factor (TGF) -\u03b2, Wnt, and Notch signaling pathways, have been shown to induce EMT. Recently, EMT has also been applied to potential mechanisms for malignant progression and has appeared as a specific diagnostic category of tumors. EMT has been implicated in cancer progression and metastasis as well as the formation of many tissues and organs during development. EMT has also been reported to produce cells with stem cell-like properties. These pathways have activated transcription factors including Snail, Slug, and the ZEB family which work as transcriptional repressors of E-cadherin, thereby making epithelial cells motile and resistant to apoptosis. Epithelial cells undergoing EMT lose cell-cell adhesion structures and polarity, and rearrange their cytoskeletons. Epithelial-to-mesenchymal transition (EMT) is a process known to contribute to metastasis in cancer and it is mainly characterized by loss of E-cadherin expression. "
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060317", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001837", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060231"
+    ], 
+    "type": "summary", 
+    "id": "55074fa8bde8548216000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 711, 
+            "text": "Epithelial-to-mesenchymal transition (EMT) is a process known to contribute to metastasis in cancer and it is mainly characterized by loss of E-cadherin expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24090504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 712, 
+            "offsetInEndSection": 957, 
+            "text": "The TGF-\u03b2 signaling pathway has an established role in promoting EMT by down-regulating E-cadherin via a number of transcription factors, such as Twist, Snail and Slug. EMT has also been reported to produce cells with stem cell-like properties. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24090504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Epithelial to mesenchymal transition (EMT) has been hypothesized as a mechanism by which cells change phenotype during carcinogenesis, as well as tumor metastasis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22844540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 532, 
+            "text": "Epithelial-mesenchymal transition (EMT) is a complex process in which epithelial cells acquire the characteristics of invasive mesenchymal cells. EMT has been implicated in cancer progression and metastasis as well as the formation of many tissues and organs during development. Epithelial cells undergoing EMT lose cell-cell adhesion structures and polarity, and rearrange their cytoskeletons. Several oncogenic pathways such as transforming growth factor (TGF) -\u03b2, Wnt, and Notch signaling pathways, have been shown to induce EMT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24278531", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 750, 
+            "text": "These pathways have activated transcription factors including Snail, Slug, and the ZEB family which work as transcriptional repressors of E-cadherin, thereby making epithelial cells motile and resistant to apoptosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24278531", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Epithelial-mesenchymal transition (EMT) is suggested to be crucial for the development of an invasive and metastatic carcinoma cell phenotype. Therefore, the definition of this phenotype is of great clinical interest. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20819124", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 1138, 
+            "text": "Recent work has suggested that there may be a linkage between the stem cell phenotype and that induced by the process of epithelial-mesenchymal transition (EMT). EMT plays an important role in cell movement and organ formation during embryogenesis, and it is currently hypothesized to be a major mechanism by which epithelial cancers may generate cells that can form metastases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19249648", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 389, 
+            "text": "The term EMT (epithelial-mesenchymal transition) is used in many settings. This term is used to describe the mechanisms facilitating cellular repositioning and redeployment during embryonic development and tissue reconstruction after injury. Recently, EMT has also been applied to potential mechanisms for malignant progression and has appeared as a specific diagnostic category of tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17922020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "The epithelial-mesenchymal transition (EMT) is a fundamental process governing morphogenesis in multicellular organisms. This process is also reactivated in a variety of diseases including fibrosis and in the progression of carcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14644200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 192, 
+            "text": "Epithelial to mesenchymal transition (EMT) plays an important role in many biological processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23073116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Epithelial-mesenchymal transition (EMT) is a biological process that drives polarized, immotile epithelial cells to undergo multiple biochemical changes to acquire a mesenchymal cell phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23001200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Epithelial-mesenchymal transition (EMT) is a biological process that drives polarized, immotile epithelial cells to undergo multiple biochemical changes to acquire a mesenchymal cell phenotype", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23001200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 191, 
+            "text": "Epithelial to mesenchymal transition (EMT) plays an important role in many biological processes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23073116", 
+            "endSection": "abstract"
+        }
+    ]
+}

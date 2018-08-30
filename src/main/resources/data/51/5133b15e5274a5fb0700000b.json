@@ -1,0 +1,119 @@
+{
+    "body": "Are CpG islands located close to housekeeping genes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15784181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16474211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15546139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1968658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3186440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17591602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9990116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8128314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1505946", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3656447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9632720"
+    ], 
+    "ideal_answer": [
+        "Our analysis indicates that the association of CGIs with housekeeping genes is not as strong as previously estimated. These regions represent about 1% of genomic DNA and are generally found in the promoter region of housekeeping genes. In housekeeping and many tissue-specific genes, the promoter is embedded in a so-called CpG island. Methylation-free CpG clusters, so-called HTF islands, are most often associated with the promoter regions of housekeeping genes, whereas genes expressed in a single-cell type are usually deficient in these sequences. All housekeeping and widely expressed genes have a CpG island covering the transcription start, whereas 40% of the genes with a tissue-specific or limited expression are associated with islands. It has been envisaged that CpG islands are often observed near the transcriptional start sites (TSS) of housekeeping genes. CpG islands, which are found almost exclusively at the 5'-end of housekeeping genes. CpG islands were associated with the 5' ends of all housekeeping genes and many tissue-specific genes, and with the 3' ends of some tissue-specific genes. ", 
+        "Yes, CpG islands are preferentially located at the start of transcription of housekeeping genes and are associated with tissue-specific genes.", 
+        "These regions represent about 1% of genomic DNA and are generally found in the promoter region of housekeeping genes. Our analysis indicates that the association of CGIs with housekeeping genes is not as strong as previously estimated. In housekeeping and many tissue-specific genes, the promoter is embedded in a so-called CpG island. Methylation-free CpG clusters, so-called HTF islands, are most often associated with the promoter regions of housekeeping genes, whereas genes expressed in a single-cell type are usually deficient in these sequences. All housekeeping and widely expressed genes have a CpG island covering the transcription start, whereas 40% of the genes with a tissue-specific or limited expression are associated with islands. It has been envisaged that CpG islands are often observed near the transcriptional start sites (TSS) of housekeeping genes. CpG islands, which are found almost exclusively at the 5'-end of housekeeping genes. CpG islands were associated with the 5' ends of all housekeeping genes and many tissue-specific genes, and with the 3' ends of some tissue-specific genes. "
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018899", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006796", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020043"
+    ], 
+    "type": "yesno", 
+    "id": "5133b15e5274a5fb0700000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1048, 
+            "offsetInEndSection": 1164, 
+            "text": "our analysis indicates that the association of CGIs with housekeeping genes is not as strong as previously estimated", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17591602", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 372, 
+            "text": "CpG islands are preferentially located at the start of transcription of housekeeping genes and are associated with tissue-specific genes", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16474211", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "It has been envisaged that CpG islands are often observed near the transcriptional start sites (TSS) of housekeeping genes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15784181", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 528, 
+            "text": "These regions represent about 1% of genomic DNA and are generally found in the promoter region of housekeeping genes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15546139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "CpG islands are stretches of DNA sequence that are enriched in the (CpG)n repeat and are present in close association with all housekeeping genes as well as some tissue-specific genes in the mammalian genome.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9990116", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 225, 
+            "offsetInEndSection": 308, 
+            "text": "CpG islands, which are found almost exclusively at the 5'-end of housekeeping genes", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9632720", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "In housekeeping and many tissue-specific genes, the promoter is embedded in a so-called CpG island.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8128314", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 496, 
+            "offsetInEndSection": 689, 
+            "text": "All housekeeping and widely expressed genes have a CpG island covering the transcription start, whereas 40% of the genes with a tissue-specific or limited expression are associated with islands", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1505946", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 103, 
+            "offsetInEndSection": 319, 
+            "text": "Methylation-free CpG clusters, so-called HTF islands, are most often associated with the promoter regions of housekeeping genes, whereas genes expressed in a single-cell type are usually deficient in these sequences.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1968658", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Unmethylated CpG rich islands are a feature of vertebrate DNA: they are associated with housekeeping and many tissue specific genes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3186440", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 548, 
+            "offsetInEndSection": 702, 
+            "text": "CpG islands were associated with the 5' ends of all housekeeping genes and many tissue-specific genes, and with the 3' ends of some tissue-specific genes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3656447", 
+            "endSection": "sections.0"
+        }
+    ]
+}

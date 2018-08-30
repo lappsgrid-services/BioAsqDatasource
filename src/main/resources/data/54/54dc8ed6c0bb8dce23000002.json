@@ -1,0 +1,129 @@
+{
+    "body": "What is known as Calcium Induced Calcium Release (CICR) and its role in cardiomyocyte contractility?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23123322", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2726431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21718716", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18538346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25377479", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21979103", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17214508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15194743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10779321"
+    ], 
+    "ideal_answer": [
+        "the cicr mechanism has been understood mainly based on binding of cytosolic ca(2+) with ryanodine receptors (ryrs) and inducing ca(2+) release from the sarcoplasmic reticulum (sr). l-type ca(2+) channels activate ryrs to produce cicr in smooth muscle cells in the form of ca(2+) sparks and propagated ca(2+) waves. in heart cells, a tight coupling between the gating of single l-type ca(2+) channels and ryanodine receptors (ryrs) underlies calcium release. the importance of ca-induced ca release in excitation-contraction coupling in the heart. waves of calcium-induced calcium release occur in a variety of cell types and have been implicated in the origin of cardiac arrhythmias. in mammals, ca(2+) influx as l-type ca(2+) current (ica) triggers the release of ca(2+) from sarcoplasmic reticulum (sr) and ca(2+)-induced ca(2+) release (cicr) is critical for excitation-contraction coupling. ", 
+        "Cardiomyocyte contraction depends on rapid changes in intracellular Ca(2+). Ca(2+) influx as L-type Ca(2+) current (ICa) triggers the release of Ca(2+) from sarcoplasmic reticulum (SR) and Ca(2+)-induced Ca(2+) release (CICR) is critical for excitation-contraction coupling. Calcium-induced calcium-release in cardiac myocytes takes place in spatially restricted regions known as dyads, where discrete patches of junctional sarcoplasmic reticulum tightly associate with the t-tubule membrane. Calcium-induced calcium release (CICR) has been observed in cardiac myocytes as elementary calcium release events (calcium sparks) associated with the opening of L-type Ca(2+) channels. Waves of calcium-induced calcium release occur in a variety of cell types and have been implicated in the origin of cardiac arrhythmias."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4277675"
+    ], 
+    "type": "summary", 
+    "id": "54dc8ed6c0bb8dce23000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 286, 
+            "text": "Cardiomyocyte contraction depends on rapid changes in intracellular Ca(2+). In mammals, Ca(2+) influx as L-type Ca(2+) current (ICa) triggers the release of Ca(2+) from sarcoplasmic reticulum (SR) and Ca(2+)-induced Ca(2+) release (CICR) is critical for excitation-contraction coupling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25377479", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 291, 
+            "text": "Release of calcium (Ca(2+)) from the sarcoplasmic reticulum (SR) induced by Ca(2+) influx through voltage-dependent sarcolemmal L-type Ca(2+) channels (CICR) in cardiac muscle cells has been implicated as a potential target contributing to anesthetic-induced myocardial depression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21979103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "It is well known that calcium-induced calcium-release in cardiac myocytes takes place in spatially restricted regions known as dyads, where discrete patches of junctional sarcoplasmic reticulum tightly associate with the t-tubule membrane. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21718716", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 348, 
+            "text": "Calcium (Ca(2+))-induced Ca(2+) release (CICR) is widely accepted as the principal mechanism linking electrical excitation and mechanical contraction in cardiac cells. The CICR mechanism has been understood mainly based on binding of cytosolic Ca(2+) with ryanodine receptors (RyRs) and inducing Ca(2+) release from the sarcoplasmic reticulum (SR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18538346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Waves of calcium-induced calcium release occur in a variety of cell types and have been implicated in the origin of cardiac arrhythmias. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15194743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 329, 
+            "text": "Calcium-induced calcium release (CICR) has been observed in cardiac myocytes as elementary calcium release events (calcium sparks) associated with the opening of L-type Ca(2+) channels. In heart cells, a tight coupling between the gating of single L-type Ca(2+) channels and ryanodine receptors (RYRs) underlies calcium release. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10779321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 487, 
+            "text": "L-type Ca(2+) channels activate RYRs to produce CICR in smooth muscle cells in the form of Ca(2+) sparks and propagated Ca(2+) waves.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10779321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 498, 
+            "offsetInEndSection": 587, 
+            "text": " the importance of Ca-induced Ca release in excitation-contraction coupling in the heart.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2726431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "Calcium-induced calcium release (CICR) is an inherently regenerative process due to the Ca(2+)-dependent gating of ryanodine receptors (RyRs) in the sarco/endoplasmic reticulum (SR) and is critical for cardiac excitation-contraction coupling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23123322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 290, 
+            "text": "PURPOSE: Release of calcium (Ca(2+)) from the sarcoplasmic reticulum (SR) induced by Ca(2+) influx through voltage-dependent sarcolemmal L-type Ca(2+) channels (CICR) in cardiac muscle cells has been implicated as a potential target contributing to anesthetic-induced myocardial depression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21979103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 78, 
+            "offsetInEndSection": 249, 
+            "text": "The Ca(2+)-induced Ca(2+) release (CICR) process that governs cardiac contractility is defective in hypertrophy/heart failure, but the molecular mechanisms remain elusive.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17214508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 77, 
+            "offsetInEndSection": 247, 
+            "text": "The Ca(2+)-induced Ca(2+) release (CICR) process that governs cardiac contractility is defective in hypertrophy/heart failure, but the molecular mechanisms remain elusive", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17214508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "The majority of contractile calcium in cardiac muscle is released from stores in the sarcoplasmic reticulum (SR), by a process of calcium-induced calcium release (CICR) through ryanodine receptors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15110149", 
+            "endSection": "abstract"
+        }
+    ]
+}

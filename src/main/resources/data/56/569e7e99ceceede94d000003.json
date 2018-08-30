@@ -1,0 +1,94 @@
+{
+    "body": "What is DeepCAGE?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20967606"
+    ], 
+    "ideal_answer": [
+        "The cap analysis of gene expression (CAGE) technology has been established to detect transcriptional starting sites (TSSs) and expression levels by utilizing 5' cDNA tags and PCR. It has been reported that the amount of templates is proportional to the amplification efficiency of PCR. CAGE has been used as a key technique for analyzing promoter activity and finding new transcripts including alternative spliced products and noncoding transcripts. DeepCAGE can be utilized for high-throughput next-generation sequencing technology. DeepCAGE can produce much deeper transcriptome datasets and can reveal more details of the regulatory network."
+    ], 
+    "type": "summary", 
+    "id": "569e7e99ceceede94d000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 698, 
+            "text": "The cap analysis of gene expression (CAGE) technology has been established to detect transcriptional starting sites (TSSs) and expression levels by utilizing 5' cDNA tags and PCR. It has been reported that the amount of templates is proportional to the amplification efficiency of PCR. CAGE has been used as a key technique for analyzing promoter activity and finding new transcripts including alternative spliced products and noncoding transcripts. Here, we introduce more powerful tools such as deepCAGE, which can be utilized for high-throughput next-generation sequencing technology. DeepCAGE can produce much deeper transcriptome datasets and can reveal more details of the regulatory network.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20967606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 311, 
+            "offsetInEndSection": 497, 
+            "text": "Here, we present a new method for high-throughput sequencing of 5' cDNA tags-DeepCAGE: merging the Cap Analysis of Gene Expression method with ultra-high-throughput sequence technology. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 869, 
+            "offsetInEndSection": 966, 
+            "text": "DeepCAGE can also detect promoters used only in a small subset of cells within the complex tissue", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 694, 
+            "offsetInEndSection": 804, 
+            "text": "DeepCAGE can produce much deeper transcriptome datasets and can reveal more details of the regulatory network.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20967606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 962, 
+            "offsetInEndSection": 1060, 
+            "text": "DeepCAGE can also detect promoters used only in a small subset of cells within the complex tissue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 584, 
+            "offsetInEndSection": 721, 
+            "text": "Here, we introduce more powerful tools such as deepCAGE, which can be utilized for high-throughput next-generation sequencing technology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20967606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 497, 
+            "text": "Mammalian cells have at least 5-10 magnitudes more TSS than previously believed, and deeper sequencing is necessary to detect all active promoters in a given tissue. Here, we present a new method for high-throughput sequencing of 5' cDNA tags-DeepCAGE: merging the Cap Analysis of Gene Expression method with ultra-high-throughput sequence technology. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 588, 
+            "text": "Here, we introduce more powerful tools such as deepCAGE, which can be utilized for high-throughput next-generation sequencing technology. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20967606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 742, 
+            "offsetInEndSection": 967, 
+            "text": "Using these data, we present evidence indicating a key role for the Arnt2 transcription factor in hippocampus gene regulation. DeepCAGE can also detect promoters used only in a small subset of cells within the complex tissue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19074369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 704, 
+            "text": "Here, we introduce more powerful tools such as deepCAGE, which can be utilized for high-throughput next-generation sequencing technology. DeepCAGE can produce much deeper transcriptome datasets and can reveal more details of the regulatory network.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20967606", 
+            "endSection": "abstract"
+        }
+    ]
+}

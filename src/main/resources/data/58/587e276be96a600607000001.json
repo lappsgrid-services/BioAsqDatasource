@@ -1,0 +1,85 @@
+{
+    "body": "Are alterations in ultraconserved elements implicated in breast cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21331621"
+    ], 
+    "ideal_answer": [
+        "Yes. SNPs in ultraconserved elements (UCEs) might be associated with cancer risk."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001943", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060548", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1612", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000069584", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000072656", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050436", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058922", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001940", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018567", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14521", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D061325", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064726"
+    ], 
+    "type": "yesno", 
+    "id": "587e276be96a600607000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "SNPs in ultraconserved elements and familial breast cancer risk", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 822, 
+            "text": " In the present study, we investigated the influence of six SNPs within UCEs on familial breast cancer risk. Two out of six SNPs showed an association with familial breast cancer risk", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1456, 
+            "offsetInEndSection": 1545, 
+            "text": "This is the first study indicating that SNPs in UCEs might be associated with cancer risk", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "SNPs in ultraconserved elements and familial breast cancer risk.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 103, 
+            "offsetInEndSection": 244, 
+            "text": "Recent studies have indicated that UCEs are not mutation cold regions and likely to be concerned with cancers, including breast cancer (BC). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21331621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "SNPs in ultraconserved elements and familial breast cancer risk.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174240", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Genetic variants in ultraconserved elements and risk of breast cancer in Chinese population.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21331621", 
+            "endSection": "title"
+        }
+    ]
+}

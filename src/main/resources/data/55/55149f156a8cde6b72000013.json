@@ -1,0 +1,258 @@
+{
+    "body": "Which gene fusion is the result of the \"philadelphia translocation\" or the \"philadelphia chromosome\" mutation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17987804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16616117", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3670297", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21279819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8697423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9916508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8656667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21332651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18722880", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2157692", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22058195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11535505", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17001000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11919388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1434792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1423227", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11984797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8490164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22783385"
+    ], 
+    "ideal_answer": [
+        "Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome. The Philadelphia chromosome and its corresponding fusion gene, BCR-ABL, is one of the best-known genetic abnormalities in hematological malignancies. Major BCR-ABL translocation is much more common in chronic myelogenous leukemia (CML) and minor BCR-ABL in acute lymphoblastic leukemia. ", 
+        "Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome.   ", 
+        "The Philadelphia chromosome is recognized as the cytogenetic result of a rearrangement of the ABL gene on chromosome 9 and the BCL gene on chromosome 22, which leads to the creation of a BCR/ABL fusion gene on chromosome 22."
+    ], 
+    "exact_answer": [
+        "The BCR/ABL gene fusion", 
+        "ABL/BCR fusion"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010677", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005694", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014178"
+    ], 
+    "type": "factoid", 
+    "id": "55149f156a8cde6b72000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 307, 
+            "text": "Philadelphia (Ph) chromosome positive acute lymphoblastic leukemia (ALL) is a common cytogenetic abnormality associated with poor outcome in adults. This preliminary study, in the absence of substantial evidence, reported the prevalence of the BCR-ABL gene fusion in ALL patients by RT-PCR in Pakistan.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21332651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 287, 
+            "text": "The Philadelphia chromosome and its corresponding fusion gene, BCR-ABL, is one of the best-known genetic abnormalities in hematological malignancies. Major BCR-ABL translocation is much more common in chronic myelogenous leukemia (CML) and minor BCR-ABL in acute lymphoblastic leukemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18722880", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "The BCR/ABL gene fusion, the hallmark of chronic myelogenous leukemia (CML) is generated in 2-10% of patients by a variant Ph translocation involving 9q34, 22q11.2, and one or more additional genomic regions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16616117", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 198, 
+            "text": "The t(9;22)(q34;q11) translocation leading to the Philadelphia (Ph) chromosome resulting in BCR-ABL gene fusion is associated with a poor prognosis in acute lymphoblastic leukemia (ALL).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11984797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11919388", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 761, 
+            "text": "Ph chromosome was identified in CML in 1960 and was found to clearly result from reciprocal translocation between chromosome 9 and chromosome 22 (t(q;22)) (q34;q11). CML arises from a single pluripotent hematopoietic stem cell with the Ph chromosome and demonstration of the Ph chromosome in blood or marrow cells establishes and unequivocal diagnosis of CML. The Ph chromosome is recognized as the cytogenetic result of a rearrangement of the ABL gene on chromosome 9 and the BCL gene on chromosome 22, which leads to the creation of a BCR/ABL fusion gene on chromosome 22.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9916508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "Fluorescence in situ hybridization (FISH) technique has been successfully used to detect the BCR-ABL gene fusion in chronic myeloid leukemia (CML) with the classic form of the Philadelphia chromosome (Ph).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8697423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 263, 
+            "text": "Chronic myeloid leukaemia (CML) is characterized cytogenetically by a t(9;22)(q34;ql1) reciprocal translocation which gives origin to a hybrid BCR-ABL gene, encoding a p2lO(BCR-ABL) fusion protein with elevated tyrosine kinase activity and transforming abilities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8656667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1012, 
+            "offsetInEndSection": 1351, 
+            "text": "There is a recent suggestion that the BCR-ABL gene may not be always 'functional', since extremely low levels of BCR-ABL transcripts can be found in leucocytes from normal individuals and, conversely, it appears that no BCR-ABL transcription can be detected in a proportion of Ph-positive haematopoietic progenitors from some CML patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8656667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "The t(9;22) translocation leads to the formation of the chimeric breakpoint cluster region/c-abl oncogene 1 (BCR/ABL) fusion gene on der22, the Philadelphia chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22058195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Chronic myeloid leukemia (CML) is associated with the Philadelphia chromosome, which arises by a reciprocal translocation between chromosomes 9 and 22 and harbors the BCR-ABL fusion oncogene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17001000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 336, 
+            "text": "The translocation event creates on the Philadelphia chromosome a fusion between two genes: bcr and abl.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1434792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 258, 
+            "text": "Chronic myelogenous leukemia (CML) is genetically characterized by the reciprocal translocation of chromosome 9 and 22, t(9;22)(q34;q11) which results in the fusion of BCR/ABL gene observed on the derivative chromosome 22 called Philadelphia (Ph) chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17987804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 669, 
+            "offsetInEndSection": 939, 
+            "text": "Using specific probes for the BCR and ABL genes, results of FISH showed a three-way variant Philadelphia translocation (9;22;21)(q34;q11;p12) with a BCR/ABL fusion residing on the der(22) and the 3BCR region translocated on the short arm of the derivative chromosome 21.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22783385", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 533, 
+            "text": "We report a cytogenetic study of a patient with chronic myelogenous leukemia (CML) who, while displaying a Philadelphia (Ph) chromosome, resulting from a standard t(9;22) at diagnosis, during the chronic phase (CP) showed disappearance of the Ph and occurrence of new chromosome changes, including a marker probably arising from a translocation involving chromosome 17 and the Ph. In situ hybridization confirmed the cytogenetic appearance and demonstrated that the breakpoint on the Ph marker occurred below the BCR-ABL fusion gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1423227", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 278, 
+            "text": "The translocation of the c-abl oncogene from chromosome 9 to the bcr gene on chromosome 22 in cases of Philadelphia chromosome-positive chronic myelogenous leukemia (CML) generates an aberrant bcr-abl fusion transcript which may be intimately related to the pathogenesis of CML.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3670297", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "BACKGROUND: The t(9;22) translocation leads to the formation of the chimeric breakpoint cluster region/c-abl oncogene 1 (BCR/ABL) fusion gene on der22, the Philadelphia chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22058195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 446, 
+            "text": "In the great majority of patients with chronic myelogenous leukemia (CML) the reciprocal translocation between chromosomes 9 and 22, t(9;22)(q34;q11), resulting in the Philadelphia (Ph) chromosome produces fusion DNA sequences consisting of the 5 part of the major breakpoint cluster region-1 (M-BCR-1) and the ABL protooncogene which encodes for the P210BCR-ABL phosphoprotein with tyrosine kinase activity implicated in the pathogenesis of CML.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2157692", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Unique fusion of bcr and c-abl genes in Philadelphia chromosome positive acute lymphoblastic leukemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2820585", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Expression of the ABL-BCR fusion gene in Philadelphia-positive acute lymphoblastic leukemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8490164", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Chronic myelogenous leukemia (CML) is characterized by Philadelphia (Ph) chromosome with a chimeric gene BCR-ABL created by reciprocal t(9:22) (q34;q11) translocation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21279819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Chronic myeloid leukemia (CML) is characterized by formation of the BCR-ABL fusion gene, usually as a consequence of the Philadelphia (Ph) translocation between chromosomes 9 and 22", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11535505", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Fluorescence in situ hybridization (FISH) technique has been successfully used to detect the BCR-ABL gene fusion in chronic myeloid leukemia (CML) with the classic form of the Philadelphia chromosome (Ph)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8697423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Chronic myeloid leukemia (CML) is characterized by formation of a BCR-ABL fusion gene, usually as a consequence of the Philadelphia (Ph) translocation between chromosomes 9 and 22", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12730117", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 258, 
+            "text": "Chronic myelogenous leukemia (CML) is genetically characterized by the reciprocal translocation of chromosome 9 and 22, t(9;22)(q34;q11) which results in the fusion of BCR/ABL gene observed on the derivative chromosome 22 called Philadelphia (Ph') chromosome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17987804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "The t(9;22) translocation leads to the formation of the chimeric breakpoint cluster region/c-abl oncogene 1 (BCR/ABL) fusion gene on der22, the Philadelphia chromosome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22058195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Chronic myelogenous leukemia (CML) is characterized by Philadelphia (Ph) chromosome with a chimeric gene BCR-ABL created by reciprocal t(9:22) (q34;q11) translocation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21279819", 
+            "endSection": "abstract"
+        }
+    ]
+}

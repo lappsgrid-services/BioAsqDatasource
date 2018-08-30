@@ -1,0 +1,77 @@
+{
+    "body": "Can siRNA affect response to afatinib treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23555954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22436374", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23266614"
+    ], 
+    "ideal_answer": [
+        "When afatinib was combined with an EGFR-specific siRNA there was a strong biological effect on growth inhibition and induction of apoptosis."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030422", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D034741", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090065"
+    ], 
+    "type": "yesno", 
+    "id": "54297ed2289fd6cb07000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 619, 
+            "offsetInEndSection": 812, 
+            "text": "On the other hand, miR-146a enhanced the inhibition of cell proliferation by drugs targeting EGFR, including both TKIs (gefitinib, erlotinib, and afatinib) and a monoclonal antibody (cetuximab)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23555954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 814, 
+            "offsetInEndSection": 1002, 
+            "text": "These effects were independent of the EGFR mutation status (wild type, sensitizing mutation or resistance mutation), but were less potent compared to the effects of siRNA targeting of EGFR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23555954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1147, 
+            "offsetInEndSection": 1280, 
+            "text": "Among the anti-EGFR agents tested, the strongest biological effect was observed when afatinib was combined with T790M-specific-siRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23266614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1527, 
+            "offsetInEndSection": 1752, 
+            "text": "The combination of a potent, irreversible kinase inhibitor such as afatinib, with T790M-specific-siRNAs should be further investigated as a new strategy in the treatment of lung cancer containing the resistant T790M mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23266614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2418, 
+            "offsetInEndSection": 2517, 
+            "text": "The strongest biological effect was observed when afatinib was combined with an EGFR-specific siRNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2175, 
+            "offsetInEndSection": 2417, 
+            "text": "The addition of EGFR siRNA to either TKIs or cetuximab additively enhanced growth inhibition and induction of apoptosis in all five cell lines, independent of the EGFR mutation status (wild-type or sensitizing mutation or resistant mutation).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2934, 
+            "offsetInEndSection": 3205, 
+            "text": "The combination of a potent, irreversible kinase inhibitor such as afatinib, with EGFR-specific siRNAs should be further investigated as a new strategy in the treatment of lung cancer and other EGFR dependent cancers, including those with downstream resistance mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436374", 
+            "endSection": "abstract"
+        }
+    ]
+}

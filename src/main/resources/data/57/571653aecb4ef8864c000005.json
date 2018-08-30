@@ -1,0 +1,98 @@
+{
+    "body": "Which are the most common methods for ctDNA (circulating tumour DNA) detection?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25220802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26539452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24705333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25489581", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20970979"
+    ], 
+    "ideal_answer": [
+        "Recently, nanoplasmonics has emerged as a platform for one-step dual detection with high sensitivity and specificity. The practice of \"liquid biopsy\" as a diagnostic, prognostic and theranostic tool in non-small cell lung cancer (NSCLC) patients is an appealing approach, at least in theory, since it is noninvasive and easily repeated. Cancer personalized profiling by deep sequencing (CAPP-Seq), an economical and ultrasensitive method for quantifying ctDNA. A new DNA sensor using a nickel(II) phenanthroline complex ([Ni(phen)(2)PHPIP]\u00b72ClO(4)) as the electrochemical probe was developed. The sensor is very sensitive and selective for calf thymus DNA (ctDNA) detection in aqueous medium.", 
+        "A new DNA sensor using a nickel(II) phenanthroline complex ([Ni(phen)(2)PHPIP]\u00b72ClO(4)) as the electrochemical probe was developed. The calculated dynamics parameters of the electrode process indicate that there are obvious interactions between the probe and the ctDNA in aqueous solution. Under constant potential conditions, the redox current peak of the probe (Ni-complex) decreases obviously as the probe interacts/binds with ctDNAs. These results demonstrate that the sensor can simultaneously detect the hot-spot mutation and epigenetic changes on the ctDNA."
+    ], 
+    "exact_answer": [
+        [
+            "nanoplasmonics", 
+            "biosensors"
+        ], 
+        [
+            "liquid biopsy"
+        ], 
+        [
+            "Cancer personalized profiling by deep sequencing", 
+            "CAPP-Seq"
+        ], 
+        [
+            "electrochemical sensors"
+        ]
+    ], 
+    "type": "list", 
+    "id": "571653aecb4ef8864c000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 220, 
+            "text": "existing methods for ctDNA detection are restricted to genetic mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25220802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 338, 
+            "text": "Recently, nanoplasmonics has emerged as a platform for one-step dual detection with high sensitivity and specificity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25220802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1250, 
+            "offsetInEndSection": 1498, 
+            "text": "These results demonstrate that the sensor can simultaneously detect the hot-spot mutation and epigenetic changes on the ctDNA. Promisingly, other specific-tumor mutants and epigenetic changes can be detected at low concentration with this platform.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25220802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 217, 
+            "text": "The practice of \"liquid biopsy\" as a diagnostic, prognostic and theranostic tool in non-small cell lung cancer (NSCLC) patients is an appealing approach, at least in theory, since it is noninvasive and easily repeated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25489581", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 363, 
+            "text": "Here we introduce cancer personalized profiling by deep sequencing (CAPP-Seq), an economical and ultrasensitive method for quantifying ctDNA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24705333", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 937, 
+            "offsetInEndSection": 1171, 
+            "text": "Finally, we evaluated biopsy-free tumor screening and genotyping with CAPP-Seq. We envision that CAPP-Seq could be routinely applied clinically to detect and monitor diverse malignancies, thus facilitating personalized cancer therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24705333", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Synthesis of a new Ni-phenanthroline complex and its application as an electrochemical probe for detection of nucleic acid", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20970979", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "A new DNA sensor using a nickel(II) phenanthroline complex ([Ni(phen)(2)PHPIP]\u00b72ClO(4)) as the electrochemical probe was developed. The sensor is very sensitive and selective for calf thymus DNA (ctDNA) detection in aqueous medium. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20970979", 
+            "endSection": "abstract"
+        }
+    ]
+}

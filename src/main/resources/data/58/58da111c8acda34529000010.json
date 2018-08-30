@@ -1,0 +1,229 @@
+{
+    "body": "Which is the main cause of the Patau syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11885075", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23613355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17603803", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14506431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6458983", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18467377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12762245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24993362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18253026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12393964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20537076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19408854", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24564826", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20641042", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23949924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24340511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26034714", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2325123", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23622175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20584846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25459971", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21344634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2348978"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0152095", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18670259"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18670259", 
+            "o": "syndrome patau"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0152095", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0574493"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0574493", 
+            "o": "Patau syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0152095", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18474937"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18474937", 
+            "o": "Patau syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0152095", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18577308"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0152095", 
+            "o": "Trisomy 13"
+        }
+    ], 
+    "ideal_answer": [
+        "Patau syndrome is caused by trisomy 13."
+    ], 
+    "exact_answer": [
+        "Trisome 13"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002882", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11665"
+    ], 
+    "type": "factoid", 
+    "id": "58da111c8acda34529000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Trisomy 13, or Patau syndrome is a rare chromosomal disorder characterized by a triad of cleft lip and palate, postaxial polydactyly and microcephaly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21344634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 308, 
+            "text": "Mosaic trisomy 13 is very rare, it occurs in only 5% of all patients with trisomy 13 phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21344634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Among full autosomal trisomies, only trisomies of chromosome 21 (Down syndrome), 18 (Edwards syndrome) and 13 (Patau syndrome) are compatible with postnatal survival. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18253026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "We describe the management of the eyelid anomaly associated with Patau syndrome. Trisomy 13 is the genotype of the syndrome's phenotype. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14506431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 400, 
+            "text": "This article identifies the causes and manifestations of most of these trisomies: trisomy 13 (Patau syndrome), trisomy 18 (Edwards syndrome), and trisomy 21 (Down syndrome). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11885075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 248, 
+            "text": "WHS is caused by a deletion of 4p16, while Patau syndrome is caused by trisomy for some or all regions of chromosome 13.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12393964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Patau syndrome is a chromosomal disorder associated with multiple malformations caused by inheritance of an extra chromosome (trisomy 13).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20537076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Survival of trisomy 18 (Edwards syndrome) and trisomy 13 (Patau Syndrome) in England and Wales: 2004-2011", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23949924", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 640, 
+            "text": "To determine whether older paternal age increases the risk of fathering a pregnancy with Patau (trisomy 13), Edwards (trisomy 18), Klinefelter (XXY) or XYY syndrome.Case-control: cases with each of these syndromes were matched to four controls with Down syndrome from within the same congenital anomaly register and with maternal age within 6 months.Data from 22 EUROCAT congenital anomaly registers in 12 European countries.Diagnoses with observed or (for terminations) predicted year of birth from 1980 to 2005, comprising live births, fetal deaths with gestational age \u2265 20 weeks and terminations after prenatal diagnosis of the anomaly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20584846", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Congenital diaphragmatic hernia (CDH) occurs in 5-10% associated with chromosomal abnormalities like, Pallister Killian syndrome, Trisomy 18, and certain deletions.. Association of CDH with trisomy 13 (Patau syndromes) is very rare", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26034714", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 129, 
+            "offsetInEndSection": 250, 
+            "text": "WHS is caused by a deletion of 4p16, while Patau syndrome is caused by trisomy for some or all regions of chromosome 13. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12393964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Patau syndrome is a chromosomal disorder associated with multiple malformations caused by inheritance of an extra chromosome (trisomy 13). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20537076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Ocular abnormalities in Patau syndrome (chromosome 13 trisomy syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2348978", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Trisomy 13 (Patau's syndrome): a rare case of survival into adulthood.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2325123", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 241, 
+            "text": "BACKGROUND: Whilst maternal age is an established risk factor for Patau syndrome (trisomy 13), Edwards syndrome (trisomy 18) and Down syndrome (trisomy 21), the aetiology and contribution of genetic and environmental factors remains unclear.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18467377", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 129, 
+            "offsetInEndSection": 249, 
+            "text": "WHS is caused by a deletion of 4p16, while Patau syndrome is caused by trisomy for some or all regions of chromosome 13.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12393964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Patau syndrome, trisomy 13, is the third commonest autosomal trisomy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25459971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "Patau syndrome (trisomy 13) is very rare in live-born babies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17603803", 
+            "endSection": "abstract"
+        }
+    ]
+}

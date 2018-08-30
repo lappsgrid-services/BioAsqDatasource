@@ -1,0 +1,52 @@
+{
+    "body": "Is COL5A2 gene associated to ischemic heart disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23574622"
+    ], 
+    "ideal_answer": [
+        "Analysis of a gene co-expression network establishes robust association between Col5a2 and ischemic heart disease  ", 
+        "In a gene co-expression network from microarray data originating from a mouse model of myocardial infraction, Col5a2 shows predictive potential, and in principle may represent a novel candidate marker for the identification and treatment of ischemic cardiovascular disease."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3394", 
+        "http://www.uniprot.org/uniprot/CO5A2_HUMAN", 
+        "http://www.uniprot.org/uniprot/CO5A2_MOUSE"
+    ], 
+    "type": "yesno", 
+    "id": "54e12c30ae9738404b000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Analysis of a gene co-expression network establishes robust association between Col5a2 and ischemic heart disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574622", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 937, 
+            "offsetInEndSection": 1148, 
+            "text": "Col5a2, a gene previously not specifically linked to MI response but responsible for the classic type of Ehlers-Danlos syndrome, was found to have many and strong co-expression associations within this community", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1648, 
+            "offsetInEndSection": 1816, 
+            "text": "Col5a2 shows predictive potential in MI, and in principle may represent a novel candidate marker for the identification and treatment of ischemic cardiovascular disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Analysis of a gene co-expression network establishes robust association between Col5a2 and ischemic heart disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574622", 
+            "endSection": "title"
+        }
+    ]
+}

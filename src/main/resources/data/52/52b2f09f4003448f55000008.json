@@ -1,0 +1,263 @@
+{
+    "body": "Is triadin involved in cardiac function?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18206802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17890426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15191886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15023559"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://purl.uniprot.org/tissues/440"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/440", 
+            "o": "Cardiac muscle"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://linkedlifedata.com/resource/#_51323838323000B"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51323838323000B", 
+            "o": "Triadin"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/440", 
+            "o": "Heart muscle"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInAnatomicalSystem", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://purl.uniprot.org/tissues/445"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://linkedlifedata.com/resource/#_503832313739006"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503832313739006", 
+            "o": "Triadin"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/445", 
+            "o": "Cardiac"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/445", 
+            "o": "Cardiac tissue"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/445", 
+            "o": "Heart"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://linkedlifedata.com/resource/#_503832313739009"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_503832313739009", 
+            "o": "TRDN"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://linkedlifedata.com/resource/#_51313330363100E"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://linkedlifedata.com/resource/#_51313330363100B"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51313330363100E", 
+            "o": "TRDN"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51313330363100B", 
+            "o": "Triadin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://linkedlifedata.com/resource/#_51323838323000E"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51323838323000E", 
+            "o": "TRDN"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInAnatomicalSystem", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://purl.uniprot.org/tissues/440"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://purl.uniprot.org/tissues/445"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://purl.uniprot.org/go/0006936"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0006936", 
+            "o": "http://www.geneontology.org/go#GO:0006936"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0006936", 
+            "o": "muscle contraction"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://purl.uniprot.org/keywords/703"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/703", 
+            "o": "Sarcoplasmic reticulum"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://purl.uniprot.org/keywords/703"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://purl.uniprot.org/keywords/703"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0006936"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0006936", 
+            "o": "muscle contraction"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/933", 
+            "o": "Skeletal muscle"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/933", 
+            "o": "Striated muscle"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/isolatedFrom", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInAnatomicalSystem", 
+            "s": "http://purl.uniprot.org/uniprot/P82179", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInAnatomicalSystem", 
+            "s": "http://purl.uniprot.org/uniprot/Q13061", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInAnatomicalSystem", 
+            "s": "http://purl.uniprot.org/uniprot/Q28820", 
+            "o": "http://purl.uniprot.org/tissues/933"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, triadin is involved in the regulation of cardiac excitation-contraction coupling."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TRDN_RABIT", 
+        "http://www.uniprot.org/uniprot/TRDN_HUMAN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060048", 
+        "http://www.uniprot.org/uniprot/TRDN_CANFA"
+    ], 
+    "type": "yesno", 
+    "id": "52b2f09f4003448f55000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 349, 
+            "text": "Junctin (JCN), a 26-kd sarcoplasmic reticulum (SR) transmembrane protein, forms a quaternary protein complex with the ryanodine receptor, calsequestrin, and triadin in the SR lumen of cardiac muscle. Within this complex, calsequestrin, triadin, and JCN appear to be critical for normal regulation of ryanodine receptor-mediated calcium (Ca) release.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18206802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 561, 
+            "offsetInEndSection": 873, 
+            "text": "Recent studies have uncovered functional roles of both JCN and triadin in the mouse heart, using transgenic overexpression strategies, which exhibit varying phenotypes including mild SR structural alterations, prolongation of Ca transient decay, impaired relaxation, and cardiac hypertrophy and/or heart failure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18206802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Triadin is involved in the regulation of cardiac excitation-contraction coupling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17890426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1686, 
+            "offsetInEndSection": 1792, 
+            "text": "Thus the maintenance of triadin expression is essential for normal SR Ca cycling and contractile function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17890426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 215, 
+            "text": "Ca2+ release from the cardiac junctional sarcoplasmic reticulum (SR) is regulated by a complex of proteins, including the ryanodine receptor (RyR), calsequestrin (CSQ), junctin (JCN), and triadin 1 (TRD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15023559", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 287, 
+            "text": "Impaired sarcoplasmic reticulum (SR) Ca release has been suggested to contribute to the depressed cardiac function in heart failure. The release of Ca from the SR may be regulated by the ryanodine receptor, triadin, junctin, calsequestrin, and a histidine-rich, Ca-binding protein (HRC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15191886", 
+            "endSection": "abstract"
+        }
+    ]
+}

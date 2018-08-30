@@ -1,0 +1,52 @@
+{
+    "body": "What is the link between Nonidet-40 (NP-40) and biotinylation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23500724"
+    ], 
+    "ideal_answer": [
+        "0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.", 
+        "NP-40 reduces contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins."
+    ], 
+    "exact_answer": [
+        "Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins."
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4252646"
+    ], 
+    "type": "factoid", 
+    "id": "56a8d660a17756b72f000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "NP-40 reduces contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23500724", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 630, 
+            "text": "We show that the use of 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination of nuclear extracts by carboxylases and to greatly reduce background signals in downstream mass spectrometric analyses", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23500724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 631, 
+            "text": "We describe here a simple procedure for greatly reducing contamination of nuclear extracts by naturally biotinylated cytoplasmic carboxylases, which represent a major source of non-specific background when employing BirA-mediated biotinylation tagging for the purification and characterization of nuclear protein complexes by mass spectrometry. We show that the use of 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination of nuclear extracts by carboxylases and to greatly reduce background signals in downstream mass spectrometric analyses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23500724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 632, 
+            "text": " We describe here a simple procedure for greatly reducing contamination of nuclear extracts by naturally biotinylated cytoplasmic carboxylases, which represent a major source of non-specific background when employing BirA-mediated biotinylation tagging for the purification and characterization of nuclear protein complexes by mass spectrometry. We show that the use of 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination of nuclear extracts by carboxylases and to greatly reduce background signals in downstream mass spectrometric analyses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23500724", 
+            "endSection": "abstract"
+        }
+    ]
+}

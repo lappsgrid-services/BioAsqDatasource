@@ -1,0 +1,64 @@
+{
+    "body": "Is factor XI deficient in Hemophilia C?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18378181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18160615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20485963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8277060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1546275"
+    ], 
+    "ideal_answer": [
+        "Factor XI deficiency is associated with a bleeding tendency called Hemophilia C."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006467", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2229", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005173", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005172"
+    ], 
+    "type": "yesno", 
+    "id": "51588c1ad24251bc05000094", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 152, 
+            "text": "Factor XI deficiency is a rare hematologic disorder. Hemophilia C (factor XI deficiency) affects both genders and it is usually asymptomatic,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20485963", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Congenital factor XI deficiency (also known as the Rosenthal syndrome or hemophilia C)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18378181", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 21, 
+            "offsetInEndSection": 290, 
+            "text": "rare case of an acute cerebral aneurysm rupture in a patient with a known factor XI deficiency. Aneurysmal subarachnoid hemorrhage (SAH) accounts for a high mortality and morbidity rate. When SAH is associated with an inherited coagulation disorder such as hemophilia C", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18160615", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 162, 
+            "text": "Factor XI deficiency (Hemophilia C)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8277060", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 47, 
+            "text": "Factor XI deficiency, also called hemophilia C,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1546275", 
+            "endSection": "sections.0"
+        }
+    ]
+}

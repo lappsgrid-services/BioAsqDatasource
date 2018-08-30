@@ -1,0 +1,93 @@
+{
+    "body": "Is the circadian clock involved in ribosome biogenesis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23300384"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18469688", 
+            "o": "D057906"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18451217", 
+            "o": "D057906"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18463493", 
+            "o": "D057906"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18448084", 
+            "o": "D057906"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18463494", 
+            "o": "D057906"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. The circadian clock coordinates ribosome biogenesis. It influences the temporal translation of a subset of mRNAs involved in ribosome biogenesis by controlling the transcription of translation initiation factors as well as the clock-dependent rhythmic activation of signaling pathways involved in their regulation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0042254", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057906"
+    ], 
+    "type": "yesno", 
+    "id": "56bf7d90ef6e394741000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 52, 
+            "text": "The circadian clock coordinates ribosome biogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 917, 
+            "text": "Here we show that the circadian clock exerts its function also through the regulation of mRNA translation. Namely, the circadian clock influences the temporal translation of a subset of mRNAs involved in ribosome biogenesis by controlling the transcription of translation initiation factors as well as the clock-dependent rhythmic activation of signaling pathways involved in their regulation. Moreover, the circadian oscillator directly regulates the transcription of ribosomal protein mRNAs and ribosomal RNAs. Thus the circadian clock exerts a major role in coordinating transcription and translation steps underlying ribosome biogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 383, 
+            "offsetInEndSection": 668, 
+            "text": "Namely, the circadian clock influences the temporal translation of a subset of mRNAs involved in ribosome biogenesis by controlling the transcription of translation initiation factors as well as the clock-dependent rhythmic activation of signaling pathways involved in their regulation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "The circadian clock coordinates ribosome biogenesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 381, 
+            "text": "Here we show that the circadian clock exerts its function also through the regulation of mRNA translation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 670, 
+            "text": "Here we show that the circadian clock exerts its function also through the regulation of mRNA translation. Namely, the circadian clock influences the temporal translation of a subset of mRNAs involved in ribosome biogenesis by controlling the transcription of translation initiation factors as well as the clock-dependent rhythmic activation of signaling pathways involved in their regulation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300384", 
+            "endSection": "abstract"
+        }
+    ]
+}

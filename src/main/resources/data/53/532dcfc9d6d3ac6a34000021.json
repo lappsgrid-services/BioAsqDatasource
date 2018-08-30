@@ -1,0 +1,296 @@
+{
+    "body": "What is the characteristic domain of histone methyltransferases?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20084102", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16292313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17355966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18693240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17259630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15939934", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16519522", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12628190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20599755", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12398767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14522075", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23453808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14633678", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12372304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15933069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21124902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19187761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23652029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12389038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15659850", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17338551", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21196496", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17517655", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10949293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16055700", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12887887", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12514135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21564555"
+    ], 
+    "ideal_answer": [
+        "SET (suppressor of variegation, enhancer of zest and trithorax) domain"
+    ], 
+    "exact_answer": [
+        "SET domain"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011495", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042054", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011484"
+    ], 
+    "type": "factoid", 
+    "id": "532dcfc9d6d3ac6a34000021", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 185, 
+            "text": "C-terminal SET domain that catalyzes methylation of histone H3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23652029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 809, 
+            "offsetInEndSection": 883, 
+            "text": "not all members of the H3K4 methyltransferase family contain n-SET domains", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23453808", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 77, 
+            "offsetInEndSection": 377, 
+            "text": "protein methyltransferases (both protein arginine and lysine methyltransferases) and the relatedness of their catalytic domains. We identified 51 protein lysine methyltransferase proteins based on similarity to the canonical Drosophila Su(var)3-9, enhancer of zeste (E(z)), and trithorax (trx) domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21564555", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 41, 
+            "offsetInEndSection": 81, 
+            "text": " a SET domain histone methyltransferase ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21196496", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 338, 
+            "text": "A common feature of the mammalian MLL/SET1 complexes is the presence of three core components (RbBP5, Ash2L and WDR5) and a catalytic subunit containing a SET domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21124902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 308, 
+            "text": "catalytic histone methyltransferase SET-domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599755", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 103, 
+            "text": "SET domain methyltransferases deposit methyl marks on specific histone tail lysine residues", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20084102", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 134, 
+            "offsetInEndSection": 261, 
+            "text": "The biological function of MLL1 is mediated by the histone H3K4 methyltransferase activity of the carboxyl-terminal SET domain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19187761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 71, 
+            "offsetInEndSection": 336, 
+            "text": "Polycomb repressive complex 2 (PRC2), which methylates lysine 27 of histone H3. Information on how PRC2 works is limited by lack of structural data on the catalytic subunit, Enhancer of zeste (E(Z)), and the paucity of E(z) mutant alleles that alter its SET domain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18693240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 198, 
+            "offsetInEndSection": 314, 
+            "text": "histone modification is catalyzed by protein lysine methyltransferases (PKMTs). PKMTs contain a conserved SET domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17517655", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 37, 
+            "offsetInEndSection": 129, 
+            "text": "Set1A complex analogous to the yeast Set1/COMPASS histone H3-Lys4 methyltransferase complex ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17355966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 318, 
+            "text": "Set1A protein shares 39% identity with an uncharacterized SET domain protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17355966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 45, 
+            "offsetInEndSection": 117, 
+            "text": "multiple methylations catalyzed by SET domain protein methyltransferases", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17338551", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1190, 
+            "offsetInEndSection": 1261, 
+            "text": "methyl group transfers by SET domain protein lysine methyltransferases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17338551", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 70, 
+            "text": "SET domain protein functions as a histone methyltransferase", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17259630", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1780, 
+            "offsetInEndSection": 1867, 
+            "text": "SUV39H1 impaired enzyme activity despite the presence of an intact catalytic SET domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16519522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 217, 
+            "text": "Meisetz (meiosis-induced factor containing a PR/SET domain and zinc-finger motif) is a histone methyltransferase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16292313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 327, 
+            "text": "The fly complex contains a catalytic SET domain subuni", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16055700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 122, 
+            "text": "ESC-E(Z) complex of Drosophila melanogaster Polycomb group (PcG) repressors is a histone H3 methyltransferase (HMTase)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16055700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 183, 
+            "offsetInEndSection": 295, 
+            "text": "Murine G9a is a 1263 amino acid H3-K9 methyltransferase that possesses characteristic SET domain and ANK repeats", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15939934", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 531, 
+            "offsetInEndSection": 665, 
+            "text": "domains of SET proteins becoming ordered upon addition of AdoMet cofactor and develop a model for the catalytic cycle of these enzymes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15933069", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 200, 
+            "text": "SET domain, first identified within and named after proteins encoded by three Drosophila genes [Su(var)3-9, E(z), and Trithorax], is recognized as a signature motif for histone methyltransferases ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15659850", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 160, 
+            "text": "(HMT)(1) class enzymes that methylate lysine residues of histones or proteins contain a conserved catalytic core termed the SET domain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14633678", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 6, 
+            "offsetInEndSection": 162, 
+            "text": "ERG-associated protein with a SET domain, also called SETDB1) is a novel histone methyltransferase that catalyzes methylation of histone H3-lysine 9 (H3-K9)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14522075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 136, 
+            "text": "SET domain histone methyltransferase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12887887", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 198, 
+            "text": " Unlike other histone methyltransferases, Dot1 does not contain a SET domain,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12628190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 937, 
+            "offsetInEndSection": 966, 
+            "text": "SET domain-containing HMTase ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12514135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 331, 
+            "text": "SET (suppressor of variegation, enhancer of zest and trithorax) domain (ESET) that was found to have the activity of a histone H3-specific methyltransferase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12398767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 150, 
+            "text": "SET domain contains the catalytic center of lysine methyltransferases that target the N-terminal tails of histones and regulate chromatin function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12389038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 289, 
+            "text": " The evolutionarily conserved SET domain occurs in most proteins known to possess histone lysine methyltransferase activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12372304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 615, 
+            "offsetInEndSection": 746, 
+            "text": "the evolutionarily conserved SET domain, which requires adjacent cysteine-rich regions to confer histone methyltransferase activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10949293", 
+            "endSection": "abstract"
+        }
+    ]
+}

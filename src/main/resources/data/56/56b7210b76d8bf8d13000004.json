@@ -1,0 +1,224 @@
+{
+    "body": "What is the effect of thapsigargin treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26154615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26086109", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26018251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25896661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26137860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25827060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26034200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26034201", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25779646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26055788", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25899321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25878248"
+    ], 
+    "triples": [
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Thapsigargin", 
+            "o": "67526-95-8"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Thapsigargin", 
+            "o": "Thapsigargin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1260017", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0076374"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076374", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18001764"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076374", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0233024"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17953819", 
+            "o": "Thapsigargin [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076374", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0806191"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076374", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18001764"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0076374", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17953819"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2788684", 
+            "o": "L12ADT"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18001764", 
+            "o": "Thapsigargin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0233024", 
+            "o": "thapsigargin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0296378", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0076374"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0595935", 
+            "o": "dansylthapsigargin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0806191", 
+            "o": "D019284"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0806191", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0233024", 
+            "o": "4006-0091"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17953819", 
+            "o": "N0000166351"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18001764", 
+            "o": "N0000166351"
+        }
+    ], 
+    "ideal_answer": [
+        "Thapsigargin is an endoplasmic stress inducer. \tIt is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor."
+    ], 
+    "exact_answer": [
+        "Thapsigargin is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019284", 
+        "http://www.biosemantics.org/jochem#4250351"
+    ], 
+    "type": "factoid", 
+    "id": "56b7210b76d8bf8d13000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1098, 
+            "offsetInEndSection": 1173, 
+            "text": " the sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor thapsigargin ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26034200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 620, 
+            "text": "Treatment of endoplasmic stress inducers, thapsigargin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25896661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 904, 
+            "text": "the two unrelated reversible autophagy inhibitors 3-methyladenine (3MA) and thapsigargin (TG) both blocked cargo sequestration completely.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25779646", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 960, 
+            "offsetInEndSection": 1043, 
+            "text": "pretreatment with the endoplasmic reticulum Ca(2+) pump inhibitor thapsigargin (TG)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26154615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 619, 
+            "offsetInEndSection": 684, 
+            "text": " pharmacological ER stress agents (thapsigargin and tunicamycin).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26086109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1407, 
+            "offsetInEndSection": 1479, 
+            "text": " thapsigargin-induced calcium depletion of sarcoplasmic reticular stores", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26034201", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 710, 
+            "offsetInEndSection": 958, 
+            "text": "Addition of thapsigargin (Tg), that induces store-depletion and activates TRPC1-mediated Ca(2+) entry, potentiated the Cl(-) current, which was inhibited by the addition of a non-specific TRPC channel blocker SKF96365 or removal of external Ca(2+).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25899321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 538, 
+            "text": "we demonstrate that thapsigargin (TG) and tunicamycin (TM), two ERS inducers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25827060", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 814, 
+            "offsetInEndSection": 900, 
+            "text": "hapsigargin, a sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA) Ca(2+) pump inhibitor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25878248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1245, 
+            "offsetInEndSection": 1276, 
+            "text": "Thapsigargin-induced ER stress ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26018251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1552, 
+            "offsetInEndSection": 1584, 
+            "text": "SERCA2a inhibitor (thapsigargin)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26055788", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1036, 
+            "offsetInEndSection": 1065, 
+            "text": "he ER stressors, thapsigargin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137860", 
+            "endSection": "abstract"
+        }
+    ]
+}

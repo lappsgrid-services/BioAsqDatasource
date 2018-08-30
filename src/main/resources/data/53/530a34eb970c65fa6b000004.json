@@ -1,0 +1,92 @@
+{
+    "body": "What is the oldest human sample analysed by paleontology proteomics?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22348088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18720427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23739949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22848450", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17918181"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0096938", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0030224", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0096938"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0030224", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1308492"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1308492", 
+            "o": "paleontology"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0030224", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0096937"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0096937", 
+            "o": "Paleontology"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0096938", 
+            "o": "D010163"
+        }
+    ], 
+    "ideal_answer": [
+        "The Tyrolean Iceman's brain is the oldest (5300 years old) human sample that has been studied by paleoproteomics."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020543", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010163", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006801", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901"
+    ], 
+    "type": "summary", 
+    "id": "530a34eb970c65fa6b000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 50, 
+            "text": "Paleoproteomic study of the Iceman's brain tissue.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23739949", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 347, 
+            "text": "We report the first use of shotgun proteomics to detect the protein expression profile of buccal swabs and cloth samples from two 500-year-old Andean mummies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22848450", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Identification of ancient biological samples from the 1991-discovered and more than 5300-year-old Tyrolean mummy, also called iceman or Oetzi, is very difficult. T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18720427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "To determine whether a 2,700-year-old tumor can be reliably diagnosed using microscopic and proteomic techniques ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17918181", 
+            "endSection": "abstract"
+        }
+    ]
+}

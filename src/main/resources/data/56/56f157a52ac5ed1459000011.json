@@ -1,0 +1,165 @@
+{
+    "body": "What is CRISPRi?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23849981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25409531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25566532", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23452860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26098216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26047700", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26080438"
+    ], 
+    "ideal_answer": [
+        "Clustered regularly interspaced palindromic repeats interference (CRISPRi). This discovery tool is is used for genetic screening based on loss-of-function phenotypes.", 
+        "The Clustered Regularly Interspaced Short Palindromic Repeats interference (CRISPRi) system is used for targeted silencing of transcription in different types of cells. The CRISPRi system is derived from the Streptococcus pyogenes CRISPR pathway, requiring only the coexpression of a catalytically inactive Cas9 protein and a customizable single guide RNA (sgRNA). The Cas9-sgRNA complex binds to DNA elements complementary to the sgRNA and causes a steric block that halts transcript elongation by RNA polymerase, resulting in the repression of the target gene. CRISPRi provides a simplified approach for rapid gene repression within 1-2 weeks. The method can also be adapted for high-throughput interrogation of genome-wide gene functions and genetic interactions, thus providing a complementary approach to RNA interference, which can be used in a wider variety of organisms."
+    ], 
+    "type": "summary", 
+    "id": "56f157a52ac5ed1459000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "CRISPR interference (CRISPRi) for sequence-specific control of gene expression.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 770, 
+            "text": "(CRISPRi), for targeted silencing of transcription in bacteria and human cells. The CRISPRi system is derived from the Streptococcus pyogenes CRISPR (clustered regularly interspaced palindromic repeats) pathway, requiring only the coexpression of a catalytically inactive Cas9 protein and a customizable single guide RNA (sgRNA). The Cas9-sgRNA complex binds to DNA elements complementary to the sgRNA and causes a steric block that halts transcript elongation by RNA polymerase, resulting in the repression of the target gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1073, 
+            "offsetInEndSection": 1388, 
+            "text": "CRISPRi provides a simplified approach for rapid gene repression within 1-2 weeks. The method can also be adapted for high-throughput interrogation of genome-wide gene functions and genetic interactions, thus providing a complementary approach to RNA interference, which can be used in a wider variety of organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 823, 
+            "text": "More recently, a new system for genome engineering based on the bacterial CRISPR-Cas9 system (Clustered Regularly Interspaced Short Palindromic Repeats), was shown to have the potential to also regulate gene expression at both transcriptional and post-transcriptional level in a more specific way.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25566532", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 322, 
+            "text": "CRISPR interference (CRISPRi), for targeted silencing of transcription in bacteria and human cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 756, 
+            "offsetInEndSection": 873, 
+            "text": "RNA-seq analysis indicates that CRISPR interference (CRISPRi)-mediated transcriptional repression is highly specific.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23849981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 761, 
+            "offsetInEndSection": 1041, 
+            "text": "Our results establish that the CRISPR system can be used as a modular and flexible DNA-binding platform for the recruitment of proteins to a target DNA sequence, revealing the potential of CRISPRi as a general tool for the precise regulation of gene expression in eukaryotic cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23849981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "CRISPR interference (CRISPRi) for sequence-specific control of gene expression", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 709, 
+            "text": "We show that delivery of the CRISPRi system is successful and can specifically repress a reporter gene in recipient cells, thereby establishing a new tool for gene regulation across bacterial cells and potentially for bacterial population control.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25409531", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 534, 
+            "offsetInEndSection": 805, 
+            "text": "This system, which we call CRISPR interference (CRISPRi), can efficiently repress expression of targeted genes in Escherichia coli, with no detectable off-target effects. CRISPRi can be used to repress multiple target genes simultaneously, and its effects are reversible.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23452860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 572, 
+            "text": "We have recently described an RNA-based method, CRISPR interference (CRISPRi), for targeted silencing of transcription in bacteria and human cells. The CRISPRi system is derived from the Streptococcus pyogenes CRISPR (clustered regularly interspaced palindromic repeats) pathway, requiring only the coexpression of a catalytically inactive Cas9 protein and a customizable single guide RNA (sgRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1081, 
+            "text": "CRISPR interference (CRISPRi)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26080438", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 95, 
+            "offsetInEndSection": 251, 
+            "text": " Although the recent development of clustered regularly interspaced short palindromic repeats (CRISPR)-based screening approaches in mammalian cell culture ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26080438", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1276, 
+            "offsetInEndSection": 1350, 
+            "text": "Clustered regularly interspaced palindromic repeats interference (CRISPRi)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26047700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 946, 
+            "offsetInEndSection": 1117, 
+            "text": "E2f8, were most highly upregulated in miR-142-deficient cells. Clustered regularly interspaced short palindromic repeat interference-mediated (CRISPRi-mediated) silencing ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26098216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 540, 
+            "offsetInEndSection": 678, 
+            "text": " a new system for genome engineering based on the bacterial CRISPR-Cas9 system (Clustered Regularly Interspaced Short Palindromic Repeats)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25566532", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Sequence-specific control of gene expression on a genome-wide scale is an important approach for understanding gene functions and for engineering genetic regulatory systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Genetic screening based on loss-of-function phenotypes is a powerful discovery tool in biology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26080438", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "body": "Is Prochlorococcus the most abundant photosynthetic organism?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25977791", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19549842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11595938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25435307"
+    ], 
+    "ideal_answer": [
+        "Yes, the marine cyanobacterium Prochlorococcus is the smallest and most abundant photosynthetic organism on Earth."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58ea659c3e8b6dc87c000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "The marine cyanobacterium Prochlorococcus is the smallest and most abundant photosynthetic organism on Earth.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25435307", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "The marine cyanobacterium Prochlorococcus is the numerically dominant photosynthetic organism in the oligotrophic oceans, and a model system in marine microbial ecology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25977791", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "The marine cyanobacterium Prochlorococcus is the most abundant photosynthetic organism in oligotrophic regions of the oceans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19549842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "The oceanic picoplankton Prochlorococcus - probably the most abundant photosynthetic organism on our planet - can grow at great depths where light intensity is very low.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11595938", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "body": "Can we detect DNA strand asymmetries using dinucleotide relative abundance \"genomic signatures\"?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15046306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12171605", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15716010", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9294192", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18799480", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9520433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10430918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9190805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7482779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10066522"
+    ], 
+    "ideal_answer": [
+        "The set of dinucleotide relative abundances can be regarded as a genomic signature because, despite diversity between species, it varies little between 50 kilobase or longer windows on a given genome. Thus, dinucleotide relative abundance profiles are species-type specific. These profiles are computed from the base step \"odds ratios\" that compare dinucleotide frequencies to those expected under the assumption of stochastic equilibrium (thorough shuffling). Dinucleotide relative abundance \"genomic signatures\" are strand-independent second-order DNA features. Thus, they cannot be used to detect DNA strand asymmetries."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "55435aeced966d112c000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 702, 
+            "text": "comparing the heterogeneities of bacterial genomes with respect to strand-independent first- and second-order features, (i) G + C content and (ii) dinucleotide relative abundance,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18799480", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 477, 
+            "text": "the concept of a genomic signature was introduced with the observation of species-type specific Dinucleotide Relative Abundance Profiles (DRAPs); dinucleotides were identified as the subsequences with the greatest bias in representation in a majority of genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15716010", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 54, 
+            "offsetInEndSection": 116, 
+            "text": "dinucleotide relative abundance values (the genomic signature)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15046306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 212, 
+            "text": "The dinucleotide relative abundance profile can be regarded as a genomic signature because, despite diversity between species, it varies little between 50 kilobase or longer windows on a given genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12171605", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 350, 
+            "offsetInEndSection": 532, 
+            "text": "The profile is computed from the base step \"odds ratios\" that compare dinucleotide frequencies to those expected under the assumption of stochastic equilibrium (thorough shuffling). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12171605", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 307, 
+            "offsetInEndSection": 369, 
+            "text": "The genome signatures (dinucleotide relative abundance values)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10430918", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "Early biochemical experiments measuring nearest neighbor frequencies established that the set of dinucleotide relative abundance values (dinucleotide biases) is a remarkably stable property of the DNA of an organism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10066522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 521, 
+            "offsetInEndSection": 643, 
+            "text": "the set of dinucleotide biases constitutes a 'genomic signature' that can discriminate sequences from different organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10066522", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 669, 
+            "offsetInEndSection": 773, 
+            "text": "the set of dinucleotide odds ratio (relative abundance) values constitute a signature of each DNA genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7482779", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "Dinucleotide relative abundance extremes: a genomic signature.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7482779", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "The dinucleotide relative abundance profile can be regarded as a genomic signature because, despite diversity between species, it varies little between 50 kilobase or longer windows on a given genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12171605", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 201, 
+            "offsetInEndSection": 476, 
+            "text": "Previously, the concept of a genomic signature was introduced with the observation of species-type specific Dinucleotide Relative Abundance Profiles (DRAPs); dinucleotides were identified as the subsequences with the greatest bias in representation in a majority of genomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15716010", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 488, 
+            "text": "Comparisons within and between species sample sequences are based on the profile of dinucleotide relative abundance values (The profile is rho*XY = f*XY/f*Xf*Y for all XY, where f*X denotes the frequency of the nucleotide X and f*XY denotes the frequency of the dinucleotide XY, both computed from the sequence concatenated with its inverted complement).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9294192", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 705, 
+            "offsetInEndSection": 887, 
+            "text": "Dinucleotide relative abundances (i.e., dinucleotide representations normalized by the component nucleotide frequencies) are consonant with respect to the leading and lagging strands", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9520433", 
+            "endSection": "abstract"
+        }
+    ]
+}

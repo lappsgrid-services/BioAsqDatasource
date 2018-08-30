@@ -1,0 +1,81 @@
+{
+    "body": "What is the COUGER tool?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24861628"
+    ], 
+    "ideal_answer": [
+        "COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. ", 
+        "COUGER is a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs. It takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. To achieve this task, COUGER uses a classification approach, with features that reflect the DNA-binding specificities of the putative co-factors. The identified co-factors are presented in a user-friendly output page, together with information that allows the user to understand and to explore the contributions of individual co-factor features."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012984"
+    ], 
+    "type": "summary", 
+    "id": "56ae35bc0a360a5e45000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "COUGER--co-factors associated with uniquely-bound genomic regions.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 576, 
+            "offsetInEndSection": 1374, 
+            "text": "Here, we present an interactive web implementation of COUGER, a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs. COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. To achieve this task, COUGER uses a classification approach, with features that reflect the DNA-binding specificities of the putative co-factors. The identified co-factors are presented in a user-friendly output page, together with information that allows the user to understand and to explore the contributions of individual co-factor features. COUGER can be run as a stand-alone tool or through a web interface: http://couger.oit.duke.edu.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 750, 
+            "offsetInEndSection": 929, 
+            "text": "Here, we present an interactive web implementation of COUGER, a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 926, 
+            "offsetInEndSection": 1102, 
+            "text": "COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 756, 
+            "offsetInEndSection": 931, 
+            "text": "COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 576, 
+            "offsetInEndSection": 933, 
+            "text": "Here, we present an interactive web implementation of COUGER, a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs. COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 757, 
+            "offsetInEndSection": 1079, 
+            "text": "COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. To achieve this task, COUGER uses a classification approach, with features that reflect the DNA-binding specificities of the putative co-factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 577, 
+            "offsetInEndSection": 933, 
+            "text": "Here, we present an interactive web implementation of COUGER, a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs. COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24861628", 
+            "endSection": "abstract"
+        }
+    ]
+}

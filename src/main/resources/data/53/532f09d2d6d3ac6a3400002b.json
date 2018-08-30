@@ -1,0 +1,90 @@
+{
+    "body": "Is rivaroxaban metabolized in kidneys?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23026665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23631188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22177763", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22931521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19712596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19196845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23652451", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22825670", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23790601"
+    ], 
+    "ideal_answer": [
+        "rivaroxaban undergoes renal metabolism"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007668", 
+        "http://www.biosemantics.org/jochem#4243836"
+    ], 
+    "type": "yesno", 
+    "id": "532f09d2d6d3ac6a3400002b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 636, 
+            "text": "The novel oral anticoagulants (i.e., dabigatran, apixaban, rivaroxaban) all undergo renal metabolism to varying degrees, and hence dosing, efficacy, and safety require special consideration in CKD patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23790601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1473, 
+            "offsetInEndSection": 1614, 
+            "text": "The new oral anticoagulants have relatively little data in patients with severe renal impairment, and all have an element of renal excretion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23652451", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 409, 
+            "offsetInEndSection": 661, 
+            "text": "Now new anticoagulant drugs(dabigatran and rivaroxaban) can become available. Therefore, we have to learn how to use those drugs. They have to carefully be used because they discharge from kidney and old aged patients have potential renal dysfunction. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23631188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1115, 
+            "offsetInEndSection": 1268, 
+            "text": "In the everyday practice it will be necessary to be very cautious in patients with impaired renal function, as all these drugs are eliminated by kidneys.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23026665", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1135, 
+            "text": "Dabigatran etexilate and rivaroxaban carry the highest risk due to a high degree of renal excretion, whereas the risk for apixaban, edoxaban and betrixaban seems lower.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22931521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 639, 
+            "offsetInEndSection": 800, 
+            "text": "However, all these agents undergo renal clearance to varying degrees, and hence dosing, efficacy, and safety require special consideration in patients with CKD. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22825670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1665, 
+            "offsetInEndSection": 1776, 
+            "text": "Rivaroxaban being excreted via kidney and liver, some precautions should apply in case of liver insufficiency. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22177763", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1397, 
+            "offsetInEndSection": 1496, 
+            "text": "Rivaroxaban elimination is mainly renal, but also through faecal matter and by hepatic metabolism. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19712596", 
+            "endSection": "abstract"
+        }
+    ]
+}

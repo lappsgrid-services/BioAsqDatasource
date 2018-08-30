@@ -1,0 +1,206 @@
+{
+    "body": "The pathogen Fusarium graminearum affects what type of plant species?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18179606", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26693688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26585460", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22516221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26607286", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26305050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17031651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22028654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21639892", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24779355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12492838", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17222149", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26198851", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26679010", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17555271"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0032098", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18593376"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18593376", 
+            "o": "plants"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0032098", 
+            "o": "plant"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0032098", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0486695"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0486695", 
+            "o": "plant"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0450254", 
+            "o": "Pathogenic organism"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0450254", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18639324"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18639324", 
+            "o": "pathogenic organism"
+        }
+    ], 
+    "ideal_answer": [
+        "Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world.", 
+        "Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world. "
+    ], 
+    "exact_answer": [
+        "cereal crops"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005670", 
+        "http://www.biosemantics.org/jochem#4053737", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010945"
+    ], 
+    "type": "factoid", 
+    "id": "58f3ca5c70f9fc6f0f00000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26693688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 342, 
+            "text": "Fusarium head blight (FHB) of small cereals is a disease of global importance with regard to economic losses and mycotoxin contamination harmful to human and animal health. In Germany, FHB is predominantly associated with wheat and F. graminearum is recognised as the major causal agent of the disease, but little is known about FHB of barley", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26679010", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Fusarium graminearum is a filamentous fungal pathogen that causes wheat Fusarium head blight", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26607286", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Disruption of the GABA shunt affects mitochondrial respiration and virulence in the cereal pathogen Fusarium graminearum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26305050", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Fusarium graminearum is an important plant pathogen that causes head blight of major cereal crops", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22028654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Fusarium graminearum is a ubiquitous pathogen of cereal crops, including wheat, barley, and maize", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17555271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Disruption of the GABA shunt affects mitochondrial respiration and virulence in the cereal pathogen Fusarium graminearum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26305050", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "The Ascomycete pathogen Fusarium graminearum can infect all cereal species and lower grain yield, quality and safety.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18179606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Arabidopsis is susceptible to the cereal ear blight fungal pathogens Fusarium graminearum and Fusarium culmorum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12492838", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Fusarium head blight (FHB) is a devastating disease of small grain cereal crops caused by the necrotrophic pathogen Fusarium graminearum and Fusarium culmorum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17031651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "The cereal pathogen Fusarium graminearum threatens food and feed production worldwide.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26305050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 165, 
+            "text": " necrotrophic fungal pathogen Fusarium that cause head blight and crown rot of cereals including wheat also infect a number of alternative host plants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17222149", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 101, 
+            "text": "Fusarium species cause Fusarium head blight (FHB) and other important diseases of cereals", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21639892", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 131, 
+            "text": "usarium graminearum is a toxigenic fungal pathogen that causes Fusarium head blight (FHB) and crown rot on cereal crops worldwide.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24779355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 95, 
+            "text": "usarium graminearum is the fungal pathogen that causes globally important diseases of cereals ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26882849", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 344, 
+            "text": "Fusarium graminearum, the causal agent of head scab disease of small grain cereals which threatens global food security. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26198851", 
+            "endSection": "abstract"
+        }
+    ]
+}

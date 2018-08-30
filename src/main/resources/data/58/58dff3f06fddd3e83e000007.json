@@ -1,0 +1,30 @@
+{
+    "body": "What is the Genome 10K Project?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25689317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22897955"
+    ], 
+    "ideal_answer": [
+        "The Genome 10K Project was established in 2009 by a consortium of biologists and genome scientists determined to facilitate the sequencing and analysis of the complete genomes of 10,000 vertebrate species."
+    ], 
+    "type": "summary", 
+    "id": "58dff3f06fddd3e83e000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "The Genome 10K Project was established in 2009 by a consortium of biologists and genome scientists determined to facilitate the sequencing and analysis of the complete genomes of 10,000 vertebrate species.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25689317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "The Genome 10K project aims to sequence the genomes of 10,000 vertebrates, representing approximately one genome for each vertebrate genus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22897955", 
+            "endSection": "abstract"
+        }
+    ]
+}

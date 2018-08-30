@@ -1,0 +1,100 @@
+{
+    "body": "What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/3100113", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2112988", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/409284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7904121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7492964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6418001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20509947"
+    ], 
+    "ideal_answer": [
+        "X- linked recessive"
+    ], 
+    "exact_answer": [
+        "X- linked recessive"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040582", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12799", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016532", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050172"
+    ], 
+    "type": "factoid", 
+    "id": "5344155faeec6fbd07000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 6, 
+            "offsetInEndSection": 182, 
+            "text": "ysosomal diseases (LD) are inherited as autosomal recessive traits, but two important conditions have X-linked inheritance: Fabry disease and Mucopolysaccharidosis II (MPS II).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20509947", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 98, 
+            "text": "unter disease, Mucopolysaccharidosis type II, is an X-linked recessive lysosomal storage disorder", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7492964", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 49, 
+            "text": "unter syndrome is an X-linked recessive disorder", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7904121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1176, 
+            "offsetInEndSection": 1265, 
+            "text": "X chromosome heterozygosity and confirmed the paternal origin of one of the X chromosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2112988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 77, 
+            "text": " Hunter's disease in a female with an X-chromosome deletion", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3100113", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1009, 
+            "offsetInEndSection": 1107, 
+            "text": "Chromosome studies on the patient revealed a partial deletion of the long arm of one X-chromosome,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3100113", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 44, 
+            "text": "unter disease, an X-linked recessive lethal", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6418001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 358, 
+            "text": "X-linked disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/409284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 30, 
+            "text": "Hunter syndrome in females", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/409284", 
+            "endSection": "title"
+        }
+    ]
+}

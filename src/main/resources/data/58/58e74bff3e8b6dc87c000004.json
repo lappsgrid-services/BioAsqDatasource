@@ -1,0 +1,313 @@
+{
+    "body": "Which class of genes are mutated in Diamond Blackfan Anemia patients?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11112378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20606162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18768533", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20960466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22689679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12393682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12586610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18230666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19191325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17647292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20378560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18781615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17186470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24453067", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18535205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23863123", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21435505", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16990592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20116044"
+    ], 
+    "ideal_answer": [
+        "Diamond-Blackfan Anemia (DBA) is characterized by a defect of erythroid progenitors and, clinically, by anemia and malformations. Diamond Blackfan anemia (DBA) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes. Diamond-Blackfan anemia (DBA) is a rare congenital disease affecting erythroid precursor differentiation. Diamond-Blackfan anemia (DBA) is a congenital disease characterized by defective erythroid progenitor maturation and physical malformations.", 
+        "Currently nine genes, all encoding ribosomal proteins (RP), have been found mutated in approximately 50% of patients.", 
+        "In 25% of patients with Diamond-Blackfan anaemia 19q13 gene mutation was detected, and recent findings suggest another gene located on 8p23.3-p22 chromosome. Diamond Blackfan anemia (DBA) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes. Currently nine genes, all encoding ribosomal proteins (RP), have been found mutated in approximately 50% of patients. We also report the prevalence of RPS 19 mutations in the Italian DBA population, as shown by an analysis of 56 patients. Experimental evidence supports the hypothesis that DBA is primarily the result of defective ribosome synthesis. ", 
+        "blackfan anemia (dba) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes. . genes encoding ribosomal proteins have been associated to dba: after rps19 , mutations in genes rps24 and rps17 were recently identified in a fraction of the patients. . 25% of patients with diamond-blackfan anaemia 19q13 gene mutation was detected , and recent findings suggest another gene located on 8p23.3-p22 chromosome. . transgenic mouse model demonstrates a dominant negative effect of a point mutation in the rps19 gene associated with diamond-blackfan anemia . also report the prevalence of rps 19 mutations in the italian dba population , as shown by an analysis of 56 patients. . in the gene encoding ribosomal protein (rp) s19 have recently been found in 25% of patients with either the dominant or the sporadic form. . ", 
+        "Diamond Blackfan anemia (DBA) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes.", 
+        "three genes encoding ribosomal proteins have been associated to dba: after rps19, mutations in genes rps24 and rps17 were recently identified in a fraction of the patients.", 
+        "Small ribosomal subunit genes RPS19, RPS24, and RPS17 are mutated in approximately one-third of patients. Currently two genes are associated with the DBA phenotype--the ribosomal protein (RP) S19 mutated in 25% of DBA patients and RPS24 mutated in approximately 1.4% of DBA patients. As a proof of concept, we designed a multiplex ligation-dependent probe amplification assay targeted to screen the six genes that are most frequently mutated in Diamond-Blackfan anemia patients: RPS17, RPS19, RPS26, RPL5, RPL11, and RPL35A. We sequenced GATA-1 in 23 patients that were negative for mutations in the most frequently mutated DBA genes. Currently nine genes, all encoding ribosomal proteins (RP), have been found mutated in approximately 50% of patients. More than a decade has passed since the initial identification of ribosomal protein gene mutations in patients with Diamond-Blackfan anemia (DBA), a hematologic disorder that became the founding member of a class of diseases known as ribosomopathies. In this study, nine Korean DBA patients were screened for mutations in eight known DBA genes (RPS19, RPS24, RPS17, RPS10, RPS26, RPL35A, RPL5 and RPL11) using the direct sequencing method.", 
+        "Diamond Blackfan anemia (DBA) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes. Mutation of ribosomal protein RPS24 in Diamond-Blackfan anemia results in a ribosome biogenesis disorder."
+    ], 
+    "exact_answer": [
+        "ribosomal protein genes"
+    ], 
+    "type": "factoid", 
+    "id": "58e74bff3e8b6dc87c000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 250, 
+            "offsetInEndSection": 398, 
+            "text": "Mutations in the gene encoding ribosomal protein (RP) S19 have recently been found in 25% of patients with either the dominant or the sporadic form.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11112378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 921, 
+            "offsetInEndSection": 1041, 
+            "text": "We also report the prevalence of RPS 19 mutations in the Italian DBA population, as shown by an analysis of 56 patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11112378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Mutation of ribosomal protein RPS24 in Diamond-Blackfan anemia results in a ribosome biogenesis disorder.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18230666", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 395, 
+            "text": "Three genes encoding ribosomal proteins have been associated to DBA: after RPS19, mutations in genes RPS24 and RPS17 were recently identified in a fraction of the patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18230666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "A transgenic mouse model demonstrates a dominant negative effect of a point mutation in the RPS19 gene associated with Diamond-Blackfan anemia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20606162", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Diamond Blackfan anemia (DBA) is an inherited erythroblastopenia associated with mutations in at least 8 different ribosomal protein genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20606162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 216, 
+            "offsetInEndSection": 333, 
+            "text": "Currently nine genes, all encoding ribosomal proteins (RP), have been found mutated in approximately 50% of patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20960466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 445, 
+            "text": "Experimental evidence supports the hypothesis that DBA is primarily the result of defective ribosome synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20960466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Ribosomal protein genes RPS10 and RPS26 are commonly mutated in Diamond-Blackfan anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20116044", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "A new database for ribosomal protein genes which are mutated in Diamond-Blackfan Anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18781615", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 530, 
+            "offsetInEndSection": 758, 
+            "text": "Recently, new genes, all encoding ribosomal proteins, have been found to be mutated in Diamond-Blackfan anemia, adding further support to the concept that ribosome biogenesis plays an important role in regulating erythropoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18768533", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 250, 
+            "text": "More than a decade has passed since the initial identification of ribosomal protein gene mutations in patients with Diamond-Blackfan anemia (DBA), a hematologic disorder that became the founding member of a class of diseases known as ribosomopathies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23863123", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "High frequency of ribosomal protein gene deletions in Italian Diamond-Blackfan anemia patients detected by multiplex ligation-dependent probe amplification assay.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22689679", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "The gene encoding ribosomal protein S19 (RPS19) has been shown to be mutated in 25% of the patients affected by Diamond-Blackfan anemia (DBA), a congenital erythroblastopenia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12393682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 450, 
+            "text": "These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24453067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Ribosomal protein genes RPS10 and RPS26 are commonly mutated in Diamond-Blackfan anemia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20116044", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 681, 
+            "offsetInEndSection": 930, 
+            "text": "The combination of sequencing and multiplex ligation-dependent probe amplification analysis of these six genes allows the genetic characterization of approximately 65% of patients, showing that Diamond-Blackfan anemia is indisputably a ribosomopathy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22689679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 760, 
+            "text": "Recently, new genes, all encoding ribosomal proteins, have been found to be mutated in Diamond-Blackfan anemia, adding further support to the concept that ribosome biogenesis plays an important role in regulating erythropoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18768533", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Identification of mutations in the ribosomal protein L5 (RPL5) and ribosomal protein L11 (RPL11) genes in Czech patients with Diamond-Blackfan anemia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19191325", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 228, 
+            "text": "Mutations in the ribosomal protein S19 gene (RPS19) have been found in 25% of patients with Diamond-Blackfan anemia, a rare syndrome of congenital bone marrow failure characterized by erythroblastopenia and various malformations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18768533", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Ribosomal protein S17 gene (RPS17) is mutated in Diamond-Blackfan anemia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17647292", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 153, 
+            "offsetInEndSection": 258, 
+            "text": "Small ribosomal subunit genes RPS19, RPS24, and RPS17 are mutated in approximately one-third of patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18535205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 457, 
+            "text": "Currently two genes are associated with the DBA phenotype--the ribosomal protein (RP) S19 mutated in 25% of DBA patients and RPS24 mutated in approximately 1.4% of DBA patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17647292", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 480, 
+            "text": "DBA patients exhibit abnormal pre-rRNA maturation patterns and the majority bear mutations in one of several ribosomal protein genes that encode structural components of the ribosome essential for the correct assembly of the ribosomal subunits.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21435505", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 681, 
+            "offsetInEndSection": 931, 
+            "text": "The combination of sequencing and multiplex ligation-dependent probe amplification analysis of these six genes allows the genetic characterization of approximately 65% of patients, showing that Diamond-Blackfan anemia is indisputably a ribosomopathy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22689679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Human RPS19, the gene mutated in Diamond-Blackfan anemia, encodes a ribosomal protein required for the maturation of 40S ribosomal subunits.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16990592", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Ribosomal protein S17 gene (RPS17) is mutated in Diamond-Blackfan anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17647292", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "A new database for ribosomal protein genes which are mutated in Diamond-Blackfan Anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18781615", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 815, 
+            "offsetInEndSection": 924, 
+            "text": "In total, 12 (27%) of the Japanese Diamond-Blackfan anemia patients had mutations in ribosomal protein genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20378560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Ribosomal protein S19 (RPS19) is frequently mutated in Diamond-Blackfan anemia (DBA), a rare congenital hypoplastic anemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12586610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Mutations in the ribosomal protein genes in Japanese patients with Diamond-Blackfan anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20378560", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Ribosomal protein S24 gene is mutated in Diamond-Blackfan anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17186470", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Ribosomal protein genes RPS10 and RPS26 are commonly mutated in Diamond-Blackfan anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20116044", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "High frequency of ribosomal protein gene deletions in Italian Diamond-Blackfan anemia patients detected by multiplex ligation-dependent probe amplification assay.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22689679", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "body": "What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27588474"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1825588", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20756491"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20756491", 
+            "o": "IKAROS"
+        }
+    ], 
+    "ideal_answer": [
+        "Direct interaction of Ikaros and Foxp1 modulates expression of the G protein-coupled receptor G2A in B-lymphocytes and acute lymphoblastic leukemia.", 
+        "The effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytesis is modulation of expression of the G protein-coupled receptor G2A."
+    ], 
+    "exact_answer": [
+        "Modulation of expression of the G protein-coupled receptor G2A."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001402", 
+        "http://www.uniprot.org/uniprot/FOXP1_RAT", 
+        "http://www.uniprot.org/uniprot/FOXP1_MOUSE", 
+        "http://www.biosemantics.org/jochem#4250484", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D060151", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051740"
+    ], 
+    "type": "factoid", 
+    "id": "58853667e56acf5176000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Direct interaction of Ikaros and Foxp1 modulates expression of the G protein-coupled receptor G2A in B-lymphocytes and acute lymphoblastic leukemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 555, 
+            "text": "We describe a novel physical and functional interaction between the proteins, which requires the central zinc finger domain of Ikaros. The Ikaros-Foxp1 interaction is abolished by deletion of this region, which corresponds to the IK6 isoform that is commonly associated with high-risk acute lymphoblastic leukemia (ALL). We also identify the Gpr132 gene, which encodes the orphan G protein-coupled receptor G2A, as a novel target for Foxp1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1047, 
+            "offsetInEndSection": 1216, 
+            "text": "Our results reveal a novel effect of Ikaros haploinsufficiency on Foxp1 functioning, and identify G2A as a potential modulator of the cell cycle in Ikaros-deleted B-ALL.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1040, 
+            "offsetInEndSection": 1209, 
+            "text": "Our results reveal a novel effect of Ikaros haploinsufficiency on Foxp1 functioning, and identify G2A as a potential modulator of the cell cycle in Ikaros-deleted B-ALL.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Direct interaction of Ikaros and Foxp1 modulates expression of the G protein-coupled receptor G2A in B-lymphocytes and acute lymphoblastic leukemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1047, 
+            "offsetInEndSection": 1217, 
+            "text": "Our results reveal a novel effect of Ikaros haploinsufficiency on Foxp1 functioning, and identify G2A as a potential modulator of the cell cycle in Ikaros-deleted B-ALL..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27588474", 
+            "endSection": "abstract"
+        }
+    ]
+}

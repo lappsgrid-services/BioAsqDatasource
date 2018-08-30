@@ -1,0 +1,88 @@
+{
+    "body": "Does mTOR regulate the translation of MAPKAPK2?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26269117", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26280535"
+    ], 
+    "ideal_answer": [
+        "Yes. mTOR regulates the translation of the MK2 (also known as MAPKAPK2) kinase through 4EBP1.  In turn, MAPKAPK2 phosphorylates the RNA-binding protein ZFP36L1 during senescence, inhibiting its ability to degrade the transcripts of numerous senescence-associated secretory phenotype (SASP) components. Consequently, mTOR inhibition or constitutive activation of ZFP36L1 impairs the non-cell-autonomous effects of senescent cells in both tumour-suppressive and tumour-promoting contexts."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MAPK2_RABIT", 
+        "http://amigo.geneontology.org/amigo/term/GO:0070438", 
+        "http://www.uniprot.org/uniprot/MAPK2_DROME", 
+        "http://amigo.geneontology.org/amigo/term/GO:0038201", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058570", 
+        "http://www.uniprot.org/uniprot/MAPK2_HUMAN", 
+        "http://www.uniprot.org/uniprot/MAPK2_CRILO"
+    ], 
+    "type": "yesno", 
+    "id": "58967c9978275d0c4a000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "mTOR regulates MAPKAPK2 translation to control the senescence-associated secretory phenotype.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 1073, 
+            "text": "Senescent cells secrete a combination of factors collectively known as the senescence-associated secretory phenotype (SASP). The SASP reinforces senescence and activates an immune surveillance response, but it can also show pro-tumorigenic properties and contribute to age-related pathologies. In a drug screen to find new SASP regulators, we uncovered the mTOR inhibitor rapamycin as a potent SASP suppressor. Here we report a mechanism by which mTOR controls the SASP by differentially regulating the translation of the MK2 (also known as MAPKAPK2) kinase through 4EBP1. In turn, MAPKAPK2 phosphorylates the RNA-binding protein ZFP36L1 during senescence, inhibiting its ability to degrade the transcripts of numerous SASP components. Consequently, mTOR inhibition or constitutive activation of ZFP36L1 impairs the non-cell-autonomous effects of senescent cells in both tumour-suppressive and tumour-promoting contexts. Altogether, our results place regulation of the SASP as a key mechanism by which mTOR could influence cancer, age-related diseases and immune responses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 408, 
+            "offsetInEndSection": 569, 
+            "text": "Here we report a mechanism by which mTOR controls the SASP by differentially regulating the translation of the MK2 (also known as MAPKAPK2) kinase through 4EBP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "mTOR regulates MAPKAPK2 translation to control the senescence-associated secretory phenotype", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 571, 
+            "text": "Here we report a mechanism by which mTOR controls the SASP by differentially regulating the translation of the MK2 (also known as MAPKAPK2) kinase through 4EBP1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 572, 
+            "text": "Here we report a mechanism by which mTOR controls the SASP by differentially regulating the translation of the MK2 (also known as MAPKAPK2) kinase through 4EBP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1257, 
+            "offsetInEndSection": 1475, 
+            "text": "Both Beclin1-PI3KIII and Beclin1-MAPKAPK2 interactions as were remarkably affected by silencing either ATM or MAPK14.ATM promoted IR-induced autophagy via the MAPK14 pathway, mTOR pathway and Beclin1/PI3KIII complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26269117", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "mTOR regulates MAPKAPK2 translation to control the senescence-associated secretory phenotype.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26280535", 
+            "endSection": "title"
+        }
+    ]
+}

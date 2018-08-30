@@ -1,0 +1,291 @@
+{
+    "body": "Are Alu elements transcribed?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/1709156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8093066", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22716230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1704372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8366099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16682445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21987713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6173130", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20424511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7528809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2415825", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15593371"
+    ], 
+    "ideal_answer": [
+        "A significant percentage of the more than 1 million copies of Alu elements was shown to be transrcribed. Free Alu RNAs are known to be transcribed by Pol III from their own promoter. On the other hand, embedded Alu RNAs are transcribed by Pol II as part of protein- and non-protein-coding RNAs. Recent studies have demonstrated that both free and embedded Alu RNAs play a major role in post transcriptional regulation of gene expression."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "54dcd8f61388e8454a000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 15, 
+            "offsetInEndSection": 50, 
+            "text": "Alu RNAs in the human transcriptome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 264, 
+            "text": "Alu elements can be transcribed in two different ways, by two independent polymerases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 332, 
+            "text": "'Free Alu RNAs' are transcribed by Pol III from their own promoter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 340, 
+            "offsetInEndSection": 433, 
+            "text": "'embedded Alu RNAs' are transcribed by Pol II as part of protein- and non-protein-coding RNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 435, 
+            "offsetInEndSection": 576, 
+            "text": "Recent studies have demonstrated that both free and embedded Alu RNAs play a major role in post transcriptional regulation of gene expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 355, 
+            "text": "Alu RNAs transcribed from these elements are present at low levels at normal cell growth but various stress conditions increase their abundance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16682445", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 412, 
+            "text": "Alu RNAs are known to bind the cognate proteins SRP9/14", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16682445", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Increased level of polymerase III transcribed Alu RNA in hepatocellular carcinoma tissue", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15593371", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 247, 
+            "offsetInEndSection": 411, 
+            "text": "we used primer extension analysis to determine the level of polymerase III directed Alu RNA and found an increased expression of Alu RNA in hepatocellular carcinoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15593371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Widespread RNA editing of embedded alu elements in the human transcriptome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 282, 
+            "text": "Transcribed Alu sequences can alter splicing patterns by generating new exons", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 827, 
+            "offsetInEndSection": 950, 
+            "text": "In the vast majority of edited RNAs, A-to-I substitutions are clustered within transcribed sense or antisense Alu sequences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1098, 
+            "offsetInEndSection": 1209, 
+            "text": "Alu-associated RNA editing may be a mechanism for marking nonstandard transcripts, not destined for translation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 52, 
+            "offsetInEndSection": 80, 
+            "text": "the case of transcribed Alus", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21987713", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1019, 
+            "offsetInEndSection": 1129, 
+            "text": "Differential levels of Alu RNA during different conditions of stress also await clear functional understanding", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21987713", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Alu expression in human cell lines and their retrotranspositional potential", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22716230", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1111, 
+            "offsetInEndSection": 1196, 
+            "text": "Alu expression likely varies by cell type, growth conditions and transformation state", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22716230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1324, 
+            "offsetInEndSection": 1560, 
+            "text": "The vast majority of Alu loci potentially transcribed by RNA pol III lack important sequence features for retrotransposition and the majority of potentially active Alu loci in the genome (scored high ERP) belong to young Alu subfamilies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22716230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1057, 
+            "offsetInEndSection": 1263, 
+            "text": "We suggest that the genomic sequences upstream from most Alu elements and 7SL pseudogenes do not contain this element, and consequently that only a small subset of such sequences can be transcribed in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2415825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1145, 
+            "offsetInEndSection": 1383, 
+            "text": "These similarities suggest that some Alu family sequences are mobile genetic elements that can transpose to new chromosomal loci using as an intermediate a cDNA copy of an RNA transcribed from the Alu family element by RNA polymerase III.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6173130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Primate and rodent genomes are populated with hundreds of thousands copies of Alu and B1 elements dispersed by retroposition, i.e., by genomic reintegration of their reverse transcribed RNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7528809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 254, 
+            "text": "Members of this family are readily transcribed in vitro by RNA polymerase III, but RNA corresponding to only a small sub-set of Alu elements has been found in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8093066", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Alu interspersed repetitive elements possess internal RNA polymerase III promoters which are strongly transcribed in vitro, yet these elements are nearly silent in somatic cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8366099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "The amplification of genomic Alu elements by retroposition, i.e. by reintegration of reverse-transcribed RNA, suggests that Alu RNA plays an important role in this process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1709156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 303, 
+            "text": "We report enzymatic studies of the secondary structure of Alu RNAs transcribed in vitro from two recently retroposed Alu elements.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1709156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1262, 
+            "text": "The results of this study indicate that Alu and 7SL RNA gene sequences interact with cellular factors that are important for HeLa cell proliferation and suggest that these pol III-transcribed elements may be involved in the regulation of cellular growth.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1704372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 410, 
+            "text": "Then we used primer extension analysis to determine the level of polymerase III directed Alu RNA and found an increased expression of Alu RNA in hepatocellular carcinoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15593371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Alu interspersed repetitive elements possess internal RNA polymerase III promoters which are strongly transcribed in vitro, yet these elements are nearly silent in somatic cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8366099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 433, 
+            "text": "'Free Alu RNAs' are transcribed by Pol III from their own promoter, while 'embedded Alu RNAs' are transcribed by Pol II as part of protein- and non-protein-coding RNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17514354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 302, 
+            "text": "We report enzymatic studies of the secondary structure of Alu RNAs transcribed in vitro from two recently retroposed Alu elements", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1709156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 369, 
+            "text": "Transcribed Alu sequences can alter splicing patterns by generating new exons, but other impacts of intragenic Alu elements on their host RNA are largely unexplored", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15342557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 459, 
+            "text": "Both 7SL genes and Alu elements are transcribed by RNA polymerase III, and we show here that the internal 7SL promoter lies within the Alu-like part of the 7SL gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2415825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1250, 
+            "offsetInEndSection": 1317, 
+            "text": "Each group revealed a divergent pattern of transcribed Alu elements", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20424511", 
+            "endSection": "abstract"
+        }
+    ]
+}

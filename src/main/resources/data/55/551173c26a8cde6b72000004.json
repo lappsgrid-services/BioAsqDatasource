@@ -1,0 +1,121 @@
+{
+    "body": "Which event results in the acetylation of S6K1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19961954"
+    ], 
+    "ideal_answer": [
+        "Using acetyl-specific K516 antibodies, we show that acetylation of endogenous S6K1 at this site is potently induced upon growth factor stimulation. We propose that K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling. Following mitogen stimulation, S6Ks interact with the p300 and p300/CBP-associated factor (PCAF) acetyltransferases. S6Ks can be acetylated by p300 and PCAF in vitro and S6K acetylation is detected in cells expressing p300", 
+        "Acetylation of S6K1 and 2 is increased upon the inhibition of class I/II histone deacetylases (HDACs) by trichostatin-A, while the enhancement of S6K1 acetylation by nicotinamide suggests the additional involvement of sirtuin deacetylases in S6K deacetylationUsing acetyl-specific K516 antibodies, we show that acetylation of endogenous S6K1 at this site is potently induced upon growth factor stimulation", 
+        "Using acetyl-specific K516 antibodies, we show that acetylation of endogenous S6K1 at this site is potently induced upon growth factor stimulation We propose that K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling", 
+        "K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling, followed by interaction with the p300 and p300/CBP-associated factor (PCAF) acetyltransferases. S6K1 can be acetylated by p300 and PCAF in vitro and S6K acetylation is detected in cells expressing p300."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006473", 
+        "http://www.uniprot.org/uniprot/KS6B1_MOUSE", 
+        "http://www.uniprot.org/uniprot/KS6B1_BOVIN", 
+        "http://www.uniprot.org/uniprot/KS6B1_RAT", 
+        "http://www.uniprot.org/uniprot/KS6B1_HUMAN", 
+        "http://www.uniprot.org/uniprot/KS6B1_RABIT"
+    ], 
+    "type": "summary", 
+    "id": "551173c26a8cde6b72000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "S6K1 is acetylated at lysine 516 in response to growth factor stimulation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 396, 
+            "text": "In addition to phosphorylation, we have recently shown that S6K1 is also targeted by lysine acetylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 398, 
+            "offsetInEndSection": 590, 
+            "text": "Here, using tandem mass spectrometry we have mapped acetylation of S6K1 to lysine 516, a site close to the C-terminus of the kinase that is highly conserved amongst vertebrate S6K1 orthologues", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 592, 
+            "offsetInEndSection": 738, 
+            "text": "Using acetyl-specific K516 antibodies, we show that acetylation of endogenous S6K1 at this site is potently induced upon growth factor stimulation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1074, 
+            "offsetInEndSection": 1215, 
+            "text": "We propose that K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Histone acetyltransferases interact with and acetylate p70 ribosomal S6 kinases in vitro and in vivo", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 626, 
+            "text": "Following mitogen stimulation, S6Ks interact with the p300 and p300/CBP-associated factor (PCAF) acetyltransferases. S6Ks can be acetylated by p300 and PCAF in vitro and S6K acetylation is detected in cells expressing p300", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 774, 
+            "offsetInEndSection": 1033, 
+            "text": "Acetylation of S6K1 and 2 is increased upon the inhibition of class I/II histone deacetylases (HDACs) by trichostatin-A, while the enhancement of S6K1 acetylation by nicotinamide suggests the additional involvement of sirtuin deacetylases in S6K deacetylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 627, 
+            "text": "Following mitogen stimulation, S6Ks interact with the p300 and p300/CBP-associated factor (PCAF) acetyltransferases. S6Ks can be acetylated by p300 and PCAF in vitro and S6K acetylation is detected in cells expressing p300.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 628, 
+            "offsetInEndSection": 773, 
+            "text": "Furthermore, it appears that the acetylation sites targeted by p300 lie within the divergent C-terminal regulatory domains of both S6K1 and S6K2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 627, 
+            "offsetInEndSection": 771, 
+            "text": "Furthermore, it appears that the acetylation sites targeted by p300 lie within the divergent C-terminal regulatory domains of both S6K1 and S6K2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19961954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1074, 
+            "offsetInEndSection": 1216, 
+            "text": "We propose that K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20599721", 
+            "endSection": "abstract"
+        }
+    ]
+}

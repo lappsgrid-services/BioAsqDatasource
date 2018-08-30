@@ -1,0 +1,33 @@
+{
+    "body": "Which bacteria caused plague?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8052312", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16410352"
+    ], 
+    "ideal_answer": [
+        "Yersinia pestis is the causative bacteria of the plague."
+    ], 
+    "exact_answer": [
+        "Yersinia pestis"
+    ], 
+    "type": "factoid", 
+    "id": "571cdd227de986d80d00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 344, 
+            "text": " the causative bacteria Yersinia pestis as an agent of biological warfare have highlighted the need for a safe, efficacious, and rapidly producible vaccine. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16410352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 256, 
+            "text": "Yersinia, the causative bacteria of the bubonic plague and other enteric diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8052312", 
+            "endSection": "abstract"
+        }
+    ]
+}

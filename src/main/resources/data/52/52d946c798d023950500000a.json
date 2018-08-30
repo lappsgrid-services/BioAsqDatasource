@@ -1,0 +1,191 @@
+{
+    "body": "What is clathrin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24322426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23093191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19809570", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12952941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22042622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24307937", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24280271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24299503", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24263003", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21445329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24257253"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11597306", 
+            "o": "GO:0030276"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1149166", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11597306"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1149166", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11597306"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11597306", 
+            "o": "clathrin binding"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030136", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0030135"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030135", 
+            "o": "coated vesicle"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030136", 
+            "o": "clathrin-coated vesicle"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14252573", 
+            "o": "GO:0030119"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1749488", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14252573"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14252573", 
+            "o": "clathrin adaptor"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1749488", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14252573"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/namespace", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030276", 
+            "o": "molecular_function"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030276", 
+            "o": "clathrin binding"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11615777", 
+            "o": "GO:0030100"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11615777", 
+            "o": "regulation of endocytosis"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1159767", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11615777"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1159767", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11615777"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14275283", 
+            "o": "GO:0045807"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14275283", 
+            "o": "activation of endocytosis"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2249588", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14275283"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2249588", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A14275283"
+        }
+    ], 
+    "ideal_answer": [
+        "Clathrin helps build small vesicles in order to safely transport molecules within and between cells."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030118", 
+        "http://www.uniprot.org/uniprot/CLCA_MOUSE", 
+        "http://www.uniprot.org/uniprot/CLCA_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D033922", 
+        "http://www.uniprot.org/uniprot/CLCA_BOVIN", 
+        "http://www.uniprot.org/uniprot/CLC1_SCHPO", 
+        "http://www.uniprot.org/uniprot/CLC_DICDI", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030119", 
+        "http://www.uniprot.org/uniprot/CLC1_YEAST", 
+        "http://www.biosemantics.org/jochem#4250446", 
+        "http://www.uniprot.org/uniprot/EPN4_BOVIN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D033942", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D033941", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030276", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071439", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002966", 
+        "http://www.uniprot.org/uniprot/EPN4_MOUSE", 
+        "http://www.uniprot.org/uniprot/CLCA_RAT", 
+        "http://www.uniprot.org/uniprot/CLC_DROME"
+    ], 
+    "type": "summary", 
+    "id": "52d946c798d023950500000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Clathrin-mediated endocytosis is a central and well-studied trafficking process in eukaryotic cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24322426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "We reported the first small molecule inhibitors of the interaction between the clathrin N-terminal domain (TD) and endocyctic accessory proteins (i.e., clathrin inhibition1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24299503", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 185, 
+            "text": "Tubulobulbar complexes are elaborate clathrin/actin related structures that form at sites of intercellular attachment in the seminiferous epithelium of the mammalian testis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24280271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 222, 
+            "text": " Clathrin-coated vesicles (CCVs) are formed at the plasma membrane and act as vectors for endocytosis. They also assemble at the trans-Golgi network (TGN), but their exact function at this organelle is unclear. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24263003", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1054, 
+            "offsetInEndSection": 1329, 
+            "text": " Clathrin immunohistochemistry and immunoblotting showed increased immunoreactivity of clathrin protein in the placental tissues of mice treated with 20- and 50-nm gold nanoparticles; clathrin immunopositivity was observed in syncytiotrophoblasts and fetal endothelial cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24257253", 
+            "endSection": "abstract"
+        }
+    ]
+}

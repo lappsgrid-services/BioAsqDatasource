@@ -1,0 +1,76 @@
+{
+    "body": "Which proteins remove H2A.Z in the yeast Saccharomyces cerevisiae?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26982580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26142279"
+    ], 
+    "ideal_answer": [
+        "Removal of H2A.Z by INO80 promotes homologous recombination Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers. Here, we show that H2A.Z in human cells is indeed rapidly removed from chromatin flanking DNA damage by INO80.", 
+        "Here, we show that H2A.Z in human cells is indeed rapidly removed from chromatin flanking DNA damage by INO80. We also report that the histone chaperone ANP32E, which is implicated in removing H2AZ from chromatin, similarly promotes HR and appears to work on the same pathway as INO80 in these assays. Importantly, we demonstrate that the HR defect in cells depleted of INO80 or ANP32E can be rescued by H2A.Z co-depletion, suggesting that H2A.Z removal from chromatin is the primary function of INO80 and ANP32E in promoting homologous recombination.", 
+        "Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers. Here, we show that H2A.Z in human cells is indeed rapidly removed from chromatin flanking DNA damage by INO80. We also report that the histone chaperone ANP32E, which is implicated in removing H2AZ from chromatin, similarly promotes HR and appears to work on the same pathway as INO80 in these assays.", 
+        "we also report that the histone chaperone anp32e, which is implicated in removing h2az from chromatin, similarly promotes hr and appears to work on the same pathway as ino80 in these assays.", 
+        "Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers. Removal of H2A.Z by INO80 promotes homologous recombination H2A.Z removal from chromatin is the primary function of INO80 and ANP32E in promoting homologous recombination.", 
+        "Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers. Removal of H2A.Z by INO80 promotes homologous recombination", 
+        "Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers. H2A.Z removal from chromatin is the primary function of INO80 and ANP32E in promoting homologous recombination."
+    ], 
+    "exact_answer": [
+        [
+            "INO80"
+        ], 
+        [
+            "ANP32E"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58de71fa8acda3452900002c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 59, 
+            "text": "Removal of H2A.Z by INO80 promotes homologous recombination", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142279", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 235, 
+            "text": "Budding yeast INO80 can remove H2A.Z/H2B dimers from chromatin and replace them with H2A/H2B dimers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 403, 
+            "offsetInEndSection": 513, 
+            "text": "Here, we show that H2A.Z in human cells is indeed rapidly removed from chromatin flanking DNA damage by INO80.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 514, 
+            "offsetInEndSection": 704, 
+            "text": "We also report that the histone chaperone ANP32E, which is implicated in removing H2AZ from chromatin, similarly promotes HR and appears to work on the same pathway as INO80 in these assays.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 843, 
+            "offsetInEndSection": 954, 
+            "text": "H2A.Z removal from chromatin is the primary function of INO80 and ANP32E in promoting homologous recombination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26142279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 891, 
+            "offsetInEndSection": 1011, 
+            "text": "Instead, the INO80 complex, which removes H2A.Z(Htz1) from nucleosomes, promotes the ectopic deposition of CENP-A(Cse4).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26982580", 
+            "endSection": "abstract"
+        }
+    ]
+}

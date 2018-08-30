@@ -1,0 +1,332 @@
+{
+    "body": "To the ligand of which receptors does Denosumab (Prolia) bind?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23616122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23241893", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19098925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22815185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22338309", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23139212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21243489", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16527005", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18632461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16188502", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22401778", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22815651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22322981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20671739", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21623686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20703154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21677475"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9373021", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17995522"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11914653", 
+            "o": "Densosumab"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18043383"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18087179"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12802315", 
+            "o": "Denosumab"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18084860"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12802315"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A9373021"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11920279"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17699205"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1690432", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11914653"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18043383", 
+            "o": "DENOSUMAB"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11920279", 
+            "o": "denosumab"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9373021", 
+            "o": "C494392"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11914653", 
+            "o": "PDQ"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11920279", 
+            "o": "PDQ"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17995522", 
+            "o": "993449"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11914653", 
+            "o": "CDR0000481348"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11920279", 
+            "o": "CDR0000481348"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18087179", 
+            "o": "27218"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17995522", 
+            "o": "RXNORM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12802315", 
+            "o": "C61313"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17699205", 
+            "o": "C61313"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18084860", 
+            "o": "d07640"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18084860", 
+            "o": "Multum"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18087179", 
+            "o": "Multum"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/denosumab", 
+            "o": "615258-40-7"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/denosumab", 
+            "o": "denosumab"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12802315", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17699205", 
+            "o": "NCI Thesaurus"
+        }
+    ], 
+    "ideal_answer": [
+        "Denosumab is a monoclonal antibody against the RANKL"
+    ], 
+    "exact_answer": [
+        "RANKL"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4268082", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1900120", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030547", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1900121", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0038023"
+    ], 
+    "type": "factoid", 
+    "id": "52bf1d9e03868f1b06000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 619, 
+            "text": "Whether the factor has the same role in humans is of clinical interest because an inhibitor for RANKL, denosumab, is already used for the treatment of bone disease and might benefit breast cancer patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23616122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 901, 
+            "offsetInEndSection": 1028, 
+            "text": "Treatment of AML cells with the clinically available RANKL Ab Denosumab resulted in enhanced NK cell anti-leukemia reactivity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23241893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1263, 
+            "offsetInEndSection": 1653, 
+            "text": "The emerging clinical implication, supported by recent epidemiological studies, is that \u03b2AR-blockers and drugs interfering with RANKL signaling, such as Denosumab, could increase patient survival if used as adjuvant therapy to inhibit both the early colonization of bone by metastatic breast cancer cells and the initiation of the \"vicious cycle\" of bone destruction induced by these cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22815651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 822, 
+            "text": "Both the effects of RANKL on osteoclastogenesis and cytokine production by malignant cells could be blocked by disruption of RANK-RANKL interaction with denosumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23139212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 617, 
+            "offsetInEndSection": 1598, 
+            "text": "In the future, the armamentarium against osteoporotic fractures will likely be enriched by (1.) new bone anabolic substances such as antibodies directed against the endogenous inhibitors of bone formation sclerostin and dickkopf-1, PTH and PTHrp analogues, and possibly calcilytics; (2.) new inhibitors of bone resorption such as cathepsin K inhibitors which may suppress osteoclast function without impairing osteoclast viability and thus maintain bone formation by preserving the osteoclast-osteoblast crosstalk, and denosumab, an already widely available antibody against RANKL which inhibits osteoclast formation, function, and survival; and (3.) new therapeutic strategies based on an extended understanding of the pathophysiology of osteoporosis which may include sequential therapies with two or more bone active substances aimed at optimising the management of bone capital acquired during adolescence and maintained during adulthood in terms of both quantity and quality. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22815185", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 374, 
+            "offsetInEndSection": 606, 
+            "text": "Clearly, the approval of denosumab, a monoclonal antibody directed against RANKL, has just marked the beginning of a new era for bone therapy with several additional new therapies lining up for clinical approval in the coming years.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22401778", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1922, 
+            "offsetInEndSection": 2054, 
+            "text": "Denosumab is a fully human monoclonal antibody to RANK Ligand that is administered as a 60-mg subcutaneous injection every 6 months.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22338309", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1478, 
+            "offsetInEndSection": 1617, 
+            "text": "More recently, a nuclear factor-\u03b2 ligand (RANKL) inhibitor, denosumab, has been             developed for the treatment of bone metastases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22322981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1819, 
+            "offsetInEndSection": 1945, 
+            "text": "Denosumab is a neutralizing monoclonal antibody to RANKL and has recently been found to inhibit SRE more effectively than BP. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21677475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 975, 
+            "offsetInEndSection": 1210, 
+            "text": "Recently, denosumab, a noncytotoxic IgG2 monoclonal antibody with high affinity for human RANKL, has been demonstrated to significantly prevent clinically relevant increase in pain compared with zoledronic acid across the tumor types. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21623686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1268, 
+            "offsetInEndSection": 1381, 
+            "text": "Denosumab, an anti-RANKL monoclonal antibody with proven antiosteoclast activity, may suppress immune responses. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21243489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1078, 
+            "offsetInEndSection": 1653, 
+            "text": "We also review unresolved controversies surrounding the management of these conditions by administration of nutritional vitamin D (ergocalciferol and cholecalciferol), vitamin D receptor activators (calcitriol, alphacalcidiol, doxercalciferol), D-mimetics (paricalcitol, maxacalcitol), calcimimetics (cinacalcet), recombinant PTH (teriparatide), and receptor activator of nuclear factor-kappaB ligand modulators (denosumab); compare mortality predictability of PTH and alkaline phosphatase; and examine potential risks of bone disorders and mineral disarrays in CKD patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20671739", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 495, 
+            "offsetInEndSection": 594, 
+            "text": "New therapies such as the antibody to RANKL (denosumab) are undergoing phase III clinical testing. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20703154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 672, 
+            "text": "Receptor activator of nuclear factor kappa B ligand is an important cytokine involved in osteoclast activation; denosumab, a fully human monoclonal antibody to this molecule, has finished a major fracture trial. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19098925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 947, 
+            "text": "Initials studies have demonstrated that targeting RANK/ RANKL signaling with the fully human monoclonal antibody denosumab prevented skeletal complications in patients with MM and other cancers with bone metastases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18632461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 799, 
+            "offsetInEndSection": 963, 
+            "text": "A highly specific, fully human antibody against RANKL has been produced (denosumab) that in early studies in humans reduces bone turnover and improves bone density.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16527005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 802, 
+            "text": "Denosumab (AMG 162), a fully human monoclonal antibody to RANKL, shares the pharmacologic attributes of OPG but has a significantly longer half-life that allows less frequent administration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16188502", 
+            "endSection": "abstract"
+        }
+    ]
+}

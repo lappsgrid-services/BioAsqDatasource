@@ -1,0 +1,157 @@
+{
+    "body": "What is the action of molindone?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7656507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9353417", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9577836", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6249092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1224004", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6817377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7965768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2895008"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17796303", 
+            "o": "T43.505"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17796303", 
+            "o": "Adverse effect of unspecified antipsychotics and neuroleptics"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2878520", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17796303"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17860102", 
+            "o": "T43.595"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2878546", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17860102"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17860102", 
+            "o": "Adverse effect of other antipsychotics and neuroleptics"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17809244", 
+            "o": "T43.595S"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2878549", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17809244"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17809244", 
+            "o": "Adverse effect of other antipsychotics and neuroleptics, sequela"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17809238", 
+            "o": "T43.505S"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17809238", 
+            "o": "Adverse effect of unspecified antipsychotics and neuroleptics, sequela"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2878523", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17809238"
+        }
+    ], 
+    "ideal_answer": [
+        "Molindone is a short-acting antipsychotic.\nMolindone, along with other antipsychotic drugs which elicit little or no Parkinsonism, bind more loosely than dopamine to D2 receptors. Compared to the tightly bound antipsychotic drugs, the more loosely bound antipsychotics generally require higher clinical doses, require fewer days for clinical adjustment, but may dissociate from the D2 receptor more rapidly and could lead to clinical relapse somewhat earlier than that found with the traditional tightly bound antipsychotic drugs.\nMolindone is D2-selective in vitro and has a dual D1-D2 receptor profile in vivo.\nMolindone can selectively block the presynaptic DA receptors.\nMolindone causes a statistically significant up-regulation of both the long and short isoforms of the D2 receptor mRNAs in the prefrontal and temporal cortex, but has no effect on D4 mRNA levels in either cortical or striatal tissue.\nMolindone elevates Fos-like immunoreactivity (FLI) in the dorsolateral striatum.\nMolindone exhibits selectivity for cortical serotonin-stimulated cyclase versus dopamine-stimulated cyclase.\nMolindone in low intravenous doses (0.4-0.8 mg/kg) was found to reverse d-amphetamine and apomorphine induced depression of DA neurons and to block apomorphine induced depression of these cells. Molindone was also found to increase dopamine synthesis and dihydroxyphenylactic acid levels in the striatum and olfacotry tubercles. In all of these respects molindone behaves identically to most classical neuroleptics. However, unlike most antipsychotic drugs previously tested, molindone failed to increase the baseline firing rate of DA cells and blocked haloperidol induced increases in DA neuron activity. In this regard molindone most closely resembles thioridazine and clozapine."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042493", 
+        "http://www.biosemantics.org/jochem#4066301", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004364", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008972", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064420", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097332", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014150", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020228", 
+        "http://www.biosemantics.org/jochem#4249624"
+    ], 
+    "type": "summary", 
+    "id": "52bf1f5f03868f1b06000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1700, 
+            "offsetInEndSection": 2492, 
+            "text": "As determined by the new dissociation constants, antipsychotic drugs which elicit Parkinsonism (trifluperazine, chlorpromazine, raclopride, haloperidol, fluphenazine, risperidone) bind more tightly than dopamine to D2, while those antipsychotic drugs which elicit little or no Parkinsonism (melperone, seroquel, perlapine, clozapine, remoxipride, molindone, sulpiride, olanzapine, sertindole) bind more loosely than dopamine to D2 receptors. Compared to the tightly bound antipsychotic drugs, the more loosely bound antipsychotics generally require higher clinical doses, require fewer days for clinical adjustment, but may dissociate from the D2 receptor more rapidly and could lead to clinical relapse somewhat earlier than that found with the traditional tightly bound antipsychotic drugs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9577836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 498, 
+            "offsetInEndSection": 704, 
+            "text": "All antipsychotic drug treatments examined in this study caused a statistically significant up-regulation of both the long and short isoforms of the D2 receptor mRNAs in the prefrontal and temporal cortex. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9353417", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1292, 
+            "offsetInEndSection": 1450, 
+            "text": "Other drugs of the typical (molindone and pimozide) and atypical (remoxipride) classes had no effect on D4 mRNA levels in either cortical or striatal tissue. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9353417", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 779, 
+            "text": " Loxapine is an alternative when sedation is necessary and molindone is useful if a short-acting antipsychotic is required. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7656507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1334, 
+            "offsetInEndSection": 1563, 
+            "text": "Neuroleptics with a clearly documented liability for producing extrapyramidal side effects (EPS) such as chlorpromazine, fluphenazine, haloperidol, loxapine, metoclopramide and molindone elevated FLI in the dorsolateral striatum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7965768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 743, 
+            "text": "Pretreatment with molindone (0.45 and 0.8 mg/kg IP), in doses reported to selectively block the presynaptic DA receptors, not only decreased the cataleptic effect of AP but also reversed the AP antagonism of methamphetamine stereotypy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6817377", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 603, 
+            "text": " The antagonist molindone exhibits selectivity for cortical serotonin-stimulated cyclase versus dopamine-stimulated cyclase and may prove useful for further elucidating the sites of lisuride action. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6249092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 245, 
+            "offsetInEndSection": 928, 
+            "text": "Molindone in low intravenous doses (0.4-0.8 mg/kg) was found to reverse d-amphetamine and apomorphine induced depression of DA neurons and to block apomorphine induced depression of these cells. Molindone was also found to increase dopamine synthesis and dihydroxyphenylactic acid levels in the striatum and olfacotry tubercles. In all of these respects molindone behaves identically to most classical neuroleptics. However, unlike most antipsychotic drugs previously tested, molindone failed to increase the baseline firing rate of DA cells and blocked haloperidol induced increases in DA neuron activity. In this regard molindone most closely resembles thioridazine and clozapine. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1224004", 
+            "endSection": "abstract"
+        }
+    ]
+}

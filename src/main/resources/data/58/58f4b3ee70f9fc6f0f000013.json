@@ -1,0 +1,150 @@
+{
+    "body": "What is the function of the exosome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27583248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26794715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23719940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16939780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14727085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23143101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21059916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18490724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26704468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27061439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25619138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27443883", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25968605", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18423480", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26814471", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16877764", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26850698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24338844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27693459"
+    ], 
+    "ideal_answer": [
+        "Exosomes are 40-100-nm vesicles released by most cell types after fusion of multivesicular endosomes with the plasma membrane. Exosomes contain proteins and RNA species and can mediate communication and immune responses."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0070062", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000178", 
+        "http://amigo.geneontology.org/amigo/term/GO:0071971", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D063326", 
+        "http://amigo.geneontology.org/amigo/term/GO:1990563"
+    ], 
+    "type": "summary", 
+    "id": "58f4b3ee70f9fc6f0f000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Exosomes-secreted microRNAs play an important role in metastatic spread", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27693459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 30, 
+            "text": "Exosome-mediated communication", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26814471", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 359, 
+            "text": "Cells are able to produce and release different types of vesicles, such as microvesicles and exosomes, in the extracellular microenvironment. According to the scientific community, both microvesicles and exosomes are able to take on and transfer different macromolecules from and to other cells, and in this way, they can influence the recipient cell function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26814471", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 259, 
+            "text": " Exosomes are 40-100-nm vesicles released by most cell types after fusion of multivesicular endosomes with the plasma membrane. Exosomes, ubiquitary in body fluids including urines, contain proteins and RNA species specific of the tissue of origin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26850698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 458, 
+            "text": " Exosomes, small membrane vesicles secreted into the extracellular environment, are emerging as another important intercellular messenger in immune responses. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27061439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 78, 
+            "offsetInEndSection": 223, 
+            "text": "the exosome is a complex of 3' -->5' exoribonucleases that plays a key role in the processing and degradation of a wide variety of RNA substrates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16939780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 93, 
+            "text": "RNA exosome is responsible for a wide variety of RNA processing and degradation reactions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23143101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 543, 
+            "text": "ability of exosomes to carry and selectively deliver bioactive molecules (e.g., lipids, proteins, and nucleic acids) confers on them the capacity to modulate the activity of receptor cells, even if these cells are located in distant tissues or organs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27583248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1655, 
+            "offsetInEndSection": 1759, 
+            "text": "Our data show that NKG2D is a likely physiological target for exosome-mediated immune evasion in cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18490724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 126, 
+            "text": "Exosomes, a key component of cell paracrine secretion, can exert protective effects in various disease models", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26794715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 568, 
+            "text": "Exosome secretion participates in the eradication of obsolete proteins but several findings, essentially in the immune system, indicate that exosomes constitute a potential mode of intercellular communication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16877764", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 140, 
+            "offsetInEndSection": 413, 
+            "text": "Exosomes, nano-sized extracellular vesicles, are believed to play important roles in intercellular communications. This study demonstrates that exosomes released from human macrophages negatively regulate endothelial cell migration through control of integrin trafficking. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24338844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1342, 
+            "offsetInEndSection": 1551, 
+            "text": "We found that the majority of extracellular vesicles in the AH were in the exosome size range, suggesting that miRNAs housed within exosomes may function in communication between AH inflow and outflow tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25619138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 70, 
+            "text": "umor cell-derived exosomes (TEX) suppress functions of immune cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26842680", 
+            "endSection": "abstract"
+        }
+    ]
+}

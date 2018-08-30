@@ -1,0 +1,137 @@
+{
+    "body": "Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17241641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24550830"
+    ], 
+    "ideal_answer": [
+        "Phospholamban interacts with HAX-1, a mitochondrial protein with anti-apoptotic function.The discovery of the PLN/HAX-1 interaction therefore unveils an important new link between Ca(2+) homeostasis and cell survival, with significant therapeutic potential.", 
+        "The HS-1 associated protein X-1 (HAX-1) is a mitochondrial protein with anti-apoptotic function and presents with numerous similarities to Bcl-2. and was identified as a phospholamban-binding partner. Using the yeast-two-hybrid system, HS-1 associated protein X-1 (HAX-1) was identified as a PLN-binding partner.", 
+        "The sarco(endo)plasmic reticulum (SR) Ca(2+) transport ATPase (SERCA2a) and its inhibitor phospholamban (PLN) control the uptake of Ca(2+) by SR membranes during relaxation. Recently, the antiapoptotic HS-1-associated protein X-1 (HAX-1) was identified as a binding partner of PLN, and this interaction was postulated to regulate cell apoptosis.Phospholamban interacts with HAX-1, a mitochondrial protein with anti-apoptotic function."
+    ], 
+    "exact_answer": [
+        "The HS-1 associated protein X-1", 
+        "(HAX-1)"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051017", 
+        "http://www.uniprot.org/uniprot/PPLA_RABIT", 
+        "http://www.uniprot.org/uniprot/PPLA_RAT", 
+        "http://www.uniprot.org/uniprot/PPLA_CHICK", 
+        "http://www.uniprot.org/uniprot/PPLA_MOUSE", 
+        "http://www.uniprot.org/uniprot/PPLA_BOVIN", 
+        "http://www.uniprot.org/uniprot/PPLA_CANFA", 
+        "http://www.uniprot.org/uniprot/PPLA_PIG"
+    ], 
+    "type": "factoid", 
+    "id": "54f9cb34dd3fc62544000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 260, 
+            "offsetInEndSection": 479, 
+            "text": "To identify additional proteins that may interact with PLN, we used the yeast-two-hybrid system to screen an adult human cardiac cDNA library. HS-1 associated protein X-1 (HAX-1) was identified as a PLN-binding partner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17241641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1348, 
+            "offsetInEndSection": 1669, 
+            "text": "Analysis of the anti-apoptotic function of HAX-1 revealed that the presence of PLN enhanced the HAX-1 protective effects from hypoxia/reoxygenation-induced cell death. These findings suggest a possible link between the Ca(2+) handling by the sarcoplasmic reticulum and cell survival mediated by the PLN/HAX-1 interaction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17241641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 800, 
+            "text": "The sarco(endo)plasmic reticulum Ca(2+) transport adenosine triphosphatase (SERCA2a) and its regulator phospholamban (PLN) have a central role in modulating Ca(2+) homeostasis and, therefore, cardiac function. Herein, we discuss the mechanisms through which SERCA2a and PLN control cardiomyocyte function in health and disease. Emphasis is placed on our newly identified PLN-binding partner HS-1-associated protein X-1 (HAX-1), which has an anti-apoptotic function and presents with numerous similarities to Bcl-2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 955, 
+            "offsetInEndSection": 1123, 
+            "text": "The discovery of the PLN/HAX-1 interaction therefore unveils an important new link between Ca(2+) homeostasis and cell survival, with significant therapeutic potential.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 97, 
+            "offsetInEndSection": 442, 
+            "text": "The sarco(endo)plasmic reticulum (SR) Ca(2+) transport ATPase (SERCA2a) and its inhibitor phospholamban (PLN) control the uptake of Ca(2+) by SR membranes during relaxation. Recently, the antiapoptotic HS-1-associated protein X-1 (HAX-1) was identified as a binding partner of PLN, and this interaction was postulated to regulate cell apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1038, 
+            "text": "On triple transfections with PLN, however, HAX-1 massively translocated to the ER membranes, where it codistributed with PLN and SERCA2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1343, 
+            "offsetInEndSection": 1473, 
+            "text": "These findings suggest that HAX-1 may promote cell survival through modulation of SERCA2 protein levels and thus ER Ca(2+) stores.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18971376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Phospholamban interacts with HAX-1, a mitochondrial protein with anti-apoptotic function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17241641", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 407, 
+            "text": "The HS-1 associated protein X-1 (HAX-1) is a ubiquitously expressed protein that protects cardiomyocytes from programmed cell death. Here we identify HAX-1 as a regulator of contractility and calcium cycling in the heart. HAX-1 overexpression reduced sarcoplasmic reticulum Ca-ATPase (SERCA2) pump activity in isolated cardiomyocytes and in vivo, leading to depressed myocyte calcium kinetics and mechanics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 723, 
+            "text": "The inhibitory effects of HAX-1 were abolished upon phosphorylation of phospholamban, which plays a fundamental role in controlling basal contractility and constitutes a key downstream effector of the beta-adrenergic signaling cascade.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 748, 
+            "offsetInEndSection": 978, 
+            "text": " Furthermore, the effects of PLN and its phosphorylation on cardiac function are subject to additional regulation by its interacting partners, the anti-apoptotic HAX-1 protein and Gm or the anchoring unit of protein phosphatase 1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24550830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 609, 
+            "offsetInEndSection": 796, 
+            "text": " Emphasis is placed on our newly identified PLN-binding partner HS-1-associated protein X-1 (HAX-1), which has an anti-apoptotic function and presents with numerous similarities to Bcl-2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18415121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 754, 
+            "offsetInEndSection": 982, 
+            "text": "Furthermore, the effects of PLN and its phosphorylation on cardiac function are subject to additional regulation by its interacting partners, the anti-apoptotic HAX-1 protein and Gm or the anchoring unit of protein phosphatase 1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24550830", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "body": "What does the SAGA complex acronym stands for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25015293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25441028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26100014", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24509845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26528322"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10002967", 
+            "o": "C507785"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1700223", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10002967"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10002967", 
+            "o": "SAGA complex, S cerevisiae"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1700223", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10002967"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10002967", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/namespace", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0070461", 
+            "o": "cellular_component"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0070461", 
+            "o": "SAGA family complex"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0070461", 
+            "o": "SAGA-type complex"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/namespace", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0000124", 
+            "o": "cellular_component"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0000124", 
+            "o": "Spt-Ada-Gcn5-acetyltransferase complex"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0000124", 
+            "o": "SAGA complex"
+        }
+    ], 
+    "ideal_answer": [
+        "SAGA stands for Spt-Ada-Gcn5-acetyltransferase (SAGA)"
+    ], 
+    "exact_answer": [
+        "Spt-Ada-Gcn5-acetyltransferase"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SGF29_YEAST", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000124", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0036285", 
+        "http://www.uniprot.org/uniprot/SGF73_YEAST", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043234"
+    ], 
+    "type": "factoid", 
+    "id": "56b76f496e3f8eaf4c000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 146, 
+            "offsetInEndSection": 183, 
+            "text": "SAGA (Spt-Ada-Gcn5 Acetyltransferase)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26528322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 808, 
+            "offsetInEndSection": 845, 
+            "text": "SAGA (Spt-Ada-Gcn5-acetyltransferase)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26100014", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 467, 
+            "text": "Spt-Ada-Gcn5-acetyltransferase (SAGA) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25015293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 10, 
+            "offsetInEndSection": 87, 
+            "text": "Spt-Ada-Gcn5-acetyltransferase (SAGA) complex is a transcription coactivator ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24509845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 30, 
+            "offsetInEndSection": 105, 
+            "text": "the yeast transcriptional coactivator Spt-Ada-Gcn5 acetyltransferase (SAGA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25441028", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "body": "Is the PTPN22 gene a biomarker for rheumatoid arthritis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21607711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21542789", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19324521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19445664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20498205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20398001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21545847", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16309943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21614018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19404967", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16257177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19856886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20707220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20604892", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20353580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17341507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22427951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18462498", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16380915"
+    ], 
+    "ideal_answer": [
+        "Most association studies have indeed confirmed an association between mutations at the PTPN22 gene and rheumatoid arthritis"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001172"
+    ], 
+    "type": "yesno", 
+    "id": "52ffb5d12059c6d71c00007c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 353, 
+            "text": "TPN22 is a tyrosine phosphatase and functions as a damper of TCR signals. A C-to-T single nucleotide polymorphism (SNP) located at position 1858 of human PTPN22 cDNA and converting an arginine (R620) to tryptophan (W620) confers the highest risk of rheumatoid arthritis among non-HLA genetic variations that are known to be associated with this disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22427951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 586, 
+            "offsetInEndSection": 817, 
+            "text": "21 single-nucleotide polymorphisms (SNPs) that have previously been associated with RA, including PTPN22, TRAF1-C5, CTLA4, PADI4, STAT4, FCRL3, CCL21, MMEL1-TNFRSF14, CDK6, PRKCQ, KIF5A-PIP4K2C, IL2RB, TNFAIP3, IL10-1082G/A and REL", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21614018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 345, 
+            "text": "he HLA locus, particularly HLA-DRB1, is its strongest genetic risk determinant across ethnicities. Several other genes, including PTPN22 and PADI4, show modest association with RA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21607711", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 673, 
+            "offsetInEndSection": 1091, 
+            "text": "Several alleles in the epitope-recognition part of the HLA molecule that show the highest association with RA susceptibility, also share a common string of amminoacid residues (the so-called shared-epitope hypothesis). Other variants in potentially pathogenic genes located in non-MHC regions have been implicated by recently performed genome wide analysis studies. These genes include PTPN22, TRAF1-C5, PADI4, STAT4. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21545847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 154, 
+            "offsetInEndSection": 566, 
+            "text": "n particular, genome-wide association studies (GWAS) have provided supportive evidence that RA is a disease with a strong genetic background. Interestingly, a series of candidate genes have been identified outside of the classical major histocompatibility (MHC) locus, which had long been regarded as the major contributor to the pathogenesis of this disease. Among these genes, PTPN22 plays an outstanding role.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21542789", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 102, 
+            "text": "ssociation of the PTPN22 gene (-1123G > C) polymorphism with rheumatoid arthritis in Chinese patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20604892", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1266, 
+            "offsetInEndSection": 1496, 
+            "text": "Eight markers (ie, rs1160542 (AFF3), rs1678542 (KIF5A), rs2476601 (PTPN22), rs3087243 (CTLA4), rs4810485 (CD40), rs5029937 (6q23), rs10760130 (TRAF1/C5) and rs7574865 (STAT4)) were significantly associated with RA by meta-analysis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20498205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 427, 
+            "text": "Recent genome-wide association studies (GWAS) on RA identified known and novel susceptibility genes like HLA-DRB1, PTPN22, STAT4, TRAF1/C5, OLIG3/TNFAIP3, CD40, CCL21, MMEL1-TNFRSF14, CDK6, PRKCQ, IL2RB, and KIF5A-PIP4K2C. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20398001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 228, 
+            "text": "This study investigated five confirmed rheumatoid arthritis (RA) susceptibility genes/loci (HLA-DRB1, PTPN22, STAT4, OLIG3/TNFAIP3 and TRAF1/C5) for association with susceptibility and severity in an inception cohort", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20353580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 144, 
+            "offsetInEndSection": 626, 
+            "text": "After initial completion of the Human Genome Project on the 16th February 2001, significant progress has been made in identifying other than HLA genome regions linked to the increased RA susceptibility. As an effect several new genes have been recognized as an HLA-independent genetic risk factors of RA. PTPN22 gene polymorphism, C5/TRAF1 genes region polymorphism and TNFAIP3-OLIG3 genes region polymorphism(s) are among newly identified and already confirmed genetic risk factors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19856886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 385, 
+            "text": "As well as the major susceptibility gene HLA-DRB1, recent genome-wide and candidate-gene studies reported additional evidence for association of single nucleotide polymorphism (SNP) markers in the PTPN22, STAT4, OLIG3/TNFAIP3 and TRAF1/C5 loci with RA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19445664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 303, 
+            "text": "Recent advances have led to novel identification of genetic polymorphisms that are associated with susceptibility to rheumatoid arthritis (RA). Currently, 5 loci (HLA, PTPN22, TRAF1/C5, TNFAIP3, and STAT4) have been consistently reported, whereas others have been observed less systematically", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19404967", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 665, 
+            "text": "However, inconsistent results of the contributions of non-HLA susceptibility genes have been described, with the exception of a few genes repeatedly associated with RA-susceptibility, such as PTPN22 gene in populations of European ancestry and PADI4 gene in populations of Asian ancestry, revealing the presence of genetic heterogeneity in RA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19324521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 858, 
+            "offsetInEndSection": 1016, 
+            "text": "In conclusion, we have confirmed that PTPN22 620W allele is associated with Tunisian RA but does not constitute a factor influencing clinical manifestations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20707220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2408, 
+            "offsetInEndSection": 2535, 
+            "text": "After adjusting for smoking and reproductive factors, PTPN22 was associated with RA risk among Caucasian women in these cohorts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18462498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 802, 
+            "offsetInEndSection": 989, 
+            "text": "We found strong evidence of an association of PTPN22 with the development of anti-citrulline antibody-positive RA (odds ratio [OR] 1.49; P=.00002), using previously untested EIRA samples.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16380915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 601, 
+            "offsetInEndSection": 1086, 
+            "text": "Although HLA-DRB1 is the main RA gene, it accounts for only part of the familial risk for RA. HLA-DRB1 alleles are neither necessary nor sufficient to cause the development of RA in a given individual. Several genome scans conducted in populations from France, Japan, North America and UK have confirmed the role of the HLA region and suggested several other susceptibility loci. Association studies support a role for several genes, including TNFR2, PADI4, SLC22A4, RUNX1, and PTPN22.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16309943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1137, 
+            "offsetInEndSection": 1235, 
+            "text": "the level of PTPN22.6 in peripheral blood correlates with disease activity of rheumatoid arthritis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22427951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 99, 
+            "text": "PTPN22, PADI-4, and CTLA-4 have been associated with risk for rheumatoid arthritis (RA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18462498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 114, 
+            "text": "progression from undifferentiated arthritis to rheumatoid arthritis: the effect of the PTPN22 1858T-allele", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17341507", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1514, 
+            "offsetInEndSection": 1653, 
+            "text": "In this Dutch cohort of UA-patients, the PTPN22 1858T allele does not markedly improve individual decision-making to predict RA-development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17341507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 162, 
+            "text": "challenges in identifying genetic polymorphisms that influence the susceptibility to rheumatoid arthritis are the same as those faced in most complex diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16257177", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 848, 
+            "offsetInEndSection": 975, 
+            "text": "Recently a number of convincing candidate genes have begun to emerge and an update has been provided for three of these: PTPN22", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16257177", 
+            "endSection": "abstract"
+        }
+    ]
+}

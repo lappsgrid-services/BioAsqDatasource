@@ -1,0 +1,39 @@
+{
+    "body": "Name the major classes of small  non coding RNAs in mammalians?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20823303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19908360"
+    ], 
+    "ideal_answer": [
+        "microRNAs (miRNAs), small nuclear RNAs (snRNAs), small nucleolar RNAs (snoRNAs) are the major classes of small non coding RNAs. Recently, thanks mostly to massively parallel sequencing technologies, other classes of small RNAs have been discovered, such as piRNAs and scaRNAs."
+    ], 
+    "exact_answer": [
+        [
+            "miRNA"
+        ], 
+        [
+            "snRNA"
+        ], 
+        [
+            "snoRNAs"
+        ], 
+        [
+            "scaRNAs"
+        ], 
+        [
+            "piRNAS"
+        ]
+    ], 
+    "type": "list", 
+    "id": "517295c18ed59a060a000016", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 292, 
+            "offsetInEndSection": 429, 
+            "text": "Some of these RNA classes, in particular microRNAs and snoRNAs, undergo maturation processes that lead to the production of shorter RNAs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19908360", 
+            "endSection": "sections.0"
+        }
+    ]
+}

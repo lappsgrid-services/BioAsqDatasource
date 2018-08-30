@@ -1,0 +1,121 @@
+{
+    "body": "Which fimA genotypes are associated with disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22549664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20219603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22466890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23264452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26387644", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22053966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23646850", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24466164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26937292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26600627"
+    ], 
+    "ideal_answer": [
+        "FimA has been characterized as an important virulence factor for P. gingivalis, and many studies, both animal experiments and clinical investigations, have characterized fimA genotypes II, Ib, and IV to be associated with disease (periodontitis and cardiovascular disease)"
+    ], 
+    "exact_answer": [
+        [
+            "genotypes II"
+        ], 
+        [
+            "genotypes Ib"
+        ], 
+        [
+            "genotypes IV"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58a94483ee23e0236b000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 476, 
+            "offsetInEndSection": 750, 
+            "text": " FimA has been characterized as an important virulence factor for P. gingivalis, and many studies, both animal experiments and clinical investigations, have characterized fimA genotypes II, Ib, and IV to be associated with disease (periodontitis and cardiovascular disease) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26387644", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 179, 
+            "text": "Long fimbriae (FimA) are important virulence factors of Porphyromonas gingivalis. Based on the diversity of the fimA gene, this species is classified into 6 genotypes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20219603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 782, 
+            "offsetInEndSection": 1066, 
+            "text": " In cases of chronic apical periodontitis, P. gingivalis variant type IV was the most prevalent (24%), followed by types I (20%), II (16%), and III (8%). In acute abscess samples, variant type II was the most prevalent (12%), followed by types III and IV (8% of each) and type I (4%).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20219603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1082, 
+            "text": "We show that P. gingivalis strains with genotype I and II of FimA are efficient in interaction with saliva or S. gordonii. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22053966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1238, 
+            "offsetInEndSection": 1435, 
+            "text": "A strong association between Porphyromonas gingivalis fimA genotypes II and Ib and chronic periodontitis exists in the Spanish population. The most prevalent genotype in periodontal patients is II.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22549664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1022, 
+            "offsetInEndSection": 1206, 
+            "text": "Our results suggest that the presence of P. gingivalis is associated with periodontal diseases, and that the type II, IV and Ib/II combination are the most common among fimA genotypes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22466890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1218, 
+            "offsetInEndSection": 1361, 
+            "text": "Statistical analysis, however, revealed that a more significant correlation was found between periodontitis and the occurrence of type Ib fimA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23264452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1667, 
+            "offsetInEndSection": 1755, 
+            "text": " Type II of fimA was the most prevalent genotype of P. gingivalis in patients with AgP. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23646850", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1211, 
+            "offsetInEndSection": 1409, 
+            "text": "The population of Tregs further decreased in patients with type II FimA compared with the other types. P.gingivlias FimA genotype II was the dominant type associated with decreased Treg population. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24466164", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1099, 
+            "offsetInEndSection": 1220, 
+            "text": "A trend toward a greater frequency of FimA II genotype in patients with moderate and severe periodontitis was determined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26600627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1251, 
+            "offsetInEndSection": 1441, 
+            "text": "The fimA type Ib genotype of P. gingivalis was found to play a critical role in the destruction of peri-implant tissue, suggesting that it may be a distinct risk factor for peri-implantitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26937292", 
+            "endSection": "abstract"
+        }
+    ]
+}

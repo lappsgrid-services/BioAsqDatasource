@@ -1,0 +1,78 @@
+{
+    "body": "List available tools for genomic visualisation in comparative genomics", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25249626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15123592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23193262"
+    ], 
+    "ideal_answer": [
+        "Insyght, Genomicus and Sockeye."
+    ], 
+    "exact_answer": [
+        [
+            "Insyght"
+        ], 
+        [
+            "Genomicus"
+        ], 
+        [
+            "Sockeye"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023281", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016678"
+    ], 
+    "type": "list", 
+    "id": "56acc7ca0a360a5e45000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Insyght: navigating amongst abundant homologues, syntenies and gene functional annotations in bacteria, it's that symbol!", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25249626", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 517, 
+            "offsetInEndSection": 835, 
+            "text": "Insyght is a comparative genomic visualization tool that combines three complementary displays: (i) a table for thoroughly browsing amongst homologues, (ii) a comparator of orthologue functional annotations and (iii) a genomic organization view designed to improve the legibility of rearrangements and distinctive loci", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25249626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Genomicus: five genome browsers for comparative genomics in eukaryota", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23193262", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Genomicus (http://www.dyogen.ens.fr/genomicus/) is a database and an online tool that allows easy comparative genomic visualization in>150 eukaryote genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23193262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "Sockeye: a 3D environment for comparative genomics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15123592", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 428, 
+            "offsetInEndSection": 628, 
+            "text": "We have developed a Java-based application called Sockeye that uses three-dimensional (3D) graphics technology to facilitate the visualization of annotation and conservation across multiple sequences.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15123592", 
+            "endSection": "abstract"
+        }
+    ]
+}

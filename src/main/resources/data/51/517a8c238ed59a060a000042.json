@@ -1,0 +1,57 @@
+{
+    "body": "Which dediodinases are present in kidney?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15072569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9794474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3595535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7768329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3197644"
+    ], 
+    "ideal_answer": [
+        "Type 1 and  Type 3 deiodinases are both present in liver"
+    ], 
+    "exact_answer": [
+        [
+            "Type 1 deiodinase"
+        ], 
+        [
+            "Tipe 3 deiodinase"
+        ]
+    ], 
+    "type": "list", 
+    "id": "517a8c238ed59a060a000042", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Iodothyronine deiodinase in vitro activity studies in the chicken showed the presence of type I and type III iodothyronine deiodinase activity in both liver and kidney.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15072569", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 977, 
+            "offsetInEndSection": 1039, 
+            "text": "Co-expression of the deiodinases was also found in the kidney.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15072569", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 437, 
+            "offsetInEndSection": 485, 
+            "text": "high ID-I activities were found in liver, kidney", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7768329", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1347, 
+            "offsetInEndSection": 1392, 
+            "text": "the kidney microsome 5'-deiodinase is type I.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3595535", 
+            "endSection": "sections.0"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "body": "Which genes of the marmoset genome exhibit rapid sequence evolution?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25038751"
+    ], 
+    "ideal_answer": [
+        "Both protein-coding and microRNA genes related to reproduction exhibit evidence of rapid sequence evolution in the marmoset genome."
+    ], 
+    "exact_answer": [
+        [
+            "protein-coding genes related to reproduction"
+        ], 
+        [
+            "microRNA genes related to reproduction"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019143", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005075", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019020"
+    ], 
+    "type": "list", 
+    "id": "58839d892305cd7e21000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 494, 
+            "offsetInEndSection": 864, 
+            "text": "We observed positive selection in growth hormone/insulin-like growth factor genes (growth pathways), respiratory complex I genes (metabolic pathways), and genes encoding immunobiological factors and proteases (reproductive and immunity pathways). In addition, both protein-coding and microRNA genes related to reproduction exhibited evidence of rapid sequence evolution.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25038751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 864, 
+            "text": "In addition, both protein-coding and microRNA genes related to reproduction exhibited evidence of rapid sequence evolution.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25038751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 865, 
+            "text": "In addition, both protein-coding and microRNA genes related to reproduction exhibited evidence of rapid sequence evolution. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25038751", 
+            "endSection": "abstract"
+        }
+    ]
+}

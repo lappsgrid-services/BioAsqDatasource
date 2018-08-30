@@ -1,0 +1,305 @@
+{
+    "body": "Which molecule is targeted by a monoclonal antibody Secukinumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22875601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22595313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23730881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25132411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23858337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24157091", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25268669", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23253932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23998727", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22280236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23448220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25007392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24677511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24979544", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25484038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25398488", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24452484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23106107", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23834907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25243910", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24035250", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25354738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24354461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23361084", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23290985", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24827753"
+    ], 
+    "ideal_answer": [
+        "Secukinumab (AIN457) is a fully human anti-interleukin-17A monoclonal antibody that neutralizes interleukin-17A."
+    ], 
+    "exact_answer": [
+        "interleukin-17A"
+    ], 
+    "type": "factoid", 
+    "id": "54e0d7471388e8454a000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 670, 
+            "offsetInEndSection": 993, 
+            "text": "We identified 3 distinct clonotypes that efficiently neutralized IL17A in a cell-based in vitro assay. Their potencies were comparable to those of known neutralizing antibodies, including 2, AIN457 (secukinumab) and ixekizumab that are currently in clinical development for the treatment of various inflammatory disorders. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25484038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Secukinumab, a fully human anti-IL-17A monoclonal antibody, neutralizes IL-17A, a key cytokine in the pathogenesis of psoriasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25354738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "BACKGROUND: Secukinumab is a fully human anti-interleukin-17A monoclonal antibody.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25243910", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "BACKGROUND: Secukinumab, a fully human anti-interleukin-17A monoclonal antibody, demonstrated efficacy and safety in moderate-to-severe plaque psoriasis when administered via subcutaneous injection. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25132411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 226, 
+            "text": "We evaluated secukinumab, a fully human anti-interleukin-17A monoclonal antibody, in patients with moderate-to-severe plaque psoriasis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25007392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 750, 
+            "offsetInEndSection": 1177, 
+            "text": "Ustekinumab (a monoclonal antibody directed against the common p40 subunit of IL-23 and IL-12), secukinumab, ixekizumab (both monoclonal antibodies directed against IL-17A), and brodalumab a monoclonal antibody against the IL-17RA receptor) have been recently used in proof-of-concept and randomized trials in the ankylosing spondylitis and/or psoriatic arthritis subforms of SpA, with overall very promising clinical efficacy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24827753", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "The selective anti-IL17A monoclonal antibody secukinumab (AIN457) attenuates IL17A-induced levels of IL6 in human astrocytes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24677511", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 277, 
+            "text": "The family of interleukin 17 receptors (IL17Rs), subtypes IL17RA-IL17RE, is targeted by the group of pro-inflammatory IL17 cytokines (IL17A-F) and moreover the newly developed anti-IL17A antibody secukinumab (AIN457) has shown promise in Phase II trials in multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24677511", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1197, 
+            "offsetInEndSection": 1628, 
+            "text": " Three agents neutralizing IL-17 (i.e., secukinumab and ixekizumab) or antagonizing its receptor (i.e., brodalumab) are currently being tested for efficacy and safety in the treatment of plaque psoriasis and PsA. Secukinumab is a fully human IgG1 monoclonal antibody that selectively binds and neutralizes IL-17A whose efficacy in the therapy of chronic plaque psoriasis has been demonstrated in different phase II clinical trial. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24452484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 689, 
+            "offsetInEndSection": 913, 
+            "text": "Associations between IGA 0/1 responder rates and PASI scores were evaluated using data from two phase 2 studies with the anti-interleukin (IL)-17A monoclonal antibody secukinumab (AIN457) that utilized a similar 6-point IGA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24354461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1060, 
+            "offsetInEndSection": 1249, 
+            "text": " Several IL-17A inhibitors have advanced into clinical trials, including the anti-IL-17A monoclonal antibodies, secukinumab and ixekizumab, and the anti-17RA monoclonal antibody brodalumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24157091", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Anti-interleukin-17A monoclonal antibody secukinumab in treatment of ankylosing spondylitis: a randomised, double-blind, placebo-controlled trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035250", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 480, 
+            "text": "We assessed the efficacy and safety of the anti-IL-17A monoclonal antibody secukinumab in treating patients with active ankylosing spondylitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035250", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 445, 
+            "text": "In a proof-of-concept study for the treatment of patients with Crohn's disease, secukinumab, a monoclonal antibody directed against IL-17A, was ineffective and associated with more adverse events than placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23998727", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 679, 
+            "offsetInEndSection": 898, 
+            "text": "Several IL-17A blockers, including the anti-IL-17A monoclonal antibodies secukinumab and ixekizumab, and the anti-IL-17 receptor subunit A monoclonal antibody brodalumab have been evaluated in phase II clinical trials. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23858337", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1238, 
+            "offsetInEndSection": 1426, 
+            "text": "Further studies are needed to clarify whether the therapeutic blockade of IL-17A through the anti-IL-17A monoclonal antibody secukinumab is able to counteract the fibrogenic process in CD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23834907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 141, 
+            "offsetInEndSection": 339, 
+            "text": "Th-17A antagonism has been investigated by a randomized controlled trial in PsA patients with secukinumab, a fully human, high-affinity, monoclonal antibody in a cohort of patients with active PsA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23730881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 238, 
+            "text": "Efficacy and safety of secukinumab, a fully human anti-interleukin-17A monoclonal antibody, in patients with moderate-to-severe psoriatic arthritis: a 24-week, randomised, double-blind, placebo-controlled, phase II proof-of-concept trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23361084", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "OBJECTIVE: To evaluate the efficacy and safety of secukinumab, a fully human, anti-interleukin (IL)-17A monoclonal antibody, in patients with psoriatic arthritis (PsA). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23361084", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "PURPOSE: To determine the efficacy and safety of different doses of secukinumab, a fully human monoclonal antibody for targeted interleukin-17A blockade, in patients with noninfectious uveitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23290985", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Effect of IL-17A blockade with secukinumab in autoimmune diseases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23253932", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 797, 
+            "offsetInEndSection": 1062, 
+            "text": "Early clinical data are now available on secukinumab (AIN457), a recombinant, highly selective, fully human monoclonal anti-IL-17A antibody of the IgG1/\u03ba isotype, enabling a preliminary assessment of the effects of IL-17A inhibition in multiple autoimmune diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23253932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1267, 
+            "offsetInEndSection": 1607, 
+            "text": "In conjunction with studies using the humanised anti-IL-17A monoclonal antibody (mAb) ixekizumab (LY2439821) and the fully human anti-IL-17RA mAb brodalumab (AMG 827), the findings on secukinumab provide evidence for the role of IL-17A in the pathophysiology of autoimmune disease and suggest the potential value of targeting this cytokine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23253932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 485, 
+            "offsetInEndSection": 673, 
+            "text": "OBJECTIVES: To assess the efficacy and safety of different doses of secukinumab, a fully human anti-IL-17A IgG1\u03ba monoclonal antibody, in patients with moderate-to-severe plaque psoriasis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23106107", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "Treatment with the interleukin-17A-blocking antibody secukinumab does not interfere with the efficacy of influenza and meningococcal vaccinations in healthy subjects: results of an open-label, parallel-group, randomized single-center study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22875601", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Our objective was to evaluate the efficacy of influenza and meningococcal vaccinations in healthy subjects exposed to the anti-interleukin-17A (IL-17A) monoclonal antibody (MAb) secukinumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22875601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1595, 
+            "offsetInEndSection": 1778, 
+            "text": "Blockade of IL-17A by secukinumab does not appear to interfere with efficacy of influenza and meningococcal vaccinations, as assessed by the achievement of protective antibody levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22875601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Secukinumab, a human anti-IL-17A monoclonal antibody, for moderate to severe Crohn's disease: unexpected results of a randomised, double-blind placebo-controlled trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22595313", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "OBJECTIVE: The authors tested whether the anti-interleukin (IL)-17A monoclonal antibody secukinumab was safe and effective for the treatment of active Crohn's disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22595313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1162, 
+            "offsetInEndSection": 1365, 
+            "text": "Secukinumab is an IL-17A monoclonal antibody that is under development and preliminary results have suggested its efficacy in inflammatory mediated diseases such as psoriasis and ankylosing spondylitis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22280236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1200, 
+            "text": "Promising recent Phase II results on the anti-IL-17A antibody secukinumab (AIN457) are outlined and a short update on tabalumab (LY2127399) is given", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1022, 
+            "offsetInEndSection": 1209, 
+            "text": "Several IL-17A inhibitors have advanced into clinical trials, including the anti-IL-17A monoclonal antibodies, secukinumab and ixekizumab, and the anti-17RA monoclonal antibody brodalumab", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24157091", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 679, 
+            "offsetInEndSection": 896, 
+            "text": "Several IL-17A blockers, including the anti-IL-17A monoclonal antibodies secukinumab and ixekizumab, and the anti-IL-17 receptor subunit A monoclonal antibody brodalumab have been evaluated in phase II clinical trials", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23858337", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "body": "Name triad of Wernicke encephalopathy.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21121997", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10328278", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24099834", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25550705", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3469966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9417174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21519777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17595443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19571457", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24620429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22332852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25515801", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23935638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14644703", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24379094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7424767"
+    ], 
+    "ideal_answer": [
+        "Wernicke's encephalopathy is a triad of ophthalmoplegia, ataxia and confusion seen in alcoholics with dietary vitamin B1 (thiamine) deficiency."
+    ], 
+    "exact_answer": [
+        [
+            "ophthalmoplegia"
+        ], 
+        [
+            "ataxia"
+        ], 
+        [
+            "confusion"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014899", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2384"
+    ], 
+    "type": "list", 
+    "id": "56be143eef6e394741000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 324, 
+            "text": "In the classical form it is characterized by a typical triad (confusion, oculomotor disturbance and ataxia), however, in the majority of the cases only confusion is present. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379094", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Wernicke's encephalopathy is an acute neurological disorder characterized by mental confusion, oculomotor dysfunction, and ataxia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25550705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 896, 
+            "offsetInEndSection": 1023, 
+            "text": "The classic triad consists of encephalopathy, oculomotor dysfunction and gait ataxia but is not seen in a majority of patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25515801", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 442, 
+            "text": "After frequent vomiting, he presented with mental status changes, ocular abnormalities, and truncal ataxia (the classic triad).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24620429", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Wernicke's encephalopathy is a triad of ophthalmoplegia, ataxia and confusion seen in alcoholics with dietary vitamin B1 (thiamine) deficiency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24099834", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Wernicke encephalopathy is caused by thiamine deficiency in the central nervous system, and is defined by the triad of confusional symptoms, ocular alterations and ataxia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19571457", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 447, 
+            "text": "The classical triad of clinical symptoms described by Wernicke (gait ataxia, ophthalmoplegia, and confusion) are found in only a third of patients upon initial examination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14644703", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 330, 
+            "offsetInEndSection": 484, 
+            "text": "It was found that only 0.4% of the population studied had the classical triad of Wernicke's encephalopathy, namely confusion, ophthalmoplegia, and ataxia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3469966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 409, 
+            "offsetInEndSection": 617, 
+            "text": "The triad of Wernicke's encephalopathy--global confusional state, ophthalmoplegia and nystagmus, and ataxia--is occasionally seen in chronic alcoholics and is often attenuated by immediate thiamine treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7424767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1123, 
+            "offsetInEndSection": 1303, 
+            "text": "Only six presented with the Wernicke's encephalopathy clinical triad (mental status changes, ocular signs, and ataxia) at neurologic onset; nine eventually demonstrated this triad.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10328278", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 277, 
+            "text": "Wernicke's encephalopathy is a well-described syndrome characterized by the classic triad of confusion, ataxia, and ophthalmoplegia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23935638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Wernicke&apos;s encephalopathy is a triad of ophthalmoplegia, ataxia and confusion seen in alcoholics with dietary vitamin B1 (thiamine) deficiency", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24099834", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Wernicke encephalopathy (WE) is an acute neurologic disorder characterized by a triad of ophthalmoplegia, ataxia, and mental confusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9417174", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "Wernicke&apos;s encephalopathy is a metabolic disorder caused by deficiency of thiamine (vitamin B1) seen in alcoholics and even in nonalcoholic patients, classically presenting with a triad of ataxia, ophthalmoplegia, and altered mental status", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21121997", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Wernicke&apos;s encephalopathy is an acute neurological syndrome due to thiamine deficiency, which is characterized by a typical triad of mental status changes, oculomotor dysfunction and ataxia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21519777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 425, 
+            "text": "The triad of Wernicke&apos;s encephalopathy--global confusional state, ophthalmoplegia and nystagmus, and ataxia--is occasionally seen in chronic alcoholics and is often attenuated by immediate thiamine treatment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7424767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 300, 
+            "text": "In 25/73 (35%) of the patients the classic triad of Wernicke&apos;s encephalopathy with ocular symptoms, ataxia and confusion, was found", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22332852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 345, 
+            "text": "It was found that only 0.4% of the population studied had the classical triad of Wernicke&apos;s encephalopathy, namely confusion, ophthalmoplegia, and ataxia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3469966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 589, 
+            "text": "Wernicke&apos;s encephalopathy (WE) is a serious, potentially fatal, neurologic disorder caused by thiamine deficiency (vitamin B(1)), classically described as presenting with a triad of ocular abnormalities, ataxia, and confusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17595443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 973, 
+            "offsetInEndSection": 1309, 
+            "text": "Only six presented with the Wernicke&apos;s encephalopathy clinical triad (mental status changes, ocular signs, and ataxia) at neurologic onset; nine eventually demonstrated this triad. The high rate of patients diagnosed only at postmortem examination (41.9%) confirms that Wernicke&apos;s encephalopathy is underdiagnosed in children.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10328278", 
+            "endSection": "abstract"
+        }
+    ]
+}

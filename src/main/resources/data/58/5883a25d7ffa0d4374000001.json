@@ -1,0 +1,140 @@
+{
+    "body": "What are the roles of Smyd3 in zebrafish?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27377701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25997738"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0043457", 
+            "o": "Danio rerio"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0043457", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7574572"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7574572", 
+            "o": "Zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0043457", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0134867"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0134867", 
+            "o": "Zebrafish"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0043457", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18687609"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18687609", 
+            "o": "zebrafish"
+        }
+    ], 
+    "ideal_answer": [
+        "Smyd3 is required for the development of cardiac and skeletal muscle in zebrafish. Transcripts of smyd3 are expressed in zebrafish embryos at all developmental stages and knockdown of smyd3 in embryos resulted in pericardial edema and defects in the trunk structure. In addition, these phenotypes are associated with abnormal expression of three heart-chamber markers including cmlc2, amhc and vmhc, and abnormal expression of myogenic regulatory factors including myod and myog."
+    ], 
+    "exact_answer": [
+        [
+            "The development of cardiac muscle"
+        ], 
+        [
+            "The development of skeletal muscle"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SMYD3_HUMAN", 
+        "http://www.uniprot.org/uniprot/SMYD3_MOUSE", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018482", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D029961", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011495", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015027"
+    ], 
+    "type": "list", 
+    "id": "5883a25d7ffa0d4374000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Smyd3 is required for the development of cardiac and skeletal muscle in zebrafish", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 704, 
+            "offsetInEndSection": 1237, 
+            "text": "We here show that transcripts of smyd3 were expressed in zebrafish embryos at all developmental stages examined and that knockdown of smyd3 in embryos resulted in pericardial edema and defects in the trunk structure. In addition, these phenotypes were associated with abnormal expression of three heart-chamber markers including cmlc2, amhc and vmhc, and abnormal expression of myogenic regulatory factors including myod and myog. These data suggest that Smyd3 plays an important role in the development of heart and skeletal muscle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 700, 
+            "offsetInEndSection": 916, 
+            "text": "We here show that transcripts of smyd3 were expressed in zebrafish embryos at all developmental stages examined and that knockdown of smyd3 in embryos resulted in pericardial edema and defects in the trunk structure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 717, 
+            "text": "We find both smyd3 and setd7 are highly expressed within developing zebrafish heart and knock-down of these genes led to severe defects in cardiac morphogenesis without altering the expressions pattern of heart markers, including cmlc2, vmhc, and amhc.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25997738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Smyd3 is required for the development of cardiac and skeletal muscle in zebrafish.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 378, 
+            "text": "SMYD1, SMYD2, SMYD3, and SMYD4 have been found to play critical roles in carcinogenesis and/or the development of heart and skeletal muscle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27377701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 240, 
+            "offsetInEndSection": 380, 
+            "text": "SMYD1, SMYD2, SMYD3, and SMYD4 have been found to play critical roles in carcinogenesis and/or the development of heart and skeletal muscle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27377701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Smyd3 is required for the development of cardiac and skeletal muscle in zebrafish.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1135, 
+            "offsetInEndSection": 1238, 
+            "text": "These data suggest that Smyd3 plays an important role in the development of heart and skeletal muscle..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21887258", 
+            "endSection": "abstract"
+        }
+    ]
+}

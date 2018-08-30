@@ -1,0 +1,327 @@
+{
+    "body": "Is adalimumab effective for hidradenitis suppurativa?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25580790", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26470624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26201313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26831295", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18754844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27665300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23670060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25040429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21091684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21756155", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24144253", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19997689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26801356", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20652119", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27799806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23247938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23106519", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20628295", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19213236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22644772", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27136622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22013960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19451504", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21457202", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21128923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27518661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27388530"
+    ], 
+    "ideal_answer": [
+        "Yes, Adalimumab, a recombinant, fully humanized, anti-tumor necrosis factor alpha (anti-TNF-\u03b1) monoclonal antibody, is the only officially approved treatment for the management of moderate-to-severe hidradenitis suppurativa."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:2280", 
+        "http://www.biosemantics.org/jochem#4002010", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000068879", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017497"
+    ], 
+    "type": "yesno", 
+    "id": "58847e36e56acf5176000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1819, 
+            "offsetInEndSection": 2061, 
+            "text": "If patient is not improved, then Adalimumab 160\u00a0mg at week 0, 80\u00a0mg at week 2; then 40\u00a0mg subcutaneously weekly should be administered (LOE Ib, SOR A). If improvement occurs then therapy should be maintained as long as HS lesions are present.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26831295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Reduction in pain scores and improvement in depressive symptoms in patients with hidradenitis suppurativa treated with adalimumab in a phase 2, randomized, placebo-controlled trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27136622", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 144, 
+            "offsetInEndSection": 241, 
+            "text": "Adalimumab treatment for 16 weeks improved HS lesions significantly versus placebo\u00a0(NCT00918255).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27136622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1406, 
+            "offsetInEndSection": 1615, 
+            "text": "CONCLUSION: Patients with moderate to severe HS had a high degree of pain and depressive symptoms\u00a0at baseline. Adalimumabtherapy was associated with decreased pain and depressive symptoms compared to baseline.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27136622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Spotlight on adalimumab in the treatment of active moderate-to-severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27799806", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 1280, 
+            "text": "Adalimumab, a recombinant, fully humanized, anti-tumor necrosis factor alpha (anti-TNF-\u03b1) monoclonal antibody, is the only officially approved treatment for the management of moderate-to-severe HS. Case reports, concerning 42 patients who received adalimumab for severe HS (with the standard dose regimen for psoriasis), reported a cumulative response rate of 58% (\u226550% in 23 patients) with a relapse rate of 71% (10 out of 14 patients). The most recent and most well-powered phase III, randomized placebo-controlled trials for the evaluation of the efficacy and safety of adalimumab in treatment of moderate-to-severe HS (PIONEER studies I and II) showed that the Hidradenitis Suppurativa Clinical Response (HiSCR) rate at week 12 was significantly higher for patients randomized to adalimumab compared to placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27799806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1324, 
+            "offsetInEndSection": 1423, 
+            "text": "In conclusion, adalimumab, to date, holds the most robust data regarding treatment efficacy in HS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27799806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Adalimumab (Humira) for the Treatment of Hidradenitis Suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27388530", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Adalimumab (Humira\u00ae) is a novel therapy approved by the US Food and Drug Administration, Health Canada, and the European Commission for the treatment of hidradenitis suppurativa (HS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27388530", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1338, 
+            "offsetInEndSection": 1560, 
+            "text": "Taken together, these data conclude that treatment of HS with adalimumab is a safe and effective therapy resulting in a significant decrease in abscess and inflammatory nodule counts within the first 12 weeks of treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27388530", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Effective long-term control of refractory hidradenitis suppurativa with adalimumab after failure of conventional therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21091684", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 49, 
+            "text": "Hidradenitis suppurativa managed with adalimumab.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19213236", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Treatment of severe recalcitrant hidradenitis suppurativa with adalimumab.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Long-term successful adalimumab therapy in severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19451504", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Comparing treatment outcome of infliximab and adalimumab in patients with severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21756155", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "HiSCR (Hidradenitis Suppurativa Clinical Response): a novel clinical endpoint to evaluate therapeutic outcomes in patients with hidradenitis suppurativa from the placebo-controlled portion of a phase 2 adalimumab study", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26201313", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Adalimumab in treatment-resistant hidradenitis suppurativa following recurrence after extensive affected area excision: a review of biologics therapy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24144253", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Adalimumab (antitumour necrosis factor-\u03b1) treatment of hidradenitis suppurativa ameliorates skin inflammation: an in situ and ex vivo study", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22013960", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Treatment of severe recalcitrant hidradenitis suppurativa with adalimumab", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 404, 
+            "text": "In a phase 2 trial, adalimumab, an antibody against tumor necrosis factor \u03b1, showed efficacy against hidradenitis suppurativa.PIONEER I and II were similarly designed, phase 3 multicenter trials of adalimumab for hidradenitis suppurativa, with two double-blind, placebo-controlled periods.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27518661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 853, 
+            "text": "Here we report a case of a patient with severe recalcitrant hidradenitis suppurativa successfully treated with adalimumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 312, 
+            "offsetInEndSection": 495, 
+            "text": "Recent reports have demonstrated that adalimumab, a tumor necrosis factor (TNF) antagonist, may be effective in the treatment of patients with HS who have failed conventional therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19213236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1351, 
+            "offsetInEndSection": 1437, 
+            "text": "Conclusion Adalimumab appears to be an effective and safe treatment for refractory HS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19451504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Effective long-term control of refractory hidradenitis suppurativa with adalimumab after failure of conventional therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21091684", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 50, 
+            "text": "Hidradenitis suppurativa managed with adalimumab.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19213236", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Treatment of severe recalcitrant hidradenitis suppurativa with adalimumab.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Two Phase 3 Trials of Adalimumab for Hidradenitis Suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27518661", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Adalimumab treatment for hidradenitis suppurativa associated with Crohn's disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25580790", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Long-term successful adalimumab therapy in severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19451504", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1352, 
+            "offsetInEndSection": 1439, 
+            "text": "Conclusion Adalimumab appears to be an effective and safe treatment for refractory HS..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19451504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Comparing treatment outcome of infliximab and adalimumab in patients with severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21756155", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 854, 
+            "text": "Here we report a case of a patient with severe recalcitrant hidradenitis suppurativa successfully treated with adalimumab..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19371236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1272, 
+            "offsetInEndSection": 1407, 
+            "text": "Adalimumab is suitable for the long-term treatment of hidradenitis suppurativa and presents a further conservative treatment approach..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21091684", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 220, 
+            "text": "HiSCR (Hidradenitis Suppurativa Clinical Response): a novel clinical endpoint to evaluate therapeutic outcomes in patients with hidradenitis suppurativa from the placebo-controlled portion of a phase 2 adalimumab study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26201313", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Spotlight on adalimumab in the treatment of active moderate-to-severe hidradenitis suppurativa.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27799806", 
+            "endSection": "title"
+        }
+    ]
+}

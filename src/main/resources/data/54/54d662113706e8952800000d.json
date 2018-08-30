@@ -1,0 +1,172 @@
+{
+    "body": "What is the content of the METLIN database?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23185759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25496351", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16404815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23631600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21696903", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25322782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22768229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24015273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19137116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23593322", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23391889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23829391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20810534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17951291", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25462372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18627180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15801754"
+    ], 
+    "ideal_answer": [
+        "METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite."
+    ], 
+    "exact_answer": [
+        "METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019991", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D030562"
+    ], 
+    "type": "factoid", 
+    "id": "54d662113706e8952800000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 705, 
+            "offsetInEndSection": 843, 
+            "text": " The tandem mass spectrometry data acquisition enabled automatic search and matching against the METLIN tandem mass spectrometry database,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25496351", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1146, 
+            "offsetInEndSection": 1178, 
+            "text": "the METLIN metabolomics database", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25462372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 564, 
+            "offsetInEndSection": 715, 
+            "text": "Numbers of unique metabolites that are specific to a particular sample preparation approach were also identified by online available database, Metlin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25322782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 943, 
+            "offsetInEndSection": 971, 
+            "text": "Metlin metabolomics database", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24015273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1441, 
+            "offsetInEndSection": 1467, 
+            "text": "METLIN metabolite database", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23829391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 344, 
+            "offsetInEndSection": 500, 
+            "text": " Following high mass accuracy data analysis using MS and MS/MS, metabolites were identified by searching against major metabolite databases including METLIN", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23631600", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 902, 
+            "text": "Untargeted features were annotated via matching to the METLIN metabolite database.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23593322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Liquid chromatography quadrupole time-of-flight mass spectrometry characterization of metabolites guided by the METLIN database.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23391889", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 641, 
+            "offsetInEndSection": 667, 
+            "text": "ETLIN metabolite database.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23391889", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 755, 
+            "text": " The correlated metabolin and their metabolic pathways were identified using Metlin Database. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23185759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 191, 
+            "offsetInEndSection": 334, 
+            "text": " Major metabolite databases include Human Metabolome DataBase (HMDB), Madison Metabolomics Consortium Database (MMCD), Metlin, and LIPID MAPS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22768229", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 942, 
+            "text": "METLIN accurate mass matching database (DB) established according to those reported in the literatures", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21696903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1291, 
+            "offsetInEndSection": 1318, 
+            "text": "METLIN Metabolite Database ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "METLIN: a metabolite mass spectral database.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16404815", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 380, 
+            "offsetInEndSection": 636, 
+            "text": " METLINincludes an annotated list of known metabolite structural information that is easily cross-correlated with its catalogue of high-resolution Fourier transform mass spectrometry (FTMS) spectra, tandem mass spectrometry (MS/MS) spectra, and LC/MS data.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16404815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 565, 
+            "offsetInEndSection": 623, 
+            "text": "online database (METLIN) to find and identify metabolites ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17951291", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 517, 
+            "text": "high quality experimental MS/MS data from known metabolites contained in a reference library (METLIN). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18627180", 
+            "endSection": "abstract"
+        }
+    ]
+}

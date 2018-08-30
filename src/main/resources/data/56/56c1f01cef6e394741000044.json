@@ -1,0 +1,121 @@
+{
+    "body": "What is targeted by Palbociclib?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21815704", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21679088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20197484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25701171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25636162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21806477", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21109448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24216225", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26045340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23300028"
+    ], 
+    "ideal_answer": [
+        "Necitumumab is a fully human IgG(1) monoclonal antibody directed at the epidermal growth factor receptor (EGFR). It is used for treatment of nonsmall cell lung cancer."
+    ], 
+    "exact_answer": [
+        "epidermal growth factor receptor"
+    ], 
+    "type": "factoid", 
+    "id": "56c1f01cef6e394741000044", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "BACKGROUND: Necitumumab is a second-generation, recombinant, human immunoglobulin G1 EGFR antibody. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26045340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Epidermal growth factor receptor-directed monoclonal antibodies in nonsmall cell lung cancer: an update.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25636162", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 505, 
+            "offsetInEndSection": 762, 
+            "text": " A Southwest Oncology Group study currently prospectively evaluates the predictive biomarkers for cetuximab. In the SQUIRE phase III trial, necitumumab added to cisplatin and gemcitabine increased the survival in patients with advanced squamous cell NSCLC. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25636162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "BACKGROUND: Necitumumab is a second-generation recombinant human immunoglobulin G1 EGFR monoclonal antibody that competitively inhibits ligand binding. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25701171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1231, 
+            "offsetInEndSection": 1703, 
+            "text": "Numerous other drugs are in earlier stages of development for HNSCC treatment, including novel anti-EGFR mAbs (MEHD7945A, necitumumab, and RO5083945), small-molecule TKIs (vandetanib, icotinib, and CUDC-101), EGFR antisense, various add-on therapies to radiation and chemotherapy (bevacizumab, interleukin-12, lenalidomide, alisertib, and VTX-2337), and drugs (temsirolimus, everolimus, OSI-906, dasatinib, and PX-866) intended to overcome resistance to anti-EGFR agents. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24216225", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1072, 
+            "offsetInEndSection": 1233, 
+            "text": "Necitumumab, a fully human monoclonal antibody, is currently evaluated in combination with chemotherapy in two phase III trials in patients with advanced NSCLC. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23300028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1188, 
+            "offsetInEndSection": 1291, 
+            "text": "Necitumumab is currently evaluated in combination with chemotherapy in two randomized phase III trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21109448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 412, 
+            "text": "Joining cetuximab, sorafenib, afatinib, intedanib, and crizotinib in phase III development for non-small cell lung cancer (NSCLC) are ramucirumab (developed by ImClone, a subsidiary of Lilly), necitumumab (developed by ImClone and Bristol-Myers Squibb), and tivantinib (ARQ 197, developed by ArQule and Daiichi Sankyo). Necitumumab is a second-generation anti-EGFR monoclonal antibody (mAb) similar to cetuximab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21815704", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 564, 
+            "text": "Necitumunab is a fully human IgG1 monoclonal antibody targeting EGFR, having the potential benefit of lower hypersensitivity reaction risk as compared with cetuximab and also equivalent antibody-dependent cell-mediated cytotoxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21679088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Necitumumab, a monoclonal antibody directed against EGFR, is currently under development as a treatment for advanced NSCLC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21806477", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "A phase I pharmacologic study of necitumumab (IMC-11F8), a fully human IgG1 monoclonal antibody directed against EGFR in patients with advanced solid malignancies.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20197484", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 362, 
+            "text": "PURPOSE: This study aimed to determine a maximum tolerated dose (MTD) and recommended dose for disease-directed studies of necitumumab (IMC-11F8), a fully human IgG(1) monoclonal antibody directed at the epidermal growth factor receptor, and to characterize the safety profile, pharmacokinetics, preliminary antitumor activity, and immunogenicity of necitumumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20197484", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "body": "Is selenium deficiency involved in autoimmune thyroid disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15132715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22009156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21896670", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19034261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11932302", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17160166", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23565426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23786024"
+    ], 
+    "ideal_answer": [
+        "Selenium deficiency is likely to constitute a risk factor for a feedforward derangement of the immune system-thyroid interaction, while selenium supplementation appears to dampen the self-amplifying nature of this derailed interactionIn areas with severe selenium deficiency higher incidence of thyroiditis has been reported due to a decreased activity of selenium-dependent glutathione peroxidase enzyme within thyroid cells", 
+        "The essential trace element selenium was recently recognized as being incorporated as selenocysteine in all three deiodinases of the thyroid gland. This has decisively confirmed the clear-cut link between selenium and thyroid function. Additionally, it has been established that the thyroid contains more selenium than any other tissue, and that selenium deficiency aggravates the manifestation of autoimmune thyroid disease.", 
+        "The recent recognition that the essential trace element selenium is incorporated as selenocysteine in all three deiodinases has decisively confirmed the clear-cut link between selenium and thyroid function. It has additionally been established that the thyroid contains more selenium than any other tissue and that selenium deficiency aggravates the manifestation of endemic myxedematous cretinism and autoimmune thyroid disease  "
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013967", 
+        "http://www.biosemantics.org/jochem#4278041", 
+        "http://www.disease-ontology.org/api/metadata/DOID:7188"
+    ], 
+    "type": "yesno", 
+    "id": "550c1ca3a103b78016000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 205, 
+            "text": "In areas with severe selenium deficiency higher incidence of thyroiditis has been reported due to a decreased activity of selenium-dependent glutathione peroxidase enzyme within thyroid cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23565426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1028, 
+            "offsetInEndSection": 1355, 
+            "text": "Of 30 patients in the selenium treated group, 6 patients were overtly hypothyroid, 15 were subclinical hypothyroid, 6 were euthyroid, and 3 were subclinical hyperthyroid. The mean TPOAb concentration decreased significantly by 49.5% (P < 0.013) in the selenium treated group versus 10.1% (P < 0.95) in the placebo-treated group", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23565426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1369, 
+            "offsetInEndSection": 1479, 
+            "text": "Selenium substitution has a significant impact on inflammatory activity in thyroid-specific autoimmune disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23565426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "Serum selenium is low in newly diagnosed Graves' disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 678, 
+            "offsetInEndSection": 801, 
+            "text": "S-Se was lower in patients with GD than in controls (mean (SD), GD: 89\u00b79\u00a0\u03bcg/l (18\u00b74); controls: 98\u00b78\u00a0\u03bcg/l (19\u00b77), P\u00a0<\u00a00\u00b701)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1371, 
+            "offsetInEndSection": 1603, 
+            "text": "Patients with newly diagnosed GD and AIH had significantly lower s-Se compared with random controls. Our observation supports the postulated link between inadequate selenium supply and overt autoimmune thyroid disease, especially GD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1618, 
+            "offsetInEndSection": 1852, 
+            "text": "Selenium deficiency is likely to constitute a risk factor for a feedforward derangement of the immune system-thyroid interaction, while selenium supplementation appears to dampen the self-amplifying nature of this derailed interaction", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22009156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 437, 
+            "text": "The recent recognition that the essential trace element selenium is incorporated as selenocysteine in all three deiodinases has decisively confirmed the clear-cut link between selenium and thyroid function. It has additionally been established that the thyroid contains more selenium than any other tissue and that selenium deficiency aggravates the manifestation of endemic myxedematous cretinism and autoimmune thyroid disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1669, 
+            "offsetInEndSection": 1834, 
+            "text": "Maintenance of \"selenostasis\" via optimal intake not only aids preservation of general health but also contributes substantially to the prevention of thyroid disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 844, 
+            "text": "Low birth weight, iodine excess and deficiency, selenium deficiency, parity, oral contraceptive use, reproductive span, fetal microchimerism, stress, seasonal variation, allergy, smoking, radiation damage to the thyroid gland, viral and bacterial infections all play a role in the development of autoimmune thyroid disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15132715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 428, 
+            "text": "It has additionally been established that the thyroid contains more selenium than any other tissue and that selenium deficiency aggravates the manifestation of endemic myxedematous cretinism and autoimmune thyroid disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Selenium deficiency may play an important role in the initiation and progression of autoimmune thyroid disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "[Selenium deficiency in celiac disease: risk of autoimmune thyroid diseases].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19034261", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 842, 
+            "text": "Low birth weight, iodine excess and deficiency, selenium deficiency, parity, oral contraceptive use, reproductive span, fetal microchimerism, stress, seasonal variation, allergy, smoking, radiation damage to the thyroid gland, viral and bacterial infections all play a role in the development of autoimmune thyroid disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15132715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1083, 
+            "offsetInEndSection": 1304, 
+            "text": "Some clinical studies have demonstrated that selenium-deficient patients with autoimmune thyroid disease benefit from selenium supplementation, although the data are conflicting and many parameters must still be defined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22009156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1356, 
+            "offsetInEndSection": 1489, 
+            "text": "Our observation supports the postulated link between inadequate selenium supply and overt autoimmune thyroid disease, especially GD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23448365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 77, 
+            "text": "Selenium deficiency in celiac disease: risk of autoimmune thyroid diseases].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19034261", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Selenoproteins contain the essential trace element selenium whose deficiency leads to major disorders including cancer, male reproductive system failure, or autoimmune thyroid disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21896670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 216, 
+            "offsetInEndSection": 438, 
+            "text": "It has additionally been established that the thyroid contains more selenium than any other tissue and that selenium deficiency aggravates the manifestation of endemic myxedematous cretinism and autoimmune thyroid disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 920, 
+            "offsetInEndSection": 1222, 
+            "text": "EVIDENCE SYNTHESIS: Evidence in support of selenium supplementation in thyroid autoimmune disease is evaluated, the results herein presented demonstrating the potential effectiveness of selenium in reducing the antithyroid peroxidase titer and improving the echostructure in the ultrasound examination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1139, 
+            "offsetInEndSection": 1288, 
+            "text": "Some investigators suggest that selenium may be a useful adjunctive treatment for autoimmune thyroid diseases, such as Hashimoto and Graves' disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17160166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 395, 
+            "text": "Therefore, even mild selenium deficiency may contribute to the development and maintenance of autoimmune thyroid diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11932302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1091, 
+            "offsetInEndSection": 1311, 
+            "text": "Some clinical studies have demonstrated that selenium-deficient patients with autoimmune thyroid disease benefit from selenium supplementation, although the data are conflicting and many parameters must still be defined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22009156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1090, 
+            "offsetInEndSection": 1309, 
+            "text": "Some clinical studies have demonstrated that selenium-deficient patients with autoimmune thyroid disease benefit from selenium supplementation, although the data are conflicting and many parameters must still be defined", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22009156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 145, 
+            "text": "High prevalence of hyperplastic and autoimmune diseases of thyroid in Ukrainian population is determined by endemic deficit of iodine and selenium", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23786024", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 429, 
+            "text": "It has additionally been established that the thyroid contains more selenium than any other tissue and that selenium deficiency aggravates the manifestation of endemic myxedematous cretinism and autoimmune thyroid disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 394, 
+            "text": "Therefore, even mild selenium deficiency may contribute to the development and maintenance of autoimmune thyroid diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11932302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1139, 
+            "offsetInEndSection": 1287, 
+            "text": "Some investigators suggest that selenium may be a useful adjunctive treatment for autoimmune thyroid diseases, such as Hashimoto and Graves' disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17160166", 
+            "endSection": "abstract"
+        }
+    ]
+}

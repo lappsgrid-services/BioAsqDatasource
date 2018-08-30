@@ -1,0 +1,49 @@
+{
+    "body": "Is Downs syndrome associated with decreased risk of leukemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19332933", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25332567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16321814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2955886"
+    ], 
+    "ideal_answer": [
+        "No, multiple studies have established the incidence of leukemia in Down's syndrome patients to be 10- to 20-fold higher than that in the general population."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58f3d85170f9fc6f0f00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 239, 
+            "text": "The association of Down's syndrome and leukemia has been documented for over 50 years. Multiple studies have established the incidence of leukemia in Down's syndrome patients to be 10- to 20-fold higher than that in the general population.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2955886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 564, 
+            "text": "We present a case of congenital acute myeloid leukemia manifesting from the very first day of birth. Diagnosis of acute myeloid leukemia was suspected by the presence of blasts in the peripheral blood smear and was confirmed on bone marrow by flowcytometry. Karyotyping revealed Trisomy 21.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25332567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 928, 
+            "offsetInEndSection": 1040, 
+            "text": "Juvenile myelomonocytic leukemia (JMML) and a solitary cases of acute myeloid leukemia (AML) in Downs syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16321814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 631, 
+            "offsetInEndSection": 712, 
+            "text": "This was thus confirmed to be a case with transient leukemia with Downs syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19332933", 
+            "endSection": "abstract"
+        }
+    ]
+}

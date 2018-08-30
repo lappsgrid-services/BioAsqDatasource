@@ -1,0 +1,382 @@
+{
+    "body": "Does PCSK9 (Proprotein convertase subtilisin/kexin type 9) binds with HDL-receptor (HDL-R)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27284008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26040332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20529551", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23675525", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26318398", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23400816", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25649668", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26256967", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22683370", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23690465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24164109", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21692990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23974119", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21122852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23261172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25679794", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26495026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24094767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18436719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21497351", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22580899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17702855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20716520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26056005", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23141813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22300679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25463543", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24685817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25905719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26548330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24603306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22907332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26088304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19828345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26364362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23106476", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26023080", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17493938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22176652", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25744035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25070550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26195630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25971287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24144304"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1426592", 
+            "o": "PCSK9"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1426592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20814698"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20814698", 
+            "o": "proprotein convertase subtilisin/kexin type 9"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2611277", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A19343187"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0062151", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8395721"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8395721", 
+            "o": "high density lipoprotein receptors"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0062151", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16773852"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16773852", 
+            "o": "high density lipoprotein receptors"
+        }
+    ], 
+    "ideal_answer": [
+        "No, Proprotein Convertase Subtilisin Kexin 9 (PCSK9) binds with LDL-receptor (LDL-R) causing its degradation in the lysosome with the result of LDL-C accumulating in the blood."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/PCSK9_SAIBB", 
+        "http://www.uniprot.org/uniprot/PCSK9_MACMU", 
+        "http://www.uniprot.org/uniprot/PCSK9_PANTR", 
+        "http://www.uniprot.org/uniprot/PCSK9_COLGU", 
+        "http://www.uniprot.org/uniprot/PCSK9_CALJA", 
+        "http://www.uniprot.org/uniprot/PCSK9_LAGLA", 
+        "http://www.uniprot.org/uniprot/PCSK9_SAGLB", 
+        "http://www.uniprot.org/uniprot/PCSK9_HUMAN", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D043484", 
+        "http://www.uniprot.org/uniprot/PCSK9_PONPY", 
+        "http://amigo.geneontology.org/amigo/term/GO:1990666", 
+        "http://www.uniprot.org/uniprot/PCSK9_MACNE", 
+        "http://www.uniprot.org/uniprot/PCSK9_RAT", 
+        "http://www.uniprot.org/uniprot/PCSK9_ATEGE", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000071449", 
+        "http://www.uniprot.org/uniprot/PCSK9_PANPA", 
+        "http://www.uniprot.org/uniprot/PCSK9_PLEMO"
+    ], 
+    "type": "yesno", 
+    "id": "58db9aa28acda34529000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 747, 
+            "text": "Recently it was revealed that the secreted Proprotein Convertase Subtilisin Kexin 9 (PCSK9) binds with LDL-receptor (LDL-R) causing its degradation in the lysosome with the result of LDL-C accumulating in the blood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25679794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1066, 
+            "offsetInEndSection": 1296, 
+            "text": "The major goal of this study is to identify peptide/s from the catalytic domain of hPCSK9 that can block the binding of hPCSK9 and LDL-R and therefore can reduce LDL-R degradation leading to the clearance of LDL-C from the plasma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25679794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1112, 
+            "offsetInEndSection": 1324, 
+            "text": "In vitro administration of SRT3025 to cultured AML12 hepatocytes attenuated Pcsk9 secretion and its binding to Ldlr, thereby reducing Pcsk9-mediated Ldlr degradation and increasing Ldlr expression and LDL uptake.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24603306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 246, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9), which involves in low-density lipoprotein cholesterol (LDL-C) metabolism by interacting with the LDL receptor, is considered as a potent therapeutic target for treating hypercholesterolemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26056005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 828, 
+            "offsetInEndSection": 1030, 
+            "text": "Taken together, these results suggested that the IgG1-PA4 can be served as a potential candidate for the treatment of hypercholesterolemia by inhibiting PCSK9-mediated degradation of cell surface LDLRs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26056005", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) binds to the low-density lipoprotein receptor, escorting it to\u00a0its destruction in the lysosome and thereby preventing the recirculation of the low-density lipoprotein receptor to the hepatocyte cell surface. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26088304", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 447, 
+            "text": "However, statins have low efficiency because they also increase PCSK9 which targets LDLR for degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26318398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 316, 
+            "text": "Inhibition of the enzyme PCSK9 (proprotein convertase subtilisin/kexin type 9), which is involved in depletion of the LDL-receptor, is a new pharmacologic approach. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26364362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 510, 
+            "text": "Proprotein convertase subtilisin kexin type 9 (PCSK9) modulates LDL-c through post-translational degradation of the LDLR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26495026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1656, 
+            "offsetInEndSection": 1837, 
+            "text": "Mechanistically, hepatic S1P KD was shown to decrease the liver and plasma levels of the protein proprotein convertase subtilisin/kexin type 9 (PCSK9), which degrades LDLR protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26495026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 229, 
+            "offsetInEndSection": 376, 
+            "text": "We report here the development of sdAbs targeting human PCSK9 (proprotein convertase subtilisin/kexin type 9) as an alternative to anti-PCSK9 mAbs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27284008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "PCSK9 proprotein convertase subtilisin/kexin type (PCSK9) protein plays an important role in LDL cholesterol (LDL-C) metabolism, due to its role in the degradation of the LDL receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24164109", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) binds to LDL receptors, leading to their degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24094767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "Low density lipoprotein binds to proprotein convertase subtilisin/kexin type-9 (PCSK9) in human plasma and inhibits PCSK9-mediated low density lipoprotein receptor degradation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400816", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 217, 
+            "text": "Proprotein convertase subtilisin/kexin type-9 (PCSK9) is a secreted protein that binds to the epidermal growth factor-like-A domain of the low density lipoprotein receptor (LDLR) and mediates LDLR degradation in liver", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 86, 
+            "offsetInEndSection": 191, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) binds LDL receptors, targeting them for degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23141813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9), which binds the low-density lipoprotein receptor and targets it for degradation, has emerged as an important regulator of serum cholesterol levels and cardiovascular disease risk", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26023080", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Secreted proprotein convertase subtilisin/kexin type 9 (PCSK9) binds to the low-density lipoprotein receptor (LDLR) at the cell surface and disrupts the normal recycling of the LDLR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683370", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 250, 
+            "text": "Proprotein convertase, subtilisin/kexin type 9 (PCSK9), a key regulator of plasma LDL-cholesterol (LDL-c) and cardiovascular risk, is produced in liver and secreted into plasma where it binds hepatic LDL receptors (LDLR), leading to their degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20716520", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) promotes the degradation of the hepatic low-density lipoprotein receptor (LDL-R) and is therefore a prominent therapeutic target for reducing LDL-cholesterol", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25744035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 862, 
+            "text": "In the present study we scanned the related gene of a clinically diagnosed autosomal genetic hypercholesterolemia family for the possible mutations and established eukaryotic expression vector of mutation of proprotein convertase subtilisin/kexin type 9 (PCSK9) gene with gene recombination technique to investigate the contributions of the variation on low density lipoprotein receptor (LDL-R) metabolism and function alternation.Mutation detection was conducted for LDL-R, apolipoprotein B(100) (apoB(100)) and PCSK9 gene with nucleotide sequencing in a Chinese FH family", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20529551", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 304, 
+            "text": "Proprotein convertase subtilisin-kexin type 9 (PCSK9) provides a key step in LDL metabolism by stimulating LDL receptor degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22300679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 176, 
+            "offsetInEndSection": 323, 
+            "text": "The proprotein convertase subtilisin-kexin type 9 (PCSK9) pathway plays a key role in lipoprotein metabolism by promoting LDL-receptor degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23261172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 237, 
+            "text": "Proprotein convertase subtilisin-kexin type 9 (PCSK9) plays a key role in LDL receptor processing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21122852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 353, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) promotes the degradation of the LDL receptor (LDLr) in hepatocytes, and its expression in mouse liver has been shown to decrease with fenofibrate treatment.We developed a sandwich ELISA using recombinant human PCSK9 protein and 2 affinity-purified polyclonal antibodies directed against human PCSK9.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18436719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 413, 
+            "text": "Proprotein convertase subtilisin kexin type 9 (PCSK9) enhances the degradation of the LDLR and modulates liver CD81 levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25463543", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 98, 
+            "offsetInEndSection": 299, 
+            "text": "Low-density lipoprotein (LDL) metabolism is governed by proprotein convertase subtilisin-kexin type 9 (PCSK9), which down-regulates LDL receptor expression, resulting in higher LDL cholesterol (LDL-C).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23106476", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Proprotein convertase subtilisin kexin type 9 (PCSK9) is gaining attention as a key regulator of serum LDL-cholesterol (LDLC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17702855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 270, 
+            "text": "The proprotein convertase subtilisin/kexin type 9 (PCSK9) gene regulates cholesterol homoeostasis by accelerating low-density lipoprotein receptor (LDLR) degradation resulting in the decreased catabolism of low-density lipoprotein (LDL) leading to hypercholesterolaemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25649668", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Low density lipoprotein binds to proprotein convertase subtilisin/kexin type-9 (PCSK9) in human plasma and inhibits PCSK9-mediated low density lipoprotein receptor degradation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400816", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Proprotein convertase subtilisin/kexin type-9 (PCSK9) is a secreted protein that binds to the epidermal growth factor-like-A domain of the low density lipoprotein receptor (LDLR) and mediates LDLR degradation in liver.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23400816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) is a regulator of LDL-cholesterol receptor homeostasis and emerges as a therapeutic target in the prevention of cardiovascular (CV) disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24685817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 181, 
+            "offsetInEndSection": 392, 
+            "text": "The present study was conducted to investigate the role of plasma proprotein convertase subtilisin kexin type 9 (PCSK9) levels, a regulator of LDL-receptor expression, in the occurrence of diabetic dyslipidemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21497351", 
+            "endSection": "abstract"
+        }
+    ]
+}

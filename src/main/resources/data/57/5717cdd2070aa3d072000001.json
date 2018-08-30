@@ -1,0 +1,362 @@
+{
+    "body": "List inhibtors targeting the mitochondrial permeability transition pore.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24968303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20960209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25063991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12952973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20966765", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20668412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21542787", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25502879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24615518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21294074", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20937730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24675465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24627421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15961375", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24998301", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22198507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24273204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23536162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25767484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24349464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24951958", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22745676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25351957", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14627909", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21669242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25793558", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24657357", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21297983", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16516918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21372381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19819119", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24885907", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22197697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24801220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24297180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24434143", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23423267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18660440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10413027"
+    ], 
+    "ideal_answer": [
+        "Cyclosporine A\nAtractyloside\nN-metyl-4-isoleucine-cyclosporine\nSanglifehrin A \nTRO-19622", 
+        "The opening of the mitochondrial permeability transition pore appears to be inhibited by KB-R 7943, diacylglycerol analog 1-oleoyl-2-acetyl-sn-glycerol, cyclosporin A (CsA) and BRL37344."
+    ], 
+    "exact_answer": [
+        [
+            "Cyclosporine A"
+        ], 
+        [
+            "Atractyloside"
+        ], 
+        [
+            "N-metyl-4-isoleucine-cyclosporine", 
+            "NIM811"
+        ], 
+        [
+            "Sanglifehrin A"
+        ], 
+        [
+            "TRO-19622"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0005757", 
+        "http://amigo.geneontology.org/amigo/term/GO:0046902"
+    ], 
+    "type": "list", 
+    "id": "5717cdd2070aa3d072000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Postconditioning with cyclosporine a reduces early renal dysfunction by inhibiting mitochondrial permeability transition.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25793558", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 767, 
+            "offsetInEndSection": 837, 
+            "text": "mitochondrial permeability transition pore inhibitor (Cyclosporine A).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24657357", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1235, 
+            "offsetInEndSection": 1283, 
+            "text": " treatment with the MPTP inhibitor atractyloside", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25351957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1242, 
+            "offsetInEndSection": 1277, 
+            "text": " cyclosporine A, an MPTP inhibitor,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24675465", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 188, 
+            "offsetInEndSection": 382, 
+            "text": "NIM-811 (N-metyl-4-isoleucine-cyclosporine) is a mitochondria specific drug, which can prevent ischemic-reperfusion (IR) injury, by inhibiting mitochondrial permeability transition pores (mPTP).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24968303", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 539, 
+            "offsetInEndSection": 580, 
+            "text": " The mPTP inhibitor sanglifehrin A (SfA) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24615518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1618, 
+            "offsetInEndSection": 1654, 
+            "text": "mPTP inhibitor, cyclosporin A (CsA),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25502879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 708, 
+            "text": "cyclosporine A (CsA), a MPTP inhibitor, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24801220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 710, 
+            "offsetInEndSection": 736, 
+            "text": "The mPTP inhibitor NIM811,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24627421", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 739, 
+            "offsetInEndSection": 767, 
+            "text": "A mPTP inhibitor (TRO-19622)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24273204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 954, 
+            "offsetInEndSection": 1038, 
+            "text": "Cyclosporine A (CsA), a mitochondria permeability transition pore (MPTP) inhibitor, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24885907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 599, 
+            "offsetInEndSection": 668, 
+            "text": " and N-methyl-4-isoleucine cyclosporine (NIM811), an mPTP inhibitor, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23423267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 504, 
+            "offsetInEndSection": 539, 
+            "text": "mPTP inhibitor cyclosporin A (CsA) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23536162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "ADP is not only a key substrate for ATP generation, but also a potent inhibitor of mitochondrial permeability transition pore (mPTP). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24349464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 734, 
+            "text": "MPTP inhibitor cyclosporin A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22197697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1476, 
+            "offsetInEndSection": 1506, 
+            "text": " mPTP inhibitor cyclosporin A ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22198507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1125, 
+            "offsetInEndSection": 1160, 
+            "text": "MPTP inhibitor cyclosporine A (CsA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20960209", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1124, 
+            "offsetInEndSection": 1158, 
+            "text": " the mPTP inhibitor cyclosporine A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20668412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 780, 
+            "text": "The mPTP inhibitor cyclosporine A (CsA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19819119", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 518, 
+            "offsetInEndSection": 671, 
+            "text": "Rather, we find that KB-R7943 inhibits opening of the mitochondrial permeability transition pore in permeabilized cells and isolated liver mitochondria. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24434143", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1143, 
+            "text": "Our data reveal another mechanism through which KB-R7943 may protect against calcium-induced injury, as well as a novel means to inhibit the mitochondrial permeability transition pore.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24434143", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "KB-R7943, a plasma membrane Na(+)/Ca(2+) exchanger inhibitor, blocks opening of the mitochondrial permeability transition pore.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24434143", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 890, 
+            "text": "Inhibitors of calcium/calmodulin-dependent protein kinase II, a mitochondrial Ca(2+) uniporter (MCU) regulator, also prevented MPTP formation and arachidonic acid release induced by A23187 and H2O2. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24297180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1016, 
+            "offsetInEndSection": 1229, 
+            "text": "Unlike pyrrophenone, the diacylglycerol analog 1-oleoyl-2-acetyl-sn-glycerol and CsA blocked cell death and arachidonic acid release not by preventing mitochondrial calcium uptake but by inhibiting MPTP formation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24297180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 839, 
+            "offsetInEndSection": 1159, 
+            "text": "Incubation with \u03b23AR agonist (BRL37344, 7\u00a0\u03bcmol/L) significantly reduced cell death in isolated adult mouse cardiomyocytes during hypoxia/reoxygenation and decreased susceptibility to deleterious opening of the mitochondrial permeability transition pore (mPTP), via a mechanism dependent on the Akt-NO signaling pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24951958", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 1258, 
+            "text": "Here we show that antamanide inhibits the mitochondrial permeability transition pore, a central effector of cell death induction, by targeting the pore regulator cyclophilin D. Indeed, (i) permeability transition pore inhibition by antamanide is not additive with the cyclophilin D-binding drug cyclosporin A, (ii) the inhibitory action of antamanide on the pore requires phosphate, as previously shown for cyclosporin A; (iii) antamanide is ineffective in mitochondria or cells derived from cyclophilin D null animals, and (iv) abolishes CyP-D peptidyl-prolyl cis-trans isomerase activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21297983", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 568, 
+            "offsetInEndSection": 816, 
+            "text": "Furthermore, in wild-type (non-transfected) SHSY5Y cells, the effects of lactacystin on mitochondrial function and cell viability are also prevented by cyclosporin A (1\u00a0\u03bcM) which blocks the activity of the mitochondrial permeability transition pore", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25319443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Exogenous zinc protects cardiac cells from reperfusion injury by targeting mitochondrial permeability transition pore through inactivation of glycogen synthase kinase-3beta.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18660440", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Bradykinin prevents reperfusion injury by targeting mitochondrial permeability transition pore through glycogen synthase kinase 3beta.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16516918", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "HIF-1 reduces ischaemia-reperfusion injury in the heart by targeting the mitochondrial permeability transition pore.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25063991", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 1111, 
+            "text": "Pre\u2014treatment of gallic acid and mitochondrially targeted gallic acid to sodium nitroprusside treated mitochondria not only significantly reduced the oxidative stress but also prevented mitochondrial permeability pore transition to a significant difference. Mitochondrially targeted gallic acid was found more effective in reducing oxidative stress and mitochondrial permeability pore transition than gallic acid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24998301", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 956, 
+            "offsetInEndSection": 1245, 
+            "text": "Mitochondrially targeted gallic acid was found more effective in reducing oxidative stress and mitochondrial permeability pore transition than gallic acid. We conclude that mitochondrially targeted gallic acid can be used for preventing mitochondrial impairment caused by oxidative stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24998301", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 687, 
+            "offsetInEndSection": 917, 
+            "text": "The involvement of mitochondrial permeability transition pore was determined with a mitochondrial permeability transition pore opener atractyloside and a specific mitochondrial permeability transition pore inhibitor cyclosporin A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22732280", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 80, 
+            "offsetInEndSection": 256, 
+            "text": "Here we show that antamanide inhibits the mitochondrial permeability transition pore, a central effector of cell death induction, by targeting the pore regulator cyclophilin D.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21297983", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 956, 
+            "offsetInEndSection": 1111, 
+            "text": "Mitochondrially targeted gallic acid was found more effective in reducing oxidative stress and mitochondrial permeability pore transition than gallic acid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24998301", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 955, 
+            "text": "Pre\u2014treatment of gallic acid and mitochondrially targeted gallic acid to sodium nitroprusside treated mitochondria not only significantly reduced the oxidative stress but also prevented mitochondrial permeability pore transition to a significant difference.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24998301", 
+            "endSection": "abstract"
+        }
+    ]
+}

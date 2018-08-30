@@ -1,0 +1,99 @@
+{
+    "body": "Is apixaban effective for treatment of acute venous thromboembolism?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18393142", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24554904", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23117646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22153026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24057162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23808982", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22084658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19014462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22795419", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23233582", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19308891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24278706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23822763", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23150473"
+    ], 
+    "ideal_answer": [
+        "Apixaban is a direct inhibitor of factor Xa, and is a potential alternative for the treatment of acute venous thromboembolism. These results suggest a lack of clear superiority of apixaban relative to enoxaparin. Apixaban is an oral alternative with similar efficacy and safety to existing anticoagulant therapies.", 
+        "Yes, apixaban is effective for treatment of acute venous thromboembolismis. Apixiban is a direct inhibitor of factor Xa, and is a potential alternative for the treatment of acute venous thromboembolism. Apixaban is an oral alternative with similar efficacy and safety to existing anticoagulant therapies."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013923", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020246", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054556", 
+        "http://www.biosemantics.org/jochem#4243936"
+    ], 
+    "type": "yesno", 
+    "id": "52fc94572059c6d71c000070", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Apixaban is a direct inhibitor of factor Xa, and is a potential alternative for the treatment of acute venous thromboembolism. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24057162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 945, 
+            "offsetInEndSection": 1132, 
+            "text": "These results suggest a lack of clear superiority of apixaban relative to enoxaparin. Apixaban is an oral alternative with similar efficacy and safety to existing anticoagulant therapies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24057162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1718, 
+            "offsetInEndSection": 1898, 
+            "text": "A fixed-dose regimen of apixaban alone was noninferior to conventional therapy for the treatment of acute venous thromboembolism and was associated with significantly less bleeding", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23808982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 186, 
+            "text": "To critically review the effectiveness of the novel oral anticoagulants (rivaroxaban, dabigatran, ximelagatran, and apixaban) in the treatment of acute venous thromboembolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2087, 
+            "offsetInEndSection": 2308, 
+            "text": "ompared with vitamin K antagonists, the novel oral anticoagulants had a similar risk of recurrence of acute venous thromboembolism and all cause mortality, though rivaroxaban was associated with a reduced risk of bleeding", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23150473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 103, 
+            "offsetInEndSection": 329, 
+            "text": "Nowadays, the new anticoagulants, such as dabigatran, rivaroxaban and apixaban, show potential advantages over classical treatments. These agents inhibit specific coagulation factors and are administered orally at fixed doses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23117646", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1192, 
+            "offsetInEndSection": 1308, 
+            "text": "In a recently completed phase III trial, apixaban also demonstrated promising efficacy and safety in that indication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22795419", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 419, 
+            "text": "the most advanced oral direct inhibitors to factor Xa (rivaroxaban and apixaban) and IIa (dabigatran)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18393142", 
+            "endSection": "abstract"
+        }
+    ]
+}

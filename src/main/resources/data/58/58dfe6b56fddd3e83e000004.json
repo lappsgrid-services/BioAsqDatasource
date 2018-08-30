@@ -1,0 +1,51 @@
+{
+    "body": "What is the enzymatic activity of PARL?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17938163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21415861", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21355049", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19859837"
+    ], 
+    "ideal_answer": [
+        "the mitochondrial protease presenilin-associated rhomboid-like (PARL). Rhomboids are a recently discovered family of widely distributed intramembrane serine proteases."
+    ], 
+    "exact_answer": [
+        "PARL are serine proteases"
+    ], 
+    "type": "factoid", 
+    "id": "58dfe6b56fddd3e83e000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 743, 
+            "offsetInEndSection": 970, 
+            "text": "Here we demonstrate that the mitochondrial protease presenilin-associated rhomboid-like (PARL) can affect the proteolytic processing of PINK1 and that normal PINK1 localization and stability requires PARL's catalytic activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21355049", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 210, 
+            "text": "The mitochondrial rhomboid protease Parl governs apoptosis, morphology, metabolism and might be implicated in Parkinson's disease, but the structural basis of its activity and complex regulation remain unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21415861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 43, 
+            "offsetInEndSection": 248, 
+            "text": ". In this study, we evaluated the mRNA levels of presenilins-associated rhomboid-like protein (PARL) and mitochondrial content and enzyme activity from skeletal muscle isolated from insulin-resistant rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19859837", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Rhomboids are a recently discovered family of widely distributed intramembrane serine proteases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17938163", 
+            "endSection": "abstract"
+        }
+    ]
+}

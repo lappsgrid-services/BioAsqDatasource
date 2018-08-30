@@ -1,0 +1,71 @@
+{
+    "body": "Which types of bacterial microflora are associated with the progression of peri-implantitis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20976394", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9526919", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14598129", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23937262"
+    ], 
+    "ideal_answer": [
+        "Bacteria such as A. actinomycetemcomitans, P. gingivalis, T. forsythensis, T. denticola, P. intermedia and F. nucleatum are associated with the progression of peri-implantitis."
+    ], 
+    "exact_answer": [
+        [
+            "A. actinomycetemcomitans"
+        ], 
+        [
+            "P. gingivalis"
+        ], 
+        [
+            "T. denticola"
+        ], 
+        [
+            "T. forsythia"
+        ], 
+        [
+            "P. intermedia"
+        ], 
+        [
+            "F. nucleatum"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057873"
+    ], 
+    "type": "list", 
+    "id": "553babc0f321868558000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 522, 
+            "offsetInEndSection": 758, 
+            "text": " Later, the specific plaque hypothesis established the role of some microorganisms such as A. actinomycetemcomitans, P. gingivalis, T. forsythensis, T. denticola, P. intermedia and F. nucleatum in different forms of periodontal diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20976394", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1082, 
+            "offsetInEndSection": 1259, 
+            "text": "The microbiological analysis revealed that the total bacterial load increased during the period following ligature removal and established an anaerobic Gram-negative microflora.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23937262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 502, 
+            "offsetInEndSection": 681, 
+            "text": "Most periodontal pathogens are common saprophytes of the oral cavity, expressing their virulence only in a susceptible host or when some changes come about in the oral environment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14598129", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 726, 
+            "offsetInEndSection": 1013, 
+            "text": "Overall, the types and relative proportions of putative periodontal pathogens in plaque associated with ligature-induced peri-implantitis and ligature-induced periodontitis were similar. Only levels of anaerobic Actinomyces and spirochetes were significantly different between both sites", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9526919", 
+            "endSection": "abstract"
+        }
+    ]
+}

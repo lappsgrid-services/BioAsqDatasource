@@ -1,0 +1,273 @@
+{
+    "body": "Which hormone abnormalities are common in Williams syndrome", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23734615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18204753", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22719898", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10378390", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15751610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16181239", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20425788", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15108207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16596673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3164411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17188616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1867260", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/4056970", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18824871", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10405448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8835601"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/keywords/856", 
+            "o": "http://purl.uniprot.org/keywords/9995"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/856", 
+            "o": "Williams-Beuren syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/9995", 
+            "o": "Disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/856", 
+            "o": "WBS"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/category", 
+            "s": "http://purl.uniprot.org/keywords/856", 
+            "o": "http://purl.uniprot.org/keywords/9995"
+        }
+    ], 
+    "ideal_answer": [
+        "Elevated Thyrotropin - TSH\nLow FT4\nGrowth Hormone deficiency\nCalcitonin deficiency\nElevated Prolactin\nElevated Cortisol\nElevated Oxytocin\nElevated Vasopressin"
+    ], 
+    "exact_answer": [
+        [
+            "Elevated Thyrotropin -", 
+            "Elevated TSH"
+        ], 
+        [
+            "Low FT4", 
+            "Low Thyroxine"
+        ], 
+        [
+            "Growth Hormone deficiency", 
+            "GHD"
+        ], 
+        [
+            "Calcitonin deficiency"
+        ], 
+        [
+            "Elevated Prolactin"
+        ], 
+        [
+            "Elevated Cortisol"
+        ], 
+        [
+            "Elevated Oxytocin", 
+            "Elevated OT"
+        ], 
+        [
+            "Elevated Vasopressin", 
+            "Elevated AVP"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018980"
+    ], 
+    "type": "list", 
+    "id": "52f88d292059c6d71c000036", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "A girl with Williams syndrome (WS) presented with elevated thyrotropin (TSH) levels (7.0 microU/ml), normal free thyroid hormone concentrations, and absent antithyroid autoantibodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10405448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 297, 
+            "offsetInEndSection": 615, 
+            "text": "TSH response to thyrotropin-releasing hormone (TRH) injection (200 microg/mq, i.v.) was exaggerated and prolonged, suggesting subclinical hypothyroidism. The biological activity of circulating TSH was slightly below the normal range [TSH bioactivity (B) to immunoreactivity (I) ratio (TSH B/I) = 0.4, normal: 0.6-2.2].", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10405448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 251, 
+            "offsetInEndSection": 411, 
+            "text": "We report a boy with confirmed Williams-Beuren syndrome, who was found to have classical growth hormone deficiency and responded well to growth hormone therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10378390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 487, 
+            "text": "A 31-year-old man who had been under regular hemodialysis for 6 months was diagnosed as Williams syndrome (WS) by fluorescence in situ hybridization (FISH) chromosomal analysis. The association of WS and chronic renal failure (CRF) is only rarely encountered. Endocrinological examinations revealed hypergonadotropic hypogonadism. Prolonged and exaggerated responses of adrenocorticotropin (ACTH) to insulin-induced hypoglycemia and corticotropin releasing hormone (CRH) were also noted.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8835601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 507, 
+            "text": "Involvement of the calcitonin/CGRP gene in Williams syndrome is postulated on the basis that Williams syndrome children often have infantile hypercalcemia and deficient expression of calcitonin, a hormone that lowers serum calcium levels. To test the hypothesis that mutations in the calcitonin/CGRP gene might be responsible for the reduced calcitonin levels", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1867260", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 220, 
+            "text": "It has been suggested that a defect in calcitonin function may play a role in Williams syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3164411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Imparied calcitonin secretion in patients with Williams syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/4056970", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 510, 
+            "text": "in patients with Williams syndrome, we studied five such children, with intravenous calcium and parathyroid hormone infusions as provocative stimuli. These patients were found to have significantly higher mean baseline calcium concentrations, delayed clearance of calcium after intravenous calcium loading, and blunted calcitonin responses after calcium infusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/4056970", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 684, 
+            "offsetInEndSection": 988, 
+            "text": "Our studies demonstrate that patients with Williams syndrome have a defect in the synthesis or release of immunoreactive calcitonin. A deficiency of calcitonin may explain the abnormalities of calcium metabolism seen in these patients and can serve as an important endocrine marker for Williams syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/4056970", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 418, 
+            "text": "A 16-year-old male adolescent diagnosed to have the Williams-Beuren syndrome was referred to our obesity outpatient clinic, due to his morbid obesity (body mass index 39.2 kilograms per square metre) and gluttony. After several unsuccessful dietary treatments, we started therapy with sibutramine. As growth hormone (GH) deficiency was diagnosed by an additional GH-stimulation test, we commenced with a GH-treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18204753", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 978, 
+            "offsetInEndSection": 1065, 
+            "text": " Subclinical hypothyroidism is a frequent but stable finding in young children with WS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17188616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Thyroid involvement in Williams syndrome (WS) was recently reported in two small groups of patients, both showing an increased prevalence of elevation of TSH serum concentration; ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16596673", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 613, 
+            "offsetInEndSection": 791, 
+            "text": "in a population of 95 WS patients, half of them followed for more than 5 years. Our study confirms the increased incidence of both elevated TSH serum values (37.9% in our sample)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16596673", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1181, 
+            "offsetInEndSection": 1255, 
+            "text": "This study confirms the presence of alterations of thyroid function in WS ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16181239", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 363, 
+            "offsetInEndSection": 463, 
+            "text": "We report a female infant with confirmed WBS who, through provocative testing, was found to have GHD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15751610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 693, 
+            "offsetInEndSection": 971, 
+            "text": "the elevated levels of prolactin and the response of hGH to growth hormone releasing hormone (GHRH) administration are indicative of a hypothalamic rather than pituitary defect. In conclusion, GH deficiency might contribute to the growth failure in a number of patients with WBS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15751610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 18, 
+            "offsetInEndSection": 455, 
+            "text": " a female presenting with congenital heart defects, liver hemangiomas, and facial dysmorphisms admitted to hospital at 3 months of age because of feeding difficulties and poor growth. She had hypotonia and large tongue, \"coarse\" face, and umbilical hernia in presence of complex congenital cardiovascular malformations. In spite of normal neonatal screening we performed serum levels of thyroid hormones. Thyrotropin level was very high ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 488, 
+            "text": "WS and TD participants had similar profiles in a familiar setting, while participants with WS had elevated cortisol late in the day in the novel setting when social demands were higher. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23734615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 616, 
+            "offsetInEndSection": 692, 
+            "text": "Results suggest that adults with WS have a typical diurnal cortisol profile ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23734615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1096, 
+            "text": "Results revealed significantly higher median levels of OT in WS versus controls at baseline, with a less marked increase in AVP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22719898", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 583, 
+            "offsetInEndSection": 646, 
+            "text": "high prevalence of impaired glucose regulation, adults with WS ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20425788", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 643, 
+            "text": "Thyroid function tests showed a raised TSH (42 mIU/l; normal range 0.5-4 mIU/l) with a low FT(4) concentration", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18824871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1014, 
+            "offsetInEndSection": 1099, 
+            "text": "WBS and abnormalities of thyroid function are common in patients with this feature. T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18824871", 
+            "endSection": "abstract"
+        }
+    ]
+}

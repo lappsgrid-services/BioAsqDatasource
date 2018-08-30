@@ -1,0 +1,51 @@
+{
+    "body": "Is POLD3 essential for mouse development?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27524497"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1427199", 
+            "o": "POLD3"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5131353035340028", 
+            "o": "POLD3"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. The Pold3 gene encodes a subunit of the Pol\u03b4 DNA polymerase complex. Pold3 orthologs are not essential in Saccharomyces cerevisiae or chicken DT40 cells, but the Schizosaccharomyces pombe ortholog is essential. POLD3 also has a specialized role in the repair of broken replication forks, suggesting that POLD3 activity could be particularly relevant for cancer cells enduring high levels of DNA replication stress. In mouse, POLD3 is essential for development and is also required for viability in adult animals.", 
+        "yes"
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "5883b8e6e56acf5176000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 528, 
+            "text": "The Pold3 gene encodes a subunit of the Pol\u03b4 DNA polymerase complex. Pold3 orthologs are not essential in Saccharomyces cerevisiae or chicken DT40 cells, but the Schizosaccharomyces pombe ortholog\u00a0is essential. POLD3 also has a specialized role in the repair of broken replication forks, suggesting that POLD3 activity could be particularly relevant for cancer cells enduring high levels of DNA replication stress. We report here that POLD3 is essential for mouse development and is also required for viability in adult animals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27524497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 412, 
+            "offsetInEndSection": 525, 
+            "text": "We report here that POLD3 is essential for mouse development and is also required for viability in adult animals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27524497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 415, 
+            "offsetInEndSection": 528, 
+            "text": "We report here that POLD3 is essential for mouse development and is also required for viability in adult animals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27524497", 
+            "endSection": "abstract"
+        }
+    ]
+}

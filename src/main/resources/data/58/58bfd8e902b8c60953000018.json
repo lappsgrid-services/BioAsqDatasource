@@ -1,0 +1,273 @@
+{
+    "body": "Which disease the skin condition Necrobiosis lipoidica diabeticorum is associated to?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11259927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24575162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17429587", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/730866", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8261754", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16060710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18357585", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7851128", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12183729", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18377597", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8733162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20537071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7501550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18092383", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23762652", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3351015", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19715570", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24283101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27016885", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25266162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23969033", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2102235", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20524475", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19380665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18718195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12180894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23595890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26975548"
+    ], 
+    "ideal_answer": [
+        "Necrobiosis lipoidica diabeticorum (NLD) is a rare, granulomatous inflammatory skin disease of unknown origin, sometimes associated with diabetes mellitus."
+    ], 
+    "exact_answer": [
+        "Diabetes mellitus"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009335", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3486"
+    ], 
+    "type": "factoid", 
+    "id": "58bfd8e902b8c60953000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a chronic condition, which is characterized by single or multiple lesions on the legs, and occurs in 0.3% of patients with diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25266162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 221, 
+            "text": "Necrobiosis lipoidica (NL) is a rare chronic granulomatous dermatitis that usually appears in the lower extremities. It affects about 0.3-1.2% of diabetic patients, the majority of whom have type 1 diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24575162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "A 32-year-old woman with type 2 diabetes mellitus suffering from morbid obesity with BMI 45,14\u2009kg/m(2) was operated on. Not only the type 2DM but also one of its complication known as necrobiosis lipoidica diabeticorum remitted postoperatively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23762652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 500, 
+            "offsetInEndSection": 616, 
+            "text": "Necrobiosis lipoidica is a granulomatous skin disease of unknown etiology, associated mainly with diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23762652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 133, 
+            "text": "Necrobiosis lipoidica diabeticorum is a rare disease of unclear etiology, that occurs in about 1% of diabetic patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19715570", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 168, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare, granulomatous inflammatory skin disease of unknown origin, sometimes associated with diabetes mellitus. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19380665", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare skin condition associated with diabetes, which characteristically occurs in the pretibial region of the lower limbs (Boulton et al., 1988).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11259927", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 110, 
+            "offsetInEndSection": 302, 
+            "text": "More than half of the patients with necrobiosis lipoidica diabeticorum have diabetes mellitus, but less than one per cent of diabetes mellitus patients have necrobiosis lipoidica diabeticorum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8733162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 390, 
+            "text": "We describe the unusual case of a woman with diabetes and a history of generalized granuloma annulare who noted leg ulcers that clinically represented ulcerated necrobiosis lipoidica diabeticorum and had histologic features of necrobiosis lipoidica diabeticorum and granuloma annulare.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7851128", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare, granulomatous inflammatory skin disease of unknown origin, sometimes associated with diabetes mellitus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19380665", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare skin condition associated with diabetes, which characteristically occurs in the pretibial region of the lower limbs (Boulton et al., 1988)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11259927", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Necrobiosis lipoidica is a rare inflammatory granulomatous skin disease of unknown etiology which is associated with diabetes mellitus in about 60\u2009% of the patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23595890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 500, 
+            "offsetInEndSection": 615, 
+            "text": "Necrobiosis lipoidica is a granulomatous skin disease of unknown etiology, associated mainly with diabetes mellitus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23762652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "Necrobiosis lipoidica is an inflammatory granulomatous skin disease of unknown etiology which is associated with diabetes mellitus in about 60% of the patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17429587", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Necrobiosis lipoidica dibeticum (NLD) is a granulomatous skin disease mostly associated with diabetes mellitus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18092383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Necrobiosis lipoidica (NL) is a rare chronic granulomatous disease that has historically been associated with diabetes mellitus", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23969033", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Necrobiosis lipoidica diabeticorum is an unusual dermatologic condition with a characteristic clinical appearance and a clear association with diabetes mellitus. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3351015", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 306, 
+            "offsetInEndSection": 447, 
+            "text": "However, it has not been associated previously with necrobiosis lipoidica diabeticorum (NBL), a rare skin manifestation of diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2102235", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare, granulomatous inflammatory skin disease of unknown origin, sometimes associated with diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19380665", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Necrobiosis lipoidica diabeticorum (NLD) is a rare degenerative connective tissue disorder associated with diabetes mellitus, which usually presents with red papules or plaques with raised edges and occasional ulceration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26975548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 278, 
+            "offsetInEndSection": 401, 
+            "text": "We describe two children with diabetes who both developed granuloma annulare and later, necrobiosis lipoidica diabeticorum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20537071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 277, 
+            "text": "Granuloma annulare occurs earlier than necrobiosis lipoidica diabeticorum and the association with diabetes mellitus is much weaker.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20537071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Diabetes mellitus is associated with a range of dermatologic presentations, including granuloma annulare and necrobiosis lipoidica diabeticorum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20537071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 273, 
+            "text": "In this report a patient with diabetes mellitus and generalized necrobiosis lipoidica diabeticorum with localization in surgical scars is described.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/730866", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Necrobiosis lipoidica is an idiopathic dermatological condition that is strongly associated with diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18718195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Necrobiosis lipoidica diabeticorum is an unusual dermatologic condition with a characteristic clinical appearance and a clear association with diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3351015", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Necrobiosis lipoidica diabeticorum is a rare skin disorder, usually considered a marker for diabetes mellitus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8733162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Recurrent necrobiosis lipoidica diabeticorum associated with venous insufficiency in an adolescent with poorly controlled type 2 diabetes mellitus.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12183729", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "body": "Does molindone affect body weight?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10548138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2671060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3780420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8800628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20502331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8290673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22372512", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7481576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18794207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11488257", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12518268", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10553730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17253473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20494268", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10796464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/842709"
+    ], 
+    "ideal_answer": [
+        "Yes, molindone has a tendency to cause weight loss or limited weight gain."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015431", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015430", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008972", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001836", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001837", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001835", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019440", 
+        "http://www.biosemantics.org/jochem#4249624"
+    ], 
+    "type": "yesno", 
+    "id": "52cae04c03868f1b06000024", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1464, 
+            "offsetInEndSection": 1540, 
+            "text": "Mean weight increased by 0.54 kg, and mean body mass index by 0.24 kg/m(2). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22372512", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 712, 
+            "text": "A large-scale trial comparing a first-generation antipsychotic (molindone) with newer agents did not find significant differences in treatment response, although the newer antipsychotics were associated with more severe weight gain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20502331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1495, 
+            "offsetInEndSection": 1602, 
+            "text": "No agent demonstrated superior efficacy, and all were associated with side effects, including weight gain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20494268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1349, 
+            "text": "The three treatment arms did not significantly differ in symptom decrease or time to discontinuation. Akathisia was more common with molindone and elevated prolactin concentrations more common with risperidone. Although weight gain and metabolic adverse events had occurred more often with olanzapine and risperidone during the acute trial, no significant between-drug differences emerged in most of these parameters during maintenance treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20494268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1400, 
+            "offsetInEndSection": 1698, 
+            "text": "Olanzapine and risperidone were associated with significantly greater weight gain. Olanzapine showed the greatest risk of weight gain and significant increases in fasting cholesterol, low density lipoprotein, insulin, and liver transaminase levels. Molindone led to more self-reports of akathisia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18794207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2130, 
+            "offsetInEndSection": 2320, 
+            "text": "Molindone is no more or less likely than typical drugs to cause movement disorders, but it does cause significantly more weight loss (2RCTs n=60 RR 2.78, CI 1.10 to 6.99, NNH 5 CI 2 to 77). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17253473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2490, 
+            "offsetInEndSection": 2670, 
+            "text": "Molindone may be an effective antipsychotic but its adverse effect profile does not differ significantly from that of typical antipsychotics (apart from the event of weight loss). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17253473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 459, 
+            "text": "Convergent evidence suggests a hierarchy in the magnitude of BWG that may be induced by diverse agents, being very high for clozapine and olanzapine; high for quetiapine, zotepin, chlorpromazine, and thioridazine; moderate for risperidone and sertindole; and low for ziprazidone, amisulpiride, haloperidol, fluphenazine, pimozide, and molindone. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12518268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 943, 
+            "offsetInEndSection": 1037, 
+            "text": "Loxapine and molindone induce weight decreases, and these exceptions are difficult to explain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11488257", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2837, 
+            "offsetInEndSection": 2983, 
+            "text": "It is no more or less likely than typical drugs to cause movement disorders, but causes significantly more weight loss (RR 2.78, CI 1.10 to 6.99).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10796464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3154, 
+            "offsetInEndSection": 3339, 
+            "text": "Molindone may be an effective antipsychotic; however, its adverse effect profile does not differ significantly from that of typical antipsychotics, apart from the event of weight loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10796464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 704, 
+            "offsetInEndSection": 844, 
+            "text": "Among conventional agents, mean weight change ranged from a reduction of 0.39 kg with molindone to an increase of 3.19 kg with thioridazine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10553730", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Weight gain has been reported with nearly every antipsychotic drug on the market (molindone is an exception). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10548138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2144, 
+            "offsetInEndSection": 2260, 
+            "text": "Although almost all antipsychotics induce bodyweight gain, molindone and loxapine appear to induce bodyweight loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8800628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 385, 
+            "text": "Clozapine and low-potency phenothiazines are associated with the largest gains and molindone with weight loss, but the mechanism is not known. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7481576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 717, 
+            "offsetInEndSection": 840, 
+            "text": "On average, molindone patients lost 5 pounds over the 6 weeks of treatment, whereas thioridazine patients gained 6 pounds. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8290673", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 856, 
+            "text": "Clinically, molindone has a tendency to cause weight loss and may have less effect on seizure threshold than conventional antipsychotic agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2671060", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 81, 
+            "offsetInEndSection": 407, 
+            "text": " Monthly weights and neuroleptic dosages during the first three months of psychiatric hospitalization were compared between matched groups of patients receiving molindone, a combination of molindone and other neuroleptics, or other neuroleptic drugs. We found no significant differences in weight gain among the three groups. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3780420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 267, 
+            "text": "The weight-reducing property of molindone, a recently introduced antipsychotic drug, was tested in 9 hospitalized chronic schizophrenic patients. There was an average weight loss of 7.6 kg after 3 months on molindone; most of the loss occurred during the first month.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/842709", 
+            "endSection": "abstract"
+        }
+    ]
+}

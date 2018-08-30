@@ -1,0 +1,25 @@
+{
+    "body": "What is the CRAPome database?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23921808"
+    ], 
+    "ideal_answer": [
+        "The CRAPome is a contaminant repository for affinity purification-mass spectrometry data."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019991", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D030562"
+    ], 
+    "type": "summary", 
+    "id": "531e01ff267d7dd05300000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 938, 
+            "offsetInEndSection": 1004, 
+            "text": "the contaminant repository for affinity purification (the CRAPome)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23921808", 
+            "endSection": "abstract"
+        }
+    ]
+}

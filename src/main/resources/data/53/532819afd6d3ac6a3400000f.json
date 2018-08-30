@@ -1,0 +1,58 @@
+{
+    "body": "Is there a crystal structure of Greek Goat Encephalitis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20862256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18258134", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18471057"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/taxonomy/41406", 
+            "o": "http://purl.uniprot.org/taxonomy/39686"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/39686", 
+            "o": "unclassified Flavivirus"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/41406", 
+            "o": "Greek goat encephalitis virus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2147701", 
+            "o": "41406"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1009477", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2147701"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1009477", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A2147701"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2147701", 
+            "o": "Greek goat encephalitis virus"
+        }
+    ], 
+    "ideal_answer": [
+        "Based on results no crustal structure of Greek Goat Encephalitis found."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004660", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003460", 
+        "http://www.disease-ontology.org/api/metadata/DOID:646", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015511", 
+        "http://www.disease-ontology.org/api/metadata/DOID:9588"
+    ], 
+    "type": "yesno", 
+    "id": "532819afd6d3ac6a3400000f"
+}

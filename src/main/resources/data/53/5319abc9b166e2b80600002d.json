@@ -1,0 +1,340 @@
+{
+    "body": "Is Rac1 involved in cancer cell invasion?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20001211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23242308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21377450", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23554696", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22161837", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20307526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22955285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21698524", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17671188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21776386", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19684614", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21281602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23876400", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23382862"
+    ], 
+    "ideal_answer": [
+        "A number of signalling pathways have been found to converge to and activate Rac1, which, in turn, activates a number of downstream targets to control actin-cytoskeleton rearrangements at membrane ruffles, as well as formation and activity of lamellipodia, to regulate the migratory processes leading to cell invasion."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020830", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009361", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009369", 
+        "http://www.uniprot.org/uniprot/RAC1_HUMAN", 
+        "http://www.uniprot.org/uniprot/ACT1_ORYSJ"
+    ], 
+    "type": "yesno", 
+    "id": "5319abc9b166e2b80600002d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1012, 
+            "offsetInEndSection": 1168, 
+            "text": "In the Matrigel invasion assay, knockdown of CCR1 and inhibition of the ERK and Rac signaling pathways significantly decreased the number of invading cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23876400", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1415, 
+            "offsetInEndSection": 1652, 
+            "text": "These results demonstrated for the first time that the interaction of CCR1 with CCL5 caused by increased expression of CCR1 promotes invasion of PC3PR cells by increasing secretion of MMPs 2 and 9 and by activating ERK and Rac signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23876400", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 880, 
+            "offsetInEndSection": 1111, 
+            "text": "These data suggest that P-Rex1 has an influence on physiological migratory processes, such as invasion of cancer cells, both through effects upon classical Rac1-driven motility and a novel association with RTK signalling complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23382862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1012, 
+            "offsetInEndSection": 1254, 
+            "text": "Activated PAR1 induced RhoA and Rac1 phosphorylation, and subsequent overexpression of myosin IIA and filamin B which are stress fiber components that were identified by PMF analysis of peptide mass data obtained by MALDI-TOF/MS measurement. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23242308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1536, 
+            "offsetInEndSection": 1785, 
+            "text": "These results demonstrate that PAR1 activation induces cell morphological change associated with cell motility via Rho family activation and cytoskeletal protein overexpression, and has a critical role in gastric cancer cell invasion and metastasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23242308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 738, 
+            "offsetInEndSection": 1033, 
+            "text": "Rac1 was found to be required for actopaxin-induced matrix degradation whereas inhibition of myosin contractility promoted degradation in the phosphomutant-expressing Quint cells, indicating that a balance of Rho GTPase signaling and regulation of cellular tension are important for the process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1498, 
+            "offsetInEndSection": 1658, 
+            "text": "Taken together, this study demonstrates a new role for actopaxin phosphorylation in matrix degradation and cell invasion via regulation of Rho GTPase signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "BART inhibits pancreatic cancer cell invasion by Rac1 inactivation through direct binding to active Rac1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "We report that Binder of Arl Two (BART) plays a role in inhibiting cell invasion by regulating the activity of the Rho small guanosine triphosphatase protein Rac1 in pancreatic cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 779, 
+            "text": "BART interacts with active forms of Rac1, and the BART-Rac1 complex localizes at the leading edges of migrating cancer cells. Suppression of BART increases active Rac1, thereby increasing cell invasion. Treatment of pancreatic cancer cells in which BART is stably knocked down with a Rac1 inhibitor decreases invasiveness. Thus, BART-dependent inhibition of cell invasion is likely associated with decreased active Rac1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 947, 
+            "offsetInEndSection": 1044, 
+            "text": "The Rac1 inhibitor inhibits the lamellipodia formation that is stimulated by suppression of BART.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1045, 
+            "offsetInEndSection": 1238, 
+            "text": "Our results imply that BART regulates actin-cytoskeleton rearrangements at membrane ruffles through modulation of the activity of Rac1, which, in turn, inhibits pancreatic cancer cell invasion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22745590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 821, 
+            "offsetInEndSection": 1387, 
+            "text": "It has been reported as an important inducer of cancer cell migration and invasion, with underlying molecular mechanisms involving the signalling mediated by its juxtamembrane domain, the secretion of matrix metalloproteases to the extracellular media, and the cleavage of a P-cadherin soluble form with pro-invasive activity. Intracellularly, this protein interferes with the endogenous cadherin/catenin complex, inducing p120-catenin delocalization to the cytoplasm, and the consequent activation of Rac1/Cdc42 and associated alterations in the actin cytoskeleton.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22161837", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 185, 
+            "offsetInEndSection": 365, 
+            "text": "Targeted down-regulation of RhoC led to sustained activation of Rac1 GTPase and morphological, molecular and phenotypic changes reminiscent of epithelial to mesenchymal transition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21776386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 870, 
+            "offsetInEndSection": 1061, 
+            "text": "We also find that Rac1 GTPase mediates tight binding of prostate cancer cells to bone marrow endothelial cells and promotes retraction of endothelial cells required for tumor cell diapedesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21776386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1062, 
+            "offsetInEndSection": 1191, 
+            "text": "Finally, Rac1 leads to \u03b21 integrin activation, suggesting a mechanism that Rac1 can mediate tight binding with endothelial cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21776386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1192, 
+            "offsetInEndSection": 1318, 
+            "text": "Together, our data suggest that Rac1 GTPase is key mediator of prostate cancer cell-bone marrow endothelial cell interactions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21776386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 621, 
+            "offsetInEndSection": 754, 
+            "text": "Furthermore, expression of dominant-negative Rac1 (T17N) could largely block EGF-induced PI3K/Akt-PAK1 activation and cell migration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23554696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 985, 
+            "offsetInEndSection": 1176, 
+            "text": "Our study demonstrated that EGF-induced cell migration involves a cascade of signalling events, including activation of Rac1, generation of ROS and subsequent activation of PI3K/Akt and PAK1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23554696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 234, 
+            "text": "Small GTPase proteins, including RhoA, RhoB, RhoC, Rac1, and cdc42, are important molecules for linking cell shape and cell-cycle progression because of their role in both cytoskeletal arrangements and mitogenic signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21698524", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 496, 
+            "offsetInEndSection": 650, 
+            "text": "The suppression of MMP-2 expression by CTXG led to an inhibition of SW620 cells invasion and migration by inactivating Rac1 and Cdc42 but not RhoA GTPase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21377450", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 744, 
+            "offsetInEndSection": 950, 
+            "text": "In conclusion, our data demonstrate that CTXG exerted anti-invasion action in SW620 cells by targeting MMP-2 though regulating the activities of Rac1, Cdc42 and their downstream transcriptional factor AP-1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21377450", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 133, 
+            "text": "ctivation of H-Ras and Rac1 correlates with epidermal growth factor-induced invasion in Hs578T and MDA-MB-231 breast carcinoma cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21281602", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 363, 
+            "text": "We have previously shown that H-Ras, but not N-Ras, induces an invasive phenotype mediated by small GTPase Rac1 in MCF10A human breast epithelial cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21281602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 990, 
+            "offsetInEndSection": 1092, 
+            "text": "Moreover, siRNA-knockdown of Rac1 significantly inhibited the EGF-induced invasiveness in these cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21281602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1265, 
+            "offsetInEndSection": 1507, 
+            "text": "Our data demonstrate that the activation of H-Ras and the downstream molecule Rac1 correlates with EGF-induced breast cancer cell invasion, providing important information on the regulation of malignant progression in mammary carcinoma cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21281602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 435, 
+            "offsetInEndSection": 602, 
+            "text": "At 50% growth-inhibiting concentration, icariin significantly suppressed tumor cells migration and invasion, which were traceable to down-regulation of Rac1 and VASP. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20307526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1049, 
+            "offsetInEndSection": 1222, 
+            "text": "These results indicate that icariin exerts negative effects on tumor cell invasion and migration via the Rac1-dependent VASP pathway and may be a potential anti-cancer drug.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20307526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 886, 
+            "offsetInEndSection": 996, 
+            "text": "RhoGDI2 modulates the invasiveness and metastatic ability of cancer cells through regulation of Rac1 activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20001211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 772, 
+            "offsetInEndSection": 967, 
+            "text": "We also showed that GBM cells secrete Sema3A endogenously, and RNA interference-mediated downregulation of Sema3A inhibits migration and alters cell morphology that is dependent on Rac1 activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19684614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 106, 
+            "text": "LMO1 and Dock180, a bipartite Rac1 guanine nucleotide exchange factor, promote human glioma cell invasion", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17671188", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 588, 
+            "text": "Here, we report for the first time that engulfment and cell motility 1 (ELMO1) and dedicator of cytokinesis 1 (Dock180), a bipartite Rac1 guanine nucleotide exchange factor (GEF), are evidently linked to the invasive phenotype of glioma cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17671188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 937, 
+            "offsetInEndSection": 1118, 
+            "text": "Inhibition of endogenous ELMO1 and Dock180 expression significantly impeded glioma cell invasion in vitro and in brain tissue slices with a concomitant reduction in Rac1 activation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17671188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 562, 
+            "text": "Members of the Rac family of small GTPases are known to act as regulators of actin cytoskeletal structures and strongly influence the cellular processes of integrin-mediated adhesion and migration. Even though hyperactivated Rac proteins have been shown to influence metastatic processes, these proteins have never been directly linked to metastatic progression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1349, 
+            "offsetInEndSection": 1554, 
+            "text": "We show that increased activation of Rac proteins directly correlates with increasing metastatic potential in a panel of cell variants derived from a single metastatic breast cancer cell line (MDA-MB-435).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1617, 
+            "offsetInEndSection": 1729, 
+            "text": "Expression of a dominant active Rac1 or a dominant active Rac3 resulted in a more invasive and motile phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1730, 
+            "offsetInEndSection": 1901, 
+            "text": "Moreover, expression of either dominant negative Rac1 or dominant negative Rac3 into the most metastatic cell variant resulted in decreased invasive and motile properties.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1914, 
+            "offsetInEndSection": 2209, 
+            "text": "This study correlates endogenous Rac activity with high metastatic potential and implicates Rac in the regulation of cell migration and invasion in metastatic breast cancer cells. Taken together, these results suggest a role for both the Rac1 and Rac3 GTPases in human breast cancer progression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16280046", 
+            "endSection": "abstract"
+        }
+    ]
+}

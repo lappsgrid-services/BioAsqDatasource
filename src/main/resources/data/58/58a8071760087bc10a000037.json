@@ -1,0 +1,88 @@
+{
+    "body": "List peptide fragmentations methods in mass spectrometry", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26780731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27613306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27914015", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27139140", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27098412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27520322"
+    ], 
+    "ideal_answer": [
+        "CID, HCD, ECD, ETD and PSD are different peptide fragmentation technologies used in mass spectrometry."
+    ], 
+    "exact_answer": [
+        [
+            "CID", 
+            "collision-induced dissociation"
+        ], 
+        [
+            "HCD", 
+            "Higher-energy collisional dissociation"
+        ], 
+        [
+            "ECD", 
+            "electron capture dissociation"
+        ], 
+        [
+            "ETD", 
+            "electron transfer dissociation"
+        ], 
+        [
+            "PSD", 
+            "post-source decay"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58a8071760087bc10a000037", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 632, 
+            "text": " using the CID and HCD fragmentation techniques", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26780731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 947, 
+            "offsetInEndSection": 982, 
+            "text": "By integrating HCD-MS/MS, CID-MS/MS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27139140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 787, 
+            "offsetInEndSection": 840, 
+            "text": "ECD and ETD induced different fragmentation processes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27098412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 496, 
+            "text": "MALDI post-source decay (PSD), MALDI 157 nm photodissociation, tris(2,4,6-trimethoxyphenyl)phosphonium bromide (TMPP) charge tagging in PSD and photodissociation, ESI collision-induced dissociation (CID), electron transfer dissociation (ETD), and free-radical initiated peptide sequencing (FRIPS) with CID were applied to peptides containing either aspartic or isoaspartic acid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27613306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 650, 
+            "offsetInEndSection": 705, 
+            "text": "automated analysis of HCD and ETD fragmentation spectra", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27520322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1064, 
+            "offsetInEndSection": 1147, 
+            "text": "The combination of DIA analysis and ETD fragmentation with supplemental CID energy ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27914015", 
+            "endSection": "abstract"
+        }
+    ]
+}

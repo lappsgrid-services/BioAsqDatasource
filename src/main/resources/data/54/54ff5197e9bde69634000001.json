@@ -1,0 +1,47 @@
+{
+    "body": "How long, in kb (kilobases),  is a \"Long interspersed nuclear element\"?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11810275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21916613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21637438"
+    ], 
+    "ideal_answer": [
+        "The retrotransposon known as long interspersed nuclear element-1 (L1) is 6-7 kb long,"
+    ], 
+    "exact_answer": [
+        "6-7 kb"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020084", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004602", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020071"
+    ], 
+    "type": "factoid", 
+    "id": "54ff5197e9bde69634000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 633, 
+            "text": " A combination of molecular hybridization studies and long-range polymerase chain reaction was used to isolate a 6-kb full-length long interspersed nuclear element (LINE or L1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11810275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 467, 
+            "offsetInEndSection": 512, 
+            "text": "LINE (7kb long interspersed nuclear element),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21916613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "The retrotransposon known as long interspersed nuclear element-1 (L1) is 6 kb long, although most L1s in mammalian and other eukaryotic cells are truncated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21637438", 
+            "endSection": "abstract"
+        }
+    ]
+}

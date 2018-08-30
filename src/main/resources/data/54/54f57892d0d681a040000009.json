@@ -1,0 +1,185 @@
+{
+    "body": "What is a Caveolae?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24013648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23899671", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23727353", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24023653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23593340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23340574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23521716", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23787000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7407830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24308657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23610576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24013596"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1304410", 
+            "o": "4007-0024"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1304410", 
+            "o": "caveola intracellularis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0598071", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1304410"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0598071", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1304410"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/namespace", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0044155", 
+            "o": "cellular_component"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0044155", 
+            "o": "host caveola"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2752448", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C2247081"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A14274436", 
+            "o": "host cell membrane"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2752448", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17471949"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17471949", 
+            "o": "host caveola"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17471949", 
+            "o": "Gene Ontology"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/part_of", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0044155", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0033644"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0033644", 
+            "o": "host cell membrane"
+        }
+    ], 
+    "ideal_answer": [
+        "Caveolae, plasma membrane invaginations of 60-80nm in diameter, are a subset of lipid rafts enriched in cholesterol and sphingolipids."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D021941", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0072584", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005901", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070836"
+    ], 
+    "type": "summary", 
+    "id": "54f57892d0d681a040000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Caveolae are flask-shaped plasma membrane invaginations formed by constitutive caveolin proteins and regulatory cavin proteins. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24308657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 234, 
+            "offsetInEndSection": 408, 
+            "text": "Caveolae are membrane subdomains that function as signaling platforms, endocytic carriers, sensors of membrane tension, and mechanical stress, as well as in lipid homeostasis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24013596", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 328, 
+            "text": "Caveolae are cholesterol-rich microdomains that form mechanically deformable invaginations of the sarcolemma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24023653", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 363, 
+            "offsetInEndSection": 451, 
+            "text": "Caveolae are specialized membrane lipid rafts coated with caveolin scaffolding proteins,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23899671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 124, 
+            "text": " Caveolae are membrane microdomains where important signalling pathways are assembled and molecular effects transduced.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Caveolae, plasma membrane invaginations of 60-80nm in diameter, are a subset of lipid rafts enriched in cholesterol and sphingolipids.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23727353", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 813, 
+            "text": "The efficiency of youth is built upon cellular signaling scaffolds that provide tight and coordinated signaling. Lipid rafts are one such scaffold of which caveolae are a subset.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23610576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Caveolae are submicroscopic, plasma membrane pits that are abundant in many mammalian cell types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23340574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Caveolae are non-clathrin invaginations of the plasma membrane in most cell types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23521716", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 96, 
+            "text": "Caveolae are cholesterol and sphingolipids rich subcellular domains on plasma membrane.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23593340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Caveolae are an abundant feature of the plasma membrane of many mammalian cell types, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24013648", 
+            "endSection": "abstract"
+        }
+    ]
+}

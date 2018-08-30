@@ -1,0 +1,90 @@
+{
+    "body": "Which neuroendocrine tumors are associated with specific tumor syndromes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23010473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22041710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21181474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14685672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19708762"
+    ], 
+    "ideal_answer": [
+        "Neuroendocrine tumors are a heterogeneous group of benign and malignant neoplasias, detectable in the context of hereditary tumor syndromes in up to 30% of cases. Neuroendocrine tumors include medullary thyroid carcinoma, gastroenteropancreatic tumors, pheochromocytoma, and paraganglioma."
+    ], 
+    "exact_answer": [
+        [
+            "medullary thyroid carcinoma"
+        ], 
+        [
+            "gastroenteropancreatic tumors"
+        ], 
+        [
+            "pheochromocytoma"
+        ], 
+        [
+            "paraganglioma"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:169"
+    ], 
+    "type": "list", 
+    "id": "55031628e9bde69634000024", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Pheochromocytomas are neuroendocrine tumors of the adrenal medulla which can occur either sporadically or in the context of hereditary tumor syndromes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23010473", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 237, 
+            "text": "Pheochromocytomas (PCCs) and paragangliomas (PGLs) are rare neuroendocrine tumors of the adrenal glands and the sympathetic and parasympathetic paraganglia. They can occur sporadically or as a part of different hereditary tumor syndromes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22041710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 184, 
+            "text": "Pancreatic neuroendocrine tumors (PNETs) are a characteristic feature of the tumor syndromes multiple endocrine neoplasia type 1 (MEN-1) and von Hippel-Lindau disease (VHL)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21181474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1297, 
+            "offsetInEndSection": 1804, 
+            "text": "This review focuses on hereditary syndromes with neuroendocrine tumors, including multiple endocrine neoplasia types 1 and 2, Von Hippel-Lindau disease, neurofibromatosis type 1, Carney complex, pheochromocytoma-paraganglioma syndrome, and familial nonmedullary thyroid carcinoma. In addition, several individual neuroendocrine tumors are described, such as medullary thyroid carcinoma, gastroenteropancreatic tumors, pheochromocytoma, and paraganglioma, emphasizing specific histopathologic characteristics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19708762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Neuroendocrine tumors (NETs) are a heterogeneous group of benign and malignant neoplasias, detectable in the context of hereditary tumor syndromes in up to 30% of cases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14685672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1218, 
+            "text": "RET gene analysis can identify individuals with a very high risk to develop familial medullary cancer (MEN2)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14685672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1577, 
+            "offsetInEndSection": 1803, 
+            "text": "In addition, several individual neuroendocrine tumors are described, such as medullary thyroid carcinoma, gastroenteropancreatic tumors, pheochromocytoma, and paraganglioma, emphasizing specific histopathologic characteristics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19708762", 
+            "endSection": "abstract"
+        }
+    ]
+}

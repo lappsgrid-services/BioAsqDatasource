@@ -1,0 +1,246 @@
+{
+    "body": "What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19467292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8601283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17470795", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8344267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24251578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11092556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23788723", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8955902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11839807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17715293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23603359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23783574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10334333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9256076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15791204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22209284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17901054", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8602359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23614019", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8634917", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19179357", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20385601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10567350"
+    ], 
+    "ideal_answer": [
+        "SECIS (selenocysteine insertion sequence)"
+    ], 
+    "exact_answer": [
+        "SECIS"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D055029", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051149", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035613", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051150", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051151", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051140"
+    ], 
+    "type": "factoid", 
+    "id": "533ea8fcc45e133714000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 343, 
+            "offsetInEndSection": 419, 
+            "text": "stem-loop structure called the selenocysteine incorporating sequence (SECIS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24251578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 270, 
+            "text": "3'-UTR mRNA stem-loop termed SElenoCysteine Insertion Sequence (SECIS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23788723", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 84, 
+            "offsetInEndSection": 194, 
+            "text": "Sec is inserted by a specific translational machinery that recognizes a stem-loop structure, the SECIS element", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23783574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 428, 
+            "offsetInEndSection": 509, 
+            "text": "Selenocysteine Insertion Sequence (SECIS) element in the 3'UTR of the transcript.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23614019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1394, 
+            "offsetInEndSection": 1440, 
+            "text": "The proximal stem-loop promotes Sec insertion ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23614019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 250, 
+            "offsetInEndSection": 379, 
+            "text": "Selenocysteine is encoded by an in-frame UGA codon specified by a stem-loop structure, the Sec insertion sequence element (SECIS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23603359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 497, 
+            "offsetInEndSection": 577, 
+            "text": "3' untranslated region RNA stem loop called a SEC incorporation sequence (SECIS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22209284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 424, 
+            "text": "recoding of UGA as Sec depends on the selenocysteine insertion sequence (SECIS) element, a stem-loop structure in the 3' untranslated region of the transcript", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20385601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 117, 
+            "offsetInEndSection": 223, 
+            "text": "this requires a dedicated machinery comprising a stem-loop structure in the 3' UTR RNA (the SECIS element)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19467292", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 306, 
+            "text": "RNA stem-loop structure, the SECIS element in the 3 untranslated region of (UTR) selenoprotein mRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19179357", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 60, 
+            "offsetInEndSection": 248, 
+            "text": "recoding of the UGA stop codon to selenocysteine. In eukaryotes, this requires an RNA stem loop structure in the 3'-untranslated region, termed a selenocysteine insertion sequence (SECIS),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17901054", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 23, 
+            "offsetInEndSection": 198, 
+            "text": " insertion into proteins is directed by translational recoding of specific UGA codons located upstream of a stem-loop structure known as Sec insertion sequence (SECIS) element", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17715293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 295, 
+            "text": "In eukaryotes, incorporation of Sec requires a Sec insertion sequence (SECIS) element, a stem-loop structure located in the 3'-untranslated regions of selenoprotein mRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17470795", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 327, 
+            "text": "selenocysteine insertion requires a cis-acting selenocysteine insertion sequence (SECIS) usually located in the 3'UTR of selenoprotein mRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15791204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 73, 
+            "offsetInEndSection": 234, 
+            "text": "The Sec insertion sequence (SECIS) element, which is the stem-loop structure present in 3' untranslated regions (UTRs) of eukaryotic selenoprotein-encoding genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11839807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 306, 
+            "offsetInEndSection": 534, 
+            "text": "For eukaryotic selenoprotein mRNAs, it has been proposed that a conserved stem-loop structure designated the Sec insertion sequence (SECIS) in the 3'-untranslated (3'-UTR) region is required for recognition of UGA as a Sec codon", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11092556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 191, 
+            "offsetInEndSection": 379, 
+            "text": "3'-untranslated regions of selenoprotein genes contain a common stem-loop structure, selenocysteine insertion sequence (SECIS) element, that is necessary for decoding UGA as selenocysteine", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10567350", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 566, 
+            "text": "Analyses of eukaryotic selenocysteine insertion sequence (SECIS) elements via computer folding programs, mutagenesis studies, and chemical and enzymatic probing has led to the derivation of a predicted consensus structural model for these elements. This model consists of a stem-loop or hairpin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10334333", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 124, 
+            "text": "ECIS elements form stem-loop structures in the 3' untranslated regions (UTR) of eukaryotic mRNAs that encode selenoproteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9256076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 322, 
+            "text": "We report a detailed experimental study of the secondary structures of the SECIS elements ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8634917", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 576, 
+            "text": "It is characterized by a stem-loop structure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8634917", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 421, 
+            "text": " in eukaryotic selenoprotein mRNAs, this stem-loop structure, the selenocysteine insertion sequence (SECIS) element, resides in the 3'-untranslated region", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8602359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 119, 
+            "text": "ECIS elements are stem-loop structures located in the 3' untranslated regions (UTRs) of eukaryotic selenoprotein mRNAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8601283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 830, 
+            "offsetInEndSection": 974, 
+            "text": "eukaryotic selenocysteine UGA codons requires a stem-loop structure in the 3'UTR of mRNAs, the selenocysteine insertion sequence (SECIS) element", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8955902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 324, 
+            "text": "stem-loops and critical nucleotides similar to those in the SECIS elements ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8344267", 
+            "endSection": "abstract"
+        }
+    ]
+}

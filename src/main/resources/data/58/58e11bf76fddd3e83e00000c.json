@@ -1,0 +1,150 @@
+{
+    "body": "Are mutations in the C9orf72  gene associated with macular degeneration?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26303227", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24521566", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27632209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22892647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22300873", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22366791", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24442578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23934648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27619540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22673113", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23053135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24064469"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1428691", 
+            "o": "C9orf72"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1428691", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20715582"
+        }
+    ], 
+    "ideal_answer": [
+        "Amyotrophic lateral sclerosis (ALS) is characterized by motor neurone loss resulting in muscle weakness, spasticity and ultimately death. 5-10% are caused by inherited mutations, most commonly C9ORF72, SOD1, TARDBP and FUS."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012162", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4448", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10871", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057135", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008268", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14245", 
+        "http://www.disease-ontology.org/api/metadata/DOID:8466"
+    ], 
+    "type": "yesno", 
+    "id": "58e11bf76fddd3e83e00000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 710, 
+            "text": "Over the years, however, growing evidence from clinical, pathological and genetic findings has suggested that ALS and FTD belong to the same clinic-pathological spectrum disorder. This concept has been further supported by the identification of the most common genetic cause for both diseases, an aberrantly expanded hexanucleotide repeat GGGGCC/ CCCCGG sequence located in a non-coding region of the gene C9orf72.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27619540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 223, 
+            "text": "Amyotrophic lateral sclerosis (ALS) is characterized by motor neurone loss resulting in muscle weakness, spasticity and ultimately death. 5-10% are caused by inherited mutations, most commonly C9ORF72, SOD1, TARDBP and FUS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26303227", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1125, 
+            "text": "In this article, we will review the brief characterizations of the C9ORF72 gene, the expansion mutations, the related disorders, and their features, followed by a discussion of the deficiency knowledge of C9ORF72 mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23934648", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2374, 
+            "offsetInEndSection": 2520, 
+            "text": "Mutations in the C9ORF72 gene may be a major cause not only of frontotemporal dementia with motor neuron disease but also of late onset psychosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22300873", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Frontotemporal lobar degeneration (FTLD) is a genetically heterogenous syndrome and has been associated most recently with a hexanucleotide repeat expansion within the C9ORF72 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22892647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "An expanded GGGGCC hexanucleotide repeat in C9ORF72 is the most common genetic cause of amyotrophic lateral sclerosis and frontotemporal lobar degeneration associated with TDP-43 pathology (FTLD-TDP).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23053135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Novel TARDBP sequence variant and C9ORF72 repeat expansion in a family with frontotemporal dementia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22892647", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 914, 
+            "offsetInEndSection": 1027, 
+            "text": "There was, as expected, a significant association between C9ORF72 mutations and presence of motor neuron disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22300873", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Expansion of a hexanucleotide repeat in the C9ORF72 gene has been identified as the most common pathogenic mutation in families with autosomal dominant frontotemporal lobar degeneration (FTLD) and amyotrophic lateral sclerosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24064469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "C9ORF72 hexanucleotide repeat number in frontotemporal lobar degeneration: a genotype-phenotype correlation study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24064469", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Hexanucleotide repeat expansions in chromosome 9 open reading frame 72 (C9orf72) have recently been linked to frontotemporal lobar degeneration (FTLD) and amyotrophic lateral sclerosis, and may be the most common genetic cause of both neurodegenerative diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24442578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 260, 
+            "text": "studies recently identified a GGGGCC hexanucleotide repeat expansion in a non-coding region of the chromosome 9 open-reading frame 72 gene (C9ORF72) as the cause of chromosome 9p-linked amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22228244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 208, 
+            "text": "GGGGCC hexanucleotide repeat expansion in the C9ORF72 gene was recently identified as an important cause of familial amyotrophic lateral sclerosis (ALS) and frontotemporal dementia in Caucasian populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673113", 
+            "endSection": "abstract"
+        }
+    ]
+}

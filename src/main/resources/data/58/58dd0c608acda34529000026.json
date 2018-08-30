@@ -1,0 +1,119 @@
+{
+    "body": "What is the biological function of the SRY circular RNA (circRNA)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25580223", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10027176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7600978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26649774", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7684656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8718689"
+    ], 
+    "ideal_answer": [
+        "We suggest that the circles arise from normal splicing processes as a consequence of the unusual genomic structure surrounding the Sry locus in the mouse. While this result does not prove a direct interaction between the two genes, it defines the critical period during which Sry must act to initiate Sertoli cell differentiation. We also attempted to make clear whether the equine SRY gene transcript is expressed in the adult testis, and whether the type of transcript is expressed as linear or circular RNA. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon Recent studies have mainly been devoted to the function of the circular RNA sponge for miR-7 (ciRS-7) and sex-determining region Y (SRY) by targeting microRNA-7 (miR-7) and microRNA-138 (miR-138), respectively However, the characteristics and the critical role of circRNA in co-/post-transcriptional regulation were not well recognized until the \"microRNA sponge\" function of circRNA is discovered", 
+        "Sox5, Sox6, and Sox13 constitute the group D of sex-determining region (Sry)-related transcription factors. We previously identified a highly expressed circular RNA (circRNA) in human and mouse brain. Here we show that this circRNA acts as a miR-7 sponge; we term this circular transcript ciRS-7 (circular RNA sponge for miR-7). ciRS-7 contains more than 70 selectively conserved miRNA target sites, and it is highly and widely associated with Argonaute (AGO) proteins in a miR-7-dependent manner. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon. These observations support the hypothesis that the Q-rich domain may contribute to the biological function(s) of mouse Sry through a protein-protein interactive role(s).", 
+        "Recent studies have mainly been devoted to the function of the circular RNA sponge for miR-7 (ciRS-7) and sex-determining region Y (SRY) by targeting microRNA-7 (miR-7) and microRNA-138 (miR-138), respectively However, the characteristics and the critical role of circRNA in co-/post-transcriptional regulation were not well recognized until the \"microRNA sponge\" function of circRNA is discovered", 
+        "We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon Recent studies have mainly been devoted to the function of the circular RNA sponge for miR-7 (ciRS-7) and sex-determining region Y (SRY) by targeting microRNA-7 (miR-7) and microRNA-138 (miR-138), respectively We also attempted to make clear whether the equine SRY gene transcript is expressed in the adult testis, and whether the type of transcript is expressed as linear or circular RNA. However, the characteristics and the critical role of circRNA in co-/post-transcriptional regulation were not well recognized until the \"microRNA sponge\" function of circRNA is discovered We suggest that the circles arise from normal splicing processes as a consequence of the unusual genomic structure surrounding the Sry locus in the mouse. While this result does not prove a direct interaction between the two genes, it defines the critical period during which Sry must act to initiate Sertoli cell differentiation.", 
+        "The testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon."
+    ], 
+    "type": "summary", 
+    "id": "58dd0c608acda34529000026", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 812, 
+            "offsetInEndSection": 966, 
+            "text": "We suggest that the circles arise from normal splicing processes as a consequence of the unusual genomic structure surrounding the Sry locus in the mouse.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7684656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1556, 
+            "offsetInEndSection": 1731, 
+            "text": "While this result does not prove a direct interaction between the two genes, it defines the critical period during which Sry must act to initiate Sertoli cell differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7600978", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 396, 
+            "text": "We also attempted to make clear whether the equine SRY gene transcript is expressed in the adult testis, and whether the type of transcript is expressed as linear or circular RNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10027176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1105, 
+            "offsetInEndSection": 1306, 
+            "text": "We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 305, 
+            "offsetInEndSection": 514, 
+            "text": "Recent studies have mainly been devoted to the function of the circular RNA sponge for miR-7 (ciRS-7) and sex-determining region Y (SRY) by targeting microRNA-7 (miR-7) and microRNA-138 (miR-138), respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26649774", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 303, 
+            "text": "However, the characteristics and the critical role of circRNA in co-/post-transcriptional regulation were not well recognized until the \"microRNA sponge\" function of circRNA is discovered", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26649774", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 315, 
+            "text": "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25580223", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 746, 
+            "text": "Here we show that this circRNA acts as a miR-7 sponge; we term this circular transcript ciRS-7 (circular RNA sponge for miR-7). ciRS-7 contains more than 70 selectively conserved miRNA target sites, and it is highly and widely associated with Argonaute (AGO) proteins in a miR-7-dependent manner", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 747, 
+            "text": "Here we show that this circRNA acts as a miR-7 sponge; we term this circular transcript ciRS-7 (circular RNA sponge for miR-7). ciRS-7 contains more than 70 selectively conserved miRNA target sites, and it is highly and widely associated with Argonaute (AGO) proteins in a miR-7-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1105, 
+            "offsetInEndSection": 1307, 
+            "text": "We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 305, 
+            "offsetInEndSection": 515, 
+            "text": "Recent studies have mainly been devoted to the function of the circular RNA sponge for miR-7 (ciRS-7) and sex-determining region Y (SRY) by targeting microRNA-7 (miR-7) and microRNA-138 (miR-138), respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26649774", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 578, 
+            "text": "Here we show that this circRNA acts as a miR-7 sponge; we term this circular transcript ciRS-7 (circular RNA sponge for miR-7).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }
+    ]
+}

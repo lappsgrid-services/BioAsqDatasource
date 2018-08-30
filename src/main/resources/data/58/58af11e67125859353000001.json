@@ -1,0 +1,336 @@
+{
+    "body": "What is the function of the Mis18 protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25569776", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24774534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22540025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27239045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21911481", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26343758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27670610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19217403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24269809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25202874", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21768289"
+    ], 
+    "ideal_answer": [
+        "Kinetochores assemble on a specialized chromosomal locus termed the centromere, which is characterized by the replacement of histone H3 in centromeric nucleosomes with the essential histone H3 variant CENP-A (centromere protein A). The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome. Further, we demonstrate Mis18\u00ce\u00b1's crucial role for epigenetic regulation of centromeric chromatin by reinforcing centromeric localization of DNMT3A/3B. Mis18\u00ce\u00b1 interacts with DNMT3A/3B, and this interaction is critical for maintaining DNA methylation and hence regulating epigenetic states of centromeric chromatin. Together, our findings uncover the functional mechanism of Mis18\u00ce\u00b1 and its pivotal role in mammalian cell cycle. The Mis18 complex is a critical player in determining when and where centromeres are built.", 
+        "Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres Here we report identification of five fission yeast centromere proteins, Mis14-18. Mis14 is recruited to kinetochores independently of CENP-A, and, conversely, CENP-A does not require Mis14 to associate with centromeres. In contrast, Mis15, Mis16 (strong similarity with human RbAp48 and RbAp46), Mis17, and Mis18 are all part of the CENP-A recruitment pathway. Mis16 and Mis18 form a complex and maintain the deacetylated state of histones specifically in the central core of centromeres. Mis16 and Mis18 are the most upstream factors in kinetochore assembly as they can associate with kinetochores in all kinetochore mutants except for mis18 and mis16, respectively.", 
+        "The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome.", 
+        "Mis16 and Mis18 form a complex and maintain the deacetylated state of histones specifically in the central core of centromeres. A fundamental process in centromere establishment is the incorporation of the histone variant CENP-A into centromeric chromatin, which provides a binding platform for the other centromeric proteins. CENP-A nucleosome assembly requires the Mis18 complex and the CENP-A chaperone HJURP. Thus, CENP-C provides a link between existing CENP-A chromatin and the proteins required for new CENP-A nucleosome assembly. The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome. This is a critical step that is essential for proper centromere function and maintaining the integrity of the genome.", 
+        "The Mis18 complex is a critical player in determining when and where centromeres are built. The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome. Eukaryotic chromosomes segregate by attaching to microtubules of the mitotic spindle through a chromosomal microtubule binding site called the kinetochore. Centromeres are important structural constituents of chromosomes that ensure proper chromosome segregation during mitosis by providing defined sites for kinetochore attachment. Centromeres contain specialized chromatin that includes the centromere-specific histone H3 variant, spCENP-A/Cnp1.", 
+        "Together, our findings uncover the functional mechanism of Mis18\u03b1 and its pivotal role in mammalian cell cycle. The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome.", 
+        "the mis18 complex has been identified as a critical factor for the centromeric localization of a histone h3 variant, centromeric protein a (cenp-a), which is responsible for the specification of centromere identity in the chromosome."
+    ], 
+    "type": "summary", 
+    "id": "58af11e67125859353000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 335, 
+            "text": "Here we report identification of five fission yeast centromere proteins, Mis14-18. Mis14 is recruited to kinetochores independently of CENP-A, and, conversely, CENP-A does not require Mis14 to associate with centromeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 476, 
+            "text": "In contrast, Mis15, Mis16 (strong similarity with human RbAp48 and RbAp46), Mis17, and Mis18 are all part of the CENP-A recruitment pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 559, 
+            "offsetInEndSection": 866, 
+            "text": "Mis16 and Mis18 form a complex and maintain the deacetylated state of histones specifically in the central core of centromeres. Mis16 and Mis18 are the most upstream factors in kinetochore assembly as they can associate with kinetochores in all kinetochore mutants except for mis18 and mis16, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 640, 
+            "text": "The Mis18 complex, and, in particular, its member M18BP1 was shown to be essential for both incorporation and maintenance of CENP-A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22540025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 599, 
+            "text": " CENP-A nucleosome assembly requires the Mis18 complex and the CENP-A chaperone HJURP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21911481", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Roles of Mis18\u03b1 in epigenetic regulation of centromeric chromatin and CENP-A loading", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "The Mis18 complex has been identified as a critical factor for the centromeric localization of a histone H3 variant, centromeric protein A (CENP-A), which is responsible for the specification of centromere identity in the chromosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 514, 
+            "text": "Here, we generated Mis18\u03b1 conditional knockout mice and found that Mis18\u03b1 deficiency resulted in lethality at early embryonic stage with severe defects in chromosome segregation caused by mislocalization of CENP-A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 664, 
+            "text": "Further, we demonstrate Mis18\u03b1's crucial role for epigenetic regulation of centromeric chromatin by reinforcing centromeric localization of DNMT3A/3B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 666, 
+            "offsetInEndSection": 827, 
+            "text": "Mis18\u03b1 interacts with DNMT3A/3B, and this interaction is critical for maintaining DNA methylation and hence regulating epigenetic states of centromeric chromatin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 829, 
+            "offsetInEndSection": 1003, 
+            "text": "Mis18\u03b1 deficiency led to reduced DNA methylation, altered histone modifications, and uncontrolled noncoding transcripts in centromere region by decreased DNMT3A/3B enrichment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1005, 
+            "offsetInEndSection": 1116, 
+            "text": "Together, our findings uncover the functional mechanism of Mis18\u03b1 and its pivotal role in mammalian cell cycle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516971", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "Centromere licensing: Mis18 is required to Polo-ver", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25202874", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "The Mis18 complex is a critical player in determining when and where centromeres are built", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25202874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 793, 
+            "offsetInEndSection": 972, 
+            "text": "Its nearest relatives are yippee, a highly conserved eukaryotic protein of unknown function, and Mis18, a protein involved in the priming of centromeres for recruitment of CENP-A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25569776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Mis16 and Mis18 are subunits of a protein complex required for incorporation of the histone H3 variant CenH3 (Cnp1/CENP-A) into centromeric chromatin in Schizosaccharomyces pombe and mammals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19217403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "The Mis18 proteins (Mis18\u03b1, Mis18\u03b2, and M18BP1) are pivotal to the deposition of CENP-A at the centromere during cell cycle progression and are indispensable for embryonic development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27670610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 471, 
+            "text": "Although Mis18\u03b1 and Mis18\u03b2 are highly homologous proteins, we find that their conserved YIPPEE domains mediate distinct interactions that are essential to link new CENP-A deposition to existing centromeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27239045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 975, 
+            "text": "Its nearest relatives are yippee, a highly conserved eukaryotic protein of unknown function, and Mis18, a protein involved in the priming of centromeres for recruitment of CENP-A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25569776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 335, 
+            "offsetInEndSection": 651, 
+            "text": "Ectopically targeted CENP-A chromatin at the LacO array was sufficient to direct the assembly of a functional centromere as indicated by the recruitment of the constitutive centromere-associated network proteins, the microtubule-binding protein NDC80, and the formation of stable kinetochore-microtubule attachments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21768289", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 64, 
+            "offsetInEndSection": 208, 
+            "text": "Replication-independent incorporation of CENP-A at centromeres depends on its chaperone HJURP(Scm3), and Mis18 in vertebrates and fission yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 932, 
+            "offsetInEndSection": 1261, 
+            "text": "Our findings suggest that Eic1 serves a function analogous to that of Mis18BP1(KNL2), thus representing the functional counterpart of Mis18BP1(KNL2) in fission yeast that connects with a module within the CCAN/Mis6/Ctf19 complex to allow the temporally regulated recruitment of the Mis18/Scm3(HJURP) Cnp1(CENP-A) loading factors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 77, 
+            "offsetInEndSection": 215, 
+            "text": "Here, we show that Mis18\u00e2, a component of Mis18 complex governing CENP-A localization, is a new substrate of \u00e2TrCP-containing SCF complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24269809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Schizosaccharomyces pombe centromere protein Mis19 links Mis16 and Mis18 to recruit CENP-A through interacting with NMD factors and the SWI/SNF complex.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24774534", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 108, 
+            "offsetInEndSection": 245, 
+            "text": "The fission yeast Schizosaccharomyces pombe and mammalian Mis16 and Mis18 form a complex essential for CENP-A recruitment to centromeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24774534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 1227, 
+            "text": "Its nearest relatives are yippee, a highly conserved eukaryotic protein of unknown function, and Mis18, a protein involved in the priming of centromeres for recruitment of CENP-A. Searches for distant homologs point to an evolutionary relationship of CULT, yippee, and Mis18 to proteins sharing a common fold, which consists of two four-stranded \u03b2-meanders packing at a roughly right angle and coordinating a zinc ion at their apex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25569776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Schizosaccharomyces pombe centromere protein Mis19 links Mis16 and Mis18 to recruit CENP-A through interacting with NMD factors and the SWI/SNF complex", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24774534", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 475, 
+            "text": "In contrast, Mis15, Mis16 (strong similarity with human RbAp48 and RbAp46), Mis17, and Mis18 are all part of the CENP-A recruitment pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Eic1 links Mis18 with the CCAN/Mis6/Ctf19 complex to promote CENP-A assembly.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 773, 
+            "offsetInEndSection": 932, 
+            "text": "No Mis18BP1(KNL2) orthologue has been identified in fission yeast, consequently it remains unknown how the key Cnp1(CENP-A) loading factor Mis18 is recruited. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 336, 
+            "offsetInEndSection": 477, 
+            "text": "In contrast, Mis15, Mis16 (strong similarity with human RbAp48 and RbAp46), Mis17, and Mis18 are all part of the CENP-A recruitment pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15369671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 451, 
+            "text": "In fission yeast, Scm3sp and the Mis18 complex, composed of Mis16, Eic1, and Mis18, function as a CENP-A(Cnp1)-specific chaperone and a recruiting factor, respectively, and together ensure accurate delivery of CENP-A(Cnp1) to centromeres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26343758", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 796, 
+            "offsetInEndSection": 1228, 
+            "text": "Its nearest relatives are yippee, a highly conserved eukaryotic protein of unknown function, and Mis18, a protein involved in the priming of centromeres for recruitment of CENP-A. Searches for distant homologs point to an evolutionary relationship of CULT, yippee, and Mis18 to proteins sharing a common fold, which consists of two four-stranded \u03b2-meanders packing at a roughly right angle and coordinating a zinc ion at their apex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25569776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 773, 
+            "offsetInEndSection": 931, 
+            "text": "No Mis18BP1(KNL2) orthologue has been identified in fission yeast, consequently it remains unknown how the key Cnp1(CENP-A) loading factor Mis18 is recruited.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 514, 
+            "offsetInEndSection": 599, 
+            "text": "CENP-A nucleosome assembly requires the Mis18 complex and the CENP-A chaperone HJURP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21911481", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 716, 
+            "text": "We find that Mis18\u03b1 directly interacts with the N terminus of Mis18BP1, whereas Mis18\u03b2 directly interacts with CENP-C during G1 phase, revealing that these proteins have evolved to serve distinct functions in centromeres of higher eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27239045", 
+            "endSection": "abstract"
+        }
+    ]
+}

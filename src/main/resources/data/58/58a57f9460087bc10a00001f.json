@@ -1,0 +1,392 @@
+{
+    "body": "Which mutated gene is associated with Waardenburg and Tietz syndromes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10952390", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22371403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23098757", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22258527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23020089", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19938076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23787126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20485200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9546825", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10790403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23512835", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10851256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27604145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22196401", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26252099"
+    ], 
+    "ideal_answer": [
+        "Mutations in microphthalmia-associated transcription factor (MITF) gene cause Waardenburg and Tietz syndromes."
+    ], 
+    "exact_answer": [
+        "microphthalmia-associated transcription factor gene", 
+        "MITF"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051739", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014849", 
+        "http://www.uniprot.org/uniprot/MITF_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "58a57f9460087bc10a00001f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Tietz/Waardenburg type 2A syndrome associated with posterior microphthalmos in two unrelated patients with novel MITF gene mutations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27604145", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Tietz syndrome and Waardenburg syndrome type 2A are allelic conditions caused by MITF mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27604145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 953, 
+            "offsetInEndSection": 1054, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2A as well as Tietz syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1152, 
+            "offsetInEndSection": 1346, 
+            "text": "For example, mutations of MITF, SNAI2 and SOX10 genes are observed in Waardenburg syndrome type II and mutations of EDNRB, EDN3 and SOX10 genes are responsible for Waardenburg syndrome type IV. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 480, 
+            "offsetInEndSection": 636, 
+            "text": "These disorders are represented by Waardenburg syndrome, piebaldism and Tietz syndrome, and are caused by different mutations of various or the same genes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 344, 
+            "text": "Mutations in the MITF have been found in patients with the dominantly inherited hypopigmentation and deafness syndromes Waardenburg syndrome type 2A (WS2A) and Tietz syndrome (TS). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1164, 
+            "offsetInEndSection": 1342, 
+            "text": "All patients with PAX3 mutations had typical phenotype of WS with dystopia canthorum (WS1), whereas patients with MITF gene mutations presented without dystopia canthorum (WS2). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23512835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1491, 
+            "offsetInEndSection": 1676, 
+            "text": "MITF 3-bp deletions at amino acid position 217 have previously been described in patients with Tietz syndrome (TS), a clinical entity with hearing loss and generalised hypopigmentation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23512835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1689, 
+            "offsetInEndSection": 2048, 
+            "text": "On the basis of these findings, we conclude that sequencing and copy number analysis of both PAX3 and MITF have to be recommended in the routine molecular diagnostic setting for patients, WS1 and WS2. Furthermore, our genotype-phenotype analyses indicate that WS2 and TS correspond to a clinical spectrum that is influenced by MITF mutation type and position.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23512835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Novel and recurrent non-truncating mutations of the MITF basic domain: genotypic and phenotypic variations in Waardenburg and Tietz syndromes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22258527", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 487, 
+            "text": "A notable relationship has been described between non-truncating mutations of its basic domain and Tietz syndrome, which is characterized by albinoid-like hypopigmentation of the skin and hair, rather than the patchy depigmentation seen in Waardenburg syndrome, and severe hearing loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22258527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 348, 
+            "text": "Mutations in microphthalmia-associated transcription factor (MITF) lead to Waardenburg syndrome type 2 (WS2), a dominantly inherited disorder involving hearing loss and pigment disturbances caused by a lack of melanocytes. On rare occasions, mutations in MITF lead to Tietz syndrome (TS), which is characterized by a severe WS2 phenotype. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20485200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 257, 
+            "offsetInEndSection": 389, 
+            "text": "In humans, haploinsufficiency of MITF causes Waardenburg syndrome type 2, while a dominant-negative mutation causes Tietz syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10952390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Tietz syndrome (hypopigmentation/deafness) caused by mutation of MITF.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10851256", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 869, 
+            "text": "This family was reascertained and a missense mutation was found in the basic region of the MITF gene in family members with Tietz syndrome. Mutations in other regions of this gene have been found to produce Waardenburg syndrome type 2 (WS2), which also includes pigmentary changes and hearing loss, but in contrast to Tietz syndrome, depigmentation is patchy and hearing loss is variable in WS2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10851256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 427, 
+            "text": "In humans, MITF mutations cause Waardenburg syndrome type 2A (WS2A) and Tietz syndrome, autosomal dominant disorders resulting in deafness and hypopigmentation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Mutation of the MITF gene in albinism-deafness syndrome (Tietz syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9546825", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 260, 
+            "offsetInEndSection": 334, 
+            "text": "MITF gene mutations account for 20% of Waardenburg syndrome (WS) type II. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9546825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 343, 
+            "text": "Mutations in the MITF have been found in patients with the dominantly inherited hypopigmentation and deafness syndromes Waardenburg syndrome type 2A (WS2A) and Tietz syndrome (TS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 485, 
+            "text": "The microphthalmia-associated transcription factor (MITF) is a basic helix-loop-helix leucine zipper transcription factor, which regulates melanocyte development and the biosynthetic melanin pathway. A notable relationship has been described between non-truncating mutations of its basic domain and Tietz syndrome, which is characterized by albinoid-like hypopigmentation of the skin and hair, rather than the patchy depigmentation seen in Waardenburg syndrome, and severe hearing loss", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22258527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1650, 
+            "offsetInEndSection": 1750, 
+            "text": "Mutations of the MITF gene may lead to hereditary diseases: Waardenburg type II and Tietz syndromes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22371403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 236, 
+            "text": "The human deafness-pigmentation syndromes, Waardenburg syndrome (WS) type 2a, and Tietz syndrome are characterized by profound deafness but only partial cutaneous pigmentary abnormalities. Both syndromes are caused by mutations in MITF.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23020089", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 265, 
+            "text": "On some occasions, mutations of a gene cause different syndromes that may have similar phenotypes. For example, mutations of the MITF gene cause Waardenburg syndrome type 2 (Tassabehji et al, 1994; Nobukuni et al, 1996) as well as Tietz syndrome (Smith et al, 1997)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1638, 
+            "offsetInEndSection": 1738, 
+            "text": "Mutations of the MITF gene may lead to hereditary diseases: Waardenburg type II and Tietz syndromes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22371403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 162, 
+            "offsetInEndSection": 342, 
+            "text": "Mutations in the MITF have been found in patients with the dominantly inherited hypopigmentation and deafness syndromes Waardenburg syndrome type 2A (WS2A) and Tietz syndrome (TS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 947, 
+            "offsetInEndSection": 1048, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2A as well as Tietz syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 98, 
+            "offsetInEndSection": 265, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2 (Tassabehji et al, 1994; Nobukuni et al, 1996) as well as Tietz syndrome (Smith et al, 1997).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Hearing dysfunction in heterozygous Mitf(Mi-wh) /+ mice, a model for Waardenburg syndrome type 2 and Tietz syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23020089", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 720, 
+            "text": "By analyzing the genes for Waardenburg syndrome, we showed that PAX3, the gene responsible for Waardenburg syndrome type 1, regulates MITF, the gene responsible for Waardenburg syndrome type 2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 260, 
+            "offsetInEndSection": 333, 
+            "text": "MITF gene mutations account for 20% of Waardenburg syndrome (WS) type II.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9546825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 342, 
+            "text": "Mutations in the MITF have been found in patients with the dominantly inherited hypopigmentation and deafness syndromes Waardenburg syndrome type 2A (WS2A) and Tietz syndrome (TS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23787126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Novel and recurrent non-truncating mutations of the MITF basic domain: genotypic and phenotypic variations in Waardenburg and Tietz syndromes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22258527", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 953, 
+            "offsetInEndSection": 1053, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2A as well as Tietz syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 614, 
+            "text": "This family was reascertained and a missense mutation was found in the basic region of the MITF gene in family members with Tietz syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10851256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 348, 
+            "text": "On rare occasions, mutations in MITF lead to Tietz syndrome (TS), which is characterized by a severe WS2 phenotype. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20485200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 267, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2 (Tassabehji et al, 1994; Nobukuni et al, 1996) as well as Tietz syndrome (Smith et al, 1997). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 266, 
+            "text": "For example, mutations of the MITF gene cause Waardenburg syndrome type 2 (Tassabehji et al, 1994; Nobukuni et al, 1996) as well as Tietz syndrome (Smith et al, 1997).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10536986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 426, 
+            "text": "In humans, MITF mutations cause Waardenburg syndrome type 2A (WS2A) and Tietz syndrome, autosomal dominant disorders resulting in deafness and hypopigmentation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 257, 
+            "offsetInEndSection": 388, 
+            "text": "In humans, haploinsufficiency of MITF causes Waardenburg syndrome type 2, while a dominant-negative mutation causes Tietz syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10952390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Tietz/Waardenburg type 2A syndrome associated with posterior microphthalmos in two unrelated patients with novel MITF gene mutations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27604145", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Tietz syndrome and Waardenburg syndrome type 2A are allelic conditions caused by MITF mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27604145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Hearing dysfunction in heterozygous Mitf(Mi-wh) /+ mice, a model for Waardenburg syndrome type 2 and Tietz syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23020089", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1152, 
+            "offsetInEndSection": 1345, 
+            "text": "For example, mutations of MITF, SNAI2 and SOX10 genes are observed in Waardenburg syndrome type II and mutations of EDNRB, EDN3 and SOX10 genes are responsible for Waardenburg syndrome type IV.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24379252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Mutation of the MITF gene in albinism-deafness syndrome (Tietz syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9546825", 
+            "endSection": "title"
+        }
+    ]
+}

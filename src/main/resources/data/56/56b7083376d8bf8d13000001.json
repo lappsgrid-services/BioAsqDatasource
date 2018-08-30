@@ -1,0 +1,158 @@
+{
+    "body": "What is the causative agent of the \"Panama disease\" affecting bananas?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24304681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18943184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12926878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25969777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9482835", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24376590", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23355016"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/otherName", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "fungal sp. ZZF51"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/commonName", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "Panama disease fungus"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "Fusarium oxysporum"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "FUSOX"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/taxonomy/660034", 
+            "o": "http://purl.uniprot.org/taxonomy/5507"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/660034", 
+            "o": "Fusarium oxysporum II5"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/taxonomy/909454", 
+            "o": "http://purl.uniprot.org/taxonomy/5507"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/909454", 
+            "o": "Fusarium oxysporum Cotton"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/taxonomy/660031", 
+            "o": "http://purl.uniprot.org/taxonomy/5507"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/660031", 
+            "o": "Fusarium oxysporum PHW808"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/strain", 
+            "s": "http://purl.uniprot.org/taxonomy/5507", 
+            "o": "http://linkedlifedata.com/resource/#_2503"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://linkedlifedata.com/resource/#_2503", 
+            "o": "FOM24"
+        }
+    ], 
+    "ideal_answer": [
+        "Panama disease of banana is caused by the fungus Fusarium oxysporum f. sp. cubense."
+    ], 
+    "exact_answer": [
+        "Fusarium oxysporum f. sp. cubense"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010176", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010935"
+    ], 
+    "type": "factoid", 
+    "id": "56b7083376d8bf8d13000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Fusarium oxysporum f. sp. cubense (Foc), the causal agent of Fusarium wilt (Panama disease), is one of the most devastating diseases of banana (Musa spp.)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24376590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 13, 
+            "offsetInEndSection": 322, 
+            "text": "avendish, the most widely grown banana cultivar, is relatively resistant to Race 1 of Fusarium oxysporum f. sp. cubense (Foc1) which caused widespread Panama disease during the first half of the 20th century but is susceptible to Tropical Race 4 of Foc (Foc TR4) which is threatening world banana production. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24304681", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 361, 
+            "offsetInEndSection": 454, 
+            "text": "Fusarium oxysporum f. sp. cubense race 4 (FOC), the causal agent of Panama disease in banana,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23355016", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 144, 
+            "offsetInEndSection": 213, 
+            "text": "Fusarium oxysporum f.sp. cubense, a causative agent of Panama disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25969777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 110, 
+            "text": "Fusarium wilt of banana (also known as Panama disease) is caused by Fusarium oxysporum f. sp. cubense", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18943184", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 323, 
+            "text": " inoculated with Fusarium oxysporum f.sp. cubense (FOC), Race 4, the causal agent of Panama disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12926878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 76, 
+            "text": "the fungus causing Panama disease of banana", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9482835", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Panama disease of banana, caused by the fungus Fusarium oxysporum f. sp. cubense, is a serious constraint both to the commercial production of banana and cultivation for subsistence agriculture", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9482835", 
+            "endSection": "abstract"
+        }
+    ]
+}

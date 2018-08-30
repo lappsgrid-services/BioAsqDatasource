@@ -1,0 +1,277 @@
+{
+    "body": "what is the role of MEF-2 in cardiomyocyte differentiation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19498465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17158926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8366095", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22850285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23261540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12663654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22199256", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24091702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10790371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9857019"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/A2ICN5", 
+            "o": "http://purl.uniprot.org/go/0030154"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0030154", 
+            "o": "http://www.geneontology.org/go#GO:0030154"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A2ICN5", 
+            "o": "http://linkedlifedata.com/resource/#_413249434E3500C"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0030154", 
+            "o": "cell differentiation"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413249434E3500C", 
+            "o": "Myocyte-specific enhancer factor 2A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/A2VDZ3", 
+            "o": "http://purl.uniprot.org/go/0030154"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A2VDZ3", 
+            "o": "http://linkedlifedata.com/resource/#_413256445A3300B"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413256445A3300B", 
+            "o": "Myocyte-specific enhancer factor 2A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q5REW7", 
+            "o": "http://purl.uniprot.org/go/0030154"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q5REW7", 
+            "o": "http://linkedlifedata.com/resource/#_51355245573700A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51355245573700A", 
+            "o": "Myocyte-specific enhancer factor 2A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q9W6U8", 
+            "o": "http://purl.uniprot.org/go/0030154"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q9W6U8", 
+            "o": "http://linkedlifedata.com/resource/#_513957365538009"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513957365538009", 
+            "o": "Myocyte-specific enhancer factor 2A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q8CFN5", 
+            "o": "http://purl.uniprot.org/go/0003211"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0003211", 
+            "o": "http://www.geneontology.org/go#GO:0003211"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q8CFN5", 
+            "o": "http://linkedlifedata.com/resource/#_513843464E35001D"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513843464E35001D", 
+            "o": "Myocyte-specific enhancer factor 2C"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0003211", 
+            "o": "cardiac ventricle formation"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/A2ICN5", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0030154"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0030154", 
+            "o": "cell differentiation"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/A2VDZ3", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0030154"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q5REW7", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0030154"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q9W6U8", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0030154"
+        }
+    ], 
+    "ideal_answer": [
+        "The myocyte enhancer factor-2 (MEF2) proteins are MADS-box transcription factors that are essential for differentiation of all muscle lineages but their mechanisms of action remain largely undefined. MEF2C expression initiates cardiomyogenesis, resulting in the up-regulation of Brachyury T, bone morphogenetic protein-4, Nkx2-5, GATA-4, cardiac alpha-actin, and myosin heavy chain expression. Inactivation of the MEF2C gene causes cardiac developmental arrest and severe downregulation of a number of cardiac markers including atrial natriuretic factor (ANF). BMP-2, a regulator of cardiac development during embryogenesis, was shown to increase PI 3-kinase activity in cardiac precursor cells, resulting in increased expression of sarcomeric myosin heavy chain (MHC) and MEF-2A. Furthermore, expression of MEF-2A increased MHC expression in a PI 3-kinase-dependent manner. Other studies showed that Gli2 and MEF2C proteins form a complex, capable of synergizing on cardiomyogenesis-related promoters. Dominant interference of calcineurin/mAKAP binding blunts the increase in MEF2 transcriptional activity seen during myoblast differentiation, as well as the expression of endogenous MEF2-target genes. These findings show that MEF-2 can direct early stages of cell differentiation into a cardiomyogenic pathway."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D032383", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035051", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064326"
+    ], 
+    "type": "summary", 
+    "id": "532f043ed6d3ac6a34000023", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 297, 
+            "text": "The growth and differentiation factor bone morphogenetic protein-2 (BMP-2) regulates cardiac development during vertebrate embryogenesis. In cardiac precursor cells, BMP-2 has recently been shown to induce expression of cardiac transcription factors, including myocyte enhancer factor 2A (MEF-2A).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12663654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 525, 
+            "offsetInEndSection": 689, 
+            "text": "BMP-2 increased PI 3-kinase activity in these cells in a time-dependent manner, resulting in increased expression of sarcomeric myosin heavy chain (MHC) and MEF-2A.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12663654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1545, 
+            "offsetInEndSection": 1637, 
+            "text": "Furthermore expression of MEF-2A increased MHC expression in a PI 3-kinase-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12663654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 465, 
+            "offsetInEndSection": 773, 
+            "text": "Gene expression profiling revealed decreased levels of transcription factors transforming growth factor-\u03b2/bone morphogenetic protein, serum response factor, GATA4, and myocyte enhancer factor 2, linked to increased Ca(2+)-dependent calcineurin activity and Notch1 signaling that impaired ESC differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24091702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 895, 
+            "offsetInEndSection": 1221, 
+            "text": "Dominant interference of calcineurin/mAKAP binding blunts the increase in MEF2 transcriptional activity seen during myoblast differentiation, as well as the expression of endogenous MEF2-target genes. Furthermore, disruption of calcineurin binding to mAKAP in cardiac myocytes inhibits adrenergic-induced cellular hypertrophy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23261540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 1088, 
+            "text": "Hypertrophic agonist stimulation of neonatal ventricular cardiomyocytes increased Mef2 expression by enhancing its translation, without changing its transcription or blocking degradation of the protein. MEF2 abundance was increased by Calcineurin overexpression in vivo and was reduced by Calcineurin inhibition in vitro, without affecting Mef2 mRNA levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22850285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 735, 
+            "offsetInEndSection": 1321, 
+            "text": "In addition, chromatin immunoprecipitation (ChIP) revealed association of Gli2 to the Mef2c gene, and of MEF2C to the Gli2 gene in differentiating P19 cells. Finally, co-immunoprecipitation studies showed that Gli2 and MEF2C proteins formed a complex, capable of synergizing on cardiomyogenesis-related promoters containing both Gli- and MEF2-binding elements. We propose a model whereby Gli2 and MEF2C bind each other's regulatory elements, activate each other's expression and form a protein complex that synergistically activates transcription, enhancing cardiac muscle development. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22199256", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 412, 
+            "offsetInEndSection": 635, 
+            "text": "MC1568 arrests myogenesis by (i) decreasing myocyte enhancer factor 2D (MEF2D) expression, (ii) by stabilizing the HDAC4-HDAC3-MEF2D complex, and (iii) paradoxically, by inhibiting differentiation-induced MEF2D acetylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19498465", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 331, 
+            "text": "The myocyte enhancer factor 2 (MEF2) family of transcription factors is not only important for controlling gene expression in normal cellular programs, like muscle differentiation, T-cell apoptosis, neuronal survival, and synaptic differentiation, but has also been linked to cardiac hypertrophy and other pathological conditions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17158926", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1215, 
+            "offsetInEndSection": 1534, 
+            "text": "Furthermore, the nuclear receptor corepressor SMRT (silencing mediator of retinoid acid and thyroid hormone receptor) stimulated the deacetylase activity of HDAC3 towards MEF2 and PCAF. Supporting the physical interaction and deacetylase activity, HDAC3 repressed MEF2-dependent transcription and inhibited myogenesis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17158926", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "The myocyte enhancer factor-2 (MEF2) proteins are MADS-box transcription factors that are essential for differentiation of all muscle lineages but their mechanisms of action remain largely undefined. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 331, 
+            "offsetInEndSection": 497, 
+            "text": "Inactivation of the MEF2C gene causes cardiac developmental arrest and severe downregulation of a number of cardiac markers including atrial natriuretic factor (ANF).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 733, 
+            "offsetInEndSection": 967, 
+            "text": "We provide evidence that MEF2 proteins are recruited to target promoters by the cell-specific GATA transcription factors, and that MEF2 potentiates the transcriptional activity of this family of tissue-restricted zinc finger proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10790371", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 737, 
+            "text": "During differentiation into cardiac muscle, Nkx2-5 expression resulted in the activation of myocyte enhancer factor 2C (MEF2C), but not MEF2A, -B, or -D", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9857019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 901, 
+            "offsetInEndSection": 1113, 
+            "text": "Similar to Nkx2-5, MEF2C expression initiated cardiomyogenesis, resulting in the up-regulation of Brachyury T, bone morphogenetic protein-4, Nkx2-5, GATA-4, cardiac alpha-actin, and myosin heavy chain expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9857019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1114, 
+            "offsetInEndSection": 1314, 
+            "text": "These findings indicate the presence of a positive regulatory network between Nkx2-5 and MEF2C and show that both factors can direct early stages of cell differentiation into a cardiomyogenic pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9857019", 
+            "endSection": "abstract"
+        }
+    ]
+}

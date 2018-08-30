@@ -1,0 +1,159 @@
+{
+    "body": "What memory problems are reported in the \" Gulf war syndrome\"", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15251045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11600803", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9005271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14515407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9096828", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11478226"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "UMLS_CUI:C0282550"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "persian gulf syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "Gulf war syndrome (disorder)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "SNOMEDCT_2010_1_31:95877004"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "MSH2010_2010_02_22:D018923"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1393478", 
+            "o": "0000013450"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0681713", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1393478"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1393478", 
+            "o": "Persian Gulf War period"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0681713", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1393478"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:4491", 
+            "o": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:3231"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:3231", 
+            "o": "occupational disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:3231", 
+            "o": "Occupational disorder (disorder)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:3231", 
+            "o": "occupational disorder"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/condition/5434", 
+            "o": "http://dbpedia.org/resource/Gulf_War_syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/condition/5434", 
+            "o": "http://yago.org/resource/Gulf_War_syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/condition/5434", 
+            "o": "Condition #5434 (Gulf War Syndrome)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/condition_name", 
+            "s": "http://data.linkedct.org/resource/condition/5434", 
+            "o": "Gulf War Syndrome"
+        }
+    ], 
+    "ideal_answer": [
+        "memory loss"
+    ], 
+    "exact_answer": [
+        "memory loss"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018923"
+    ], 
+    "type": "factoid", 
+    "id": "52f896d62059c6d71c000046", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1309, 
+            "offsetInEndSection": 1320, 
+            "text": "memory loss", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15251045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 887, 
+            "offsetInEndSection": 902, 
+            "text": "loss of memory,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14515407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 169, 
+            "offsetInEndSection": 184, 
+            "text": " loss of memory", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11600803", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 392, 
+            "offsetInEndSection": 401, 
+            "text": "dysmnesia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11478226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1292, 
+            "offsetInEndSection": 1307, 
+            "text": "memory problems", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9096828", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1051, 
+            "offsetInEndSection": 1204, 
+            "text": "\"impaired cognition,\" characterized by problems with attention, memory, and reasoning, as well as insomnia, depression, daytime sleepiness, and headaches", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9005271", 
+            "endSection": "abstract"
+        }
+    ]
+}

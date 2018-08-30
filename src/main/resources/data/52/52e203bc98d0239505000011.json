@@ -1,0 +1,104 @@
+{
+    "body": "Which are the most under-represented oligonucleotides in higher eukaryote genomes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12943801", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7498525", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12112308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9725240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19536338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7504188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8893856", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1741388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16531485", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8543806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3996596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11070050"
+    ], 
+    "ideal_answer": [
+        "The oligonucleotides containing the CG and TA dinucleotide are generally under-represented in higher eukaryote genomes", 
+        "TpA is the most underepresented dinucleotide followed closely by CpG. For trinucleotides, GCA/TGC tends to be under-represented in phage, human viral, and eukaryotic sequences, and CTA/TAG is strongly under-represented in many prokaryotic, eukaryotic, and viral sequences. For higher lengts alternating Purine/Pyrimidine tracts are underepresented up to 60%.", 
+        "Oligonucleotides containing CG and TA dinucleoides"
+    ], 
+    "exact_answer": [
+        [
+            "TA"
+        ], 
+        [
+            "CG"
+        ], 
+        [
+            "(PuPy)n"
+        ], 
+        [
+            "GCA/TGC"
+        ], 
+        [
+            "CTA/TAG"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056890", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016678", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009841"
+    ], 
+    "type": "list", 
+    "id": "52e203bc98d0239505000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Unusual frequencies of certain alternating purine-pyrimidine runs in natural DNA sequences", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3996596", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 379, 
+            "offsetInEndSection": 624, 
+            "text": "Octanucleotides are the most deficient, occurring at only 60% of the frequency expected in random sequences. An unexpectedly high proportion of these octamers consists of alternating tetramers with the repeat structure (PuPyPuPy)2 or (PyPuPyPu)2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3996596", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 488, 
+            "text": "For dinucleotides, TA is almost universally under-represented, with the exception of vertebrate mitochondrial genomes, and CG is strongly under-represented in vertebrates and in mitochondrial genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1741388", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 903, 
+            "offsetInEndSection": 1104, 
+            "text": "For trinucleotides, GCA.TGC tends to be under-represented in phage, human viral, and eukaryotic sequences, and CTA.TAG is strongly under-represented in many prokaryotic, eukaryotic, and viral sequences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1741388", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 153, 
+            "offsetInEndSection": 252, 
+            "text": "The dinucleotide CpG is significantly under-represented in vertebrate DNA and is usually methylated", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8543806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 394, 
+            "text": "One such pattern recognition system is based on unmethylated CpG dinucleotides in particular sequence contexts (CpG motifs); these motifs are common in bacterial DNA but are under-represented (\"CpG suppression\") and methylated in vertebrate DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9725240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 976, 
+            "offsetInEndSection": 1318, 
+            "text": "We argue that the significant under-represented motif pattern of CpG in an AU context--which is found in both the ssRNA viruses and innate genes, and has decreased throughout the history of H1N1 influenza replication in humans--is immunostimulatory and has been selected against during the co-evolution of viruses and host innate immune genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19536338", 
+            "endSection": "abstract"
+        }
+    ]
+}

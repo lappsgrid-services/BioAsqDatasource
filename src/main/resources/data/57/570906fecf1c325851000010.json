@@ -1,0 +1,230 @@
+{
+    "body": "What is the effect that EZH2 has on chromatin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19026781", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18980972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24040281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20631058", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19954516", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22821416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22966008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25617436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15520282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9214638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24077602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25680271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21892963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23688634"
+    ], 
+    "ideal_answer": [
+        "Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms", 
+        "Ez that catalyzes di- and trimethylation of histone H3 lysine 27 (H3K37me2/3), marks repressive to transcription. The mammalian homologs Ezh1 and Ezh2 form similar PRC2 complexes but exhibit contrasting repressive roles. PRC2-Ezh2 catalyzes H3K27me2/3 and its knockdown affects global H3K27me2/3 levels. EZH2 thus maintains chromatin in a repressive state."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/EZH2_HUMAN", 
+        "http://www.uniprot.org/uniprot/EZH2A_XENLA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002843", 
+        "http://www.uniprot.org/uniprot/EZH2_MOUSE", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000785", 
+        "http://www.uniprot.org/uniprot/EZH2_XENTR", 
+        "http://www.uniprot.org/uniprot/EZH2_DANRE", 
+        "http://www.uniprot.org/uniprot/EZH2_MACFA", 
+        "http://www.uniprot.org/uniprot/EZH2B_XENLA"
+    ], 
+    "type": "summary", 
+    "id": "570906fecf1c325851000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026781", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 399, 
+            "text": "Ez that catalyzes di- and trimethylation of histone H3 lysine 27 (H3K37me2/3), marks repressive to transcription. We report that the mammalian homologs Ezh1 and Ezh2 form similar PRC2 complexes but exhibit contrasting repressive roles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026781", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1027, 
+            "offsetInEndSection": 1185, 
+            "text": "During progenitor cell differentiation and ageing, PcG silencer EZH2 attenuates, causing loss of PRC binding and transcriptional activation of INK4b and INK4a", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19954516", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 780, 
+            "text": "the PRC2-Ezh2 complex, which is bound to the myogenin (MyoG) promoter and muscle creatine kinase (mCK) enhancer in proliferating myoblasts, and the PRC2-Ezh1 complex, which replaces PRC2-Ezh2 on MyoG promoter in post-mitotic myotubes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21892963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 394, 
+            "offsetInEndSection": 564, 
+            "text": "In this study, we found the inverse correlation between FOXP3 and Ezh2, an enzyme for histone H3K27 trimethylation (H3K27me3) and a central epigenetic regulator in cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23688634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "The chromatin-modifying enzyme Ezh2 is critical for the maintenance of regulatory T cell identity after activation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25680271", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 427, 
+            "text": "CD28 co-stimulation, an extracellular cue intrinsically required for Treg cell maintenance, induced the chromatin-modifying enzyme, Ezh2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25680271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 617, 
+            "text": "Treg-specific ablation of Ezh2 resulted in spontaneous autoimmunity with reduced Foxp3(+) cells in non-lymphoid tissues and impaired resolution of experimental autoimmune encephalomyelitis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25680271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1007, 
+            "offsetInEndSection": 1120, 
+            "text": "These studies reveal a critical role for Ezh2 in the maintenance of Treg cell identity during cellular activation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25680271", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 842, 
+            "offsetInEndSection": 1037, 
+            "text": "We assessed the effect of efficient RNA interference-mediated knockdown of EZH2 on RUNX3 levels, cell viability and H3K27 trimethylation of the RUNX3 promoter using chromatin immunoprecipitation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20631058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1701, 
+            "offsetInEndSection": 1960, 
+            "text": "We found that siRNAs Ezh2 and post-transcriptional silencing of Ezh2 by let-7 g rescued this effect suggesting that Ezh2 up-regulation is in part responsible for increased H3K27me3 and decreased rates of up-regulation of differentiation genes in Dicer(-/-)ES.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24040281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Enhancer of zeste homologue 2 (EZH2), a histone methyltransferase, plays a key role in transcriptional repression through chromatin remodeling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18980972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1183, 
+            "offsetInEndSection": 1339, 
+            "text": "Chromatin immunoprecipitation analysis revealed binding of EZH2 at the p57kip2 promoter and reduction of histone H3K27 trimethylation upon gene suppression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22821416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1066, 
+            "offsetInEndSection": 1490, 
+            "text": "The E(z) gene family reveals a striking functional conservation in mediating gene repression in eukaryotic chromatin: extra gene copies of human EZH2 or Drosophila E(z) in transgenic flies enhance position effect variegation of the heterochromatin-associated white gene, and expression of either human EZH2 or murine Ezh1 restores gene repression in Saccharomyces cerevisiae mutants that are impaired in telomeric silencing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9214638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1102, 
+            "offsetInEndSection": 1228, 
+            "text": "The authors further showed that forced expression of SAFB1 increases H3K27me3 at AR target loci and this effect requires EZH2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24077602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 651, 
+            "offsetInEndSection": 847, 
+            "text": "We assessed the effect of efficient RNA interference-mediated knockdown of EZH2 on RUNX3 levels, cell viability and H3K27 trimethylation of the RUNX3 promoter using chromatin immunoprecipitation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20631058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 290, 
+            "text": "Enhancer of zeste homologue 2 (EZH2), a histone methyltransferase, plays a key role in transcriptional repression through chromatin remodeling. Our objectives were to determine the expression pattern of EZH2 and to assess the anticancer effect of EZH2 depletion in pancreatic cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18980972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 652, 
+            "offsetInEndSection": 847, 
+            "text": "We assessed the effect of efficient RNA interference-mediated knockdown of EZH2 on RUNX3 levels, cell viability and H3K27 trimethylation of the RUNX3 promoter using chromatin immunoprecipitation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20631058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 875, 
+            "offsetInEndSection": 1165, 
+            "text": "EZH2 interacts directly with Snail2, and Snail2 fails to expand the neural crest domains in the absence of Ezh2. Chromatin immunoprecipitation analysis shows that Snail2 regulates EZH2 occupancy and histone H3K27 trimethylation levels at the promoter region of the Snail2 target E-cadherin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25617436", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 863, 
+            "offsetInEndSection": 1123, 
+            "text": "To identify direct target genes of Ezh2, we performed chromatin immunoprecipitation experiments followed by whole-genome promoter arrays (chromatin immunoprecipitation-on-chip) and identified 5585 genes associated with trimethylation of lysine 27 in histone 3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22966008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1035, 
+            "offsetInEndSection": 1191, 
+            "text": "Chromatin immunoprecipitation analysis revealed binding of EZH2 at the p57kip2 promoter and reduction of histone H3K27 trimethylation upon gene suppression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22821416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 834, 
+            "offsetInEndSection": 973, 
+            "text": "YY1 was required for Ezh2 binding because RNA interference of YY1 abrogated chromatin recruitment of Ezh2 and prevented H3-K27 methylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15520282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 988, 
+            "offsetInEndSection": 1165, 
+            "text": "Chromatin immunoprecipitation analysis shows that Snail2 regulates EZH2 occupancy and histone H3K27 trimethylation levels at the promoter region of the Snail2 target E-cadherin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25617436", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19026781", 
+            "endSection": "title"
+        }
+    ]
+}

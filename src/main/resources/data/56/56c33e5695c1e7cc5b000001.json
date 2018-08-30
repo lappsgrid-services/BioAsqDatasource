@@ -1,0 +1,96 @@
+{
+    "body": "In which nuclear compartments is heterochromatin located?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23834025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16254244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12432450", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22251972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20026667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19889207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21283637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15564378"
+    ], 
+    "ideal_answer": [
+        "This compartment localizes into three main regions: the peripheral heterochromatin, perinucleolar heterochromatin, and pericentromeric heterochromatin. Silencing appears to be associated with histone H3 lysine 9 trimethylation (H3K9me3), DNA methylation and the localization of the silenced gene to a specific nuclear compartment enriched in these modification"
+    ], 
+    "exact_answer": [
+        [
+            "peripheral heterochromatin"
+        ], 
+        [
+            "perinucleolar heterochromatin"
+        ], 
+        [
+            "pericentromeric heterochromatin"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0051276", 
+        "http://amigo.geneontology.org/amigo/term/GO:0070828", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000785", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000792", 
+        "http://amigo.geneontology.org/amigo/term/GO:0031507", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006570", 
+        "http://amigo.geneontology.org/amigo/term/GO:0005720"
+    ], 
+    "type": "list", 
+    "id": "56c33e5695c1e7cc5b000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 260, 
+            "offsetInEndSection": 410, 
+            "text": "This compartment localizes into three main regions: the peripheral heterochromatin, perinucleolar heterochromatin, and pericentromeric heterochromatin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23834025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 686, 
+            "offsetInEndSection": 967, 
+            "text": "By separating cells according to transgene expression we show here that silencing appears to be associated with histone H3 lysine 9 trimethylation (H3K9me3), DNA methylation and the localization of the silenced gene to a specific nuclear compartment enriched in these modifications", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19889207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "The cell nucleus is divided into chromosome territories and the extrachromosomal domain. The latter includes several structural and functional compartments involved in RNA processing and transport.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12432450", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 798, 
+            "offsetInEndSection": 1001, 
+            "text": "We also describe a new apocentric nuclear compartment with a unique set of histone modifications that occurs as a zone of chromatin surrounding centromeric heterochromatin in differentiated lymphocytes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15564378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Little is known about the mechanisms of gene targeting within the nucleus and its effect on gene expression, but most studies have concluded that genes located near the nuclear periphery are silenced by heterochromatin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22251972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 894, 
+            "offsetInEndSection": 1129, 
+            "text": "After TSA and NaBt treatment, the HP1 proteins were repositioned more internally in the nucleus, being closely associated with interchromatin compartments, while centromeric heterochromatin was relocated closer to the nuclear periphery", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16254244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 850, 
+            "text": "Taking into account the different heterochromatic and euchromatic compartments of the genome, our data suggest that the relative abundance of Ty3/gypsy LTRrs along each chromosome arm is determined mainly by the different proportions of heterochromatin, particularly pericentric heterochromatin, relative to total arm length", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21283637", 
+            "endSection": "abstract"
+        }
+    ]
+}

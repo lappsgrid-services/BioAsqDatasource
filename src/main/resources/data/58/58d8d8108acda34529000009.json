@@ -1,0 +1,392 @@
+{
+    "body": "Which mutated genes are associated with isolated ectopia lentis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20702823", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20082464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24406422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22871183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18079676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22539873", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19390640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26653794", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21989719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25975359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25654236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23426735", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17679947", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21051722", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22219643", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20141359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19200529"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1705285", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A19043125"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A19043125", 
+            "o": "Mutated"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851286", 
+            "o": "Ectopia lentis isolated"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1851286", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18467573"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1705285", 
+            "o": "mutation"
+        }
+    ], 
+    "ideal_answer": [
+        "Isolated ectopia lentis (EL) is caused by mutation in genes:\n1) ADAMTSL4 and \n2) Fibrillin-1 (FBN1)."
+    ], 
+    "exact_answer": [
+        [
+            "ADAMTSL4"
+        ], 
+        [
+            "Fibrillin-1", 
+            "FBN1"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004479"
+    ], 
+    "type": "list", 
+    "id": "58d8d8108acda34529000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "A founder mutation in ADAMTSL4 causes early-onset bilateral ectopia lentis among Jews of Bukharian origin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26653794", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 421, 
+            "text": "The term isolated ectopia lentis (EL; subluxation or dislocation of the human crystalline lens) is applied to patients with EL, without skeletal features and in the absence of aortic root dilatation. To date, the only gene shown to cause autosomal-recessive isolated EL is ADAMTSL4. Here we report a novel founder mutation in ADAMTSL4 gene in children of Bukharian Jewish origin presenting with early-onset bilateral EL. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26653794", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Early onset ectopia lentis due to a FBN1 mutation with non-penetrance.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Isolated ectopia lentis is usually autosomal dominant and commonly due to the mutations of FBN1 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 810, 
+            "text": "In conclusion, we report on a case of early-onset autosomal dominant isolated ectopia lentis caused by FBN1 mutation that has previously been reported only in Marfan syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "ADAMTSL4-associated isolated ectopia lentis: Further patients, novel mutations and a detailed phenotype description.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25975359", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "ADAMTSL4 mutations seem to be the most common cause of isolated ectoplia lentis (EL) and thus are important concerning the differential diagnosis of connective tissue syndromes with EL as main feature. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25975359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "A genotype-phenotype comparison of ADAMTSL4 and FBN1 in isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 168, 
+            "text": "To describe the genotype-phenotype relationship of a cohort of consecutive patients with isolated ectopia lentis (EL) secondary to ADAMTSL4 and FBN1 mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1389, 
+            "offsetInEndSection": 1769, 
+            "text": "ADAMTSL4 is the most important known causative gene in isolated EL. Mutations in ADAMTSL4 appear to cause earlier manifestation of EL and are associated with increased axial length as compared to FBN1. We suggest that ADAMTSL4 be screened in all patients with isolated EL and that physicians be vigilant for the more severe ocular phenotype associated with mutations in this gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "A novel FBN1 mutation in a Chinese family with isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22539873", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 101, 
+            "text": "To identify the genetic defect in an autosomal dominant isolated ectopia lentis (EL) family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22539873", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 974, 
+            "offsetInEndSection": 1144, 
+            "text": "A novel mutation of FBN1 results in an arginine to cysteine residue (p.R974C) substitution, which is responsible for the patients with isolated EL in this Chinese family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22539873", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "A homozygous mutation in ADAMTSL4 causes autosomal-recessive isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19200529", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Isolated ectopia lentis is usually autosomal dominant and commonly due to the mutations of FBN1 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "To examine the fibrillin-1 (FBN1) gene for mutations in members of a Chinese family with isolated ectopia lentis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Ophthalmic findings in a family with early-onset isolated ectopia lentis and the p.Arg62Cys mutation of the fibrillin-1 gene (FBN1).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Craniosynostosis with ectopia lentis and a homozygous 20-base deletion in ADAMTSL4.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22871183", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "ADAMTSL4-associated isolated ectopia lentis: Further patients, novel mutations and a detailed phenotype description", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25975359", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1200, 
+            "offsetInEndSection": 1509, 
+            "text": "Our study presented detailed clinical manifestations, including some novel ophthalmic findings, such as pupillary abnormality, different types of glaucoma, and progressive hyperopia.Ophthalmic findings and the p.Arg62Cys mutation of FBN1 gene were reported in a family with early-onset isolated ectopia lentis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "To examine the fibrillin-1 (FBN1) gene for mutations in members of a Chinese family with isolated ectopia lentis.Clinically relevant laboratory investigation.Family members underwent clinical examinations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Ophthalmic findings in a family with early-onset isolated ectopia lentis and the p.Arg62Cys mutation of the fibrillin-1 gene (FBN1)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 335, 
+            "offsetInEndSection": 920, 
+            "text": "The 65 exons of FBN1 were amplified by polymerase chain reaction and screened for mutations by a combination of denaturing high-performance liquid chromatography analysis and direct DNA sequencing.A mutation, c.184C-->T in exon 2 of FBN1, which results in substitution of arginine by cysteine at position 62 of the fibrillin-1 protein (p.R62C) in all affected family members but in none of the unaffected individuals.A recurrent mutation of FBN1 gene resulted in an arginine-to-cysteine residue (p.R62C), is responsible for the patients with isolated ectopia lentis in a Chinese family", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Isolated ectopia lentis is usually autosomal dominant and commonly due to the mutations of FBN1 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25900864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 672, 
+            "offsetInEndSection": 846, 
+            "text": "CONCLUSIONS: The results emphasize the association of ADAMTSL4 null mutations with isolated ectopia lentis and the presence of a founder mutation in the European population. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21051722", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 740, 
+            "offsetInEndSection": 1052, 
+            "text": "Herein we show a consanguineous family that carries a novel homozygous splice mutation IVS4-1G>A/IVS4-1G>A in ADAMTSL4 responsible for isolated autosomal recessive EL, thus confirming the involvement of this gene in this condition and underlining the major role of ADAMTS proteases in zonular fibers homeostasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20141359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Two novel FBN1 mutations associated with ectopia lentis and marfanoid habitus in two Chinese families.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19390640", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Novel FBN1 mutations associated with predominant ectopia lentis and marfanoid habitus in Chinese patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17679947", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 203, 
+            "offsetInEndSection": 402, 
+            "text": "FBN1 mutations are associated with multiple clinical phenotypes, including Marfan syndrome (MFS), MASS phenotype, and familial ectopia lentis, but rarely with isolated aortic aneurysm and dissection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20082464", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 387, 
+            "text": "This was correlated with Sanger sequencing of ADAMTSL4 and FBN1 genes.Seventeen patients were examined, including one with ectopia lentis et pupillae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 619, 
+            "offsetInEndSection": 739, 
+            "text": "Recently, ADAMTSL4 has been shown to be responsible for isolated autosomal recessive ectopia lentis in an inbred family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20141359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Confirmation of ADAMTSL4 mutations for autosomal recessive isolated bilateral ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20141359", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "A recurrent FBN1 mutation in an autosomal dominant ectopia lentis family of Indian origin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18079676", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1558, 
+            "offsetInEndSection": 1737, 
+            "text": "We suggest that ADAMTSL4 be screened in all patients with isolated EL and that physicians be vigilant for the more severe ocular phenotype associated with mutations in this gene..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "A homozygous mutation in ADAMTSL4 causes autosomal-recessive isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19200529", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Recurrent FBN1 mutation (R62C) in a Chinese family with isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "A genotype-phenotype comparison of ADAMTSL4 and FBN1 in isolated ectopia lentis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22736615", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1385, 
+            "offsetInEndSection": 1514, 
+            "text": "Ophthalmic findings and the p.Arg62Cys mutation of FBN1 gene were reported in a family with early-onset isolated ectopia lentis..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Ophthalmic findings in a family with early-onset isolated ectopia lentis and the p.Arg62Cys mutation of the fibrillin-1 gene (FBN1).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22950452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 756, 
+            "offsetInEndSection": 926, 
+            "text": "A recurrent mutation of FBN1 gene resulted in an arginine-to-cysteine residue (p.R62C), is responsible for the patients with isolated ectopia lentis in a Chinese family..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16765689", 
+            "endSection": "abstract"
+        }
+    ]
+}

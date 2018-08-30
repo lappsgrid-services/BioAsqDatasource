@@ -1,0 +1,77 @@
+{
+    "body": "What is the association between moon cycle and rupture risk  of intracranial aneurysms?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19101078", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18353534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23702791"
+    ], 
+    "ideal_answer": [
+        "It has been reported that moon phases correlate with the incidence of aneurysmal subarachnoid hemorrhage due to ruptured intracranial aneurysms. However, other authors have found no correlation between incidence of aneurysmal SAH, location of the aneurysm, initial clinical presentation, or amount of subarachnoid blood and the lunar cycle."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017542", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002532", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016081", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10941"
+    ], 
+    "type": "summary", 
+    "id": "530cefaaad0bf1360c000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 288, 
+            "text": "Recently, it has been reported that moon phases correlate with the incidence of aneurysmal subarachnoid hemorrhage (SAH), however, another author found no such association. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23702791", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 778, 
+            "offsetInEndSection": 949, 
+            "text": "We found no correlation between incidence of aneurysmal SAH, location of the aneurysm, initial clinical presentation, or amount of subarachnoid blood and the lunar cycle. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23702791", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 962, 
+            "offsetInEndSection": 1106, 
+            "text": "The moon influences neither the incidence of aneurysmal SAH nor the grade of initial neurological deterioration or amount of subarachnoid blood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23702791", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 348, 
+            "offsetInEndSection": 502, 
+            "text": "We did not observe any significant impact of the lunar cycle on the incidence of aneurysmal subarachnoid haemorrhage in 717 consecutive patients (p=0.84).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19101078", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 615, 
+            "text": "The impact of the lunar cycle on aneurysmal subarachnoid haemorrhage is a myth rather than reality.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19101078", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 380, 
+            "offsetInEndSection": 520, 
+            "text": "An incidence peak for aneurysm rupture (28 patients) was seen during the phase of new moon, which was statistically significant (p < 0.001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18353534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 607, 
+            "offsetInEndSection": 763, 
+            "text": "The lunar cycle seems to affect the incidence of intracranial aneurysm rupture, with the new moon being associated with an increased risk of aneurysmal SAH.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18353534", 
+            "endSection": "abstract"
+        }
+    ]
+}

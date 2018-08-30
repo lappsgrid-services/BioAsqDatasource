@@ -1,0 +1,85 @@
+{
+    "body": "Which are the musculoskeletal manifestations of Marfan syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21971724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20686061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6481730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17620463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19726741"
+    ], 
+    "ideal_answer": [
+        "Musculoskeletal manifestations of Marfan syndrome include scoliosis, dural ectasia, pectus excavatum and carinatum, arachnodactyly, otto pelvis (protrusio acetabuli), dolichostenomelia and ligamentous laxity."
+    ], 
+    "exact_answer": [
+        [
+            "scoliosis"
+        ], 
+        [
+            "dural ectasia"
+        ], 
+        [
+            "pectus excavatum and carinatum"
+        ], 
+        [
+            "arachnodactyly"
+        ], 
+        [
+            "otto pelvis", 
+            "protrusio acetabuli"
+        ], 
+        [
+            "dolichostenomelia"
+        ], 
+        [
+            "ligamentous laxity"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008382", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009141"
+    ], 
+    "type": "list", 
+    "id": "532f0b2cd6d3ac6a3400002c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 220, 
+            "offsetInEndSection": 329, 
+            "text": "Musculoskeletal manifestations include scoliosis, dural ectasia, protrusio acetabuli, and ligamentous laxity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19726741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 587, 
+            "text": "Scoliosis, pectus excavatum and carinatum, arachnodactyly, and acetabular protrusion are common musculoskeletal manifestations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17620463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 308, 
+            "text": "Two cases are described in which protrusio acetabuli was a major problem. Otto pelvis should be considered as one of the musculoskeletal manifestations of Marfan's syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6481730", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1415, 
+            "offsetInEndSection": 1594, 
+            "text": "The following musculoskeletal abnormalities were found: pectus in 3 patients (11%), pectus and scoliosis in 19 (73%), dolichostenomelia in 11 (42%) and arachnodactyly in 21 (80%).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21971724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1815, 
+            "offsetInEndSection": 2179, 
+            "text": "Musculoskeletal clinicians should be aware of the diagnostic features of Marfan syndrome. Patients with three to four physically evident features, or two highly specific features (e.g., thumb and wrist signs, craniofacial features, dural ectasia, or protrusio), should be carefully reexamined and possibly referred for an echocardiogram or a genetics consultation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20686061", 
+            "endSection": "abstract"
+        }
+    ]
+}

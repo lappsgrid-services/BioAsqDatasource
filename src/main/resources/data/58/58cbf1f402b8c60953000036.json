@@ -1,0 +1,150 @@
+{
+    "body": "What is the function of the DGAT1 gene product?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17592768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21264296", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15834126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15797871", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23539897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25687632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16534144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12825687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12407108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11481333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23055800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16130466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20876538"
+    ], 
+    "ideal_answer": [
+        "Diacylglycerol acyltransferase 1 (DGAT1) catalyzes the final step in the acyl-CoA-dependent triacylglycerol biosynthesis", 
+        "Diacylglycerol acyltransferase 1 (DGAT1) catalyzes the final step in the acyl-CoA-dependent triacylglycerol biosynthesis. . . . . ", 
+        "Diacylglycerol acyltransferase 1 (DGAT1) catalyzes the final step in the acyl-CoA-dependent triacylglycerol biosynthesis.", 
+        "Diacylglycerol acyltransferase 1 (DGAT1) catalyzes the final step in the acyl-CoA-dependent triacylglycerol biosynthesis, the enzyme catalyzes a key step in lipid biosynthesis.", 
+        "diacylglycerol acyltransferase 1 (dgat1) catalyzes the final step in the acyl-coa-dependent triacylglycerol biosynthesis."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/DGAT1_DICDI", 
+        "http://www.uniprot.org/uniprot/DGAT1_ARATH", 
+        "http://www.uniprot.org/uniprot/DGAT1_CHLAE", 
+        "http://www.uniprot.org/uniprot/DGAT1_HUMAN", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051048", 
+        "http://www.uniprot.org/uniprot/DGAT1_MOUSE", 
+        "http://www.uniprot.org/uniprot/DGAT1_BOVIN"
+    ], 
+    "type": "summary", 
+    "id": "58cbf1f402b8c60953000036", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Diacylglycerol acyltransferase 1 (DGAT1) catalyzes the final step in the acyl-CoA-dependent triacylglycerol biosynthesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25687632", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 283, 
+            "text": "This genomic area includes the DGAT1 gene, which encodes acyl-CoA:diacylglycerol acyltransferase 1, the key enzyme of triglyceride biosynthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16534144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 222, 
+            "text": "Diacylglycerol acyltransferase (DGAT1) is considered the key enzyme in controlling the rate of synthesis of triglycerides.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17592768", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Acyl-CoA:diacylglycerol acyltransferase-1 (DGAT1) catalyzes the final step of triglyceride synthesis in mammalian cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12407108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Diacylglycerol O-acyltransferase 1 (DGAT1) is a microsomal enzyme that catalyzes the final step of triglyceride synthesis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23055800", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 342, 
+            "text": "The enzyme 1,2-acylCoA:diacylglyceroltransferase-1 (DGAT1) esterifies a fatty acyl-CoA on DAG to form TAG.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21264296", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "DGAT1 is a microsomal enzyme that catalyses the final step in triglycerides synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16130466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Diacylglycerol-O-acyltransferase (DGAT1) gene encodes the rate-limiting enzyme of triglyceride synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24676595", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Acyl CoA:diacylglycerol acyltransferase (DGAT) is an integral membrane protein of the endoplasmic reticulum that catalyzes the synthesis of triacylglycerols", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20876538", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "The final step of triacylglycerol biosynthesis is catalyzed by acyl CoA:diacylglycerol acyltransferase (DGAT) enzymes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15834126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Triacylglycerol (TAG) is the major carbon storage reserve in oilseeds such as Arabidopsis. Acyl-CoA:diacylglycerol acyltransferase (DGAT) catalyses the final step of the TAG synthesis pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12825687", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Acyl-CoA:diacylglycerol acyltransferases (DGATs) catalyze the last step in triglyceride (TG) synthesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15797871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 892, 
+            "offsetInEndSection": 997, 
+            "text": " This study further confirmed the importance of DGAT1 in triglyceride synthesis in bovine mammary tissue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23539897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Acyl CoA:diacylgycerol acyltransferase (EC; DGAT) catalyzes the final step in the production of triacylglycerol. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11481333", 
+            "endSection": "abstract"
+        }
+    ]
+}

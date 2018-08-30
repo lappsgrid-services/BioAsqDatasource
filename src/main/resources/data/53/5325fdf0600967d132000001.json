@@ -1,0 +1,90 @@
+{
+    "body": "What is the gold standard treatment for Iatrogenic male incontinence?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19296976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17982750", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20877609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23259418"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10807588", 
+            "o": "C50597"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1708460", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10807588"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1708460", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10807588"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10807588", 
+            "o": "Iatrogenic Lesion"
+        }
+    ], 
+    "ideal_answer": [
+        "The artificial urethral sphincter has represented, until today, the gold standard but, in the recent years, sling systems have been investigated as minimally invasive alternative options."
+    ], 
+    "exact_answer": [
+        "Artificial urethral sphincter", 
+        "AUS"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014549", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013521", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053825", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014550", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D052801", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007049"
+    ], 
+    "type": "factoid", 
+    "id": "5325fdf0600967d132000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 779, 
+            "text": "The initial treatment for SUI that persists after 12 months consists of conservative measures such as pelvic floor muscle exercises and behavioral therapy. Properly selected and informed patients can also be treated efficiently with minimally invasive procedures such as the implantation of a male suburethral sling, although the experience with such devices is not extensive. However, the implantation of artificial urinary sphincter is the gold standard therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23259418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 557, 
+            "text": "treatments such as periurethral injection of bulking agents, artificial urinary sphincter (AUS) implantation, and sub-urethral sling positioning. The artificial urethral sphincter has represented, until today, the gold standard but, in the recent years, sling systems have been investigated as minimally invasive alternative options.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20877609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 558, 
+            "offsetInEndSection": 686, 
+            "text": "Today, three different sling procedures are commonly performed: bone-anchored, readjustable, and trans-obturator slings systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20877609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1782, 
+            "offsetInEndSection": 1981, 
+            "text": "The bone anchored suburethral synthetic sling is a simple and attractive procedure that can produce immediate good results with low morbidity, especially when strictly selected patients are treated. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19296976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1569, 
+            "offsetInEndSection": 1712, 
+            "text": "BAUS implantation is a safe, effective, minimally invasive option for iatrogenic male incontinence due to ISD. It compares favourably with AUS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17982750", 
+            "endSection": "abstract"
+        }
+    ]
+}

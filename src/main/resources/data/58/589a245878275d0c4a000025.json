@@ -1,0 +1,252 @@
+{
+    "body": "List scales that are used for scoring of patients with spinal metastasis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24212518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23179121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24120144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26713145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26160329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24912121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21223698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27584676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27080411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24869611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18787846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26602195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27018903", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25869337", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25085251"
+    ], 
+    "ideal_answer": [
+        "Tokuhashi, Tomita, Bauer, and Oswestry scores are used for survival prediction of patients with spinal metastases."
+    ], 
+    "exact_answer": [
+        [
+            "Tokuhashi"
+        ], 
+        [
+            "Tomita"
+        ], 
+        [
+            "Bauer"
+        ], 
+        [
+            "Oswestry"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009362"
+    ], 
+    "type": "list", 
+    "id": "589a245878275d0c4a000025", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 556, 
+            "offsetInEndSection": 682, 
+            "text": "METHODS: Outcomes of surgery, prognostic factors for survival, and relevance of Tomita and Tokuhashi scores were investigated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24120144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "PURPOSE: To assess variability in the use of Tomita and modified Bauer scores in spine metastases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25869337", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1111, 
+            "offsetInEndSection": 1213, 
+            "text": "Only the Tomita scoring system was shown to be an independent prognostic factor for overall survival. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26713145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1359, 
+            "offsetInEndSection": 1462, 
+            "text": ".CONCLUSION: The Tomita scoring system represents a practicable and highly predictive prognostic tool. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26713145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Analysis of the predictive role and new proposal for surgical strategies based on the modified Tomita and Tokuhashi scoring systems for spinal metastasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25085251", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 95, 
+            "offsetInEndSection": 276, 
+            "text": "We also aimed to evaluate the validity of the prognostic scores in the Tomita and Tokuhashi systems and discuss several aspects to improve the predictive accuracy of these systems. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25085251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1527, 
+            "offsetInEndSection": 1612, 
+            "text": "CONCLUSIONS: Tomita scores more accurately predicted survival than Tokuhashi scores. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25085251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "A comparison of the modified Tokuhashi and Tomita scores in determining prognosis for patients afflicted with spinal metastasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24869611", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 103, 
+            "offsetInEndSection": 215, 
+            "text": " It is for this reason that scoring systems, such as the modified Tokuhashi and Tomita scores, have been created", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24869611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1417, 
+            "offsetInEndSection": 1497, 
+            "text": "The modified Tokuhashi score had better accuracy in determining actual survival.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24869611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 316, 
+            "text": "Tokuhashi, Tomita, Bauer, and Oswestry scores have been devised for survival prediction; however, none of these systems have been evaluated in nasopharyngeal carcinoma (NPC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24912121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2366, 
+            "offsetInEndSection": 2491, 
+            "text": "All four scoring systems could be used to prognosticate these patients. The modified Tokuhashi score is the best in doing so.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24912121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1292, 
+            "offsetInEndSection": 1399, 
+            "text": "Primary tumor type and Tokuhashi score independently predicted survival in patients with spinal metastases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23179121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1586, 
+            "offsetInEndSection": 1710, 
+            "text": " Primary tumor type and Tokuhashi scoring independently predicted survival in patients with spinal metastases after surgery.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23179121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 977, 
+            "offsetInEndSection": 1133, 
+            "text": "A predictive score was then developed and compared against that of the modified Bauer score alone in terms of prognosticating 1-year survival after surgery.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26160329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2301, 
+            "offsetInEndSection": 2456, 
+            "text": "Our predictive score performed better than the modified Bauer alone and may be used to predict survival after surgical intervention for metastatic disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26160329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Tokuhashi Scoring System has limited applicability in the majority of patients with spinal cord compression secondary to vertebral metastasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24212518", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Tokuhashi Scoring System has limited applicability in the majority of patients with spinal cord compression secondary to vertebral metastasis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24212518", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 704, 
+            "text": "Tokuhashi, Tomita, Bauer, and Oswestry scores have been devised for survival prediction; however, none of these systems have been evaluated in nasopharyngeal carcinoma (NPC).To investigate the accuracy of these scoring systems in predicting survival and to identify prognostic factors for survival of the patients with spinal metastases from NPC.Retrospective analysis of the patients with spinal metastases from NPC who were treated in our institution.The study included 87 patients with spinal metastases from NPC.The primary outcome measure was the survival time of these patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24912121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2083, 
+            "offsetInEndSection": 2267, 
+            "text": "Predictive value of survival by modified Tokuhashi score was the highest among all four scoring systems.Patients with spinal metastases from NPC have relatively good survival prognosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24912121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1748, 
+            "offsetInEndSection": 1994, 
+            "text": "The data of the present study emphasize that the original Bauer score and a modified Bauer score without scoring for pathologic fracture seem to be practicable and highly predictive preoperative scoring systems for patients with spinal metastases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18787846", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 423, 
+            "text": "A retrospective study of 180 patients with lung cancer spinal metastases, wherein prognostic score-predicted survival was compared with actual survival.To evaluate and compare the accuracy of prognostic scoring systems in lung cancer spinal metastases.The modified Tokuhashi, Tomita, modified Bauer, and Oswestry scores are currently used to guide decisions regarding operative treatment of patients with spinal metastases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27018903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "To evaluate the predictive values of Tokuhashi score, revised Tokuhashi score and Tomita score systems for life expectancy and treatment options in patients with spinal metastasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21223698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "A comparison of the modified Tokuhashi and Tomita scores in determining prognosis for patients afflicted with spinal metastasis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24869611", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1789, 
+            "offsetInEndSection": 1975, 
+            "text": "The combination of Tokuhashi score and Tomita score may be applied to better predict postoperative survival prognosis and guide the surgical options for patients with spinal metastasis..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21223698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 441, 
+            "text": "reported a composite model taking into account a modified Bauer score, preoperative albumin, and ambulatory status of patients with spinal metastasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27080411", 
+            "endSection": "abstract"
+        }
+    ]
+}

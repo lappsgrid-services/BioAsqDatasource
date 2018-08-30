@@ -1,0 +1,51 @@
+{
+    "body": "What is the result of the interaction between TSC1 and PLK1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16339216"
+    ], 
+    "ideal_answer": [
+        "Phosphorylated TSC1 (hamartin) interacts with Plk1 independent of TSC2 (tuberin), with all three proteins present in a complex, and negatively regulates the protein levels of Plk1, to control centrosome duplication."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TSC1_HUMAN", 
+        "http://www.uniprot.org/uniprot/PLK1_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054730", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033596"
+    ], 
+    "type": "summary", 
+    "id": "5319a7f2b166e2b80600002a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 663, 
+            "offsetInEndSection": 775, 
+            "text": "Phosphorylated hamartin interacts with Plk1 independent of tuberin with all three proteins present in a complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16339216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1089, 
+            "offsetInEndSection": 1146, 
+            "text": "Hamartin negatively regulates the protein levels of Plk1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16339216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1147, 
+            "offsetInEndSection": 1293, 
+            "text": "Finally, Tsc1(-/-) mouse embryonic fibroblasts (MEFs) have increased number of centrosomes and increased DNA content, compared to Tsc1(+/+) cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16339216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1294, 
+            "offsetInEndSection": 1684, 
+            "text": "Both phenotypes are rescued after pre-treatment with the mTOR inhibitor rapamycin. RNAi inhibition of Plk1 in Tsc1(-/-) MEFs failed to rescue the increased centrosome number phenotype. These data reveal a novel subcellular localization for hamartin and a novel interaction partner for the hamartin/tuberin complex and implicate hamartin and mTOR in the regulation of centrosome duplication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16339216", 
+            "endSection": "abstract"
+        }
+    ]
+}

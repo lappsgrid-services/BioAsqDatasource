@@ -1,0 +1,228 @@
+{
+    "body": "How does long-range epigenetic silencing (LRES) occur?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20173741", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21737484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20442245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17099711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19956686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22133303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20736368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17613553", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22249255", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21098650", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18403637"
+    ], 
+    "ideal_answer": [
+        "Long Range Epigenetic Silencing (LRES) is a mechanism of gene inactivation that affects multiple contiguous CpG islands and has been described in different human cancer types.", 
+        "Long Range Epigenetic Silencing (LRES) is a mechanism of gene inactivation that affects multiple contiguous CpG islands and has been described in different human cancer types. Loss of tumour suppressor gene function can occur as a result of epigenetic silencing of large chromosomal regions, referred to as long-range epigenetic silencing (LRES), and genome-wide analyses have revealed that LRES is present in many cancer types. LRES can span megabases of DNA and involves broad heterochromatin formation accompanied by hypermethylation of clusters of contiguous CpG islands within the region. It is not clear if LRES is initiated by one critical gene target that spreads and conscripts innocent bystanders, analogous to large genetic deletions or if coordinate silencing of multiple genes is important in carcinogenesis. Consolidation of the cancer genome into domains of repressive chromatin by long-range epigenetic silencing (LRES) reduces transcriptional plasticity."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0010495"
+    ], 
+    "type": "summary", 
+    "id": "57092635cf1c325851000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 296, 
+            "text": "Long Range Epigenetic Silencing (LRES) is a mechanism of gene inactivation that affects multiple contiguous CpG islands and has been described in different human cancer types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 648, 
+            "offsetInEndSection": 900, 
+            "text": "We demonstrate that LRES also occurs in murine cancer in vivo and mimics the molecular features of the human phenomenon, namely, downregulation of gene expression, acquisition of inactive histone marks, and DNA hypermethylation of specific CpG islands.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1517, 
+            "offsetInEndSection": 1646, 
+            "text": "Malignant regression of cancer cells by in vitro differentiation resulted in partial reversion of LRES and gain of CTCF binding. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1663, 
+            "offsetInEndSection": 1899, 
+            "text": "genes in LRES regions are plastically regulated in cell differentiation and hyperproliferation, but are constrained to a coordinated repression by abolishing boundaries and the autonomous regulation of chromatin domains in cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 251, 
+            "text": "Loss of tumour suppressor gene function can occur as a result of epigenetic silencing of large chromosomal regions, referred to as long-range epigenetic silencing (LRES), and genome-wide analyses have revealed that LRES is present in many cancer types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22249255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 647, 
+            "offsetInEndSection": 897, 
+            "text": " Epigenetic gene silencing has always been envisaged as a local event silencing discrete genes, but recent data now indicates that large regions of chromosomes can be co-coordinately suppressed; a process termed long range epigenetic silencing (LRES)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 899, 
+            "offsetInEndSection": 1290, 
+            "text": "LRES can span megabases of DNA and involves broad heterochromatin formation accompanied by hypermethylation of clusters of contiguous CpG islands within the region. It is not clear if LRES is initiated by one critical gene target that spreads and conscripts innocent bystanders, analogous to large genetic deletions or if coordinate silencing of multiple genes is important in carcinogenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 605, 
+            "offsetInEndSection": 725, 
+            "text": "This demonstrates that long-range epigenetic silencing (LRES) occurs in developmental tumors as well as in adult tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19956686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1069, 
+            "offsetInEndSection": 1297, 
+            "text": "Discrete boundaries of the PCDH domain are delimited by abrupt changes in histone modifications; unmethylated genes flanking the LRES are associated with permissive marks which are absent from methylated genes within the domain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19956686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 234, 
+            "offsetInEndSection": 335, 
+            "text": "The long-range epigenetic silencing (LRES) can be a frequent occurrence throughout the human genome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20442245", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Consolidation of the cancer genome into domains of repressive chromatin by long-range epigenetic silencing (LRES) reduces transcriptional plasticity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20173741", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 336, 
+            "text": "By creating an integrated prostate cancer epigenome map using tiling arrays, we show that contiguous regions of gene suppression commonly occur through long-range epigenetic silencing (LRES).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20173741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 511, 
+            "text": "We identified 47 LRES regions in prostate cancer, typically spanning about 2 Mb and harbouring approximately 12 genes, with a prevalence of tumour suppressor and miRNA genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20173741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 958, 
+            "offsetInEndSection": 1187, 
+            "text": "We propose that consolidation or effective reduction of the cancer genome commonly occurs in domains through a combination of LRES and LOH or genomic deletion, resulting in reduced transcriptional plasticity within these regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20173741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 405, 
+            "text": "It was recently reported that epigenetic suppression of gene expression can also extend to a whole region; this is known as long-range epigenetic silencing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17099711", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 811, 
+            "text": "Ikaros hypermethylation occurred in the context of a novel long-range epigenetic silencing (LRES) region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21737484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1027, 
+            "offsetInEndSection": 1249, 
+            "text": "Our results not only provide the first evidence that LRES can have functional specific effects in cancer but also identify several deregulated Ikaros targets that may contribute to progression in colorectal adenocarcinoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21737484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 260, 
+            "text": "Previously, we showed that gene suppression commonly occurs across chromosome 2q14.2 in colorectal cancer, through a process of long-range epigenetic silencing (LRES), involving a combination of DNA methylation and repressive histone modifications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21098650", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 261, 
+            "offsetInEndSection": 466, 
+            "text": "We now investigate whether LRES also occurs in prostate cancer across this 4-Mb region and whether differential DNA methylation of 2q14.2 genes could provide a regional panel of prostate cancer biomarkers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21098650", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1178, 
+            "offsetInEndSection": 1295, 
+            "text": "Consistent with LRES in colorectal cancer, we found regional epigenetic remodeling across 2q14.2 in prostate cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21098650", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 771, 
+            "text": "We were able to gain a comprehensive view of promoters with various CpG densities, including CpG Islands (CGIs), transcript bodies, and various repeat classes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22133303", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 470, 
+            "text": "Long Range Epigenetic Silencing (LRES) is a mechanism of gene inactivation that affects multiple contiguous CpG islands and has been described in different human cancer types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "The CpG island methylator phenotype correlates with long-range epigenetic silencing in colorectal cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18403637", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 423, 
+            "offsetInEndSection": 899, 
+            "text": "We now know that tumour suppressor genes, with CpG island-associated promoters, are commonly hypermethylated and silenced in cancer, but we do not understood what triggers this process or when it occurs during carcinogenesis. Epigenetic gene silencing has always been envisaged as a local event silencing discrete genes, but recent data now indicates that large regions of chromosomes can be co-coordinately suppressed; a process termed long range epigenetic silencing (LRES).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613553", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 649, 
+            "offsetInEndSection": 1064, 
+            "text": "Epigenetic gene silencing has always been envisaged as a local event silencing discrete genes, but recent data now indicates that large regions of chromosomes can be co-coordinately suppressed; a process termed long range epigenetic silencing (LRES). LRES can span megabases of DNA and involves broad heterochromatin formation accompanied by hypermethylation of clusters of contiguous CpG islands within the region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17613553", 
+            "endSection": "abstract"
+        }
+    ]
+}

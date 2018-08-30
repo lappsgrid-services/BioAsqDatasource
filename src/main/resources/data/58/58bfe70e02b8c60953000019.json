@@ -1,0 +1,501 @@
+{
+    "body": "Is PUVA therapy indicated for eczema treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/3903677", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23420314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14699368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17254029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/708596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10321515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9640882", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18712324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15611423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17673386", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8088142", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22738245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11499537", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8445063"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0034172", 
+            "o": "PUVA Therapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0034172", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0444272"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0444272", 
+            "o": "PUVA therapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1704892", 
+            "o": "PUVA therapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0034172", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0107279"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0107279", 
+            "o": "Psoralen Ultraviolet A Therapy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0034172", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20221619"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20221619", 
+            "o": "Psoralen Ultraviolet A Therapy"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, PUVA (psoralen plus UVA) therapy is effective for eczema treatment and has relatively few side effects."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004485", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011701"
+    ], 
+    "type": "yesno", 
+    "id": "58bfe70e02b8c60953000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 719, 
+            "offsetInEndSection": 960, 
+            "text": "With bath PUVA treatment, the best results were found in patients with hyperkeratotic eczema (17/22; 77% good clinical response) followed by patients with palmoplantar psoriasis (26/41; 63%) and patients with dyshidrotic eczema (8/16; 50%). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22738245", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Oral vs. bath PUVA using 8-methoxypsoralen for chronic palmoplantar eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 148, 
+            "text": "Both oral and bath PUVA with 8-methoxypsoralen (8-MOP) have been shown to be effective in the treatment of chronic palmoplantar eczema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1175, 
+            "offsetInEndSection": 1290, 
+            "text": "Oral PUVA is preferable for patients with hyperkeratotic eczema and bath PUVA for patients with dyshidrotic eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 301, 
+            "text": "Treatment of hand eczema is dominated by the administration of topical glucocorticosteriods. If topical treatment fails, the best second-line option is ultraviolet (UV) therapy alone or as combination therapy. UVB and PUVA (psoralen plus UVA) therapy is effective and has relatively few side effects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18712324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 301, 
+            "text": "Although local PUVA has been proven to be effective in the treatment of chronic hand eczema, little is known about the efficacy and safety of local narrowband UVB (TL-01) for this condition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17254029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1869, 
+            "offsetInEndSection": 2015, 
+            "text": "Local narrowband UVB phototherapy regimen is as effective as paint-PUVA therapy in patients with chronic hand eczema of dry and dyshidrotic types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17254029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1631, 
+            "offsetInEndSection": 1859, 
+            "text": "Smoking is likely to be a reason for the failure of bath-PUVA therapy in the treatment of chronic palmoplantar eczema, in particular regarding smokers with eczema of the dyshidrotic type where no complete remission was achieved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Treatment of chronic palmoplantar eczema with local bath-PUVA therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Bath-PUVA therapy has been described as successful treatment for palmoplantar eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Systemic PUVA therapy may be useful in the treatment of chronic palmoplantar eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "A new psoralen-containing gel for topical PUVA therapy: development, and treatment results in patients with palmoplantar and plaque-type psoriasis, and hyperkeratotic eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 829, 
+            "offsetInEndSection": 1076, 
+            "text": "These results indicate that topical PUVA therapy with psoralen in aqueous gel is a useful therapeutic modality for treatment of psoriasis patients, and patients with recalcitrant dermatoses such as palmoplantar psoriasis and hyperkeratotic eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 458, 
+            "text": "In order to evaluate environmental influences possibly having an impact on the efficacy of this therapy, smokers and non-smokers suffering from palmoplantar eczema treated with bath-PUVA therapy were compared.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Does smoking influence the efficacy of bath-PUVA therapy in chronic palmoplantar eczema?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 158, 
+            "offsetInEndSection": 210, 
+            "text": "PUVA therapy caused acute aggravation of the eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8088142", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1073, 
+            "offsetInEndSection": 1290, 
+            "text": "Hyperkeratotic eczema cleared significantly better with oral than with bath PUVA (P=0.03).CONCLUSION: Oral PUVA is preferable for patients with hyperkeratotic eczema and bath PUVA for patients with dyshidrotic eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "BACKGROUND: Systemic PUVA therapy may be useful in the treatment of chronic palmoplantar eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 835, 
+            "offsetInEndSection": 1082, 
+            "text": "These results indicate that topical PUVA therapy with psoralen in aqueous gel is a useful therapeutic modality for treatment of psoriasis patients, and patients with recalcitrant dermatoses such as palmoplantar psoriasis and hyperkeratotic eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 819, 
+            "offsetInEndSection": 1026, 
+            "text": "Vitiligo (60.9%) was the commonest skin disorder treated with PUVA, followed by psoriasis (20.9%), endogenous eczema (11.3%), mycosis fungoides (3.5%), lichen amyloidosis (2.6%) and prurigo nodularis (0.9%).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11499537", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 75, 
+            "text": "bath PUVA using 8-methoxypsoralen for chronic palmoplantar eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "A 36-year-old female patient was treated with PUVA for dyshidrotic eczema that had not shown sufficient response to topical therapy over the previous months.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8088142", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "BACKGROUND: Both oral and bath PUVA with 8-methoxypsoralen (8-MOP) have been shown to be effective in the treatment of chronic palmoplantar eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 1179, 
+            "text": "One patient with hand eczema consistently had detectable 8-MOP levels 1 hour after topical PUVA treatments.CONCLUSION: This report indicates that there is minimal, if any, systemic absorption of 8-MOP after topical PUVA treatment of patients with palmoplantar psoriasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8445063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1608, 
+            "offsetInEndSection": 1963, 
+            "text": "In the narrowband UVB-treated side, the tolerance of all the patients to the treatment was good all patients well-tolerated the treatment with the exception of mild xerosis that responded to topical emollients.Local narrowband UVB phototherapy regimen is as effective as paint-PUVA therapy in patients with chronic hand eczema of dry and dyshidrotic types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17254029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Bath-PUVA therapy has been described as successful treatment for palmoplantar eczema", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1648, 
+            "offsetInEndSection": 1875, 
+            "text": "Smoking is likely to be a reason for the failure of bath-PUVA therapy in the treatment of chronic palmoplantar eczema, in particular regarding smokers with eczema of the dyshidrotic type where no complete remission was achieved", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Systemic PUVA therapy may be useful in the treatment of chronic palmoplantar eczema", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 710, 
+            "text": "However, few data are available on the effectiveness of local bath-PUVA therapy in palmoplantar eczema.Our purpose was to assess the effectiveness of local bath-PUVA therapy in 28 patients with chronic palmar or plantar eczema or both who were resistant to conventional topical treatment.After fungal or bacterial infection had been excluded in all patients, hands or feet or both were soaked for 15 minutes in warm water containing 1 mg/L 8-methoxypsoralen", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1333, 
+            "offsetInEndSection": 1504, 
+            "text": "No phototoxic reactions were observed.Local bath-PUVA therapy is of value in the management of chronic palmoplantar eczema resistant to standard modes of topical treatment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Treatment of chronic palmoplantar eczema with local bath-PUVA therapy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Bath-PUVA therapy has been described as successful treatment for palmoplantar eczema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1642, 
+            "offsetInEndSection": 1870, 
+            "text": "Smoking is likely to be a reason for the failure of bath-PUVA therapy in the treatment of chronic palmoplantar eczema, in particular regarding smokers with eczema of the dyshidrotic type where no complete remission was achieved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 369, 
+            "offsetInEndSection": 566, 
+            "text": "OBJECTIVE: Our purpose was to assess the effectiveness of local bath-PUVA therapy in 28 patients with chronic palmar or plantar eczema or both who were resistant to conventional topical treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1416, 
+            "offsetInEndSection": 1563, 
+            "text": "CONCLUSION: Local bath-PUVA therapy is of value in the management of chronic palmoplantar eczema resistant to standard modes of topical treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 45, 
+            "text": "Topical PUVA therapy for chronic hand eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9640882", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 711, 
+            "text": "However, few data are available on the effectiveness of local bath-PUVA therapy in palmoplantar eczema.Our purpose was to assess the effectiveness of local bath-PUVA therapy in 28 patients with chronic palmar or plantar eczema or both who were resistant to conventional topical treatment.After fungal or bacterial infection had been excluded in all patients, hands or feet or both were soaked for 15 minutes in warm water containing 1 mg/L 8-methoxypsoralen.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1333, 
+            "offsetInEndSection": 1505, 
+            "text": "No phototoxic reactions were observed.Local bath-PUVA therapy is of value in the management of chronic palmoplantar eczema resistant to standard modes of topical treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1648, 
+            "offsetInEndSection": 1876, 
+            "text": "Smoking is likely to be a reason for the failure of bath-PUVA therapy in the treatment of chronic palmoplantar eczema, in particular regarding smokers with eczema of the dyshidrotic type where no complete remission was achieved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 86, 
+            "offsetInEndSection": 250, 
+            "text": "However, our own observations showed that patients with palmoplantar eczema of the dyshidrotic or hyperkeratotic type responded only partially to bath-PUVA therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1608, 
+            "offsetInEndSection": 1964, 
+            "text": "In the narrowband UVB-treated side, the tolerance of all the patients to the treatment was good all patients well-tolerated the treatment with the exception of mild xerosis that responded to topical emollients.Local narrowband UVB phototherapy regimen is as effective as paint-PUVA therapy in patients with chronic hand eczema of dry and dyshidrotic types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17254029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Comparison of localized high-dose UVA1 irradiation versus topical cream psoralen-UVA for treatment of chronic vesicular dyshidrotic eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14699368", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1374, 
+            "offsetInEndSection": 1558, 
+            "text": "No phototoxic reactions were observed.CONCLUSION: Local bath-PUVA therapy is of value in the management of chronic palmoplantar eczema resistant to standard modes of topical treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 835, 
+            "offsetInEndSection": 1083, 
+            "text": "These results indicate that topical PUVA therapy with psoralen in aqueous gel is a useful therapeutic modality for treatment of psoriasis patients, and patients with recalcitrant dermatoses such as palmoplantar psoriasis and hyperkeratotic eczema..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Treatment of chronic palmoplantar eczema with local bath-PUVA therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1132, 
+            "offsetInEndSection": 1248, 
+            "text": "Oral PUVA is preferable for patients with hyperkeratotic eczema and bath PUVA for patients with dyshidrotic eczema..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19292787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Does smoking influence the efficacy of bath-PUVA therapy in chronic palmoplantar eczema?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1375, 
+            "offsetInEndSection": 1509, 
+            "text": "Local bath-PUVA therapy is of value in the management of chronic palmoplantar eczema resistant to standard modes of topical treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 356, 
+            "text": "However, few data are available on the effectiveness of local bath-PUVA therapy in palmoplantar eczema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "A new psoralen-containing gel for topical PUVA therapy: development, and treatment results in patients with palmoplantar and plaque-type psoriasis, and hyperkeratotic eczema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662576", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1642, 
+            "offsetInEndSection": 1871, 
+            "text": "Smoking is likely to be a reason for the failure of bath-PUVA therapy in the treatment of chronic palmoplantar eczema, in particular regarding smokers with eczema of the dyshidrotic type where no complete remission was achieved..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10721861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 445, 
+            "text": "In order to investigate the effectiveness of topical PUVA-bath therapy (PUVA-soak therapy) on chronic palmoplantar dermatoses, 30 patients with plaque-type psoriasis, pustular psoriasis, endogenous eczema, dyshidrotic eczema and hyperkeratotic dermatitis of the palms and soles were treated over 8 weeks with PUVA-soak using 8-MOP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10321515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 542, 
+            "text": "Our purpose was to assess the effectiveness of local bath-PUVA therapy in 28 patients with chronic palmar or plantar eczema or both who were resistant to conventional topical treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9146535", 
+            "endSection": "abstract"
+        }
+    ]
+}

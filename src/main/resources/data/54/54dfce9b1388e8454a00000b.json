@@ -1,0 +1,116 @@
+{
+    "body": "What is the mechanism by which HIV-1-encoded Vif protein allows virus replication?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21725586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23689841", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24189052", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23316055", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23707381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22728817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19887642", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20147392"
+    ], 
+    "ideal_answer": [
+        "The HIV-1 Vif protein counteracts the antiviral activity of the APOBEC3 family by targeting the proteins for degradation through the ubiquitin-proteasome pathway. More specifically, Vif, serving as a substrate receptor, facilitates ubiquitination of APOBEC3 proteins by forming a Cullin5-based E3 ubiquitin ligase complex, which targets APOBEC3 proteins for rapid proteasomal degradation."
+    ], 
+    "type": "summary", 
+    "id": "54dfce9b1388e8454a00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "A naturally occurring Vif mutant (I107T) attenuates anti-APOBEC3G activity and HIV-1 replication", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707381", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 279, 
+            "text": "The human immunodeficiency virus type 1 (HIV-1) Vif protein counteracts the antiviral activity of the apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3 (APOBEC3) family of proteins by targeting the proteins for degradation through the ubiquitin-proteasome pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23707381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 199, 
+            "text": "The host protein APOBEC3G (A3G) can limit HIV-1 replication. Its protective effect is overcome by the HIV-1 'viral infectivity factor' (Vif), which targets A3G for proteosomal degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23689841", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 439, 
+            "offsetInEndSection": 589, 
+            "text": " Vif is thought to primarily overcome APOBEC3G through an interaction that mediates APOBEC3G ubiquitination and results in its proteasomal degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23316055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 591, 
+            "offsetInEndSection": 694, 
+            "text": "However, Vif may also inhibit APOBEC3G mRNA translation, virion encapsidation, and deamination activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23316055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 470, 
+            "text": "Vif counteracts the packaging of two cellular cytidine deaminases named APOBEC3G (A3G) and A3F by diverse mechanisms including the recruitment of an E3 ubiquitin ligase complex and the proteasomal degradation of A3G/A3F, the inhibition of A3G mRNA translation or by a direct competition mechanism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22728817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 472, 
+            "offsetInEndSection": 757, 
+            "text": "In addition, Vif appears to be an active partner of the late steps of viral replication by participating in virus assembly and Gag processing, thus regulating the final stage of virion formation notably genomic RNA dimerization and by inhibiting the initiation of reverse transcription", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22728817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 311, 
+            "text": "Human apoplipoprotein B mRNA-editing enzyme-catalytic polypeptide-like (APOBEC) 3G (A3G) is an antiviral protein that blocks HIV-1 replication. However, the antiviral activity of A3G is overcome by the HIV-1 protein Vif. This inhibitory function of Vif is related to its ability to degrade A3G in the proteasome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21725586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Polyubiquitination of APOBEC3G is essential for its degradation by HIV-1 Vif", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20147392", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 684, 
+            "offsetInEndSection": 798, 
+            "text": "These data suggest that polyubiquitination of APOBEC3G, not that of HIV-1 Vif, is crucial for APOBEC3G degradation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20147392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 412, 
+            "text": "During coevolution with the host, HIV-1 developed the ability to hijack the cellular ubiquitin/proteasome degradation pathway to counteract the antiviral activity of APOBEC3G (A3G), a host cytidine deaminase that can block HIV-1 replication. Abrogation of A3G function involves the HIV-1 Vif protein, which binds A3G and serves as an adapter molecule to recruit A3G to a Cullin5-based E3 ubiquitin ligase complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19887642", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 632, 
+            "text": "HIV-1 counteracts APOBEC3 proteins by encoding the viral protein Vif, which contains distinct domains that specifically interact with these APOBEC3 proteins to ensure their proteasomal degradation, allowing virus replication to proceed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24189052", 
+            "endSection": "abstract"
+        }
+    ]
+}

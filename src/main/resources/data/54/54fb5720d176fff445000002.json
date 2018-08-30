@@ -1,0 +1,147 @@
+{
+    "body": "Which transcription factors are known as the four (4) \"Yamanaka factors\" that have been used to create induced pluripotent stem cells  (iPSCs)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21839145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23149977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23704989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23272148", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23266889", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24706886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23658991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23939864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23104133", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23166588"
+    ], 
+    "ideal_answer": [
+        "Fibroblasts can be reprogrammed into induced pluripotent stem cells (iPSCs) by the application of Yamanaka factors (OSKM). In particular, the mechanisms how the Yamanaka factors (Oct4, Sox2, Klf4, and c-Myc) directly drive reprogramming and which additional components are involved are still not yet understood.", 
+        "Through the ectopic expression of four transcription factors, Oct4, Klf4, Sox2 and cMyc, human somatic cells can be converted to a pluripotent state, generating so-called induced pluripotent stem cells (iPSCs)(1-4).  Delivery of the transcription factors Oct4, Klf4, Sox2 and c-Myc via integrating viral vectors has been widely employed to generate induced pluripotent stem cell (iPSC) lines from both normal and disease-specific somatic tissues, providing an invaluable resource for medical research and drug development.  ", 
+        "Through the ectopic expression of four transcription factors, Oct4, Klf4, Sox2 and cMyc, human somatic cells can be converted to a pluripotent state, generating so-called induced pluripotent stem cells (iPSCs)(1-4).Fibroblasts can be reprogrammed into induced pluripotent stem cells (iPSCs) by the application of Yamanaka factors (OSKM), but the mechanisms underlying this reprogramming remain poorly understood."
+    ], 
+    "exact_answer": [
+        [
+            "Oct4", 
+            "Oct 3/4"
+        ], 
+        [
+            "Sox2"
+        ], 
+        [
+            "Klf4"
+        ], 
+        [
+            "c-Myc"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057026", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D039904"
+    ], 
+    "type": "list", 
+    "id": "54fb5720d176fff445000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "The recently established reprogramming of somatic cells into induced pluripotent stem cells (iPSCs) by Takahashi and Yamanaka represents a valuable tool for future therapeutic applications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23939864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 453, 
+            "text": "In particular, the mechanisms how the Yamanaka factors (Oct4, Sox2, Klf4, and c-Myc) directly drive reprogramming and which additional components are involved are still not yet understood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23939864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 638, 
+            "text": "Here we show that Yamanaka factors (OCT4, SOX2, MYC, and KLF4)-expressing EV can also reprogram adult peripheral blood mononuclear cells (PBMNCs) into pluripotency, yet at a very low efficiency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 941, 
+            "text": "The CytoTune\u2122-iPS Reprogramming Kit contains four SeV-based reprogramming vectors, each capable of expressing one of the four Yamanaka factors (i.e., Oct4, Sox2, Klf4, and c-Myc) and are optimized for generating iPSCs from human somatic cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23658991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 305, 
+            "text": "Delivery of the transcription factors Oct4, Klf4, Sox2 and c-Myc via integrating viral vectors has been widely employed to generate induced pluripotent stem cell (iPSC) lines from both normal and disease-specific somatic tissues, providing an invaluable resource for medical research and drug development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272148", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 771, 
+            "offsetInEndSection": 1031, 
+            "text": "We demonstrate that residual expression of the Yamanaka factors prevents iPSCs from acquiring the transcriptional program exhibited by embryonic stem cells (ESCs) and that the expression profiles of iPSCs generated with and without c-Myc are indistinguishable.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272148", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Fibroblasts can be reprogrammed into induced pluripotent stem cells (iPSCs) by the application of Yamanaka factors (OSKM), but the mechanisms underlying this reprogramming remain poorly understood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23266889", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 733, 
+            "offsetInEndSection": 889, 
+            "text": "We also discovered that HMGA1 enhances cellular reprogramming of somatic cells to iPSCs together with the Yamanaka factors (OCT4, SOX2, KLF4, cMYC - OSKM). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23166588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "Through the ectopic expression of four transcription factors, Oct4, Klf4, Sox2 and cMyc, human somatic cells can be converted to a pluripotent state, generating so-called induced pluripotent stem cells (iPSCs)(1-4).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23149977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 506, 
+            "offsetInEndSection": 720, 
+            "text": "We have shown the generation of transgene-free human iPSCs from patients with different lung diseases using a single excisable polycistronic lentiviral Stem Cell Cassette (STEMCCA) encoding the Yamanaka factors(6).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23149977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 915, 
+            "offsetInEndSection": 1050, 
+            "text": "These iPSCs were established in a feeder-free system by lentiviral transduction of the Yamanaka factors, Oct3/4, Sox2, Klf4, and c-Myc.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Induced pluripotent stem cells (iPSCs) are created by the reprogramming of somatic cells via overexpression of certain transcription factors, such as the originally described Yamanaka factors: Oct4, Sox2, Klf4, and c-Myc (OSKM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24706886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 398, 
+            "offsetInEndSection": 638, 
+            "text": "iPSC production was first achieved by transducing, with the use of retroviral vectors, four specific transcription factors: Oct4, Klf4, Sox2 and c-Myc (OKSM), into primary cells in culture Takahashi and Yamanaka, (Cell 126(4):663-676, 2006)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23104133", 
+            "endSection": "abstract"
+        }
+    ]
+}

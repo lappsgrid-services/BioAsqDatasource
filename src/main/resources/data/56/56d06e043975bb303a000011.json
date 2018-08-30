@@ -1,0 +1,38 @@
+{
+    "body": "In which breast cancer patients can palbociclib be used?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25524798", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25792301", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26236140"
+    ], 
+    "ideal_answer": [
+        "Palbociclib is useful for women with hormone receptor-positive, human epidermal growth factor receptor 2-negative breast cancer."
+    ], 
+    "exact_answer": [
+        "hormone receptor-positive, human epidermal growth factor receptor 2-negative"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:1612", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001943"
+    ], 
+    "type": "factoid", 
+    "id": "56d06e043975bb303a000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Women with hormone receptor-positive, human epidermal growth factor receptor 2- negative breast cancer-the most common subtype-have new options as palbociclib and similar drugs debut. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26236140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 637, 
+            "text": "We aimed to assess the safety and efficacy of palbociclib in combination with letrozole as first-line treatment of patients with advanced, oestrogen receptor-positive, HER2-negative breast cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25524798", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "body": "What is Targeted Chromatin Capture (T2C)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24561620"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0039007", 
+            "o": "D002843"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0067863", 
+            "o": "D006570"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0067865", 
+            "o": "D006570"
+        }
+    ], 
+    "ideal_answer": [
+        "Targeted Chromatin Capture (T2C) is an efficient, easy, and affordable with high (restriction fragment) resolution tool to address both genome compartmentalization and chromatin-interaction networks for specific genomic regions at high resolution for both clinical and non-clinical research.", 
+        "Significant efforts have recently been put into the investigation of the spatial organization and the chromatin-interaction networks of genomes. T2C provides an unbiased view of the spatial organization of selected loci at superior resolution (single restriction fragment resolution, from 2 to 6 kbp) at much lower costs than Hi-C due to the lower sequencing effort."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057166", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002843", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D047369", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003850", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D022041", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006570"
+    ], 
+    "type": "summary", 
+    "id": "56a38f9b496b62f23f000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Targeted Chromatin Capture (T2C): a novel high resolution high throughput method to detect genomic interactions and regulatory elements.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 558, 
+            "offsetInEndSection": 907, 
+            "text": " Here we describe a new technique termed Targeted Chromatin Capture (T2C), to interrogate large selected regions of the genome. T2C provides an unbiased view of the spatial organization of selected loci at superior resolution (single restriction fragment resolution, from 2 to 6 kbp) at much lower costs than Hi-C due to the lower sequencing effort.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2081, 
+            "offsetInEndSection": 2343, 
+            "text": "T2C is an efficient, easy, and affordable with high (restriction fragment) resolution tool to address both genome compartmentalization and chromatin-interaction networks for specific genomic regions at high resolution for both clinical and non-clinical research.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 794, 
+            "text": "Here we describe a new technique termed Targeted Chromatin Capture (T2C), to interrogate large selected regions of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 548, 
+            "offsetInEndSection": 674, 
+            "text": "Here we describe a new technique termed Targeted Chromatin Capture (T2C), to interrogate large selected regions of the genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25031611", 
+            "endSection": "abstract"
+        }
+    ]
+}

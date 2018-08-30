@@ -1,0 +1,47 @@
+{
+    "body": "Are the proteins Erbin (LAP2) and Merlin cooperating?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15659388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19289088"
+    ], 
+    "ideal_answer": [
+        "Yes, Erbin and Merlin are cooperating."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MERL_RAT", 
+        "http://www.uniprot.org/uniprot/MERL_PAPAN", 
+        "http://www.uniprot.org/uniprot/MERL_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D025581", 
+        "http://www.uniprot.org/uniprot/LAP2_HUMAN", 
+        "http://www.biosemantics.org/jochem#4267552"
+    ], 
+    "type": "yesno", 
+    "id": "530c7fa4970c65fa6b000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Erbin and the NF2 tumor suppressor Merlin cooperatively regulate cell-type-specific activation of PAK2 by TGF-beta.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19289088", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 646, 
+            "text": "The results show that the epithelial-enriched protein Erbin controls the function of the NF2 tumor suppressor Merlin by determining the output of Merlin's physical interactions with active PAK2. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19289088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 964, 
+            "offsetInEndSection": 1063, 
+            "text": "Erbin controls Merlin tumor suppressor function by switching the functional valence of PAK2 binding", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19289088", 
+            "endSection": "abstract"
+        }
+    ]
+}

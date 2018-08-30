@@ -1,0 +1,247 @@
+{
+    "body": "List fluorescent reporter proteins.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23741385", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18566430", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18501461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15258449", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16468989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20532610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18556507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17407539", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18473954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23822504", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20471991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14579736", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12771211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17646710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20601526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23347004", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24128932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18592415", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20429918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17553146"
+    ], 
+    "ideal_answer": [
+        "Fluorescent and luminescent reporter genes have become popular tools for the real-time monitoring of gene expression in living cells:\ngreen fluorescent protein\nTimer\nred fluorescent protein\nyellow fluorescent protein\nbeta-phycoerythrin\ncoral fluorescent reporter protein\nenhanced green fluorescent reporter protein\nmCherry"
+    ], 
+    "exact_answer": [
+        [
+            "green fluorescent protein", 
+            "Gfp"
+        ], 
+        [
+            "Timer", 
+            "DsRed1-E5"
+        ], 
+        [
+            "red fluorescent protein", 
+            "dsRed"
+        ], 
+        [
+            "yellow fluorescent protein"
+        ], 
+        [
+            "beta-phycoerythrin"
+        ], 
+        [
+            "coral fluorescent reporter protein"
+        ], 
+        [
+            "enhanced green fluorescent reporter protein"
+        ], 
+        [
+            "mCherry"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017930", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D061848", 
+        "http://www.uniprot.org/uniprot/GFP_AEQVI", 
+        "http://www.uniprot.org/uniprot/LUXY_VIBFI", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005453", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D049452", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005455", 
+        "http://www.uniprot.org/uniprot/BFP_VIBFI"
+    ], 
+    "type": "list", 
+    "id": "5523e47f7b523f2123000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Fluorescent Timer, or DsRed1-E5, is a mutant of the red fluorescent protein, dsRed, in which fluorescence shifts over time from green to red as the protein matures.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24128932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 776, 
+            "offsetInEndSection": 807, 
+            "text": "green fluorescent protein (Gfp)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23822504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Characterization of flavin-based fluorescent proteins: an emerging class of fluorescent reporters.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23741385", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 256, 
+            "text": "Flavin-based fluorescent proteins (FbFPs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23741385", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 329, 
+            "text": "mCherry was employed as a reporter protein ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23347004", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 749, 
+            "text": "yellow fluorescent protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 295, 
+            "text": "red cytoplasmic fluorescent reporter protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20532610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 510, 
+            "text": "red fluorescent reporter protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20532610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 667, 
+            "text": " enhanced green fluorescent reporter protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20471991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 146, 
+            "text": "Fluorescent and luminescent reporter genes have become popular tools for the real-time monitoring of gene expression in living cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20429918", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 641, 
+            "offsetInEndSection": 715, 
+            "text": " fluorescent reporter protein [green fluorescent protein (GFP) and DsRed2]", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18592415", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 222, 
+            "text": "coral fluorescent reporter protein ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18566430", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 402, 
+            "offsetInEndSection": 487, 
+            "text": "driving a cassette for the enhanced green \"live\" fluorescent reporter protein (eGFP) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18556507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 290, 
+            "text": "GFP as a fluorescent reporter protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18501461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 146, 
+            "offsetInEndSection": 154, 
+            "text": " protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18473954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 311, 
+            "offsetInEndSection": 356, 
+            "text": "red fluorescent reporter protein (RFP) gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17646710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 35, 
+            "text": "The red fluorescent protein eqFP611", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17553146", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 748, 
+            "offsetInEndSection": 792, 
+            "text": "the green fluorescent reporter protein gene ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17407539", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 447, 
+            "text": " red fluorescent reporter protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16468989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 534, 
+            "offsetInEndSection": 603, 
+            "text": "beta-phycoerythrin, a fluorescent reporter protein derived from algae", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15258449", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 458, 
+            "offsetInEndSection": 504, 
+            "text": " live-cell fluorescent reporter protein, Timer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14579736", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1172, 
+            "offsetInEndSection": 1204, 
+            "text": "red fluorescent reporter protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12771211", 
+            "endSection": "abstract"
+        }
+    ]
+}

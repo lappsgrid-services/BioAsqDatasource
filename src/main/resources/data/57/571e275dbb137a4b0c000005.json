@@ -1,0 +1,475 @@
+{
+    "body": "What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21320267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24320733", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22215383", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23140189", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22686547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23803146", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20690781", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19791828", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23837679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23743694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23501107", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24996141", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24793580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25860270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22162539", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22106978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21913883", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25687897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24186878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21500969", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17100408", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23136353", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24567800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22429011", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18223196"
+    ], 
+    "ideal_answer": [
+        "\"Sitagliptin,\" \"vildagliptin,\" \"saxagliptin,\" \"alogliptin,\" \"linagliptin,\" and \"dutogliptin\" are dipeptidyl peptidase-4 (DPP-4) inhibitors."
+    ], 
+    "exact_answer": [
+        "dipeptidyl peptidase-4 (DPP-4) inhibitors"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4243818", 
+        "http://www.biosemantics.org/jochem#4243458", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018819", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054873", 
+        "http://www.biosemantics.org/jochem#4274679", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000069476", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4274679"
+    ], 
+    "type": "factoid", 
+    "id": "571e275dbb137a4b0c000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 785, 
+            "text": "The present metaanalysis was designed to assess the effect of DPP-4 inhibitors on blood lipids, verifying possible differences across compounds of this class.METHODS: An extensive search of Medline and the Cochrane Library (any date up to December 31, 2010, restricted to randomized clinical trials, published in English) was performed for all trials containing, in any field, the words \"sitagliptin,\" \"vildagliptin,\" \"saxagliptin,\" \"alogliptin,\" \"linagliptin,\" and/or \"dutogliptin.\" ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22215383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 600, 
+            "text": "Sitagliptin (MK- 0431), Saxagliptin, Melogliptin, Linagliptin (BI-1356), Dutogliptin, Carmegliptin, Alogliptin and Vildagliptin (LAF237).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23140189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1019, 
+            "offsetInEndSection": 1217, 
+            "text": "Additionally, linagliptin, vildagliptin and alogliptin are currently in phase III development in the United States while studies with another DPP IV inhibitor, dutogliptin, have been terminated (2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 186, 
+            "text": "Testing the therapeutic equivalence of alogliptin, linagliptin, saxagliptin, sitagliptin or vildagliptin as monotherapy or in combination with metformin in patients with type 2 diabetes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 442, 
+            "offsetInEndSection": 732, 
+            "text": "The aim of this review is to compare the clinical pharmacokinetics of available DPP-4 inhibitors (alogliptin, linagliptin, saxagliptin, sitagliptin and vildagliptin) for the purpose of identifying potential selection preferences according to individual patient variables and co-morbidities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22686547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 594, 
+            "text": "The reader will gain detailed pharmacological and clinical information on alogliptin, dutogliptin and linagliptin and will learn how these DPP IV inhibitors may widen the whole drug class.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21500969", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3646, 
+            "offsetInEndSection": 3955, 
+            "text": "When considered in total, data reviewed in this report suggest that the best overall balance between potency and the clinical pharmacokinetic characteristics of distribution, metabolism and elimination may be observed with linagliptin followed closely by vildagliptin, saxagliptin, sitagliptin and alogliptin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22686547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 721, 
+            "offsetInEndSection": 854, 
+            "text": "Currently, there are four DPP IV inhibitors available in various countries-alogliptin, sitagliptin, vildagliptin and saxagliptin (1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 464, 
+            "text": "The various marketed or under developmental status, potential gliptins have been opted to build a pharmacophore model, e.g. Sitagliptin (MK- 0431), Saxagliptin, Melogliptin, Linagliptin (BI-1356), Dutogliptin, Carmegliptin, Alogliptin and Vildagliptin (LAF237)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23140189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 591, 
+            "offsetInEndSection": 723, 
+            "text": "Currently, there are four DPP IV inhibitors available in various countries-alogliptin, sitagliptin, vildagliptin and saxagliptin (1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 826, 
+            "offsetInEndSection": 1023, 
+            "text": "Additionally, linagliptin, vildagliptin and alogliptin are currently in phase III development in the United States while studies with another DPP IV inhibitor, dutogliptin, have been terminated (2)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 305, 
+            "text": "Recently, the SAVOR TIMI-53 (Saxagliptin Assessment of Vascular Outcomes Recorded in patients with diabetes mellitus--Thrombolysis in Myocardial Infarction-53) reported a significant increase in the risk of hospitalizations for heart failure in patients treated with saxagliptin in comparison with placebo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 824, 
+            "text": "Of these, two have been approved for clinical use in the United States: sitagliptin and saxagliptin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Long-term safety and efficacy of empagliflozin, sitagliptin, and metformin: an active-controlled, parallel-group, randomized, 78-week open-label extension study in patients with type 2 diabetes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24186878", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "To investigate the long-term safety and efficacy of empagliflozin, a sodium glucose cotransporter 2 inhibitor; sitagliptin; and metformin in patients with type 2 diabetes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24186878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 331, 
+            "offsetInEndSection": 543, 
+            "text": "METHODS:  DATA SOURCES: an extensive Medline, Embase and Cochrane Database search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin' and 'dutogliptin' was performed up to 1 March 2013. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 574, 
+            "text": "RESEARCH DESIGN AND METHODS: An extensive Medline and Embase search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin' was performed, collecting all randomized clinical trials on humans up to March 1, 2011. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22106978", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 632, 
+            "text": "METHODS: We conducted a search on MEDLINE, Embase and Cochrane Collaborative database for randomized controlled trials (RCTs) of DPP-4 inhibitors and metformin as initial combination therapy or as monotherapy in patients with T2DM by the end of December 2012, using the key words 'alogliptin', 'dutogliptin', 'linagliptin', 'saxagliptin', 'sitagliptin', 'vildagliptin' and 'metformin'. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23803146", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 328, 
+            "offsetInEndSection": 466, 
+            "text": "Sitagliptin (MK- 0431), Saxagliptin, Melogliptin, Linagliptin (BI-1356), Dutogliptin, Carmegliptin, Alogliptin and Vildagliptin (LAF237). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23140189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 780, 
+            "text": "Aim of the present meta-analysis is the systematic collection and synthesis of information on treatment-emergent cases of acute heart failure described in randomized clinical trials with DPP4.DATA SOURCES: An extensive Medline, Embase, and Cochrane Database search for \"vildagliptin\", \"sitagliptin\", \"saxagliptin\", \"alogliptin\", \"linagliptin\", and \"dutogliptin\" was performed, collecting all randomized clinical trials on humans up to October 1st, 2013. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Quantitative model of the relationship between dipeptidyl peptidase-4 (DPP-4) inhibition and response: meta-analysis of alogliptin, saxagliptin, sitagliptin, and vildagliptin efficacy results.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22162539", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "The dipeptidyl peptidase-4 (DPP-4) inhibitors linagliptin, sitagliptin, saxagliptin, vildagliptin and alogliptin are being developed and have been approved for the treatment of type-2 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21913883", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 313, 
+            "text": "The objective of this model-based meta-analysis was to describe the time course of HbA1c response after dosing with alogliptin (ALOG), saxagliptin (SAXA), sitagliptin (SITA), or vildagliptin (VILD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22162539", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Discovery of highly potent DPP-4 inhibitors by hybrid compound design based on linagliptin and alogliptin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24996141", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "The dipeptidylpeptidase-IV inhibitors sitagliptin, vildagliptin and saxagliptin do not impair innate and adaptive immune responses.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24320733", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1399, 
+            "offsetInEndSection": 1627, 
+            "text": "In conclusion, BI 1356 inhibited DPP-4 more effectively than vildagliptin, sitagliptin, saxagliptin, and alogliptin and has the potential to become the first truly once-a-day DPP-4 inhibitor for the treatment of type 2 diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18223196", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Highly potent DPP-4 inhibitors have been identified by hybrid compound design based on linagliptin and alogliptin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24996141", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "AIM: We assessed the efficacy of dipeptidyl peptidase-4 (DPP-4) inhibitors vildagliptin, sitagliptin, saxagliptin and alogliptin to reach the haemoglobin HbA1c target of <7% in people with type 2 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21320267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 210, 
+            "offsetInEndSection": 337, 
+            "text": "Whether the DPP-IV inhibitors sitagliptin, vildagliptin or saxagliptin impair immune responses is, however, currently unknown. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24320733", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 278, 
+            "text": "OBJECTIVE: To assess the efficacy and safety of DPP-4 inhibitors, including sitagliptin, saxagliptin, vildagliptin, and linagliptin, in type 2 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23136353", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 894, 
+            "offsetInEndSection": 1042, 
+            "text": "Given as monotherapy, linagliptin, sitagliptin, and vildagliptin (but not saxagliptin) met the equivalence criterion when compared with one another.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1043, 
+            "offsetInEndSection": 1225, 
+            "text": "Given in combination with metformin, linagliptin, saxagliptin, sitagliptin, and vildagliptin showed an equivalent effect whereas alogliptin did not satisfy the equivalence criterion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 514, 
+            "text": "an extensive Medline, Embase and Cochrane Database search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin' and 'dutogliptin' was performed up to 1 March 2013.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 533, 
+            "text": "An extensive Medline and Embase search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin' was performed, collecting all randomized clinical trials on humans up to March 1, 2011.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22106978", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 501, 
+            "offsetInEndSection": 748, 
+            "text": "An extensive Medline, Embase, and Cochrane Database search for \"vildagliptin\", \"sitagliptin\", \"saxagliptin\", \"alogliptin\", \"linagliptin\", and \"dutogliptin\" was performed, collecting all randomized clinical trials on humans up to October 1st, 2013.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 12, 
+            "text": "Saxagliptin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19791828", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 13, 
+            "text": "Vildagliptin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17100408", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 515, 
+            "text": "an extensive Medline, Embase and Cochrane Database search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin' and 'dutogliptin' was performed up to 1 March 2013.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 311, 
+            "offsetInEndSection": 534, 
+            "text": "An extensive Medline and Embase search for 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin' was performed, collecting all randomized clinical trials on humans up to March 1, 2011.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22106978", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 501, 
+            "offsetInEndSection": 749, 
+            "text": "An extensive Medline, Embase, and Cochrane Database search for \"vildagliptin\", \"sitagliptin\", \"saxagliptin\", \"alogliptin\", \"linagliptin\", and \"dutogliptin\" was performed, collecting all randomized clinical trials on humans up to October 1st, 2013.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 657, 
+            "offsetInEndSection": 864, 
+            "text": "the words \"sitagliptin,\" \"vildagliptin,\" \"saxagliptin,\" \"alogliptin,\" \"linagliptin,\" and/or \"dutogliptin.\" Completed but unpublished trials were identified through a search of the ClinicalTrials.gov website,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22215383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 466, 
+            "text": "Sitagliptin (MK- 0431), Saxagliptin, Melogliptin, Linagliptin (BI-1356), Dutogliptin, Carmegliptin, Alogliptin and Vildagliptin (LAF237).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23140189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 726, 
+            "offsetInEndSection": 1025, 
+            "text": "Of these, two have been approved for clinical use in the United States: sitagliptin and saxagliptin. Additionally, linagliptin, vildagliptin and alogliptin are currently in phase III development in the United States while studies with another DPP IV inhibitor, dutogliptin, have been terminated (2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 617, 
+            "text": "We conducted a search on MEDLINE, Embase and Cochrane Collaborative database for randomized controlled trials (RCTs) of DPP-4 inhibitors and metformin as initial combination therapy or as monotherapy in patients with T2DM by the end of December 2012, using the key words 'alogliptin', 'dutogliptin', 'linagliptin', 'saxagliptin', 'sitagliptin', 'vildagliptin' and 'metformin'.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23803146", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 895, 
+            "offsetInEndSection": 1226, 
+            "text": "Given as monotherapy, linagliptin, sitagliptin, and vildagliptin (but not saxagliptin) met the equivalence criterion when compared with one another. Given in combination with metformin, linagliptin, saxagliptin, sitagliptin, and vildagliptin showed an equivalent effect whereas alogliptin did not satisfy the equivalence criterion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 827, 
+            "offsetInEndSection": 1114, 
+            "text": "Additionally, linagliptin, vildagliptin and alogliptin are currently in phase III development in the United States while studies with another DPP IV inhibitor, dutogliptin, have been terminated (2). Alogliptin was approved for use in Japan under the trade name Nesina\u00ae in April 2010 (3).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 729, 
+            "offsetInEndSection": 817, 
+            "text": "Any DPP-4 inhibitor (vildagliptin, sitagliptin, saxagliptin, linagliptin or alogliptin).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25687897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 447, 
+            "offsetInEndSection": 898, 
+            "text": "An extensive search of Medline and the Cochrane Library (any date up to December 31, 2010, restricted to randomized clinical trials, published in English) was performed for all trials containing, in any field, the words \"sitagliptin,\" \"vildagliptin,\" \"saxagliptin,\" \"alogliptin,\" \"linagliptin,\" and/or \"dutogliptin.\" Completed but unpublished trials were identified through a search of the ClinicalTrials.gov website, using the same keywords as above.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22215383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 345, 
+            "text": "A systematic review and meta-analysis of randomised controlled trials (RCTs) of DPP-4 inhibitors (vildagliptin, sitagliptin, saxagliptin, linagliptin and alogliptin) on HbA1c were conducted.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25687897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 452, 
+            "offsetInEndSection": 780, 
+            "text": "Several clinical trials have studied the addition of GLP-1 receptor agonists [exenatide BID (twice daily), lixisenatide, albiglutide] or DPP-4 inhibitors (vildagliptin, sitagliptin, saxagliptin, alogliptin, linagliptin) to ongoing insulin therapy or adding insulin to ongoing therapy with a GLP-1 receptor agonist (liraglutide).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24567800", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "Testing the therapeutic equivalence of alogliptin, linagliptin, saxagliptin, sitagliptin or vildagliptin as monotherapy or in combination with metformin in patients with type 2 diabetes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24793219", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 827, 
+            "offsetInEndSection": 1025, 
+            "text": "Additionally, linagliptin, vildagliptin and alogliptin are currently in phase III development in the United States while studies with another DPP IV inhibitor, dutogliptin, have been terminated (2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21431099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1131, 
+            "offsetInEndSection": 1326, 
+            "text": "This review summarizes the available data on drug-drug interactions reported in the literature for these five DDP-4 inhibitors: sitagliptin, vildagliptin, saxagliptin, alogliptin and linagliptin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20690781", 
+            "endSection": "abstract"
+        }
+    ]
+}

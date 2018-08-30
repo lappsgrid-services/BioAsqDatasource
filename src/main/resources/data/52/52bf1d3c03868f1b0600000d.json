@@ -1,0 +1,475 @@
+{
+    "body": "What symptoms characterize the Muenke syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20301588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17414289", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21844411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22622662", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22446440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14963686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20592905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21403567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20301628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22016144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23044018"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3212", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/779"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/779", 
+            "o": "Muenke_syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/779", 
+            "o": "http://www.dbpedia.org/resource/Muenke_syndrome"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3212", 
+            "o": "Muenke syndrome, 602849"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17680562", 
+            "o": "C84904"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11927462"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17680562"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927462", 
+            "o": "MUENKE SYNDROME"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18467923"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449528", 
+            "o": "Muenke Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467923", 
+            "o": "Syndrome of coronal craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11999362", 
+            "o": "MUENKE NONSYNDROMIC CORONAL CRANIOSYNOSTOSIS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11999362"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18449529"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18449528"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449529", 
+            "o": "Muenke nonsyndromic coronal craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449528", 
+            "o": "C537369"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449529", 
+            "o": "C537369"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467923", 
+            "o": "C537369"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927462", 
+            "o": "602849"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11999362", 
+            "o": "602849"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449528", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18449529", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18467923", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11927462", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11999362", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17680562", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0010278"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11993001", 
+            "o": "CRS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18466196", 
+            "o": "Craniostenoses"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12007160", 
+            "o": "CRANIOSYNOSTOSIS, TYPE 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17867080", 
+            "o": "Craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18447707", 
+            "o": "Craniosynostosis Plagiocephalies"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0476812", 
+            "o": "craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18469337", 
+            "o": "Synostotic Plagiocephaly"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8356736", 
+            "o": "Premature closure of cranial sutures"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11935450", 
+            "o": "CRS1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18457001", 
+            "o": "Craniostenosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18447706", 
+            "o": "Plagiocephaly, Craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18463141", 
+            "o": "Plagiocephaly, Synostotic"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18460116", 
+            "o": "Plagiocephalies, Synostotic"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0398432", 
+            "o": "CRANIOSYNOSTOSIS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17990682", 
+            "o": "Craniosynostoses"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18469338", 
+            "o": "Craniosynostosis Plagiocephaly"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18450823", 
+            "o": "Synostotic Plagiocephalies"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12007161", 
+            "o": "CRANIOSTENOSIS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18014478", 
+            "o": "Craniosynostoses [Disease/Finding]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18457000", 
+            "o": "Plagiocephalies, Craniosynostosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1305187", 
+            "o": "synostosis (cranial)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#definition", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1864436", 
+            "o": "NCI: A rare autosomal dominant inherited disorder caused by mutations in the FGFR3 gene. It is characterized by premature fusion of cranial bones, resulting in head shape abnormalities, flattened cheekbones, and wide-set eyes."
+        }
+    ], 
+    "ideal_answer": [
+        "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene.   Muenke syndrome is characterized by coronal craniosynostosis (bilateral more often than unilateral), hearing loss, developmental delay, and carpal and/or tarsal bone coalition. Tarsal coalition is a distinct feature of Muenke syndrome and has been reported since the initial description of the disorder in the 1990s.   ", 
+        "Muenke syndrome is characterized by considerable phenotypic variability: features may include coronal synostosis (more often bilateral than unilateral); synostosis of other sutures, all sutures (pansynostosis), or no sutures; or macrocephaly. Bilateral coronal synostosis typically results in brachycephaly (broad skull), although turribrachycephaly (a \"tower-shaped\" skull) or a cloverleaf skull can be observed. Unilateral coronal synostosis results in anterior plagiocephaly (asymmetry of the skull and face). Other craniofacial findings typically include: ocular hypertelorism, ptosis or proptosis (usually mild), midface hypoplasia, temporal bossing, and a highly arched palate. Strabismus is common. Extracranial findings can include: hearing loss (in 33%-100% of affected individuals); developmental delay (~33%); intellectual disability; carpal bone and/or tarsal bone fusions; brachydactyly, broad toes, broad thumbs, and/or clinodactyly; and radiographic findings of thimble-like (short and broad) middle phalanges and/or cone-shaped epiphyses. Phenotypic variability is considerable even within the same family."
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012816", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "summary", 
+    "id": "52bf1d3c03868f1b0600000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 481, 
+            "text": "Muenke syndrome is characterized by coronal craniosynostosis (bilateral more often than unilateral), hearing loss, developmental delay, and carpal and/or tarsal bone coalition. Tarsal coalition is a distinct feature of Muenke syndrome and has been reported since the initial description of the disorder in the 1990s. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Muenke syndrome caused by the FGFR3 Pro250Arg mutation is associated with craniosynostosis, hearing loss, and various bony anomalies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "Muenke syndrome caused by the FGFR3(P250R) mutation is an autosomal dominant disorder mostly identified with coronal suture synostosis, but it also presents with other craniofacial phenotypes that include mild to moderate midface hypoplasia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22016144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1207, 
+            "text": "Sensorineural hearing loss at lower frequencies was found only in patients with Muenke syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21844411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1388, 
+            "offsetInEndSection": 1544, 
+            "text": " Sensorineural hearing loss can occur in all 4 syndromes studied but is the primary cause of hearing loss in children and young adults with Muenke syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21844411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 298, 
+            "text": "The facial features of children with FGFR3Pro250Arg mutation (Muenke syndrome) differ from those with the other eponymous craniosynostotic disorders. We documented midfacial growth and position of the forehead after fronto-orbital advancement (FOA) in patients with the FGFR3 mutation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "The Muenke syndrome (MS) is characterized by unicoronal or bicoronal craniosynostosis, midfacial hypoplasia, ocular hypertelorism, and a variety of minor abnormalities associated with a mutation in the fibroblast growth factor receptor 3 (FGFR3) gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20592905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 158, 
+            "offsetInEndSection": 1281, 
+            "text": "Muenke syndrome is characterized by considerable phenotypic variability: features may include coronal synostosis (more often bilateral than unilateral); synostosis of other sutures, all sutures (pansynostosis), or no sutures; or macrocephaly. Bilateral coronal synostosis typically results in brachycephaly (broad skull), although turribrachycephaly (a \"tower-shaped\" skull) or a cloverleaf skull can be observed. Unilateral coronal synostosis results in anterior plagiocephaly (asymmetry of the skull and face). Other craniofacial findings typically include: ocular hypertelorism, ptosis or proptosis (usually mild), midface hypoplasia, temporal bossing, and a highly arched palate. Strabismus is common. Extracranial findings can include: hearing loss (in 33%-100% of affected individuals); developmental delay (~33%); intellectual disability; carpal bone and/or tarsal bone fusions; brachydactyly, broad toes, broad thumbs, and/or clinodactyly; and radiographic findings of thimble-like (short and broad) middle phalanges and/or cone-shaped epiphyses. Phenotypic variability is considerable even within the same family. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20301588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 224, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 762, 
+            "text": "A majority of the patients (95%) demonstrated a mild-to-moderate, low frequency sensorineural hearing loss.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 960, 
+            "offsetInEndSection": 1222, 
+            "text": "Increased digital markings were more severe posteriorly in Muenke patients than in non-Muenke patients. The Muenke patients with unilateral coronal synostosis showed a somewhat more severe asymmetry in the anterior part of the skull than the non-Muenke patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17414289", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 322, 
+            "text": "Muenke syndrome is a genetically determined craniosynostosis that involves one or both coronal sutures. In some patients it is associated with skeletal abnormalities such as thimble-like middle phalanges, coned epiphysis, and/or neurological impairment, namely sensorineural hearing loss or mental retardation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14963686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 223, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Muenke syndrome is characterized by various craniofacial deformities and is caused by an autosomal-dominant activating mutation in fibroblast growth factor receptor 3 (FGFR3(P250R)               ).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22622662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 251, 
+            "text": "The Muenke syndrome (MS) is characterized by unicoronal or bicoronal craniosynostosis, midfacial hypoplasia, ocular hypertelorism, and a variety of minor abnormalities associated with a mutation in the fibroblast growth factor receptor 3 (FGFR3) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20592905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 393, 
+            "offsetInEndSection": 665, 
+            "text": "Muenke syndrome and FGFR2-related isolated coronal synostosis are characterized only by uni- or bicoronal craniosynostosis; the remainder are characterized by bicoronal craniosynostosis or cloverleaf skull, distinctive facial features, and variable hand and foot findings.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20301628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 409, 
+            "text": "Muenke syndrome is an autosomal-dominant craniosynostosis syndrome characterized by unilateral or bilateral coronal craniosynostosis, hearing loss, intellectual disability, and relatively subtle limb findings such as carpal bone fusion and tarsal bone fusion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Muenke syndrome caused by the FGFR3 Pro250Arg mutation is associated with craniosynostosis, hearing loss, and various bony anomalies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 264, 
+            "text": "Muenke syndrome is characterized by coronal suture synostosis, midface hypoplasia, subtle limb anomalies, and hearing loss", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 408, 
+            "text": "Muenke syndrome is an autosomal-dominant craniosynostosis syndrome characterized by unilateral or bilateral coronal craniosynostosis, hearing loss, intellectual disability, and relatively subtle limb findings such as carpal bone fusion and tarsal bone fusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 339, 
+            "text": "Muenke syndrome is characterized by coronal craniosynostosis (bilateral more often than unilateral), hearing loss, developmental delay, and carpal and/or tarsal bone coalition", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "Muenke syndrome is characterized by various craniofacial deformities and is caused by an autosomal-dominant activating mutation in fibroblast growth factor receptor 3 (FGFR3(P250R)               )", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22622662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 222, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }
+    ]
+}

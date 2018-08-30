@@ -1,0 +1,147 @@
+{
+    "body": "Which diseases are associated with Alu element insertion?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7874122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22723857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17146684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20157369", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15841484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17178205"
+    ], 
+    "ideal_answer": [
+        "Diseases associated with Alu element insertion are the following: myotonic dystrophy type 2, Friedreich ataxia, spinocerebellar ataxia type 10, autosomal dominant optic atrophy, Menkes disease, hyper-IgM with immunodeficiency syndrome (HIGM), and anterior pituitary aplasia."
+    ], 
+    "exact_answer": [
+        [
+            "myotonic dystrophy type 2"
+        ], 
+        [
+            "Friedreich ataxia"
+        ], 
+        [
+            "spinocerebellar ataxia type 10"
+        ], 
+        [
+            "autosomal dominant optic atrophy"
+        ], 
+        [
+            "Menkes disease"
+        ], 
+        [
+            "hyper-IgM with immunodeficiency syndrome (HIGM)"
+        ], 
+        [
+            "anterior pituitary aplasia"
+        ], 
+        [
+            "HNPCC"
+        ], 
+        [
+            "FAP"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004251", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020087"
+    ], 
+    "type": "list", 
+    "id": "52f129d92059c6d71c000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1254, 
+            "offsetInEndSection": 1427, 
+            "text": "Alu elements are known to be the source of microsatellite repeats responsible for two other repeat expansion disorders: Friedreich ataxia and spinocerebellar ataxia type 10.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 891, 
+            "text": "We identified an Alu-element insertion located in intron 7 of OPA1 causing an in-frame deletion of exon 8 in 18 family members.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20157369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 159, 
+            "text": "Autosomal dominant optic atrophy (ADOA) is the most common form of hereditary optic neuropathy caused by mutations in the optic atrophy 1 (OPA1) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20157369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1105, 
+            "offsetInEndSection": 1206, 
+            "text": "However, this is the first report of a pathogenic OPA1 gene mutation resulting from an Alu insertion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20157369", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "The first reported case of Menkes disease caused by an Alu insertion mutation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17178205", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "We present the first reported case of Menkes disease caused by an Alu element insertion mutation that interfered with splicing regulatory elements.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17178205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "HIGM syndrome caused by insertion of an AluYb8 element in exon 1 of the CD40LG gene", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17146684", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 328, 
+            "text": "A new mutation of the CD40LG gene that encodes the CD40 ligand molecule was characterized in a young patient harboring a hyper-IgM with immunodeficiency syndrome. Inactivation of CD40LG gene resulted from the insertion of an AluYb8 element in exon 1 responsible for a total deficiency of CD40 ligand expression by T lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17146684", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Alu-element insertion in the homeodomain of HESX1 and aplasia of the anterior pituitary", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15841484", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 697, 
+            "offsetInEndSection": 875, 
+            "text": "One patient, who also has retinal coloboma, carries a HESX1 defect in the homozygous state: an Alu insertion in exon 3, a sequence that encodes the major part of the homeodomain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15841484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1199, 
+            "offsetInEndSection": 1334, 
+            "text": "Anterior pituitary aplasia is a new example of a human disease caused by a germline retrotransposition event involving an Alu sequence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15841484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 340, 
+            "text": "Myotonic dystrophy (DM) is associated with abnormal expansions of the CTG repeats in the 3' untranslated region of its gene. Previous studies in individuals of European origin demonstrated strong linkage disequilibrium between different CTG repeat length alleles and an Alu element insertion/deletion polymorphism in intron 8 of the DM gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7874122", 
+            "endSection": "abstract"
+        }
+    ]
+}

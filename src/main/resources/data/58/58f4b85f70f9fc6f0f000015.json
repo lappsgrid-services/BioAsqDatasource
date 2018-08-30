@@ -1,0 +1,189 @@
+{
+    "body": "How are Arboviruses transmitted?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26141429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10488638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21658241", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26925368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16893487", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25597441", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27220616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1973949", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26363996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1297177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27869394", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24941331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26283013", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8158611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25053841"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003725", 
+            "o": "Arboviruses"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003725", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18608581"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18608581", 
+            "o": "arboviruses"
+        }
+    ], 
+    "ideal_answer": [
+        "Arboviruses are transmitted by arthropods."
+    ], 
+    "exact_answer": [
+        "By arthropods"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007303", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018562", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001103", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001102"
+    ], 
+    "type": "factoid", 
+    "id": "58f4b85f70f9fc6f0f000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Epizootic congenital abnormalities, encephalomyelitis and febrile illnesses in cattle caused by arthropod-borne viruses (arboviruses) are prevalent in Japan", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25597441", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 97, 
+            "text": " Zika virus (ZIKV) is an arthropod-borne virus (arbovirus) transmitted by mosquitoes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26283013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "Nine different arboviruses are known to be transmitted by, or associated with, mosquitoes in Europe, and several (West Nile, Sindbis and Tahyna viruses) are reported to cause outbreaks of human disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16893487", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Arthropod-borne viruses (arboviruses) are transmitted to humans primarily through the bites of infected mosquitoes and ticks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24941331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 207, 
+            "text": "Arboviruses are transmitted among vertebrates by biting insects, chiefly mosquitoes and ticks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21658241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Arboviruses are transmitted by distantly related arthropod vectors such as mosquitoes (class Insecta) and ticks (class Arachnida)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25053841", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "Mosquito-transmitted arthropod-borne viruses (arboviruses) such as dengue virus, chikungunya virus, and West Nile virus constitute a major public health burden and are increasing in severity and frequency worldwide.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26363996", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 564, 
+            "text": "Malaria and Japanese encephalitis are the two most serious human diseases transmitted by riceland mosquitoes, but they have been incriminated as vectors of dozens of arboviruses and other parasites and pathogens including the causal agents of West Nile and Rift Valley Fevers and lymphatic filariasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1973949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Arboviruses are transmitted by distantly related arthropod vectors such as mosquitoes (class Insecta) and ticks (class Arachnida).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25053841", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 594, 
+            "offsetInEndSection": 786, 
+            "text": "Many of them are transmitted by insects (arboviruses, e.g. yellow fever virus) or by rodents (e.g. Hanta viruses), others by contact with patients and nosocomial infections (e.g. Ebola virus).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10488638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Arboviruses - viruses transmitted by haematophagous arthropods - are responsible for febrile syndromes, which sometimes include haemorrhagic or neurological symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26141429", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 289, 
+            "text": "Arboviruses are transmitted to vertebral hosts during blood feedings by mosquitoes, ticks, biting flies, mites, and nits.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27220616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Arboviruses transmitted by mosquitoes are a major cause of human disease worldwide.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26925368", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Diseases caused by arboviruses transmitted by Aedes aegypti, such as dengue, chikungunya and Zika, continue to rise in annual incidence and geographic expansion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27869394", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 414, 
+            "text": "Arboviruses transmitted by ticks must adapt to the peculiar physiological and behavioral characteristics of ticks, particularly with regard to blood feeding, bloodmeal digestion, and molting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8158611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 330, 
+            "offsetInEndSection": 532, 
+            "text": "The last decade has seen significant changes in the epidemiology of arboviruses transmitted by mosquitoes of the genus Aedes, particularly in relation to the intercontinental spread of Aedes albopictus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26141429", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 381, 
+            "offsetInEndSection": 687, 
+            "text": "This technique enables the detection of 70 of the 80 arboviruses transmitted by mosquitoes in Africa and very easily detects arbovirus associations by using either monospecific or monoclonal immune ascitic fluids (dengue-1-2-3-4 and yellow fever viruses) used in the indirect immunofluorescence technique..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1297177", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "body": "Which packages are used for performing overlap analysis of genomic regions in R/bioconductor?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23950696"
+    ], 
+    "ideal_answer": [
+        "IRanges, GenomicRanges, and GenomicFeatures provide scalable data structures for representing annotated ranges on the genome, with special support for transcript structures, read alignments and coverage vectors. Computational facilities include efficient algorithms for overlap and nearest neighbor detection, coverage calculation and other range operations. This infrastructure directly supports more than 80 other Bioconductor packages, including those for sequence analysis, differential expression analysis and visualization.", 
+        "At the core of the infrastructure are three packages: IRanges, GenomicRanges, and GenomicFeatures. These packages provide scalable data structures for representing annotated ranges on the genome, with special support for transcript structures, read alignments and coverage vectors. Computational facilities include efficient algorithms for overlap and nearest neighbor detection, coverage calculation and other range operations. This infrastructure directly supports more than 80 other Bioconductor packages, including those for sequence analysis, differential expression analysis and visualization."
+    ], 
+    "exact_answer": [
+        [
+            "IRanges"
+        ], 
+        [
+            "GenomicRanges"
+        ], 
+        [
+            "GenomicFeatures"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023281"
+    ], 
+    "type": "list", 
+    "id": "56a3bf0f496b62f23f00000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 792, 
+            "text": "At the core of the infrastructure are three packages: IRanges, GenomicRanges, and GenomicFeatures. These packages provide scalable data structures for representing annotated ranges on the genome, with special support for transcript structures, read alignments and coverage vectors. Computational facilities include efficient algorithms for overlap and nearest neighbor detection, coverage calculation and other range operations. This infrastructure directly supports more than 80 other Bioconductor packages, including those for sequence analysis, differential expression analysis and visualization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23950696", 
+            "endSection": "abstract"
+        }
+    ]
+}

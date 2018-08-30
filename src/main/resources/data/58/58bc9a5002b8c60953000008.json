@@ -1,0 +1,243 @@
+{
+    "body": "Please list the 3 findings in HELLP syndrome.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26953551", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11854637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23871223", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11720149", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23040928", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8765269", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26446688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8678146", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1471661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9914607", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10847654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19703145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26016316", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8059835", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23697398"
+    ], 
+    "ideal_answer": [
+        "hemolysis, elevated liver enzymes and low platelets constitute the hellp syndrome.", 
+        "HELLP syndrome (hemolysis, elevated liver enzymes, low platelets) is an obstetric complication and is characterized by microangiopathic hemolytic anemia, elevated liver enzymes by intravascular breakdown of fibrin in hepatic sinusoids and reduction of platelet circulation by its increased consumption"
+    ], 
+    "exact_answer": [
+        [
+            "hemolytic anemia"
+        ], 
+        [
+            "elevated liver enzymes"
+        ], 
+        [
+            "low platlets"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:13133", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017359"
+    ], 
+    "type": "list", 
+    "id": "58bc9a5002b8c60953000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 374, 
+            "text": "HELLP syndrome (hemolysis, elevated liver enzymes, low platelets) is an obstetric complication with heterogonous presentation and multisystemic involvement. It is characterized by microangiopathic hemolytic anemia, elevated liver enzymes by intravascular breakdown of fibrin in hepatic sinusoids and reduction of platelet circulation by its increased consumption", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26446688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 349, 
+            "offsetInEndSection": 431, 
+            "text": "Hemolysis, elevated liver enzymes and low platelets constitute the HELLP syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26953551", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Our objective was to describe the hepatic imaging findings in selected patients with HELLP syndrome (hemolysis, elevated liver enzymes, and low platelet count) and to correlate these findings with the severity of concurrent clinical and laboratory abnormalities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8678146", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "Our objective was to categorize the histologic findings in the liver in patients with HELLP syndrome (hemolysis, elevated liver enzymes, and low platelet count) and to correlate these findings with the severity of clinical laboratory abnormalities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1471661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 451, 
+            "text": "OBJECTIVE: Our purpose was to test the hypothesis that the HELLP (hemolysis, elevated liver enzymes, and low platelets) syndrome is the result of excessive vasoconstriction of the hepatic arterial circulation.STUDY DESIGN: Doppler ultrasonography was used to measure the pulsatility index of the common hepatic artery in 14 women with preeclampsia, 15 with preeclampsia complicated by HELLP syndrome, and 8 with HELLP syndrome but without proteinuria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8059835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 217, 
+            "text": "Extensive hepatic infarction in severe preeclampsia as part of the HELLP syndrome (hemolysis, elevated liver enzymes, and low platelets): evolution of CT findings and successful treatment with plasma exchange therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23040928", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 260, 
+            "text": "OBJECTIVE: Our objective was to categorize the histologic findings in the liver in patients with HELLP syndrome (hemolysis, elevated liver enzymes, and low platelet count) and to correlate these findings with the severity of clinical laboratory abnormalities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1471661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "The syndrome of haemolysis, elevated liver enzymes and low platelets (HELLP syndrome) is a life threatening, severe complication of pre-eclampsia with typical laboratory findings.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10847654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Hemolysis, elevated liver enzymes, and low platelet count (HELLP) syndrome ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11720149", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 93, 
+            "text": "hemolysis, elevated liver enzymes, and low platelet count (HELLP) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11720149", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "HELLP syndrome, a syndrome of hemolysis, elevated liver enzymes and low platelets", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10843242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "HELLP syndrome is a collection of symptoms described as hemolysis, elevated liver enzymes and low platelets", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25806101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 333, 
+            "text": "The HELLP syndrome is characterized by the presence of hypertension disorder more a triad: microangiopathic hemolysis, elevated liver enzymes and low platelet count.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26016316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 115, 
+            "text": "HELLP (hemolysis, elevated liver enzymes, and low platelets)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8765269", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 88, 
+            "offsetInEndSection": 160, 
+            "text": " HELLP (hemolysis, elevated liver enzymes, and low platelets) syndrome, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8765269", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 136, 
+            "text": "Hepatic hemorrhage occurs in less than 5% of patients with hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23871223", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 39, 
+            "offsetInEndSection": 100, 
+            "text": " HELLP (haemolysis, elevated liver enzymes and low platelets)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15027924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 93, 
+            "text": "Hemolysis, elevated liver enzymes, and low platelet count syndrome (HELLP syndrome) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19703145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 108, 
+            "offsetInEndSection": 174, 
+            "text": " hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21501125", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 90, 
+            "text": " hemolysis, elevated liver enzymes and low platelet (HELLP) syndrome, i", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19663680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 81, 
+            "text": "Hemolysis, elevated liver enzymes, and low platelets (HELLP) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23697398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 79, 
+            "offsetInEndSection": 144, 
+            "text": "HELLP (hemolysis, elevated liver enzymes, and low platelet count)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9914607", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 373, 
+            "offsetInEndSection": 438, 
+            "text": "HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11854637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 30, 
+            "offsetInEndSection": 95, 
+            "text": "hemolysis, elevated liver enzymes, low platelets (HELLP) syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17666652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 227, 
+            "text": "hemolysis, elevated liver enzymes, and low platelets (HELLP),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15572962", 
+            "endSection": "abstract"
+        }
+    ]
+}

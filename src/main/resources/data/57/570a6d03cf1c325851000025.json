@@ -1,0 +1,106 @@
+{
+    "body": "List sclerostin interaction partners.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22206666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20951118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17002572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15199066"
+    ], 
+    "ideal_answer": [
+        "alkaline phosphatase\ncarbonic anhydrase\ngremlin-1\nfetuin A\nmidkine\nannexin A1 \nannexin A2\ncollagen \u03b11\ncasein kinase II \nsecreted frizzled related protein 4\nPhex\nasporin\nfollistatin\nerbB-3\nLRP5 \nnoggin"
+    ], 
+    "exact_answer": [
+        [
+            "alkaline phosphatase"
+        ], 
+        [
+            "carbonic anhydrase"
+        ], 
+        [
+            "gremlin-1"
+        ], 
+        [
+            "fetuin A"
+        ], 
+        [
+            "midkine"
+        ], 
+        [
+            "annexin A1"
+        ], 
+        [
+            "annexin A2"
+        ], 
+        [
+            "collagen \u03b11"
+        ], 
+        [
+            "casein kinase II"
+        ], 
+        [
+            "secreted frizzled related protein 4"
+        ], 
+        [
+            "Phex"
+        ], 
+        [
+            "asporin"
+        ], 
+        [
+            "follistatin"
+        ], 
+        [
+            "erbB-3"
+        ], 
+        [
+            "LRP5"
+        ], 
+        [
+            "noggin"
+        ]
+    ], 
+    "type": "list", 
+    "id": "570a6d03cf1c325851000025", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 641, 
+            "offsetInEndSection": 1277, 
+            "text": " Several previously unidentified full-length sclerostin-interacting proteins such as alkaline phosphatase, carbonic anhydrase, gremlin-1, fetuin A, midkine, annexin A1 and A2, and collagen \u03b11, which have established roles in bone formation or resorption processes, were bound to the sclerostin-MBP amylose resin but not to the MBP amylose resin. Other full-length sclerostin-interacting proteins such as casein kinase II and secreted frizzled related protein 4 that modulate Wnt signaling were identified. Several peptides derived from proteins such as Phex, asporin and follistatin that regulate bone metabolism also bound sclerostin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22206666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 450, 
+            "text": "We identified an interaction between sclerostin and the carboxyl-terminal portion of the receptor tyrosine-protein kinase erbB-3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20951118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 419, 
+            "offsetInEndSection": 690, 
+            "text": "Sclerostin, SOST, the gene affected in this disease, has been postulated to exert its activity by functioning as a BMP antagonist. However, recent evidence indicates that SOST is highly related to Wise, which can also modulate the Wnt pathway by binding to LRP5 and LRP6.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17002572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Bone density ligand, Sclerostin, directly interacts with LRP5 but not LRP5G171V to modulate Wnt activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17002572", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 197, 
+            "offsetInEndSection": 300, 
+            "text": "We show that recombinant sclerostin and noggin bound to each other with high affinity (K(D) = 2.92 nm).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15199066", 
+            "endSection": "abstract"
+        }
+    ]
+}

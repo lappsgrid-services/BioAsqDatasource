@@ -1,0 +1,82 @@
+{
+    "body": "Where is base J found in the genome of Leishmania tarentolae?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25662217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17329373", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19114062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10562569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25104019", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20215442"
+    ], 
+    "ideal_answer": [
+        "Base J (\u03b2-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei.", 
+        "Base J (-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei. J is enriched at sites involved in RNA polymerase (RNAP) II initiation and termination. ", 
+        "Base J (\u00ce\u00b2-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei.", 
+        "Base J (\u03b2-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops.", 
+        "j (\u03b2-d-glucosyl-hydroxymethyluracil) replaces 1% of t in the leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops. . j is found predominantly in repetitive dna and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in trypanosoma brucei. . ", 
+        "base j (\u03b2-d-glucosyl-hydroxymethyluracil) replaces 1% of t in the leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops."
+    ], 
+    "exact_answer": [
+        "telomeric repeats"
+    ], 
+    "type": "factoid", 
+    "id": "58cf5c5a8acda34529000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Base J (\u03b2-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25662217", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 266, 
+            "text": "Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10562569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 242, 
+            "text": "J is enriched at sites involved in RNA polymerase (RNAP) II initiation and termination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25104019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Base J (\u03b2-D-glucosyl-hydroxymethyluracil) replaces 1% of T in the Leishmania genome and is only found in telomeric repeats (99%) and in regions where transcription starts and stops", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25662217", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Telomeric localization of the modified DNA base J in the genome of the protozoan parasite Leishmania", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17329373", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 267, 
+            "text": "Base J is found predominantly in repetitive DNA and correlates with epigenetic silencing of telomeric variant surface glycoprotein genes in Trypanosoma brucei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10562569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Base J is a hypermodified DNA base localized primarily to telomeric regions of the genome of Trypanosoma brucei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20215442", 
+            "endSection": "abstract"
+        }
+    ]
+}

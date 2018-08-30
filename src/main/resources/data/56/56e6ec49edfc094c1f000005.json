@@ -1,0 +1,52 @@
+{
+    "body": "Which is the target of the drug Denosumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26504466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26029270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26508890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26203221"
+    ], 
+    "ideal_answer": [
+        "Denosumab (Dmab) is a fully human monoclonal antibody against the receptor activator of nuclear factor-\u03baB ligand (RANKL)."
+    ], 
+    "exact_answer": [
+        "receptor activator of nuclear factor-\u03baB ligand", 
+        "RANKL"
+    ], 
+    "type": "factoid", 
+    "id": "56e6ec49edfc094c1f000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Denosumab is a human monoclonal antibody which specifically blocks receptor activator of nuclear factor \u03baB ligand and is a very potent antiresorptive drug. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26029270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 606, 
+            "text": "denosumab, a monoclonal antibody against RANKL", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26203221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Denosumab is a human monoclonal antibody indicated for the treatment of osteoporosis in postmenopausal women with a high risk of fractures. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26504466", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 466, 
+            "offsetInEndSection": 776, 
+            "text": "Denosumab (Dmab) is a fully human monoclonal antibody against the receptor activator of nuclear factor-\u03baB ligand (RANKL), which, through the prevention of the RANKL/RANK interaction, inhibits osteoclast-mediated bone resorption and significantly reduces the risk of vertebral, nonvertebral, and hip fractures. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26508890", 
+            "endSection": "abstract"
+        }
+    ]
+}

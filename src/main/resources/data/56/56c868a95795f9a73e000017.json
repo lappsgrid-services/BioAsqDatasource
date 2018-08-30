@@ -1,0 +1,183 @@
+{
+    "body": "What is the application of the Bimolecular Fluorescence Complementation (BiFC) assay in Drosophila embryos?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16454041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19771334", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18573091", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17406412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25151172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23317900", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21091444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18155474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17534848"
+    ], 
+    "ideal_answer": [
+        "Bimolecular fluorescence complementation (BiFC) is a powerful method for studying protein-protein interactions in different cell types and organisms. This method was recently developed in the fruit fly Drosophila melanogaster, allowing analyzing protein interaction properties in a physiologically relevant developing context."
+    ], 
+    "exact_answer": [
+        "The study of protein-protein interactions in a physiologically relevant developing context."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004330", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004331", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013050", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005453"
+    ], 
+    "type": "factoid", 
+    "id": "56c868a95795f9a73e000017", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 598, 
+            "text": "Bimolecular fluorescence complementation (BiFC) is a powerful method for studying protein-protein interactions in different cell types and organisms. This method was recently developed in the fruit fly Drosophila melanogaster, allowing analyzing protein interaction properties in a physiologically relevant developing context. Here we present a detailed protocol for performing BiFC with the Venus fluorescent protein in live Drosophila embryos, taking the Hox-PBC partnership as an illustrative test case. This protocol applies to any transcription factor and split fluorescent protein in general.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25151172", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 416, 
+            "text": "The understanding of developmental complexity will, therefore, require the characterization of protein interactions within their proper environment. The bimolecular fluorescence complementation (BiFC) technology offers this possibility as it enables the direct visualization of protein interactions in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 1119, 
+            "text": "Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo. Importantly, all BiFC parameters were established with constructs that were stably expressed under the control of endogenous promoters. Under these physiological conditions, we showed that BiFC is specific and sensitive enough to analyse dynamic protein interactions. We next used BiFC in a candidate interaction screen, which led to the identification of several Hox protein partners.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 657, 
+            "text": "Using fluorescent proteins, we previously developed a bimolecular fluorescence complementation (BiFC) assay and a multicolor BiFC assay to visualize protein-protein interactions in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16454041", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 417, 
+            "offsetInEndSection": 562, 
+            "text": "The bimolecular fluorescence complementation (BiFC) assay represents one of these imaging tools for direct visualization of PPIs in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21091444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 455, 
+            "text": "The bimolecular fluorescence complementation (BiFC) assay provides an approach for the visualization of protein interactions and modifications in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19771334", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 417, 
+            "offsetInEndSection": 580, 
+            "text": "The bimolecular fluorescence complementation (BiFC) assay provides a direct approach for the visualization of molecular interactions in living cells and organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18155474", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 718, 
+            "offsetInEndSection": 949, 
+            "text": "The purpose of this protocol is to calculate signal-to-noise (S/N) ratio in the bimolecular fluorescence complementation (BiFC) assay and to provide a semi-quantitative analysis of protein-protein interaction (PPI) in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23317900", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 479, 
+            "offsetInEndSection": 605, 
+            "text": "Bimolecular fluorescence complementation (BiFC) analysis enables direct visualization of protein interactions in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18573091", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "The bimolecular fluorescence complementation (BiFC) assay has been widely accepted for studying in vivo detection of protein-protein interactions in several organisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17534848", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Visualization of protein interactions in living Drosophila embryos by the bimolecular fluorescence complementation assay.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 735, 
+            "text": "RESULTS: Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Design and implementation of bimolecular fluorescence complementation (BiFC) assays for the visualization of protein interactions in living cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17406412", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 417, 
+            "offsetInEndSection": 735, 
+            "text": "However, its potential has rarely been applied in embryos of animal model organisms and was only performed under transient protein expression levels. RESULTS: Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 715, 
+            "text": "However, its potential has rarely been applied in embryos of animal model organisms and was only performed under transient protein expression levels.  Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 555, 
+            "text": "The bimolecular fluorescence complementation (BiFC) technology offers this possibility as it enables the direct visualization of protein interactions in living cells. However, its potential has rarely been applied in embryos of animal model organisms and was only performed under transient protein expression levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 466, 
+            "text": "we previously developed a bimolecular fluorescence complementation (BiFC) assay and a multicolor BiFC assay to visualize protein-protein interactions in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16454041", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 556, 
+            "offsetInEndSection": 715, 
+            "text": "Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21276241", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 466, 
+            "text": "Using fluorescent proteins, we previously developed a bimolecular fluorescence complementation (BiFC) assay and a multicolor BiFC assay to visualize protein-protein interactions in living cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16454041", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "body": "How many times is CLAST faster than BLAST?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25495907"
+    ], 
+    "ideal_answer": [
+        "was capable of identifying sequence similarities ~80.8 times faster than blast and 9.6 times faster than blat . ", 
+        "CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT", 
+        "clast was capable of identifying sequence similarities ~80.8 times faster than blast and 9.6 times faster than blat.", 
+        "CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT. ", 
+        "CLAST is capable of identifying sequence similarities ~80.8 times faster than BLAST"
+    ], 
+    "exact_answer": [
+        "80.8 times", 
+        "80.8"
+    ], 
+    "type": "factoid", 
+    "id": "58f6295a70f9fc6f0f000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 920, 
+            "offsetInEndSection": 1035, 
+            "text": "CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25495907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 1011, 
+            "text": "First, CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25495907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 892, 
+            "offsetInEndSection": 1014, 
+            "text": "First, CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25495907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 892, 
+            "offsetInEndSection": 1015, 
+            "text": "First, CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25495907", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 893, 
+            "offsetInEndSection": 1016, 
+            "text": "First, CLAST was capable of identifying sequence similarities ~80.8 times faster than BLAST and 9.6 times faster than BLAT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25495907", 
+            "endSection": "abstract"
+        }
+    ]
+}

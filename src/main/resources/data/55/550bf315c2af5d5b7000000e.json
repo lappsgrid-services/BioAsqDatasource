@@ -1,0 +1,195 @@
+{
+    "body": "Is cystatin C or cystatin 3 used as a biomarker of kidney function?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23698027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23910705", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24114579", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24001705", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23577724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23813702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23571811", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24178972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24262510", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23797027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23574755", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23701892", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24300829", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23669156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24321840", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23866593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23744636"
+    ], 
+    "ideal_answer": [
+        "Yes, cystatin C (CysC) is a  novel biomarker of renal function."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CYT_COTJA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D055316", 
+        "http://www.uniprot.org/uniprot/CYTC_RAT", 
+        "http://www.biosemantics.org/jochem#4262069", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0065009", 
+        "http://www.uniprot.org/uniprot/CYTC_HUMAN", 
+        "http://www.uniprot.org/uniprot/CYT_CHICK", 
+        "http://www.uniprot.org/uniprot/CYTC_MOUSE", 
+        "http://www.uniprot.org/uniprot/CYTC_SAISC", 
+        "http://www.uniprot.org/uniprot/CYT_NAJAT", 
+        "http://www.uniprot.org/uniprot/CYT_SOYBN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003014", 
+        "http://www.uniprot.org/uniprot/CYT_ONCKE", 
+        "http://www.uniprot.org/uniprot/CYTC_MACMU", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054316", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003674", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015415", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090183", 
+        "http://www.uniprot.org/uniprot/CYTC_RABIT"
+    ], 
+    "type": "yesno", 
+    "id": "550bf315c2af5d5b7000000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 23, 
+            "offsetInEndSection": 202, 
+            "text": "to explore the effect of ageing on renal function with cystatin C as the marker of glomerular filtration rate (GFR) in the general population without vascular disease or diabetes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321840", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1224, 
+            "offsetInEndSection": 1315, 
+            "text": "Cystatin C, a more specific kidney function biomarker, was also elevated at 24 h after CLP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24300829", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 227, 
+            "offsetInEndSection": 454, 
+            "text": "This study evaluated FGF-23 as well as traditional markers of kidney disease, namely urine albumin-to-creatinine ratio (UACR) and creatinine-cystatin C estimated GFR (eGFRCrCyC), as risk factors for AKI in elderly individuals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24262510", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 856, 
+            "text": "he primary predictor was estimated GFR (eGFR) calculated using serum cystatin C (eGFR(cys)).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24178972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 169, 
+            "text": "A number of recent reports have suggested that the cystatin C/creatinine (CysC/Cr) ratio might be a useful biomarker of renal function in pediatric patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24114579", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1653, 
+            "offsetInEndSection": 1784, 
+            "text": "The CKD-EPI equation using cystatin C was the most precise method of renal function evaluation in patients with neurogenic bladder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24001705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 73, 
+            "offsetInEndSection": 140, 
+            "text": "Serum cystatin C (CysC) is an endogenous marker of kidney function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23910705", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1560, 
+            "offsetInEndSection": 1684, 
+            "text": "The urinary content of CysC reflects tubular epithelial dysfunction whereas that of NGAL also characterizes tubular atrophy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23866593", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 52, 
+            "text": "Estimated kidney function based on serum cystatin C ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23813702", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 15, 
+            "offsetInEndSection": 144, 
+            "text": ": Several formulas for glomerular filtration rate (GFR) estimation, based on serum creatinine or cystatin C, have been proposed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23797027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 839, 
+            "offsetInEndSection": 946, 
+            "text": "he highest and lowest eGFR levels corresponded to the cystatin C-based and MDRD-4 equations, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23797027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 146, 
+            "offsetInEndSection": 336, 
+            "text": "The Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) recently proposed an equation to estimate GFR in subjects without cirrhosis using both serum creatinine and cystatin C levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23744636", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 368, 
+            "text": "Emerging evidence has shown that cystatin C may improve classification of glomerular filtration rate for defining chronic kidney disease in certain clinical populations and assist in understanding the complications of chronic kidney disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23701892", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 99, 
+            "text": "Beta-trace protein (BTP) and cystatin C (CysC) are novel biomarkers of renal function. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23698027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 132, 
+            "text": "Cystatin C could improve chronic kidney disease (CKD) classification in HIV-infected women relative to serum creatinine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23669156", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1564, 
+            "offsetInEndSection": 1725, 
+            "text": " Iohexol clearance and cystatin C formulae identify a greater proportion of patients with a GFR <60 mL/min/1.73 m(2), which also predicts the development of AKI.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23577724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 249, 
+            "text": " Cystatin C was recently reported to be an endogenous surrogate of kidney function, and a high level of cystatin C is reported to be a strong predictor of CVD;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574755", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 509, 
+            "text": "Studies that have simultaneously compared measured GFR and estimated GFR (using endogenous filtration markers such as creatinine, or newer ones such as cystatin C or \u03b2-trace protein)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23571811", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "body": "Which molecule is targeted by a monoclonal antibody Mepolizumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21824072", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20021987", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25199060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19929788", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22092535", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15813818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16184589", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14699394", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21346698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23257685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14523040", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19264687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19264686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21958585", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12704348", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12870444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24685200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24424174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20110057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25199059", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21790283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12406833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20810155", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22998420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17872493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23742015", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23844029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11496242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18344568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22541618", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24322486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16462679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19828470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18298130", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19243381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20513524", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15175031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20565230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16931891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22901886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23362812", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21443279", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23544105"
+    ], 
+    "ideal_answer": [
+        "Mepolizumab is a humanized monoclonal antibody that binds to and inactivates interleukin-5 that has been shown to reduce asthma exacerbations in patients with severe eosinophilic asthma."
+    ], 
+    "exact_answer": [
+        "interleukin-5"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4002251"
+    ], 
+    "type": "factoid", 
+    "id": "54d907c84b1fd0d33c000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 258, 
+            "offsetInEndSection": 438, 
+            "text": "Mepolizumab, a humanized monoclonal antibody that binds to and inactivates interleukin-5, has been shown to reduce asthma exacerbations in patients with severe eosinophilic asthma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25199060", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 473, 
+            "offsetInEndSection": 704, 
+            "text": " Patients were assigned to receive mepolizumab, a humanized monoclonal antibody against interleukin-5, which was administered as either a 75-mg intravenous dose or a 100-mg subcutaneous dose, or placebo every 4 weeks for 32 weeks. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25199059", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1036, 
+            "offsetInEndSection": 1231, 
+            "text": "Among developing therapies, biologics designed to block certain pro-inflammatory cytokines, such as IL-5 (mepolizumab) and IL-13 (lebrikizumab), have a greater chance of being used in the clinic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24685200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1283, 
+            "offsetInEndSection": 1454, 
+            "text": "Imatinib and mepolizumab, a humanized anti-interleukin 5 monoclonal antibody, may be useful in patients with eosinophilic myositis as part of a hypereosinophilic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24424174", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 787, 
+            "offsetInEndSection": 978, 
+            "text": " Recent results of the treatment of idiopathic hypereosinophilic syndrome (HES) with the anti-interleukin 5 monoclonal antibody mepolizumab showed its efficacy and manageable safety profile. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24322486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 606, 
+            "offsetInEndSection": 808, 
+            "text": "Individuals also received a segmental bronchoprovocation with allergen (SBP-Ag) 1 month before and after administering a single dose of mepolizumab (anti-IL-5 monoclonal antibody) to reduce airway EOS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23844029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 712, 
+            "offsetInEndSection": 919, 
+            "text": "For example, patients with the hypereosinophilic syndrome have received mepolizumab, an anti-IL-5 monoclonal antibody, for as long as 6 years and have not developed any characteristic set of adverse events. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23742015", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Efficacy of anti-interleukin-5 therapy with mepolizumab in patients with asthma: a meta-analysis of randomized placebo-controlled trials.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23544105", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 255, 
+            "text": "Previous clinical trials have evaluated the efficacy and safety of mepolizumab, a monoclonal antibody against IL-5, in patients with asthma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23544105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 275, 
+            "text": "In this large (616 patients), double-blind, placebo-controlled, dose-ranging study of mepolizumab (a monoclonal antibody that blocks IL-5 binding to its receptor), patients were given placebo, 75-, 250- or 750-mg mepolizumab by intravenous infusion every 4 weeks for 1 year. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23362812", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 320, 
+            "text": "BACKGROUND: We examined levels of hyaluronan, a matrix glycosaminoglycan and versican, a matrix proteoglycan, in the sputum of asthmatics treated with mepolizumab (anti-IL-5 monoclonal antibody) versus placebo to evaluate the utility of these measurements as possible biomarkers of asthma control and airway remodeling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23257685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 526, 
+            "text": "Mepolizumab is a humanized monoclonal antibody that blocks binding of the key cytokine implicated specifically in eosinophil maturation and survival, interleukin-5, to its receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22998420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 131, 
+            "offsetInEndSection": 318, 
+            "text": "Early studies suggest that inhibition of eosinophilic airway inflammation with mepolizumab-a monoclonal antibody against interleukin 5-is associated with a reduced risk of exacerbations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22901886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 752, 
+            "text": "IL-5 antagonist therapies in current development include two monoclonal anti-IL-5 antibodies (mepolizumab, reslizumab), a monoclonal antibody directed at the IL-5 receptor (benralizumab), and anti-sense oligonucleotide therapy (TPI ASM8). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22541618", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1053, 
+            "text": "Two monoclonal antibodies have been designed to neutralize IL-5 (mepolizumab and reslizumab). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22092535", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 584, 
+            "offsetInEndSection": 703, 
+            "text": "To date, two humanized monoclonal antibodies, mepolizumab and reslizumab, have been developed that bind to human IL-5. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21824072", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 249, 
+            "text": "Mepolizumab (Bosatria(\u00ae), GlaxoSmithKline) is a biologic agent developed to treat asthma. It represents a humanized monoclonal antibody of IgG1 \u03ba type, which targets human IL-5 and thus prevents its interaction with the \u03b1-chain of the IL-5 receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21790283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1285, 
+            "offsetInEndSection": 1462, 
+            "text": "There has been a variable effect with the leukotriene receptor antagonist montelukast and promising early results with mepolizumab, a monoclonal antibody against interleukin-5. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21443279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Pharmacokinetics and pharmacodynamics of mepolizumab, an anti-interleukin-5 monoclonal antibody.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 324, 
+            "text": "Mepolizumab is a fully humanized monoclonal antibody (IgG1/\u03ba) targeting human interleukin-5 (IL-5), a key haematopoietin needed for eosinophil development and function. Mepolizumab blocks human IL-5 from binding to the \u03b1-chain of the IL-5 receptor complex on the eosinophil cell surface, thereby inhibiting IL-5 signalling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1263, 
+            "offsetInEndSection": 1383, 
+            "text": "Recently, encouraging results of treatment with monoclonal antibody neutralizing IL-5, mepolizumab, have been published.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21346698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1306, 
+            "offsetInEndSection": 1524, 
+            "text": "This manuscript reviews the available treatments for HES and the range of side-effects associated with long-term corticosteroid use, and then focuses on the anti-IL-5 monoclonal antibodies, mepolizumab and reslizumab. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20565230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1119, 
+            "offsetInEndSection": 1810, 
+            "text": "The therapeutic progress is primarily due to an explosion of biological therapies, particularly four of them very useful for internists (in an off label use) : Interleukin 1 inhibitors (anakinra, Canakinumab) to treat some auto inflammatory diseases (cryopirin associated periodic syndromes and deficency of interleukin 1 receptor antagonist), monoclonal antibody against interleukin 5 (mepolizumab) to treat some hypereosinophilic syndromes and Churg and Strauss angiitis, interleukin 6 inhibitiors to treat multifocal Castleman's disease and adult Still disease, a monoclonal antibody against vascular endothelial growth factor (Bevacizumab) to treat hereditary hemorrhagic telangiectasia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20110057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 710, 
+            "offsetInEndSection": 826, 
+            "text": " Besides steroid therapy, the anti-IL-5 monoclonal antibody mepolizumab is considered as a target therapy for L-HES.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20021987", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 475, 
+            "text": "Mepolizumab is a humanized monoclonal antibody (mAb) with potent IL-5 neutralizing effects that represents a potential treatment for eosinophilic diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19929788", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Anti-interleukin-5 antibody treatment (mepolizumab) in active eosinophilic oesophagitis: a randomised, placebo-controlled, double-blind trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19828470", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 183, 
+            "offsetInEndSection": 299, 
+            "text": "The pharmacodynamic effect of mepolizumab (a humanised anti-interleukin-5 monoclonal antibody) in EoO was evaluated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19828470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 529, 
+            "text": "We studied the prednisone-sparing effect of mepolizumab, a monoclonal antibody against interleukin-5, in a rare subgroup of patients who have sputum eosinophilia and airway symptoms despite continued treatment with prednisone. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19264687", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 510, 
+            "offsetInEndSection": 667, 
+            "text": "Subjects received infusions of either mepolizumab, an anti-interleukin-5 monoclonal antibody (29 subjects), or placebo (32) at monthly intervals for 1 year. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19264686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1169, 
+            "offsetInEndSection": 1424, 
+            "text": "A recent study showed that a monoclonal antibody to IL-5, mepolizumab, reduced glucocorticoid therapy in HES patients who did not possess the FIP1L1-PDGFRA mutation while controlling eosinophilia and preventing recurrence or progression of tissue damage. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19243381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 579, 
+            "text": "METHODS: We conducted an international, randomized, double-blind, placebo-controlled trial evaluating the safety and efficacy of an anti-interleukin-5 monoclonal antibody, mepolizumab, in patients with the hypereosinophilic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18344568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Mepolizumab: 240563, anti-IL-5 monoclonal antibody - GlaxoSmithKline, anti-interleukin-5 monoclonal antibody - GlaxoSmithKline, SB 240563.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18298130", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 301, 
+            "text": "Mepolizumab is an anti-interleukin-5 monoclonal antibody that is in clinical trials with GlaxoSmithKline (GSK) for the treatment of severe asthma, nasal polyposis and hypereosinophilic syndrome and eosinophilic oesophagitis (the latter two indications are classed as eosinophilia in the phase table). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18298130", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 480, 
+            "text": "A previous small dose-finding study found that mepolizumab, a humanized anti-interleukin-5 monoclonal antibody, had no effect on allergen challenge in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17872493", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "No effect of anti-interleukin-5 therapy (mepolizumab) on the atopy patch test in atopic dermatitis patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16931891", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 346, 
+            "text": "Mepolizumab is a monoclonal antibody to interleukin-5, which reduces peripheral blood eosinophils. Previously, we reported that mepolizumab treatment did not result in clinical improvement in AD. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16931891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1266, 
+            "offsetInEndSection": 1357, 
+            "text": "Mepolizumab, an anti-IL-5 monoclonal antibody, currently being evaluated, seems promising. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16462679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1261, 
+            "offsetInEndSection": 1389, 
+            "text": "These include imatinib mesylate, a tyrosine kinase inhibitor, and more recently, mepolizumab, an anti-IL-5 monoclonal antibody. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16184589", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Anti-IL-5 recombinant humanized monoclonal antibody (mepolizumab) for the treatment of atopic dermatitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15813818", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 273, 
+            "text": "A monoclonal antibody to human interleukin-5 (mepolizumab) was developed for atopic diseases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15813818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Anti-IL-5 monoclonal antibody (mepolizumab) reduces baseline bronchial mucosal eosinophils and deposition of extracellular matrix proteins in the reticular basement membrane in mild asthma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 677, 
+            "text": "Skin biopsies were performed in 24 atopic subjects at allergen- and diluent-injected sites before 6 and 48 h after, three infusions of a humanized, monoclonal antibody against IL-5 (mepolizumab) using a randomized double-blind, placebo-controlled design. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 358, 
+            "offsetInEndSection": 547, 
+            "text": "OBJECTIVE: We aimed to assess the safety and efficacy of a humanized blocking monoclonal antibody against IL-5 (mepolizumab) in patients with several forms of hyper-eosinophilic syndromes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14699394", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Anti-interleukin-5 (mepolizumab) therapy for hypereosinophilic syndromes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14699394", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 409, 
+            "text": "Bronchial biopsies were obtained before and after three infusions of a humanized, anti-IL-5 monoclonal antibody (mepolizumab) in 24 atopic asthmatics in a randomized, double-blind, placebo-controlled study. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14523040", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "GlaxoSmithKline (formerly SmithKline Beecham) is developing mepolizumab (SB-240563), a monoclonal antibody directed against IL-5, as a potential treatment for asthma and atopic dermatitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12870444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 549, 
+            "offsetInEndSection": 748, 
+            "text": "METHODS: Blood, bone marrow, and airway mucosal biopsy specimens were examined before and after anti-IL-5 (mepolizumab) treatment of asthmatic individuals in a double-blind, placebo-controlled trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12704348", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Anti-IL-5 (mepolizumab) therapy induces bone marrow eosinophil maturational arrest and decreases eosinophil progenitors in the bronchial mucosa of atopic asthmatics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12704348", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 285, 
+            "text": "The role of eosinophils as effector cells in asthma pathogenesis has been questioned since an anti-interleukin (IL)-5 monoclonal antibody (mepolizumab), which depleted blood and sputum eosinophils, failed to inhibit allergen-induced bronchoconstriction and airway hyperresponsiveness. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12406833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 454, 
+            "text": "Mepolizumab (SB-240563), a humanized monoclonal antibody (mAb) specific for human IL-5, is currently in clinical trials for treatment of asthma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11496242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2091, 
+            "offsetInEndSection": 2366, 
+            "text": "CONCLUSION: These studies demonstrate that chronic antagonism of IL-5 by mepolizumab in monkeys is safe and has the potential, through long-term reductions in circulating and tissue-resident eosinophils, to be beneficial therapy for chronic inflammatory respiratory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11496242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Preclinical efficacy and safety of mepolizumab (SB-240563), a humanized monoclonal antibody to IL-5, in cynomolgus monkeys.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11496242", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Mepolizumab is a fully humanized monoclonal antibody (IgG1/\ufffd) targeting human interleukin-5 (IL-5), a key haematopoietin needed for eosinophil development and function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 230, 
+            "text": "BACKGROUND: Mepolizumab, a monoclonal anti-IL-5 antibody, is an effective corticosteroid-sparing agent for patients with Fip1-like 1/platelet-derived growth factor receptor \ufffd fusion (F/P)-negative hypereosinophilic syndrome (HES).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Mepolizumab is a fully humanized monoclonal antibody (IgG1/\u03ba) targeting human interleukin-5 (IL-5), a key haematopoietin needed for eosinophil development and function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 169, 
+            "offsetInEndSection": 323, 
+            "text": "Mepolizumab blocks human IL-5 from binding to the \u03b1-chain of the IL-5 receptor complex on the eosinophil cell surface, thereby inhibiting IL-5 signalling", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21348536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 825, 
+            "text": "Besides steroid therapy, the anti-IL-5 monoclonal antibody mepolizumab is considered as a target therapy for L-HES", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20021987", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 750, 
+            "text": "IL-5 antagonist therapies in current development include two monoclonal anti-IL-5 antibodies (mepolizumab, reslizumab), a monoclonal antibody directed at the IL-5 receptor (benralizumab), and anti-sense oligonucleotide therapy (TPI ASM8)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22541618", 
+            "endSection": "abstract"
+        }
+    ]
+}

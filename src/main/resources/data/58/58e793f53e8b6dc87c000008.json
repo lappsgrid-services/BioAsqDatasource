@@ -1,0 +1,36 @@
+{
+    "body": "How many topological associated domains are contained in the human Hox cluster?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24843030"
+    ], 
+    "ideal_answer": [
+        "transcriptional activation is associated with a dynamic bi-modal 3d organization, whereby the genes switch autonomously from an inactive to an active compartment.", 
+        "Initially, Hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. Transcriptional activation is associated with a dynamic bi-modal 3D organization, whereby the genes switch autonomously from an inactive to an active compartment. ", 
+        ", hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. . activation is associated with a dynamic bi-modal 3d organization , whereby the genes switch autonomously from an inactive to an active compartment. . ", 
+        "Initially, Hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks. Transcriptional activation is associated with a dynamic bi-modal 3D organization, whereby the genes switch autonomously from an inactive to an active compartment."
+    ], 
+    "exact_answer": [
+        "two", 
+        "2"
+    ], 
+    "type": "factoid", 
+    "id": "58e793f53e8b6dc87c000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 543, 
+            "text": "Initially, Hox clusters are organized as single chromatin compartments containing all genes and bivalent chromatin marks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24843030", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 544, 
+            "offsetInEndSection": 706, 
+            "text": "Transcriptional activation is associated with a dynamic bi-modal 3D organization, whereby the genes switch autonomously from an inactive to an active compartment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24843030", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "body": "Which gene has been implicated in Majeed Syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19369868", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15994876", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19717560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22127713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24811178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22908270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25300978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20032092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23087183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16122996"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0062665", 
+            "o": "D005796"
+        }
+    ], 
+    "ideal_answer": [
+        "Homozygous mutations in LPIN2 are responsible for the syndrome of chronic recurrent multifocal osteomyelitis and congenital dyserythropoietic anaemia (Majeed syndrome).", 
+        "Genetic alteration of LPIN2 in humans is known to cause Majeed syndrome."
+    ], 
+    "exact_answer": [
+        "LPIN2"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "factoid", 
+    "id": "56f7c15a09dd18d46b000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Homozygous mutations in LPIN2 are responsible for the syndrome of chronic recurrent multifocal osteomyelitis and congenital dyserythropoietic anaemia (Majeed syndrome).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15994876", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1037, 
+            "offsetInEndSection": 1250, 
+            "text": "The gene was mapped to a 5.5 cM interval (1.8 Mb) on chromosome 18p. Examination of genes in this interval led to the identification of homozygous mutations in LPIN2 in affected individuals from the two families. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15994876", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1385, 
+            "offsetInEndSection": 1459, 
+            "text": "We conclude that homozygous mutations in LPIN2 result in Majeed syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15994876", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 401, 
+            "text": " genetic alteration of LPIN2 in humans is known to cause Majeed syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24811178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 254, 
+            "text": "Majeed syndrome is an autosomal recessive disorder characterised by the triad of chronic recurrent multifocal osteomyelitis, congenital dyserythropoietic anaemia and a neutrophilic dermatosis that is caused by mutations in LPIN2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23087183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 438, 
+            "text": "ittle is known about the physiological role of lipin-2, the predominant lipin protein present in liver and the deficient gene product in the rare disorder Majeed syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22908270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 611, 
+            "offsetInEndSection": 807, 
+            "text": "Recent studies have identified mutations that cause lipin-1 or lipin-2 deficiency in humans, leading to acute myoglobinuria in childhood or the inflammatory disorder Majeed syndrome, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19369868", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 311, 
+            "offsetInEndSection": 360, 
+            "text": "An S734L mutation in LPIN2 causes Majeed syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19717560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 436, 
+            "offsetInEndSection": 608, 
+            "text": "Little is known about the physiological role of lipin-2, the predominant lipin protein present in liver and the deficient gene product in the rare disorder Majeed syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22908270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "A splice site mutation confirms the role of LPIN2 in Majeed syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17330256", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 989, 
+            "offsetInEndSection": 1071, 
+            "text": "These data confirm the role of LPIN2 mutations in the etiology of Majeed syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17330256", 
+            "endSection": "abstract"
+        }
+    ]
+}

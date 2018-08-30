@@ -1,0 +1,63 @@
+{
+    "body": "What is PANTHER-PSEP?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27193693"
+    ], 
+    "ideal_answer": [
+        "PANTHER-PSEP is a new software tool for predicting non-synonymous genetic variants that may play a causal role in human disease. Several previous variant pathogenicity prediction methods have been proposed that quantify evolutionary conservation among homologous proteins from different organisms. PANTHER-PSEP employs a related but distinct metric based on 'evolutionary preservation': homologous proteins are used to reconstruct the likely sequences of ancestral proteins at nodes in a phylogenetic tree, and the history of each amino acid can be traced back in time from its current state to estimate how long that state has been preserved in its ancestors. ", 
+        "PANTHER-PSEP is a software tool for predicting non-synonymous genetic variants that may play a causal role in human disease. PANTHER-PSEP employs a related but distinct metric based on 'evolutionary preservation': homologous proteins are used to reconstruct the likely sequences of ancestral proteins at nodes in a phylogenetic tree, and the history of each amino acid can be traced back in time from its current state to estimate how long that state has been preserved in its ancestors.", 
+        "PANTHER-PSEP is a new software tool for predicting non-synonymous genetic variants that may play a causal role in human disease."
+    ], 
+    "type": "summary", 
+    "id": "58965c5578275d0c4a00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "PANTHER-PSEP: predicting disease-causing genetic variants using position-specific evolutionary preservation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 673, 
+            "text": "PANTHER-PSEP is a new software tool for predicting non-synonymous genetic variants that may play a causal role in human disease. Several previous variant pathogenicity prediction methods have been proposed that quantify evolutionary conservation among homologous proteins from different organisms. PANTHER-PSEP employs a related but distinct metric based on 'evolutionary preservation': homologous proteins are used to reconstruct the likely sequences of ancestral proteins at nodes in a phylogenetic tree, and the history of each amino acid can be traced back in time from its current state to estimate how long that state has been preserved in its ancestors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "PANTHER-PSEP is a new software tool for predicting non-synonymous genetic variants that may play a causal role in human disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 658, 
+            "text": "PANTHER-PSEP employs a related but distinct metric based on 'evolutionary preservation': homologous proteins are used to reconstruct the likely sequences of ancestral proteins at nodes in a phylogenetic tree, and the history of each amino acid can be traced back in time from its current state to estimate how long that state has been preserved in its ancestors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "PANTHER-PSEP: predicting disease-causing genetic variants using position-specific evolutionary preservation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 660, 
+            "text": "PANTHER-PSEP employs a related but distinct metric based on 'evolutionary preservation': homologous proteins are used to reconstruct the likely sequences of ancestral proteins at nodes in a phylogenetic tree, and the history of each amino acid can be traced back in time from its current state to estimate how long that state has been preserved in its ancestors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27193693", 
+            "endSection": "abstract"
+        }
+    ]
+}

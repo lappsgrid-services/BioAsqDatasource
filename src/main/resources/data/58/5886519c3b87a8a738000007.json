@@ -1,0 +1,133 @@
+{
+    "body": "Which disease can be categorized using the Koos grading system?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26967786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25811349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26606668", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25181431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27513938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24797568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15179293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21665381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23160632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27453796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24987677"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0012634", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0049608"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0049608", 
+            "o": "Disease"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1022004", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3147522"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3147522", 
+            "o": "Disease"
+        }
+    ], 
+    "ideal_answer": [
+        "Koos grading system is used for vestibular schwannoma."
+    ], 
+    "exact_answer": [
+        "vestibular schwannoma"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=diseases_category"
+    ], 
+    "type": "factoid", 
+    "id": "5886519c3b87a8a738000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 636, 
+            "offsetInEndSection": 789, 
+            "text": "The patients had Koos Grade I or II tumors and American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) Class D hearing status preoperatively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26967786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 250, 
+            "offsetInEndSection": 378, 
+            "text": "METHODS: This is a retrospective review of 22 patients with VS Koos grade III and IV who were treated with STR followed by SRS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27513938", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 483, 
+            "offsetInEndSection": 585, 
+            "text": " VS was characterized by its size (Koos classification) and the presence or not of a cystic component.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25811349", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 624, 
+            "offsetInEndSection": 788, 
+            "text": "MAIN OUTCOME MEASURES: All data recorded were reviewed to access age, sex, tumor type, and tumor size according to the Koos classification and presenting symptoms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24797568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Facial nerve preservation surgery for koos grade 3 and 4 vestibular schwannomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25181431", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Safety and Efficacy of Gamma Knife Radiosurgery for the Management of Koos Grade 4 Vestibular Schwannomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26606668", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 368, 
+            "offsetInEndSection": 509, 
+            "text": "In all 333 patients microsurgical vestibular schwannoma (Koos grade 1: 12, grade 2: 34, grade 3: 62, and grade 4: 225) removal was performed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24987677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Facial nerve preservation surgery for koos grade 3 and 4 vestibular schwannomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25181431", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 293, 
+            "text": "To report, in a retrospective study, outcomes for large Koos grade 3 and 4 vestibular schwannomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25181431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Safety and Efficacy of Gamma Knife Radiosurgery for the Management of Koos Grade 4 Vestibular Schwannomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26606668", 
+            "endSection": "title"
+        }
+    ]
+}

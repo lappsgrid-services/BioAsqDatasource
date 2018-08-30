@@ -1,0 +1,48 @@
+{
+    "body": "Which is the relation between sweating and anaerobic threshold?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2703281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7588694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9694410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12937031"
+    ], 
+    "ideal_answer": [
+        "There is no clear evidence of the relationship between sweating and anaerobic threshold"
+    ], 
+    "exact_answer": [
+        "There is no clear evidence of the relationship between sweating and anaerobic threshold"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015308", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008660", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013546"
+    ], 
+    "type": "factoid", 
+    "id": "536787467d100faa09000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1353, 
+            "offsetInEndSection": 1560, 
+            "text": "It is concluded that the sweating response during upright recovery is significantly modified by exercise intensity and may likely be influenced by the nonthermal baroreceptor reflex adjustments postexercise.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12937031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 257, 
+            "offsetInEndSection": 429, 
+            "text": " The purpose of this paper is to delineate the effects of training status, heat acclimation, environmental conditions and host factors on the sweating response to exercise.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9694410", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1183, 
+            "offsetInEndSection": 1399, 
+            "text": "These results would suggest that at a given exercise intensity in subjects with a higher aerobic capacity body temperature is maintained with a lower sweating rate than that in subjects with a lower aerobic capacity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7588694", 
+            "endSection": "abstract"
+        }
+    ]
+}

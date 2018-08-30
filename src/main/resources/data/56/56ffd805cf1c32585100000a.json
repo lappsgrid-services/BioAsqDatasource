@@ -1,0 +1,182 @@
+{
+    "body": "Which is the main difference between Alu and B1 repeats?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20019790", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8576966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17852045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2412135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7681065", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1945845", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17407136", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9748291", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1549107", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8036148", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3221855"
+    ], 
+    "ideal_answer": [
+        "B1 is a murine homolog of the human SINE Alu. B1 (Alu-equivalent) is a murine short interspersed element whose amplification probably involved an RNA intermediate. The modern B1 elements are similar to the left Alu monomer, but with a 9 bp deletion and a 29 bp duplication.", 
+        "The mouse B1 sequence is congruent to 130 nucleotides long and shows homology with the monomeric units of the dimeric 300-nucleotide primate sequence. "
+    ], 
+    "exact_answer": [
+        "it is the mouse homolog to the left Alu monomer"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020087"
+    ], 
+    "type": "factoid", 
+    "id": "56ffd805cf1c32585100000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 718, 
+            "text": "The mouse B1 sequence is congruent to 130 nucleotides long and shows homology with the monomeric units of the dimeric 300-nucleotide primate sequence. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2412135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 468, 
+            "offsetInEndSection": 565, 
+            "text": "Here we show that some members of the mouse B1 Alu sequence family encode a small cytoplasmic RNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2412135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Alus and B1s are short interspersed repeat elements (SINEs) derived from the 7SL RNA gene. Alus and B1s exist in the cytoplasm as non-coding RNA indicating that they are actively transcribed, but their function, if any, is unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17852045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "B1 (Alu-equivalent) is a murine short interspersed element whose amplification probably involved an RNA intermediate", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1945845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1062, 
+            "offsetInEndSection": 1221, 
+            "text": "The data demonstrate that a limited set of B1 sequences are expressed as processed RNA polymerase III-transcripts of a high degree of structural conservation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1945845", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 145, 
+            "text": "B1 is a murine homolog of the human SINE Alu", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1549107", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 415, 
+            "text": "These RNAs have conserved a secondary structure motif also present in signal recognition particle (SRP) RNA despite substantial sequence divergence, whereas random B1 and Alu sequences have not.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7681065", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 69, 
+            "offsetInEndSection": 178, 
+            "text": "The modern B1 elements are similar to the left Alu monomer, but with a 9 bp deletion and a 29 bp duplication.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8036148", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "A master sequence related to a free left Alu monomer (FLAM) at the origin of the B1 family in rodent genomes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8036148", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 307, 
+            "offsetInEndSection": 572, 
+            "text": " The core sequences of these elements contain pol III promoters but must rely on fortuitous downstream oligo(dT) tracts for terminator function. We show that a B1-Alu gene differs markedly from a classical pol III gene (tRNAiMet) in terminator sequence requirements", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9748291", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 48, 
+            "text": "Most human Alu and murine B1 repeats are unique.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17407136", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Alu and b1 repeats have been selectively retained in the upstream and intronic regions of genes of specific functional classes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019790", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 254, 
+            "text": "Alu and B1 repeats are mobile elements that originated in an initial duplication of the 7SL RNA gene prior to the primate-rodent split about 80 million years ago and currently account for a substantial fraction of the human and mouse genome, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019790", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 615, 
+            "offsetInEndSection": 778, 
+            "text": "we present evidence that Alu and B1 elements have been selectively retained in the upstream and intronic regions of genes belonging to specific functional classes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019790", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1084, 
+            "offsetInEndSection": 1388, 
+            "text": "Finally, the unexpected finding that Alu and B1 elements show similar biases in their distribution across functional classes, despite having spread independently in their respective genomes, further supports our claim that the extant instances of Alu and B1 elements are the result of positive selection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20019790", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 1036, 
+            "text": "Furthermore, the presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8576966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 649, 
+            "offsetInEndSection": 845, 
+            "text": "Furthermore, the presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8576966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 603, 
+            "offsetInEndSection": 732, 
+            "text": "A statistically reliable slowing down in the evolutionary rates of one of two monomers for the human Alu repeats has been proved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3221855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 650, 
+            "offsetInEndSection": 846, 
+            "text": "Furthermore, the presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8576966", 
+            "endSection": "abstract"
+        }
+    ]
+}

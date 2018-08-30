@@ -1,0 +1,491 @@
+{
+    "body": "Is Growth factor independence 1b (GFI1B) important for hematopoiesis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23308270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14530176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19773260", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19958752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12351384", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24800817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18224412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22668850", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21606163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11825872", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21732494", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16397623", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21170035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22885124", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15507521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20143233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16177182", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20861919", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17095621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20826720", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22399799"
+    ], 
+    "ideal_answer": [
+        "Yes. Gfi-1B is a transcriptional repressor essential for the regulation of erythropoiesis and megakaryopoiesis.  Gfi-1b(-/-) embryonic stem cells fail to contribute to red cells of adult chimeras. Gfi-1b(-/-) embryos exhibit delayed maturation of primitive erythrocytes and subsequently die with failure to produce definitive enucleated erythrocytes."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030097", 
+        "http://www.uniprot.org/uniprot/GFI1B_MOUSE", 
+        "http://www.uniprot.org/uniprot/GFI1B_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "553bd2f0f321868558000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "Growth Factor Independence (Gfi) transcription factors play essential roles in hematopoiesis, differentially activating and repressing transcriptional programs required for hematopoietic stem/progenitor cell (HSPC) development and lineage specification", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 872, 
+            "offsetInEndSection": 974, 
+            "text": "gfi1aa and gfi1b have distinct roles in regulating primitive and definitive hematopoietic progenitors,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1151, 
+            "offsetInEndSection": 1197, 
+            "text": "gfi1b is required for definitive hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1140, 
+            "text": "LSD1-kd was associated with the upregulation of key hematopoietic genes, including Gfi1b", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22699452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "GFI1 and GFI1B control the loss of endothelial identity of hemogenic endothelium during hematopoietic commitment", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22668850", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 856, 
+            "offsetInEndSection": 1076, 
+            "text": " Taken together, our findings demonstrate a critical and specific role of the GFI1 transcription factors in the first steps of the process leading to the generation of hematopoietic progenitors from hemogenic endothelium", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22668850", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "A short Gfi-1B isoform controls erythroid differentiation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22399799", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Gfi-1B is a transcriptional repressor essential for the regulation of erythropoiesis and megakaryopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22399799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1070, 
+            "offsetInEndSection": 1162, 
+            "text": "Among the few down-regulated genes was Gfi1b, a known repressor of erythroid differentiation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21606163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 722, 
+            "offsetInEndSection": 922, 
+            "text": "This reversible modulation of endothelial-haematopoietic state is accomplished by targeting key haematopoietic transcription factors for downregulation, including Runx1, Gata1, Gfi1B, Ikaros, and PU.1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21170035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 47, 
+            "text": "Gfi1 and Gfi1b: key regulators of hematopoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20861919", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 630, 
+            "offsetInEndSection": 851, 
+            "text": "we review how Gfi1 and its paralogue Gfi1b control the development of blood cells, discuss how changes in Gfi1 and Gfi1b function contribute to hematological disease and report on the molecular function of these proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20861919", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Gfi-1B controls human erythroid and megakaryocytic differentiation by regulating TGF-beta signaling at the bipotent erythro-megakaryocytic progenitor stage", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Growth factor independence-1B (Gfi-1B) is a transcriptional repressor essential for erythropoiesis and megakaryopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 312, 
+            "text": "Targeted gene disruption of GFI1B in mice leads to embryonic lethality resulting from failure to produce definitive erythrocytes, hindering the study of Gfi-1B function in adult hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 314, 
+            "offsetInEndSection": 509, 
+            "text": "We here show that, in humans, Gfi-1B controls the development of erythrocytes and megakaryocytes by regulating the proliferation and differentiation of bipotent erythro-megakaryocytic progenitors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1509, 
+            "offsetInEndSection": 1677, 
+            "text": "To date, we have identified two common integration sites involving genes encoding transcription factors that play a critical role in hematopoiesis (Evi1 and Gfi1b loci)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19958752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 304, 
+            "text": "Transcription factors play essential roles in both normal and malignant hematopoiesis. This is the case for the growth factor independent 1b (GFI1B) transcription factor, which is required for erythroid and megakaryocytic differentiation and over-expressed in leukemic patients and cell lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19773260", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1022, 
+            "offsetInEndSection": 1450, 
+            "text": "We localized several conserved non-coding elements containing multiple erythroid specific transcription factor binding sites at the GFI1B locus. In GFI1B-expressing cells a subset of these conserved non-coding elements and the promoter adopt a close spatial conformation, localize with open chromatin sites, harbor chromatin modifications associated with gene activation and bind multiple transcription factors and co-repressors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19773260", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1464, 
+            "offsetInEndSection": 1552, 
+            "text": "Our findings indicate that GFI1B regulatory elements behave as activators and repressors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19773260", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "To investigate the molecular effects of growth factor independence 1B (Gfi-1B), a transcription factor essential for the development of hematopoietic cells and differentiation of erythroid and megakaryocytic lineages", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18224412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1760, 
+            "offsetInEndSection": 1877, 
+            "text": "Our data indicate that Gfi-1B signalling is important for commitment and maturation of hematopoietic cell populations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18224412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Gfi-1 and Gfi-1b are homologous transcriptional repressors involved in diverse developmental contexts, including hematopoiesis and oncogenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17707228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Gfi1b:green fluorescent protein knock-in mice reveal a dynamic expression pattern of Gfi1b during hematopoiesis that is largely complementary to Gfi1", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17095621", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 546, 
+            "offsetInEndSection": 958, 
+            "text": "We found highly dynamic expression patterns of Gfi1b in erythroid cells, megakaryocytes, and their progenitor cells (MEPS) where Gfi1 is not detected. Vice versa, Gfi1b could not be found in granulocytes, activated macrophages, or their granulomonocytic precursors (GMPs) or in mature naive or activated lymphocytes where Gfi1 is expressed, suggesting a complementary regulation of both loci during hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17095621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 49, 
+            "text": "Gfi1 and Gfi1b act equivalently in haematopoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16397623", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 814, 
+            "text": "our findings show that an intact SNAG domain is essential for all functions of Gfi1 and that Gfi1b can replace Gfi1 functionally in haematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16397623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 35, 
+            "text": "Gfi-1 oncoproteins in hematopoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14530176", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 239, 
+            "text": "Recent gene targeting experiments and mutational screening in humans have revealed an essential role for Gfi-1 and Gfi-1B in hematopoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14530176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 608, 
+            "offsetInEndSection": 747, 
+            "text": "Gfi-1B disruption is embryonic lethal due to a block of erythropoiesis. Gfi-1B is required for both erythroid and megakaryocyte development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14530176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Erythroid expansion mediated by the Gfi-1B zinc finger protein: role in normal hematopoiesis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12351384", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 222, 
+            "text": " we identified that the expression of Gfi-1B (growth factor independence-1B) is highly restricted to hematopoietic stem cells, erythroblasts, and megakaryocytes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12351384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1470, 
+            "offsetInEndSection": 1665, 
+            "text": "These findings establish Gfi-1B as a novel erythroid regulator and reveal its specific involvement in the regulation of erythroid cell growth through modulating erythroid-specific gene expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12351384", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "The zinc-finger proto-oncogene Gfi-1b is essential for development of the erythroid and megakaryocytic lineages", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11825872", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 237, 
+            "text": "we establish that Gfi-1b is required for the development of two related blood lineages, erythroid and megakaryocytic, in mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11825872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 475, 
+            "text": "Gfi-1b(-/-) embryonic stem cells fail to contribute to red cells of adult chimeras. Gfi-1b(-/-) embryos exhibit delayed maturation of primitive erythrocytes and subsequently die with failure to produce definitive enucleated erythrocytes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11825872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 714, 
+            "text": "Gfi-1b is an essential transcriptional regulator of erythroid and megakaryocyte development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11825872", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Growth factor independence 1b (GFI1B) is a DNA binding repressor of transcription with vital functions in hematopoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24800817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1060, 
+            "offsetInEndSection": 1191, 
+            "text": "Conversely, loss of gfi1b silences runx-1, c-myb, ikaros and cd41, indicating that gfi1b is required for definitive hematopoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Gfi1b:green fluorescent protein knock-in mice reveal a dynamic expression pattern of Gfi1b during hematopoiesis that is largely complementary to Gfi1.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17095621", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 48, 
+            "text": "Gfi1 and Gfi1b: key regulators of hematopoiesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20861919", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 713, 
+            "offsetInEndSection": 826, 
+            "text": "We show that gfi1aa and gfi1b are expressed in the primitive and definitive sites of hematopoiesis in zebrafish.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 119, 
+            "offsetInEndSection": 312, 
+            "text": "Targeted gene disruption of GFI1B in mice leads to embryonic lethality resulting from failure to produce definitive erythrocytes, hindering the study of Gfi-1B function in adult hematopoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Growth factor independence 1b (gfi1b) is important for the maturation of erythroid cells and the regulation of embryonic globin expression.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24800817", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Growth factor-independence 1b (Gfi1b) is a zinc finger transcription factor essential for erythroid and megakaryocytic development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20143233", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Gfi1b (growth factor independence 1b) is a zinc finger transcription factor essential for development of the erythroid and megakaryocytic lineages.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23308270", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 1072, 
+            "text": "In fact, we demonstrate that VPA treatment is able to induce the expression of growth factor-independent protein 1B (GFI1B) and of mixed-lineage leukemia translocated to chromosome 3 protein (MLLT3), which are crucial regulators of erythrocyte and megakaryocyte differentiation, and that the up-regulation of these genes is mediated by the histone hyperacetylation at their promoter sites.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22885124", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Growth factor independence-1B (Gfi-1B) is a transcriptional repressor essential for erythropoiesis and megakaryopoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20124515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Gfi-1B (growth factor independence-1B) gene is an erythroid-specific transcription factor, whose expression plays an essential role in erythropoiesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16177182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Evidence that growth factor independence 1b regulates dormancy and peripheral blood mobilization of hematopoietic stem cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20826720", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 455, 
+            "text": "We report here that adult mice conditionally deficient for the transcription Growth factor independence 1b (Gfi1b) show a significant expansion of functional HSCs in the bone marrow and blood.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20826720", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Growth factor-independence 1b (Gfi1b) is a zinc finger transcription factor essential for erythroid and megakaryocytic development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20143233", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Teleost growth factor independence (gfi) genes differentially regulate successive waves of hematopoiesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22960038", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Gfi-1B (growth factor independence-1B) gene is an erythroid-specific transcription factor, whose expression plays an essential role in erythropoiesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16177182", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1760, 
+            "offsetInEndSection": 1878, 
+            "text": "Our data indicate that Gfi-1B signalling is important for commitment and maturation of hematopoietic cell populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18224412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 454, 
+            "text": "We report here that adult mice conditionally deficient for the transcription Growth factor independence 1b (Gfi1b) show a significant expansion of functional HSCs in the bone marrow and blood", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20826720", 
+            "endSection": "abstract"
+        }
+    ]
+}

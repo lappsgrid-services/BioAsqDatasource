@@ -1,0 +1,88 @@
+{
+    "body": "List autoimmune disorders associated with GAD65 autoantibodies.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25566057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12691864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8816973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25870548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9451598", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14679108"
+    ], 
+    "ideal_answer": [
+        "Autoantibodies to the smaller isoform of glutamate decarboxylase (GAD) can be found in patients with type 1 diabetes and a number of neurological disorders, including stiff-person syndrome, cerebellar ataxia and limbic encephalitis."
+    ], 
+    "exact_answer": [
+        [
+            "type 1 diabetes"
+        ], 
+        [
+            "stiff-person syndrome"
+        ], 
+        [
+            "cerebellar ataxia"
+        ], 
+        [
+            "limbic encephalitis"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56f8077a8b98c98849000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Evidence for somatic mutation and affinity maturation of diabetes associated human autoantibodies to glutamate decarboxylase.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8816973", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 516, 
+            "text": "The circulating autoantibodies to multiple islet autoantigens including GAD, insulin, and IA-2 are the important immunological features of type 1 diabetes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14679108", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 682, 
+            "offsetInEndSection": 743, 
+            "text": "100% (39/39) selected type 1 diabetes mellitus (DM) patients,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12691864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Autoantibodies to the GM2-1 islet ganglioside and to GAD-65 at type 1 diabetes onset.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9451598", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "Autoantibodies to the smaller isoform of glutamate decarboxylase (GAD) can be found in patients with type 1 diabetes and a number of neurological disorders, including stiff-person syndrome, cerebellar ataxia and limbic encephalitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25870548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 236, 
+            "text": " Anti-glutamic acid decarboxylase antibody (GAD-ab)-associated cerebellar ataxia is a rare neurological disorder characterized by cerebellar symptoms concomitant with high GAD-ab levels in serum and cerebrospinal fluid (CSF).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25566057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1111, 
+            "offsetInEndSection": 1398, 
+            "text": "The unique association of autoantibody-mediated cerebellar ataxia and late-onset T1DM in 2 siblings with similar clinical and paraclinical phenotypes strengthens the concept that hereditary factors might play a relevant role also in autoimmune diseases so far considered to be sporadic. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25566057", 
+            "endSection": "abstract"
+        }
+    ]
+}

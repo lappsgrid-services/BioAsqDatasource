@@ -1,0 +1,60 @@
+{
+    "body": "What is a \"chemobrain\"?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25176562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26653737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25687405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27041861", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27709283"
+    ], 
+    "ideal_answer": [
+        "The term \"chemobrain\" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment."
+    ], 
+    "exact_answer": [
+        "The term \"chemobrain\" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment."
+    ], 
+    "type": "factoid", 
+    "id": "58efa1b870f9fc6f0f000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 563, 
+            "text": "Frequency of chemotherapy-related cognitive impairment or \"chemobrain\" is mentioned to be significant in literature, although very little is known about the chemotherapy-caused chemobrain and its connection with metal homeostasis alteration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26653737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 185, 
+            "text": "Cognitive decline or dementia is a debilitating problem of neurological disorders such as Alzheimer's and Parkinson's disease, including special conditions like chemobrain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27041861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 219, 
+            "text": "Most cancer patients treated with systemic adjuvant chemotherapy endure long-lasting side effects including decrease in concentration, forgetfulness and slower thinking, which are globally termed \"chemobrain.\" ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27709283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "The frequent use of chemotherapy to combat a range of malignancies can elicit severe cognitive dysfunction often referred to as \"chemobrain,\" a condition that can persist long after the cessation of treatment in as many as 75% of survivors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25687405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 150, 
+            "text": "The term \"chemobrain\" is sometimes used to denote deficits in neuropsychological functioning that may occur as a result of cancer treatment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25176562", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "body": "Does amiodarone affect thyroid hormone receptors in the myocardium?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10445678", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9781936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7598731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17535870"
+    ], 
+    "ideal_answer": [
+        "Yes"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/THA_LITCT", 
+        "http://www.uniprot.org/uniprot/THB_HUMAN", 
+        "http://www.uniprot.org/uniprot/THB_SHEEP", 
+        "http://www.uniprot.org/uniprot/THA_MOUSE", 
+        "http://www.uniprot.org/uniprot/THA_PYGAD", 
+        "http://www.uniprot.org/uniprot/THA_CHICK", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013963", 
+        "http://www.uniprot.org/uniprot/THA_APTPA", 
+        "http://www.uniprot.org/uniprot/THB_CAIMO", 
+        "http://www.uniprot.org/uniprot/THA_CAIMO", 
+        "http://www.uniprot.org/uniprot/THA_PIG", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011988", 
+        "http://www.uniprot.org/uniprot/THBA_XENLA", 
+        "http://www.uniprot.org/uniprot/THB_PAROL", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D037021", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000638", 
+        "http://www.uniprot.org/uniprot/THB_DANRE", 
+        "http://www.uniprot.org/uniprot/THB_RAT", 
+        "http://www.biosemantics.org/jochem#4274241", 
+        "http://www.uniprot.org/uniprot/THAA_DANRE", 
+        "http://www.uniprot.org/uniprot/THA_ELECQ", 
+        "http://www.uniprot.org/uniprot/THA_HIPHI", 
+        "http://www.uniprot.org/uniprot/THA_ONCMY", 
+        "http://www.uniprot.org/uniprot/THA_SPAAU", 
+        "http://www.uniprot.org/uniprot/THA_NECMA", 
+        "http://www.uniprot.org/uniprot/THAA_PAROL", 
+        "http://www.uniprot.org/uniprot/THA_HUMAN", 
+        "http://www.uniprot.org/uniprot/THB_LITCT", 
+        "http://www.uniprot.org/uniprot/THA_SHEEP", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D037042", 
+        "http://www.uniprot.org/uniprot/THB_CHICK", 
+        "http://www.uniprot.org/uniprot/THA_RAT", 
+        "http://www.uniprot.org/uniprot/THAA_XENLA", 
+        "http://www.uniprot.org/uniprot/THA_SALSA", 
+        "http://www.uniprot.org/uniprot/THB_MOUSE"
+    ], 
+    "type": "yesno", 
+    "id": "516d5baa298dcd4e51000078", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 732, 
+            "offsetInEndSection": 845, 
+            "text": "AM and Dron affected TR expression in the RA similarly by decreasing TRalpha 1 and beta 1 expression by about 50%", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17535870", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 847, 
+            "offsetInEndSection": 933, 
+            "text": "In the LVW, AM and Dron decreased TRbeta 1 and, interestingly, AM increased TRalpha 1.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17535870", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 935, 
+            "offsetInEndSection": 975, 
+            "text": "n the apex, AM also increased TRalpha 2.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17535870", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1080, 
+            "offsetInEndSection": 1324, 
+            "text": "Both in treated and untreated mice, TRalpha2 mRNA had the highest density in mouse heart, whereas TRbeta2 mRNA had the lowest density. Amiodarone dose-dependently downregulated the levels of TRalpha1 and beta1 mRNA in comparison to the control.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10445678", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1537, 
+            "offsetInEndSection": 1648, 
+            "text": "amiodarone subtype selectively downregulates the TR mRNA levels in mouse myocardium in a dose-dependent manner.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10445678", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1613, 
+            "offsetInEndSection": 1691, 
+            "text": "Western blot analysis revealed no change in the expression of the ThR protein.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9781936", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 830, 
+            "offsetInEndSection": 1094, 
+            "text": "Amiodarone and T3, respectively, downregulated T3R alpha 1, T3R beta 1, T3R beta 2 (p < 0.05), but did not affect the levels of T3R alpha 2. Amiodarone and T3, added together, upregulated T3R alpha 2 and T3R beta 1 (p < 0.05) as compared to amiodarone or T3 alone.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7598731", 
+            "endSection": "sections.0"
+        }
+    ]
+}

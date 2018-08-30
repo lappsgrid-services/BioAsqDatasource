@@ -1,0 +1,84 @@
+{
+    "body": "List angiocrine factors", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21148069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24018375", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24257808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20094048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21068842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24257019"
+    ], 
+    "ideal_answer": [
+        "Angiocrine factors are: Ccl4, neurotensin, vascular endothelial growth factor, metalloproteinases-1, thrombospondin 3, Slit2, hepatocyte growth factor, Wnt2. "
+    ], 
+    "exact_answer": [
+        [
+            "Ccl4"
+        ], 
+        [
+            "neurotensin"
+        ], 
+        [
+            "vascular endothelial growth factor"
+        ], 
+        [
+            "metalloproteinases-1"
+        ], 
+        [
+            "thrombospondin 3"
+        ], 
+        [
+            "Slit2"
+        ], 
+        [
+            "hepatocyte growth factor"
+        ], 
+        [
+            "Wnt2"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56e46ad951531f7e3300001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 697, 
+            "offsetInEndSection": 744, 
+            "text": "Ccl4 and neurotensin (Nts) (angiocrine factors)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24257808", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 738, 
+            "offsetInEndSection": 838, 
+            "text": "vascular endothelial growth factor (VEGF)-A was identified as the most abundantly expressed factor, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24018375", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1628, 
+            "offsetInEndSection": 1726, 
+            "text": "angiocrine factors tissue inhibitor of metalloproteinases-1 (Timp-1) and thrombospondin 3 (THBS3) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24257019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 444, 
+            "offsetInEndSection": 575, 
+            "text": "We found that Slit2, which is negatively regulated by endothelial EphA2 receptor, is one such tumor suppressive angiocrine factor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21148069", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1631, 
+            "offsetInEndSection": 1701, 
+            "text": "angiocrine factors, including hepatocyte growth factor (HGF) and Wnt2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21068842", 
+            "endSection": "abstract"
+        }
+    ]
+}

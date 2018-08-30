@@ -1,0 +1,184 @@
+{
+    "body": "Mutations in which gene and which protein are associated with Netherton syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22377713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17608759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10835624", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19438860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11841556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16307658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20877344", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17989726", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21251800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11511292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21255986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15304086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16796630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16225619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24015757", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23407075"
+    ], 
+    "ideal_answer": [
+        "NS is due to loss-of-function mutations in the SPINK5 gene and to the consequent lack of expression of its encoded protein LEKTI in the skin and all stratified epithelial tissues."
+    ], 
+    "exact_answer": [
+        [
+            "SPINK5 gene"
+        ], 
+        [
+            "LEKTI protein"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056770"
+    ], 
+    "type": "list", 
+    "id": "56f56a8609dd18d46b00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 502, 
+            "text": "NS is due to loss-of-function mutations in the SPINK5 gene and to the consequent lack of expression of its encoded protein LEKTI in the skin and all stratified epithelial tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23407075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 339, 
+            "offsetInEndSection": 489, 
+            "text": "Recently, we identified SPINK5, which encodes the serine protease inhibitor Kazal-type 5 protein (LEKTI), as the defective gene in Netherton syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11841556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 321, 
+            "text": "Netherton syndrome (NS) is a rare, life-threatening ichthyosiform syndrome caused by recessive loss-of-function mutations in SPINK5 gene encoding lymphoepithelial Kazal-type-related inhibitor (LEKTI), a serine protease inhibitor expressed in the most differentiated epidermal layers and crucial for skin barrier function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22377713", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Netherton syndrome (NS) is a debilitating congenital skin disorder caused by mutations in the SPINK5 gene encoding the lymphoepithelial Kazal-type-related inhibitor (LEKTI).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20877344", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Loss-of-function mutations in the Kazal-type serine protease inhibitor, LEKTI, encoded by the SPINK5 gene cause the rare autosomal recessive skin disease Netherton syndrome (NS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19438860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "SPINK5 and Netherton syndrome: novel mutations, demonstration of missing LEKTI, and differential expression of transglutaminases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15304086", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Netherton's syndrome is a rare autosomal recessive disorder caused by mutations of the SPINK5 gene, which encodes the lymphoepithelial Kazal-type-related inhibitor (LEKTI) protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17608759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 462, 
+            "text": "We observed microstructural changes and detected LEKTI activity and SPINK5 gene mutation in three Chinese patients with Netherton's syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17608759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 241, 
+            "text": "Several skin diseases and atopic disorders including Netherton syndrome and atopic dermatitis have been associated with mutations and deviations of expression of SPINK5, the gene encoding the human 15-domain serine proteinase inhibitor LEKTI", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16307658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Loss-of-function mutations in the Kazal-type serine protease inhibitor, LEKTI, encoded by the SPINK5 gene cause the rare autosomal recessive skin disease Netherton syndrome (NS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19438860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 153, 
+            "offsetInEndSection": 309, 
+            "text": "Mutations in the serine protease inhibitor Kazal type 5 (SPINK5) gene leading to lymphoepithelial Kazal-type-related inhibitor (LEKTI) deficiency cause NS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24015757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 341, 
+            "text": " Netherton syndrome is a severe autosomal recessive skin disorder characterized by congenital erythroderma, a specific hair-shaft abnormality, and atopic manifestations with high IgE levels. Recently, we identified SPINK5, which encodes the serine protease inhibitor Kazal-type 5 protein (LEKTI), as the defective gene in Netherton syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11841556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 191, 
+            "offsetInEndSection": 577, 
+            "text": "Recently, we identified SPINK5, which encodes the serine protease inhibitor Kazal-type 5 protein (LEKTI), as the defective gene in Netherton syndrome. Here we describe the intron-exon organization of the gene and characterize the SPINK5 mutations in patients from 21 families of different geographic origin, using denaturing high performance liquid chromatography and direct sequencing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11841556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 415, 
+            "offsetInEndSection": 687, 
+            "text": "Mutation of the SPINK5 gene has been identified as disease-causing in Netherton syndrome, but the pathophysiology still remains unclear. Almost all SPINK5 mutations result in the absence of the serine-protease inhibitor LEKTI protein in both keratinocytes and lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21255986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 243, 
+            "text": "Several skin diseases and atopic disorders including Netherton syndrome and atopic dermatitis have been associated with mutations and deviations of expression of SPINK5, the gene encoding the human 15-domain serine proteinase inhibitor LEKTI.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16307658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 333, 
+            "text": "Netherton&apos;s syndrome is a rare autosomal recessive disorder caused by mutations of the SPINK5 gene, which encodes the lymphoepithelial Kazal-type-related inhibitor (LEKTI) protein. We observed microstructural changes and detected LEKTI activity and SPINK5 gene mutation in three Chinese patients with Netherton&apos;s syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17608759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 799, 
+            "text": "NS is due to loss-of-function mutations in the SPINK5 gene and to the consequent lack of expression of its encoded protein LEKTI in the skin and all stratified epithelial tissues. Following the identification of the NS causative gene and protein, specific diagnostic tools have been developed, thus breaking up the challenge of distinguishing NS from other congenital ichthyoses with overlapping features, and from severe, early-onset forms of atopic dermatitis or psoriasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23407075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 191, 
+            "offsetInEndSection": 341, 
+            "text": "Recently, we identified SPINK5, which encodes the serine protease inhibitor Kazal-type 5 protein (LEKTI), as the defective gene in Netherton syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11841556", 
+            "endSection": "abstract"
+        }
+    ]
+}

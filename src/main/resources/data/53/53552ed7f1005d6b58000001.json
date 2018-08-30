@@ -1,0 +1,405 @@
+{
+    "body": "Have mutations in the ZEB2 gene been found in any human syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17958891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17203459", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23523603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23243526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24029077", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24282181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18445050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23427518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23322667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16053902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22486326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19215041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23001561", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22246645", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20428734", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23152852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16150342", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20093881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21893004", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17223398", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18259761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23312518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20125191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18230842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12746390", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23466526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14681759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16088920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20145308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16532472", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19236961"
+    ], 
+    "ideal_answer": [
+        "Yes, the Mowat-Wilson syndrome"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/ZEB2_HUMAN", 
+        "http://www.uniprot.org/uniprot/ZEB2_MOUSE"
+    ], 
+    "type": "yesno", 
+    "id": "53552ed7f1005d6b58000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 156, 
+            "text": "Mowat-Wilson syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24282181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 233, 
+            "text": "Mowat-Wilson syndrome (MWS; OMIM#235730) have characteristic facial features, a variety of congenital anomalies such as Hirschsprung disease, and intellectual disabilities caused by mutation or deletion of ZEB2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24029077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 111, 
+            "text": "owat-Wilson syndrome (MWS) is a genetic disease caused by heterozygous mutations or deletions of the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23523603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 354, 
+            "text": "MWS is caused by de novo heterozygous mutations in the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23466526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 274, 
+            "text": "The cause of MWS is a de novo mutation in the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23427518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 111, 
+            "text": "owat-Wilson syndrome (MWS) is a genetic disease caused by heterozygous mutations or deletions of the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23322667", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 536, 
+            "offsetInEndSection": 691, 
+            "text": "MWS have a heterozygous loss-of-function mutation in the zinc finger E-box protein 2 (ZEB2) gene, also called SIP1 (Smad-interacting protein 1) and ZFHX1B,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23243526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 856, 
+            "offsetInEndSection": 974, 
+            "text": " human Mowat-Wilson syndrome, we suggest that deletion of ZEB2, is responsible for most of the effects of the mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 153, 
+            "offsetInEndSection": 215, 
+            "text": "Mutations at the hZeb2 locus cause Mowat-Wilson syndrome (MWS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23001561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 32, 
+            "offsetInEndSection": 76, 
+            "text": "Mowat-Wilson syndrome and a mutation in ZEB2", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22486326", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 93, 
+            "text": "owat-Wilson syndrome (MWS) is caused by a heterozygous mutation or deletion of the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22246645", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 397, 
+            "text": "The syndrome is caused by mutations or deletions of the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21893004", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 85, 
+            "text": "owat-Wilson syndrome (MWS) is an autosomal dominant intellectual disability syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21893004", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 632, 
+            "offsetInEndSection": 710, 
+            "text": "single-copy ZEB2 gene deletion at 2q22.3 consistent with Mowat-Wilson syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20093881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 305, 
+            "text": "Mowat-Wilson syndrome, confirmed by molecular analysis as a heterozygous deletion of the ZEB2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20145308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1006, 
+            "offsetInEndSection": 1084, 
+            "text": "deletion encompassing ZEB2, the gene responsible for the Mowat-Wilson syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20125191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1038, 
+            "offsetInEndSection": 1082, 
+            "text": " Six patients had deletions in the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 58, 
+            "text": "ZEB2 gene analysis for Mowat-Wilson syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1144, 
+            "offsetInEndSection": 1257, 
+            "text": "Mowat-Wilson syndrome (MWS) like appearance was noted. The disease is caused by mutation or deletion of ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19236961", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 127, 
+            "text": "owat-Wilson syndrome (MWS; OMIM #235730) is a genetic condition caused by heterozygous mutations or deletions of the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19215041", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 185, 
+            "text": "owat-Wilson syndrome (MWS) is an autosomal dominant developmental disorder with mental retardation and variable multiple congenital abnormalities due to mutations of the ZEB2 (ZFHX1B) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18445050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 931, 
+            "offsetInEndSection": 1071, 
+            "text": "MWS is caused by heterozygous mutations or deletions in the Zinc finger E-box-binding homeobox 2 gene, ZEB2, previously called ZFHX1B (SIP1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17958891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 153, 
+            "text": "owat-Wilson syndrome (MWS) is a multiple congenital anomaly-mental retardation complex caused by mutations in the Zinc Finger Homeobox 1 B gene (ZFHX1B)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 704, 
+            "offsetInEndSection": 778, 
+            "text": "the ZFHX1B gene, which is known to be involved in the Mowat-Wilson syndrom", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17223398", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 435, 
+            "text": "de novo heterozygous mutations or deletions of the ZFHX1B gene located at 2q22", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17203459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 113, 
+            "text": "owat-Wilson syndrome (MWS) is a recently delineated mental retardation (MR)-multiple congenital anomaly syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17203459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 55, 
+            "text": "FHX1B mutations in patients with Mowat-Wilson syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17203459", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 390, 
+            "text": "Mutations leading to haploinsufficiency of the ZFHX1B gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 98, 
+            "text": "mutation in the ZFHX1B gene associated with an atypical Mowat-Wilson syndrome phenotype", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 69, 
+            "text": "ZFHX1B mutation associated with a mild Mowat-Wilson syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16532472", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 20, 
+            "offsetInEndSection": 197, 
+            "text": "Patients with zinc finger homeo box 1B (ZFHX1B) mutations or deletions develop multiple congenital anomalies including Hirschsprung disease, known as Mowat-Wilson syndrome (MWS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16150342", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 441, 
+            "text": "Heterozygous mutations or deletions involving the gene ZFHX1B (previously SIP1) [OMIM 605802] have recently been found to cause MWS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16088920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 680, 
+            "text": " ZFHX1B deletions, splice site or truncating mutations were detected in all 28 patients classified as typical MWS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16053902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 27, 
+            "offsetInEndSection": 117, 
+            "text": "Mowat-Wilson syndrome with deletion/mutation in the zinc finger homeo box 1B gene (ZFHX1B)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 437, 
+            "offsetInEndSection": 499, 
+            "text": " mutations in the zinc finger homeo box 1B gene, ZFHX1B (SIP1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 38, 
+            "offsetInEndSection": 172, 
+            "text": "ZFHX1B gene transcripts during mouse and human development supports the various clinical manifestations of the \"Mowat-Wilson\" syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 287, 
+            "text": " ZFHX1B mutations cause a complex developmental phenotype characterized by severe mental retardation (MR) and multiple congenital defects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 118, 
+            "text": "mutation of the zinc finger homeo box 1 B gene in syndromic corpus callosum agenesis (Mowat-Wilson syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14681759", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 572, 
+            "text": "syndrome is the result of heterozygous deletions or truncating mutations of the ZFHX1B (SIP1) gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12746390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 686, 
+            "offsetInEndSection": 737, 
+            "text": "humans with Zfhx1b mutations (Mowat-Wilson syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 511, 
+            "offsetInEndSection": 665, 
+            "text": "syndrome occurs as a result of heterozygous mutations or deletions in the zinc finger E-box-binding homeobox 2 gene, ZEB2, previously called ZFHX1B (SIP1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20428734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 72, 
+            "text": "owat-Wilson syndrome (MWS) is a recently delineated mental retardation;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20428734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 126, 
+            "text": "Mowat-Wilson syndrome is a congenital syndrome caused by a defect of the transcriptional repressor ZFHX1B (SIP1)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18259761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 443, 
+            "offsetInEndSection": 537, 
+            "text": "Mowat-Wilson syndrome patients, and all siblings had the same E87X nonsense mutation in ZFHX1B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18230842", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "body": "Is CD84 genetically associated with arthritis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21094032", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21255096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23555300"
+    ], 
+    "ideal_answer": [
+        "Three members of this gene family, Ly108, Ly9, and CD84, exhibit polymorphisms that strongly influence susceptibility to systemic autoimmunity, notably in mice, but also in some human populations. Our study demonstrates that an allele associated with response to etanercept therapy is also associated with CD84 gene expression, and further that CD84 expression correlates with Rheumatoid Arthritis disease activity."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001168", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001172", 
+        "http://www.disease-ontology.org/api/metadata/DOID:7148"
+    ], 
+    "type": "yesno", 
+    "id": "52ef7170c8da898910000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 901, 
+            "offsetInEndSection": 1241, 
+            "text": "The SNP is predicted to disrupt transcription factor binding site motifs in the 3' UTR of an immune-related gene, CD84, and the allele associated with better response to etanercept was associated with higher CD84 gene expression in peripheral blood mononuclear cells (P = 1 \u00d7 10(-11) in 228 non-RA patients and P = 0.004 in 132 RA patients)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23555300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1748, 
+            "offsetInEndSection": 1944, 
+            "text": "Our study demonstrates that an allele associated with response to etanercept therapy is also associated with CD84 gene expression, and further that CD84 expression correlates with disease activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23555300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 352, 
+            "text": " Three members of this gene family, Ly108, Ly9, and CD84, exhibit polymorphisms that strongly influence susceptibility to systemic autoimmunity, notably in mice, but also in some human populations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21094032", 
+            "endSection": "abstract"
+        }
+    ]
+}

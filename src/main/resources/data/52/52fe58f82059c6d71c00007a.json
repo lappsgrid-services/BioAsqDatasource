@@ -1,0 +1,206 @@
+{
+    "body": "Do archaeal genomes contain one or multiple origins of replication?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15197606", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20850498", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16249118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2541880", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16321966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24185008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22978470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16980466", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11967086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20667100", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17350933", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18922777", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14526006", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23375370", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17511521", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22942672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15876567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11521661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17956224", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15337158", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21784908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20978102", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12646230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21364800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12237132", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22812406", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17392430"
+    ], 
+    "ideal_answer": [
+        "Some archaea replicate from single origins but most archaea and all eukaryotes replicate using multiple origins.", 
+        "Multiple functional sites of origin of replication may exist in the genomes of most archaea. This has only been demonstrated recently. Two studies have shown that multiple origins of replication function in two archaeal species."
+    ], 
+    "exact_answer": [
+        "mostly multiple", 
+        "Multiple"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004261", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006270", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006260", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020745", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018741", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001105", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051738", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003688"
+    ], 
+    "type": "factoid", 
+    "id": "52fe58f82059c6d71c00007a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1056, 
+            "offsetInEndSection": 1407, 
+            "text": "Therefore, these lines of evidence strongly suggest that the identified region is a replication origin, which is designated as oriC1. The analysis of the y component of the Z curve, i.e., MK disparity curve, suggests the presence of another replication origin corresponding to one of the peaks in the MK disparity curve at around 1,388 kb of the genom", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15197606", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 927, 
+            "offsetInEndSection": 1039, 
+            "text": "Our results strongly suggest that the single replication origin of M. mazei is situated at the intergenic region", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12237132", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 294, 
+            "offsetInEndSection": 424, 
+            "text": "Bacteria and some archaea replicate from single origins, whereas most archaea and all eukaryotes replicate using multiple origins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 95, 
+            "text": "multiple DNA replication origins are a hallmark of Eukaryotes and some Archaea", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23375370", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 403, 
+            "offsetInEndSection": 509, 
+            "text": "Multiple orc/cdc6-associated replication origins were predicted in all of the analyzed haloarchaeal genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 717, 
+            "offsetInEndSection": 822, 
+            "text": "different replication origins in some archaeal genomes leave quite different patterns of strand asymmetry", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 218, 
+            "offsetInEndSection": 301, 
+            "text": "the single chromosome of Pyrobaculum calidifontis contains four replication origins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22812406", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 469, 
+            "offsetInEndSection": 569, 
+            "text": "six archaeal genomes from the genus Sulfolobus containing three origins of replication were selected", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 641, 
+            "offsetInEndSection": 835, 
+            "text": "The strong replication-biased structuring of the Sulfolobus chromosome implies that the multiple replication origins serve purposes other than simply shortening the time required for replication", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20667100", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 295, 
+            "text": "The 3 DNA replication origins of Sulfolobus acidocaldarius", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18922777", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 459, 
+            "offsetInEndSection": 665, 
+            "text": "We have used a combination of genetic, biochemical, and bioinformatic approaches to map DNA replication origins in H. volcanii. Five autonomously replicating sequences were found adjacent to cdc6/orc1 genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17511521", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 325, 
+            "offsetInEndSection": 427, 
+            "text": "the multiple replication origin paradigm has also been demonstrated within the archaeal domain of life", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17392430", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 132, 
+            "text": "multiple chromosome replication origins in Sulfolobus species has added yet another eukaryotic trait to the archaea", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16249118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 197, 
+            "offsetInEndSection": 434, 
+            "text": "We employed Z-curve analysis to identify one replication origin in the Methanocaldococcus jannaschii genome, two replication origins in the Halobacterium species NRC-1 genome and one replication origin in the Methanosarcina mazei genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15876567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 245, 
+            "text": "Archaea seem to replicate using a single origin (as do eubacteria) even though archaeal replication factors are more like those of eukaryotes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11521661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 739, 
+            "offsetInEndSection": 877, 
+            "text": "Based on the above analysis, a model of replication of Halobacterium NRC-1 with two replication origins and two termini has been proposed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12646230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1132, 
+            "offsetInEndSection": 1285, 
+            "text": "In addition, the potential multiple replication origins of the archaeon Sulfolobus solfataricus are suggested by the analysis based on the Z curve method", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12646230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 140, 
+            "text": "While multiple replication origins have been observed in archaea, considerably less is known about their evolutionary processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1608, 
+            "offsetInEndSection": 1680, 
+            "text": "multiple orc/cdc6-associated replication origins in haloarchaeal genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470", 
+            "endSection": "abstract"
+        }
+    ]
+}

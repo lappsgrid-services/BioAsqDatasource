@@ -1,0 +1,364 @@
+{
+    "body": "What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23122652", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23122650", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24170099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10482259", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20236038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7914262", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15049789", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24116901", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23558379", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21550857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23494602", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23448220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23459567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19740383", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24289293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18946064", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22056965", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20088763", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22229582", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18075272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24198283", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16231285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8624684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23759318", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19296065", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18283404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18713579", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22252465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23634277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21899662", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23709214", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10568572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17920549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19878629"
+    ], 
+    "ideal_answer": [
+        "Alemtuzumab and Campath-1H are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients. It has been shown to be effective for treatment naive and treatment resistant multiple sclerosis patients."
+    ], 
+    "exact_answer": [
+        [
+            "Alemtuzumab"
+        ], 
+        [
+            "Campath-1H"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D061067", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009103", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2377", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000911"
+    ], 
+    "type": "list", 
+    "id": "530cefaaad0bf1360c000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1395, 
+            "offsetInEndSection": 1556, 
+            "text": "Alemtuzumab offers induction strategy for very active relapsing MS patients who have failed conventional therapy, and possibly selected treatment-naive patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24289293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "Differential reconstitution of T cell subsets following immunodepleting treatment with alemtuzumab (anti-CD52 monoclonal antibody) in patients with relapsing-remitting multiple sclerosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24198283", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Alemtuzumab (anti-CD52 mAb) provides long-lasting disease activity suppression in relapsing-remitting multiple sclerosis (RRMS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24198283", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 169, 
+            "text": "Alemtuzumab, an anti-CD52 monoclonal antibody, increased the risk of thyroid dysfunction in CAMMS223, a phase 2 trial in relapsing-remitting multiple sclerosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24170099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 846, 
+            "offsetInEndSection": 1314, 
+            "text": "Since then, one phase II and two phase III trials have shown that alemtuzumab reduces the relapse rate, compared with the active comparator interferon beta-1a (IFN\u03b2-1a), in treatment-na\u00efve and treatment-experienced MS up to 10 years from disease onset. Furthermore, in two of these trials, alemtuzumab reduced the risk of accumulating disability compared with IFN\u03b2-1a; indeed alemtuzumab treatment led to an improvement in disability and reduction in cerebral atrophy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23709214", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 284, 
+            "text": "Alemtuzumab is a humanized monoclonal antibody specific for the CD52 protein present at high levels on the surface of B and T lymphocytes. In clinical trials, alemtuzumab has shown a clinical benefit superior to that of interferon-\u03b2 in relapsing-remitting multiple sclerosis patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24116901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 583, 
+            "offsetInEndSection": 696, 
+            "text": "These results potentially help explain the level of immunocompetence observed in alemtuzumab-treated MS patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23759318", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Alemtuzumab was first used in multiple sclerosis in 1991. It is a monoclonal antibody which is directed against CD52, a protein of unknown function on lymphocytes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23634277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 518, 
+            "offsetInEndSection": 784, 
+            "text": "Against an active comparator and the current first-line therapy for relapsing-remitting multiple sclerosis (interferon-beta), alemtuzumab showed a significant reduction in annualized relapse rate as well as a significant reduction in the accumulation of disability. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23558379", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Alemtuzumab (previously known as Campath(\u00ae)) is a humanized monoclonal antibody directed against the CD52 antigen on mature lymphocytes that results in lymphopenia and subsequent modification of the immune repertoire. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23494602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 619, 
+            "offsetInEndSection": 1060, 
+            "text": "Compared to interferon beta-1a, alemtuzumab reduced the relapse rate by 49%-74% (P < 0.0001), and in two studies it reduced the risk of sustained disability accumulation by 42%-71% (P < 0.01). In one study (Comparison of Alemtuzumab and Rebif Efficacy in Multiple Sclerosis; CARE-MS1), there was no significant difference compared to interferon, perhaps reflecting the surprisingly low frequency of disability events in the comparator group.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23494602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2103, 
+            "offsetInEndSection": 2222, 
+            "text": "Alemtuzumab has been submitted for licensing in relapsing-remitting multiple sclerosis in the United States and Europe.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23494602", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1513, 
+            "offsetInEndSection": 1665, 
+            "text": "Alemtuzumab was associated with a greater chance of improved contrast sensitivity in patients with RRMS and may delay the worsening of visual function. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23459567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 180, 
+            "text": "The anti-CD52 monoclonal antibody alemtuzumab reduced disease activity in a phase 2 trial of previously untreated patients with relapsing-remitting multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23122652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2640, 
+            "offsetInEndSection": 2919, 
+            "text": "Alemtuzumab's consistent safety profile and benefit in terms of reductions of relapse support its use for patients with previously untreated relapsing-remitting multiple sclerosis; however, benefit in terms of disability endpoints noted in previous trials was not observed here. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23122652", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 473, 
+            "text": "Alemtuzumab, formally known as Campath-1H, is a humanized monoclonal antibody directed against CD52, a protein on the surface of lymphocytes and monocytes with unknown function. A single dose of alemtuzumab leads to a rapid, profound and prolonged lymphopenia. A Phase II trial has shown that alemtuzumab reduces the risk of relapse and accumulation of disability by over 70% compared with interferon beta in patients with early relapsing-remitting multiple sclerosis (MS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19878629", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 788, 
+            "offsetInEndSection": 963, 
+            "text": "Alemtuzumab, targeting CD52 expressed on T-cells, B-cells, monocytes and macrophages, has also shown to be effective in early RRMS and phase III trials are currently ongoing. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20088763", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 748, 
+            "offsetInEndSection": 1000, 
+            "text": "monoclonal antibody therapy has provided the opportunity to rationally direct the therapeutic intervention by specifically targeting mechanisms of the immune system such as CD52 (alemtuzumab), CD25 (daclizumab), VLA-4 (natalizumab) and CD20 (rituximab)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20236038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Alemtuzumab is a humanized monoclonal antibody targeting CD52, a broadly expressed cell surface molecule on immune cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21550857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 441, 
+            "text": "Alemtuzumab-treatment of MS patients with relapsing-remitting forms of the disease significantly reduced the risk of relapse and accumulation of disability compared to interferon \u03b2-1a treatment in a phase II trial. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21550857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 181, 
+            "text": "Alemtuzumab (CD52-specific humanized monoclonal antibody) was found to be an effective therapy for treatment-naive patients with relapsing-remitting multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21899662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1458, 
+            "offsetInEndSection": 1633, 
+            "text": "Alemtuzumab effectively reduced relapse rates and improved clinical scores in patients with active relapsing-remitting multiple sclerosis not controlled by interferon therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21899662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Alemtuzumab is an anti-CD52 monoclonal antibody with remarkable efficacy in relapsing multiple sclerosis (MS). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22252465", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 161, 
+            "text": "The anti-CD52 monoclonal antibody alemtuzumab reduces disease activity in previously untreated patients with relapsing-remitting multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23122650", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2454, 
+            "offsetInEndSection": 2636, 
+            "text": "For patients with first-line treatment-refractory relapsing-remitting multiple sclerosis, alemtuzumab could be used to reduce relapse rates and sustained accumulation of disability. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23122650", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1028, 
+            "offsetInEndSection": 1221, 
+            "text": "Campath-1H causes the immune response to change from the Th1 phenotype, suppressing multiple sclerosis disease activity, but permitting the generation of antibody-mediated thyroid autoimmunity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10568572", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 281, 
+            "text": "Campath-1H is a humanized monoclonal antibody directed at CD52 expressed on lymphocytes and other cells of the immune system. It has been tested extensively in lymphoid malignancies, autoimmune diseases including rheumatoid arthritis, multiple sclerosis, and organ transplantation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15049789", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 563, 
+            "text": "Campath 1-H (Alemtuzumab) is a humanised monoclonal antibody which targets the CD52 antigen, a low molecular weight glycoprotein present on the surface of most lymphocyte lineages, causing complement mediated lysis and rapid and prolonged T lymphocyte depletion. Following encouraging initial data from other centres we report our open label experience of using Campath 1-H as a treatment in aggressive relapsing multiple sclerosis in a consecutive series of 39 highly selected patients treated across three regional centres and followed for a mean of 1.89 years.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18283404", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 165, 
+            "text": "Alemtuzumab, a humanized monoclonal antibody that targets CD52 on lymphocytes and monocytes, may be an effective treatment for early multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18946064", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2023, 
+            "offsetInEndSection": 2242, 
+            "text": "In patients with early, relapsing-remitting multiple sclerosis, alemtuzumab was more effective than interferon beta-1a but was associated with autoimmunity, most seriously manifesting as immune thrombocytopenic purpura.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18946064", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 622, 
+            "offsetInEndSection": 1019, 
+            "text": "Alemtuzumab, a monoclonal antibody targeting CD52, is a highly promising agent currently being studied in two phase III clinical trials. In this review, data from the recently published phase II clinical trial in the treatment of early relapsing remitting MS is summarized and analyzed in light of the development of alemtuzumab for MS and its potential role in treating this disease is discussed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19296065", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 288, 
+            "text": "Alemtuzumab is a humanized monoclonal antibody against CD52, an antigen found on the surface of normal and malignant lymphocytes. It is approved for the treatment of B-cell chronic lymphocytic leukaemia and is undergoing Phase III clinical trials for the treatment of multiple sclerosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19740383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 226, 
+            "offsetInEndSection": 422, 
+            "text": "To assess the effect of systemic lymphocyte depletion on disease activity, seven patients with MS received a 10-day intravenous course of the humanised monoclonal antibody CAMPATH-1H (anti-CDw52).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7914262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1207, 
+            "offsetInEndSection": 1423, 
+            "text": "The effect of CAMPATH-1H on disease activity provides direct, but preliminary, evidence that disease activity in MS depends on the availability of circulating lymphocytes and can be prevented by lymphocyte depletion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7914262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "The elective treatment of patients with multiple sclerosis, using a humanized anti-leukocyte (CD52) monoclonal antibody (Campath-1H), has illuminated mechanisms that underlie the clinical course of the disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10482259", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 334, 
+            "offsetInEndSection": 544, 
+            "text": "Alemtuzumab is currently under review to treat relapsing multiple sclerosis (MS) in the United States, based on positive Phase II and Phase III trials in both treatment-na\u00efve and treated relapsing MS patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24289293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 756, 
+            "offsetInEndSection": 881, 
+            "text": "Alemtuzumab has recently been approved by the European authorities for active relapsing MS, in essence as a first-line agent.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24289293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Alemtuzumab is a humanized monoclonal antibody directed against CD52. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23709214", 
+            "endSection": "abstract"
+        }
+    ]
+}

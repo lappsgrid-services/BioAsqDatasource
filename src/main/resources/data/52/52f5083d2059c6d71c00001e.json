@@ -1,0 +1,107 @@
+{
+    "body": "Does TGF-beta play a role in cardiac regeneration after myocardial infarction?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22513374", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12374778", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23293297", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17322368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19966054", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18985280", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15883211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10198196", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16842199"
+    ], 
+    "ideal_answer": [
+        "TGF\u03b2 signaling orchestrates the beneficial interplay between scar-based repair and cardiomyocyte-based regeneration to achieve complete heart regeneration."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016212", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009203", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012038"
+    ], 
+    "type": "yesno", 
+    "id": "52f5083d2059c6d71c00001e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 768, 
+            "offsetInEndSection": 1034, 
+            "text": "We then performed a chemical screen and identified several small molecules that increase or reduce cardiomyocyte proliferation during heart development. These compounds act via Hedgehog, Insulin-like growth factor or Transforming growth factor \u03b2 signaling pathways. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23293297", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 477, 
+            "text": "Here, we report that the balance between the reparative and regenerative processes is achieved through Smad3-dependent TGF\u03b2 signaling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22513374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1368, 
+            "offsetInEndSection": 1529, 
+            "text": "Thus, TGF\u03b2 signaling orchestrates the beneficial interplay between scar-based repair and cardiomyocyte-based regeneration to achieve complete heart regeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22513374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1071, 
+            "offsetInEndSection": 1558, 
+            "text": "As expected, transforming growth factor (TGF)-beta, a profibrotic cytokine, was dramatically upregulated in MI hearts, but its phosphorylated comediator (pSmad) was significantly downregulated in the nuclei of Cx43-deficient hearts post-MI, suggesting that downstream signaling of TGF-beta is diminished substantially in Cx43-deficient hearts. This diminution in profibrotic TGF-beta signaling resulted in the attenuation of adverse structural remodeling as assessed by echocardiography.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19966054", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 980, 
+            "offsetInEndSection": 1230, 
+            "text": "Potentially beneficial changes include increases in the HSMP secretory-leucocyte-protease-inhibitor (SLPI) and cytokine transforming growth factor (TGF)-beta(1). Targeting these proteins may mitigate enhanced LV remodeling and dysfunction with aging.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18985280", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 427, 
+            "offsetInEndSection": 760, 
+            "text": "After injury, the presence of macrophages, which secreted high levels of transforming growth factor-beta and vascular endothelial growth factor-A, led to rapid removal of cell debris and replacement by granulation tissue containing inflammatory cells and blood vessels, followed by myofibroblast infiltration and collagen deposition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17322368", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 1037, 
+            "text": "Secretion of transforming growth factor-beta and vascular endothelial growth factor-A as well as neovascularization, myofibroblast infiltration, and collagen deposition decreased. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17322368", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 927, 
+            "offsetInEndSection": 1181, 
+            "text": "Repression of proinflammatory cytokine and chemokine synthesis, mediated in part through Transforming Growth Factor (TGF)-beta and Interleukin (IL)-10, is critical for resolution of the inflammatory infiltrate and transition to fibrous tissue deposition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16842199", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1692, 
+            "offsetInEndSection": 2026, 
+            "text": "TGF-beta conducted the myogenic differentiation of CD117+ stem cells by upregulating GATA-4 and NKx-2.5 expression. Therefore, the intramyocardial implantation of TGF-beta-preprogrammed CD117+ cells effectively assisted the myocardial regeneration and induced therapeutic angiogenesis, contributing to functional cardiac regeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15883211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1593, 
+            "offsetInEndSection": 1790, 
+            "text": "These results indicate that TGF-beta/Smad signaling may be involved in the remodeling of the infarct scar after the completion of wound healing per se, via ongoing stimulation of matrix deposition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10198196", 
+            "endSection": "abstract"
+        }
+    ]
+}

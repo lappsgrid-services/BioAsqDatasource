@@ -1,0 +1,49 @@
+{
+    "body": "Which syndrome is associated with mutant DVL1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25817014", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25817016"
+    ], 
+    "ideal_answer": [
+        "Mutations in DVL1 cause an osteosclerotic form of Robinow syndrome."
+    ], 
+    "exact_answer": [
+        "Robinow syndrome"
+    ], 
+    "type": "factoid", 
+    "id": "5709ee36cf1c32585100001e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 67, 
+            "text": "Mutations in DVL1 cause an osteosclerotic form of Robinow syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25817014", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 311, 
+            "offsetInEndSection": 525, 
+            "text": "Here, we identified de novo frameshift mutations in DVL1, a mediator of both canonical and non-canonical Wnt signaling, as the cause of RS-OS, an RS subtype involving osteosclerosis, in three unrelated individuals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25817014", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "DVL1 frameshift mutations clustering in the penultimate exon cause autosomal-dominant Robinow syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25817016", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 784, 
+            "text": "argeted Sanger sequencing in additional subjects with DRS uncovered DVL1 exon 14 mutations in five individuals, including a pair of monozygotic twins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25817016", 
+            "endSection": "abstract"
+        }
+    ]
+}

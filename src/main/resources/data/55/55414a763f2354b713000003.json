@@ -1,0 +1,158 @@
+{
+    "body": "Which databases exist for experimentally determined topologies of \u03b1-helical transmembrane proteins ?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20601677"
+    ], 
+    "ideal_answer": [
+        "ExTopoDB and TMPDB."
+    ], 
+    "exact_answer": [
+        [
+            "ExTopoDB"
+        ], 
+        [
+            "TMPDB"
+        ]
+    ], 
+    "type": "list", 
+    "id": "55414a763f2354b713000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "ExTopoDB: a database of experimentally derived topological models of transmembrane proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 726, 
+            "text": "ExTopoDB is a publicly accessible database of experimentally derived topological models of transmembrane proteins. It contains information collected from studies in the literature that report the use of biochemical methods for the determination of the topology of \u03b1-helical transmembrane proteins. Transmembrane protein topology is highly important in order to understand their function and ExTopoDB provides an up to date, complete and comprehensive dataset of experimentally determined topologies of \u03b1-helical transmembrane proteins. Topological information is combined with transmembrane topology prediction resulting in more reliable topological models. AVAILABILITY: http://bioinformatics.biol.uoa.gr/ExTopoDB", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "TMPDB: a database of experimentally-characterized transmembrane topologies", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 895, 
+            "text": "TMPDB is a database of experimentally-characterized transmembrane (TM) topologies. TMPDB release 6.2 contains a total of 302 TM protein sequences, in which 276 are alpha-helical sequences, 17 beta-stranded, and 9 alpha-helical sequences with short pore-forming helices buried in the membrane. The TM topologies in TMPDB were determined experimentally by means of X-ray crystallography, NMR, gene fusion technique, substituted cysteine accessibility method, N-linked glycosylation experiment and other biochemical methods. TMPDB would be useful as a test and/or training dataset in improving the proposed TM topology prediction methods or developing novel methods with higher performance, and as a guide for both the bioinformaticians and biologists to better understand TM proteins. TMPDB and its subsets are freely available at the following web site: http://bioinfo.si.hirosaki-u.ac.jp/~TMPDB/", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 533, 
+            "text": "Transmembrane protein topology is highly important in order to understand their function and ExTopoDB provides an up to date, complete and comprehensive dataset of experimentally determined topologies of \u0436\u2534-helical transmembrane proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "TMPDB: a database of experimentally-characterized transmembrane topologies.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "TMPDB is a database of experimentally-characterized transmembrane (TM) topologies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 518, 
+            "text": "The TM topologies in TMPDB were determined experimentally by means of X-ray crystallography, NMR, gene fusion technique, substituted cysteine accessibility method, N-linked glycosylation experiment and other biochemical methods.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 533, 
+            "text": "Transmembrane protein topology is highly important in order to understand their function and ExTopoDB provides an up to date, complete and comprehensive dataset of experimentally determined topologies of \u03b1-helical transmembrane proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 547, 
+            "text": "Transmembrane protein topology is highly important in order to understand their function and ExTopoDB provides an up to date, complete and comprehensive dataset of experimentally determined topologies of \ufffd-helical transmembrane proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "UNLABELLED: ExTopoDB is a publicly accessible database of experimentally derived topological models of transmembrane proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 521, 
+            "text": "The TM topologies in TMPDB were determined experimentally by means of X-ray crystallography, NMR, gene fusion technique, substituted cysteine accessibility method, N-linked glycosylation experiment and other biochemical methods.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 534, 
+            "text": "Transmembrane protein topology is highly important in order to understand their function and ExTopoDB provides an up to date, complete and comprehensive dataset of experimentally determined topologies of \u03b1-helical transmembrane proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 520, 
+            "text": "The TM topologies in TMPDB were determined experimentally by means of X-ray crystallography, NMR, gene fusion technique, substituted cysteine accessibility method, N-linked glycosylation experiment and other biochemical methods", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "TMPDB is a database of experimentally-characterized transmembrane (TM) topologies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12520035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "ExTopoDB: a database of experimentally derived topological models of transmembrane proteins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "ExTopoDB is a publicly accessible database of experimentally derived topological models of transmembrane proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20601677", 
+            "endSection": "abstract"
+        }
+    ]
+}

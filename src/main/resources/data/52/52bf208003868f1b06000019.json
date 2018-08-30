@@ -1,0 +1,130 @@
+{
+    "body": "What is the inheritance pattern of Li\u2013Fraumeni syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2190528", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7981072", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16772121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9302689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22672556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20075382"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2961", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/679"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2961", 
+            "o": "Li Fraumeni syndrome, 151623"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/679", 
+            "o": "Li_Fraumeni_syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615981", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2675080", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16619828"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615981", 
+            "o": "LI-FRAUMENI-LIKE SYNDROME"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16619828", 
+            "o": "LFL"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2675080", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16615981"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16619828", 
+            "o": "OMIM"
+        }
+    ], 
+    "ideal_answer": [
+        "Li-Fraumeni syndrome shows autosomal dominant inheritance."
+    ], 
+    "exact_answer": [
+        "Autosomal dominant"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3012", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016864"
+    ], 
+    "type": "factoid", 
+    "id": "52bf208003868f1b06000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 745, 
+            "text": "It therefore appears that the LFS phenotype has been conferred by an aberrant gene, showing a dominant pattern of inheritance, which may be acting to compromise normal p53 function rather than by a mutation in p53 itself.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7981072", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 1213, 
+            "text": "In addition, there seem to be predispositions to a wider range of different, but well-defined neoplasms: e.g., adenocarcinomatosis of the colon and the endometrium, or the Li-Fraumeni/SBLA syndrome. The latter shows a spectrum of sarcoma, brain tumours, breast cancer, leukaemias, lung and adenocortical cancer. The genes leading to these types of dominantly inherited predispositions appear to be the tentatively so-called tumour suppressor genes, for which the Rb gene serves as a model", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2190528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 150, 
+            "text": "he Li-Fraumeni syndrome is a rare autosomal-dominant disease whose hallmark is a predisposition to a wide range of cancers among members of a family.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9302689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Li-Fraumeni Syndrome (LFS) is characterized by early-onset carcinogenesis involving multiple tumor types and shows autosomal dominant inheritance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16772121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "BACKGROUND: Li-Fraumeni-Syndrome (LFS) is an autosomal-dominant, inherited tumour predisposition syndrome associated with heterozygous germline mutations in the TP53 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22672556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Li-Fraumeni syndrome (LFS) is a highly penetrant, autosomal dominant, human familial cancer predisposition", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20075382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "The Li-Fraumeni syndrome is a rare autosomal-dominant disease whose hallmark is a predisposition to a wide range of cancers among members of a family", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9302689", 
+            "endSection": "abstract"
+        }
+    ]
+}

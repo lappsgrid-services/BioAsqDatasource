@@ -1,0 +1,307 @@
+{
+    "body": "Can a peptide aptamer be used as protein inhibitor?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20842131", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21296653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22811618", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22956136", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17917077", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16581027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18195017", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19150354", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22714536", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10439043", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19389625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24130701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18186614", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20191379", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12123800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22533554", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16815302", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16139842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24188027"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8405672", 
+            "o": "D052158"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17888724"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17937093"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17888724", 
+            "o": "Aptamers, Peptide [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8405672", 
+            "o": "Aptamers, Peptide"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8405672"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18057015", 
+            "o": "Peptide Aptamers"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18057015"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8419254"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8419254", 
+            "o": "D052158"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8405672", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8419254", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17888724", 
+            "o": "N0000170367"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17937093", 
+            "o": "N0000170367"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18057015", 
+            "o": "N0000170367"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, peptide aptamers can be used as inhibitors."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/INH_BPT4", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010455", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011500", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D052158"
+    ], 
+    "type": "yesno", 
+    "id": "53443b13aeec6fbd0700000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Peptide aptamers of LIM-only protein 2 (Lmo2) were previously used to successfully treat Lmo2-induced tumours in a mouse model of leukaemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24188027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "Inhibition of mammalian cell proliferation by genetically selected peptide aptamers that functionally antagonize E2F activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10439043", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Accumulating work over the past decade has shown that peptide aptamer screening represents a valid strategy for inhibitor identification that can be applied to a variety of different targets. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22956136", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 169, 
+            "offsetInEndSection": 460, 
+            "text": ". The target of one inhibitor peptide, Pep80, identified in this screen was determined to be Snapin, a protein associated with the soluble N-ethyl maleimide sensitive factor adaptor protein receptor (SNARE) complex that is critical for calcium-dependent exocytosis during neurotransmission. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24130701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1020, 
+            "offsetInEndSection": 1174, 
+            "text": "Use of the genetically selected intracellular aptamer inhibitors allowed us to define unique mechanisms important to HIV-1 replication and T cell biology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24130701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1475, 
+            "offsetInEndSection": 1688, 
+            "text": "This review will describe pre-clinical and clinical data of four major classes of TGF-\u03b2 inhibitor, namely i) ligand traps, ii) antisense oligonucleotides, iii) receptor kinase inhibitors and iv) peptide aptamers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22811618", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 339, 
+            "offsetInEndSection": 471, 
+            "text": " A peptide aptamer (ID1/3-PA7) has been designed to prevent this interaction and thereby leading to the transcription of p16(INK4a).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22714536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 530, 
+            "text": "A peptide kinase inhibitor (IP(20)) was used as the aptameric peptide ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22533554", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Peptide aptamer mimicking RAD51-binding domain of BRCA2 inhibits DNA damage repair and survival in Trypanosoma brucei.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21296653", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 644, 
+            "text": " peptide aptamer, Id1/3-PA7, targeting Id1 and Id3,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20842131", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Targeting Id1 and Id3 by a specific peptide aptamer induces E-box promoter activity, cell cycle arrest, and apoptosis in breast cancer cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20191379", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Aptamer-derived peptides as potent inhibitors of the oncogenic RhoGEF Tgat.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19389625", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 826, 
+            "offsetInEndSection": 961, 
+            "text": "Our approach thus demonstrates that peptide aptamers are potent inhibitors that can be used to interfere with RhoGEF functions in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19389625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Development of systemic in vitro evolution and its application to generation of peptide-aptamer-based inhibitors of cathepsin E.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19150354", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 525, 
+            "offsetInEndSection": 674, 
+            "text": "he fusion peptide, TA aptamer, was observed within PC12 cytoplasm and maintained both Abeta-binding ability and antioxygenic property similar to TRX.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17917077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Stable expression of a novel fusion peptide of thioredoxin-1 and ABAD-inhibiting peptide protects PC12 cells from intracellular amyloid-beta.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17917077", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "In order to efficiently select aptamers that bind to and inhibit proteins,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16815302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Aptamer selection based on inhibitory activity using an evolution-mimicking algorithm.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16815302", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 640, 
+            "offsetInEndSection": 744, 
+            "text": "This demonstrates the utility of this strategy for screening aptamers based on their inhibitory actions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16815302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 305, 
+            "offsetInEndSection": 523, 
+            "text": "Intracellular expression of the DRD-binding peptide aptamer specifically suppressed receptor-mediated extrinsic apoptosis but not intrinsic pathway, which was recapitulated by the antisense oligonucleotides for FLASH. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16581027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Peptide aptamers are peptides constrained and presented by a scaffold protein that are used to study protein function in cells. They are able to disrupt protein-protein interactions ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16139842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 417, 
+            "offsetInEndSection": 676, 
+            "text": "Here we have used a genetic screen in yeast to select in vivo peptides coupled to thioredoxin, called aptamers, that could inhibit GEFD2 activity. One aptamer, TRIAPalpha (TRio Inhibitory APtamer), specifically blocks GEFD2-exchange activity on RhoA in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12123800", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1180, 
+            "offsetInEndSection": 1375, 
+            "text": "These results show that cell proliferation can be inhibited using genetically-selected synthetic peptides that specifically target protein-protein interaction motifs within cell cycle regulators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10439043", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1590, 
+            "offsetInEndSection": 1776, 
+            "text": "These data highlight the utility of peptide aptamers to identify novel binding interfaces and highlight a role for MAP1B in DAPK-1-dependent signaling in autophagy and membrane blebbing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18195017", 
+            "endSection": "abstract"
+        }
+    ]
+}

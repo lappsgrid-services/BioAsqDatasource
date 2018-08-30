@@ -1,0 +1,91 @@
+{
+    "body": "What is the role of LIMT lncRNA?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27123924"
+    ], 
+    "ideal_answer": [
+        "LINC01089 (LncRNA Inhibiting Metastasis; LIMT) is a highly conserved lncRNA, which is depleted in basal-like and in HER2-positive tumors, and the low expression of which predicts poor patient prognosis. Interestingly, EGF rapidly downregulates LIMT expression by enhancing histone deacetylation at the respective promoter. LIMT inhibits extracellular matrix invasion of mammary cells in vitro and tumor metastasis in vivo.", 
+        "LIMT is a novel metastasis inhibiting lncRNA suppressed by EGF and downregulated in aggressive breast cancer."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001943", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018567", 
+        "http://www.uniprot.org/uniprot/BCAS1_MOUSE", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000069584", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000072656", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058922", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D062085", 
+        "http://www.uniprot.org/uniprot/BRMS1_HUMAN", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064726", 
+        "http://www.uniprot.org/uniprot/BCAS1_HUMAN"
+    ], 
+    "type": "summary", 
+    "id": "5896381a78275d0c4a00000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "LIMT is a novel metastasis inhibiting lncRNA suppressed by EGF and downregulated in aggressive breast cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 602, 
+            "offsetInEndSection": 1301, 
+            "text": "This led to the identification of 11 prognostic lncRNAs. Functional analyses of this group uncovered LINC01089 (here renamed LncRNA Inhibiting Metastasis; LIMT), a highly conserved lncRNA, which is depleted in basal-like and in HER2-positive tumors, and the low expression of which predicts poor patient prognosis. Interestingly, EGF rapidly downregulates LIMT expression by enhancing histone deacetylation at the respective promoter. We also find that LIMT inhibits extracellular matrix invasion of mammary cells in\u00a0vitro and tumor metastasis in\u00a0vivo In conclusion, lncRNAs dynamically regulated by growth factors might act as novel drivers of cancer progression and serve as prognostic biomarkers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 912, 
+            "text": "Functional analyses of this group uncovered LINC01089 (here renamed LncRNA Inhibiting Metastasis; LIMT), a highly conserved lncRNA, which is depleted in basal-like and in HER2-positive tumors, and the low expression of which predicts poor patient prognosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 912, 
+            "offsetInEndSection": 1031, 
+            "text": "Interestingly, EGF rapidly downregulates LIMT expression by enhancing histone deacetylation at the respective promoter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1031, 
+            "offsetInEndSection": 1295, 
+            "text": "We also find that LIMT inhibits extracellular matrix invasion of mammary cells in\u00a0vitro and tumor metastasis in\u00a0vivo In conclusion, lncRNAs dynamically regulated by growth factors might act as novel drivers of cancer progression and serve as prognostic biomarkers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 916, 
+            "text": "Functional analyses of this group uncovered LINC01089 (here renamed LncRNA Inhibiting Metastasis; LIMT), a highly conserved lncRNA, which is depleted in basal-like and in HER2-positive tumors, and the low expression of which predicts poor patient prognosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "LIMT is a novel metastasis inhibiting lncRNA suppressed by EGF and downregulated in aggressive breast cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1037, 
+            "offsetInEndSection": 1301, 
+            "text": "We also find that LIMT inhibits extracellular matrix invasion of mammary cells in\u00a0vitro and tumor metastasis in\u00a0vivo In conclusion, lncRNAs dynamically regulated by growth factors might act as novel drivers of cancer progression and serve as prognostic biomarkers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27485121", 
+            "endSection": "abstract"
+        }
+    ]
+}

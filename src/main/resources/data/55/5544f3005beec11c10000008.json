@@ -1,0 +1,170 @@
+{
+    "body": "Is transcription-associated mutagenesis (TAM) related to gene expression levels?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23146897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21177427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21177431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23055242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10628973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23564176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15143174"
+    ], 
+    "ideal_answer": [
+        "Spontaneous point mutation rate in a gene increases with its transcription level, suggesting that movement of RNA polymerase through the target initiates a mutagenic process(es). This phenomenon is termed transcription-associated mutation (TAM). Transcription-associated mutagenesis is directly proportional to the level of gene expression."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010467", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006351"
+    ], 
+    "type": "yesno", 
+    "id": "5544f3005beec11c10000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 963, 
+            "offsetInEndSection": 1133, 
+            "text": "These mutations were frequent in plasmid-borne lacS expressed at a high level but not in single-copy lacS in the chromosome or at lower levels of expression in a plasmid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23564176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1454, 
+            "offsetInEndSection": 1683, 
+            "text": "The results suggest that important DNA repair or replication fidelity functions are impaired or overwhelmed in pJlacS, with results analogous to those of the \"transcription-associated mutagenesis\" seen in bacteria and eukaryotes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23564176", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 531, 
+            "text": "the rate of point mutation in a gene increases with the expression level of the gene. Transcription induces mutagenesis on both DNA strands, indicating simultaneous actions of several TAM mechanisms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23146897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "High-levels of transcription through a gene stimulate spontaneous mutation rate, a phenomenon termed transcription-associated mutation (TAM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23055242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 263, 
+            "text": "High levels of transcription in Saccharomyces cerevisiae are associated with increased genetic instability, which has been linked to DNA damage. Here, we describe a pGAL-CAN1 forward mutation assay for studying transcription-associated mutagenesis (TAM) in yeast.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21177427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 432, 
+            "offsetInEndSection": 514, 
+            "text": "The acquisition of mutations was directly correlated to the level of transcription", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 830, 
+            "offsetInEndSection": 976, 
+            "text": "Our results demonstrate that the level of Leu(+) reversions increased significantly in parallel with the induced increase in transcription levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20435731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Transcription-associated mutagenesis in yeast is directly proportional to the level of gene expression", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 403, 
+            "offsetInEndSection": 577, 
+            "text": "spontaneous mutation rate is directly proportional to the transcription level, suggesting that movement of RNA polymerase through the target initiates a mutagenic process(es)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "High transcription is associated with genetic instability, notably increased spontaneous mutation rates, which is a phenomenon termed Transcription-Associated-Mutagenesis (TAM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21177431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 856, 
+            "text": "Using this system, we also investigated two hypotheses that have been proposed to explain transcription-associated mutagenesis (TAM): (1) transcription impairs replication fork progression in a directional manner and (2) DNA lesions accumulate under high-transcription conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Transcription-associated mutagenesis in yeast is directly proportional to the level of gene expression and influenced by the direction of DNA replication.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "High levels of transcription in Saccharomyces cerevisiae are associated with increased genetic instability, which has been linked to DNA damage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21177427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 859, 
+            "text": "Using this system, we also investigated two hypotheses that have been proposed to explain transcription-associated mutagenesis (TAM): (1) transcription impairs replication fork progression in a directional manner and (2) DNA lesions accumulate under high-transcription conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 416, 
+            "text": "Using comparative genomics of related species as well as mutation accumulation lines, we show in yeast that the rate of point mutation in a gene increases with the expression level of the gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23146897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "High transcription is associated with genetic instability, notably increased spontaneous mutation rates, which is a phenomenon termed Transcription-Associated-Mutagenesis (TAM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21177431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 858, 
+            "text": "Using this system, we also investigated two hypotheses that have been proposed to explain transcription-associated mutagenesis (TAM): (1) transcription impairs replication fork progression in a directional manner and (2) DNA lesions accumulate under high-transcription conditions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17398168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "High-levels of transcription through a gene stimulate spontaneous mutation rate, a phenomenon termed transcription-associated mutation (TAM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23055242", 
+            "endSection": "abstract"
+        }
+    ]
+}

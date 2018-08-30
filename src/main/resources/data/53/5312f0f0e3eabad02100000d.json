@@ -1,0 +1,73 @@
+{
+    "body": "What is the mechanism of action of DNA topoisomerase II inhibitors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23715267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8824770"
+    ], 
+    "ideal_answer": [
+        "DNA topoisomerase II inhibitors eliminate cancer cells by causing DNA double-strand breaks, finally leading to apoptotic cell death. Moreover, drug-induced histone eviction was also shown to be associated with attenuated DNA repair, epigenetic changes and transcpription deregulation."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008657", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059003", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003918", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059005", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003916", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008156", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:2000371", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004250", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D026942"
+    ], 
+    "type": "summary", 
+    "id": "5312f0f0e3eabad02100000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "DNA topoisomerase II inhibitors are a major class of cancer chemotherapeutics, which are thought to eliminate cancer cells by inducing DNA double-strand breaks.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23715267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 305, 
+            "offsetInEndSection": 597, 
+            "text": "We show that anthracyclines promote histone eviction irrespective of their ability to induce DNA double-strand breaks. The histone variant H2AX, which is a key component of the DNA damage response, is also evicted by anthracyclines, and H2AX eviction is associated with attenuated DNA repair.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23715267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "Induction of apoptotic cell death by DNA topoisomerase II inhibitors", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8824770", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 766, 
+            "text": "The results we have obtained clearly indicate that topoisomerase II poisons induce cell death by apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8824770", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 598, 
+            "offsetInEndSection": 660, 
+            "text": "Histone eviction deregulates the transcriptome in cancer cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23715267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 785, 
+            "offsetInEndSection": 988, 
+            "text": "We define a novel mechanism of action of anthracycline anticancer drugs doxorubicin and daunorubicin on chromatin biology, with important consequences for DNA damage responses, epigenetics, transcription", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23715267", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "body": "What is the role of RhoA in bladder cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19896475", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21054792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18190825", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22006759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12855641"
+    ], 
+    "ideal_answer": [
+        "In urinary bladder cancer, RhoA was more commonly found to be activated in the later stages of the disease. This activation was related to poor tumor differentiation, muscle invasion, lymph node metastasis, and shortened disease-free and overall survival."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/RHOA_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001749", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4007", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11054", 
+        "http://www.disease-ontology.org/api/metadata/DOID:7371"
+    ], 
+    "type": "summary", 
+    "id": "53188c12b166e2b80600001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1238, 
+            "offsetInEndSection": 1382, 
+            "text": "Alterations in RhoA, RhoB, RhoC, Rac1 and Cdc42 expression play a significant role in the genesis and progression of UCC of the urinary bladder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22006759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 695, 
+            "offsetInEndSection": 951, 
+            "text": "Published reports suggest that elevated RhoA/Rho-kinase signaling plays a role in the development of benign prostatic hyperplasia, erectile dysfunction, kidney failure, ejaculation disorders, prostate and bladder cancer initiation, and eventual metastasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21054792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "The suppressive effect of Rho kinase inhibitor, Y-27632, on oncogenic Ras/RhoA induced invasion/migration of human bladder cancer TSGH cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19896475", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1277, 
+            "offsetInEndSection": 1410, 
+            "text": "Our results provide evidence that Ras-induced RhoA and NF-kappaB activation was involved in the invasion/migration of bladder cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19896475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 987, 
+            "offsetInEndSection": 1075, 
+            "text": "Increased RHOA expression was more common in grade 3 than in grade 2 tumors (P = 0.016).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18190825", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 674, 
+            "text": "RhoA, RhoC, and ROCK were more abundant in tumors and metastatic lymph nodes than in nontumor bladder and uninvolved lymph nodes (P < 0.0001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12855641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 790, 
+            "offsetInEndSection": 986, 
+            "text": "High RhoA, RhoC, and ROCK expression were related to poor tumor differentiation (P < 0.05, P < 0.01, and P < 0.01, respectively), muscle invasion (P < 0.001), and lymph node metastasis (P < 0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12855641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 987, 
+            "offsetInEndSection": 1118, 
+            "text": "Kaplan-Meier plots linked high RhoA, RhoC, and ROCK protein expression to shortened disease-free and overall survival (P < 0.0001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12855641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1119, 
+            "offsetInEndSection": 1255, 
+            "text": "By univariate analysis, high RhoA, RhoC, and ROCK protein expression predicted shortened disease-free and overall survival (P < 0.0001).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12855641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1690, 
+            "offsetInEndSection": 1890, 
+            "text": "Overall survival in tumors invading muscle (T2 to T4; 44 patients) was significantly influenced by RhoA, RhoC, and ROCK in a Kaplan-Meier analysis (P < 0.0001, P < 0.0001, and P < 0.01, respectively).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12855641", 
+            "endSection": "abstract"
+        }
+    ]
+}

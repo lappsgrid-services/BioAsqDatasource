@@ -1,0 +1,39 @@
+{
+    "body": "Where does TDP43 localize in ALS neurons?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19251627", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17481916"
+    ], 
+    "ideal_answer": [
+        "In control motor neurons, TDP43 was almost exclusively nuclear, whereas in ALS spinal motor neurons, TDP43 was predominantly localized to the cytosol and not the nucleus.  ", 
+        "In control motor neurons, TDP43 was almost exclusively nuclear, whereas in ALS spinal motor neurons, TDP43 was predominantly localized to the cytosol and not the nucleus."
+    ], 
+    "type": "summary", 
+    "id": "56cad5df5795f9a73e000020", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 512, 
+            "text": "In control motor neurons, TDP43 was almost exclusively nuclear, whereas in ALS spinal motor neurons, TDP43 was predominantly localized to the cytosol and not the nucleus. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17481916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 800, 
+            "text": "The FUS/TLS protein binds to RNA, functions in diverse processes, and is normally located predominantly in the nucleus. In contrast, the mutant forms of FUS/TLS accumulated in the cytoplasm of neurons, a pathology that is similar to that of the gene TAR DNA-binding protein 43 (TDP43), whose mutations also cause ALS. Neuronal cytoplasmic protein aggregation and defective RNA metabolism thus appear to be common pathogenic mechanisms involved in ALS and possibly in other neurodegenerative disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19251627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 617, 
+            "text": "In control motor neurons, TDP43 was almost exclusively nuclear, whereas in ALS spinal motor neurons, TDP43 was predominantly localized to the cytosol and not the nucleus. TDP43 was observed as punctuate immunoreactivity and as dense skeins, with and without ubiquitinization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17481916", 
+            "endSection": "abstract"
+        }
+    ]
+}

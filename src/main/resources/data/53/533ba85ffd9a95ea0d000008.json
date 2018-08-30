@@ -1,0 +1,86 @@
+{
+    "body": "What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18504270", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12410959", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15450411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/509687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10700191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3863118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10886029"
+    ], 
+    "ideal_answer": [
+        "Theoretical considerations and empirical analysis suggest that the per-base mutation frequency for a fractionated-dose treatment protocol is on the order of 1 sequence change per 10(5) bp."
+    ], 
+    "exact_answer": [
+        "1/100000"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4249285", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017354", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016296", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059645", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005038", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154"
+    ], 
+    "type": "factoid", 
+    "id": "533ba85ffd9a95ea0d000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 991, 
+            "text": "The mutation frequency increased linearly with MNU or ENU concentration (0.01--2.0 mM); mean values were 2800 and 840 mutants per 10(6) clonable cells per mM, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/509687", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 609, 
+            "offsetInEndSection": 900, 
+            "text": "The mutation frequency induced by a 400 mg/kg dosage of ethylnitrosourea is 12 times the maximal mutation frequency achievable with a single exposure to x-rays and 36 times that reported for procarbazine, the most effective chemical mutagen previously known for mouse stem-cell spermatogonia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3863118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 694, 
+            "text": "Specific locus tests designed to detect recessive mutations showed that ENU is the most efficient mutagen in mouse with an approximate mutation rate of 1 in 1,000 gametes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10700191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 966, 
+            "offsetInEndSection": 1153, 
+            "text": "Theoretical considerations and empirical analysis suggest that the per-base mutation frequency for a fractionated-dose treatment protocol is on the order of 1 sequence change per 10(5) bp", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10886029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1285, 
+            "offsetInEndSection": 1504, 
+            "text": "Unlike spontaneous chromosome damage, spontaneous mutant frequencies did not differ significantly among homozygous, heterozygous, and wild-type mice (3.2 x 10(-5), 3.1 x 10(-5), and 3.1 x 10(-5), respectively; P > 0.05)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15450411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1667, 
+            "offsetInEndSection": 1831, 
+            "text": "The ENU-induced mutation frequency in Blmtm3Brd homozygous, heterozygous, and wild mice were 54 x 10(-5), 35 x 10(-5), and 25 x 10(-5) mutants/plaques, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15450411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 888, 
+            "offsetInEndSection": 1130, 
+            "text": "mutation frequencies per nucleotide based on mutant spectra from this study and published literature. We found this frequency in control spleen to be similar for lacI (3.8 +/- 0.7 x 10(-8)) and PhiX174 (3.1 +/- 1.2 x 10(-8)) at 6 weeks of age", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18504270", 
+            "endSection": "abstract"
+        }
+    ]
+}

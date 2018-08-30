@@ -1,0 +1,73 @@
+{
+    "body": "What are prions?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26297259", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27833227", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22363733", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25645281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27293325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24390581"
+    ], 
+    "ideal_answer": [
+        "Prion diseases are protein conformation disorders and neither caused by viroid or virus but is a transmissible particle labeled a prion by Pruisner. Normal prion protein becomes infectious by a different folding, but the triggers are not known. ", 
+        "A prion is an infectious agent composed entirely of protein and is responsible for a number of neurodegenerative diseases. Prions are self-propagating infectious protein isoforms. "
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011328", 
+        "http://www.disease-ontology.org/api/metadata/DOID:649", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017096", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000072002"
+    ], 
+    "type": "summary", 
+    "id": "58a0f95c78275d0c4a000055", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 259, 
+            "text": "Prion diseases are protein conformation disorders and neither caused by viroid or virus but is a transmissible particle labeled a prion by Pruisner. Normal prion protein becomes infectious by a different folding, but the triggers are not known. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27833227", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 485, 
+            "text": "Prions are proteins most commonly associated with fatal neurodegenerative diseases in mammals but are also responsible for a number of harmless heritable phenotypes in yeast. These states arise when a misfolded form of a protein appears and, rather than be removed by cellular quality control mechanisms, persists. The misfolded prion protein forms aggregates and is capable of converting normally folded protein to the misfolded state through direct interaction between the two forms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26297259", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Prion diseases or transmissible spongiform encephalopathies are fatal neurodegenerative diseases characterized by the aggregation and deposition of the misfolded prion protein in the brain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27293325", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "Several neurodegenerative diseases such as transmissible spongiform encephalopathies, Alzheimer's and Parkinson's diseases are caused by the conversion of cellular proteins to a pathogenic conformer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25645281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "Prions are self-propagating infectious protein isoforms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24390581", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Prions are units of propagation of an altered state of a protein or proteins; prions can propagate from organism to organism, through cooption of other protein copies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22363733", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "body": "Is NADPH oxidase 5 expressed in rodents?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22511941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17612411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24262797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17400358", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25415612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24688893"
+    ], 
+    "ideal_answer": [
+        "No, NADPH oxidase 5 is not expressed in rodents, because the gene is absent."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4270191", 
+        "http://www.uniprot.org/uniprot/NOX5_HUMAN", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019255"
+    ], 
+    "type": "yesno", 
+    "id": "58a5b01760087bc10a000023", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 865, 
+            "offsetInEndSection": 1004, 
+            "text": "Because the Nox5 gene is absent in rodents, we generated transgenic mice expressing human Nox5 in a podocyte-specific manner (Nox5(pod+)). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24262797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 179, 
+            "text": "The NADPH oxidase 5 (NOX5) gene is present in humans but not rodents. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24688893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1490, 
+            "offsetInEndSection": 1643, 
+            "text": "The data document that the NOX5 gene was expressed in cells of lagomorphs unlike rodents, making the rabbit an interesting model to study NOX5 functions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22511941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1124, 
+            "offsetInEndSection": 1305, 
+            "text": "Nox5 was lost in rodents, and Nox3, which functions in the inner ear in gravity perception, emerged the most recently, corresponding to full-time adaptation of vertebrates to land. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17612411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1137, 
+            "offsetInEndSection": 1361, 
+            "text": "NOX expression patterns in animals are complex and ancestral NOXes, NOX5-like isoforms and DUOXes are generally found. But there are exceptions; for example rodents lack NOX5 and Caenorhabditis elegans expresses only DUOXes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17400358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 178, 
+            "text": "The NADPH oxidase 5 (NOX5) gene is present in humans but not rodents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24688893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 177, 
+            "text": "The NADPH oxidase 5 (NOX5) gene is present in humans but not rodents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24688893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "NADPH oxidases are the major sources of reactive oxygen species in cardiovascular, neural, and kidney cells. The NADPH oxidase 5 (NOX5) gene is present in humans but not rodents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24688893", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1256, 
+            "offsetInEndSection": 1361, 
+            "text": "But there are exceptions; for example rodents lack NOX5 and Caenorhabditis elegans expresses only DUOXes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17400358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 865, 
+            "offsetInEndSection": 1003, 
+            "text": "Because the Nox5 gene is absent in rodents, we generated transgenic mice expressing human Nox5 in a podocyte-specific manner (Nox5(pod+)).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24262797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1453, 
+            "offsetInEndSection": 1606, 
+            "text": "The data document that the NOX5 gene was expressed in cells of lagomorphs unlike rodents, making the rabbit an interesting model to study NOX5 functions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22511941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 689, 
+            "offsetInEndSection": 857, 
+            "text": "The most recently identified member of the Nox family, Nox5, has for the most part been overlooked in renal disease, partly owing to its absence from the rodent genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25415612", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "body": "Is stop codon bypass possible?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17961216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2010914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21969101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18809619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23083810", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17187982", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2207158", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17881586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11492998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7479046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23649834", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9223347", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9537381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22718819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2103444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10102819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17158156", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12711673", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2691247"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q05611", 
+            "o": "http://linkedlifedata.com/resource/#_51303536313100D"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51303536313100D", 
+            "o": "BSC2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q05611", 
+            "o": "http://linkedlifedata.com/resource/#_51303536313100C"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-37177", 
+            "o": "BSC2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51303536313100C", 
+            "o": "Bypass of stop codon protein 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-37177", 
+            "o": "http://purl.uniprot.org/uniprot/Q05611"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q08280", 
+            "o": "http://linkedlifedata.com/resource/#_5130383238300018"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-35858", 
+            "o": "http://purl.uniprot.org/uniprot/Q08280"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-35858", 
+            "o": "BSC6"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5130383238300017", 
+            "o": "Bypass of stop codon protein 6"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5130383238300018", 
+            "o": "BSC6"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q08280", 
+            "o": "http://linkedlifedata.com/resource/#_5130383238300017"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/P53841", 
+            "o": "http://purl.uniprot.org/citations/9169873"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9169873", 
+            "o": "http://purl.uniprot.org/medline/97313269"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/9169873", 
+            "o": "Nature"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-2047140", 
+            "o": "BSC4"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9169873", 
+            "o": "http://purl.uniprot.org/pubmed/9169873"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5035333834310018", 
+            "o": "Bypass of stop codon protein 4"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P53841", 
+            "o": "http://linkedlifedata.com/resource/#_5035333834310018"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-2047140", 
+            "o": "http://purl.uniprot.org/uniprot/P53841"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/binding", 
+            "s": "http://purl.uniprot.org/uniprot/Q12140", 
+            "o": "http://purl.uniprot.org/uniprot/P34761"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q12140", 
+            "o": "http://linkedlifedata.com/resource/#_51313231343000A"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51313231343000A", 
+            "o": "Bypass of stop codon protein 1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-36401", 
+            "o": "http://purl.uniprot.org/uniprot/Q12140"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5033343736310010", 
+            "o": "Protein WHI3"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-36401", 
+            "o": "BSC1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/Q12140", 
+            "o": "http://purl.uniprot.org/citations/9046088"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9046088", 
+            "o": "http://purl.uniprot.org/pubmed/9046088"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9046088", 
+            "o": "http://purl.uniprot.org/medline/97197972"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/9046088", 
+            "o": "Yeast"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q05611", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/P53755", 
+            "o": "http://purl.uniprot.org/citations/9169873"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_50353337353500C", 
+            "o": "Bypass of stop codon protein 5"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-28577", 
+            "o": "BSC5"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P53755", 
+            "o": "http://linkedlifedata.com/resource/#_50353337353500C"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-28577", 
+            "o": "http://purl.uniprot.org/uniprot/P53755"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/Q08280", 
+            "o": "http://purl.uniprot.org/citations/14562095"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/14562095", 
+            "o": "http://purl.uniprot.org/medline/22923954"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/14562095", 
+            "o": "Nature"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/14562095", 
+            "o": "http://purl.uniprot.org/pubmed/14562095"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/Q08280", 
+            "o": "http://purl.uniprot.org/citations/14562106"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/14562106", 
+            "o": "http://purl.uniprot.org/pubmed/14562106"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/14562106", 
+            "o": "Nature"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/14562106", 
+            "o": "http://purl.uniprot.org/medline/22923965"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/Q08280", 
+            "o": "http://purl.uniprot.org/citations/9169874"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/9169874", 
+            "o": "Nature"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9169874", 
+            "o": "http://purl.uniprot.org/pubmed/9169874"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/9169874", 
+            "o": "http://purl.uniprot.org/medline/97313270"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/uniprot/Q12140", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/binding", 
+            "s": "http://purl.uniprot.org/uniprot/Q12140", 
+            "o": "http://purl.uniprot.org/uniprot/P38822"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5033383832320012", 
+            "o": "Protein BZZ1"
+        }
+    ], 
+    "ideal_answer": [
+        "In 1999, proof-of-concept for treating these disorders was obtained in a mouse model of muscular dystrophy, when administration of aminoglycosides restored protein translation by inducing the ribosome to bypass a PTC.\nAminoglycosides can bypass nonsense mutations and are the prototypic agents for translational bypass therapy (TBT).\nExpression of retroviral replication enzymes (Pol) requires a controlled translational recoding event to bypass the stop codon at the end of gag. This recoding event occurs either by direct suppression of termination via the insertion of an amino acid at the stop codon (readthrough) or by alteration of the mRNA reading frame (frameshift).", 
+        "Yes it is. The UGA stop codon was found to code for seleno-cysteine in a number of Saccharomyces cerevisiae genes, whereas the UAG stop codon was shown to code for pyrro-lysine in some archaean species. Moreover, in experimental and therapeutic settings, aminoglycoside-induced stop codon bypass has been used to restore protein translation by promoting readthrough of stop codons, generated by mutations causing premature termination of protein synthesis. Additionally, cytosine deamination to uracil in stop codons may result in stop codon bypass, whereas in a number of polycistronic genes or sequential ORFs, there is evidence for stop codon bypass, although their induction mechanisms are still unclear. Additional hypotheses for stop codon bypass involve the 3' context of the translated transcript, non-conventional anticodon-codon interactions or translational frameshifts."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/BSC1_YEAST", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018387", 
+        "http://www.uniprot.org/uniprot/BSC2_YEAST", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018388", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018389", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003062", 
+        "http://www.uniprot.org/uniprot/BSC5_YEAST", 
+        "http://www.uniprot.org/uniprot/BSC4_YEAST", 
+        "http://www.uniprot.org/uniprot/BSC6_YEAST"
+    ], 
+    "type": "yesno", 
+    "id": "52f77f892059c6d71c00002c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 492, 
+            "text": "In 1999, proof-of-concept for treating these disorders was obtained in a mouse model of muscular dystrophy, when administration of aminoglycosides restored protein translation by inducing the ribosome to bypass a PTC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23083810", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Aminoglycosides can bypass nonsense mutations and are the prototypic agents for translational bypass therapy (TBT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17881586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 340, 
+            "text": "Expression of retroviral replication enzymes (Pol) requires a controlled translational recoding event to bypass the stop codon at the end of gag. This recoding event occurs either by direct suppression of termination via the insertion of an amino acid at the stop codon (readthrough) or by alteration of the mRNA reading frame (frameshift).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22718819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 426, 
+            "text": "Recent studies on translation termination in the yeast Saccharomyces cerevisiae have not only enabled the identification of the key components of the termination machinery, but have also revealed several regulatory mechanisms that might enable the controlled synthesis of C-terminally extended polypeptides via stop-codon readthrough. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17187982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 891, 
+            "offsetInEndSection": 1124, 
+            "text": "The effects of all possible single-base mutations in the codons flanking the stop indicated that 3' contexts of the form CAR-YYA confer leakiness and that the 3' context permits read through of UAA and UGA stop codons as well as UAG.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2010914", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 362, 
+            "text": "As a first step to elucidate the mechanism(s) by which ribosomes bypass leaky stop codons in vivo, we have devised a system in which readthrough is coupled to the transient expression of beta-glucuronidase (GUS) in tobacco protoplasts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2103444", 
+            "endSection": "abstract"
+        }
+    ]
+}

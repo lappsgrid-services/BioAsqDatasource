@@ -1,0 +1,308 @@
+{
+    "body": "Can glyburide reduce cerebral edema?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24193798", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25422710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26463916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24552576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24671831", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17673715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26268138"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017628", 
+            "o": "glyburide"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017628", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10769058"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10769058", 
+            "o": "GLYBURIDE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/4815", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3163336"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3163336", 
+            "o": "GLYBURIDE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017628", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0064005"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0064005", 
+            "o": "Glyburide"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/4815", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/1842549"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/1842549", 
+            "o": "Glyburide"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Glyburide, a selective inhibitor of sulfonylurea receptor 1-transient receptor potential melastatin 4, is effective in preventing and attenuating cerebral edema."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001929", 
+        "http://www.biosemantics.org/jochem#4275786", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4275786", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4724", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005905"
+    ], 
+    "type": "yesno", 
+    "id": "588482f5e56acf517600000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 137, 
+            "offsetInEndSection": 411, 
+            "text": "Preclinical studies have shown that a continuous infusion of glyburide blocks edema formation and improves outcome. We hypothesize that treatment with RP-1127 (Glyburide for Injection) reduces formation of brain edema in patients after large anterior circulation infarction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26268138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1298, 
+            "offsetInEndSection": 1486, 
+            "text": "CONCLUSIONS: GAMES-RP was designed to provide critical information regarding glyburide for injection in patients with large hemispheric stroke and will inform the design of future studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26268138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Glyburide is associated with attenuated vasogenic edema in stroke patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 134, 
+            "offsetInEndSection": 382, 
+            "text": "Glyburide is reported to prevent brain swelling in preclinical rodent models of ischemic stroke through inhibition of a non-selective channel composed of sulfonylurea receptor 1 and transient receptor potential cation channel subfamily M member 4. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 936, 
+            "offsetInEndSection": 1323, 
+            "text": "RESULTS: We report that IV glyburide was associated with T2 fluid-attenuated inversion recovery signal intensity ratio on brain MRI, diminished the lesional water diffusivity between days 1 and 2 (pseudo-normalization), and reduced blood MMP-9 level.CONCLUSIONS: Several surrogate markers of vasogenic edema appear to be reduced in the setting of IV glyburide treatment in human stroke. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "Pilot study of intravenous glyburide in patients with a large ischemic stroke.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24193798", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "BACKGROUND AND PURPOSE: Preclinical and retrospective clinical data indicate that glyburide, a selective inhibitor of sulfonylurea receptor 1-transient receptor potential melastatin 4, is effective in preventing edema and improving outcome after focal ischemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24193798", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 222, 
+            "text": "Preclinical data suggest that glyburide, an inhibitor of SUR1-TRPM4, is effective in preventing edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24671831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 48, 
+            "text": "Glyburide in Treating Malignant Cerebral Edema. ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25422710", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Glyburide in Treating Malignant Cerebral Edema. Blocking Sulfonyl Urea One (SUR1) Receptors.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25422710", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "The sulfonylurea receptor 1-regulated NC(Ca-ATP) channel is upregulated in rodent models of stroke with block of the channel by the sulfonylurea, glibenclamide (glyburide), significantly reducing mortality, cerebral edema, and infarct volume.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17673715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1534, 
+            "offsetInEndSection": 1678, 
+            "text": "Glyburide is a safe, inexpensive, and efficacious alternative to dexamethasone for the treatment of cerebral metastasis-related vasogenic edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 901, 
+            "text": "In this focused review, we explore preclinical data linking Sur1 channel formation to development of edema and reference evidence suggesting that the antidiabetic sulfonylurea drug glyburide (a Sur1 inhibitor) is an inexpensive and well-tolerated agent that can be clinically tested to reduce or prevent malignancy and/or treatment-associated edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24552576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Potential of glyburide to reduce intracerebral edema in brain metastases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24552576", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Glyburide Advantage in Malignant Edema and Stroke (GAMES-RP) Trial: Rationale and Design.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26268138", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 107, 
+            "offsetInEndSection": 209, 
+            "text": "Preclinical data suggest that glyburide, an inhibitor of SUR1-TRPM4, is effective in preventing edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24671831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Inhibition of sulfonylurea receptor 1 (SUR1) by glyburide has been shown to decrease edema after subarachnoid hemorrhage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1563, 
+            "offsetInEndSection": 1706, 
+            "text": "Glyburide is a safe, inexpensive, and efficacious alternative to dexamethasone for the treatment of cerebral metastasis-related vasogenic edema", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 938, 
+            "offsetInEndSection": 1189, 
+            "text": "RESULTS: We report that IV glyburide was associated with T2 fluid-attenuated inversion recovery signal intensity ratio on brain MRI, diminished the lesional water diffusivity between days 1 and 2 (pseudo-normalization), and reduced blood MMP-9 level. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 120, 
+            "offsetInEndSection": 223, 
+            "text": "Preclinical data suggest that glyburide, an inhibitor of SUR1-TRPM4, is effective in preventing edema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24671831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Exploratory analysis of glyburide as a novel therapy for preventing brain swelling.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24671831", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Inhibition of sulfonylurea receptor 1 (SUR1) by glyburide has been shown to decrease edema after subarachnoid hemorrhage. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 555, 
+            "offsetInEndSection": 904, 
+            "text": "In this focused review, we explore preclinical data linking Sur1 channel formation to development of edema and reference evidence suggesting that the antidiabetic sulfonylurea drug glyburide (a Sur1 inhibitor) is an inexpensive and well-tolerated agent that can be clinically tested to reduce or prevent malignancy and/or treatment-associated edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24552576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1531, 
+            "offsetInEndSection": 1675, 
+            "text": "Glyburide is a safe, inexpensive, and efficacious alternative to dexamethasone for the treatment of cerebral metastasis-related vasogenic edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 134, 
+            "offsetInEndSection": 381, 
+            "text": "Glyburide is reported to prevent brain swelling in preclinical rodent models of ischemic stroke through inhibition of a non-selective channel composed of sulfonylurea receptor 1 and transient receptor potential cation channel subfamily M member 4.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1159, 
+            "offsetInEndSection": 1282, 
+            "text": "Several surrogate markers of vasogenic edema appear to be reduced in the setting of IV glyburide treatment in human stroke.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 399, 
+            "text": "We hypothesize that treatment with RP-1127 (Glyburide for Injection) reduces formation of brain edema in patients after large anterior circulation infarction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26268138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1545, 
+            "offsetInEndSection": 1690, 
+            "text": "Glyburide is a safe, inexpensive, and efficacious alternative to dexamethasone for the treatment of cerebral metastasis-related vasogenic edema..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Glyburide is associated with attenuated vasogenic edema in stroke patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24072459", 
+            "endSection": "title"
+        }
+    ]
+}

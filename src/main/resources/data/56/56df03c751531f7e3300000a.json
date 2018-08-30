@@ -1,0 +1,144 @@
+{
+    "body": "Which properties of the mRNA does N6-methyladenosine (m6A) affect?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26121403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19180239", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25475057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3029112", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9409616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6592581", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6318439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22575960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25452335", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25569111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25430002", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24981863", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25412662"
+    ], 
+    "ideal_answer": [
+        "N(6)-methyladenosine (m6A) is the most abundant modified base in eukaryotic mRNA and has been linked to diverse effects on mRNA fate. m6A predominantly and directly reduces mRNA stability."
+    ], 
+    "exact_answer": [
+        "mRNA stability"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012333", 
+        "http://www.biosemantics.org/jochem#4252558"
+    ], 
+    "type": "factoid", 
+    "id": "56df03c751531f7e3300000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "N(6)-methyladenosine (m6A) is the most abundant modified base in eukaryotic mRNA and has been linked to diverse effects on mRNA fate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26121403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 601, 
+            "offsetInEndSection": 722, 
+            "text": "m(6)A predominantly and directly reduces mRNA stability, including that of key na\u00efve pluripotency-promoting transcripts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25569111", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 220, 
+            "text": "Recent discoveries of reversible N(6)-methyladenosine (m(6)A) methylation on messenger RNA (mRNA) and mapping of m(6)A methylomes in mammals and yeast have revealed potential regulatory functions of this RNA modification", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25430002", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 319, 
+            "offsetInEndSection": 764, 
+            "text": "Monitoring m6A levels upon WTAP depletion allowed the definition of accurate and near single-nucleotide resolution methylation maps and their classification into WTAP-dependent and -independent sites. WTAP-dependent sites are located at internal positions in transcripts, topologically static across a variety of systems we surveyed, and inversely correlated with mRNA stability, consistent with a role in establishing \"basal\" degradation rates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24981863", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Methylations of adenosine residues (m6A) in pre-mRNA are important for formation of late simian virus 40 mRNAs", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6318439", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1328, 
+            "offsetInEndSection": 1493, 
+            "text": "The data argues for a role of internal m6A moieties in modulating the processing-linked transport of mRNA from the nucleus to the cytoplasm of nontransformed cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6318439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "N6-Methyladenosine (m6A) residues, which are found internally in viral and cellular mRNA populations at the sequences Apm6ApC and Gpm6ApC, have been proposed to play a role in mRNA processing and transport.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6592581", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "The role of Fat Mass and Obesity-associated protein (FTO) and its substrate N6-methyladenosine (m6A) in mRNA processing and adipogenesis remains largely unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25412662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "N6-methyladenosine (m6A) is a common modification of mRNA with potential roles in fine-tuning the RNA life cycle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24981863", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 248, 
+            "text": "The results of that study and of experiments using inhibitors of methylation suggest that m6A might be involved in mRNA processing events. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3029112", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 300, 
+            "text": "Previous studies suggested that m6A affects the efficiency of mRNA processing or transport, although the mechanism by which this occurs is not known. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9409616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 300, 
+            "text": " The methylation of internal adenosine residues in eukaryotic mRNA, forming N6-methyladenosine (m6A), is catalyzed by a complex multicomponent enzyme. Previous studies suggested that m6A affects the efficiency of mRNA processing or transport, although the mechanism by which this occurs is not known.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9409616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 615, 
+            "text": "Previous studies suggested that m6A affects the efficiency of mRNA processing or transport, although the mechanism by which this occurs is not known. As a step toward better understanding the mechanism and function of this ubiquitous posttranscriptional modification, we have shown that HeLa mRNA (N6-adenosine)-methyltransferase requires at least two separate protein factors, MT-A and MT-B, and MT-A contains the AdoMet binding site on a 70-kDa subunit (MT-A70).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9409616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 300, 
+            "text": "The methylation of internal adenosine residues in eukaryotic mRNA, forming N6-methyladenosine (m6A), is catalyzed by a complex multicomponent enzyme. Previous studies suggested that m6A affects the efficiency of mRNA processing or transport, although the mechanism by which this occurs is not known.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9409616", 
+            "endSection": "abstract"
+        }
+    ]
+}

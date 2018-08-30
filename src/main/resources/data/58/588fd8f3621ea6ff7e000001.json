@@ -1,0 +1,35 @@
+{
+    "body": "Data from which major epigenome projects are contained in the DeepBlue epigenomic data server?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27084938"
+    ], 
+    "ideal_answer": [
+        "The DeepBlue Epigenomic Data Server contains data from four major epigenome projects, namely ENCODE, ROADMAP, BLUEPRINT and DEEP."
+    ], 
+    "exact_answer": [
+        [
+            "ENCODE"
+        ], 
+        [
+            "ROADMAP"
+        ], 
+        [
+            "BLUEPRINT"
+        ], 
+        [
+            "DEEP"
+        ]
+    ], 
+    "type": "list", 
+    "id": "588fd8f3621ea6ff7e000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 956, 
+            "text": "Here we present the DeepBlue Epigenomic Data Server, which streamlines epigenomic data analysis as well as software development. DeepBlue provides a comprehensive programmatic interface for finding, selecting, filtering, summarizing and downloading region sets. It contains data from four major epigenome projects, namely ENCODE, ROADMAP, BLUEPRINT and DEEP. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27084938", 
+            "endSection": "abstract"
+        }
+    ]
+}

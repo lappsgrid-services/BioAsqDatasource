@@ -1,0 +1,255 @@
+{
+    "body": "Is vemurafenib used for thyroid cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27460442", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27554612", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27754804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24987354", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23489023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26751190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27127178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26735176", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25467940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26284586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22649416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26176686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26636651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24262022", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27432558", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24756795"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1147220", 
+            "o": "VEMURAFENIB"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C3192263", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20020623"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20020623", 
+            "o": "VEMURAFENIB"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1147220", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/4224011"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/4224011", 
+            "o": "VEMURAFENIB"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/chembl/synonym/691867_Vemurafenib_USAN", 
+            "o": "Vemurafenib"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C3192263", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A19613644"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A19613644", 
+            "o": "Vemurafenib"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C3192263", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A19649207"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A19649207", 
+            "o": "Vemurafenib"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3963", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1781", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013964"
+    ], 
+    "type": "yesno", 
+    "id": "58848ea5e56acf517600000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Vemurafenib in patients with BRAF(V600E)-positive metastatic or unresectable papillary thyroid cancer refractory to radioactive iodine: a non-randomised, multicentre, open-label, phase 2 trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27460442", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 117, 
+            "offsetInEndSection": 314, 
+            "text": "Vemurafenib, an oncogenic BRAF kinase inhibitor approved for BRAF-positive melanoma, showed clinical benefit in three patients with BRAF(V600E)-positive papillary thyroid cancer in a phase 1 trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27460442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2338, 
+            "offsetInEndSection": 2559, 
+            "text": "INTERPRETATION: Vemurafenib showed antitumour activity in patients with progressive, BRAF(V600E)-positive papillary thyroid cancer refractory to radioactive iodine who had never been treated with a multikinase inhibitor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27460442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "CONTEXT: Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Efficacy and tolerability of vemurafenib in patients with BRAF(V600E) -positive papillary thyroid cancer: M.D. Anderson Cancer Center off label experience.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1685, 
+            "offsetInEndSection": 1840, 
+            "text": "CONCLUSIONS: Vemurafenib is a potentially effective and well-tolerated treatment strategy in patients with advanced PTC harboring the BRAF(V600E) mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 459, 
+            "text": "The US Food and Drug Administration-approved BRAF inhibitors, vemurafenib and dabrafenib, have demonstrated superior efficacy in patients with BRAF-mutant melanomas but have limited efficacy in BRAF-mutant colorectal cancer. Little is known at this time regarding BRAF inhibitors in thyroid cancer. Initial reports in patients with progressive, radioactive iodine-refractory BRAF-mutant papillary thyroid cancer suggest response rates of approximately 30-40%.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25467940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Use of vemurafenib in anaplastic thyroid carcinoma: a case report.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26176686", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1212, 
+            "offsetInEndSection": 1361, 
+            "text": "Finally, we found that propranolol can amplify the cytotoxicity of vemurafenib and sensitize thyroid cancer cells to cytotoxic effect of vemurafenib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27432558", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 399, 
+            "text": "CONTEXT: Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.OBJECTIVE: To determine the efficacy and safety of vemurafenib when used outside of a clinical trial.DESIGN: A retrospective review at MD Anderson Cancer Center.METHODS: The best responses were evaluated using RECIST v1.1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 361, 
+            "text": "Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.To determine the efficacy and safety of vemurafenib when used outside of a clinical trial.A retrospective review at MD Anderson Cancer Center.The best responses were evaluated using RECIST v1.1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 400, 
+            "text": "CONTEXT: Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.OBJECTIVE: To determine the efficacy and safety of vemurafenib when used outside of a clinical trial.DESIGN: A retrospective review at MD Anderson Cancer Center.METHODS: The best responses were evaluated using RECIST v1.1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1220, 
+            "offsetInEndSection": 1369, 
+            "text": "Finally, we found that propranolol can amplify the cytotoxicity of vemurafenib and sensitize thyroid cancer cells to cytotoxic effect of vemurafenib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27432558", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1237, 
+            "offsetInEndSection": 1415, 
+            "text": "Metformin or rapamycin adjuvant treatment may provide clinical benefits with minimal side effects to BRAFV600E-positive advanced thyroid cancer patients treated with vemurafenib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26284586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 362, 
+            "text": "Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.To determine the efficacy and safety of vemurafenib when used outside of a clinical trial.A retrospective review at MD Anderson Cancer Center.The best responses were evaluated using RECIST v1.1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25353071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1515, 
+            "offsetInEndSection": 1727, 
+            "text": "Our data demonstrate that vemurafenib induces ER stress response-mediated autophagy in thyroid cancer and autophagy inhibition may be a beneficial strategy to sensitize BRAF-mutant thyroid cancer to vemurafenib..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27754804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 729, 
+            "text": "Combination of vemurafenib and metformin decreased cell viability and increased apoptosis in both BCPAP papillary thyroid cancer cells and 8505c anaplastic thyroid cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26284586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Targeting autophagy sensitizes BRAF-mutant thyroid cancer to vemurafenib.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27754804", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "Propranolol sensitizes thyroid cancer cells to cytotoxic effect of vemurafenib.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27432558", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "mTOR inhibitors sensitize thyroid cancer cells to cytotoxic effect of vemurafenib.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26284586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1010, 
+            "offsetInEndSection": 1092, 
+            "text": "Vemurafenib induced a high level of autophagy in BRAF-mutant thyroid cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27754804", 
+            "endSection": "abstract"
+        }
+    ]
+}

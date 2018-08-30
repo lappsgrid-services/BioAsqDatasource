@@ -1,0 +1,200 @@
+{
+    "body": "For the constructions of which organs has 3D printing been tested?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22436025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19901446", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25197745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25387454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25641220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24288392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23822094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25839977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25093879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12740943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24805923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25281749", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23635097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24942232", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25492194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25159591", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23172542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2087655", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25866560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18154465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25691496"
+    ], 
+    "ideal_answer": [
+        "Nose, ear and meniscus prototypes/constructs have been produced with 3D (3-dimesional) printing."
+    ], 
+    "exact_answer": [
+        [
+            "nose"
+        ], 
+        [
+            "ear"
+        ], 
+        [
+            "meniscus"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D066330", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011327"
+    ], 
+    "type": "list", 
+    "id": "5713bf261174fb1755000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 245, 
+            "text": "To determine the potential of an integrated, image-based computer-aided design (CAD) and 3-dimensional (3D) printing approach to engineer scaffolds for head and neck cartilaginous reconstruction for auricular and nasal reconstruction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25281749", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 767, 
+            "offsetInEndSection": 867, 
+            "text": "Subcutaneous in vivo implantation of auricular and nasal scaffolds was performed in a porcine model.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25281749", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1027, 
+            "offsetInEndSection": 1616, 
+            "text": "Auricular and nasal constructs with several types of microporous architecture were rapidly manufactured with high fidelity to human patient anatomy. Subcutaneous in vivo implantation of auricular and nasal scaffolds resulted in an excellent appearance and complete soft tissue ingrowth. Histological analysis of in vitro scaffolds demonstrated native-appearing cartilaginous growth that respected the boundaries of the scaffold.CONCLUSION: Integrated, image-based CAD and 3D printing processes generated patient-specific nasal and auricular scaffolds that supported cartilage regeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25281749", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 827, 
+            "offsetInEndSection": 929, 
+            "text": "A prototype meniscus cartilage was prepared to illustrate the potential application in bioengineering.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25197745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 567, 
+            "offsetInEndSection": 1148, 
+            "text": "As a proof of concept, we generated a bionic ear via 3D printing of a cell-seeded hydrogel matrix in the anatomic geometry of a human ear, along with an intertwined conducting polymer consisting of infused silver nanoparticles. This allowed for in vitro culturing of cartilage tissue around an inductive coil antenna in the ear, which subsequently enables readout of inductively-coupled signals from cochlea-shaped electrodes. The printed ear exhibits enhanced auditory sensing for radio frequency reception, and complementary left and right ears can listen to stereo audio music. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23635097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1412, 
+            "offsetInEndSection": 1598, 
+            "text": "In this study, we describe the construction of a hybrid inkjet printing/electrospinning system that can be used to fabricate viable tissues for cartilage tissue engineering applications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23172542", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 561, 
+            "offsetInEndSection": 864, 
+            "text": "Before 3D Printing can be used routinely for the regeneration of complex tissues (e.g. bone, cartilage, muscles, vessels, nerves in the craniomaxillofacial complex), and complex organs with intricate 3D microarchitecture (e.g. liver, lymphoid organs), several technological limitations must be addressed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25866560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "3D Printing promises to produce complex biomedical devices according to computer design using patient-specific anatomical data", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25866560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "3D printing of HEK 293FT cell-laden hydrogel into macroporous constructs with high cell viability and normal biological functions.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25691496", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 47, 
+            "text": "3D-printing of lightweight cellular composites.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24942232", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 459, 
+            "text": "3D bioprinting is being applied to regenerative medicine to address the need for tissues and organs suitable for transplantation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25093879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 355, 
+            "text": "In this paper, we reported a novel study of 3D printing of cell lines derived from human embryonic kidney tissue into a macroporous tissue-like construct. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25691496", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 459, 
+            "offsetInEndSection": 731, 
+            "text": "Compared with non-biological printing, 3D bioprinting involves additional complexities, such as the choice of materials, cell types, growth and differentiation factors, and technical challenges related to the sensitivities of living cells and the construction of tissues. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25093879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 157, 
+            "offsetInEndSection": 509, 
+            "text": "Organ printing, which we define as computer-aided, jet-based 3D tissue-engineering of living human organs, offers a possible solution. Organ printing involves three sequential steps: pre-processing or development of \"blueprints\" for organs; processing or actual organ printing; and postprocessing or organ conditioning and accelerated organ maturation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12679063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 292, 
+            "offsetInEndSection": 509, 
+            "text": "Organ printing involves three sequential steps: pre-processing or development of \"blueprints\" for organs; processing or actual organ printing; and postprocessing or organ conditioning and accelerated organ maturation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12679063", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 406, 
+            "offsetInEndSection": 633, 
+            "text": "Bioprinting has no or little side effect to the printed mammalian cells and it can conveniently combine with gene transfection or drug delivery to the ejected living systems during the precise placement for tissue construction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436025", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 731, 
+            "text": "Compared with non-biological printing, 3D bioprinting involves additional complexities, such as the choice of materials, cell types, growth and differentiation factors, and technical challenges related to the sensitivities of living cells and the construction of tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25093879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Innovations in 3D printing: a 3D overview from optics to organs.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24288392", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Organ printing: computer-aided jet-based 3D tissue engineering.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12679063", 
+            "endSection": "title"
+        }
+    ]
+}

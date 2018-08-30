@@ -1,0 +1,99 @@
+{
+    "body": "Is the Dictyostelium discoideum proteome known?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16875414", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20013782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20422638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16957282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22120990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16957286", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18820470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9150929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11990506"
+    ], 
+    "ideal_answer": [
+        "Yes, The Dictyostelium discoideum genome has been sequenced, assembled and annotated to a high degree of reliability. The parts-list of proteins and RNA encoded by the six chromosomes can now be accessed and analyzed. Consequently, this genomic sequence information can now be exploited to realize D. discoideum proteomics projects."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020543", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004023"
+    ], 
+    "type": "yesno", 
+    "id": "56b39f148525abca1e000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 658, 
+            "offsetInEndSection": 1023, 
+            "text": "The Negative Proteome Database (NPD) is populated with pair-wise protein sequence comparisons between each of the following proteomes: Homo sapiens, Mus musculus, Drosophila melanogaster, Caenorhabditis elegans, Saccharomyces cerevisiae, Dictyostelium discoideum, Chlamydomonus reinhardti, Escherichia coli K12, Arabidopsis thaliana and Methanoscarcina acetivorans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18820470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "The Dictyostelium discoideum proteome--the SWISS-2DPAGE database of the multicellular aggregate (slug).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9150929", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 461, 
+            "text": "Consequently, this genomic sequence information can now be exploited to realize D. discoideum proteomics projects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16957286", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 213, 
+            "text": "The Dictyostelium discoideum genome has been sequenced, assembled and annotated to a high degree of reliability. The parts-list of proteins and RNA encoded by the six chromosomes can now be accessed and analyzed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16957282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 370, 
+            "text": "The 34 Mb genome of Dictyostelium discoideum is carried on 6 chromosomes and has been fully sequenced by an international consortium. The sequence was assembled on the classical and physical maps that had been built up over the years and refined by HAPPY mapping. Annotation of the sequence predicted about 12,000 genes for proteins of at least 50 amino acids in length.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16875414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 224, 
+            "text": "In this study, a quantitative comparative proteomics approach has been used to analyze the Dictyostelium discoideum mitochondrial proteome variations during vegetative growth, starvation and the early stages of development. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20013782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "The secreted proteome profile of developing Dictyostelium discoideum cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20422638", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 914, 
+            "text": "The present repertoire validates our purification method and paves the way for a future proteomics approach to study the dynamics of macropinocytosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22120990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "Proteomic analysis of a developmentally regulated secretory vesicle.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11990506", 
+            "endSection": "title"
+        }
+    ]
+}

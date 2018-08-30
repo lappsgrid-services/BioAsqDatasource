@@ -1,0 +1,78 @@
+{
+    "body": "What is the treatment of acute myocarditis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19214293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11477833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17574515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17622371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12055771", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20034334", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20207278"
+    ], 
+    "ideal_answer": [
+        "Treatment of acute myocarditis includes antiinflammatory drugs like ibuoprofen and steroids, inotropic agents and mechanical support (intra-aortic ballon pump). TandemHeart percutaneous ventricular assist device may be used in some, more compromised, patients for few days."
+    ], 
+    "exact_answer": [
+        [
+            "antiinflammatory steroid and non steroid drugs"
+        ], 
+        [
+            "inotropic agents"
+        ], 
+        [
+            "mechanical support"
+        ]
+    ], 
+    "type": "list", 
+    "id": "517a8cc68ed59a060a000044", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 2394, 
+            "offsetInEndSection": 2433, 
+            "text": "ibuprofen 400 mg twice a day as therapy", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20034334", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 259, 
+            "text": "Acute fulminant myocarditis commonly manifests itself as severe, rapidly progressive hemodynamic deterioration and circulatory collapse that may be resistant to high doses of inotropic agents and steroids and to mechanical support by intra-aortic balloon pump", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17622371", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 478, 
+            "offsetInEndSection": 579, 
+            "text": "the TandemHeart percutaneous ventricular assist device, can enable patients to recover in a few days.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17622371", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 642, 
+            "text": "he authors report a typical case of fulminating myocarditis with electromechanical dissociation, which recovered completely after a period of circulatory assistance.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12055771", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 161, 
+            "text": "To clarify the effects of Astragalus Membranaceus (AM) combined with taurine and/or coenzyme Q10(CoQ10) on coxsackievirus B3 (CVB3) murine myocarditis", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11477833", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 877, 
+            "offsetInEndSection": 1001, 
+            "text": "AM, taurine and CoQ10 have some curative effects on CVB3 murine myocarditis, AM combined with taurine and CoQ10 is the best.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11477833", 
+            "endSection": "sections.0"
+        }
+    ]
+}

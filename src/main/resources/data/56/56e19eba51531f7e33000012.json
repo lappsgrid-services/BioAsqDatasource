@@ -1,0 +1,176 @@
+{
+    "body": "Is the yeast \u039cac1 transcription factor induced upon copper deficiency?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9159110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9430656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10922376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18977757", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21489137"
+    ], 
+    "ideal_answer": [
+        "In Saccharomyces cerevisiae, transcriptional responses to copper deficiency are mediated by the copper-responsive transcription factor Mac1. Ace1 mediates copper-induced gene expression in cells exposed to stressful levels of copper salts, whereas Mac1 activates a subset of genes under copper-deficient conditions."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003300", 
+        "http://amigo.geneontology.org/amigo/term/GO:0046688"
+    ], 
+    "type": "yesno", 
+    "id": "56e19eba51531f7e33000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Low-affinity copper transporter CTR2 is regulated by copper-sensing transcription factor Mac1p in Saccharomyces cerevisiae.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 895, 
+            "text": "The copper-depletion induced CTR2 transcription can be abrogated by genetic deletion of copper-sensing transcription factor Mac1p", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1218, 
+            "offsetInEndSection": 1415, 
+            "text": "Taken together, our results suggest that Mac1p can activate the expression of vacuolar copper transporter Ctr2p in response to copper deficiency, resulting in yeast resistance to copper starvation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 568, 
+            "text": "The ablation of either MAC1 or AFT1 also abrogated CTR2 expression induced by copper depletion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 570, 
+            "offsetInEndSection": 765, 
+            "text": "Our further study revealed that exogenous Aft1p upregulates CTR2 transcription only in the presence of Mac1p, whereas exogenous Mac1p upregulates CTR2 transcription only in the presence of Aft1p.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 233, 
+            "text": "We previously reported that CTR2 can be upregulated by copper deficiency via copper-sensing transcription factor Mac1p.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 455, 
+            "text": "In Saccharomyces cerevisiae, transcriptional responses to copper deficiency are mediated by the copper-responsive transcription factor Mac1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18977757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 680, 
+            "text": "Although Mac1 activates the transcription of genes involved in high affinity copper uptake during periods of deficiency, little is known about the mechanisms by which Mac1 senses or responds to reduced copper availability. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18977757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1034, 
+            "offsetInEndSection": 1232, 
+            "text": "The catalytic activity of Sod1 is essential for Mac1 activation and promotes a regulated increase in binding of Mac1 to copper response elements in the promoter regions of genomic Mac1 target genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18977757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "In Saccharomyces cerevisiae, copper ions regulate gene expression through the two transcriptional activators, Ace1 and Mac1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10922376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 299, 
+            "text": "Ace1 mediates copper-induced gene expression in cells exposed to stressful levels of copper salts, whereas Mac1 activates a subset of genes under copper-deficient conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10922376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1407, 
+            "offsetInEndSection": 1604, 
+            "text": "Taken together, our results suggest that Mac1p can activate the expression of vacuolar copper transporter Ctr2p in response to copper deficiency, resulting in yeast resistance to copper starvation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 454, 
+            "offsetInEndSection": 594, 
+            "text": "In Saccharomyces cerevisiae, transcriptional responses to copper deficiency are mediated by the copper-responsive transcription factor Mac1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18977757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 351, 
+            "text": "We previously reported that CTR2 can be upregulated by copper deficiency via copper-sensing transcription factor Mac1p.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 281, 
+            "offsetInEndSection": 461, 
+            "text": "The yeast Mac1 protein is a copper-sensing transcription factor that is essential for both the activation and inactivation of genes required for high affinity copper ion transport.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9430656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 897, 
+            "text": "The copper-depletion induced CTR2 transcription can be abrogated by genetic deletion of copper-sensing transcription factor Mac1p. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Copper-mediated repression of the activation domain in the yeast Mac1p transcription factor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9159110", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 114, 
+            "offsetInEndSection": 234, 
+            "text": "We previously reported that CTR2 can be upregulated by copper deficiency via copper-sensing transcription factor Mac1p. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22683637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 897, 
+            "text": "In this study, we found that copper depletion can upregulate yeast CTR2 gene transcription while copper overload downregulate it. The copper-depletion induced CTR2 transcription can be abrogated by genetic deletion of copper-sensing transcription factor Mac1p.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445756", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "body": "What are the side effects of Nalmefene?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16379031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3826875", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3680580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3943269", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2315439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16449486"
+    ], 
+    "triples": [
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "43798"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "Intervention #43798 (Drug:nalmefene)"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "http://dbpedia.org/resource/Nalmefene"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "nalmefene"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "http://yago.org/resource/Nalmefene"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/43798", 
+            "o": "Drug"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10337561", 
+            "o": "RXNORM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0209590"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17953450", 
+            "o": "6-desoxy-6-methylenenaltrexone"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12803415"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12816017", 
+            "o": "Nalmefene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17881235", 
+            "o": "NALMEFENE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17881235"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10337561"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18049402", 
+            "o": "nalmefene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12816017"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8482558"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0209590"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18049402"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17905345", 
+            "o": "nalmefene [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0209589"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12102398"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0154347"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17905345"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17929694"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0209588"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17953450"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209589", 
+            "o": "d03834"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209588", 
+            "o": "0000020568"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12803415", 
+            "o": "C61855"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12816017", 
+            "o": "C61855"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209589", 
+            "o": "Multum"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0154347", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209590", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12102398", 
+            "o": "4023995"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17905345", 
+            "o": "N0000006956"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17953450", 
+            "o": "N0000006956"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18049402", 
+            "o": "N0000006956"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17881235", 
+            "o": "N0000022000"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17929694", 
+            "o": "N0000022000"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0154347", 
+            "o": "C038981"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209590", 
+            "o": "C038981"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8482558", 
+            "o": "MTHU001784"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10337561", 
+            "o": "31479"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0682978"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1390854", 
+            "o": "morphinan and derivatives"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12803415", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12816017", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0682986"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1395804", 
+            "o": "synthetic opioids"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0682889"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1386736", 
+            "o": "pure narcotic antagonists"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12102398", 
+            "o": "National Drug File"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8482558", 
+            "o": "USP Model Guidelines"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0068377", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0682807"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1810228", 
+            "o": "narcotic antagonist anti-alcohol-craving agents"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0209588", 
+            "o": "Alcohol and Other Drug Thesaurus"
+        }
+    ], 
+    "ideal_answer": [
+        "Side effects of nalmefene include nausea, dizziness / lightheadedness, insomina, fatigue, vomiting, reduced caloric intake / apetite, increased self-rated alertness and decreased tiredness. In horses some passage of semifluid fecal material, intermittent penile relaxation, and mild sedation has been described. In some studies nalmefene was well tolerated by all subjects, and no clinically significant adverse effects were observed."
+    ], 
+    "exact_answer": [
+        [
+            "nausea"
+        ], 
+        [
+            "dizziness / lightheadedness"
+        ], 
+        [
+            "insomnia"
+        ], 
+        [
+            "fatigue"
+        ], 
+        [
+            "vomiting"
+        ], 
+        [
+            "reduced caloric intake / apetite"
+        ], 
+        [
+            "increased self-rated alertness"
+        ], 
+        [
+            "decreased tiredness"
+        ], 
+        [
+            "(horses) some passage of semifluid fecal material"
+        ], 
+        [
+            "(horses) intermittent penile relaxation"
+        ], 
+        [
+            "(horses) mild sedation"
+        ]
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4258016"
+    ], 
+    "type": "list", 
+    "id": "52bf1dea03868f1b06000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1262, 
+            "offsetInEndSection": 1323, 
+            "text": "Adverse experiences included nausea, dizziness, and insomnia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16449486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1447, 
+            "offsetInEndSection": 1662, 
+            "text": "Side effects to nalmefene were of greater duration and intensity in the subjects receiving 10 mg of nalmefene vs. those receiving 6 or 2 mg. These included most notably fatigue, lightheadedness, nausea and vomiting.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16379031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 131, 
+            "offsetInEndSection": 284, 
+            "text": "The nalmefene treated group ate 22% less, both in terms of absolute weight and caloric intake, of a standardised buffet-meal than did the placebo group. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2315439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 1030, 
+            "text": "Thus the apparent nutrient specificity of nalmefene appeared to be an indirect consequence of its effect on palatability. Nalmefene also caused slight increases in self-rated alertness, and decreases in ratings of tiredness and elation, although it was thought unlikely that these accounted for observed changes in eating behaviour.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2315439", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1038, 
+            "offsetInEndSection": 1554, 
+            "text": "In the second study, six healthy men were initially administered a single 50-mg dose of drug, and plasma samples were obtained at selected time intervals for 48 hours. A dosing schedule of 20 mg q12h was then started and continued for seven days. Plasma samples were collected immediately before each dose and at selected times for up to 48 hours after the last dose. The drug was well tolerated by all subjects, and no clinically significant adverse effects were observed during the seven-day administration period.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3680580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 137, 
+            "offsetInEndSection": 524, 
+            "text": " In the first study, single ascending doses of 50, 100, 200, and 300 mg of nalmefene HCl were administered in double-blind fashion to four groups of healthy men. There were six subjects in each group; four received nalmefene and two received placebo. The drug was well tolerated at all dose levels with only mild and transient side effects, such as lightheadedness, at the higher doses. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3680580", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1350, 
+            "text": "Doses of nalmefene as large as 0.4 mg/kg, IV, produced only minor side effects. These side effects included some passage of semifluid fecal material, intermittent penile relaxation, and mild sedation. Treated horses responded normally to external stimuli, retained their appetites, and performed appropriately when ridden. Sedation wore off during the course of prolonged infusions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3826875", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 397, 
+            "text": "The drug was well tolerated at all dose levels with only mild and transient side effects, the most common of which was lightheadedness.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3943269", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "body": "Is CD56 useful in Ewing sarcoma prognosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9692823", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22498946"
+    ], 
+    "ideal_answer": [
+        "Excellent prognosis in a subset of patients with Ewing sarcoma identified at diagnosis by CD56 using flow cytometryIn patients with localized nonpelvic disease, those expressing low/negative CD56 had 100% PFS versus 40% in the high expressing group (P = 0.02)", 
+        "CD56 expression could be used to reveal Ewing sarcoma patients with excellent prognosis or patients predisposed to relapse, thus improving treatment stratification and implementation of personalized therapy."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011379", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012512"
+    ], 
+    "type": "yesno", 
+    "id": "552fa32fbc4f83e828000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Excellent prognosis in a subset of patients with Ewing sarcoma identified at diagnosis by CD56 using flow cytometry", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 804, 
+            "offsetInEndSection": 986, 
+            "text": "There was a highly significant correlation between CD56 expression and progression-free survival (PFS; 69% in low/negative expression versus 30% in high expression groups, P = 0.024)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 988, 
+            "offsetInEndSection": 1132, 
+            "text": "In patients with localized nonpelvic disease, those expressing low/negative CD56 had 100% PFS versus 40% in the high expressing group (P = 0.02)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1162, 
+            "offsetInEndSection": 1305, 
+            "text": "CD56 was found to be an independent prognostic marker with an 11-fold increased risk for relapse in patients with localized disease (P = 0.006)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1459, 
+            "offsetInEndSection": 1654, 
+            "text": "CD56 expression could be used to reveal ES patients with excellent prognosis or patients predisposed to relapse, thus improving treatment stratification and implementation of personalized therapy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Excellent prognosis in a subset of patients with Ewing sarcoma identified at diagnosis by CD56 using flow cytometry.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 530, 
+            "offsetInEndSection": 852, 
+            "text": "Three years after diagnosis the patient presented with severe respiratory difficulty and following resection, the final pathology revealed multiple tumors with foci of high grade sarcoma compatible with primitive neuroectodermal tumor/extraskeletal Ewing sarcoma based on morphology and immunohistochemistry (CD99, CD56).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22498946", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 140, 
+            "offsetInEndSection": 336, 
+            "text": "CD56 expression could be used to reveal ES patients with excellent prognosis or patients predisposed to relapse, thus improving treatment stratification and implementation of personalized therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Identification of CD56 and CD57 by flow cytometry in Ewing's sarcoma or primitive neuroectodermal tumor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9692823", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1411, 
+            "offsetInEndSection": 1607, 
+            "text": "CD56 expression could be used to reveal ES patients with excellent prognosis or patients predisposed to relapse, thus improving treatment stratification and implementation of personalized therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21467162", 
+            "endSection": "abstract"
+        }
+    ]
+}

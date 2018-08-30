@@ -1,0 +1,244 @@
+{
+    "body": "Which are the side effects during tacrine administration in patients with Alzheimer's Disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9808364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22034058", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9226744", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9408186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17883890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8237620", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7737527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19270633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7579023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25858345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19370562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8312036", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9209244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2107926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8119309", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22192081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9050085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7510447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17636619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10796507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1406817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7868848", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7919566", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12939598", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8139084"
+    ], 
+    "ideal_answer": [
+        "The side effects during tacrine administration in patients with Alzheimer's Disease are:\r\n1) Hepatotoxicity\r\n2) Gastrointestinal (diarrhea, anorexia, dyspepsia, abdominal pain, nausea, vomiting)\r\n3) Mitochondrial impairement"
+    ], 
+    "exact_answer": [
+        [
+            "Hepatotoxicity"
+        ], 
+        [
+            "Gastrointestinal"
+        ], 
+        [
+            "diarrhea"
+        ], 
+        [
+            "anorexia"
+        ], 
+        [
+            "dyspepsia"
+        ], 
+        [
+            "abdominal pain"
+        ], 
+        [
+            "nausea"
+        ], 
+        [
+            "vomiting"
+        ], 
+        [
+            "anorexia"
+        ], 
+        [
+            "Mitochondrial impairement"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000544", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4274748", 
+        "http://www.biosemantics.org/jochem#4274748", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013619"
+    ], 
+    "type": "list", 
+    "id": "58a2fac960087bc10a000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 366, 
+            "offsetInEndSection": 537, 
+            "text": "Tacrine, the first of the cholinesterase inhibitors to undergo extensive trials for this purpose, was associated with significant adverse effects including hepatotoxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25858345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Tacrine and its analogues impair mitochondrial function and bioenergetics: a lipidomic analysis in rat brain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22192081", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 235, 
+            "text": "However, its low therapeutic efficiency and a high incidence of side effects have limited its clinical use. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22192081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1839, 
+            "offsetInEndSection": 2098, 
+            "text": "Tacrine induced significant perturbations in the mitochondrial PL profile, which were detected by means of changes in the relative abundance of phosphatidylcholine (PC), PE, phosphatidylinositol (PI) and CL and by the presence of oxidized phosphatidylserines.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22192081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2446, 
+            "offsetInEndSection": 2595, 
+            "text": "These results indicate that tacrine and its analogues impair mitochondrial function and bioenergetics, thus compromising the activity of brain cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22192081", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 561, 
+            "text": "Tacrine, the first of the cholinesterase inhibitors to undergo extensive trials for this purpose, was associated with significant adverse effects including hepatotoxicity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19370562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 617, 
+            "text": "The antidementives are well tolerated and undesired effects are rare; except hepatotoxicity of tacrine and gastrointestinal side effects of donepezil, rivastigmine, galantamin and tacrine that result from acetylcholinesterase inhibition. Nausea, diarrhea, vomiting, and weight loss are the most common side effects of the acetylcholinesterase inhibitors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19270633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2984, 
+            "offsetInEndSection": 3048, 
+            "text": "Raised serum liver enzymes was the major reason for withdrawal. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17636619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3208, 
+            "offsetInEndSection": 3486, 
+            "text": "Gastrointestinal side effects (diarrhoea, anorexia, dyspepsia and abdominal pain) were the other major cause of adverse events and for withdrawal, and the odds ratio for withdrawal was also significantly different from one in favour of the control group (OR 3.8; 95%CI 2.8-5.1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17636619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1145, 
+            "offsetInEndSection": 1231, 
+            "text": "To determine the clinical efficacy of tacrine for the symptoms of Alzheimer's disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17636619", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 485, 
+            "text": "In Alzheimer's disease, cognition now responds to several drugs. Anticholinesterases target the acetylcholine deficit. In mild-to-moderate Alzheimer's disease, they all provide significant benefit versus placebo on the Alzheimer's Disease Assessment ScheduleCognitive Section (ADAS-Cog), Side effects, in 5% to 15% of cases, include nausea, vomiting, diarrhea, anorexia, and dizziness. Tacrine, the leading anticholinesterase, caused frequent hepatic enzyme elevation and was withdrawn", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22034058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 637, 
+            "text": "This 12-week randomised, double-blind, placebo-controlled study was undertaken to evaluate the ability of silymarin to antagonise or prevent the hepatotoxic effects of tacrine and to analyse its action on tacrine efficacy and tolerability.METHODS: Outpatients suffering from mild-to-moderate dementia of the Alzheimer type were randomly assigned to two treatment groups: tacrine + silymarin and tacrine + placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Hepatotoxic effects of tacrine administration in patients with Alzheimers disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8139084", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Hepatotoxic effects of tacrine administration in patients with Alzheimer's disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8139084", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Tremulous jaw movements produced by acute tacrine administration: possible relation to parkinsonian side effects.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9050085", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 186, 
+            "text": "Administration of tacrine (THA) for the treatment of Alzheimer's disease results in a reversible hepatotoxicity in 30-50% of patients, as indicated by an increase in transaminase levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9808364", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 637, 
+            "text": "Tacrine, the first drug marketed for Alzheimer's disease (AD), induces an elevation of serum liver transaminase prohibiting an effective dosage in many patients. This 12-week randomised, double-blind, placebo-controlled study was undertaken to evaluate the ability of silymarin to antagonise or prevent the hepatotoxic effects of tacrine and to analyse its action on tacrine efficacy and tolerability.METHODS: Outpatients suffering from mild-to-moderate dementia of the Alzheimer type were randomly assigned to two treatment groups: tacrine + silymarin and tacrine + placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 637, 
+            "text": "BACKGROUND: Silymarin is a well-known hepatoprotective agent. Tacrine, the first drug marketed for Alzheimer's disease (AD), induces an elevation of serum liver transaminase prohibiting an effective dosage in many patients. This 12-week randomised, double-blind, placebo-controlled study was undertaken to evaluate the ability of silymarin to antagonise or prevent the hepatotoxic effects of tacrine and to analyse its action on tacrine efficacy and tolerability.METHODS: Outpatients suffering from mild-to-moderate dementia of the Alzheimer type were randomly assigned to two treatment groups: tacrine + silymarin and tacrine + placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 763, 
+            "text": "Tacrine, the first drug marketed for Alzheimer's disease (AD), induces an elevation of serum liver transaminase prohibiting an effective dosage in many patients. This 12-week randomised, double-blind, placebo-controlled study was undertaken to evaluate the ability of silymarin to antagonise or prevent the hepatotoxic effects of tacrine and to analyse its action on tacrine efficacy and tolerability.METHODS: Outpatients suffering from mild-to-moderate dementia of the Alzheimer type were randomly assigned to two treatment groups: tacrine + silymarin and tacrine + placebo. The study was double-blind for silymarin and open for tacrine and was conducted in 22 French neurology and geriatric centres.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 223, 
+            "text": "Tacrine, the first drug marketed for Alzheimer's disease (AD), induces an elevation of serum liver transaminase prohibiting an effective dosage in many patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10325444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Hepatotoxic effects of tacrine administration in patients with Alzheimer's disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8139084", 
+            "endSection": "title"
+        }
+    ]
+}

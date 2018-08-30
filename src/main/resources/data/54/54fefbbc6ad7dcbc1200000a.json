@@ -1,0 +1,107 @@
+{
+    "body": "Are there any Decision support systems for chronic pain management ?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21249951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20385018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24073031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23601912", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11524346"
+    ], 
+    "ideal_answer": [
+        "Yes, there is a variety of decision support systems for chronic pain management.", 
+        "Clinical decision support systems are promising tools for improving behavioral medicine care for chronic pain.The use of a computer-based decision support system facilitates primary care physicians' management of chronic pain."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "54fefbbc6ad7dcbc1200000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 590, 
+            "text": "a project to operationalize the 2003 VA/DOD Clinical Practice Guideline for Opioid Therapy for Chronic Non-Cancer Pain into a computerized decision support system (DSS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20385018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 666, 
+            "offsetInEndSection": 709, 
+            "text": "We based the DSS on the existing ATHENA-DSS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20385018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1773, 
+            "offsetInEndSection": 1846, 
+            "text": "Use of this iterative process led to development of a multifunctional DSS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20385018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 890, 
+            "offsetInEndSection": 927, 
+            "text": "interactive decision dashboard format", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23601912", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1077, 
+            "offsetInEndSection": 1144, 
+            "text": "We created a computerized, interactive clinical decision dashboard ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23601912", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2211, 
+            "offsetInEndSection": 2333, 
+            "text": "Interactive decision dashboards can be adapted for clinical use and have the potential to foster informed decision making.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23601912", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1080, 
+            "offsetInEndSection": 1190, 
+            "text": "Clinical decision support systems are promising tools for improving behavioral medicine care for chronic pain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24073031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Improving Patient Safety Using ATHENA-Decision Support System Technology: ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21249951", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 470, 
+            "text": "ATHENA-DSS is an automated decision support system developed in a collaboration between Stanford University and the U.S. Department of Veterans Affairs (VA) to increase guideline-adherent prescribing and to change physician behavior.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21249951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "The use of a computer-based decision support system facilitates primary care physicians' management of chronic pain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11524346", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1298, 
+            "offsetInEndSection": 1459, 
+            "text": "The use of a CBDS system may improve the ability of PCPs to manage chronic pain and may also facilitate screening of consults to optimize specialist utilization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11524346", 
+            "endSection": "abstract"
+        }
+    ]
+}

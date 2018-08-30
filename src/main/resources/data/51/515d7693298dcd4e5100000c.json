@@ -1,0 +1,71 @@
+{
+    "body": "A common problem in proteomics is the contamination of samples with exogenous proteins (often from other species). These proteins can be found in specific databases. List some contaminants.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12422360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22954629", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12915006", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12872232", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20641139"
+    ], 
+    "ideal_answer": [
+        "Some common contaminants in proteomics are proteases (used for the digestion of the proteins), keratins (usually from the skin),  proteins originated from the serum of the culture media and antibodies if used in the experiment."
+    ], 
+    "exact_answer": [
+        [
+            "Proteases"
+        ], 
+        [
+            "Keratins"
+        ], 
+        [
+            "Bovine serum proteins"
+        ], 
+        [
+            "Antibodies"
+        ]
+    ], 
+    "type": "list", 
+    "id": "515d7693298dcd4e5100000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 312, 
+            "offsetInEndSection": 355, 
+            "text": "protease autolysis or keratin contaminants.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12422360", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 598, 
+            "text": "Most of the interfering masses originate from trypsin autolysis and human keratins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12872232", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 139, 
+            "offsetInEndSection": 271, 
+            "text": "5-15% FBS. Contamination by bovine proteins is difficult to avoid because of adherence to the plastic vessel and the cultured cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20641139", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 389, 
+            "text": "The main disadvantage of traditional IP and co-IP is that the conditions used to elute the precipitated antigen also release the antibody thus contaminating the antigen", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12915006", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "MaConDa: a publicly accessible mass spectrometry contaminants database.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22954629", 
+            "endSection": "title"
+        }
+    ]
+}

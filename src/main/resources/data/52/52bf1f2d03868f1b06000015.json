@@ -1,0 +1,127 @@
+{
+    "body": "Which drug is benserazide usually co-administered with?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23390548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22384042", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10884518", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11166288", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17553556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17113046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17141847", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7737328", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16023708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2760634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15275774"
+    ], 
+    "ideal_answer": [
+        "Co-administration of L-Dopa with carbidopa or benserazide is the most effective symptomatic treatment for Parkinson Disease (PD)."
+    ], 
+    "exact_answer": [
+        "L-Dopa"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4248923", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009934", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001545"
+    ], 
+    "type": "factoid", 
+    "id": "52bf1f2d03868f1b06000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 650, 
+            "text": "The present study utilizes in vivo amperometry to investigate the impact from unilateral 6-hydroxydopamine lesions and l-DOPA (4 mg/kg, including benserazide 15 mg/kg) -induced dyskinetic behavior on striatal basal extracellular glutamate concentration and potassium-evoked glutamate release in urethane-anesthetized rats. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23390548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 414, 
+            "text": "Co-administration of L-Dopa with peripheral DDC inhibitors (carbidopa or benserazide) is the most effective symptomatic treatment for PD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22384042", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 475, 
+            "offsetInEndSection": 780, 
+            "text": "In experiment 1, l-DOPA-primed rats were pre-treated with Vehicle (0.9% NaCl), various doses of the partial 5-HT(1A) agonist, buspirone (0.25, 1.0 or 2.5 mg/kg, ip) or buspirone (2.5 mg/kg, ip)+the 5-HT(1A) antagonist, WAY100635 (0.5 mg/kg, ip) 5 min prior to l-DOPA (12 mg/kg+15 mg/kg benserazide, ip). R", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17553556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 446, 
+            "offsetInEndSection": 640, 
+            "text": "L-DOPA induced hyperalgesia occurred after conversion to dopamine because co-administration of benserazide, a DOPA decarboxylase inhibitor, completely abolished the L-DOPA-induced hyperalgesia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17141847", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 439, 
+            "offsetInEndSection": 572, 
+            "text": "First, animals were treated with levodopa (50 mg/kg with benserazide 12.5 mg/kg, twice daily), intraperitoneally (i.p.) for 22 days. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17113046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 537, 
+            "text": "Chronic L-DOPA-treated rats received the D1 receptor antagonist SCH23390 (0.01, 0.1, and 1.0 mg/kg; i.p.), the D2 receptor antagonist Eticlopride (0.01, 0.1, and 1.0 mg/kg; i.p.), a mixture of both antagonists (0.01, 0.1, 1.0 mg/kg each; i.p.), or vehicle 30 min prior to L-DOPA (6 mg/kg; i.p.)+Benserazide (15 mg/kg; i.p.).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16023708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 62, 
+            "offsetInEndSection": 375, 
+            "text": "Nociceptive behaviors in mice after an intrathecal (i.t.) administration of substance P were evaluated. L-DOPA (i.t.) dose-dependently attenuated the substance P-induced nociceptive behaviors. Co-administration of benserazide (i.t.), a DOPA decarboxylase inhibitor, abolished the antinociceptive effect of L-DOPA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15275774", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 775, 
+            "offsetInEndSection": 991, 
+            "text": "They were injected subcutaneously (s.c.) with L-DOPA methyl ester (125 mg per animal) plus benserazide (50 mg per animal; L-DOPA/benserazide) alone or in combination with (-)-OSU6162 (1.0, 3.0, 6.0 or 10 mg/kg, s.c.)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11166288", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 582, 
+            "offsetInEndSection": 806, 
+            "text": "They were injected subcutaneously (s.c.) with L-Dopa methyl ester (125 mg per animal) plus benserazide (50 mg per animal; L-Dopa/benserazide) alone or in combination with JL-18 (at the doses of 0.1, 0.3, or 0.9 mg/kg, s.c.).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10884518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 500, 
+            "offsetInEndSection": 1035, 
+            "text": "The administration of L-dopa (20 and 60 mg/kg p.o.) + benserazide (15 mg/kg p.o.) resulted in dose-dependent increase of dialysate levels of L-dopa and 3-O-methyl-DOPA. Tolcapone (30 mg/kg p.o.), given as adjunct to both doses of L-dopa, markedly enhanced the elevation or extracellular L-dopa, while it completely prevented the formation of 3-O-methyl-DOPA. In another experiment, the administration of L-dopa + benserazide (30 + 15 mg/kg p.o.) resulted in increased extracellular levels of dopamine, DOPAC, HVA and 3-methoxytyramine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7737328", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 485, 
+            "text": "In healthy subjects and in patients with parkinsonism plasma ALAAD level fell after administration of L-dopa + benserazide, but returned to previous levels within 90 min.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2760634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 486, 
+            "offsetInEndSection": 764, 
+            "text": "In a cross-sectional study blood was obtained, 2 h after dosing, from 104 patients with idiopathic parkinsonism, divided into four groups: no L-dopa treatment (group 1), L-dopa alone (group 2), L-dopa + benserazide (Madopar) (group 3) and L-dopa + carbidopa (Sinemet) (group 4).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2760634", 
+            "endSection": "abstract"
+        }
+    ]
+}

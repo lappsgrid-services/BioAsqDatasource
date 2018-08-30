@@ -1,0 +1,76 @@
+{
+    "body": "Can the apoptosis regulator BAX trigger the release of cytochrome c?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25524600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25619640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22116711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21307199", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23954445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23567751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25116390"
+    ], 
+    "ideal_answer": [
+        "Yes, altered Bax conformation trigger its redistribution from the cytosol to mitochondria. Subsequently, cytochrome c is released from mitochondria to cytosol."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "5717bacacb4ef8864c00000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 548, 
+            "offsetInEndSection": 684, 
+            "text": "6-Shogaol reduced the mitochondrial membrane potential (MMP) and released cytochrome c from mitochondria to cytosol via Bax activation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25619640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 539, 
+            "offsetInEndSection": 676, 
+            "text": "Moreover, overexpression of ER\u03b2 prevented Bax activation, cytochrome c release, caspase-3 activation, and PARP cleavage during apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25524600", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 349, 
+            "offsetInEndSection": 573, 
+            "text": "In this study, we demonstrated that EV71 infection altered Bax conformation and triggered its redistribution from the cytosol to mitochondria in RD cells. Subsequently, cytochrome c was released from mitochondria to cytosol.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25116390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1087, 
+            "offsetInEndSection": 1218, 
+            "text": "associated with translocation of Bax from the cytosol to the mitochondrial membrane, cytochrome c release, and caspase activation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23954445", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 397, 
+            "text": "Once activated, BAK and BAX form proteolipid pores in the OMM leading to mitochondrial outer membrane permeabilization (MOMP), and the release of inner membrane space proteins, such as cytochrome c, which promotes caspase activation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23567751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 524, 
+            "offsetInEndSection": 809, 
+            "text": " Our results showed that OC induced a caspase-dependent apoptosis by triggering a series of events in HeLa cells including Bax translocation, cytochrome c release, caspase-3 activation, chromosome fragmentation followed by caspase-8 activation, Bid cleavage and eventually cell death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22116711", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 291, 
+            "offsetInEndSection": 411, 
+            "text": "Bax plays a key role in intrinsic apoptotic signaling in neurons by allowing the release of mitochondrial cytochrome c. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21307199", 
+            "endSection": "abstract"
+        }
+    ]
+}

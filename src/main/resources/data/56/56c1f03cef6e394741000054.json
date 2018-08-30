@@ -1,0 +1,437 @@
+{
+    "body": "Does TRIM37 gene mutation causes Mulibrey nanism?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16514549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14757854", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16310976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17551331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23385855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19334051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11938494"
+    ], 
+    "ideal_answer": [
+        "Yes, Mulibrey nanism is caused by recessive mutations in the TRIM37 gene encoding for the peroxisomal TRIM37 protein with ubiquitin-ligase activity."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:0050436", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050336"
+    ], 
+    "type": "yesno", 
+    "id": "56c1f03cef6e394741000054", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 93, 
+            "offsetInEndSection": 225, 
+            "text": "OBJECTIVE: We studied pubertal development and fecundity in males with Mulibrey nanism (MUL) caused by mutations in the TRIM37 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1605, 
+            "offsetInEndSection": 1714, 
+            "text": "In MUL, mutations in TRIM37 lead to disturbance of sexual maturation, and fertility is severely compromised. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 298, 
+            "text": "It is caused by recessive mutations in the TRIM37 gene encoding for the peroxisomal TRIM37 protein with ubiquitin-ligase activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19334051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Mulibrey nanism is an autosomal recessive growth disorder caused by mutations in the TRIM37 gene encoding a protein of unknown function. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Gynecological tumors in Mulibrey nanism and role for RING finger protein TRIM37 in the pathogenesis of ovarian fibrothecomas.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 602, 
+            "offsetInEndSection": 864, 
+            "text": "To investigate the possible involvement of TRIM37 alterations in the pathogenesis of sporadic fibrothecomas, we analyzed the TRIM37 cDNA for mutations and alternatively spliced transcripts and TRIM37 expression in fibrothecomas of women without Mulibrey nanism. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1684, 
+            "offsetInEndSection": 1918, 
+            "text": " In conclusion, inherited biallelic inactivation of TRIM37 (Mulibrey nanism) predisposes to both mesenchymal and epithelial ovarian tumors and dysregulation of TRIM37 may also be involved in the pathogenesis of sporadic fibrothecomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "A novel splice site mutation in the TRIM37 gene causes mulibrey nanism in a Turkish family with phenotypic heterogeneity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Mulibrey nanism (MUL) is an autosomal recessive disease caused by mutations in the TRIM37 gene encoding the peroxisomal TRIM37 protein of unknown function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "Mulibrey nanism (muscle-liver-brain-eye nanism; MUL) is an autosomal recessively transmitted disease characterized by severe growth delays of prenatal onset caused by mutations in the TRIM37 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 269, 
+            "text": "Mutations in the TRIM37 gene underlie mulibrey nanism (muscle-liver-brain-eye nanism), a rare monogenic developmental disorder characterized by severe growth failure, characteristic dysmorphic features, cardiopathy, failure of sexual maturation, and metabolic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16514549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Mulibrey nanism is an autosomal recessive growth disorder caused by mutations in the TRIM37 gene encoding a protein of unknown function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Mulibrey nanism is a rare growth disorder of prenatal onset caused by mutations in the TRIM37 gene, which encodes a RING-B-box-coiled-coil protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "Novel mutations in the TRIM37 gene in Mulibrey Nanism.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 347, 
+            "offsetInEndSection": 450, 
+            "text": "Five truncating mutations in the TRIM37 gene have previously been reported in Mulibrey nanism patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Characterisation of the mulibrey nanism-associated TRIM37 gene: transcription initiation, promoter region and alternative splicing.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16310976", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "The TRIM37 gene encodes a peroxisomal RING-B-box-coiled-coil protein: classification of mulibrey nanism as a new peroxisomal disorder.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "A novel splice site mutation in the TRIM37 gene causes mulibrey nanism in a Turkish family with phenotypic heterogeneity", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Mulibrey nanism is a rare growth disorder of prenatal onset caused by mutations in the TRIM37 gene, which encodes a RING-B-box-coiled-coil protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 195, 
+            "text": "Mulibrey nanism (muscle-liver-brain-eye nanism; MUL) is an autosomal recessively transmitted disease characterized by severe growth delays of prenatal onset caused by mutations in the TRIM37 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Mulibrey nanism is an autosomal recessive growth disorder caused by mutations in the TRIM37 gene encoding a protein of unknown function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Mulibrey nanism (MUL) is an autosomal recessive disease caused by mutations in the TRIM37 gene encoding the peroxisomal TRIM37 protein of unknown function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Novel mutations in the TRIM37 gene in Mulibrey Nanism", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 348, 
+            "text": "Five truncating mutations in the TRIM37 gene have previously been reported in Mulibrey nanism patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Mulibrey nanism (MUL) is a rare autosomal recessive disorder with severe primordial growth retardation and multiorgan involvement, caused by mutations in TRIM37", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Refractory congestive heart failure following delayed pericardectomy in a 12-year-old child with Mulibrey nanism due to a novel mutation in TRIM37", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385855", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "A novel mutation in TRIM37 is associated with mulibrey nanism in a Turkish boy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17551331", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 227, 
+            "text": "OBJECTIVE: We studied pubertal development and fecundity in males with Mulibrey nanism (MUL) caused by mutations in the TRIM37 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Mulibrey nanism is a rare growth disorder of prenatal onset caused by mutations in the TRIM37 gene, which encodes a RING-B-box-coiled-coil protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Mulibrey nanism (muscle-liver-brain-eye nanism; MUL) is an autosomal recessively transmitted disease characterized by severe growth delays of prenatal onset caused by mutations in the TRIM37 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "UNLABELLED: Mulibrey nanism (MUL) is a rare autosomal recessive disorder with severe primordial growth retardation and multiorgan involvement, caused by mutations in TRIM37. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Mulibrey nanism (MUL) is an autosomal recessive disease caused by mutations in the TRIM37 gene encoding the peroxisomal TRIM37 protein of unknown function. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 67, 
+            "offsetInEndSection": 286, 
+            "text": "Mutations in TRIM37 underlie mulibrey nanism, a rare autosomal recessively inherited disorder with severe growth failure of prenatal onset, constrictive pericardium, hepatomegaly and characteristic dysmorphic features. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16310976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "Mutations in the TRIM37 gene underlie mulibrey nanism (muscle-liver-brain-eye nanism), a rare monogenic developmental disorder characterized by severe growth failure, characteristic dysmorphic features, cardiopathy, failure of sexual maturation, and metabolic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16514549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "A novel mutation in TRIM37 is associated with mulibrey nanism in a Turkish boy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17551331", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 349, 
+            "text": "Five truncating mutations in the TRIM37 gene have previously been reported in Mulibrey nanism patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": " Few monogenic mutations causing human male infertility have been identified to date.  We studied pubertal development and fecundity in males with Mulibrey nanism (MUL) caused by mutations in the TRIM37 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": " Mulibrey nanism is a rare growth disorder of prenatal onset caused by mutations in the TRIM37 gene, which encodes a RING-B-box-coiled-coil protein. The pathogenetic mechanisms of mulibrey nanism are unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": " Mulibrey nanism is an autosomal recessive growth disorder caused by mutations in the TRIM37 gene encoding a protein of unknown function. More than half of female patients with Mulibrey nanism develop benign mesenchymal tumors of ovarian sex cord-stromal origin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Mulibrey nanism (MUL) is an autosomal recessive disease caused by mutations in the TRIM37 gene encoding the peroxisomal TRIM37 protein of unknown function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "Mulibrey nanism (muscle-liver-brain-eye nanism; MUL) is an autosomal recessively transmitted disease characterized by severe growth delays of prenatal onset caused by mutations in the TRIM37 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 298, 
+            "text": "Mulibrey nanism (MUL) is a monogenic disorder with prenatal-onset growth failure, typical clinical characteristics, cardiopathy and tendency for a metabolic syndrome. It is caused by recessive mutations in the TRIM37 gene encoding for the peroxisomal TRIM37 protein with ubiquitin-ligase activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19334051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 86, 
+            "offsetInEndSection": 386, 
+            "text": " We studied pubertal development and fecundity in males with Mulibrey nanism (MUL) caused by mutations in the TRIM37 gene.  Twenty-eight male MUL patients of the Finnish national cohort aged 8.7 to 50.0 yr (median age, 28.8) at the end of observation were followed for 10 yr beginning from 2000-2001.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "A novel splice site mutation in the TRIM37 gene causes mulibrey nanism in a Turkish family with phenotypic heterogeneity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12754710", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 86, 
+            "offsetInEndSection": 208, 
+            "text": "We studied pubertal development and fecundity in males with Mulibrey nanism (MUL) caused by mutations in the TRIM37 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21865362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Mulibrey nanism is an autosomal recessive growth disorder caused by mutations in the TRIM37 gene encoding a protein of unknown function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19329943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Mulibrey nanism is a rare growth disorder of prenatal onset caused by mutations in the TRIM37 gene, which encodes a RING-B-box-coiled-coil protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11938494", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 55, 
+            "text": "Novel mutations in the TRIM37 gene in Mulibrey Nanism.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 247, 
+            "offsetInEndSection": 350, 
+            "text": "Five truncating mutations in the TRIM37 gene have previously been reported in Mulibrey nanism patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15108285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 298, 
+            "text": "It is caused by recessive mutations in the TRIM37 gene encoding for the peroxisomal TRIM37 protein with ubiquitin-ligase activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19334051", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Mulibrey nanism (MUL) is a rare autosomal recessive disorder with severe primordial growth retardation and multiorgan involvement, caused by mutations in TRIM37.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23385855", 
+            "endSection": "abstract"
+        }
+    ]
+}

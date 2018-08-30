@@ -1,0 +1,69 @@
+{
+    "body": "Do proton pump inhibitors affect thyroxine absorption?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15073769", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16477543", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22019751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7865648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16971728", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18942671", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18996189", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20694403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16918738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19942153", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17669709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9416973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23565522"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6850734", 
+            "o": "Proton Pump Inhibitors"
+        }
+    ], 
+    "ideal_answer": [
+        "Proton-pump inhibitors, antacids and a long list of drugs may decrease thyroxine absorption.\nPatients with hypothyroidism and normal TSH values during LT4 replacement therapy may need additional thyroid function testing after treatment with PPIs and may need adjustment of their LT4 dose."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017494", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054328"
+    ], 
+    "type": "yesno", 
+    "id": "513f3ab6bee46bd34c00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 562, 
+            "offsetInEndSection": 653, 
+            "text": "Proton-pump inhibitors, antacids and a long list of drugs may decrease thyroxine absorption", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20694403", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 313, 
+            "offsetInEndSection": 580, 
+            "text": "Many commonly used drugs, such as bile acid sequestrants, ferrous sulphate, sucralfate, calcium carbonate, aluminium-containing antacids, phosphate binders, raloxifene and proton-pump inhibitors, have also been shown to interfere with the absorption of levothyroxine.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19942153", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1477, 
+            "offsetInEndSection": 1582, 
+            "text": "Pantoprazole did not influence endocrine function in healthy male volunteers during short-term treatment.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7865648", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1744, 
+            "offsetInEndSection": 2088, 
+            "text": "PPIs should be added to the list of medications affecting the level of thyroid hormone in patients with hypothyroidism treated with LT4 replacement. Patients with hypothyroidism and normal TSH values during LT4 replacement therapy may need additional thyroid function testing after treatment with PPIs and may need adjustment of their LT4 dose.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17669709", 
+            "endSection": "sections.0"
+        }
+    ]
+}

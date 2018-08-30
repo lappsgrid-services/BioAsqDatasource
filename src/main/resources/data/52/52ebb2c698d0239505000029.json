@@ -1,0 +1,190 @@
+{
+    "body": "Which are the clinical characteristics of Tuberous Sclerosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/14716484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22791573", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19889303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16210669", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23219029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23007140", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19133941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24304436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15221338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19239998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24180681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12618672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11520735"
+    ], 
+    "ideal_answer": [
+        "The clinical characteristics of Tuberous Sclerosis include epilepsy, subependymal giant cell astrocytomas, lymphangioleiomyomatosis, rhabdomyoma, renal angiomyolipomas, cortical tubers, neurofibromas, angiofibromas, mental retardation, and behavioral disorders."
+    ], 
+    "exact_answer": [
+        [
+            "epilepsy"
+        ], 
+        [
+            "subependymal giant cell astrocytomas"
+        ], 
+        [
+            "lymphangioleiomyomatosis"
+        ], 
+        [
+            "rhabdomyoma"
+        ], 
+        [
+            "renal angiomyolipomas"
+        ], 
+        [
+            "cortical tubers"
+        ], 
+        [
+            "neurofibromas"
+        ], 
+        [
+            "angiofibromas"
+        ], 
+        [
+            "mental retardation"
+        ], 
+        [
+            "behavioral disorders"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012640", 
+        "http://www.uniprot.org/uniprot/TSC2_RAT", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033596", 
+        "http://www.uniprot.org/uniprot/TSC1_RAT", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13515", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014402", 
+        "http://www.uniprot.org/uniprot/TSC2_MOUSE", 
+        "http://www.disease-ontology.org/api/metadata/DOID:557", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007674", 
+        "http://www.uniprot.org/uniprot/TSC1_SCHPO", 
+        "http://www.uniprot.org/uniprot/TSC1_HUMAN", 
+        "http://www.disease-ontology.org/api/metadata/DOID:850", 
+        "http://www.uniprot.org/uniprot/TSC2_SCHPO", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008171", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008607", 
+        "http://www.biosemantics.org/jochem#4266396", 
+        "http://www.uniprot.org/uniprot/TSC1_MOUSE", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1059", 
+        "http://www.uniprot.org/uniprot/TSC2_HUMAN"
+    ], 
+    "type": "list", 
+    "id": "52ebb2c698d0239505000029", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 118, 
+            "text": "Prevalence and long-term outcome of epilepsy in tuberous sclerosis complex (TSC) is reported to be variable", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24304436", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 7, 
+            "offsetInEndSection": 134, 
+            "text": "Subependymal giant cell astrocytomas (SEGAs) are benign tumors, most commonly associated with tuberous sclerosis complex (TSC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24180681", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 142, 
+            "text": "Lymphangioleiomyomatosis (LAM) is a rare, progressive, frequently lethal cystic lung disease that almost exclusively affects women.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23007140", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 162, 
+            "text": "Rhabdomyoma is the most common type of cardiac tumor in fetuses and is often associated with tuberous sclerosis complex (TSC) with neurologic sequelae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22791573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 552, 
+            "text": "In contrast to renal angiomyolipomas, which are often associated with tuberous sclerosis,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19889303", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 56, 
+            "offsetInEndSection": 183, 
+            "text": "clinical characteristics of subependymal nodule (SN) - subependymal giant cell astrocytoma (SGCA) complex in tuberous sclerosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19239998", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 830, 
+            "text": "NMI patients had a lower incidence of brain findings on imaging studies, neurological features, and renal findings than those with TSC2 mutations. In contrast, NMI patients had a lower incidence of seizures than TSC patients with TSC1 mutations, but had a higher incidence of both renal angiomyolipomas and pulmonary lymphangioleiomyomatosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19133941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 456, 
+            "text": "clinical characteristics of subjects with pulmonary lymphangioleiomyomatosis, both sporadic and tuberous sclerosis-related forms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16210669", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1300, 
+            "offsetInEndSection": 1455, 
+            "text": "Women with tuberous sclerosis-related lymphangioleiomyomatosis were younger and had less impaired lung function compared with those with the sporadic form.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16210669", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "Balloon cells are histopathological hallmarks of various cortical malformations, i.e., focal cortical dysplasia (Taylor's type, FCD IIb), hemimegalencephaly (HME) or cortical tubers (tuberous sclerosis, TSC). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15221338", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1016, 
+            "offsetInEndSection": 1233, 
+            "text": "Pulmonary lymphangioleiomyomatosis is a rare cause of recurrent pneumothorax and should be considered a differential diagnosis, especially in young women with diffuse bilateral bullous emphysema or tuberous sclerosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14716484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 153, 
+            "offsetInEndSection": 523, 
+            "text": "The disease is characterized by the development of benign hamartomatous tumors: neurofibromas and angiofibromas, located in the skin, central nervous system, mucosas and other organs. Abnormal neural cell migration plays an important role in the neurological dysfunctions found in TS, the predominant features being mental retardation, seizures and behavioral disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12618672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "The true prevalence of pulmonary lymphangioleiomyomatosis (LAM) in patients with tuberous sclerosis complex (TSC) is unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11520735", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 300, 
+            "text": "We retrospectively reviewed a cohort of patients with TSC and refractory epilepsy who started CLB over a 5-year period. Clinical characteristics and number of tubers on MRI were assessed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23219029", 
+            "endSection": "abstract"
+        }
+    ]
+}

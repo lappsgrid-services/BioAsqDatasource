@@ -1,0 +1,69 @@
+{
+    "body": "Where are Paneth cells located?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21122555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19397593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23006982", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24439803", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23232853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19788585"
+    ], 
+    "ideal_answer": [
+        "Paneth cells are located in the intestinal crypt base columnar cells (CBCCs)."
+    ], 
+    "exact_answer": [
+        "in the intestinal crypt base columnar cells"
+    ], 
+    "type": "factoid", 
+    "id": "58a9bbe81978bbde22000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 615, 
+            "offsetInEndSection": 710, 
+            "text": "The intestinal stem cell niche comprises both epithelial cells, in particular the Paneth cell, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24439803", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Paneth cells have been reported in colorectal adenomas and adenocarcinomas;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23232853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 284, 
+            "text": " injury to Paneth cells (PCs) in the intestinal crypts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23006982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 331, 
+            "text": "resence of Paneth cells at the bottom of the crypts of Lieberk\u00fchn.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21122555", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 946, 
+            "offsetInEndSection": 977, 
+            "text": "Paneth cells at the crypt base ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19397593", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 727, 
+            "offsetInEndSection": 776, 
+            "text": " Paneth cells (crypt base columnar cells (CBCCs))", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19788585", 
+            "endSection": "abstract"
+        }
+    ]
+}

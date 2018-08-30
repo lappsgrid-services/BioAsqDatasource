@@ -1,0 +1,140 @@
+{
+    "body": "What is the substrate of the microbial enzyme inulinase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22622836", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22286980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23419675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18592410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17659392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18065000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23997327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23265469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23271628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18663416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24031675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18427804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24031804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19107534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18449567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18833660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18726619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19514896", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17005986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20597549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19256341", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22629216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18051293"
+    ], 
+    "ideal_answer": [
+        "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose."
+    ], 
+    "exact_answer": [
+        "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/INU2_ASPFI", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051670", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013379", 
+        "http://www.uniprot.org/uniprot/INU1_KLUMA"
+    ], 
+    "type": "factoid", 
+    "id": "54f60ae05f206a0c06000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 269, 
+            "text": "Inulinases mainly produced by the microorganism and it degrades inulin into fructose which is a digestible form. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23997327", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 502, 
+            "text": " Inulin or inulin-rich materials can be actively hydrolyzed by microbial inulinases to produce glucose and fructose syrups that can be used in bioprocesses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23419675", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 538, 
+            "offsetInEndSection": 732, 
+            "text": " The catalysts treated at these conditions in both fluids were then used for the production of fructooligosaccharides (FOS) using sucrose and inulin as substrates in aqueous and organic systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23271628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "This work is focused on the synthesis of the fructooligosaccharides (FOS) from sucrose and inulin, using free, immobilized and pre-treated immobilized inulinase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23265469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 791, 
+            "offsetInEndSection": 913, 
+            "text": "Using inulinases from K. marxianus NRRL Y 7571, 11.89% of GF2 and 20.83% of GF3 were obtained, using inulin as substrate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23265469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 953, 
+            "offsetInEndSection": 1050, 
+            "text": "TLC analysis of end product revealed that inulinase hydrolyzed inulin exclusively into fructose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24031804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 221, 
+            "offsetInEndSection": 357, 
+            "text": "One product was an endo-inulinase, and the other was a \u03b2-fructofuranosidase. Both enzymes worked together to effectively degrade inulin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22286980", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 210, 
+            "offsetInEndSection": 317, 
+            "text": "The K (m) and V (max) values of the purified enzyme for inulin were 2.3 mg/mL and 4.8 mg/min, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22622836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Fructans were extracted from Agave salmiana juice, characterized and subjected to hydrolysis process using a commercial inulinase preparation acting freely. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22629216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 873, 
+            "offsetInEndSection": 1095, 
+            "text": "A comparatively lower Michaelis-Menten constant (2.15 mg/ml) and higher maximum initial velocity (115 \u00b5mol/min/mg of protein) for inulinase I on inulin demonstrated the exoinulinase's greater affinity for inulin substrate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24031675", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 432, 
+            "text": "Inulin was hydrolyzed by the purified enzyme, yielding d-fructose as the main product. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20597549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 681, 
+            "text": "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19514896", 
+            "endSection": "abstract"
+        }
+    ]
+}

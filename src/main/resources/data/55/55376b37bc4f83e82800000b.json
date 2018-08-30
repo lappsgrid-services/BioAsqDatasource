@@ -1,0 +1,332 @@
+{
+    "body": "Is CD99 encoded by MIC2 gene?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8399135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24322504", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17725386", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15978751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9623916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10492040", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24158076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1867320", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15359120", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10782405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11037347", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10941840", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9278313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22356523", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23644663", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21063743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25007147", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22020966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10688843"
+    ], 
+    "ideal_answer": [
+        "CD99 is a 32-kDa transmembrane glycoprotein that is encoded by the MIC2 gene  ", 
+        "CD99 is a transmembrane protein encoded by MIC2 gene. It is involved in multiple cellular functions, including cell adhesion and migration, apoptosis, cell differentiation, and regulation of protein trafficking, in either physiological or pathological conditions."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CD99_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "55376b37bc4f83e82800000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 285, 
+            "offsetInEndSection": 488, 
+            "text": "We report 2 unusual cytogenetic findings in a pediatric Ewing sarcoma, an insertion of the MIC2 gene encoding CD99 from Xp to 10p and a submicroscopic deletion of the well-known tumor supressor gene KLF6", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24322504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 609, 
+            "text": "We obtained the final diagnosis of ES/PNET by immunohistochemical molecular study with positive staining for the MIC2 gene product (CD99) and a Ewing sarcoma breakpoint region 1 (EWSR1) gene rearrangement", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24158076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 250, 
+            "text": "CD99, a transmembrane protein encoded by MIC2 gene is involved in multiple cellular events including cell adhesion and migration, apoptosis, cell differentiation and regulation of protein trafficking either in physiological or pathological conditions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23644663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "CD99 is a 32-kDa transmembrane glycoprotein that is encoded by the MIC2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 445, 
+            "text": "The surgical specimens showed small round cell tumor with positive staining for MIC2 gene product (CD99)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21063743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "CD99 is a 32-kDa transmembrane glycoprotein that is encoded by the MIC2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "The leukocyte surface molecule CD99 is an integral membrane glycoprotein encoded by the E2/MIC2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17725386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Human CD99, which is encoded by the mic2 gene, is a ubiquitous 32 kDa transmembrane protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15359120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 274, 
+            "offsetInEndSection": 374, 
+            "text": "Human CD99 is a 32-kDa cell surface protein that is encoded by the MIC2 gene localized to the PAR1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15978751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 561, 
+            "offsetInEndSection": 697, 
+            "text": "The tumors displayed intense immunoreactivity in a membranous pattern for CD99, the cell surface glycoprotein encoded by the MIC2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10782405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 251, 
+            "text": "CD99, a transmembrane protein encoded by MIC2 gene is involved in multiple cellular events including cell adhesion and migration, apoptosis, cell differentiation and regulation of protein trafficking either in physiological or pathological conditions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23644663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "CD99, the product of the MIC2 gene, exhibits an erythroid-specific quantitative polymorphism coregulated with the polymorphism of the XG blood group gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10688843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "CD99, the product of the MIC2 gene, exhibits an erythroid-specific quantitative polymorphism co-regulated with the Xga blood group polymorphism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10941840", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1031, 
+            "offsetInEndSection": 1183, 
+            "text": "Homology searches resulted in finding homologous sequences (totally about 40% homology) in the human MIC2 gene product (CD99; 32-kDa) of T lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9623916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Although considered a specific marker for Ewing's sarcoma/peripheral neuroectodermal tumour, the MIC2 gene product (CD99) has been immunolocalised in a variety of human tumours.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11037347", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 501, 
+            "offsetInEndSection": 615, 
+            "text": "MIC2, the gene encoding the CD99 antigen, is found in the pseudoautosomal region of both the X and Y chromosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22356523", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 376, 
+            "text": "Human CD99 is a 32-kDa cell surface protein that is encoded by the MIC2 gene localized to the PAR1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15978751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 564, 
+            "offsetInEndSection": 699, 
+            "text": "The tumors displayed intense immunoreactivity in a membranous pattern for CD99, the cell surface glycoprotein encoded by the MIC2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10782405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 153, 
+            "text": "CD99 (MIC2) regulates the LFA-1/ICAM-1-mediated adhesion of lymphocytes, and its gene encodes both positive and negative regulators of cellular adhesion.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9278313", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Relation of neurological marker expression and EWS gene fusion types in MIC2/CD99-positive tumors of the Ewing family.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10492040", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "The Ewing family of tumors (EFT) is characterized by high MIC2/CD99 expression and specific EWS/ETS gene rearrangements, resulting in different chimeric transcripts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10492040", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 701, 
+            "text": "The tumors displayed intense immunoreactivity in a membranous pattern for CD99, the cell surface glycoprotein encoded by the MIC2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10782405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "Monoclonal antibody (MAb) HBA71, which was raised against Ewing's sarcoma cells, recognizes a cell-surface glycoprotein, p30/32MIC2, that is encoded by the MIC2 gene in the pseudoautosomal region of human chromosomes X and Y.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1867320", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 295, 
+            "text": "Monoclonal antibodies (mAbs) directed against E2, a 32-kDa transmembrane protein encoded by the MIC2 gene located in the pseudoautosomal region, induce a transbilayer movement of phosphatidylserine and, to a lesser extent, phosphatidylethanolamine in human thymocytes and a Jurkat T lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8399135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1037, 
+            "offsetInEndSection": 1188, 
+            "text": "Homology searches resulted in finding homologous sequences (totally about 40% homology) in the human MIC2 gene product (CD99; 32-kDa) of T lymphocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9623916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "CD99 is a 32-kDa transmembrane glycoprotein that is encoded by the MIC2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22020966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 249, 
+            "text": "CD99, a transmembrane protein encoded by MIC2 gene is involved in multiple cellular events including cell adhesion and migration, apoptosis, cell differentiation and regulation of protein trafficking either in physiological or pathological conditions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23644663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 340, 
+            "offsetInEndSection": 444, 
+            "text": "The surgical specimens showed small round cell tumor with positive staining for MIC2 gene product (CD99)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21063743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 487, 
+            "text": "We report 2 unusual cytogenetic findings in a pediatric Ewing sarcoma, an insertion of the MIC2 gene encoding CD99 from Xp to 10p and a submicroscopic deletion of the well-known tumor supressor gene KLF6", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24322504", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 505, 
+            "offsetInEndSection": 617, 
+            "text": "MIC2, the gene encoding the CD99 antigen, is found in the pseudoautosomal region of both the X and Y chromosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22356523", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1034, 
+            "text": "Immunohistochemical analysis showed weak to moderate and partial staining for MIC2 (CD99) and WT1, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25007147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "Human CD99, which is encoded by the mic2 gene, is a ubiquitous 32 kDa transmembrane protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15359120", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "The leukocyte surface molecule CD99 is an integral membrane glycoprotein encoded by the E2/MIC2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17725386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 700, 
+            "text": "The tumors displayed intense immunoreactivity in a membranous pattern for CD99, the cell surface glycoprotein encoded by the MIC2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10782405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 375, 
+            "text": "Human CD99 is a 32-kDa cell surface protein that is encoded by the MIC2 gene localized to the PAR1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15978751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 506, 
+            "offsetInEndSection": 618, 
+            "text": "MIC2, the gene encoding the CD99 antigen, is found in the pseudoautosomal region of both the X and Y chromosomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22356523", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "CD99, the product of the MIC2 gene, exhibits an erythroid-specific quantitative polymorphism co-regulated with the Xga blood group polymorphism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10941840", 
+            "endSection": "abstract"
+        }
+    ]
+}

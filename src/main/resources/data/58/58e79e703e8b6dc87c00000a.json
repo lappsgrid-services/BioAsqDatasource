@@ -1,0 +1,43 @@
+{
+    "body": "What percentage of rheumatoid arthritis patients are responsive to anti-TNF therapy?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22044414", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24040234"
+    ], 
+    "ideal_answer": [
+        "Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies. Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients. ", 
+        "The introduction of anti-TNF therapy has dramatically improved the outlook for patients suffering from a number of inflammatory conditions including rheumatoid arthritis and inflammatory bowel disease. Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients.", 
+        "Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients. A substantial proportion of Rheumatoid Arthritis patients (approximately 30-40%) fail to respond to anti-TNF therapies.", 
+        "Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies. Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients.", 
+        "Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients. Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies. ", 
+        "strategies blocking tumor necrosis factor (anti-tnf) have proven very successful in patients with rheumatoid arthritis (ra) , showing beneficial effects in approximately 50-60% of the patients. . this , a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies . ", 
+        "Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients. The introduction of anti-TNF therapy has dramatically improved the outlook for patients suffering from a number of inflammatory conditions including rheumatoid arthritis and inflammatory bowel disease.", 
+        "treatment strategies blocking tumor necrosis factor (anti-tnf) have proven very successful in patients with rheumatoid arthritis (ra), showing beneficial effects in approximately 50-60% of the patients.", 
+        "Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies. ", 
+        "Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies.  Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients.", 
+        "Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients. Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies."
+    ], 
+    "exact_answer": [
+        "50-60%"
+    ], 
+    "type": "factoid", 
+    "id": "58e79e703e8b6dc87c00000a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 344, 
+            "text": "Despite this, a substantial proportion of patients (approximately 30-40%) fail to respond to these potentially toxic and expensive therapies. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22044414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "Treatment strategies blocking tumor necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA), showing beneficial effects in approximately 50-60% of the patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24040234", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "body": "What is the function of calcium-sensing receptor (CaSR)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21566074", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26386835", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23856267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26608608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26261299"
+    ], 
+    "ideal_answer": [
+        "The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis.\nThe CaSR is a key regulator for such diverse processes as hormone secretion, gene expression, inflammation, proliferation, differentiation, and apoptosis. Due to this pleiotropy, the CaSR is able to regulate cell fate and is implicated in the development of many types of benign or malignant tumours of the breast, prostate, parathyroid, and colon."
+    ], 
+    "exact_answer": [
+        "The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis."
+    ], 
+    "type": "factoid", 
+    "id": "58cd7fed02b8c6095300003f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26386835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 261, 
+            "text": "The calcium-sensing receptor (CaSR) plays a pivotal role in systemic calcium metabolism by regulating parathyroid hormone secretion and urinary calcium excretion. The CaSR is ubiquitously expressed, implying a wide range of functions regulated by this receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26608608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 689, 
+            "offsetInEndSection": 1037, 
+            "text": "The CaSR is a key regulator for such diverse processes as hormone secretion, gene expression, inflammation, proliferation, differentiation, and apoptosis. Due to this pleiotropy, the CaSR is able to regulate cell fate and is implicated in the development of many types of benign or malignant tumours of the breast, prostate, parathyroid, and colon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26608608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 326, 
+            "text": "Extracellular calcium-sensing receptor (CaSR) and ovarian cancer gene receptor 1 (OGR1) are two GPCRs that sense extracellular Ca(2+) and H(+), respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26261299", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 179, 
+            "text": " The calcium-sensing receptor (CASR) plays a key role in maintaining calcium homeostasis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21566074", 
+            "endSection": "abstract"
+        }
+    ]
+}

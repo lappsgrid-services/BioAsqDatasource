@@ -1,0 +1,128 @@
+{
+    "body": "Is the mouse Sry gene locus free of repetitive sequences?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10410901", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20851541", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24228692", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8747544", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9369180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8566785"
+    ], 
+    "ideal_answer": [
+        "We demonstrate that the presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells. We have found that in an in vitro assay, the SRY protein binds to several sites of the Sry gene and especially to a (CA)25 sequence and to a (CAG)30 repeat.", 
+        "The presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells.", 
+        "We demonstrate that the presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells Circularization requires the presence of both IR.", 
+        "We demonstrate that the presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells We have found that in an in vitro assay, the SRY protein binds to several sites of the Sry gene and especially to a (CA)25 sequence and to a (CAG)30 repeat", 
+        "We demonstrate that the presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells"
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58de34608acda3452900002b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 446, 
+            "offsetInEndSection": 608, 
+            "text": "We demonstrate that the presence of long inverted repeats (IR) flanking the mouse Sry gene leads to the formation of the Sry circular transcript in cultured cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8566785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 721, 
+            "text": "Circularization requires the presence of both IR. As few as 400 complementary nt are necessary for this process", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8566785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 830, 
+            "text": "The presence of the IR does not significantly stimulate intermolecular annealing and trans-splicing in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8566785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 397, 
+            "offsetInEndSection": 552, 
+            "text": "We have found that in an in vitro assay, the SRY protein binds to several sites of the Sry gene and especially to a (CA)25 sequence and to a (CAG)30 repeat", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8747544", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "The Q-rich domain of the mouse sex determining gene, Sry, is encoded by an in-frame insertion of a repetitive sequence composed of mostly CAG repeats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10410901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "Inverted repeat structure of the Sry locus in mice.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 442, 
+            "offsetInEndSection": 616, 
+            "text": "We performed separate amplifications of DXZ4 repetitive satellite sequences on the X chromosome, and SRY gene - testis determined factor on the Y chromosome, using nested PCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20851541", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 423, 
+            "text": "Detailed analysis of the Sry genomic locus reveals a further difference in that the mouse Sry open reading frame lies within 2.8 kilobases of unique sequence at the center of a large inverted repeat. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 422, 
+            "text": "Detailed analysis of the Sry genomic locus reveals a further difference in that the mouse Sry open reading frame lies within 2.8 kilobases of unique sequence at the center of a large inverted repeat.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 478, 
+            "text": "The mouse genomic Sry locus is characterized by two arms of a large inverted repeat, flanking a unique region that, between an acceptor and a donor splice site, contains a single exon encoding the Sry protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9369180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 563, 
+            "offsetInEndSection": 697, 
+            "text": "Recombination involving the repeat region may have led to an 11-kilobase deletion, precisely excising Sry in a line of XY female mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 792, 
+            "offsetInEndSection": 914, 
+            "text": "Repetitive element analysis revealed numerous LINE-L1 elements at regions where conservation is lost among the Sry copies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24228692", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 52, 
+            "text": "Inverted repeat structure of the Sry locus in mice.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1518820", 
+            "endSection": "title"
+        }
+    ]
+}

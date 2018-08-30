@@ -1,0 +1,62 @@
+{
+    "body": "What is a disordered protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25968230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25387963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26301226", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26195786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26417545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25715079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26015579"
+    ], 
+    "ideal_answer": [
+        "Intrinsically disordered proteins lack stable tertiary and/or secondary structures under physiological conditions in vitro. Intrinsically disordered proteins undergo significant conformational transitions to well folded forms only on binding to partner."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016485"
+    ], 
+    "type": "summary", 
+    "id": "56d12d643975bb303a000014", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 334, 
+            "text": "Intrinsically disordered proteins (IDPs) are ubiquitously involved in cellular processes and often implicated in human pathological conditions. The critical biological roles of these proteins, despite not adopting a well-defined fold, encouraged structural biologists to revisit their views on the protein structure-function paradigm.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26301226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 275, 
+            "text": "Intrinsically disordered proteins (IDPs) frequently function in protein interaction networks that regulate crucial cellular signaling pathways. Many IDPs undergo transitions from disordered conformational ensembles to folded structures upon binding to their cellular targets.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26195786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 243, 
+            "text": "The intrinsically disordered protein (IDP) stathmin plays an important regulatory role in cytoskeletal maintenance through its helical binding to tubulin and microtubules. However, it lacks a stable fold in the absence of its binding partner. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25715079", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 253, 
+            "text": "Intrinsically disordered proteins lack stable tertiary and/or secondary structures under physiological conditions in vitro. Intrinsically disordered proteins undergo significant conformational transitions to well folded forms only on binding to partner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25387963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1419, 
+            "offsetInEndSection": 1655, 
+            "text": "DisCons is an openly accessible sequence analysis tool that identifies and highlights structurally disordered segments of proteins where the conformational flexibility is conserved across homologs, and therefore potentially functional. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25968230", 
+            "endSection": "abstract"
+        }
+    ]
+}

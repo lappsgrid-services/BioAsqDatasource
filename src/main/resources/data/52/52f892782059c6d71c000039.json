@@ -1,0 +1,85 @@
+{
+    "body": "What is the association between number of pregnancies and rheumatoid arthritis", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2819350", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23070994", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22012422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10342392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12839599"
+    ], 
+    "ideal_answer": [
+        "Greater parity significantly reduced the odds of RA. A larger number of pregnancies and late menopause show a protective effect, delaying the onset of the disease."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001172", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011247"
+    ], 
+    "type": "summary", 
+    "id": "52f892782059c6d71c000039", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1230, 
+            "offsetInEndSection": 1309, 
+            "text": "In this unique population, greater parity significantly reduced the odds of RA;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23070994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1310, 
+            "offsetInEndSection": 1628, 
+            "text": "an early age at first birth increased the odds, and the postpartum period was confirmed as high risk for RA onset. The protective effect of repeated exposure to the ameliorating hormonal and immunological changes of pregnancy may counterbalance the effect of early exposure to the postpartum reversal of these changes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23070994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1000, 
+            "offsetInEndSection": 1088, 
+            "text": "We found an inverse correlation between the number of pregnancies and age at onset of RA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22012422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1201, 
+            "offsetInEndSection": 1311, 
+            "text": "A larger number of pregnancies and late menopause show a protective effect, delaying the onset of the disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22012422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 205, 
+            "text": "Since the landmark study on rheumatoid arthritis, many reports have suggested that physiological changes during pregnancy often induce remission of systemic and cutaneous inflammatory diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12839599", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1857, 
+            "offsetInEndSection": 2021, 
+            "text": "Literature review shows that at best, there are weak negative associations between current estrogen use and RA, and no association with nulliparity and infertility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10342392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2035, 
+            "offsetInEndSection": 2494, 
+            "text": "It appears that infertility, the number of pregnancies, and pregnancy outcome are not strongly associated with the risk of developing RA in women of childbearing age. However, in this study there may have been selection biases in the women with RA and the controls that differentially could have affected their reproductive outcomes. Thus, a true association could have been missed. Most other published studies find no association between nulliparity and RA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10342392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 867, 
+            "offsetInEndSection": 949, 
+            "text": "Number of pregnancies and children, however, were significantly higher in controls", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2819350", 
+            "endSection": "abstract"
+        }
+    ]
+}

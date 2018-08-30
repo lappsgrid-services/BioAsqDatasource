@@ -1,0 +1,64 @@
+{
+    "body": "Does GATA-1 regulate ribosomal protein genes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19587786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10224082", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24453067"
+    ], 
+    "ideal_answer": [
+        "Mutations in exon 2 interfere with the synthesis of the full-length isoform of GATA-1 and lead to the production of a shortened isoform, GATA-1s. These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins. Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, tumorigenesis or leukemia (e.g. GATA-1/2, PU.1, MZF-1). ", 
+        "in exon 2 interfere with the synthesis of the full-length isoform of gata-1 and lead to the production of a shortened isoform , gata-1s these mutations have been found in patients with diamond-blackfan anemia (dba) , a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins. . of the corresponding transcription factors are of particular interest , as they are housekeeping genes or show a direct link to hematopoiesis , tumorigenesis or leukemia (e.g gata-1/2 , pu.1 , mzf-1). . ", 
+        "These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins. Mutations in exon 2 interfere with the synthesis of the full-length isoform of GATA-1 and lead to the production of a shortened isoform, GATA-1s. Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, tumorigenesis or leukemia (e.g. GATA-1/2, PU.1, MZF-1). ", 
+        "These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins. Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, tumorigenesis or leukemia (e.g.", 
+        "These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins. The Ribosomal protein S19 gene locus (RPS19) has been linked to two kinds of red cell aplasia, Diamond-Blackfan Anemia (DBA) and Transient Erythroblastopenia in Childhood (TEC).", 
+        "Mutations in exon 2 interfere with the synthesis of the full-length isoform of GATA-1 and lead to the production of a shortened isoform, GATA-1s. These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins.", 
+        "mutations in exon 2 interfere with the synthesis of the full-length isoform of gata-1 and lead to the production of a shortened isoform, gata-1s.", 
+        "yes", 
+        "Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, tumorigenesis or leukemia (e.g. GATA-1/2, PU.1, MZF-1). Mutations in exon 2 interfere with the synthesis of the full-length isoform of GATA-1 and lead to the production of a shortened isoform, GATA-1s. These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58e782fd3e8b6dc87c000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 451, 
+            "text": "Mutations in exon 2 interfere with the synthesis of the full-length isoform of GATA-1 and lead to the production of a shortened isoform, GATA-1s. These mutations have been found in patients with Diamond-Blackfan anemia (DBA), a congenital erythroid aplasia typically caused by mutations in genes encoding ribosomal proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24453067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1248, 
+            "offsetInEndSection": 1453, 
+            "text": "Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, tumorigenesis or leukemia (e.g. GATA-1/2, PU.1, MZF-1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19587786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 885, 
+            "offsetInEndSection": 1028, 
+            "text": "Deletion of PKC1 relieves the repression of both ribosomal protein and rRNA genes that occurs in response to a defect in the secretory pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10224082", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1197, 
+            "offsetInEndSection": 1360, 
+            "text": "This stress is monitored by Pkc1p, which initiates a signal transduction pathway that leads to repression of transcription of the rRNA and ribosomal protein genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10224082", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1361, 
+            "offsetInEndSection": 1578, 
+            "text": "The importance of the transcription of the 137 ribosomal protein genes to the economy of the cell is apparent from the existence of at least three distinct pathways that can effect the repression of this set of genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10224082", 
+            "endSection": "abstract"
+        }
+    ]
+}

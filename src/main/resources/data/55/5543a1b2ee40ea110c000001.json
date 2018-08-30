@@ -1,0 +1,222 @@
+{
+    "body": "In what type(s) of plant organelles we can detect prolamellar bodies?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24232321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23415648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22704664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24151298", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18071923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12602886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11532175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23777838", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14581621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10080697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22278767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24249610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20012672", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22573443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12447549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1467651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20616380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16228577", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16229815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/13376637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19222806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16663945"
+    ], 
+    "ideal_answer": [
+        "Prolamellar body (PLB) is a highly organized lipid structure, which is the main site of accumulation of the ternary light-harvesting POR complex LHPP (light-harvesting NADPH:protochlorophyllide oxidoreductase:protochlorophyllide). Prolamellar bodies have been discovered in etioplasts with the use of thin section electron microscopy. Etioplasts develop in the place of chloroplasts in the dark. During skotomorphogenesis in angiosperms, NADPH:protochlorophyllide oxidoreductase (POR) forms the photolabile NADPH-POR-protochlorophyllide (Pchlide) ternary complexes. Prolamellar bodies (PLBs) efficiently capture the light energy for photo conversion in etioplasts. Upon illumination, the etioplasts transformed into regular chloroplasts. PLBs are formed not only in etioplasts but also in chloroplasts in young developing leaves during the night."
+    ], 
+    "exact_answer": [
+        [
+            "etioplasts (mainly)"
+        ], 
+        [
+            "chloroplasts (in young developing leaves during the night)"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009541", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043226"
+    ], 
+    "type": "list", 
+    "id": "5543a1b2ee40ea110c000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 881, 
+            "offsetInEndSection": 1097, 
+            "text": "CPP1 depletion also causes reduced POR accumulation in etioplasts of dark-grown plants and as a result impairs the formation of prolamellar bodies, which subsequently affects chloroplast biogenesis upon illumination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24151298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Prolamellar bodies (PLBs) isolated from etiolated wheat seedlings were studied with the use of atomic force microscopy (AFM), transmission electron microscopy (TEM) and fluorescence spectroscopy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23777838", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 421, 
+            "text": "TEM analyses confirmed that PLBs of wheat leaf etioplasts also had an average diameter of appr. 1\u03bcm", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23777838", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 502, 
+            "offsetInEndSection": 796, 
+            "text": "etioplasts with prolamellar bodies (PLBs) and photoactive, 655nm emitting Pchlide form accumulated primarily in the basal leaf regions after 2 weeks of regeneration. When these latter leaves were illuminated with continuous light for 3 days, the etioplasts transformed into regular chloroplasts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23415648", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1100, 
+            "text": "POR complex assembly (including LHPP and POR dimers) did not affect the formation of prolamellar bodies (PLBs) that function for efficient capture of light energy for photo conversion in etioplasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22704664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 453, 
+            "offsetInEndSection": 674, 
+            "text": "Etioplasts that develop in the place of chloroplasts in the dark contain a highly organized lipid structure termed prolamellar body (PLB), which is the main site of accumulation of the ternary Pchlide:POR:NADPH complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22573443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 235, 
+            "text": "During skotomorphogenesis in angiosperms, NADPH:protochlorophyllide oxidoreductase (POR) forms an aggregate of photolabile NADPH-POR-protochlorophyllide (Pchlide) ternary complexes localized to the prolamellar bodies within etioplasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22278767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 716, 
+            "offsetInEndSection": 944, 
+            "text": "The content of the supramolecular light-harvesting POR complex LHPP (light-harvesting NADPH:protochlorophyllide oxidoreductase:protochlorophyllide) and the density of prolamellar bodies in etioplasts are decreased in the mutant.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20616380", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 734, 
+            "text": "The Arabidopsis porB-1 porC-1 mutant displays a severe xantha (highly chlorophyll-deficient) phenotype characterized by smaller prolamellar bodies in etioplasts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20012672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 644, 
+            "text": "The most notable contributions of thin section electron microscopy include the elucidation of the 3-D organization of thylakoid membranes, the discovery of prolamellar bodies in etioplasts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16228577", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 809, 
+            "text": "This resulted in the recovery of thylakoid membrane stacking in chloroplasts in the light, and the formation of prolamellar bodies and plastoglobuli in etioplasts in the dark.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12447549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "The prolamellar body (PLB) proteome of dark-grown wheat leaves was characterized. PLBs are formed not only in etioplasts but also in chloroplasts in young developing leaves during the night", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18071923", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "A fraction of highly purified prolamellar bodies was isolated from etioplasts of wheat (Triticum aestivum L.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24249610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 588, 
+            "text": "The highest specific activity of the enzyme in etiolated leaf tissue was confirmed to be in the fraction of prolamellar bodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24249610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1153, 
+            "offsetInEndSection": 1311, 
+            "text": "This work reveals a new view on the formation of prolamellar bodies and provides new clues about the function of POR in the etioplast-chloroplast transition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19222806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 780, 
+            "text": "The Arabidopsis porB-1 porC-1 mutant displays a severe xantha (highly chlorophyll-deficient) phenotype characterized by smaller prolamellar bodies in etioplasts and decreased thylakoid stacking in chloroplasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20012672", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 628, 
+            "offsetInEndSection": 810, 
+            "text": "Transmission electron microscopy revealed partially developed, agranal plastids in the dark-grown mutant, unlike wild-type seedlings that contain etioplasts with prolamellar bodies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1467651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Organization of protochlorophyllide oxidoreductase in prolamellar bodies isolated from etiolated carotenoid-deficient wheat leaves as revealed by fluorescence probes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16229815", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 879, 
+            "offsetInEndSection": 1062, 
+            "text": "In fully etiolated leaves lamellae are absent and the prolamellar bodies become quite large, presumably because of inhibition of the fusion step which appears to require chlorophyll.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/13376637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 183, 
+            "offsetInEndSection": 397, 
+            "text": "POR is a peripheral membrane protein that accumulates to high levels in the prolamellar bodies of vascular plant etioplasts and is present at low levels in the thylakoid membranes of developing and mature plastids.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10080697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1163, 
+            "offsetInEndSection": 1320, 
+            "text": "This work reveals a new view on the formation of prolamellar bodies and provides new clues about the function of POR in the etioplast-chloroplast transition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19222806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1114, 
+            "offsetInEndSection": 1300, 
+            "text": "The results presented in this paper are not consistent with the hypothesis that the molar ratio of MGDG/DGDG is responsible for the tubular structure of prolamellar bodies in etioplasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24232321", 
+            "endSection": "abstract"
+        }
+    ]
+}

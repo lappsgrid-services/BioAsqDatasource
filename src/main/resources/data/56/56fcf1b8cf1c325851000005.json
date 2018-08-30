@@ -1,0 +1,64 @@
+{
+    "body": "Which type of genes are modulated by SATB1?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15371550", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16034473", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21841785"
+    ], 
+    "ideal_answer": [
+        "Lack of effector T cell (T(eff) cell) function and gain of suppressive activity by T(reg) cells are dependent on the transcriptional program induced by Foxp3. Here we report that repression of SATB1, a genome organizer that regulates chromatin structure and gene expression, was crucial for the phenotype and function of T(reg) cells. Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines. At an Associative t-test threshold of P", 
+        "Repression of the genome organizer SATB1 in regulatory T cells is required for suppressive function and inhibition of effector differentiation", 
+        "Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines."
+    ], 
+    "exact_answer": [
+        "it supresses cell cytokines and differentiation genes"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/SATB1_HUMAN", 
+        "http://www.uniprot.org/uniprot/SATB1_MOUSE"
+    ], 
+    "type": "factoid", 
+    "id": "56fcf1b8cf1c325851000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Repression of the genome organizer SATB1 in regulatory T cells is required for suppressive function and inhibition of effector differentiation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21841785", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 424, 
+            "text": "SATB1, a genome organizer that regulates chromatin structure and gene expression, was crucial for the phenotype and function of T(reg) cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21841785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 616, 
+            "text": "Foxp3, acting as a transcriptional repressor, directly suppressed the SATB1 locus and indirectly suppressed it through the induction of microRNAs that bound the SATB1 3' untranslated region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21841785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 617, 
+            "offsetInEndSection": 806, 
+            "text": "Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21841785", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1096, 
+            "offsetInEndSection": 1298, 
+            "text": "Consistent with previous reports in a non-superantigen in vivo anergy model, mRNA for CD18 and the transcription factor Satb1 (special AT-rich-binding protein 1) was increased in SEB-energized T cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16034473", 
+            "endSection": "abstract"
+        }
+    ]
+}

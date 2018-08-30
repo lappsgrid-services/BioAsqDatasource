@@ -1,0 +1,84 @@
+{
+    "body": "What is the sedimentation coefficient of the mammalian mitoribosome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11402041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15966747", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11943462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14757048", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6284743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19567276"
+    ], 
+    "ideal_answer": [
+        "The mammalian mitochondrial ribosome (mitoribosome) has a highly protein-rich composition with a small sedimentation coefficient of 55 S, consisting of 39 S large and 28 S small subunits."
+    ], 
+    "exact_answer": [
+        "55 S"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005762", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005761", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012270", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005840", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003735"
+    ], 
+    "type": "factoid", 
+    "id": "55201a316b348bb82c000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 75, 
+            "offsetInEndSection": 119, 
+            "text": " The mammalian mitochondrial ribosomes (55S)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11943462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "The mammalian mitochondrial ribosome (mitoribosome) has a highly protein-rich composition with a small sedimentation coefficient of 55 S, consisting of 39 S large and 28 S small subunits.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11402041", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 175, 
+            "text": "The 55 S mammalian mitochondrial ribosome (referred to hereafter as \"mitoribosome\") is protein-rich, containing nearly twice as much protein as the Escherichia coli ribosome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6284743", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 751, 
+            "offsetInEndSection": 860, 
+            "text": "59 of 78 proteins of the 55S mitoribosome, several TIM and TOM proteins and cell death proteins were present.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19567276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 344, 
+            "text": "The sedimentation coefficient of the intact monosome was about 55 S. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15966747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 874, 
+            "offsetInEndSection": 1024, 
+            "text": "Though the nematode mitoribosome has a larger size than the bacterial ribosome, it does not differ significantly in size from mammalian mitoribosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15966747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "The mammalian mitochondrial (mt) ribosome (mitoribosome) is a bacterial-type ribosome but has a highly protein-rich composition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14757048", 
+            "endSection": "abstract"
+        }
+    ]
+}

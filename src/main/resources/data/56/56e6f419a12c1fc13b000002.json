@@ -1,0 +1,49 @@
+{
+    "body": "Is LPS a microbial product?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25957290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18406367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26029695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25259707"
+    ], 
+    "ideal_answer": [
+        "Yes, the lipopolysaccharide (LPS) is a component of the bacterial cell wall."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "56e6f419a12c1fc13b000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 321, 
+            "text": "and microbial translocation [lipopolysaccaride (LPS), microbial 16S rDNA and sCD14] ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25259707", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Lipopolysaccharide sensing an important factor in the innate immune response to Gram-negative bacterial infections", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18406367", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 793, 
+            "offsetInEndSection": 827, 
+            "text": "bacterial lipopolysaccharide (LPS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26029695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 227, 
+            "offsetInEndSection": 327, 
+            "text": "sterile bacterial wall lipopolysaccharide (LPS) to investigate the changes in innate lung microbiota", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25957290", 
+            "endSection": "abstract"
+        }
+    ]
+}

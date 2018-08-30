@@ -1,0 +1,249 @@
+{
+    "body": "What tissue is most affected in Ehlers-Danlos syndromes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26958560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15589118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26452443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22981642", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25103963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15817074", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8526413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26433894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16513057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27084695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11642233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16338669", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9762220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24278273", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18328988", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27931023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22871544", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17621503", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20847697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25518796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21667916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23405630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16638060", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2721265"
+    ], 
+    "ideal_answer": [
+        "the ehlers-danlos syndromes (eds) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility.", 
+        "The Ehlers-Danlos syndromes (EDS) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility.", 
+        "The Ehlers-Danlos syndromes (EDS) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility. "
+    ], 
+    "exact_answer": [
+        "connective tissue"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004535", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13359", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14759", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14757", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14756", 
+        "http://www.disease-ontology.org/api/metadata/DOID:14720"
+    ], 
+    "type": "factoid", 
+    "id": "58cdb41302b8c60953000042", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "The Ehlers-Danlos syndromes (EDS) are a group of connective tissue disorders characterized by triad of joint hypermobility, skin extensibility, and tissue fragility. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26958560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Ehlers-Danlos syndromes (EDSs) constitute a rare group of inherited connective tissue diseases, characterized by multisystemic manifestations and general tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27931023", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Ehlers-Danlos syndromes (EDS) are a heterogeneous group of hereditary connective tissue disorders characterized by joint hypermobility, widespread musculoskeletal pain and tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26433894", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "The Ehlers-Danlos syndromes (EDS) comprise a heterogenous group of heritable disorders of connective tissue, characterized by joint hypermobility, skin hyperextensibility and tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15817074", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Ehlers-Danlos syndrome denotes a group of inherited connective tissue diseases comprising nine types.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9762220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 210, 
+            "text": "The Ehlers-Danlos syndromes comprise a clinically and genetically heterogeneous group of heritable connective tissue disorders characterized by articular hypermobility, skin extensibility, and tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21667916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Ehlers-Danlos syndrome is a heterogeneous group of heritable connective tissue disorders characterized by increased fragility of various non-ossified tissues", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26452443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 219, 
+            "text": "The Ehlers-Danlos Syndrome (EDS) is a rare connective tissue disorder characterised by fragility of the soft connective tissues and widespread manifestations in skin, ligaments, joints, blood vessels and internal organs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22981642", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "The Ehlers-Danlos syndromes (EDS) comprise a heterogenous group of heritable disorders of connective tissue, characterized by joint hypermobility, skin hyperextensibility and tissue fragility", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15817074", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Ehlers-Danlos syndromes (EDS) are a heterogeneous group of heritable connective tissue disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24278273", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "The Ehlers-Danlos syndromes (EDS) are a heterogeneous group of inherited connective tissue disorders characterized by tissue fragility, hyperelasticity of the skin and joint hypermobility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15589118", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Ehlers-Danlos syndrome (EDS), a heterogeneous group of inheritable connective tissue disorders, is attributed to mutations in connective tissue genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16338669", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Ehlers-Danlos syndrome is a heterogeneous group of heritable connective tissue disorders characterized by increased fragility of various non-ossified tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26452443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 208, 
+            "text": "The Ehlers-Danlos syndrome encompasses a group of hereditary disorders of the connective tissue, characterized by hyperextensible skin, joint hypermobility; and varying degrees of vessel and tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16638060", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Ehlers-Danlos syndrome is an inherited connective tissue disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2721265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "The Ehlers-Danlos syndrome is a heritable connective-tissue disorder caused by defects in fibrillar-collagen metabolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11642233", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 105, 
+            "text": "The Ehlers-Danlos syndrome (EDS) comprises a group of hereditary connective tissue disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15994863", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Ehlers-Danlos syndrome type 4, the vascular type, is a rare, life-threatening inherited disorder of the connective tissue.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22871544", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 86, 
+            "text": "The Ehlers-Danlos syndrome is characterized by abnormal connective tissue ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27084695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Ehlers-Danlos syndrome is a complex hereditary connective tissue disorder that is characterized by abnormalities of the skin and joints and visceral and neurological manifestation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17621503", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "The Ehlers-Danlos syndromes (EDS) are a group of heritable connective tissue disorders that share the common features of skin hyperextensibility, articular hypermobility, and tissue fragility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8526413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 193, 
+            "text": "The Ehlers-Danlos syndromes (EDS) are a heterogeneous group of heritable connective tissue disorders characterised by joint hypermobility, involvement of skin and tissue fragility", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16513057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 134, 
+            "text": "Ehlers-Danlos syndrome (EDS), inherited disorder of connective tissue, frequently leads to impairment of various functional areas,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23405630", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 331, 
+            "text": "classic form of Ehlers-Danlos syndrome (cEDS) is an inherited connective tissue disorder, where mutations in type V collagen-encoding genes result in abnormal collagen fibrils. Thus the cEDS patients have pathological connective tissue morphology and low stiffness, but the rate of connective tissue protein turnover is unknown", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25103963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "Classic Ehlers-Danlos syndrome is a heritable connective tissue disorder characterized by skin hyperextensibility, fragile and soft skin, delayed wound healing with formation of atrophic scars, easy bruising, and generalized joint hypermobility", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20847697", 
+            "endSection": "abstract"
+        }
+    ]
+}

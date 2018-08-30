@@ -1,0 +1,73 @@
+{
+    "body": "What is the rate of survival after commotio cordis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23107651", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23015869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11879111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11555799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21763255", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20086611"
+    ], 
+    "ideal_answer": [
+        "Survival rates for commotio cordis are low, even when resuscitation is performed. Survival rates vary between 10% and 28%."
+    ], 
+    "exact_answer": [
+        "10-28%"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013534", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056104"
+    ], 
+    "type": "factoid", 
+    "id": "530cf4e0c8a0b4a00c000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 592, 
+            "offsetInEndSection": 779, 
+            "text": "At their commotio cordis event, 216 study patients were 0.2-51 years old (mean age 15\u00b19 years); 95% were males. Death occurred in 156 individuals (72%), while the other 60 (28%) survived.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23107651", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 740, 
+            "offsetInEndSection": 864, 
+            "text": "In the 2 groups, events were largely similar demographically, including frequency of survival (26% in U.S. vs 25%; P = .84),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21763255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1443, 
+            "offsetInEndSection": 1508, 
+            "text": "Survival of commotio cordis has risen from 10% to 15% since 2001.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23015869", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1388, 
+            "offsetInEndSection": 1622, 
+            "text": "Only 21 (16%) individuals survived their event, with particularly prompt cardiopulmonary resuscitation/defibrillation (most commonly reversing ventricular fibrillation) the only identifiable factor associated with a favorable outcome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11879111", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 351, 
+            "offsetInEndSection": 435, 
+            "text": "Survival rates for commotio cordis are low, even with prompt CPR and defibrillation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11555799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 481, 
+            "offsetInEndSection": 536, 
+            "text": "Survival is low, even when resuscitation is performed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20086611", 
+            "endSection": "abstract"
+        }
+    ]
+}

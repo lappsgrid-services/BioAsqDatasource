@@ -1,0 +1,60 @@
+{
+    "body": "Why is lock mass used in Orbitrap measurements?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21133379", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22941912", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21953191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16249172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16478717"
+    ], 
+    "ideal_answer": [
+        "The lock mass is a compound of known mass and is used to compensate for drifts in instrument calibration."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013058"
+    ], 
+    "type": "summary", 
+    "id": "530b01a6970c65fa6b000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1060, 
+            "offsetInEndSection": 1123, 
+            "text": "Benzyldimethylphenylammonium was used as an internal lock mass.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22941912", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 243, 
+            "offsetInEndSection": 409, 
+            "text": "To compensate for drifts in instrument calibration, a compound of known mass is often employed. This 'lock mass' provides an internal mass standard in every spectrum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21953191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 343, 
+            "offsetInEndSection": 569, 
+            "text": "The use of mass calibrants (lock masses) to reduce the systematic error of mass-to-charge measurements has also been reported and, in some cases, incorporated in the instrument control software by the instrument manufacturers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21133379", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 845, 
+            "text": "We achieved absolute mass accuracies for intact proteins between 0.92 and 2.8 ppm using the \"lock mass\" mode of operation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16478717", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 635, 
+            "offsetInEndSection": 772, 
+            "text": "Real time recalibration on the \"lock mass\" by corrections of mass shift removes mass error associated with calibration of the mass scale.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16249172", 
+            "endSection": "abstract"
+        }
+    ]
+}

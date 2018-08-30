@@ -1,0 +1,96 @@
+{
+    "body": "List the human genes encoding for the dishevelled proteins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12883684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24040443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19618470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8817329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8856345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23836490", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8149913", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7958461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16457155"
+    ], 
+    "ideal_answer": [
+        "DVL-1\nDVL-2\nDVL-3"
+    ], 
+    "exact_answer": [
+        [
+            "DVL-1"
+        ], 
+        [
+            "DVL-2"
+        ], 
+        [
+            "DVL-3"
+        ]
+    ], 
+    "type": "list", 
+    "id": "5709e4b2cf1c32585100001c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 294, 
+            "offsetInEndSection": 516, 
+            "text": "Dishevelled (Dvl/Dsh) is a multi-module protein and a key regulator of both the canonical Wnt and the PCP pathway. In mouse, all Dvl1(-/-) ; Dvl2(-/-) double mutants display craniorachischisis, a severe form of open NTDs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23836490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 511, 
+            "text": " In this study, we explore the cause of HSCR by studying the expression of DVL-1 and DVL-3 genes and their proteins in the aganglionic segment and the ganglionic segment of colon in HSCR patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24040443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 299, 
+            "text": "Dishevelled (Dvl) proteins are key transducers of Wnt signaling encoded by members of a multi-gene family in vertebrates. We report here the divergent, tissue-specific expression patterns for all three Dvl genes in Xenopus embryos, which contrast dramatically with their expression patterns in mice.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19618470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 346, 
+            "text": "velopmental processes, including segmentation and neuroblast specification. We have isolated and characterized cDNA clones from two different human dsh-homologous genes, designated as DVL-1 and DVL-3. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8817329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 394, 
+            "text": "In the Drosophila embryo dishevelled (dsh) function is required by target cells in order to respond to wingless (wg, the homolog of Wnt-1), demonstrating a role for dsh in Wnt signal transduction. We have isolated a mouse homolog of the Drosophila dsh segment polarity gene. The 695-amino-acid protein encoded by the mouse dishevelled gene (Dvl-1) shares 50% identity (65% similarity) with dsh.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7958461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 282, 
+            "text": "The Dvl-1 gene on chromosome 1p36 belongs to a family of highly conserved secreted proteins which regulates embryonic induction, generation of cell polarity and specification of cell fate through activation of Wnt signaling pathways. Wnt signaling activates the gene encoding DVL-1;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12883684", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 453, 
+            "offsetInEndSection": 629, 
+            "text": "We report here that the mouse Dishevelled-1 (Dvl-1) and Dishevelled-2 genes encode proteins that are differentially localized in Wnt-overexpressing PC12 cell lines (PC12/Wnt). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8856345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 152, 
+            "offsetInEndSection": 255, 
+            "text": "Recently, the DVL1 gene was identified as a middle molecule of the Wnt/beta-catenin signaling pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16457155", 
+            "endSection": "abstract"
+        }
+    ]
+}

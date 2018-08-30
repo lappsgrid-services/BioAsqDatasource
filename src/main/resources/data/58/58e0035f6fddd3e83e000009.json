@@ -1,0 +1,32 @@
+{
+    "body": "List the three main structures of the cytoskeleton.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26498781"
+    ], 
+    "ideal_answer": [
+        "Fibrillar polymers-actin filaments, microtubules, and intermediate filaments-are major constituents of the cytoskeleton."
+    ], 
+    "exact_answer": [
+        [
+            "actin filaments"
+        ], 
+        [
+            "microtubules"
+        ], 
+        [
+            "intermediate filaments"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58e0035f6fddd3e83e000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 177, 
+            "offsetInEndSection": 297, 
+            "text": "Fibrillar polymers-actin filaments, microtubules, and intermediate filaments-are major constituents of the cytoskeleton,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26498781", 
+            "endSection": "abstract"
+        }
+    ]
+}

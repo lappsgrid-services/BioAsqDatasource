@@ -1,0 +1,274 @@
+{
+    "body": "Which are the inhibitors of histone methyltransferases?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23557020", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22522911", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22924785", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21940714", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23077658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23092945", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23139138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20567762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23379261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22357272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22781932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23011794", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22964322", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22420752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19860425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22560341", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22429326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22904200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20556507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21546573", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21936531", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22665483"
+    ], 
+    "ideal_answer": [
+        "In general, histone methyltransferases (HMTs) have no widely approved high-throughput screening assay format, and therefore reference inhibitors are not available for many of the HMTs. However, there are several selective HMT inhibitors: Trichostatin A (TSA), BIX-01294 and its derivative TM2-115, 2,4-pyridinedicarboxylic acid (2,4-PDCA), 3-deazaneplanocin A (DZNep), Psammaplin A (PsA) and Sulforaphane (SFN)."
+    ], 
+    "exact_answer": [
+        [
+            "BIX-01294"
+        ], 
+        [
+            "TM2-115"
+        ], 
+        [
+            "2,4-pyridinedicarboxylic acid", 
+            "2,4-PDCA"
+        ], 
+        [
+            "3-deazaneplanocin A", 
+            "DZNep"
+        ], 
+        [
+            "Trichostatin A", 
+            "TSA"
+        ], 
+        [
+            "Psammaplin A", 
+            "PsA"
+        ], 
+        [
+            "Sulforaphane", 
+            "SFN"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056572", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0042054"
+    ], 
+    "type": "list", 
+    "id": "5166f41a298dcd4e5100005b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 559, 
+            "offsetInEndSection": 722, 
+            "text": "However, in general, HMTs have no widely accepted high-throughput screening (HTS) assay format, and reference inhibitors are not available for many of the enzymes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23557020", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Small-molecule histone methyltransferase inhibitors display rapid antimalarial activity against all blood stage forms in Plasmodium falciparum.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23011794", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 675, 
+            "text": "We synthesized a compound library based upon a known specific inhibitor (BIX-01294) of the human G9a histone methyltransferase. Two compounds, BIX-01294 and its derivative TM2-115, inhibited P. falciparum 3D7 parasites in culture with IC(50) values of ~100 nM, values at least 22-fold more potent than their apparent IC(50) toward two human cell lines and one mouse cell line.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23011794", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1323, 
+            "offsetInEndSection": 1486, 
+            "text": "Together, these results suggest that BIX-01294 and TM2-115 inhibit malaria parasite histone methyltransferases, resulting in rapid and irreversible parasite death.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23011794", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Synthesis and structure-activity relationship investigation of adenosine-containing inhibitors of histone methyltransferase DOT1L.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22924785", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 159, 
+            "offsetInEndSection": 329, 
+            "text": "A total of 55 adenosine-containing compounds were designed and synthesized, among which several potent DOT1L inhibitors were identified with K(i) values as low as 0.5 nM.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22924785", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 606, 
+            "offsetInEndSection": 773, 
+            "text": "Several new reagents and assays were developed to aid in the identification of EZH2 inhibitors, and these were used to execute two high-throughput screening campaigns.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22904200", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 83, 
+            "offsetInEndSection": 396, 
+            "text": "Of the five histone methyltransferases known to mediate methylation of the lysine 9 residue of histone H3 (H3K9), euchromatic histone-lysine N-methyltransferase 2 (EHMT2; also known as G9a) has been shown to be a primary mediator of H3K9 dimethylation; BIX-01294 has been shown to be a specific inhibitor of EHMT2", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22781932", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 675, 
+            "text": "We hypothesised that inhibition of EHMT2 by BIX-01294 would result in reduced levels of H3K9 dimethylation and compromised embryo development.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22781932", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 971, 
+            "offsetInEndSection": 1135, 
+            "text": "We also demonstrate that peptides that mimic SET1 family Win motif sequences inhibit H3K4 dimethylation by the MLL1 core complex with varying degrees of efficiency.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22665483", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Studies of H3K4me3 demethylation by KDM5B/Jarid1B/PLU1 reveals strong substrate recognition in vitro and identifies 2,4-pyridine-dicarboxylic acid as an in vitro and in cell inhibitor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22420752", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1264, 
+            "offsetInEndSection": 1451, 
+            "text": "Inhibition studies of ccKDM5B showed both in vitro and in cell inhibition of ccKDM5B by 2,4-pyridinedicarboxylic acid (2,4-PDCA) with a potency similar to that reported for the HDM KDM4C.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22420752", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1011, 
+            "offsetInEndSection": 1220, 
+            "text": "Treatment with 3-deazaneplanocin A (DZNep), an inhibitor of H3K27me3 and H4K20me3, significantly enhanced the BZLF1 transcription in Raji cells when in combination with an HDAC inhibitor, trichostatin A (TSA).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22357272", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1235, 
+            "offsetInEndSection": 1552, 
+            "text": "All assays allowed profiling of known SET7/9 and LSD1 inhibitors. The results demonstrate that the optimized LANCE Ultra and AlphaLISA assay formats provide a relevant biochemical screening approach toward the identification of small-molecule inhibitors of HMTs and HDMs that could lead to novel epigenetic therapies.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21940714", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Selective inhibitors of histone methyltransferase DOT1L: design, synthesis, and crystallographic studies.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21936531", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 145, 
+            "offsetInEndSection": 273, 
+            "text": "We used structure- and mechanism-based design to discover several potent inhibitors of DOT1L with IC(50) values as low as 38 nM.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21936531", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Inhibition of histone lysine methylation enhances cancer-testis antigen expression in lung cancer cells: implications for adoptive immunotherapy of cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21546573", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1032, 
+            "offsetInEndSection": 1205, 
+            "text": "Short hairpin RNAs were used to inhibit several histone methyltransferases (KMT) and histone demethylases (KDM) that mediate histone methylation and repress gene expression.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21546573", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1352, 
+            "offsetInEndSection": 1449, 
+            "text": "DZNep, a pharmacologic inhibitor of KMT6 expression, recapitulated the effects of KMT6 knockdown.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21546573", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 693, 
+            "text": "Recent evidence shows that S-adenosylhomocysteine (AdoHcy) hydrolase inhibitors (AHI) such as 3-deazaneplanocin A (DZNep) modulate chromatin through indirect inhibition of histone methyltransferases including EZH2. We investigated the biological effects of AdoHcy hydrolase inhibition using DZNep and its structural analogues 3-deazaadenosine (DZA) and neplanocin A (Nep A) in breast cancer cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20556507", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "A chemiluminescence-based method for identification of histone lysine methyltransferase inhibitors.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20567762", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 994, 
+            "offsetInEndSection": 1226, 
+            "text": "The method is particularly well suited for detection of inhibitors acting by the desired histone peptide competitive mechanism and is applicable to testing other HMTs, demonstrated here with the G9a homolog EHMT1, also known as GLP.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20567762", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "This study reports the pharmacokinetics and tissue distribution of a novel histone deacetylase and DNA methyltransferase inhibitor, psammaplin A (PsA), in mice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23139138", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 328, 
+            "offsetInEndSection": 513, 
+            "text": "Human diet contains many histone deacetylase (HDAC) inhibitors, such as the bioactive component sulforaphane (SFN), whose epigenetic effects on MSTN gene in satellite cells are unknown.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23092945", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 672, 
+            "text": "We found that DNA methyltransferase inhibitor (5-Aza-2'-deoxycytidine) and histone deacetylase inhibitor (trichostatin A) reduced leptin receptor expression.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22560341", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 735, 
+            "offsetInEndSection": 885, 
+            "text": "However, histone deacetylase (HDAC) inhibitors trichostatin A (TSA) and sodium butyrate (NaBt) significantly increased Wnt5a mRNA expression in SW620.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22522911", 
+            "endSection": "sections.0"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "body": "Are cutaneous porphyrias inherited with a recessive pattern?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15868463", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11202049", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12859407"
+    ], 
+    "ideal_answer": [
+        "No, cutaneous porphyrias are inherited in a dominant (not recessive) pattern."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58e11b9b6fddd3e83e00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 464, 
+            "offsetInEndSection": 728, 
+            "text": "Five of the porphyrias are low-penetrance autosomal dominant conditions in which clinical expression results from additional factors that act by increasing demand for haem or by causing an additional decrease in enzyme activity or by a combination of these effects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15868463", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Molecular mechanisms of dominant expression in porphyria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15868463", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Variegate porphyria (VP) is an autosomal-dominant disorder that is caused by inheritance of a partial deficiency of the enzyme protoporphyrinogen oxidase (EC 1.3.3.4). It is characterized by cutaneous photosensitivity and/or various neurological manifestations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12859407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "The acute porphyrias constitute a group of metabolic disorders engaging enzymes in the haem synthetic chain and generally following dominant inheritance patterns.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11202049", 
+            "endSection": "abstract"
+        }
+    ]
+}

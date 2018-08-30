@@ -1,0 +1,69 @@
+{
+    "body": "Which miRNA is targeted by SRY/Sox9?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23389731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25580223"
+    ], 
+    "ideal_answer": [
+        "The testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon", 
+        "Does the linear Sry transcript function as a ceRNA for miR-138?. Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively. it is reasonable to think that the linear Sry sense transcript could additionally act as a miRNA sponge, or as an endogenous competing RNA for miR-138. Results indicated that miR-138 directly targeted SRY-related high mobility group box 4 (SOX4) and hypoxia-inducible factor-1 (HIF-1), and overexpression of SOX4 and HIF-1 effectively reversed the miR-138-mediated suppression of cell invasion. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon. ", 
+        ", the sex determining region y ( sry) and the cerebellar degeneration-related protein 1 ( cdr1as) rna transcripts have been described to function as a new class of post-transcriptional regulatory rnas that behave as circular endogenous rna sponges for the micro rnas (mirnas) mir-138 and mir-7 , respectively . ", 
+        "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively.  it is reasonable to think that the linear Sry sense transcript could additionally act as a miRNA sponge, or as an endogenous competing RNA for miR-138.", 
+        "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively.", 
+        "Does the linear Sry transcript function as a ceRNA for miR-138?. Results indicated that miR-138 directly targeted SRY-related high mobility group box 4 (SOX4) and hypoxia-inducible factor-1 (HIF-1), and overexpression of SOX4 and HIF-1 effectively reversed the miR-138-mediated suppression of cell invasion. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon. it is reasonable to think that the linear Sry sense transcript could additionally act as a miRNA sponge, or as an endogenous competing RNA for miR-138. Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively. ", 
+        "recently, the sex determining region y ( sry) and the cerebellar degeneration-related protein 1 ( cdr1as) rna transcripts have been described to function as a new class of post-transcriptional regulatory rnas that behave as circular endogenous rna sponges for the micro rnas (mirnas) mir-138 and mir-7, respectively.", 
+        "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively. Metastasis is the major factor affecting patient survival in ovarian cancer. MicroRNAs (miRNAs) are important post-transcriptional regulators of gene expression that act by direct base pairing to target sites within untranslated regions of messenger RNAs.", 
+        "Results indicated that miR-138 directly targeted SRY-related high mobility group box 4 (SOX4) and hypoxia-inducible factor-1\u00ce\u00b1 (HIF-1\u00ce\u00b1), and overexpression of SOX4 and HIF-1\u00ce\u00b1 effectively reversed the miR-138-mediated suppression of cell invasion. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon.", 
+        "Does the linear Sry transcript function as a ceRNA for miR-138? Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively.", 
+        "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively. Epidermal growth factor receptor acted as the downstream molecule of SOX4 by way of direct transcriptional control, whereas Slug was the downstream molecule of HIF-1\u00ce\u00b1 by way of proteasome-mediated degradation.", 
+        "Results indicated that miR-138 directly targeted SRY-related high mobility group box 4 (SOX4) and hypoxia-inducible factor-1\u03b1 (HIF-1\u03b1), and overexpression of SOX4 and HIF-1\u03b1 effectively reversed the miR-138-mediated suppression of cell invasion. We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon. "
+    ], 
+    "exact_answer": [
+        "mir-138"
+    ], 
+    "type": "factoid", 
+    "id": "58de18e48acda3452900002a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Does the linear Sry transcript function as a ceRNA for miR-138?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25580223", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 317, 
+            "text": "Recently, the sex determining region Y ( Sry) and the cerebellar degeneration-related protein 1 ( CDR1as) RNA transcripts have been described to function as a new class of post-transcriptional regulatory RNAs that behave as circular endogenous RNA sponges for the micro RNAs (miRNAs) miR-138 and miR-7, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25580223", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 682, 
+            "offsetInEndSection": 834, 
+            "text": " it is reasonable to think that the linear Sry sense transcript could additionally act as a miRNA sponge, or as an endogenous competing RNA for miR-138.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25580223", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 497, 
+            "offsetInEndSection": 742, 
+            "text": "Results indicated that miR-138 directly targeted SRY-related high mobility group box 4 (SOX4) and hypoxia-inducible factor-1\u03b1 (HIF-1\u03b1), and overexpression of SOX4 and HIF-1\u03b1 effectively reversed the miR-138-mediated suppression of cell invasion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23389731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1105, 
+            "offsetInEndSection": 1308, 
+            "text": "We further show that the testis-specific circRNA, sex-determining region Y (Sry), serves as a miR-138 sponge, suggesting that miRNA sponge effects achieved by circRNA formation are a general phenomenon. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446346", 
+            "endSection": "abstract"
+        }
+    ]
+}

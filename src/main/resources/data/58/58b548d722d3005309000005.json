@@ -1,0 +1,356 @@
+{
+    "body": "Which bacteria cause diphtheria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/8784575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24403054", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7766139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23981100", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14532240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23357389", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/812306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22205447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21087580", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25578079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21549738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1901182", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25887321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23163039", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21742447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26607400", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24295558", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22583953", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25320226", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16107839", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22403045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12661461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10220818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12037265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25297035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22568715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10598381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16406634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24293345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22628666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25587356", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18583986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24106714", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3112181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10932611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24572455", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22382258"
+    ], 
+    "ideal_answer": [
+        "Diphtheria is caused by the bacteria:\n1) Corynebacterium ulcerans and \n2) Corynebacterium diphtheriae."
+    ], 
+    "exact_answer": [
+        [
+            "Corynebacterium ulcerans", 
+            "C. ulcerans"
+        ], 
+        [
+            "Corynebacterium diphtheriae", 
+            "C. diphtheriae"
+        ]
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001419", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003354", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003352", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004167", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11405", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004165"
+    ], 
+    "type": "list", 
+    "id": "58b548d722d3005309000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 256, 
+            "text": "Corynebacterium ulcerans is a zoonotic pathogen that can produce diphtheria toxin and causes an illness categorized as diphtheria in the European Union because its clinical appearance is similar to that of diphtheria caused by Corynebacterium diphtheriae. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26607400", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 444, 
+            "text": "The zoonotic bacterium Corynebacterium ulcerans may be pathogenic both in humans and animals: toxigenic strains can cause diphtheria or diphtheria-like disease in humans via diphtheria toxin, while strains producing the dermonecrotic exotoxin phospholipase D may lead to caseous lymphadenitis primarily in wild animals. Diphtheria toxin-positive Corynebacterium ulcerans strains have been isolated mainly from cattle, dogs and cats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25887321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 619, 
+            "text": "Corynebacterium diphtheriae, a pathogenic bacterium that causes diphtheria, has been performed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24106714", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Corynebacterium ulcerans 0102 carries the gene encoding diphtheria toxin on a prophage different from the C. diphtheriae NCTC 13129 prophage.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22583953", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 299, 
+            "text": "Corynebacterium ulcerans can cause a diphtheria-like illness, especially when the bacterium is lysogenized with a tox gene-carrying bacteriophage that produces diphtheria toxin. Acquisition of toxigenicity upon phage lysogenization is a common feature of C. ulcerans and C. diphtheriae. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22583953", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 235, 
+            "text": "Corynebacterium ulcerans (toxigenic C. ulcerans) produces the diphtheria toxin, which causes pharyngeal and cutaneous diphtheria-like disease in people, and this bacterium is commonly detected in dogs and cats that are reared at home. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25578079", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 454, 
+            "text": "This case demonstrates that strains of C. ulcerans that produce diphtheria toxin can cause infections of the skin that completely mimic typical cutaneous diphtheria, thereby potentially providing a source of bacteria capable of causing life-threatening diseases in the patient's environment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Diphtheria is a serious upper respiratory tract disease caused by the diphtheria toxin (DT) secreted from the bacteria Corynebacterium diphtheriae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22205447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 213, 
+            "text": "ulcerans produce diphtheria toxin, which can cause life-threatening cardiopathies and neuropathies in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22403045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 176, 
+            "text": "A high-density growth approach was utilized to produce mutated diphtheria toxin from two strains of Corynebacterium diphtheria: C7 (beta)(tox-201,tox-9) and C7 (beta)(tox-107).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7766139", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1049, 
+            "offsetInEndSection": 1190, 
+            "text": "For the primary prevention of disease caused by diphtheria toxin-producing corynebacteria, vaccination with diphtheria toxoid is recommended.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22403045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 455, 
+            "text": "ulcerans that produce diphtheria toxin can cause infections of the skin that completely mimic typical cutaneous diphtheria, thereby potentially providing a source of bacteria capable of causing life-threatening diseases in the patient's environment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "[A case of diphtheria in the Netherlands due to an infection with Corynebacterium ulcerans].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12661461", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Diphtheria is an acute bacterial illness caused by toxigenic strains of Corynebacterium diphtheriae (C. diphtheriae)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22382258", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Diphtheria is caused by diphtheria toxin-producing Corynebacterium species", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22628666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Diphtheria, an acute infectious condition caused by Corynebacterium diphtheriae, was once a major killer of children", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23357389", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Diphtheria, caused by toxigenic strains of Corynebacterium diphtheriae, is an ancient disease with high incidence and mortality that has always been characterized by epidemic waves of occurrence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22568715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Infections caused by Corynebacterium diphtheriae frequently induce situations in which very small doses of antigens injected intradermally can cause strong inflammatory reactions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21549738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Corynebacterium diphtheriae is the etiological agent of diphtheria, a potential fatal disease caused by a corynephage toxin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24293345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "[Diphtheria in Denmark 1956-1989. Occurrence of Corynebacterium diphtheriae and other diphtheria toxigenic bacteria].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1901182", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Matrix-assisted laser desorption/ionisation time-of-flight (MALDI-TOF) mass spectrometry as a tool for rapid diagnosis of potentially toxigenic Corynebacterium species in the laboratory management of diphtheria-associated bacteria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21087580", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 456, 
+            "text": "This case demonstrates that strains of C. ulcerans that produce diphtheria toxin can cause infections of the skin that completely mimic typical cutaneous diphtheria, thereby potentially providing a source of bacteria capable of causing life-threatening diseases in the patient's environment. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "Detection of differences in the nucleotide and amino acid sequences of diphtheria toxin from Corynebacterium diphtheriae and Corynebacterium ulcerans causing extrapharyngeal infections.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14532240", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 168, 
+            "text": "Heterogeneity of diphtheria toxin gene, tox, and its regulatory element, dtxR, in Corynebacterium diphtheriae strains causing epidemic diphtheria in Russia and Ukraine.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8784575", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Diphtheria is a serious upper respiratory tract disease caused by the diphtheria toxin (DT) secreted from the bacteria Corynebacterium diphtheriae. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22205447", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Laboratory guidelines for the diagnosis of infections caused by Corynebacterium diphtheriae and C. ulcerans. ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10598381", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1139, 
+            "offsetInEndSection": 1374, 
+            "text": "A possible biological mechanism for a diphtheria effect on hearing ability exists: The toxin produced by the Corynebacterium diphtheriae bacteria can cause damage to cranial nerves and therefore may affect the auditory neural pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12037265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1094, 
+            "offsetInEndSection": 1328, 
+            "text": "A possible biological mechanism for a diphtheria effect on hearing ability exists: The toxin produced by the Corynebacterium diphtheriae bacteria can cause damage to cranial nerves and therefore may affect the auditory neural pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12037265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 680, 
+            "offsetInEndSection": 848, 
+            "text": "In cases of human infection with potentially toxigenic corynebacteria, it is important to determine the species and examine the isolate for diphtheria toxin production.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22403045", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 916, 
+            "text": "AIM: Study of the apoptogenic effect of Corynebacterium diphtheriae toxigenic strains on mice peritoneal macrophages in vitro.MATERIALS AND METHODS: Evaluation ofapoptosis induced by Corynebacterium diphtheriae, Corynebacterium pseudodiphtheriticum, Staphylococcus aureus, Streptococcus pyogenes strains was performed by characteristic morphological changes in macrophages in smears stained by azure eosin by Romanovsky-Giemsa.RESULTS: Apoptogenic activity of diphtheria infectious agent was established to be determined by diphtheria exotoxin at early (after 1 hour) and surface structures and pathogenicity enzymes at later (3 hours) stages of effect.CONCLUSION: The ability of diphtheria infectious agent to cause macrophage apoptosis is one of the mechanisms of realization of its pathogenic properties determined by the effect of diphtheria exotoxin, as well as its surface structures and pathogenicity enzymes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23163039", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Extrapharyngeal infections caused by Corynebacterium ulcerans have rarely been reported previously, and diphtheria toxin production has usually not been addressed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Corynebacterium ulcerans may cause diphtheria in humans and caseous lymphadenitis in animals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24572455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 748, 
+            "offsetInEndSection": 979, 
+            "text": "ulcerans for the first time, we show that related sequence types (STs) might be associated with the presence of the diphtheria toxin gene, which encodes diphtheria toxin (DT), the most important diphtheria-causing virulence factor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25320226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Human-to-human-transmitted Corynebacterium diphtheriae was historically the main pathogen causing diphtheria and has therefore been studied extensively in the past.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25320226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 671, 
+            "offsetInEndSection": 851, 
+            "text": "Toxigenic Corynebacterium diphtheriae, the organism causing diphtheria, was thought to have become rare or even have disappeared from previously endemic areas such as South Dakota.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10932611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Infection of the skin caused by Corynebacterium ulcerans and mimicking classical cutaneous diphtheria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11568853", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "body": "Are EDNRB mutations involved in the development of Hirschsprung disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15834508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12631670", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14633923", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11471546", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15294878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12574515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20009762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16145050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20633936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9035203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11434563", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12355085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9094028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18693272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11484199", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10792313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14669347", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22132166", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21915282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11302967", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8852660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10964697"
+    ], 
+    "ideal_answer": [
+        "Although mutations in eight different genes (EDNRB, EDN3, ECE1, SOX10, RET, GDNF, NTN, SIP1) have been identified in affected individuals, it is now clear that RET and EDNRB are the primary genes implicated in the etiology of HSCR. Mutations in genes of the RET receptor tyrosine kinase and endothelin receptor B (EDNRB) signaling pathways have been shown to be associated in HSCR patients.  Molecular genetic analyses have revealed that interactions between mutations in the genes encoding the RET receptor tyrosine kinase and the endothelin receptor type B (EDNRB) are central to the genesis of HSCR.", 
+        "Hirschsprung's disease (HSCR) is one the most common congenital intestinal disease, which leads to aganglionic megacolon in the early childhood. Several susceptibility genes have been identified, including RET protooncogene and its ligand, glial cell derived neutrophic factor (GDNF), Sox 10, Endothelin-3 (EDN3) and its receptor B (EDNRB). More specifically, EDNRB mutations are found in 5% of familial or sporadic HSCR."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:10487", 
+        "http://www.uniprot.org/uniprot/EDNRB_MACFA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006627", 
+        "http://www.uniprot.org/uniprot/EDNRB_MOUSE"
+    ], 
+    "type": "yesno", 
+    "id": "551910c5622b194345000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "QTL analysis identifies a modifier locus of aganglionosis in the rat model of Hirschsprung disease carrying Ednrb(sl) mutations", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22132166", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 256, 
+            "offsetInEndSection": 497, 
+            "text": "As reported previously, when the same null mutation of the Ednrb gene, Ednrb(sl), was introgressed into the F344 strain, almost 60% of F344-Ednrb(sl/sl) pups did not show any symptoms of aganglionosis, appearing healthy and normally fertile.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22132166", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Genetic background strongly modifies the severity of symptoms of Hirschsprung disease, but not hearing loss in rats carrying Ednrb(sl) mutations", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915282", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 325, 
+            "offsetInEndSection": 570, 
+            "text": "In this study, we found that the null mutation of the Ednrb gene, thought indispensable for enteric neuron development, is insufficient to result in HSCR disease when bred onto a different genetic background in rats carrying Ednrb(sl) mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21915282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "New roles of EDNRB and EDN3 in the pathogenesis of Hirschsprung disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20009762", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 330, 
+            "offsetInEndSection": 515, 
+            "text": "The aim of this study was to evaluate the implication of the EDN3 and EDNRB genes in a series of patients with Hirschsprung disease from Spain and determinate their mutational spectrum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20009762", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "A De Novo novel mutation of the EDNRB gene in a Taiwanese boy with Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 382, 
+            "text": "Although mutations in eight different genes (EDNRB, EDN3, ECE1, SOX10, RET, GDNF, NTN, SIP1) have been identified in affected individuals, it is now clear that RET and EDNRB are the primary genes implicated in the etiology of HSCR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 408, 
+            "text": "Mutations in genes of the RET receptor tyrosine kinase and endothelin receptor B (EDNRB) signaling pathways have been shown to be associated in HSCR patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15834508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Interactions between Sox10 and EdnrB modulate penetrance and severity of aganglionosis in the Sox10Dom mouse model of Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15294878", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 110, 
+            "offsetInEndSection": 319, 
+            "text": "Molecular genetic analyses have revealed that interactions between mutations in the genes encoding the RET receptor tyrosine kinase and the endothelin receptor type B (EDNRB) are central to the genesis of HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12574515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Genome-wide association study and mouse model identify interaction between RET and EDNRB pathways in Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12355085", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 987, 
+            "offsetInEndSection": 1101, 
+            "text": "Thus, genetic interaction between mutations in RET and EDNRB is an underlying mechanism for this complex disorder.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12355085", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "EDNRB/EDN3 and Hirschsprung disease type II.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11434563", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Analysis of the RET, GDNF, EDN3, and EDNRB genes in patients with intestinal neuronal dysplasia and Hirschsprung disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11302967", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 269, 
+            "text": "wo susceptibility genes have been recently identified in HSCR, namely the RET proto-oncogene and the endothelin B receptor (EDNRB) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8852660", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1042, 
+            "offsetInEndSection": 1195, 
+            "text": "We conclude that Ednrb loss only in neural crest cells is sufficient to produce the Hirschsprungs disease phenotype observed with genomic Ednrb mutations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18693272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 416, 
+            "offsetInEndSection": 477, 
+            "text": "EDNRB mutations were detected in 2 of the 13 short-segment HD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14669347", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 764, 
+            "offsetInEndSection": 995, 
+            "text": "The mutations of EDNRB gene and EDN-3 gene are found in the short-segment HD of sporadic Hirschsprung's disease in Chinese population, which suggests that the EDNRB gene and EDN-3 gene play important roles in the pathogenesis of HD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14669347", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Functional characterization of three mutations of the endothelin B receptor gene in patients with Hirschsprung's disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11471546", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 401, 
+            "text": "Hirschsprung's disease (HSCR) is one the most common congenital intestinal disease. It leads to aganglionic megacolon in the early childhood. Several susceptibility genes have been identified : RET protooncogene and its ligand, glial cell derived neutrophic factor (GDNF), Sox 10, Endothelin-3 (EDN3) and its receptor B (EDNRB). EDNRB mutations are found in 5% of familial or sporadic HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11471546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 151, 
+            "text": "Enteric aganglionosis in Hirschsprung disease has been linked to genes coding for endothelin-3 (EDN3) and the endothelin B receptor (EDNRB)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10792313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 196, 
+            "text": "To date, three genes have been identified as susceptibility genes for Hirschsprung's disease (HSCR), the RET proto-oncogene, the endothelin-B receptor gene (EDNRB) and the endothelin-3 gene (EDN3)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9094028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1448, 
+            "offsetInEndSection": 1559, 
+            "text": "Our data indicate that RET and EDNRB mutations have a role in the aetiology of some sporadically occurring HSCR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9094028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Mutations of the endothelin-B receptor and endothelin-3 genes in Hirschsprung's disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9035203", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "The endothelin-B receptor gene (EDNRB) and the endothelin-3 gene (EDN3) have recently been recognized as susceptibility genes for Hirschsprung's disease (HD)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9035203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 682, 
+            "text": "These observations confirm that impaired function of the endothelin-B receptor or endothelin-3 is involved in the aetiology of some human HD cases. EDNRB mutations appear to be associated with short-segment HD, in contrast to RET mutations, which are found mainly in long-segment aganglionosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9035203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1275, 
+            "offsetInEndSection": 1455, 
+            "text": "In addition to mutations in the RET and EDNRB genes, embryonic environmental factors and/or other genetic factors appear to be involved in the development of Hirschsprung disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Heterozygous endothelin receptor B (EDNRB) mutations in isolated Hirschsprung disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8852660", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "QTL analysis identifies a modifier locus of aganglionosis in the rat model of Hirschsprung disease carrying Ednrb(sl) mutations.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22132166", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 568, 
+            "text": "Homozygous mutations in the endothelin-B receptor gene (EDNRB) on 13q22 have been identified in humans and mice with Hirschsprung disease type 2 (HSCR2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11484199", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "A De Novo novel mutation of the EDNRB gene in a Taiwanese boy with Hirschsprung disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16618617", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 380, 
+            "text": "Hitherto however, homozygosity for EDNRB mutations accounted for the HSCR-Waardenburg syndrome (WS) association.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8852660", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 725, 
+            "text": "These data might suggest that EDNRB mutations could be dosage sensitive: heterozygosity would predispose to isolated HSCR with incomplete penetrance, while homozygosity would result in more complex neurocristopathies associating HSCR and WS features.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8852660", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Highly recurrent RET mutations and novel mutations in genes of the receptor tyrosine kinase and endothelin receptor B pathways in Chinese patients with sporadic Hirschsprung disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14633923", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 170, 
+            "offsetInEndSection": 500, 
+            "text": "Mutations in genes encoding the RET receptor tyrosine kinase and endothelin receptor type B (EDNRB) are involved in HSCR pathogenesis; however, also important in ENS development are molecules that mediate events that are more restricted than those of RET and EDNRB, act later in development and which might not be HSCR-associated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20633936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Several missense mutations of the endothelin-B receptor (EDNRB) associated with Hirschsprung disease have recently been identified.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10964697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 798, 
+            "offsetInEndSection": 982, 
+            "text": "These findings indicate that these missense mutations result in loss of function of EDNRB, and may provide the molecular pathological basis of Hirschsprung disease in some individuals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10964697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 351, 
+            "text": "Manifestation of the disease has been linked to mutations in genes that encode the crucial signals for the development of the enteric nervous system-the RET and EDNRB signalling pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12631670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1287, 
+            "offsetInEndSection": 1465, 
+            "text": "In addition to mutations in the RET and EDNRB genes, embryonic environmental factors and/or other genetic factors appear to be involved in the development of Hirschsprung disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10664228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 288, 
+            "text": "In this study, we investigated whether germline mutations of endothelin receptor B (EDNRB), a gene involved in Hirschsprung disease (HSCR), could also predispose for malignant melanoma (MM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16145050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 508, 
+            "text": "However, the similarity between the distal colonic aganglionosis in Hirschsprung disease and that due to EDN3 or EDNRB mutations led to the hypothesis that levels of expression of these genes might be affected in the absence of mutation, thus causing the Hirschsprung disease phenotype", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10792313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1021, 
+            "offsetInEndSection": 1146, 
+            "text": "Our data strongly suggest that EDNRB is involved in predisposition for two different multigenic disorders, HSCR and melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16145050", 
+            "endSection": "abstract"
+        }
+    ]
+}

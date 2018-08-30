@@ -1,0 +1,76 @@
+{
+    "body": "What is the function of mTOR?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21871173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12864941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27889578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25898924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25893295"
+    ], 
+    "ideal_answer": [
+        "The mTOR protein regulates assembly of the translation initiation machinery and are master regulators of cellular survival, growth and metabolism."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0065009"
+    ], 
+    "type": "summary", 
+    "id": "58f3c8f470f9fc6f0f00000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Protein synthesis regulation via mammalian target of rapamycin complex 1 (mTORC1) signaling pathway has key roles in neural development and function,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25898924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 268, 
+            "offsetInEndSection": 464, 
+            "text": "mTOR regulates assembly of the translation initiation machinery by interacting with the eukaryotic initiation factor eIF3 complex and by controlling phosphorylation of key translational regulators", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25898924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 364, 
+            "text": "Mammalian target of rapamycin (mTOR) complexes, mTORC1 and mTORC2, are master regulators of cellular survival, growth and metabolism", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25893295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 41, 
+            "offsetInEndSection": 468, 
+            "text": " (mTOR) is a serine-threonine kinase that controls several important aspects of mammalian cell function. mTOR activity is modulated by various intra- and extracellular factors; in turn, mTOR changes rates of translation, transcription, protein degradation, cell signaling, metabolism, and cytoskeleton dynamics. mTOR has been repeatedly shown to participate in neuronal development and the proper functioning of mature neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27889578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 167, 
+            "text": "mammalian target of rapamycin (mTOR), a member of the phosphoinositide 3-kinase related kinase (PIKK) family, plays a central role in the regulation of cell growth", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19182527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 30, 
+            "offsetInEndSection": 228, 
+            "text": "(mTOR) is a serine/threonine kinase and that forms two multiprotein complexes known as the mTOR complex 1 (mTORC1) and mTOR complex 2 (mTORC2). mTOR regulates cell growth, proliferation and survival", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21871173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 34, 
+            "offsetInEndSection": 195, 
+            "text": "(mTOR), a downstream effector of the phosphatidylinositol 3-kinase (PI3K)/Akt (protein kinase B) signaling pathway that mediates cell survival and proliferation,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12864941", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "body": "What is a mitochondrial nucleoid?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23637282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19703654", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23721879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23220174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19704786", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20577028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15126284"
+    ], 
+    "ideal_answer": [
+        "A naked mtDNA molecule is longer than a typical mitochondrion and is therefore compacted in vivo to form a nucleoprotein complex, denoted the mitochondrial nucleoid."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042645", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090144", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009295", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D024101", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090143"
+    ], 
+    "type": "summary", 
+    "id": "552016a36b348bb82c000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 208, 
+            "offsetInEndSection": 373, 
+            "text": "A naked mtDNA molecule is longer than a typical mitochondrion and is therefore compacted in vivo to form a nucleoprotein complex, denoted the mitochondrial nucleoid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23721879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "The packaging of mitochondrial DNA (mtDNA) into DNA-protein assemblies called nucleoids provides an efficient segregating unit of mtDNA,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23637282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Mitochondrial DNA (mtDNA) is organized in nucleoids in complex with accessory proteins, proteins of mtDNA replication and gene expression machinery.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23220174", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "The independent mitochondrial genetic information is organized in so-called mitochondrial nucleoids", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20577028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 32, 
+            "offsetInEndSection": 179, 
+            "text": " packaging of mitochondrial DNA (mtDNA) into protein-DNA assemblies called nucleoids confers higher-order organization to the mitochondrial genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19704786", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 264, 
+            "offsetInEndSection": 420, 
+            "text": "mitochondrial DNA is packaged into macromolecular assemblies called nucleoids, composed of one or more copies of mitochondrial DNA and associated proteins. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19703654", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 71, 
+            "offsetInEndSection": 178, 
+            "text": "human mitochondrial DNA (mtDNA) had long been believed to be rather naked because mitochondria lack histone", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15126284", 
+            "endSection": "abstract"
+        }
+    ]
+}

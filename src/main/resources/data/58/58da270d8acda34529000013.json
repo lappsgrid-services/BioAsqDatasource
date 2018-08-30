@@ -1,0 +1,296 @@
+{
+    "body": "Is edema a symptom of nephrotic syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17448310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20368913", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10884998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17111701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10361423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15852660", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1953084", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9241903", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19556043", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23510630", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21234253", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21302208", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24240509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21454171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17009081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26457719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26281851", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25722313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23529637", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11928729", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12508485", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24533195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10215332", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25400184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26178548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19194561", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16247647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20924604"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0027726", 
+            "o": "Nephrotic Syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0027726", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0484584"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0484584", 
+            "o": "nephrotic syndrome"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, edema is the commonest presenting symptom and sign in nephrotic syndrome."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004487", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009404", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1184"
+    ], 
+    "type": "yesno", 
+    "id": "58da270d8acda34529000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 192, 
+            "text": "Nephrotic syndrome (NS) is a common clinical disease with four main clinical manifestations: hypoalbuminemia (<30 g/L), macro-proteinuria (>3.5 g/24 h), edema, and hyperlipidemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26281851", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Nephrotic syndrome is an unusual manifestation of IgA Nephropathy (IgAN).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19194561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 355, 
+            "text": "Twelve patients with IgAN with steroid-responsive nephrotic syndrome were evaluated and followed up. All patients presented with generalized edema. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19194561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1212, 
+            "offsetInEndSection": 1406, 
+            "text": "The clinical features of sudden onset of generalized edema, initial heavy proteinuria and initial severe hypoalbuminemia might help identify the subset of patients, especially in low grade IgAN.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19194561", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 608, 
+            "offsetInEndSection": 755, 
+            "text": "Most patients presented within 3 months duration (61.4%) and the most common symptom was puffiness of face (98.45%) followed by pedal edema (91%). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20368913", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 117, 
+            "offsetInEndSection": 381, 
+            "text": "We analyzed medical records of 290 patients with diagnosis of nephrotic syndrome as defined by International Study of Kidney Disease in Children (ISKDC), between January 1987 and December 2000, at the Sher-I-Kashmir Institute of Medical Sciences, Soura, Srinagar. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20368913", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 402, 
+            "text": "He was admitted because of systemic edema and dyspnea on effort Laboratory data revealed renal failure and nephrotic syndrome, whereas there was no symptom of diabetic retinopathy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15852660", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 42, 
+            "text": "Nephrotic syndrome: more than just oedema.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11928729", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 75, 
+            "text": "Oedema is the commonest presenting symptom and sign in nephrotic syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11928729", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 428, 
+            "text": "One of these five clinical syndromes is the nephrotic syndrome, which is characterized by proteinuria > 3.5 g/day accompanied by hypalbuminemia, hyperlipoproteinemia and pronounced edema", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21302208", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Tolvaptan therapy for massive edema in a patient with nephrotic syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24240509", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Nephrotic syndrome (NS) is characterized by water and sodium retention, which leads to edema", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24240509", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 555, 
+            "text": "The non-osmotic stimulation of arginine vasopressin release from the pituitary gland has been implicated as one of the important factors in abnormal water retention in patients with NS.We present the initial description of a patient with massive edema caused by refractory nephrotic syndrome, which was effectively treated with tolvaptan, a selective oral vasopressin V2 receptor antagonist.Tolvaptan is effective for the treatment of massive edema caused by NS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24240509", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 487, 
+            "text": "We report a child with steroid-resistant nephrotic syndrome with diuretic-resistant nephrotic edema treated successfully using acute peritoneal dialysis as a means of UF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26178548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Albumin and Furosemide Combination for Management of Edema in Nephrotic Syndrome: A Review of Clinical Studies", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26457719", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "The treatment of edema in patients with nephrotic syndrome is generally managed by dietary sodium restriction and loop diuretics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26457719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 720, 
+            "offsetInEndSection": 858, 
+            "text": "Nine months after introduction of tiopronin, the boy manifested generalized edema, oliguria, and biochemical indices of nephrotic syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20924604", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "Blessed were the days when it all made sense and the apparent mechanism for edema formation in nephrotic syndrome was straightforward: the kidneys lost protein in the urine, which lowered the plasma oncotic pressure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23529637", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 222, 
+            "text": "The nephrotic syndrome is characterized by a combination of pathological lab values and clinical symptoms, i. e. pronounced proteinuria (usually more than 3 - 3,5 g protein/24 h), hypoalbuminemia, edema and hyperlipidemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25722313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 365, 
+            "text": "The patient was admitted with edema of both legs, and the nephrotic syndrome was discovered, leading to the diagnosis of AA amyloidosis on kidney biopsy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17111701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 1086, 
+            "text": "Linear regression to relate measures.Other signs and symptoms of nephrotic syndrome at baseline (serum albumin < 3.5 g/dL, serum total cholesterol > 260 mg/dL or use of a statin, and edema or use of a loop diuretic); progression of chronic kidney disease during follow-up (doubling of baseline serum creatinine level or requirement for dialysis or kidney transplantation).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19556043", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "A case of interstitial shadows associated with oral cyclophosphamide therapy in a 32-month-old girl with steroid-resistant nephrotic syndrome, who was admitted to the Nishi-Kobe Medical Center with systemic edema, is reported.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9241903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Nephrotic syndrome represents a constellation of symptoms including hyperalbuminuria, hypoalbuminemia, edema formation, hypercholesterolemia, hypertension, hypercoagulopathy, and increased infection risk.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10884998", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Pathophysiology of edema formation in children with nephrotic syndrome not due to minimal change disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10215332", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "To study the evidence-based therapy of edema in nephrotic syndrome by analyzing the literatures systematically.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17448310", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 261, 
+            "offsetInEndSection": 362, 
+            "text": "Edema is the prominent feature of nephrotic syndrome and initially develops around the eyes and legs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21454171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 439, 
+            "offsetInEndSection": 611, 
+            "text": "Intussusception should be considered in the differential diagnosis of abdominal pain in patients with nephrotic syndrome, especially in patients exhibiting prolonged edema.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16247647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Oedema is the commonest presenting symptom and sign in nephrotic syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11928729", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 755, 
+            "offsetInEndSection": 1090, 
+            "text": "Other signs and symptoms of nephrotic syndrome at baseline (serum albumin < 3.5 g/dL, serum total cholesterol > 260 mg/dL or use of a statin, and edema or use of a loop diuretic); progression of chronic kidney disease during follow-up (doubling of baseline serum creatinine level or requirement for dialysis or kidney transplantation).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19556043", 
+            "endSection": "abstract"
+        }
+    ]
+}

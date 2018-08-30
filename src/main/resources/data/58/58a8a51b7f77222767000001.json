@@ -1,0 +1,41 @@
+{
+    "body": "What is the effect of CPEB3 binding to the CPE domain?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17481902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26398195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25066254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17923234", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23776146"
+    ], 
+    "ideal_answer": [
+        "The cytoplasmic polyadenylation element (CPE) is the binding platform for CPE-binding protein (CPEB), which promotes polyadenylation-induced translation."
+    ], 
+    "type": "summary", 
+    "id": "58a8a51b7f77222767000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "CPEB (Cytoplasmic Polyadenylation Element Binding) proteins are a family of four RNA-binding proteins that regulate the translation of maternal mRNAs controlling meiotic cell cycle progression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26398195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "The family of cytoplasmic polyadenylation element binding proteins CPEB1, CPEB2, CPEB3, and CPEB4 binds to the 3'-untranslated region (3'-UTR) of mRNA, and plays significant roles in mRNA metabolism and translation regulation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25066254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 218, 
+            "offsetInEndSection": 372, 
+            "text": "This cytoplasmic polyadenylation element (CPE) is the binding platform for CPE-binding protein (CPEB), which promotes polyadenylation-induced translation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17481902", 
+            "endSection": "abstract"
+        }
+    ]
+}

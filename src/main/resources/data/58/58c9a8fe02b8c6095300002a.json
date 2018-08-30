@@ -1,0 +1,183 @@
+{
+    "body": "What alternate indication has Vanoxerine been repositioned for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21615815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27108936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19817928", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19817929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25684233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26616666"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0164200", 
+            "o": "vanoxerine"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0164200", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17685361"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17685361", 
+            "o": "VANOXERINE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0164200", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0294723"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0294723", 
+            "o": "vanoxerine"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0556030", 
+            "o": "repositioning"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0556030", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A15558315"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A15558315", 
+            "o": "Repositioned"
+        }
+    ], 
+    "ideal_answer": [
+        "Vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter. Vanoxerine has been in clinical trials for Parkinsonism, depression and cocaine addiction but lacked efficacy.", 
+        "Vanoxerine has been in clinical trials for Parkinsonism, depression and cocaine addiction but lacked efficacy. Vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter. ", 
+        "Vanoxerine has been in clinical trials for Parkinsonism, depression and cocaine addiction and can potential treat atrial fibrillation", 
+        "Vanoxerine has been in clinical trials for Parkinsonism, depression and cocaine addiction but lacked efficacy. Vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter.", 
+        "vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter.", 
+        "Vanoxerine 's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter.", 
+        "vanoxerine's were strongly frequency-dependent and repositioned it for treatment of atrial fibrillation and flutter. . has been in clinical trials for parkinsonism , depression and cocaine addiction but lacked efficacy. . "
+    ], 
+    "exact_answer": [
+        "atrial fibrillation and flutter"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D056687", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4001200", 
+        "http://www.biosemantics.org/jochem#4001200", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4258722", 
+        "http://www.biosemantics.org/jochem#4151584", 
+        "http://www.biosemantics.org/jochem#4258722", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4151584", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001145"
+    ], 
+    "type": "factoid", 
+    "id": "58c9a8fe02b8c6095300002a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 399, 
+            "text": "Vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26616666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 55, 
+            "text": "Vanoxerine: cellular mechanism of a new antiarrhythmic.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19817928", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 231, 
+            "offsetInEndSection": 294, 
+            "text": "Therefore, we proposed that vanoxerine might be antiarrhythmic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19817929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "Vanoxerine is a promising, new, investigational antiarrhythmic drug.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Oral vanoxerine prevents reinduction of atrial tachyarrhythmias: preliminary results.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615815", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 396, 
+            "text": "Vanoxerine's effects were strongly frequency-dependent and we repositioned it for treatment of atrial fibrillation and flutter.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26616666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 245, 
+            "offsetInEndSection": 308, 
+            "text": "Therefore, we proposed that vanoxerine might be antiarrhythmic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19817929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1592, 
+            "offsetInEndSection": 1674, 
+            "text": "Vanoxerine has characteristics of a potentially effective and safe antiarrhythmic.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19817928", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "BACKGROUND: Vanoxerine is a promising, new, investigational antiarrhythmic drug.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Oral vanoxerine prevents reinduction of atrial tachyarrhythmias: preliminary results.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615815", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Vanoxerine, a new drug for terminating atrial fibrillation and flutter.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19817929", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 164, 
+            "text": "Vanoxerine is an oral, 1,4-dialkylpiperazine derivative antiarrhythmic drug being evaluated for pharmacological cardioversion of atrial fibrillation (AF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27108936", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1420, 
+            "offsetInEndSection": 1535, 
+            "text": "Oral vanoxerine converted AF/AFL to SR at a high rate, was well tolerated, and caused no ventricular proarrhythmia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25684233", 
+            "endSection": "abstract"
+        }
+    ]
+}

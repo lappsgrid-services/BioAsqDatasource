@@ -1,0 +1,39 @@
+{
+    "body": "What are sirtuins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26463981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26961318", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26796034"
+    ], 
+    "ideal_answer": [
+        "Seven sirtuins have been identified in humans, and their functions currently surpass their originally identified role as histone deacetylase and chromatin silencers to encompass nutrient sensing and metabolic function. All seven sirtuins require NAD(+) in order to carry out their enzymatic activity, and thus become activated in conditions of nutrient depletion, starvation, and cellular stress."
+    ], 
+    "type": "summary", 
+    "id": "58e2651c6fddd3e83e000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 577, 
+            "text": " seven sirtuins have been identified in humans, and their functions currently surpass their originally identified role as histone deacetylase and chromatin silencers to encompass nutrient sensing and metabolic function. All seven sirtuins require NAD(+) in order to carry out their enzymatic activity, and thus become activated in conditions of nutrient depletion, starvation, and cellular stress. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26463981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Sirtuins are NAD-dependent lysine deacylases that play critical roles in cellular regulation and are implicated in human diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26796034", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 160, 
+            "text": "Sirtuins are NAD+ -dependent class III histone deacetylases (HDACs) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26961318", 
+            "endSection": "abstract"
+        }
+    ]
+}

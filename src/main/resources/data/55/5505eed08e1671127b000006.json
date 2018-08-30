@@ -1,0 +1,245 @@
+{
+    "body": "List the main proteases used for sample digestion in proteomics.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23728546", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24140975", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22324799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23606249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24106208", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24012793", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23576383", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24168082", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23710360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23703833", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20218731", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23792921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24133050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23580477", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23454304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24144163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23943586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23775586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23819575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24136523", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24116745"
+    ], 
+    "ideal_answer": [
+        "Trypsin is the main protease used in proteomics followed by Asp-N, chymotrypsin, LysC, GluC and thermolysin."
+    ], 
+    "exact_answer": [
+        [
+            "trypsin"
+        ], 
+        [
+            "Asp-N"
+        ], 
+        [
+            "chymotrypsin"
+        ], 
+        [
+            "LysC"
+        ], 
+        [
+            "Glu-C"
+        ], 
+        [
+            "thermolysin"
+        ]
+    ], 
+    "type": "list", 
+    "id": "5505eed08e1671127b000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1144, 
+            "offsetInEndSection": 1199, 
+            "text": "the consecutive use of endoproteinases LysC and trypsin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22324799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1208, 
+            "offsetInEndSection": 1226, 
+            "text": " Asp-N to trypsin ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20218731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 449, 
+            "offsetInEndSection": 467, 
+            "text": " tryptic digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24168082", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1349, 
+            "offsetInEndSection": 1363, 
+            "text": "tryptic digest", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24144163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 175, 
+            "text": "enzymatic digestion is most commonly performed using trypsin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24144163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 10, 
+            "offsetInEndSection": 40, 
+            "text": "chymotrypsin/trypsin digestion", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136523", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 550, 
+            "offsetInEndSection": 744, 
+            "text": "In this method, chymotrypsin, single or in combination with trypsin, was used, which enabled to obtain proteolytic peptides from the hydrophobic regions and to identify new oil bodies' proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24136523", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 87, 
+            "offsetInEndSection": 124, 
+            "text": "proteins were digested by thermolysin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24140975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 13, 
+            "offsetInEndSection": 30, 
+            "text": "tryptic digestion", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24133050", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 95, 
+            "offsetInEndSection": 123, 
+            "text": "protein digestion by trypsin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24133050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Trypsin is an endoprotease commonly used for sample preparation in proteomics experiments", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24116745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 54, 
+            "offsetInEndSection": 72, 
+            "text": "tryptic digestion ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24106208", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 176, 
+            "offsetInEndSection": 200, 
+            "text": "direct tryptic digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24012793", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 295, 
+            "text": " trypsin digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23943586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "Tryptic digestion is an important component of most proteomics experiments", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23819575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 753, 
+            "text": "We evaluated nine trypsin-based digestion protocols, based on standard in-solution or on spin filter-aided digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23792921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Getting intimate with trypsin, the leading protease in proteomics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23775586", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 633, 
+            "text": "sample preparation via trypsin digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23728546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 664, 
+            "text": " in-gel digested with trypsin, chymotrypsin, Asp-N, or trypsin plus Asp-N in triplicate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23710360", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "In this study, we examined the use of multiple proteases (trypsin, LysC, tandem LysC/trypsin) on both protein identification and quantification ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23703833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 503, 
+            "text": "digested with LysC and trypsin, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23606249", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 696, 
+            "offsetInEndSection": 720, 
+            "text": "In-gel trypsin digestion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23580477", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Magnetic bead cellulose activated with divinyl sulfone was used for the immobilization of Staphylococcus aureus endoproteinase Glu-C (EC 3.4.21.19).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23576383", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 781, 
+            "offsetInEndSection": 820, 
+            "text": "protease digestion with AspN or trypsin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23454304", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "body": "Is GAGA associated with nucleosome-free regions (NFR)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15579691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8474442", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11158316", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7737124"
+    ], 
+    "ideal_answer": [
+        "The GAGA factor is a protein known to be involved in the formation and/or maintenance of nucleosome-free regions of chromatin. The interactions of GAGA factor and heat shock factor with their binding sites in chromatin occurred in two modes. Their interaction with binding sites in the nucleosome-free regions did not require ATP. In the presence of ATP both factors interacted also with nucleosomal binding sites, causing nucleosome rearrangements and a refinement of nucleosome positions. While chromatin remodeling upon transcription factor interaction has previously been interpreted to involve nucleosome disruption, the data suggest energy-dependent nucleosome sliding as main principle of chromatin reorganization.", 
+        "The HS3 sequence contains consensus binding sites for the GAGA factor, a protein implicated in the formation of nucleosome-free regions of chromatin, and Pleiohomeotic (Pho), a Polycomb group protein that is related to the mammalian transcription factor YY1. To study the contribution of transcription factors to the establishment of this specific chromatin configuration we assembled nucleosomes on the hsp26 promoter using a cell-free reconstitution system derived from fly embryos. This (CT)n element appears to contribute to formation of the wild-type chromatin structure of hsp26, an organized nucleosome array that leaves the HSEs in nucleosome-free, DNase I-hypersensitive (DH) sites (Q. Lu, L.L. Wallrath, B.D. Allan, R.L. Glaser, J.T. Lis, and S.C.R. Elgin, J. Mol. Biol. Both DH sites were readily reconstituted from extract components.", 
+        "One of the three nuclease hypersensitive sites in the Fab-7 boundary, HS1, contains multiple consensus-binding sequences for the GAGA factor, a protein known to be involved in the formation and/or maintenance of nucleosome-free regions of chromatin."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0034728", 
+        "http://amigo.geneontology.org/amigo/term/GO:0000786", 
+        "http://amigo.geneontology.org/amigo/term/GO:0016584", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009707"
+    ], 
+    "type": "yesno", 
+    "id": "56f3f6b12ac5ed145900001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 261, 
+            "offsetInEndSection": 510, 
+            "text": "One of the three nuclease hypersensitive sites in the Fab-7 boundary, HS1, contains multiple consensus-binding sequences for the GAGA factor, a protein known to be involved in the formation and/or maintenance of nucleosome-free regions of chromatin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15579691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 832, 
+            "text": "The HS3 sequence contains consensus binding sites for the GAGA factor, a protein implicated in the formation of nucleosome-free regions of chromatin, and Pleiohomeotic (Pho), a Polycomb group protein that is related to the mammalian transcription factor YY1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11158316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 618, 
+            "offsetInEndSection": 980, 
+            "text": "The interactions of GAGA factor and heat shock factor with their binding sites in chromatin occurred in two modes. Their interaction with binding sites in the nucleosome-free regions did not require ATP. In the presence of ATP both factors interacted also with nucleosomal binding sites, causing nucleosome rearrangements and a refinement of nucleosome positions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7737124", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 982, 
+            "offsetInEndSection": 1212, 
+            "text": "While chromatin remodeling upon transcription factor interaction has previously been interpreted to involve nucleosome disruption, the data suggest energy-dependent nucleosome sliding as main principle of chromatin reorganization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7737124", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1795, 
+            "offsetInEndSection": 1942, 
+            "text": " These (CT)n repeats are associated with a nonhistone protein(s) in vivo and are bound by a purified Drosophila protein, the GAGA factor, in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8474442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 630, 
+            "text": "This (CT)n element appears to contribute to formation of the wild-type chromatin structure of hsp26, an organized nucleosome array that leaves the HSEs in nucleosome-free, DNase I-hypersensitive (DH) site", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8474442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 828, 
+            "offsetInEndSection": 1086, 
+            "text": "The HS3 sequence contains consensus binding sites for the GAGA factor, a protein implicated in the formation of nucleosome-free regions of chromatin, and Pleiohomeotic (Pho), a Polycomb group protein that is related to the mammalian transcription factor YY1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11158316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 509, 
+            "offsetInEndSection": 758, 
+            "text": "One of the three nuclease hypersensitive sites in the Fab-7 boundary, HS1, contains multiple consensus-binding sequences for the GAGA factor, a protein known to be involved in the formation and/or maintenance of nucleosome-free regions of chromatin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15579691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "The iab-7 polycomb response element maps to a nucleosome-free region of chromatin and requires both GAGA and pleiohomeotic for silencing activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11158316", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 833, 
+            "text": "The HS3 sequence contains consensus binding sites for the GAGA factor, a protein implicated in the formation of nucleosome-free regions of chromatin, and Pleiohomeotic (Pho), a Polycomb group protein that is related to the mammalian transcription factor YY1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11158316", 
+            "endSection": "abstract"
+        }
+    ]
+}

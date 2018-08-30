@@ -1,0 +1,124 @@
+{
+    "body": "Is myasthenia gravis associated with osteoporosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15168159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25122205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25285145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22531999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16690366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22840813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15003307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11328209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24935165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2237235", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23543381"
+    ], 
+    "ideal_answer": [
+        "Myasthenia gravis (MG) is a neuromuscular disease which has been associated with an increased risk of glucocorticoid-induced osteoporosis. Thymectomy can also increase risk for osteoporosis. Appropriate osteoporosis preventive measures can reduce osteoporosis risk in MG patients."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:437", 
+        "http://www.disease-ontology.org/api/metadata/DOID:11476"
+    ], 
+    "type": "yesno", 
+    "id": "55032d8be9bde69634000033", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 615, 
+            "text": "We performed PVP in 4 patients with generalized MG associated with recent steroid-induced symptomatic VFs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23543381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 242, 
+            "offsetInEndSection": 436, 
+            "text": "In this case report, we used tacrolimus to successfully treat a 13-year-old boy with ocular MG who had suffered from severe steroid complications, including a failure of thrive and osteoporosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22840813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 573, 
+            "text": " INTRODUCTION: Myasthenia gravis (MG) is a neuromuscular disease which has been associated with an increased falls risk and glucocorticoid-induced osteoporosis, recognized determinants of increased fracture risk. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22531999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1462, 
+            "text": "RESULTS: Compared to the control cohort, there was no statistically significant increased risk observed in patients with MG for any fracture (adjusted hazard ratio [AHR] 1.11; 95 % confidence interval [CI], 0.84-1.47) or osteoporotic fractures (AHR 0.98 [95 % CI 0.67-1.41]). Further, use of oral glucocorticoids up to a cumulative dose exceeding 5 g prednisolone equivalents did not increase risk of osteoporotic fracture (AHR 0.99 [95 % CI, 0.31-3.14]) compared with MG patients without glucocorticoid exposure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22531999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1271, 
+            "offsetInEndSection": 1405, 
+            "text": "The RANKL/OPG ratio and indices of bone metabolisms are also not affected by THX, although THX increases the levels of IL-7 and RANKL.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16690366", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 83, 
+            "offsetInEndSection": 575, 
+            "text": "Both disorders had been controlled for around 15 years by oral prednisolone and a cholinesterase inhibitor following surgical removal of invasive thymoma and radiotherapy, but muscular weakness due to myalgia and an increase in serum levels of myogenic enzymes, mainly ascribable to the recurrence of PM, reappeared immediately after cessation of these drugs, which was done because the patient had multiple bone fractures and severe osteoporosis due to the long-term corticosteroid therapy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15168159", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 160, 
+            "offsetInEndSection": 391, 
+            "text": "We measured bone density in 36 patients (26 females and 10 males) who had undergone long-term prednisolone administration, and found a decrease in bone density in 31% of female patients and osteoporosis in only 11.5% (three cases).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15003307", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 681, 
+            "text": "In conclusion, prednisolone-treated patients with myasthenia gravis have an acceptable risk of bone loss if prophylactic medication is administered.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15003307", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 361, 
+            "offsetInEndSection": 572, 
+            "text": "INTRODUCTION: Myasthenia gravis (MG) is a neuromuscular disease which has been associated with an increased falls risk and glucocorticoid-induced osteoporosis, recognized determinants of increased fracture risk.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22531999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 901, 
+            "offsetInEndSection": 1020, 
+            "text": "Alendronate should be used with caution in patients with myasthenia gravis who have corticosteroid-induced osteoporosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24935165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 399, 
+            "offsetInEndSection": 614, 
+            "text": "In this paper we present two cases of young women who developed severe PAO with vertebral fractures: a 42-year-old woman with a family history of osteoporosis, and a 21-year-old woman affected with myasthenia gravis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25285145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 549, 
+            "text": "Myasthenia gravis (MG) is a neuromuscular disease which has been associated with an increased falls risk and glucocorticoid-induced osteoporosis, recognized determinants of increased fracture risk", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22531999", 
+            "endSection": "abstract"
+        }
+    ]
+}

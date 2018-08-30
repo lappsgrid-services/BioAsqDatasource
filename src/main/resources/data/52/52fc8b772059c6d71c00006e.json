@@ -1,0 +1,180 @@
+{
+    "body": "Which are the known inhibitors of the TPL2/MAP3K8 protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17664070", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16165349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23828905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21851209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21862328", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21705614", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19217782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20606319", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19464884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21742493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17715908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18755587"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q63562", 
+            "o": "http://linkedlifedata.com/resource/#_51363335363200E"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51363335363200E", 
+            "o": "Tpl2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_51363335363200C", 
+            "o": "TPL-2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51363335363200B", 
+            "o": "Mitogen-activated protein kinase kinase kinase 8"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51363335363200C", 
+            "o": "Tumor progression locus 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51363335363200E", 
+            "o": "Map3k8"
+        }
+    ], 
+    "ideal_answer": [
+        "[1,7]naphthyridine-3-carbonitriles and quinoline-3-carbonitriles were the first Tumor Progression Loci-2 (Tpl2) kinase inhibitors. 4-alkylamino-[1,7]naphthyridine-3-carbonitriles are also known to inhibit Tpl2 function as well as quinoline-3-carbonitrile derivatives, thieno[3,2-d]pyrimidines and 2,4-disubstituted thieno[2,3-c]pyridines, indazoles, 4-Alkylamino-[1,7]naphthyridine-3-carbonitriles and generally molecules belonging to the wide categories of quinoline-3-carbonitriles, indazoles and thieno-pyrimidines.", 
+        "Honokiol\nThieno[3,2-d]pyrimidines and thieno[2,3-c]pyridine\nQuinoline-3-carbonitrile derivatives (8-halo-4-(3-chloro-4-fluoro-phenylamino)-6-[(1H-[1,2,3]triazol-4-ylmethyl)-amino]-quinoline-3-carbonitriles; 8-bromo-4-(3-chloro-4-fluorophenylamino)-6-[(1-methyl-1H-imidazol-4-yl)methylamino]quinoline-3-carbonitrile; 4-alkylamino-[1,7]naphthyridine-3-carbonitrile; 1,7-naphthyridine-3-carbonitriles)\nIndazoles\nLuteolin\n1,7-naphtyridine-3-carbonitrile"
+    ], 
+    "exact_answer": [
+        [
+            "Honokiol"
+        ], 
+        [
+            "Thieno[3,2-d]pyrimidines and thieno[2,3-c]pyridine", 
+            "thieno-pyrimidines"
+        ], 
+        [
+            "Quinoline-3-carbonitrile derivatives (8-halo-4-(3-chloro-4-fluoro-phenylamino)-6-[(1H-[1,2,3]triazol-4-ylmethyl)-amino]-quinoline-3-carbonitriles", 
+            "quinoline-3-carbonitriles"
+        ], 
+        [
+            "8-bromo-4-(3-chloro-4-fluorophenylamino)-6-[(1-methyl-1H-imidazol-4-yl)methylamino]quinoline-3-carbonitrile; 4-alkylamino-[1,7]naphthyridine-3-carbonitrile; 1,7-naphthyridine-3-carbonitriles)"
+        ], 
+        [
+            "Indazoles", 
+            "indazoles"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/M3K8_HUMAN", 
+        "http://www.uniprot.org/uniprot/M3K8_RAT", 
+        "http://www.uniprot.org/uniprot/M3K8_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D047428", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033673"
+    ], 
+    "type": "list", 
+    "id": "52fc8b772059c6d71c00006e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1629, 
+            "offsetInEndSection": 1821, 
+            "text": "Taken together, our results suggest that the therapeutic inhibition of Tpl2 by Honokiol thwarts both gastric tumor growth and peritoneal dissemination by inducing ER stress and inhibiting EMT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23828905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 337, 
+            "text": "The article describes the development of a robust pharmacophore model and the investigation of structure-activity relationship analysis of quinoline-3-carbonitrile derivatives reported for Tpl2 kinase inhibition. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21851209", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 443, 
+            "offsetInEndSection": 613, 
+            "text": "In the present study, we found that luteolin inhibited TNF-\u03b1-induced COX-2 expression by down-regulating the transactivation of nuclear factor-\u03baB and activator protein-1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21705614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 445, 
+            "offsetInEndSection": 622, 
+            "text": "we studied the molecular mechanisms of Tpl2-mediated TNFalpha production using a potent Tpl2 kinase inhibitor, 1,7-naphtyridine-3-carbonitrile, and LPS-stimulated RAW264.7 cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20606319", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 249, 
+            "offsetInEndSection": 332, 
+            "text": "a selective and potent inhibitor of Tpl2, 1,7-naphtyridine-3-carbonitrile, was used", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20045951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 335, 
+            "text": "We have discovered that 8-halo-4-(3-chloro-4-fluoro-phenylamino)-6-[(1H-[1,2,3]triazol-4-ylmethyl)-amino]-quinoline-3-carbonitriles (4) are potent inhibitors of this enzyme", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19464884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1236, 
+            "offsetInEndSection": 1526, 
+            "text": "urther structure-activity based modifications led to the identification of 8-bromo-4-(3-chloro-4-fluorophenylamino)-6-[(1-methyl-1H-imidazol-4-yl)methylamino]quinoline-3-carbonitrile, which demonstrated in vitro as well as in vivo efficacy in inhibition of LPS-induced TNF-alpha production.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17715908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 224, 
+            "text": "nhibitors of tumor progression loci-2 (Tpl2) kinase and tumor necrosis factor alpha (TNF-alpha) production: selectivity and in vivo antiinflammatory activity of novel 8-substituted-4-anilino-6-aminoquinoline-3-carbonitriles", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17715908", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 42, 
+            "offsetInEndSection": 92, 
+            "text": "thieno[3,2-d]pyrimidines as Tpl2 kinase inhibitors", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21862328", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 75, 
+            "text": " selective thieno[2,3-c]pyridine inhibitor of COT kinase", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19217782", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 311, 
+            "text": "we report new SAR efforts which have led to the identification of 4-alkylamino-[1,7]naphthyridine-3-carbonitrile", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17664070", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 89, 
+            "text": "nhibition of Tpl2 kinase and TNF-alpha production with 1,7-naphthyridine-3-carbonitriles", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16165349", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,627 @@
+{
+    "body": "Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)\ncause sudden cardiac death?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19564966", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24076290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22119737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18684293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19601860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21135804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15890976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18483626", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19575158", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19568611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19631908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20513597", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17959506", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24011300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22995932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20091251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19781797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21616285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22524859", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20143088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22050625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21893508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22307399", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22993115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21872879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19345240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22749309", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23286974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12837242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23040497", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12574890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20361477", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15749201", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17052226", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21292648", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11807805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23094885", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12386154"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11993336", 
+            "o": "114251.0001"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1861943", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11993336"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1861943", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16614236"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1861943", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16614236"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11993336", 
+            "o": "CASQ2, ASP307HIS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16614236", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 2; CPVT2, ASP307HIS"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16614236", 
+            "o": "114251.0001"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11975890", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617838", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, ASN4104LYS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867064", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16617838"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11975890", 
+            "o": "RYR2, ASN4104LYS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867064", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11975890"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617838", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932851", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932851", 
+            "o": "RYR2, ARG2474SER"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867063", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16617837"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867063", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11932851"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617837", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, ARG2474SER"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617837", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608313", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2674258", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16610181"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16610181", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, ALA4860GLY"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2674258", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16610181"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16608313", 
+            "o": "RYR2, ALA4860GLY"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2674258", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16608313"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16610181", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932853", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867068", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11932853"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867068", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16606467"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932853", 
+            "o": "RYR2, PRO2328SER"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16606467", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, PRO2328SER"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16606467", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11975891", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11975891", 
+            "o": "RYR2, ARG4497CYS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867065", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16617839"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617839", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, ARG4497CYS"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867065", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11975891"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867065", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16617839"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16617839", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11961599", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867070", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11961599"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16610180", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, GLN4201ARG"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867070", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16610180"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867070", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16610180"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11961599", 
+            "o": "RYR2, GLN4201ARG"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16610180", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932850", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867062", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11932850"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867062", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16615879"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615879", 
+            "o": "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1; CPVT1, SER2246LEU"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1867062", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16615879"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11932850", 
+            "o": "RYR2, SER2246LEU"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16615879", 
+            "o": "OMIM"
+        }
+    ], 
+    "ideal_answer": [
+        "Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) can cause sudden cardiac death."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016757", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013610", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017180"
+    ], 
+    "type": "yesno", 
+    "id": "52e8e96698d023950500001f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 828, 
+            "offsetInEndSection": 884, 
+            "text": "Two siblings died suddenly at the ages of 9 and 10\u00a0years", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24076290", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 365, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a type of cardiac arrhythmia that occurs in people with a structurally normal heart. Stress or anxiety-induced release of endogenous catecholamines causes a dysfunction in the myocytic calcium-ion channel, leading to ventricular arrhythmias that can cause dizziness, syncope, or sudden cardiac death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24011300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1449, 
+            "offsetInEndSection": 1607, 
+            "text": "During a follow-up of 48\u00b194 months, arrhythmia events (sudden cardiac death and aborted cardiac arrest) associated with noncompliance occurred in 2 patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23286974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 146, 
+            "offsetInEndSection": 500, 
+            "text": "We report a family with repeat events of sudden cardiac death and recurrent ventricular fibrillation in a teenage girl, where autopsy data and clinical investigations were inconclusive. The diagnosis of catecholaminergic polymorphic ventricular tachycardia (CPVT) was established only following finding a gene mutation in the cardiac ryanodine receptor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23094885", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 358, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a devastating inherited disorder characterized by episodic syncope and/or sudden cardiac arrest during exercise or acute emotion in individuals without structural cardiac abnormalities. Although rare, CPVT is suspected to cause a substantial part of sudden cardiac deaths in young individuals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23040497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 593, 
+            "text": "catecholaminergic polymorphic ventricular tachycardia (CPVT), and Brugada syndrome (BrS), leave no evidence to be found at autopsy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22993115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 511, 
+            "text": "a spectrum of sudden cardiac death (SCD)-predisposing heritable cardiac arrhythmia syndromes, including long QT syndrome (LQTS), short QT syndrome (SQTS), Brugada syndrome (BrS), and catecholaminergic polymorphic ventricular tachycardia (CPVT). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22995932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 344, 
+            "text": "CPVT is a familial arrhythmogenic syndrome characterized by abnormal calcium (Ca(2+)) handling, ventricular arrhythmias, and sudden cardiac death", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22749309", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 832, 
+            "text": "Mutations in RyR2 are linked to catecholaminergic polymorphic ventricular tachycardia (CPVT) and sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22524859", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 537, 
+            "text": "Patients with CPVT often present with exercise- or emotion induced syncope, the first presentation can also be sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22119737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 126, 
+            "offsetInEndSection": 348, 
+            "text": "Among the five major arrhythmogenic disorders occurring in the absence of a structural heart disease is catecholaminergic polymorphic ventricular tachycardia (CPVT), which is a highly lethal form of inherited arrhythmias. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22050625", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 376, 
+            "text": "Patients with CPVT are at high risk of developing life-threatening ventricular arrhythmias when untreated. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21893508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an inherited arrhythmia syndrome characterized by VT induced by adrenergic stress in the absence of structural heart disease and high incidence of sudden cardiac death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21872879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 202, 
+            "offsetInEndSection": 470, 
+            "text": "CPVT is an inherited arrhythmia syndrome caused by gene mutations that destabilize cardiac ryanodine receptor Ca(2+) release channels. Sudden cardiac death is incompletely prevented by conventional drug therapy with \u03b2-blockers with or without Ca(2+) channel blockers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21616285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an inherited arrhythmogenic disease that can cause sudden cardiac death due to ventricular fibrillation (VF).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21292648", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 349, 
+            "text": "Important potential causes of sudden cardiac deaths in the absence of heart disease are primary electrical diseases such as Brugada syndrome, long QT syndrome (LQTS), short QT syndrome and catecholaminergic polymorphic ventricular tachyarrhythmias. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21135804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 223, 
+            "offsetInEndSection": 425, 
+            "text": "catecholaminergic polymorphic ventricular tachycardia (CPVT), and Brugada syndrome (BrS) are primary inherited arrhythmia syndromes that may cause syncope and sudden cardiac death in young individuals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20513597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 265, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a cardiac channelopathy characterized by altered intracellular calcium handling resulting in ventricular arrhythmias and high risk of cardiac sudden death in young cases with normal structural hearts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20361477", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an inherited arrhythmogenic disorder that causes syncopal episodes related with stress or emotion and even sudden cardiac deaths.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20143088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 190, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia caused by mutations in the RyR2 gene manifests as severe arrhythmias, and may provide a candidate for sudden cardiac deaths.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19781797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 306, 
+            "text": "Patients diagnosed with an electrical cardiomyopathy have an increased risk of syncope and sudden cardiac death (SCD). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20091251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1278, 
+            "offsetInEndSection": 1399, 
+            "text": "Patients with CPVT present with exercise-induced syncope and sudden cardiac death but normal resting electrocardiograms. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19631908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 180, 
+            "offsetInEndSection": 820, 
+            "text": "Over 80% of SCD occurs in patients with organic heart disease. However, approximately 10-15% of SCD occurs in the presence of structurally normal heart and the majority of those patients are young. In this group of patients, changes in genes encoding cardiac ion channels produce modification of the function of the channel resulting in an electrophysiological substrate of VA and SCD. Collectively these disorders are referred to as Cardiac Ion Channelopathies. The 4 major syndromes in this group are: The Long QT Syndrome (LQTS), the Brugada Syndrome (BrS), the Short QT Syndrome (SQTS), and the Catecholaminergic Polymorphic VT (CPVT). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19601860", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 365, 
+            "text": "Important potential causes of sudden cardiac deaths in the absence of heart disease are primary electrical diseases such as Brugada syndrome, long QT syndrome (LQTS), short QT syndrome (SQTS), and catecholaminergic polymorphic ventricular tachyarrhythmias (CPVT). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19575158", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a familial cardiac arrhythmia that is related to RYR2 or CASQ2 gene mutation. It occurs in patients with structurally normal heart and causes exercise-emotion-triggered syncope and sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19568611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 722, 
+            "offsetInEndSection": 879, 
+            "text": "Potentially lethal ion channel disorders (channelopathies) such as the long QT syndromes (LQTS), catecholaminergic polymorphic ventricular tachycardia (CPVT)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19564966", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 211, 
+            "offsetInEndSection": 513, 
+            "text": "Aberrant spontaneous, diastolic Ca2+ leak from the SR due to dysfunctional RyR2 contributes to the formation of delayed after-depolarisations, which are thought to underlie the fatal arrhythmia that occurs in both heart failure (HF) and in catecholaminergic polymorphic ventricular tachycardia (CPVT). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19345240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an uncommon heritable disease presenting with syncope or sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18684293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 148, 
+            "offsetInEndSection": 287, 
+            "text": "Mutations in RyR2 have been linked to exercise-induced sudden cardiac death (catecholaminergic polymorphic ventricular tachycardia [CPVT]).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18483626", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 201, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a heritable arrhythmia unmasked by exertion or stress, characterized by triggered activity and sudden cardiac death in affected patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17959506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 692, 
+            "text": "families that exhibit CPVT (catecholaminergic polymorphic ventricular tachycardia), a condition in which physical or emotional stress can trigger severe tachyarrhythmias that can lead to sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17052226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1381, 
+            "offsetInEndSection": 1432, 
+            "text": "that often leads to sudden death in HF and in CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17052226", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an inherited disease characterized by adrenergically mediated polymorphic ventricular tachycardia leading to syncope and sudden cardiac death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15890976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 220, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an autosomal dominant inherited disorder characterized by adrenergic induced polymorphic ventricular tachycardias and associated with sudden cardiac death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15749201", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1001, 
+            "offsetInEndSection": 1128, 
+            "text": "These data suggest that \"leaky\" RyR2 channels can trigger fatal cardiac arrhythmias, providing a possible explanation for CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12837242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 247, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a rare arrhythmogenic disorder characterized by syncopal events and sudden cardiac death at a young age during physical stress or emotion, in the absence of structural heart disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12386154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 355, 
+            "text": " catecholaminergic polymorphic ventricular tachycardia (CPVT), idiopathic ventricular fibrillation (VF), and arrhythmogenic right ventricular cardiomyopathy (ARVC) account for a relevant proportion of sudden cardiac death cases in young patients cohorts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12574890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 284, 
+            "text": "has recently been shown to be involved in at least two forms of sudden cardiac death (SCD): (1) Catecholaminergic polymorphic ventricular tachycardia (CPVT) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11807805", 
+            "endSection": "abstract"
+        }
+    ]
+}

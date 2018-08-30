@@ -1,0 +1,128 @@
+{
+    "body": "Which myosin isozymes are located within the pericuticular necklace of the hair cell?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12471897", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12486594", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17048225", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9182663"
+    ], 
+    "ideal_answer": [
+        "The hair cell is located in the inner ear, a tissue that is particularly reliant on actin-rich structures and unconventional myosin isozymes. Within the pericuticular necklace, a domain of the hair cell, certain unconventional myosin isozymes are located, namely myosins-Ibeta, myosin-VI, and myosin-VIIa."
+    ], 
+    "exact_answer": [
+        [
+            "myosins-Ibeta"
+        ], 
+        [
+            "myosin-VI"
+        ], 
+        [
+            "myosin-VIIa"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035315", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002093", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032507"
+    ], 
+    "type": "list", 
+    "id": "5548da00f35db7552600000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 416, 
+            "offsetInEndSection": 527, 
+            "text": "Myosin 1 beta, VI, VIIa and probably XV are all expressed within a single cell in the inner ear, the hair cell.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12471897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 528, 
+            "offsetInEndSection": 692, 
+            "text": "The myosin isozymes expressed in the hair cell all have unique domains of expression and in some areas, such as the pericuticular necklace, several domains overlap.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12471897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1071, 
+            "offsetInEndSection": 1163, 
+            "text": "Substantial amounts of myosins-Ibeta, -VI, and -VIIa are located in a pericuticular necklace", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 129, 
+            "offsetInEndSection": 281, 
+            "text": "four unconventional myosin isozymes in the inner ear, a tissue that is particularly reliant on actin-rich structures and unconventional myosin isozymes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 522, 
+            "offsetInEndSection": 687, 
+            "text": "The myosin isozymes expressed in the hair cell all have unique domains of expression and in some areas, such as the pericuticular necklace, several domains overlap.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12471897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1064, 
+            "offsetInEndSection": 1292, 
+            "text": "Substantial amounts of myosins-Ibeta, -VI, and -VIIa are located in a pericuticular necklace that is largely free of F-actin, squeezed between (but not associated with) actin of the cuticular plate and the circumferential belt.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 281, 
+            "text": "To understand how cells differentially use the dozens of myosin isozymes present in each genome, we examined the distribution of four unconventional myosin isozymes in the inner ear, a tissue that is particularly reliant on actin-rich structures and unconventional myosin isozymes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 340, 
+            "offsetInEndSection": 533, 
+            "text": "This study examined the changes of myosin VI and myosin VIIa, two unconventional myosins that are critical for normal hair cell formation and function, during hair cell death and regeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17048225", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1071, 
+            "offsetInEndSection": 1298, 
+            "text": "Substantial amounts of myosins-Ibeta, -VI, and -VIIa are located in a pericuticular necklace that is largely free of F-actin, squeezed between (but not associated with) actin of the cuticular plate and the circumferential belt.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1071, 
+            "offsetInEndSection": 1297, 
+            "text": "Substantial amounts of myosins-Ibeta, -VI, and -VIIa are located in a pericuticular necklace that is largely free of F-actin, squeezed between (but not associated with) actin of the cuticular plate and the circumferential belt", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 528, 
+            "offsetInEndSection": 691, 
+            "text": "The myosin isozymes expressed in the hair cell all have unique domains of expression and in some areas, such as the pericuticular necklace, several domains overlap", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12471897", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 280, 
+            "text": "To understand how cells differentially use the dozens of myosin isozymes present in each genome, we examined the distribution of four unconventional myosin isozymes in the inner ear, a tissue that is particularly reliant on actin-rich structures and unconventional myosin isozymes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9182663", 
+            "endSection": "abstract"
+        }
+    ]
+}

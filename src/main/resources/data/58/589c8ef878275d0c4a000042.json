@@ -1,0 +1,159 @@
+{
+    "body": "What is BioCreative?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18629295", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18834491", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22151647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23327936", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18834496", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16504116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23160416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27589962", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22151968", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20498514", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22438567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18834487", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22151178", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15960842", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15960843", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15960821"
+    ], 
+    "ideal_answer": [
+        "A community wide effort to evaluate biomedical information extraction and text mining."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D063369"
+    ], 
+    "type": "summary", 
+    "id": "589c8ef878275d0c4a000042", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 272, 
+            "text": " two biomedical named entity recognition (NER) comparative evaluations that have been held to date, namely BioCreative and Coling ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18629295", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 483, 
+            "offsetInEndSection": 807, 
+            "text": "The BioCreative II.5 community challenge addressed these tasks in a competition-style assessment to evaluate and compare different methodologies, to make aware of the increasing accuracy of automated methods, and to guide future implementations. In this paper, we present our approaches for protein-named entity recognition,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20498514", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "In task 1A of the BioCreAtIvE evaluation, systems had to be devised that recognize words and phrases forming gene or protein names in natural language sentences", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 417, 
+            "text": "BioCreAtIvE, a competition for automated gene/protein name recognition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960842", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "An overview of the BioCreative 2012 Workshop Track III: interactive text mining task.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23327936", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Biocuration workflows and text mining: overview of the BioCreative 2012 Workshop Track II.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23160416", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Evaluation of text-mining systems for biology: overview of the Second BioCreative community challenge.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18834487", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "How to link ontologies and protein-protein interactions to literature: text-mining approaches and the BioCreative experience.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22438567", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 563, 
+            "offsetInEndSection": 713, 
+            "text": "The 2006 BioCreative competition was aimed at evaluating text-mining procedures in comparison with manual annotation of protein-protein interactions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18834496", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 780, 
+            "offsetInEndSection": 927, 
+            "text": "RESULTS: The Biocreative 2010 competition addressed three tasks: gene normalization, article classification and interaction method identification. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22151178", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 979, 
+            "offsetInEndSection": 1222, 
+            "text": "BioCreAtIvE task 2 was an experiment to test if automatically derived classification using information retrieval and extraction could assist expert biologists in the annotation of the GO vocabulary to the proteins in the UniProt Knowledgebase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960829", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 465, 
+            "text": "To this end BioCreative I was held in 2004, BioCreative II in 2007, and BioCreative II.5 in 2009. Each of these workshops involved humanly annotated test data for several basic tasks in text mining applied to the biomedical literature.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22151647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 327, 
+            "text": "BACKGROUND: The overall goal of the BioCreative Workshops is to promote the development of text mining and text processing tools which are useful to the communities of researchers and database curators in the biological sciences. To this end BioCreative I was held in 2004, BioCreative II in 2007, and BioCreative II.5 in 2009.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22151647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 465, 
+            "text": "BACKGROUND: The overall goal of the BioCreative Workshops is to promote the development of text mining and text processing tools which are useful to the communities of researchers and database curators in the biological sciences. To this end BioCreative I was held in 2004, BioCreative II in 2007, and BioCreative II.5 in 2009. Each of these workshops involved humanly annotated test data for several basic tasks in text mining applied to the biomedical literature.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22151647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 650, 
+            "text": "To this end BioCreative I was held in 2004, BioCreative II in 2007, and BioCreative II.5 in 2009. Each of these workshops involved humanly annotated test data for several basic tasks in text mining applied to the biomedical literature. Participants in the workshops were invited to compete in the tasks by constructing software systems to perform the tasks automatically and were given scores based on their performance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22151647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Overview of BioCreAtIvE: critical assessment of information extraction for biology.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15960821", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "body": "Is osteocrin expressed exclusively in the bone?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15923362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14523025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27830782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17951249"
+    ], 
+    "ideal_answer": [
+        "No, Osteocrin (Ostn) has been detected in the bones and the brain."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58df73bd38f7f3e93a000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Evolution of Osteocrin as an activity-regulated factor in the primate brain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27830782", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 390, 
+            "offsetInEndSection": 601, 
+            "text": "Here we use transcriptional profiling of human fetal brain cultures to identify an activity-dependent secreted factor, Osteocrin (OSTN), that is induced by membrane depolarization of human but not mouse neurons.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27830782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Osteocrin (Ostn) is a recently discovered secreted protein produced by cells of the osteoblast lineage that shows a well conserved homology with members of the natriuretic peptide (NP) family. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17951249", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "Osteocrin (Ostn), a bone-active molecule, has been shown in animals to be highly expressed in cells of the osteoblast lineage. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15923362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Osteocrin, a novel bone-specific secreted protein that modulates the osteoblast phenotype.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14523025", 
+            "endSection": "title"
+        }
+    ]
+}

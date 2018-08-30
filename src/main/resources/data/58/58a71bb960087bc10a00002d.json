@@ -1,0 +1,184 @@
+{
+    "body": "Are Ultra-conserved elements (UCEs) enriched in segmental duplications?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22987666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18957701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24349264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21092253"
+    ], 
+    "ideal_answer": [
+        "ULEs are located in intergenic or intronic regions and are depleted from segmental duplications. In addition, here we show that these elements are preferentially found in pathogenic deletions (enrichment ratio 3.6 vs. 0.5 in duplications), and that this association is not related with a higher content of genes.", 
+        "we begin by showing that depletion for uces characterizes the most recent large-scale human cnv datasets and then find that even newly formed de novo cnvs, which have passed through meiosis at most once, are significantly depleted for uces.", 
+        "Ultraconserved elements (UCEs) are strongly depleted from segmental duplications and copy number variations (CNVs) in the human genome, suggesting that deletion or duplication of a UCE can be deleterious to the mammalian cell. These elements are most often located either overlapping exons in genes involved in RNA processing or in introns or nearby genes involved in the regulation of transcription and development.", 
+        "Mammalian ultraconserved elements are strongly depleted among segmental duplications and copy number variants. Notably, of the UCEs that are found in segmental duplications or copy number variants, the majority overlap exons, indicating, along with other findings presented, that UCEs overlapping exons represent a distinct subset.", 
+        "Here we address the process by which CNVs become depleted of UCEs. We begin by showing that depletion for UCEs characterizes the most recent large-scale human CNV datasets and then find that even newly formed de novo CNVs, which have passed through meiosis at most once, are significantly depleted for UCEs.", 
+        "Mammalian ultraconserved elements are strongly depleted among segmental duplications and copy number variants."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58a71bb960087bc10a00002d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 227, 
+            "offsetInEndSection": 293, 
+            "text": "Here we address the process by which CNVs become depleted of UCEs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 294, 
+            "offsetInEndSection": 534, 
+            "text": "We begin by showing that depletion for UCEs characterizes the most recent large-scale human CNV datasets and then find that even newly formed de novo CNVs, which have passed through meiosis at most once, are significantly depleted for UCEs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 535, 
+            "offsetInEndSection": 680, 
+            "text": "In striking contrast, CNVs arising specifically in cancer cells are, as a rule, not depleted for UCEs and can even become significantly enriched.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 863, 
+            "offsetInEndSection": 954, 
+            "text": "Alternatively, lack of depletion for UCEs from cancer CNVs may reflect the diseased state. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 949, 
+            "offsetInEndSection": 1045, 
+            "text": "ULEs are located in intergenic or intronic regions and are depleted from segmental duplications.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22987666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 442, 
+            "offsetInEndSection": 579, 
+            "text": "Interestingly, human UCEs have been reported to be strongly depleted among segmental duplications and benign copy number variants (CNVs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21092253", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1126, 
+            "offsetInEndSection": 1341, 
+            "text": "In addition, here we show that these elements are preferentially found in pathogenic deletions (enrichment ratio 3.6 vs. 0.5 in duplications), and that this association is not related with a higher content of genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21092253", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1342, 
+            "offsetInEndSection": 1433, 
+            "text": "In contrast, pathogenic CNVs lacking UCEs showed almost a threefold higher content in genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21092253", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 362, 
+            "offsetInEndSection": 581, 
+            "text": "We have demonstrated that nonexonic UCEs are depleted among segmental duplications (SDs) and copy number variants (CNVs) and proposed that their ultraconservation may reflect a mechanism of copy counting via comparison.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18957701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Mammalian ultraconserved elements are strongly depleted among segmental duplications and copy number variants.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 936, 
+            "text": "Here, we show that UCEs are significantly depleted among segmental duplications and copy number variants. Notably, of the UCEs that are found in segmental duplications or copy number variants, the majority overlap exons, indicating, along with other findings presented, that UCEs overlapping exons represent a distinct subset.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "Ultraconserved elements (UCEs) are strongly depleted from segmental duplications and copy number variations (CNVs) in the human genome, suggesting that deletion or duplication of a UCE can be deleterious to the mammalian cell.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 609, 
+            "offsetInEndSection": 714, 
+            "text": "Here, we show that UCEs are significantly depleted among segmental duplications and copy number variants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 578, 
+            "text": "We have demonstrated that nonexonic UCEs are depleted among segmental duplications (SDs) and copy number variants (CNVs) and proposed that their ultraconservation may reflect a mechanism of copy counting via comparison.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18957701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 715, 
+            "text": "Here, we show that UCEs are significantly depleted among segmental duplications and copy number variants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "Ultraconserved elements (UCEs) are strongly depleted from segmental duplications and copy number variations (CNVs) in the human genome, suggesting that deletion or duplication of a UCE can be deleterious to the mammalian cell", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25340765", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 817, 
+            "offsetInEndSection": 931, 
+            "text": "melanogaster genome revealed depletion of the P-element and piggyBac insertions in and around the Sophophora UCEs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24349264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Mammalian ultraconserved elements are strongly depleted among segmental duplications and copy number variants.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 717, 
+            "text": "Here, we show that UCEs are significantly depleted among segmental duplications and copy number variants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 567, 
+            "text": "Interestingly, human UCEs have been reported to be strongly depleted among segmental duplications and benign copy number variants (CNVs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21092253", 
+            "endSection": "abstract"
+        }
+    ]
+}

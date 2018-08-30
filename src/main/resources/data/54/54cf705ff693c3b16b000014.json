@@ -1,0 +1,304 @@
+{
+    "body": "List receptors of the drug Cilengitide", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22517378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25486381", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23728220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12706360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17896915", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23948974", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21739168", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21049281", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18981465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21914576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24328341", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23060541", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21269250", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19929817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24433287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22582818", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20648558", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17693653", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16729916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12154028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24595274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21827415", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20029421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21512659", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23152080", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23229276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18838556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20820929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18779539"
+    ], 
+    "ideal_answer": [
+        "Cilengitide binds \u03b1v\u03b23 and \u03b1v\u03b25 integrins. It inhibits attachment and invasion of malignant cells. Thus, cilengitide is being tested for treatment of cancer patients."
+    ], 
+    "exact_answer": [
+        [
+            "\u03b1v\u03b23 integrin"
+        ], 
+        [
+            "\u03b1\u03bd\u03b25 integrin"
+        ], 
+        [
+            "\u03b1v\u03b25", 
+            "\u03b1v\u03b23"
+        ]
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4242009"
+    ], 
+    "type": "list", 
+    "id": "54cf705ff693c3b16b000014", 
+    "snippets": [
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 130, 
+            "text": "Cilengitide inhibits attachment and invasion of malignant pleural mesothelioma cells through antagonism of integrins \u03b1v\u03b23 and \u03b1v\u03b25.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24595274", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1501, 
+            "offsetInEndSection": 1764, 
+            "text": "Also, this dimer bound 3650-fold stronger and inhibited tumor cell migration and proliferation compared with cilengitide, an integrin-targeting peptidomimetic that performed poorly in recent clinical trials, suggesting promise for further therapeutic development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25486381", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 480, 
+            "offsetInEndSection": 727, 
+            "text": "As there is evidence for expression of the integrins \u03b1v\u03b23 and \u03b1v\u03b25 in MPM, there is a rationale for investigating the effects on MPM of cilengitide, a synthetic peptide inhibitor of integrin \u03b1v heterodimer with high specificity for \u03b1v\u03b23 and \u03b1v\u03b25. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24595274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1057, 
+            "offsetInEndSection": 1186, 
+            "text": "Gene knockdown experiments indicated that these effects of cilengitide were, at least partly, due to antagonism of \u03b1v\u03b23 and \u03b1v\u03b25.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24595274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Abstract The RGD cyclic pentapetide, cilengitide, is a selective inhibitor of \u03b1v\u03b23 and \u03b1v\u03b25 integrins and was developed for antiangiogenic therapy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24433287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Cilengitide is an RGD-peptide of sequence cyclo[RGDfNMeV] that was was developed as a highly active and selective ligand for the \u03b1v\u03b23 and \u03b1v\u03b25 integrin receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24328341", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 529, 
+            "offsetInEndSection": 793, 
+            "text": "RESULTS: \u03b1v\u03b25 was the predominantly expressed integrin heterodimer in meningiomas, whereas \u03b1v\u03b23 was mainly detected in tumor blood vessels. Application of up to 100 \u03bcg/mL cilengitide resulted in only mildly reduced proliferation/survival of meningioma cell lines. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23948974", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 914, 
+            "offsetInEndSection": 1066, 
+            "text": "UW479 cells expressed only \u03b1v\u03b25 integrin and were not sensitive to cilengitide, suggesting that cilengitide's action largely depends on \u03b1v\u03b23 inhibition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23728220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1503, 
+            "offsetInEndSection": 1629, 
+            "text": "Cilengitide's action on glioma and neuroblastoma cells appears to be dependent on \u03b1v\u03b23 expression and sensitivity to anoikis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23728220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 542, 
+            "text": "METHODS: For this purpose, nude rats bearing bone metastases were treated with cilengitide, a small molecule inhibitor of \u03b1v\u03b23 and \u03b1v\u03b25 integrins, from day 30 to 55 after tumor cell inoculation of MDA-MB-231 breast cancer cells (25 mg/kg, 5 days per week; n = 8 rats) and compared to control rats (n = 8). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23229276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 124, 
+            "text": "The \u03b1V\u03b23/\u03b1V\u03b25 integrin inhibitor cilengitide augments tumor response to melphalan isolated limb perfusion in a sarcoma model.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23152080", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1122, 
+            "offsetInEndSection": 1385, 
+            "text": "Cilengitide, a cyclized Arg-Gly-Glu(RGD)-containing pentapeptide that selectively blocks activation of the \u03b1v\u03b23 and \u03b1v\u03b25 integrins has shown encouraging activity in patients with glioblastoma as single agent, and in association with standard RT and temozolomide. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23060541", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 573, 
+            "offsetInEndSection": 871, 
+            "text": " Aza-amino acid scanning was performed on the cyclic RGD-peptide Cilengitide, cyclo[R-G-D-f-N(Me)V] 1, and its parent peptide cyclo(R-G-D-f-V) 2, potent antagonists of the \u03b1v\u03b23, \u03b1v\u03b25, and \u03b15\u03b21 integrin receptors, which play important roles in human tumor metastasis and tumor-induced angiogenesis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22582818", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 244, 
+            "text": "Cilengitide (EMD121974; Merck KGaA, Darmstadt, Germany) is a new drug targeting \u03b1v\u03b23 and \u03b1v\u03b25 integrins thanks to a specific peptide called RGD sequence. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21914576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 548, 
+            "offsetInEndSection": 669, 
+            "text": "Cilengitide, a cyclic RGD-mimetic peptide of \u03b1v\u03b23 and \u03b1v\u03b25 integrins is in advanced clinical development in glioblastoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21827415", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 330, 
+            "text": "The purpose of this study was the assessment of the feasibility of dynamic positron emission tomography (PET) studies with fluorine-18 fluorodeoxyglucose ((18)F-FDG) to quantify effects of the cyclic Arg-Gly-Asp peptide cilengitide, which targets the \u03b1\u03bd\u03b2 3 and \u03b1\u03bd\u03b2 5 integrin receptors in rats with breast cancer bone metastases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21512659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 92, 
+            "offsetInEndSection": 269, 
+            "text": "We conducted a phase II study of cilengitide, a selective antagonist of \u03b1(v)\u03b2(3) and \u03b1(v)\u03b2(5) integrins, in non-metastatic castration resistant prostate cancer with rising PSA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21049281", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 346, 
+            "text": "AlphaVbeta3 and alphaVbeta5 integrins are overexpressed on both glioma cells and tumor vasculature. Cilengitide, the most advanced specific integrin inhibitor in oncology, has shown antitumor activity against glioma in early clinical trials. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20820929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 468, 
+            "text": "The aim of this study was to investigate the effect of inhibiting \u03b1v\u03b2(3)/\u03b1(v) \u03b2(5) integrins by cilengitide in experimentally induced breast cancer bone metastases using noninvasive imaging techniques. For this purpose, nude rats bearing established breast cancer bone metastases were treated with cilengitide, a small molecule inhibitor of \u03b1v\u03b2(3) and \u03b1v\u03b2(5) integrins (75 mg/kg, five days per week; n = 12 rats) and compared to vehicle-treated control rats (n = 12). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648558", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1237, 
+            "offsetInEndSection": 1488, 
+            "text": " In conclusion, treatment of experimental breast cancer bone metastases with cilengitide resulted in pronounced antiresorptive and antitumor effects, suggesting that \u03b1v\u03b2(3)/\u03b1v\u03b2(5) inhibition may be a promising therapeutic approach for bone metastases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20648558", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 543, 
+            "text": "Integrin antagonists, including the alphavbeta3 and alphavbeta5 inhibitor cilengitide, have shown encouraging activity in Phase II clinical trials and cilengitide is currently being tested in a Phase III trial in patients with glioblastoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20029421", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 983, 
+            "offsetInEndSection": 1108, 
+            "text": "Cilengitide (cyclic peptidic alphavbeta3 and alphavbeta5 antagonist) is currently in clinical trials for anti cancer therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19929817", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 260, 
+            "text": "PURPOSE: Cilengitide, an inhibitor of alphavbeta3 and alphavbeta5 integrin receptors, demonstrated minimal toxicity and durable activity across a wide range of doses administered to adults with recurrent glioblastoma multiforme (GBM) in a prior phase I study. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18981465", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 413, 
+            "offsetInEndSection": 865, 
+            "text": "In line with this concept, peptide ligands containing the Arginine-Glycine-Aspartate (RGD) triad, which display a strong affinity and selectivity to the alpha(V)beta(3) integrin, have been developed to target the tumor-associated cells expressing the alpha (V)beta (3) receptors. Among the validated ligands, the leader compound is the cyclic pentapeptide c[-RGDf(NMe)V-] (Cilengitide) developed by kessler et al. (J. Med. Chem., 1999, 42, 3033-3040). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17896915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 192, 
+            "text": "Assessment of the biological and pharmacological effects of the alpha nu beta3 and alpha nu beta5 integrin receptor antagonist, cilengitide (EMD 121974), in patients with advanced solid tumors.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17693653", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 247, 
+            "text": "BACKGROUND: Cilengitide, an antiangiogenic agent that inhibits the binding of integrins alpha(nu)beta(3) and alpha(nu)beta(5) to the extracellular matrix, was studied at two dose levels in cancer patients to determine the optimal biological dose. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17693653", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 397, 
+            "text": "Cilengitide (EMD121974; NSC 707544), is a potent selective alphavbeta3 and alphavbeta5 integrin antagonist. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16729916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 219, 
+            "text": "Phase I and pharmacokinetic study of continuous twice weekly intravenous administration of Cilengitide (EMD 121974), a novel inhibitor of the integrins alphavbeta3 and alphavbeta5 in patients with advanced solid tumours.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12706360", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "A single-agent dose escalating phase I and pharmacokinetic study with Cilengitide, an inhibitor of the integrins alphavbeta3 and alphavbeta5, was performed to determine its safety and toxicity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12706360", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 449, 
+            "offsetInEndSection": 767, 
+            "text": "This study was designed to determine whether, and how, the cyclic Arg-Gly-Asp peptide Cilengitide (EMD 121974), which targets the alpha(v)beta(3) integrin receptor expressed on neovasculature, could increase systemic RIT efficacy of therapy in a human breast cancer tumor model having mutant p53 and expressing bcl-2. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12154028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 333, 
+            "text": "The purpose of this study was the assessment of the feasibility of dynamic positron emission tomography (PET) studies with fluorine-18 fluorodeoxyglucose ((18)F-FDG) to quantify effects of the cyclic Arg-Gly-Asp peptide cilengitide, which targets the \u03b1\u03bd\u03b2 3 and \u03b1\u03bd\u03b2 5 integrin receptors in rats with breast cancer bone metastases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21512659", 
+            "endSection": "abstract"
+        }
+    ]
+}

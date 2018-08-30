@@ -1,0 +1,201 @@
+{
+    "body": "Which are the major types of the motor speech disorder dysarthria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9197089", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22268902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23422471", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10693258", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22774423", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19995207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19295217", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18953144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21088427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23033442", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20882349"
+    ], 
+    "ideal_answer": [
+        "Dysarthria is a motor speech disorder which can be classified according to the underlying neuropathology and is associated with disturbances of respiration, laryngeal function, airflow direction, and articulation resulting in difficulties of speech quality and intelligibility. There are six major types of dysarthria: \"flaccid dysarthria\" associated with lower motor neuron impairment, \"spastic dysarthria\" associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, \"ataxic dysarthria\" primarily caused by cerebellar dysfunction, and \"hyperkinetic dysarthria\" and \"hypokinetic dysarthria\", which are related to a disorder of the extrapyramidal system. The sixth is generally termed a \"mixed dysarthria\" and is associated with damage in more than one area, resulting in speech characteristics of at least two groups."
+    ], 
+    "exact_answer": [
+        [
+            "flaccid dysarthria"
+        ], 
+        [
+            "spastic dysarthria"
+        ], 
+        [
+            "ataxic dysarthria"
+        ], 
+        [
+            "hyperkinetic dysarthria"
+        ], 
+        [
+            "hypokinetic dysarthria"
+        ], 
+        [
+            "mixed dysarthria"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:92", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004401", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013064"
+    ], 
+    "type": "list", 
+    "id": "5547d700f35db75526000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 839, 
+            "text": "Dysarthria is a motor speech disorder which can be classified according to the underlying neuropathology and is associated with disturbances of respiration, laryngeal function, airflow direction, and articulation resulting in difficulties of speech quality and intelligibility. There are six major types of dysarthria: flaccid dysarthria associated with lower motor neuron impairment, spastic dysarthria associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, ataxic dysarthria primarily caused by cerebellar dysfunction, and hyperkinetic dysarthria and hypokinetic dysarthria, which are related to a disorder of the extrapyramidal system. The sixth is generally termed a mixed dysarthria and is associated with damage in more than one area, resulting in speech characteristics of at least two groups.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 252, 
+            "offsetInEndSection": 315, 
+            "text": "address voice problems of stroke patients with mixed dysarthria", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23422471", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Characterizing intonation deficit in motor speech disorders: an autosegmental-metrical analysis of spontaneous speech in hypokinetic dysarthria, ataxic dysarthria", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23033442", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 381, 
+            "text": "ataxic dysarthria (AT)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23033442", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 321, 
+            "text": "Acoustic analysis provides objective quantitative measures of speech that enable a comprehensive and accurate understanding of motor disorders and complement the traditional measures. This paper aims to distinguish between normal and pathological speech, more specifically between apraxia of speech and spastic dysarthria", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22774423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Long-term phonatory instability in ataxic dysarthria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21088427", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 97, 
+            "offsetInEndSection": 209, 
+            "text": "The objective of this study is to evaluate phonation in ataxic dysarthria and a control group of normal speakers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21088427", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 83, 
+            "text": "Dysprosody is a common feature in speakers with hypokinetic dysarthria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19995207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1354, 
+            "offsetInEndSection": 1487, 
+            "text": "The prosodic profile of Cantonese speakers with hypokinetic dysarthria is similar to those of other languages (for example, English).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19995207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 127, 
+            "text": "Classification of dysarthria types comprises flaccid, spastic, ataxic, hypo- and hyperkinetic and mixed dysarthria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19295217", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 21, 
+            "offsetInEndSection": 217, 
+            "text": "Dysarthria affects linguistic domains such as respiration, phonation, articulation, resonance and prosody due to upper motor neuron, lower motor neuron, cerebellar or extrapyramidal tract lesions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18953144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1180, 
+            "offsetInEndSection": 1305, 
+            "text": "The dysarthria types were spastic (15 subjects), flaccid (10), mixed (12), hypokinetic (12), hyperkinetic (9) and ataxic (8).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18953144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 277, 
+            "text": "Dysarthria is a motor speech disorder which can be classified according to the underlying neuropathology and is associated with disturbances of respiration, laryngeal function, airflow direction, and articulation resulting in difficulties of speech quality and intelligibility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 676, 
+            "text": "There are six major types of dysarthria: flaccid dysarthria associated with lower motor neuron impairment, spastic dysarthria associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, ataxic dysarthria primarily caused by cerebellar dysfunction, and hyperkinetic dysarthria and hypokinetic dysarthria, which are related to a disorder of the extrapyramidal system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 278, 
+            "offsetInEndSection": 677, 
+            "text": "There are six major types of dysarthria: flaccid dysarthria associated with lower motor neuron impairment, spastic dysarthria associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, ataxic dysarthria primarily caused by cerebellar dysfunction, and hyperkinetic dysarthria and hypokinetic dysarthria, which are related to a disorder of the extrapyramidal system.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 223, 
+            "text": "Motor neuron disease encompasses a group of terminal, demyelinating diseases affecting upper- and lower-motor neurons and producing muscular weakness resulting in a flaccid, spastic, or spastic-flaccid dysarthria of speech.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1809779", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Dysarthria is a frequently occurring motor speech disorder which can be caused by neurological trauma, cerebral palsy, or degenerative neurological diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24222784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Dysarthria is a motor disorder of speech characterized by abnormalities of the articulation and intelligibility of speech.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20184513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 278, 
+            "offsetInEndSection": 676, 
+            "text": "There are six major types of dysarthria: flaccid dysarthria associated with lower motor neuron impairment, spastic dysarthria associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, ataxic dysarthria primarily caused by cerebellar dysfunction, and hyperkinetic dysarthria and hypokinetic dysarthria, which are related to a disorder of the extrapyramidal system", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23312647", 
+            "endSection": "abstract"
+        }
+    ]
+}

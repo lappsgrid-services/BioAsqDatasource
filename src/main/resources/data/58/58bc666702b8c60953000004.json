@@ -1,0 +1,65 @@
+{
+    "body": "List diseases that could be targeted by disaggregases?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27255695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26312418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25620563", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26300264"
+    ], 
+    "ideal_answer": [
+        "UBQLN2 acts with the HSP70-HSP110 disaggregase machinery to clear protein aggregates via the 26S proteasome. UBQLN2 recognizes client-bound HSP70 and links it to the proteasome to allow for the degradation of aggregated and misfolded proteins. We further show that this process is active in the cell nucleus, where another system for aggregate clearance, autophagy, does not act."
+    ], 
+    "exact_answer": [
+        [
+            "ALS", 
+            "amyotrophic lateral sclerosis"
+        ], 
+        [
+            "PD", 
+            "Parkinson's disease"
+        ], 
+        [
+            "AD", 
+            "Alzheimer's disease"
+        ], 
+        [
+            "Prions"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58bc666702b8c60953000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 250, 
+            "text": "Therapeutic agents are urgently required to cure several common and fatal neurodegenerative disorders caused by protein misfolding and aggregation, including amyotrophic lateral sclerosis (ALS), Parkinson's disease (PD), and Alzheimer's disease (AD).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27255695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Human Hsp70 Disaggregase Reverses Parkinson's-Linked \u03b1-Synuclein Amyloid Fibrils.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26300264", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Disaggregases, molecular chaperones that resolubilize protein aggregates.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26312418", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 91, 
+            "text": "The structural basis by which Hsp104 dissolves disordered aggregates and prions is unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25620563", 
+            "endSection": "abstract"
+        }
+    ]
+}

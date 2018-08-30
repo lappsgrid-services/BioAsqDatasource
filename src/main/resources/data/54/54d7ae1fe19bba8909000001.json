@@ -1,0 +1,101 @@
+{
+    "body": "Which is the molecular weight of the protein angiogenin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/7585697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1723310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18055286", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2775757", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10486275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/4074709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10673358", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10441122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8574597"
+    ], 
+    "ideal_answer": [
+        "The molecular weight of angiogenin is 14,120 Da. The bovine angiogenin is 14,595 Da"
+    ], 
+    "exact_answer": [
+        "14,120 Da"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008970", 
+        "http://www.uniprot.org/uniprot/ANGI_HUMAN", 
+        "http://www.uniprot.org/uniprot/ANGI_SAGOE", 
+        "http://www.uniprot.org/uniprot/ANGI_PYGBI", 
+        "http://www.uniprot.org/uniprot/ANGI_MACMU", 
+        "http://www.uniprot.org/uniprot/ANGI_MOUSE", 
+        "http://www.uniprot.org/uniprot/ANGI_AOTTR", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014894", 
+        "http://www.uniprot.org/uniprot/ANGI_MIOTA", 
+        "http://www.uniprot.org/uniprot/ANGI_PYGRO", 
+        "http://www.uniprot.org/uniprot/ANGI_SAISC"
+    ], 
+    "type": "factoid", 
+    "id": "54d7ae1fe19bba8909000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Angiogenin is a potent blood-vessel-inducing polypeptide with a molecular weight of 14,000 that has a unique ribonucleolytic activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1723310", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 339, 
+            "text": " Bovine angiogenin is a single-chain protein of 125 amino acids; it contains six cysteines and has a calculated molecular weight of 14,595.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2775757", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 875, 
+            "text": "The amino acid composition of this basic (isoelectric point greater than 9.5), single-chain protein of molecular weight approximately 14 400 has been determined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/4074709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 376, 
+            "offsetInEndSection": 536, 
+            "text": "was found to have a molecular weight of 15 kDa on SDS-PAGE, and the sequence of the N-terminal 25 amino acid residues was identical to that of bovine angiogenin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18055286", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Human angiogenin is a 14-kDa plasma protein with angiogenic and ribonucleolytic activities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10673358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 350, 
+            "text": " angiogenin-1 (15 kDa). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10486275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1059, 
+            "offsetInEndSection": 1158, 
+            "text": "This protein is 14 kD in molecular weight, and is identical to the angioplastic factor angiogenin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8574597", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1128, 
+            "offsetInEndSection": 1156, 
+            "text": " angiogenin (M(r) = 14,120),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7585697", 
+            "endSection": "abstract"
+        }
+    ]
+}

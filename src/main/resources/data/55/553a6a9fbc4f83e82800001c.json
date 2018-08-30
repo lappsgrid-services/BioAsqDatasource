@@ -1,0 +1,67 @@
+{
+    "body": "Are there Conserved Noncoding Elements (CNEs) in invertebrate genomes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24282393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19492354", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17274809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23357263", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18402933"
+    ], 
+    "ideal_answer": [
+        "Yes.", 
+        "Yes. Conserved Noncoding Elements (CNEs) have also been found in invertebrate genomes."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "553a6a9fbc4f83e82800001c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 451, 
+            "offsetInEndSection": 708, 
+            "text": "Here, we use genome-wide comparisons between C. intestinalis and C. savignyi to identify putative urochordate cis-regulatory sequences. Ciona conserved non-coding elements (ciCNEs) are associated with largely the same key regulatory genes as vertebrate CNEs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24282393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "We have identified Conserved Non-coding Elements (CNEs) in the regulatory region of Caenorhabditis elegans and Caenorhabditis briggsae ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18402933", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 781, 
+            "text": "Here we report that nematode genomes contain an alternative set of CNEs that share sequence characteristics, but not identity, with their vertebrate counterparts. CNEs thus represent a very unusual class of sequences that are extremely conserved within specific animal lineages yet are highly divergent between lineages", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17274809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1153, 
+            "offsetInEndSection": 1280, 
+            "text": "A core set of genes that regulate development is associated with CNEs across three animal groups (worms, flies and vertebrates)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17274809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "The genomes of vertebrates, flies, and nematodes contain highly conserved noncoding elements (CNEs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19492354", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "The genomes of vertebrates, flies, and nematodes contain highly conserved noncoding elements (CNEs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19492354", 
+            "endSection": "abstract"
+        }
+    ]
+}

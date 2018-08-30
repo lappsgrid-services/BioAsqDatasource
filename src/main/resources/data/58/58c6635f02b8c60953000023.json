@@ -1,0 +1,190 @@
+{
+    "body": "What is the inheritance of the glucose-6-phosphate dehydrogenase (G6PD) deficiency?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/1188317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/6350992", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15226563", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26275698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12169625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24460025", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/631693", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24865682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11261779", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11271380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10066026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1634454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10698963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24943486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25116429", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1953691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12737943"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/uniprot/P11413", 
+            "o": "http://purl.uniprot.org/uniprot/P11413"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017757", 
+            "o": "G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_503131343133004B", 
+            "o": "G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0017757", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8256485"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://linkedlifedata.com/resource/drugbank/molecule/1799", 
+            "o": "http://purl.uniprot.org/uniprot/P11413"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/drugbank/molecule/1799", 
+            "o": "Glucose-6-phosphate 1-dehydrogenase"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/uniprot/P11413", 
+            "o": "G6PD_HUMAN"
+        }
+    ], 
+    "ideal_answer": [
+        "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the commonest red cell enzymopathy in humans and has a recessive X-linked inheritance."
+    ], 
+    "exact_answer": [
+        "recessive X-linked inheritance"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/G6PD_BUCAI", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2862", 
+        "http://www.uniprot.org/uniprot/G6PD_CERCA", 
+        "http://www.uniprot.org/uniprot/G6PD_CRIGR", 
+        "http://www.uniprot.org/uniprot/G6PD_EMENI", 
+        "http://www.uniprot.org/uniprot/G6PD_BUCAP", 
+        "http://www.uniprot.org/uniprot/G6PD_HUMAN", 
+        "http://www.uniprot.org/uniprot/G6PD_ZYMMO", 
+        "http://www.uniprot.org/uniprot/G6PD_MACRO", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D042843", 
+        "http://www.uniprot.org/uniprot/G6PD_ENCCU", 
+        "http://www.uniprot.org/uniprot/G6PD_TAKRU", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005954", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005955", 
+        "http://www.uniprot.org/uniprot/G6PD_HAEIN", 
+        "http://www.uniprot.org/uniprot/G6PD_CYBJA", 
+        "http://www.uniprot.org/uniprot/G6PD_DIDVI", 
+        "http://www.uniprot.org/uniprot/G6PD_AGGAC", 
+        "http://www.uniprot.org/uniprot/G6PD_HELPY", 
+        "http://www.uniprot.org/uniprot/G6PD_BOSIN", 
+        "http://www.uniprot.org/uniprot/G6PD_GLUOX", 
+        "http://www.uniprot.org/uniprot/G6PD_HELPJ", 
+        "http://www.uniprot.org/uniprot/G6PD_NOSP7"
+    ], 
+    "type": "factoid", 
+    "id": "58c6635f02b8c60953000023", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the commonest red cell enzymopathy in humans and has an X-linked inheritance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226563", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1050, 
+            "offsetInEndSection": 1317, 
+            "text": " The high manifestation of G6PD deficiency in women may be due to the preferential expression of the G6PD-deficient gene and X-inactivation of the normal gene, and/or to the presence of an 'enhancer' gene that makes the expression of the G6PD deficiency more likely. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10066026", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 461, 
+            "offsetInEndSection": 605, 
+            "text": "Study of the deficiency pattern amongst family members of the enzyme deficient subjects confirmed the X-linked inheritance of G-6-PD deficiency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1634454", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 517, 
+            "offsetInEndSection": 639, 
+            "text": " The investigation of the patient's whole family showed the typical recessive X-linked inheritance of this enzyme-defect. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/6350992", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 297, 
+            "text": "After having described in detail the pathophysiology, symptomatology, X-chromosomal inheritance and some laboratory methods in detecting G-6-PD-deficiency by demonstrating a case of favism (Schulz et al. 1977), the authors now discuss the particularities of the enzyme deficiency in the newborn. T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/631693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 185, 
+            "offsetInEndSection": 327, 
+            "text": "The genetic pattern is consistent with x-linked recessive inheritance and the defect is associated with drug (primaquine) induced haemolysis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1188317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "UNLABELLED: Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive disorder in which haemolytic anaemia is the major symptom.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11271380", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is one of the most common human genetic abnormalities, and it has a significant prevalence in the male population (X chromosome linked).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24865682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the commonest red cell enzymopathy in humans and has an X-linked inheritance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226563", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive genetic defect that can cause hemolytic crisis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25116429", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked recessive hemolytic anemia caused by a mutation in the G6PD gene on Xq28.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26275698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 297, 
+            "text": "Glucose-6-phosphate dehydrogenase deficiency is an X-linked recessive hereditary disease characterised by abnormally low levels of G6PD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24943486", 
+            "endSection": "abstract"
+        }
+    ]
+}

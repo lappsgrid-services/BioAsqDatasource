@@ -1,0 +1,54 @@
+{
+    "body": "What organism causes woolsorter's disease", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18959192", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15486181"
+    ], 
+    "ideal_answer": [
+        "Woolsorter's disease is caused by the same organism as Anthrax, bacillus Anthrax. "
+    ], 
+    "exact_answer": [
+        "Bacillus Anthracis"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:7427", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050160", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009784"
+    ], 
+    "type": "factoid", 
+    "id": "58caf0be02b8c6095300002f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 756, 
+            "text": "Today, woolsorters' disease and other industrial manifestations of anthrax are extremely rare, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15486181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 943, 
+            "text": "Working independently of their more famous counterparts (Robert Koch and Louis Pasteur), Anglo-American anthrax investigators used visual representations of anthrax bacilli to persuade their peers that a specific, identifiable cause produced all forms of anthrax-malignant pustule (cutaneous anthrax), intestinal anthrax, and woolsorter's disease (pneumonic anthrax). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18959192", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 913, 
+            "text": "Today, woolsorters' disease and other industrial manifestations of anthrax are extremely rare, but the increasing threat of bioterrorism means that the international dread and historical lessons of this significant condition should never be forgotten. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15486181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 661, 
+            "offsetInEndSection": 912, 
+            "text": "Today, woolsorters' disease and other industrial manifestations of anthrax are extremely rare, but the increasing threat of bioterrorism means that the international dread and historical lessons of this significant condition should never be forgotten.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15486181", 
+            "endSection": "abstract"
+        }
+    ]
+}

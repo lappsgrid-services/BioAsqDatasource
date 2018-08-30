@@ -1,0 +1,350 @@
+{
+    "body": "Which is the vector of Louping ill virus?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21593276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14422369", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9802086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21254926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12557579", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19631009", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19925041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12233771", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15252984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18562534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7815482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17346361", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12560576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18823640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19685082", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18602711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18841330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22452970", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11427261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18471057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22913287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/13383364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12519399", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22939093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1337231", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21771532"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/pubmed/keyword/VIRUSES%2Flouping-ill", 
+            "o": "http://linkedlifedata.com/resource/pubmed/Keyword"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2035145", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2035145", 
+            "o": "D004669"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2035145", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A2035145", 
+            "o": "Louping ill viruses"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/keyword/VIRUSES%2Flouping-ill", 
+            "o": "VIRUSES/louping-ill"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7781838", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7781838", 
+            "o": "D004669"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7781838", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7781838", 
+            "o": "Louping ill virus"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/commonName", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "Li"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/complete", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/34613"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/34878"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9606"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9615"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9796"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9823"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9913"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/host", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/9940"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/mnemonic", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "LIV"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/partOfLineage", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "false"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/rank", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/core/Species"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/reviewed", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "true"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/scientificName", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "Louping ill virus"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/core/Taxon"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#subClassOf", 
+            "s": "http://purl.uniprot.org/taxonomy/11086", 
+            "o": "http://purl.uniprot.org/taxonomy/29263"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0431097", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0431097", 
+            "o": "11086"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0431097", 
+            "o": "NCBI Taxonomy"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0431097", 
+            "o": "Louping ill virus"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0081054", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0081054", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0081054", 
+            "o": "Louping Ill"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0423465", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0423465", 
+            "o": "D008146"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0423465", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0423465", 
+            "o": "Ill, Louping"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8352613", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8352613", 
+            "o": "063.1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8352613", 
+            "o": "ICD-9-CM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8352613", 
+            "o": "Louping ill"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:10250", 
+            "o": "http://www.w3.org/2004/02/skos/core#Concept"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:10250", 
+            "o": "Louping ill"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:10250", 
+            "o": "Louping ill (disorder)"
+        }
+    ], 
+    "ideal_answer": [
+        "Louping ill virus (LIV) belongs to the mammalian tick-borne virus group of the genus Flavivirus  which cause central nervous system disease. LIV infects the red grouse Lagopus lagopus scoticus, causing high mortality. LIV is transmitted by the tick Ixodes ricinus.", 
+        "Deer are the key hosts of the vector (Ixodes ricinus) that transmits LIV to red grouse Lagopus lagopus scoticus, causing high mortality. (PMID: 22939093)"
+    ], 
+    "exact_answer": [
+        "Ixodes ricinus"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014780", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001179", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10250", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004669", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004199", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004675", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008146"
+    ], 
+    "type": "factoid", 
+    "id": "51716e808ed59a060a00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 528, 
+            "offsetInEndSection": 664, 
+            "text": "Deer are the key hosts of the vector (Ixodes ricinus) that transmits LIV to red grouse Lagopus lagopus scoticus, causing high mortality.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22939093", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 426, 
+            "text": "n Europe the primary arthropod vectors of zoonotic diseases are ticks, which transmit Borrelia burgdorferi sensu lato (the agent of Lyme disease), tick-borne encephalitis virus and louping ill virus between humans, livestock and wildlife. Ixodes ricinus ticks and reported tick-borne disease cases are currently increasing in the UK", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19685082", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Many vector-borne pathogens whose primary vectors are generalists, such as Ixodid ticks, can infect a wide range of host species and are often zoonotic.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19631009", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "Tick-borne encephalitis virus (TBEV) and Louping ill virus (LIV) are viruses in the Mammalian tick-borne virus group/genus Flavivirus, causing central nervous system disease.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18471057", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "The complex pathogen-host-vector system of the tick-borne louping-ill virus causes economic losses to sheep and red grouse in upland United Kingdom.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17346361", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 396, 
+            "text": "For pathogens transmitted by biting vectors, one of the fundamental assumptions is often that vector bites are the sole or main route of host infection. Here, we demonstrate experimentally a transmission route whereby hosts (red grouse, Lagopus lagopus scoticus) became infected with a member of the tick-borne encephalitis virus complex, louping ill virus, after eating the infected tick vector.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15252984", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 527, 
+            "text": "We used Susceptible Infected Recovered (SIR) models parameterized for the tick-borne louping ill virus (LIV) system.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22939093", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "This study has examined the efficacy following intramuscular administration of a recombinant Semliki Forest virus (rSFV) vaccine, encoding the prME and NS1 proteins of louping ill virus (LIV), in sheep.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11427261", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 280, 
+            "text": "Since the recognition that louping-ill, known for well over 100 years as an epizootic disease of sheep in Scotland, was caused by a virus transmitted by arthropods, many other arthropod-borne viruses capable of causing encephalitis in domestic animals or man have been discovered.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14422369", 
+            "endSection": "sections.0"
+        }
+    ]
+}

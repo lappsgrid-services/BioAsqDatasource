@@ -1,0 +1,33 @@
+{
+    "body": "Which trancription factor activates the betalain pathway?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25436858", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19791510"
+    ], 
+    "ideal_answer": [
+        "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway."
+    ], 
+    "exact_answer": [
+        "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway."
+    ], 
+    "type": "factoid", 
+    "id": "56d138fe3975bb303a000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25436858", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 617, 
+            "offsetInEndSection": 769, 
+            "text": "Some putative MYB, bHLH, and environmental stress-responsive transcription factor binding sites were detected in the PaDOD1 and PaDOD2 promoter regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19791510", 
+            "endSection": "abstract"
+        }
+    ]
+}

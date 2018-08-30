@@ -1,0 +1,55 @@
+{
+    "body": "Which classes of endogenous retroelements are known to date?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22406018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18636276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10697412"
+    ], 
+    "ideal_answer": [
+        "Endogenous retroelements fall into two distinct classes: retrotransposons containing LTRs (Long Terminal Repeats), and retrostransposons lacking LTRs."
+    ], 
+    "exact_answer": [
+        [
+            "retrotransposons containing LTRs (Long Terminal Repeats)"
+        ], 
+        [
+            "retrostransposons lacking LTRs (Long Terminal Repeats)"
+        ]
+    ], 
+    "type": "list", 
+    "id": "54e0ac041388e8454a00000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 427, 
+            "text": "Transposons are divided into two general classes based on their transposition intermediate (DNA or RNA). Only one subclass, the non-LTR retrotransposons, which includes the Long INterspersed Element-1 (LINE-1 or L1), is currently active in humans as indicated by 96 disease-causing insertions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22406018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Diversity of LTR-retrotransposons and Enhancer/Suppressor Mutator-like transposons in cassava", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18636276", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 659, 
+            "text": "Members of two classes of LTR-retrotransposons, Ty1/copia-like and Ty3/gypsy-like, and of Enhancer/Suppressor Mutator (En/Spm)-like transposons were isolated and characterised", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18636276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 225, 
+            "text": "Mammalian LINE-1 (L1) elements belong to the superfamily of autonomously replicating retrotransposable elements that lack the long terminal repeated (LTR) sequences typical of retroviruses and retroviral-like retrotransposons", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10697412", 
+            "endSection": "abstract"
+        }
+    ]
+}

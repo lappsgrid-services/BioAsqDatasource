@@ -1,0 +1,85 @@
+{
+    "body": "How does thyroid hormone affect insulin resistance in the heart?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12869545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20883475", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22031514"
+    ], 
+    "ideal_answer": [
+        "T3 potentiates  insulin signaling and improves  insulin sensitivity. In addition,  T3 lowers  blood glucose in a model of type 2 diabetes. TRalpha P398H mutation is associated with insulin resistance. Circulating T(1)AM is produced from thyroid hormones and is found to be increased in diabetic patients."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/THB_HUMAN", 
+        "http://www.uniprot.org/uniprot/THB_SHEEP", 
+        "http://www.uniprot.org/uniprot/THA_MOUSE", 
+        "http://www.uniprot.org/uniprot/THA_PYGAD", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013963", 
+        "http://www.uniprot.org/uniprot/THA_APTPA", 
+        "http://www.uniprot.org/uniprot/THB_CAIMO", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006321", 
+        "http://www.uniprot.org/uniprot/THA_CAIMO", 
+        "http://www.uniprot.org/uniprot/THA_PIG", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011988", 
+        "http://www.uniprot.org/uniprot/THBA_XENLA", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0070324", 
+        "http://www.uniprot.org/uniprot/THB_PAROL", 
+        "http://www.uniprot.org/uniprot/THA_HIPHI", 
+        "http://www.uniprot.org/uniprot/THB_DANRE", 
+        "http://www.uniprot.org/uniprot/THB_RAT", 
+        "http://www.uniprot.org/uniprot/THAA_DANRE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007333", 
+        "http://www.uniprot.org/uniprot/THAA_XENLA", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0046966", 
+        "http://www.uniprot.org/uniprot/THAA_PAROL", 
+        "http://www.uniprot.org/uniprot/THB_LITCT", 
+        "http://www.uniprot.org/uniprot/THB_CHICK", 
+        "http://www.uniprot.org/uniprot/THA_RAT", 
+        "http://www.uniprot.org/uniprot/THA_NECMA", 
+        "http://www.uniprot.org/uniprot/THA_SALSA", 
+        "http://www.uniprot.org/uniprot/THB_MOUSE"
+    ], 
+    "type": "summary", 
+    "id": "51682c52298dcd4e51000067", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1370, 
+            "offsetInEndSection": 1509, 
+            "text": "In diabetic vs. nondiabetic patients T(1)AM concentration was significantly increased (0.232 \u00b1 0.014 vs. 0.203 \u00b1 0.006 pmol/ml, P = 0.044),", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22031514", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1678, 
+            "offsetInEndSection": 1873, 
+            "text": "Our results are consistent with the hypothesis that circulating T(1)AM is produced from thyroid hormones and encourage further investigations on the potential role of T(1)AM in insulin resistance", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22031514", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 98, 
+            "offsetInEndSection": 175, 
+            "text": "exogenous T3 lowered blood glucose in db/db mice, a model of type 2 diabetes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20883475", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1475, 
+            "offsetInEndSection": 1622, 
+            "text": "T3 potentiated insulin signaling, improved insulin sensitivity, and increased insulin synthesis, which may contribute to its anti-diabetic effects.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20883475", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1244, 
+            "offsetInEndSection": 1327, 
+            "text": "TRalpha P398H mutation is associated with visceral adiposity and insulin resistance", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12869545", 
+            "endSection": "sections.0"
+        }
+    ]
+}

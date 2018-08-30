@@ -1,0 +1,449 @@
+{
+    "body": "Is Tuberous Sclerosis a genetic disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20041940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23622183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19506736", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22068806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22021912", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24226526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16818174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21907282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21301339", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9770187", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19624715", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18245941", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15456557", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23749404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23966835", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20073603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2600265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22497684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19744185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21547713", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23035046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20087180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23359422", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12582162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1479601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24159711", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23661441", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22736301", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12364343", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19297407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23438619", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15340059", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22544534", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18080139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2706800", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1293183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12869586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22025691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16757313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22125079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11288117", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8129414", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21309039", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9006662", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24310804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24092520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8825048"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4098", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1155"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1155", 
+            "o": "http://www.dbpedia.org/resource/Tuberous_sclerosis"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1155", 
+            "o": "Tuberous_sclerosis"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4098", 
+            "o": "Tuberous sclerosis-1, 191100"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4099", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1155"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4099", 
+            "o": "Tuberous sclerosis-2, 191100"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/citation", 
+            "s": "http://purl.uniprot.org/uniprot/Q61037", 
+            "o": "http://purl.uniprot.org/citations/10584558"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/10584558", 
+            "o": "http://purl.uniprot.org/medline/20051947"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/pubmed/10584558", 
+            "o": "Genet. Res."
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136313033370014", 
+            "o": "Tuberin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/Q61037", 
+            "o": "http://linkedlifedata.com/resource/#_5136313033370015"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q61037", 
+            "o": "http://linkedlifedata.com/resource/#_5136313033370014"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136313033370015", 
+            "o": "Tuberous sclerosis 2 protein homolog"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/pubmed/10584558", 
+            "o": "http://purl.uniprot.org/pubmed/10584558"
+        }
+    ], 
+    "ideal_answer": [
+        "Tuberous sclerosis is a genetic disorder with an autosomal dominant pattern of inheritance, variable expressivity, and incomplete penetrance. Two thirds of TSC cases result from sporadic genetic mutations, not inheritance, but their offspring may inherit it from them. Current genetic tests have difficulty locating the mutation in approximately 20% of individuals diagnosed with the disease. So far it has been mapped to two genetic loci, TSC1 and TSC2.\nTSC1 encodes for the protein hamartin, is located on chromosome 9 q34 and was discovered in 1997. TSC2 encodes for the protein Tuberin, is located on chromosome 16 p13.3 and was discovered in 1993. TSC2 is contiguous with PKD1, the gene involved in one form of polycystic kidney disease (PKD). Gross deletions affecting both genes may account for the 2% of individuals with TSC who also develop PKD in childhood. TSC2 has been associated with a more severe form of TSC. However, the difference is subtle and cannot be used to identify the mutation clinically. Estimates of the proportion of TSC caused by TSC2 range from 55% to 80-90%.", 
+        "Yes, Tuberous Sclerosis is a genetic disease, caused by mutations in the TSC1 or TSC2 gene."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TSC2_RAT", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033596", 
+        "http://www.uniprot.org/uniprot/TSC1_RAT", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D030342", 
+        "http://www.uniprot.org/uniprot/TSC1_MOUSE", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13515", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050739", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014402", 
+        "http://www.uniprot.org/uniprot/TSC2_MOUSE", 
+        "http://www.uniprot.org/uniprot/TSC1_SCHPO", 
+        "http://www.uniprot.org/uniprot/TSC1_HUMAN", 
+        "http://www.uniprot.org/uniprot/TSC2_SCHPO", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005823", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012598", 
+        "http://www.biosemantics.org/jochem#4266396", 
+        "http://www.disease-ontology.org/api/metadata/DOID:630", 
+        "http://www.uniprot.org/uniprot/TSC2_HUMAN", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0050325"
+    ], 
+    "type": "yesno", 
+    "id": "52b06a68f828ad283c000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 65, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24310804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Tuberous sclerosis is a rare genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24092520", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Tuberous sclerosis complex (TSC) is a multisystem genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23966835", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23359422", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 464, 
+            "text": "The disease is caused by mutational inactivation of the tumor suppressor gene tuberous sclerosis complex 1 (TSC1) or TSC2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23035046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 297, 
+            "offsetInEndSection": 428, 
+            "text": "mTOR inhibitors have antiepileptogenic and antiseizure effects in animal models of the genetic disease, tuberous sclerosis complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22544534", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Tuberous sclerosis (TSC) is an autosomal-dominant genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22497684", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Tuberous sclerosis is a rare genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22068806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous Sclerosis Complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22125079", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Tuberous sclerosis complex (TSC) is a multiorgan genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22025691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22021912", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Tuberous Sclerosis Complex (TSC) is a multiorgan genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21907282", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 258, 
+            "offsetInEndSection": 311, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21301339", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 75, 
+            "text": "Tuberous sclerosis complex (TSC) is a multiorgan genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20087180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 411, 
+            "text": "In all these lesions, genetic alterations related to the tuberous sclerosis complex (TSC) have been demonstrated.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20073603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 169, 
+            "text": "Although epilepsy affects most patients with tuberous sclerosis complex (TSC), little is known about the natural history of epilepsy in this genetic disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20041940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "The tuberous sclerosis gene 2 product tuberin is an important regulator of the mammalian target of rapamycin (mTOR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19744185", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19624715", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Tuberous Sclerosis Complex (TSC) is a multiorgan genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21547713", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Tuberous sclerosis complex (TSC) is a relatively rare autosomal dominant disorder", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19297407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Tuberous sclerosis is a genetic disease with autosomal dominant inheritance,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18245941", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 722, 
+            "text": "PEComas are related to the genetic alterations of tuberous sclerosis complex (TSC), an autosomal dominant genetic disease due to losses of TSC1 (9q34) or TSC2 (16p13.3) genes which seem to have a role in the regulation of the Rheb/mTOR/p70S6K pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18080139", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Tuberous sclerosis complex (TSC) is a multiorgan genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16818174", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16757313", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Tuberous sclerosis is a rare genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15456557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 53, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15340059", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease caused by mutation in either TSC1 or TSC2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12869586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Tuberous sclerosis complex (TSC) is a genetic disease caused by mutations in either TSC1 or TSC2 tumor suppressor genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12582162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Mutation in either the TSC1 or TSC2 tumor suppressor gene is responsible for the inherited genetic disease of tuberous sclerosis complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12364343", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "Tuberous sclerosis (TSC) is a frequent autosomal-dominant condition (affecting 1 in 6000 individuals) caused by various mutations in either the hamartin (TSC1) or the tuberin gene (TSC2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11288117", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Tuberous sclerosis is a rare genetic disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9770187", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 101, 
+            "text": "Tuberous sclerosis (TS) is a genetic disease with prominent cutaneous and brain involvement ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8129414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 200, 
+            "text": "TSC was recognized to be a genetic disease with autosomal dominant inheritance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1293183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 632, 
+            "offsetInEndSection": 829, 
+            "text": "On average TSC families are very small; in most cases there are fewer than two informative meioses. The size distribution of chromosome 9 linked families was similar to that of non-linked families.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1479601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 507, 
+            "text": "The effects of missense changes and small in-frame deletions and insertions on protein function are not easy to predict, and the identification of such variants in individuals at risk of a genetic disease can complicate genetic counselling. One option is to perform functional tests to assess whether the variants affect protein function. We have used this strategy to characterize variants identified in the TSC1 and TSC2 genes in individuals with, or suspected of having, Tuberous Sclerosis Complex (TSC).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21309039", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "Tuberous sclerosis is a dominant hereditary disease", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2600265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 181, 
+            "offsetInEndSection": 283, 
+            "text": "Many of these advances originated from studies of the genetic disease tuberous sclerosis complex (TSC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24226526", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "body": "Which protein complexes contain mitofilin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24030101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23676277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22252321", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21987634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22575891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22014515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21944719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22496419", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22918945", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23704930"
+    ], 
+    "ideal_answer": [
+        "mitochondrial inter-membrane space bridging (MIB) complex \nmitochondrial inner membrane organizing system (MINOS)\nMitOS for mitochondrial organizing structure"
+    ], 
+    "exact_answer": [
+        [
+            "MIB", 
+            "mitochondrial inter-membrane space bridging complex"
+        ], 
+        [
+            "MINOS", 
+            "mitochondrial inner membrane organizing system"
+        ], 
+        [
+            "MitOS"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016592", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043234", 
+        "http://www.uniprot.org/uniprot/FCJ1_LODEL", 
+        "http://www.uniprot.org/uniprot/FCJ1_SCLS1", 
+        "http://www.uniprot.org/uniprot/FCJ1_CANAL", 
+        "http://www.uniprot.org/uniprot/FCJ1_AJECN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D046912", 
+        "http://www.uniprot.org/uniprot/FCJ1_CANTT"
+    ], 
+    "type": "list", 
+    "id": "53215fca9b2d7acc7e000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 915, 
+            "offsetInEndSection": 1062, 
+            "text": " and the mitochondrial structural proteins-components of mitochondrial inter-membrane space bridging (MIB) complex (Mitofilin, Sam50, and ChChd3), ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24030101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 330, 
+            "offsetInEndSection": 362, 
+            "text": "Mitofilin/MINOS protein complex ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 879, 
+            "offsetInEndSection": 989, 
+            "text": " APOOL physically interacts with several subunits of the MINOS complex, namely Mitofilin, MINOS1, and SAMM50. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1054, 
+            "offsetInEndSection": 1086, 
+            "text": "Mitofilin/MINOS protein complex ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 616, 
+            "offsetInEndSection": 662, 
+            "text": "MINOS subunits (mitofilin, MINOS1, and CHCHD3)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23676277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 918, 
+            "offsetInEndSection": 950, 
+            "text": "mitofilin, a core MINOS subunit,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23676277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 239, 
+            "text": "The mitochondrial inner membrane organizing system (MINOS) is a large protein complex required for maintaining inner membrane architecture. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22918945", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 795, 
+            "text": "Mitochondria lacking mitofilin, the large core subunit of MINOS,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22918945", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "The mitochondrial inner membrane contains a large protein complex crucial for membrane architecture, the mitochondrial inner membrane organizing system (MINOS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22575891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 343, 
+            "offsetInEndSection": 557, 
+            "text": " To study if outer membrane interactions and maintenance of cristae morphology are directly coupled, we generated mutant forms of mitofilin/Fcj1 (formation of crista junction protein 1), a core component of MINOS. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22575891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "The C-terminal domain of Fcj1 is required for formation of crista junctions and interacts with the TOB/SAM complex in mitochondria.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496419", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 291, 
+            "text": "Mitofilin/Fcj1, the central component of the MINOS complex,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22014515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 443, 
+            "offsetInEndSection": 648, 
+            "text": "We provide evidence that the SAM components exist in a large protein complex together with the IMM proteins mitofilin and CHCHD3, which we term the mitochondrial intermembrane space bridging (MIB) complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22252321", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 680, 
+            "text": "which we term MitOS for mitochondrial organizing structure, comprised of Fcj1/Mitofilin, a conserved inner membrane protein, and five additional components. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21987634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 599, 
+            "text": "Mitofilin is part of a large inner membrane complex, and we identify five partner proteins as constituents of the mitochondrial inner membrane organizing system (MINOS) that is required for keeping cristae membranes connected to the inner boundary membrane.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21944719", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 744, 
+            "offsetInEndSection": 813, 
+            "text": " Our findings indicate that mitofilin is a central component\u00a0of MINOS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21944719", 
+            "endSection": "abstract"
+        }
+    ]
+}

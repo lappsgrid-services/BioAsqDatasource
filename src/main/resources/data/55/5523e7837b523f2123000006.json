@@ -1,0 +1,320 @@
+{
+    "body": "What is Trypan blue used for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24160177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24289578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24212220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24279639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24139500", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24228750", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24238300", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24190701", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24231574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24127887", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24123008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24296136", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24320727", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24236478", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24129092", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24228508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24316855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23354080", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24300339", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24256980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24304568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24312318", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24195509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24140394", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24244400"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9452169", 
+            "o": "d05534"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A9452169", 
+            "o": "trypan blue ophthalmic"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1655623", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A9452169"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/pubmed/registryNumber", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Trypan+Blue", 
+            "o": "72-57-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/pubmed/chemical/Trypan+Blue", 
+            "o": "Trypan Blue"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8424406", 
+            "o": "C003915"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1565627", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8424406"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8424406", 
+            "o": "Trypan"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1565627", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8424406"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3907535", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1318869", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3907535"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A3907535", 
+            "o": "Trypan blue stain method"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1318869", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A3907535"
+        }
+    ], 
+    "ideal_answer": [
+        "Trypan blue is used in the \"trypan blue exclusion assay\" for assessing cell viability/cell death."
+    ], 
+    "exact_answer": [
+        "cell viability - cell death assessment"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014343", 
+        "http://www.biosemantics.org/jochem#4250111", 
+        "http://www.biosemantics.org/jochem#4251229"
+    ], 
+    "type": "factoid", 
+    "id": "5523e7837b523f2123000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 342, 
+            "text": " cell death by trypan blue exclusion assay", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23354080", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1107, 
+            "offsetInEndSection": 1277, 
+            "text": "Examination of cell viability in UCP2-transfected cells with Trypan Blue and Annexin-V staining revealed that UCP2 transfection led to significantly increased cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24320727", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 435, 
+            "offsetInEndSection": 495, 
+            "text": "assessed for their viability by vital staining (Trypan blue)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24316855", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 913, 
+            "offsetInEndSection": 961, 
+            "text": "the trypan blue exclusion test of cell viability", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24312318", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 452, 
+            "offsetInEndSection": 543, 
+            "text": " Cell viability was determined by MTT, neutral red uptake and trypan blue exclusion assays.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24304568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 493, 
+            "offsetInEndSection": 637, 
+            "text": "Cytotoxicity, apoptosis, and necrosis were investigated by trypan blue exclusion, MTT assay, and annexin V/propidium iodide assay, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24300339", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 441, 
+            "offsetInEndSection": 586, 
+            "text": "Cytotoxicity was measured using the Trypan Blue Dye Exclusion assay and genotoxicity using the Comet Assay (alkaline single-cell electrophoresis)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24296136", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 476, 
+            "offsetInEndSection": 555, 
+            "text": "Apoptosis of MCF-7 cells was evidenced by investigating trypan blue exclusion, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24289578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 502, 
+            "text": "cell viability was measured using an MTT assay and the trypan blue exclusion method, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24279639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 696, 
+            "offsetInEndSection": 775, 
+            "text": "Cell viability and apoptosis assay using MTT analysis and trypan blue staining,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24256980", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1055, 
+            "text": "cell death was assayed by trypan blue exclusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24244400", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1279, 
+            "offsetInEndSection": 1307, 
+            "text": "cell viability (Trypan Blue)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24238300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 818, 
+            "offsetInEndSection": 869, 
+            "text": "cell viability using both Trypan Blue dye exclusion", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24238300", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 440, 
+            "offsetInEndSection": 482, 
+            "text": " cell-viability analysis with trypan blue ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24236478", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 801, 
+            "offsetInEndSection": 911, 
+            "text": " Specimens were examined for keratinocyte survival at 7, 14, 21, 28, and 35 days using the trypan blue assay. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24231574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 653, 
+            "text": "For cytotoxicity testing, relative growth activity, trypan blue exclusion, (3)H-thymidine incorporation and cytokinesis-block proliferation index were assessed. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24228750", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1000, 
+            "offsetInEndSection": 1046, 
+            "text": "trypan blue was used to detect cell viability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24228508", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 351, 
+            "offsetInEndSection": 415, 
+            "text": "Cell viability was measured by a trypan blue dye exclusion test.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24212220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 606, 
+            "offsetInEndSection": 675, 
+            "text": " Cell viability was determined using the trypan blue exclusion assay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24195509", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 387, 
+            "offsetInEndSection": 459, 
+            "text": "Cell death was analyzed by MTT viability assay and trypan blue staining.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24190701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 654, 
+            "offsetInEndSection": 711, 
+            "text": " cell viability was determined by trypan blue exclusion. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24160177", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1665, 
+            "offsetInEndSection": 1705, 
+            "text": " the cell viability (trypan blue method)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24140394", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 328, 
+            "text": "trypan blue staining to test the viability of cancer cell lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24139500", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 607, 
+            "offsetInEndSection": 749, 
+            "text": " Cell viability and survival were assessed using 3-(4,5-dimethylthiazol-2-yl-2,5-diphenyltetrazolium bromide and trypan blue exclusion assays.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24129092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 412, 
+            "text": " Viability and proliferation of immobilized DPSCs were determined by trypan blue and MTT assay, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24127887", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 476, 
+            "text": " Cell proliferation and viability were assessed using trypan blue and 3-(4, 5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazolium bromide (MTT) assay respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24123008", 
+            "endSection": "abstract"
+        }
+    ]
+}

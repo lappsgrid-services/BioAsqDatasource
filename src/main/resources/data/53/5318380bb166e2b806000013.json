@@ -1,0 +1,96 @@
+{
+    "body": "List Parkin binding partners", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21437181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20064468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18623069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24244333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15987638", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14579121", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17553932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17229476", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18190519", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16842202", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16714300"
+    ], 
+    "ideal_answer": [
+        "HSP90\nCDC37\nGRP75\nHSP60\nLRPPRC\nTUFM\nPICK1\nPSMA7\nPael receptor"
+    ], 
+    "exact_answer": [
+        [
+            "HSP90"
+        ], 
+        [
+            "CDC37"
+        ], 
+        [
+            "GRP75"
+        ], 
+        [
+            "HSP60"
+        ], 
+        [
+            "LRPPRC"
+        ], 
+        [
+            "TUFM"
+        ], 
+        [
+            "PICK1"
+        ], 
+        [
+            "PSMA7", 
+            "XAPC7"
+        ], 
+        [
+            "Pael receptor"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/PRKN2_HUMAN"
+    ], 
+    "type": "list", 
+    "id": "5318380bb166e2b806000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 482, 
+            "offsetInEndSection": 666, 
+            "text": "In addition to two known binding partners (HSP90, CDC37), 12 proteins were identified using the TAP assay; four of which are mitochondrially localized (GRP75, HSP60, LRPPRC, and TUFM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21437181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 445, 
+            "offsetInEndSection": 595, 
+            "text": "We find that parkin binds PICK1 via a PDZ-mediated interaction, which predominantly promotes PICK1 monoubiquitination rather than polyubiquitination. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17553932", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 276, 
+            "offsetInEndSection": 416, 
+            "text": "We have identified the 20S proteasomal subunit alpha4 (synonyms: PSMA7, XAPC7, subunit alpha type 7) as a new interacting partner of parkin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15987638", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 402, 
+            "offsetInEndSection": 569, 
+            "text": "we cloned parkin-binding protein using a yeast two-hybrid system and identified a putative G protein-coupled receptor protein,which we named the Pael receptor (Pael-R)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14579121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 636, 
+            "offsetInEndSection": 735, 
+            "text": ", whose interactions with CASK are reviewed here, include the Parkinson's disease molecule parkin, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16842202", 
+            "endSection": "abstract"
+        }
+    ]
+}

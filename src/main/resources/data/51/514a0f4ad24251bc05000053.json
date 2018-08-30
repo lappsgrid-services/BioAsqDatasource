@@ -1,0 +1,190 @@
+{
+    "body": "How many genes are in the gene signature screened by MammaPrint?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22553468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20094918", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23371464", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19126254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20359886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20204499", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21347257", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23347730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21291290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21081926", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22738860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21479927", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21151591", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18483364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18786252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19214742"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17680439", 
+            "o": "MammaPrint"
+        }
+    ], 
+    "ideal_answer": [
+        "Mammaprint has a 70 gene signature."
+    ], 
+    "exact_answer": [
+        "70 genes"
+    ], 
+    "type": "factoid", 
+    "id": "514a0f4ad24251bc05000053", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 138, 
+            "text": "The 70 gene-signature (MammaPrint(\u00ae)) is a prognostic profile of distant recurrence and survival of primary breast cancer (BC)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23347730", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 501, 
+            "offsetInEndSection": 552, 
+            "text": "The 70-gene signature was analysed using MammaPrint", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22738860", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 52, 
+            "offsetInEndSection": 104, 
+            "text": "the prognostic value of the MammaPrint(TM) signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 474, 
+            "offsetInEndSection": 498, 
+            "text": "by the 70-gene signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 477, 
+            "offsetInEndSection": 498, 
+            "text": "the 70-gene signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1433, 
+            "offsetInEndSection": 1484, 
+            "text": "n FDA-cleared 70-gene signature of MammaPrint panel", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21479927", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 22, 
+            "offsetInEndSection": 50, 
+            "text": "70-gene MammaPrint signature", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21291290", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 470, 
+            "offsetInEndSection": 487, 
+            "text": "70-gene signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21291290", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 156, 
+            "text": "The 70-gene signature (MammaPrint) is a prognostic test used to guide adjuvant treatment decisions in patients with node-negative breast cancer.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 917, 
+            "offsetInEndSection": 935, 
+            "text": "70-gene signature.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 26, 
+            "offsetInEndSection": 43, 
+            "text": "70-gene signature", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 158, 
+            "offsetInEndSection": 220, 
+            "text": "the 70-gene MammaPrint signature for chemotherapy (CT) benefit", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20204499", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 61, 
+            "offsetInEndSection": 93, 
+            "text": "the 70-gene MammaPrint signature", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20094918", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "The 70-gene signature (MammaPrint) is a prognostic tool used to guide adjuvant treatment decisions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19214742", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 214, 
+            "offsetInEndSection": 233, 
+            "text": "the 70-gene profile", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19214742", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 287, 
+            "offsetInEndSection": 373, 
+            "text": "the 70-gene prognosis signature (MammaPrint) for node-negative breast cancer patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 642, 
+            "offsetInEndSection": 660, 
+            "text": "70-gene signature.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 642, 
+            "offsetInEndSection": 659, 
+            "text": "70-gene signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 836, 
+            "offsetInEndSection": 868, 
+            "text": "The MammaPrint 70-gene signature", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18483364", 
+            "endSection": "sections.0"
+        }
+    ]
+}

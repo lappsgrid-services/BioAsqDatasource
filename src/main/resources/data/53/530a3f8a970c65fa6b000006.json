@@ -1,0 +1,167 @@
+{
+    "body": "Define marine metaproteomics", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21169428", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23968355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24212578", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23616470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22517752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24112684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24041543", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22399469", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23126454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21068774", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24060126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24060127", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16176596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22225547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20164862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23831146"
+    ], 
+    "ideal_answer": [
+        "Marine metaproteomics is the study of the activities of whole marine microbial communities. The proteomic analyses are applied directly without the need for prior microbial culturing. The samples can be sediments,seawater, etc."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059001"
+    ], 
+    "type": "summary", 
+    "id": "530a3f8a970c65fa6b000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "Metaproteomics is a new field within the 'omics' science which investigates protein expression from a complex biological system and provides direct evidence of physiological and metabolic activities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24041543", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "Metaproteomic studies of whole microbial communities from environmental samples (e.g., soil, sediments, freshwater, seawater, etc.) have rapidly increased in recent years due to many technological advances in mass spectrometry (MS). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24060127", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 557, 
+            "offsetInEndSection": 775, 
+            "text": "Metatranscriptomics and metaproteomics are approaches based on different techniques and have recently emerged as promising techniques to describe microbial activities within a given environment at the molecular level. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23968355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 194, 
+            "text": "Culture-independent techniques such as LC-MS/MS-based metaproteomic analyses are being increasingly utilized for the study of microbial composition and function in complex environmental samples.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23831146", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 612, 
+            "text": "Metaproteomic analysis and protein-stable isotope probing revealed Burkholderiales, Actinomycetales, and Rhizobiales as the most active microorganisms in the groundwater communities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23616470", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 265, 
+            "text": "Advances in tandem mass spectrometry (tandem MS) and sequencing have enabled the field of community proteomics, which seeks to identify expressed proteins, their sequence variability, and the physiological responses of organisms to variable environmental conditions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24060126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 548, 
+            "offsetInEndSection": 792, 
+            "text": "Marine community proteomic studies have verified the importance of nutrient transport, energy generation, and carbon fixation functions in bacteria and archaea and revealed spatial and temporal shifts in the expressed functions of communities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24060126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 371, 
+            "text": "Metagenomics is the study of microbial organisms using sequencing applied directly to environmental samples. Similarly, in metatranscriptomics and metaproteomics, the RNA and protein sequences of such samples are studied. The analysis of these kinds of data often starts by asking the questions of \"who is out there?\", \"what are they doing?\", and \"how do they compare?\". ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22399469", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 412, 
+            "offsetInEndSection": 611, 
+            "text": "the study of the proteins collectively expressed by all the microorganisms present within an ecosystem (metaproteomics) is not only crucial but can also provide insights into microbial functionality.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22225547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 896, 
+            "offsetInEndSection": 1133, 
+            "text": "Metaproteomics has been employed in very diverse environments, and this review discusses the recent advances achieved in the context of human biology, soil, marine and freshwater environments as well as natural and bioengineered systems.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22225547", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 931, 
+            "offsetInEndSection": 1317, 
+            "text": "To assess the functional dynamics of microbial communities, metatranscriptomics and metaproteomics have been developed. The combination of DNA-based, mRNA-based, and protein-based analyses of microbial communities present in different environments is a way to elucidate the compositions, functions, and interactions of microbial communities and to link these to environmental processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21169428", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Metaproteomics is one of a suite of new approaches providing insights into the activities of microorganisms in natural environments. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21068774", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 465, 
+            "text": "We used comparative membrane metaproteomics to identify functional responses of communities to different nutrient concentrations on an oceanic scale.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20164862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 396, 
+            "text": "This study describes the application of proteomic approaches (metaproteomics) to observe expressed protein profiles of natural microbial communities (metaproteomes). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16176596", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 630, 
+            "text": "metaproteomics analysis of fecal samples to determine microbial gut composition and protein expression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24212578", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 587, 
+            "offsetInEndSection": 820, 
+            "text": "In this study, we used metaproteomics and metabolomics to investigate the intricate network of metabolic interactions in the chemosynthetic association between Olavius algarvensis, a gutless marine worm, and its bacterial symbionts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22517752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "The role of planktonic Flavobacteria in processing algal organic matter in coastal East Antarctica revealed using metagenomics and metaproteomics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23126454", 
+            "endSection": "title"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "body": "Are ultraconserved elements often transcribed?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20202189", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24384562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19660540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21187392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16705037", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23393190"
+    ], 
+    "ideal_answer": [
+        "Yes.  Especially, a large fraction of non-exonic UCEs is transcribed across all developmental stages examined from only one DNA strand."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "553a8d78f321868558000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 479, 
+            "text": "Starting from a genome-wide expression profiling, we demonstrate for the first time a functional link between oxygen deprivation and the modulation of long noncoding transcripts from ultraconserved regions, termed transcribed-ultraconserved regions (T-UCRs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1317, 
+            "offsetInEndSection": 1476, 
+            "text": "Our data gives a first glimpse of a novel functional hypoxic network comprising protein-coding transcripts and noncoding RNAs (ncRNAs) from the T-UCRs category", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Highly conserved elements discovered in vertebrates are present in non-syntenic loci of tunicates, act as enhancers and can be transcribed during development", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23393190", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1303, 
+            "text": "The majority of these regions map onto ultraconserved elements and we demonstrate that they can act as functional enhancers within the organism of origin, as well as in cross-transgenesis experiments, and that they are transcribed in extant species of Olfactores. We refer to the elements as 'Olfactores conserved non-coding elements'", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23393190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 504, 
+            "offsetInEndSection": 1083, 
+            "text": "We used a custom microarray to assess the levels of UCE transcription during mouse development and integrated these data with published microarray and next-generation sequencing datasets as well as with newly produced PCR validation experiments. We show that a large fraction of non-exonic UCEs is transcribed across all developmental stages examined from only one DNA strand. Although the nature of these transcripts remains a mistery, our meta-analysis of RNA-Seq datasets indicates that they are unlikely to be short RNAs and that some of them might encode nuclear transcripts", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20202189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1506, 
+            "offsetInEndSection": 1876, 
+            "text": "Our data shows that the concurrent presence of enhancer and transcript function in non-exonic UCE elements is more widespread than previously shown. Moreover through our own experiments as well as the use of next-generation sequencing datasets, we were able to show that the RNAs encoded by non-exonic UCEs are likely to be long RNAs transcribed from only one DNA strand", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20202189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Short ultraconserved promoter regions delineate a class of preferentially expressed alternatively spliced transcripts", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19660540", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 564, 
+            "text": "The importance of other classes of non-coding RNAs, such as long intergenic ncRNAs (lincRNAs) and transcribed ultraconserved regions (T-UCRs) as altered elements in neoplasia, is also gaining recognition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22617881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 555, 
+            "text": "Other ncRNAs, such as PIWI-interacting RNAs (piRNAs), small nucleolar RNAs (snoRNAs), transcribed ultraconserved regions (T-UCRs) and large intergenic non-coding RNAs (lincRNAs) are emerging as key elements of cellular homeostasis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22094949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1232, 
+            "text": "The majority of these regions map onto ultraconserved elements and we demonstrate that they can act as functional enhancers within the organism of origin, as well as in cross-transgenesis experiments, and that they are transcribed in extant species of Olfactores.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23393190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 320, 
+            "text": "Transcribed ultraconserved regions (T-UCRs) are a subset of 481 sequences longer than 200 bp, which are absolutely conserved between orthologous regions of human, rat and mouse genomes, and are actively transcribed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Highly conserved elements discovered in vertebrates are present in non-syntenic loci of tunicates, act as enhancers and can be transcribed during development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23393190", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "The Evf-2 noncoding RNA is transcribed from the Dlx-5/6 ultraconserved region and functions as a Dlx-2 transcriptional coactivator.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16705037", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 630, 
+            "text": "In this report, we show that the Dlx-5/6 ultraconserved region is transcribed to generate an alternatively spliced form of Evf-1, the ncRNA Evf-2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16705037", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1544, 
+            "offsetInEndSection": 1738, 
+            "text": "These studies identify a critical role for TUC338 in regulation of transformed cell growth and of transcribed ultraconserved ncRNA as a unique class of genes involved in the pathobiology of HCC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 297, 
+            "offsetInEndSection": 426, 
+            "text": "Transcribed ultraconserved region (T-UCR) transcripts are a novel class of lncRNAs transcribed from ultraconserved regions (UCRs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24384562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1231, 
+            "text": "The majority of these regions map onto ultraconserved elements and we demonstrate that they can act as functional enhancers within the organism of origin, as well as in cross-transgenesis experiments, and that they are transcribed in extant species of Olfactores", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23393190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 93, 
+            "offsetInEndSection": 307, 
+            "text": "Transcribed ultraconserved regions (T-UCRs) are a subset of 481 sequences longer than 200 bp, which are absolutely conserved between orthologous regions of human, rat and mouse genomes, and are actively transcribed", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 554, 
+            "text": "Other ncRNAs, such as PIWI-interacting RNAs (piRNAs), small nucleolar RNAs (snoRNAs), transcribed ultraconserved regions (T-UCRs) and large intergenic non-coding RNAs (lincRNAs) are emerging as key elements of cellular homeostasis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22094949", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 51, 
+            "text": "Transcribed ultraconserved region in human cancers.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24384562", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 730, 
+            "offsetInEndSection": 859, 
+            "text": "We show that a large fraction of non-exonic UCEs is transcribed across all developmental stages examined from only one DNA strand", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20202189", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1265, 
+            "text": "Although uc.338 is partially located within the poly(rC) binding protein 2 (PCBP2) gene, the transcribed ncRNA encoding uc.338 is expressed independently of PCBP2 and was cloned as a 590-bp RNA gene, termed TUC338", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1624, 
+            "offsetInEndSection": 1846, 
+            "text": "Moreover through our own experiments as well as the use of next-generation sequencing datasets, we were able to show that the RNAs encoded by non-exonic UCEs are likely to be long RNAs transcribed from only one DNA strand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20202189", 
+            "endSection": "abstract"
+        }
+    ]
+}

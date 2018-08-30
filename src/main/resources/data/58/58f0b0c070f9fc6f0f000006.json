@@ -1,0 +1,41 @@
+{
+    "body": "What is the indication for valbenazine?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25809133", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27819145"
+    ], 
+    "ideal_answer": [
+        "Valbenazine granted breakthrough drug status for treating tardive dyskinesia."
+    ], 
+    "exact_answer": [
+        "Valbenazine granted breakthrough drug status for treating tardive dyskinesia."
+    ], 
+    "type": "factoid", 
+    "id": "58f0b0c070f9fc6f0f000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 571, 
+            "offsetInEndSection": 747, 
+            "text": "VMAT2 inhibitors (e.g. deutetrabenazine and valbenazine) have been studied in the treatment of HD-related chorea, tardive dyskinesia and tics associated with Tourette syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27819145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": -1, 
+            "offsetInEndSection": 76, 
+            "text": "Valbenazine granted breakthrough drug status for treating tardive dyskinesia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25809133", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 810, 
+            "offsetInEndSection": 1000, 
+            "text": "The FDA lowered approval hurdles for valbenazine due to a successful Phase II trial, which showed a distinctive improvement in tardive dyskinesia symptoms during valbenazine administration. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25809133", 
+            "endSection": "abstract"
+        }
+    ]
+}

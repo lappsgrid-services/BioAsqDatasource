@@ -1,0 +1,49 @@
+{
+    "body": "Has the gorilla genome been determined?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11592477", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27034376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22398555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27435933"
+    ], 
+    "ideal_answer": [
+        "Yes, the gorilla genome has been sequenced."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58dfec676fddd3e83e000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 494, 
+            "offsetInEndSection": 638, 
+            "text": "Starting with human, chimpanzee, gorilla, and orangutan genomes, our software generated an exhaustive data set of 292 ALs (\u223c1 kb each) in \u223c3 h. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27435933", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 258, 
+            "text": "We generated a high-quality assembly of the gorilla genome using single-molecule, real-time sequence technology and a string graph de novo assembly algorithm", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27034376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 144, 
+            "offsetInEndSection": 301, 
+            "text": "Here we present the assembly and analysis of a genome sequence for the western lowland gorilla, and compare the whole genomes of all extant great ape genera.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22398555", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "DNA sequencing reveals that the genomes of the human, gorilla and chimpanzee share more than 98% homology.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11592477", 
+            "endSection": "abstract"
+        }
+    ]
+}

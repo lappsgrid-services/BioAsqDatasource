@@ -1,0 +1,64 @@
+{
+    "body": "What is HOCOMOCO?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23175603"
+    ], 
+    "ideal_answer": [
+        "HOCOMOCO is a comprehensive collection of human transcription factor binding sites models constructed by integration of binding sequences obtained by both low- and high-throughput methods. HOCOMOCO contains 426 systematically curated TFBS models for 401 human TFs, where 172 models are based on more than one data source."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014157"
+    ], 
+    "type": "summary", 
+    "id": "56c8efef5795f9a73e000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "HOCOMOCO: a comprehensive collection of human transcription factor binding sites models.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 1365, 
+            "text": "We present the Homo sapiens comprehensive model collection (HOCOMOCO, http://autosome.ru/HOCOMOCO/, http://cbrc.kaust.edu.sa/hocomoco/) containing carefully hand-curated TFBS models constructed by integration of binding sequences obtained by both low- and high-throughput methods. To construct position weight matrices to represent these TFBS models, we used ChIPMunk software in four computational modes, including newly developed periodic positional prior mode associated with DNA helix pitch. We selected only one TFBS model per TF, unless there was a clear experimental evidence for two rather distinct TFBS models. We assigned a quality rating to each model. HOCOMOCO contains 426 systematically curated TFBS models for 401 human TFs, where 172 models are based on more than one data source.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 848, 
+            "text": "We present the Homo sapiens comprehensive model collection (HOCOMOCO, http://autosome.ru/HOCOMOCO/, http://cbrc.kaust.edu.sa/hocomoco/) containing carefully hand-curated TFBS models constructed by integration of binding sequences obtained by both low- and high-throughput methods", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1233, 
+            "offsetInEndSection": 1364, 
+            "text": "HOCOMOCO contains 426 systematically curated TFBS models for 401 human TFs, where 172 models are based on more than one data source", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "HOCOMOCO: a comprehensive collection of human transcription factor binding sites models", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 1065, 
+            "text": "We show that integration of TFBS data from various types of experiments into a single model typically results in the improved model quality probably due to partial correction of source specific technique bias. We present the Homo sapiens comprehensive model collection (HOCOMOCO, http://autosome.ru/HOCOMOCO/, http://cbrc.kaust.edu.sa/hocomoco/) containing carefully hand-curated TFBS models constructed by integration of binding sequences obtained by both low- and high-throughput methods. To construct position weight matrices to represent these TFBS models, we used ChIPMunk software in four computational modes, including newly developed periodic positional prior mode associated with DNA helix pitch. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23175603", 
+            "endSection": "abstract"
+        }
+    ]
+}

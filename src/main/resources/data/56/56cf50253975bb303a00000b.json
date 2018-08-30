@@ -1,0 +1,202 @@
+{
+    "body": "Is the gene MAOA epigenetically modified by methylation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22948232", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20505345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22198720", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16893905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22436428", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22139575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22906985", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19777560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18454435", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23116433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20421737"
+    ], 
+    "ideal_answer": [
+        "In recent years, the role of epigenetic phenomenon, such as methylation, in mediating vulnerability to behavioral illness has become increasingly appreciated. One prominent locus at which epigenetic phenomena are thought to be in play is the monoamine oxidase A (MAOA) locus.\nWe conclude that methylation of MAOA may play a significant role in common psychiatric illness and that further examination of epigenetic processes at this locus is in order."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032259", 
+        "http://www.uniprot.org/uniprot/AOFA_CANFA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008745", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006306", 
+        "http://www.uniprot.org/uniprot/AOFA_PONAB", 
+        "http://www.uniprot.org/uniprot/AOFA_SHEEP", 
+        "http://www.uniprot.org/uniprot/AOFA_PIG", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019175"
+    ], 
+    "type": "yesno", 
+    "id": "56cf50253975bb303a00000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Evidence that the methylation state of the monoamine oxidase A (MAOA) gene predicts brain activity of MAO A enzyme in healthy men.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22948232", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 765, 
+            "offsetInEndSection": 888, 
+            "text": "We found significant interindividual differences in methylation status and methylation patterns of the core MAOA promoter. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22948232", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 115, 
+            "offsetInEndSection": 349, 
+            "text": "In the present study, DNA methylation patterns in the MAOA regulatory and exon 1/intron 1 region were investigated for association with panic disorder with particular attention to possible effects of gender and environmental factors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436428", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1251, 
+            "offsetInEndSection": 1468, 
+            "text": " The present pilot data suggest a potential role of MAOA gene hypomethylation in the pathogenesis of panic disorder particularly in female patients, possibly mediating a detrimental influence of negative life events. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22436428", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 987, 
+            "offsetInEndSection": 1148, 
+            "text": "The MAOA promoter was hypermethylated immediately upstream of the start codon in cholangiocarcinoma samples and cell lines but not in nonmalignant counterparts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22906985", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "MAOA promoter methylation and susceptibility to carotid atherosclerosis: role of familial factors in a monozygotic twin sample.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23116433", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1400, 
+            "offsetInEndSection": 1601, 
+            "text": "Because twins reared together share early life experience, which may leave a long-lasting epigenetic mark, aberrant MAOA methylation may represent an early biomarker for unhealthy familial environment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23116433", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Effects of MAOA promoter methylation on susceptibility to paranoid schizophrenia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22198720", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1339, 
+            "offsetInEndSection": 1454, 
+            "text": "In conclusion, abnormalities of DNA methylation at the MAOA promoter may be associated with schizophrenia in males.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22198720", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 208, 
+            "offsetInEndSection": 383, 
+            "text": "In our study we analyzed DNA methylation patterns of 14 neuropsychiatric genes (COMT, DAT1, GABRA1, GNB3, GRIN2B, HTR1B, HTR2A, 5-HTT, MAOA, MAOB, NOS1, NR3C1, TPH1 and TH). D", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22139575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1599, 
+            "offsetInEndSection": 1720, 
+            "text": "Our data suggest that aberrant epigenetic regulation of neuropsychiatric genes may contribute to the pathogenesis of BPD.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22139575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1174, 
+            "text": "We conclude that smoking reliably decreases MAOA methylation, but exact characterization of effects on level of methylation depend on genotype, smoking history, current smoking status, gender, and region of the promoter-associated CpG Island examined.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19777560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 742, 
+            "text": "Given that DNA methylation is linked to the regulation of gene expression, we hypothesized that epigenetic mechanisms factor into the MAOA expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20421737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1263, 
+            "offsetInEndSection": 1489, 
+            "text": " the extended MAOA regulatory region contains two CpG islands (CGIs), one of which overlaps with the canonical MAOA promoter and the other is located further upstream; both CGIs exhibit sensitivity to differential methylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20421737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Identification and characterization of putative methylation targets in the MAOA locus using bioinformatic approaches.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20421737", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "DNA methylation is a key epigenetic mechanism involved in the developmental regulation of gene expression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20505345", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "MAOA methylation is associated with nicotine and alcohol dependence in women.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18454435", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 276, 
+            "text": "In recent years, the role of epigenetic phenomenon, such as methylation, in mediating vulnerability to behavioral illness has become increasingly appreciated. One prominent locus at which epigenetic phenomena are thought to be in play is the monoamine oxidase A (MAOA) locus. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18454435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1092, 
+            "offsetInEndSection": 1266, 
+            "text": "We conclude that methylation of MAOA may play a significant role in common psychiatric illness and that further examination of epigenetic processes at this locus is in order.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18454435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 729, 
+            "text": "Analysis of CpG methylation in the MAOA promoter region revealed substantial methylation in females but not in males.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16893905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1371, 
+            "offsetInEndSection": 1519, 
+            "text": "Therefore, allelic mRNA expression is affected by genetic and epigenetic events, both with the potential to modulate biogenic amine tone in the CNS.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16893905", 
+            "endSection": "abstract"
+        }
+    ]
+}

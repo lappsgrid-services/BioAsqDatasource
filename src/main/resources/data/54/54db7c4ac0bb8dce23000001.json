@@ -1,0 +1,126 @@
+{
+    "body": "Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22463608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22707725", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19696029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20060004", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20349314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22772476", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2544595", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25451386"
+    ], 
+    "ideal_answer": [
+        "Phosphorylation of phospholamban at Ser16 is mainly mediated by PKA and at Thr17 by Ca(2+) /calmodulin-dependent protein kinase (CaMKII). Phospholamban is also a reporter for PKG activity and akt kinase interacts with and phosphorylates PLN at Thr(17)."
+    ], 
+    "exact_answer": [
+        [
+            "protein kinase A", 
+            "PKA"
+        ], 
+        [
+            "protein kinase G", 
+            "PKG"
+        ], 
+        [
+            "Ca(2+) /calmodulin-dependent protein kinase II", 
+            "CaMKII"
+        ], 
+        [
+            "akt kinase", 
+            "Akt"
+        ]
+    ], 
+    "type": "list", 
+    "id": "54db7c4ac0bb8dce23000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 706, 
+            "text": "Dephosphorylated PLN is an inhibitor of SERCA2a and phosphorylation by protein kinase A (PKA) or calcium-calmodulin-dependent protein kinases (CAMKII) relieves these inhibitory effects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25451386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 798, 
+            "offsetInEndSection": 945, 
+            "text": "We have found that phosphorylation of PLN by protein kinase A (PKA) leads to an increase in the rate of Ca(2+) leak from Ca(2+)-loaded SR vesicles.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22772476", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 611, 
+            "offsetInEndSection": 724, 
+            "text": "PKG activity of cardiac myocytes was assessed by phospholamban (PLB) phosphorylation determined by western blot. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20349314", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1210, 
+            "offsetInEndSection": 1315, 
+            "text": "PLB is not a unique reporter for PKG activity since it is also phosphorylated by protein kinase A (PKA), ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20349314", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Ca(2+)-calmodulin-dependent protein kinase II (CaMKII) plays an important role mediating apoptosis/necrosis during ischemia-reperfusion (IR).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20060004", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 345, 
+            "offsetInEndSection": 516, 
+            "text": "The onset of reperfusion increased the phosphorylation of Thr(17) site of phospholamban, without changes in total protein, consistent with an increase in CaMKII activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20060004", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1017, 
+            "offsetInEndSection": 1308, 
+            "text": "We found that when activated, Akt interacts with and phosphorylates PLN at Thr(17), the Ca(2+)-calmodulin-dependent kinase IIdelta site, whereas silencing Akt signaling, through the knock-out of phosphatidylinositol-dependent kinase-1, resulted in reduced phosphorylation of PLN at Thr(17). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19696029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 482, 
+            "offsetInEndSection": 642, 
+            "text": "Deletion of Arg(14) disrupts the protein kinase A recognition motif, which abrogates phospholamban phosphorylation and results in constitutive SERCA inhibition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22707725", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 345, 
+            "text": "Dephosphorylated PLN tonically inhibits the SR Ca-ATPase (SERCA2a), while phosphorylation at Ser16 by PKA and Thr17 by Ca(2+) /calmodulin-dependent protein kinase (CaMKII) relieves the inhibition, and this increases SR Ca(2+) uptake. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22463608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 784, 
+            "offsetInEndSection": 1030, 
+            "text": "Both CaMKIIdelta(C) and the novel CaMKIIbeta(4) isoforms were found to exist in complex with alphaKAP and SERCA2a at the SR and were able to phosphorylate Thr-17 on phospholamban (PLN), an accessory subunit and known regulator of SERCA2a activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19671701", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 460, 
+            "text": "Phospholamban is the major membrane protein of the heart phosphorylated in response to beta-adrenergic stimulation. In cell-free systems, cAMP-dependent protein kinase catalyzes exclusive phosphorylation of serine 16 of phospholamban, whereas Ca2+/calmodulin-dependent protein kinase gives exclusive phosphorylation of threonine 17 (Simmerman, H. K. B., Collins, J. H., Theibert, J. L., Wegener, A. D., and Jones, L. R. (1986) J. Biol. Chem. 261, 13333-13341).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2544595", 
+            "endSection": "abstract"
+        }
+    ]
+}

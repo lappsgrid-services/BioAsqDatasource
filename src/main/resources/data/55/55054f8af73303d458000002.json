@@ -1,0 +1,264 @@
+{
+    "body": "Which bone protein is used in archaelogy for dating and species identification?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22956324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21800128", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20131322", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18174420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22517758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16323185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21959970", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1910520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21606484", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16921562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24327307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24019191", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21953952", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22125157", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21953954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19899187"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0026102", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003733", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0026106"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003733", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0026102"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0026106", 
+            "o": "Archeology"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003733", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1387406"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003733", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0026101"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0026102", 
+            "o": "Archaeology"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1387406", 
+            "o": "archaeology"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003733", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0026101"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0026106", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "Collagen is the main protein extracted from bones and analyzed by mass spectrometry. It is traditionally used for radiocarbon dating but sophisticated new technologies are using collagen for species identification as well."
+    ], 
+    "exact_answer": [
+        "Collagen"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D021241", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018629", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060348", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001106", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D053719", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0038055", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013058", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001503", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013057", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001842", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0080001"
+    ], 
+    "type": "factoid", 
+    "id": "55054f8af73303d458000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 503, 
+            "text": "Collagen was extracted from modern and archaeological cod bones using a weak HCl solution and analysed for its sulphur isotopic composition by isotope ratio mass spectrometry (IRMS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24019191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 514, 
+            "text": "With the high sensitivity of current generation mass spectrometers, ZooMS provides a non-destructive and highly cost-effective method to characterise collagen peptides.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22956324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Archaeological bones are usually dated by radiocarbon measurement of extracted collagen. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22517758", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 451, 
+            "text": "we describe three complementary preparative HPLC procedures suitable for separating and isolating single amino acids from bone collagen or hair keratin with minimal isotopic contamination. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22125157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 508, 
+            "text": "Bulk bone collagen isotopic analysis of 11 skeletons of Iron Age and Roman date gave a typical C(3) terrestrial signal (", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21959970", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 267, 
+            "text": "Comparison of liquid chromatography-isotope ratio mass spectrometry (LC/IRMS) and gas chromatography-combustion-isotope ratio mass spectrometry (GC/C/IRMS) for the determination of collagen amino acid \u03b413C values for palaeodietary and palaeoecological reconstruction.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21953954", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 501, 
+            "text": "Although the primary focus was the compound-specific stable carbon isotope analysis of bone collagen AAs, because of its growing application for palaeodietary and palaeoecological reconstruction, the results are relevant to any field where AA \u03b4(13)C values are required. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21953954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "In archaeological studies, the isotopic enrichment values of carbon and nitrogen in bone collagen give a degree of information on dietary composition. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21953952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Liquid chromatography/isotope ratio mass spectrometry measurement of \u03b413C of amino acids in plant proteins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21953952", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "A new procedure for extraction of collagen from modern and archaeological bones for 14C dating.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21800128", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 238, 
+            "text": "Bones are potentially the best age indicators in a stratigraphic study, because they are closely related to the layer in which they are found. Collagen is the most suitable fraction and is the material normally used in radiocarbon dating.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21800128", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 733, 
+            "offsetInEndSection": 932, 
+            "text": "The developed strategy permitted unprecedented biochemical analyses of bone-matrix proteins, including collagen modifications, using nearly nanoscale amounts of exceptionally homogenous bone tissue. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21606484", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "Amino acid delta13C analysis of hair proteins and bone collagen using liquid chromatography/isotope ratio mass spectrometry: paleodietary implications from intra-individual comparisons.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20131322", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 299, 
+            "text": "We report a novel method for the chromatographic separation and measurement of stable carbon isotope ratios (delta(13)C) of individual amino acids in hair proteins and bone collagen using the LC-IsoLink system, which interfaces liquid chromatography (LC) with isotope ratio mass spectrometry (IRMS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20131322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Species identification by analysis of bone collagen using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19899187", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 419, 
+            "offsetInEndSection": 612, 
+            "text": "Analysis of the collagen from 32 different mammal species identified a total of 92 peptide markers that could be used for species identification, for example, in processed food and animal feed.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19899187", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 206, 
+            "text": "We used authentication tests developed for ancient DNA to evaluate claims by Asara et al. (Reports, 13 April 2007, p. 280) of collagen peptide sequences recovered from mastodon and Tyrannosaurus rex fossils", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18174420", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Analysis of amino acid 13C abundance from human and faunal bone collagen using liquid chromatography/isotope ratio mass spectrometry.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16921562", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 89, 
+            "offsetInEndSection": 317, 
+            "text": "Stable nitrogen (delta(15)N) and carbon (delta(13)C) isotope ratios were measured in bone collagen and dentine from human skeletons excavated from this site in order to establish a weaning curve in mid-Holocene hunter-gatherers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16323185", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 264, 
+            "text": "Mass spectrometric analysis of the stable carbon isotope composition (13C/12C or delta 13C) of bone collagen from human remains recovered at archaeological sites provides a direct chemical method for investigating dietary patterns of prehistoric human populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1910520", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1356, 
+            "offsetInEndSection": 1541, 
+            "text": "Coupled with more traditional archaeological methods, stable carbon isotope analysis of bone collagen can significantly enhance reconstruction of dietary patterns of prehistoric humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1910520", 
+            "endSection": "abstract"
+        }
+    ]
+}

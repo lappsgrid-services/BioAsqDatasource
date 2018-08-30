@@ -1,0 +1,51 @@
+{
+    "body": "How many microorganisms are present in human normal gut?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26613639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26627987", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26908163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26945826"
+    ], 
+    "ideal_answer": [
+        "Human gut microbiota is home to 10 to 100 trillions microorganisms."
+    ], 
+    "exact_answer": [
+        "10 to 100 trillions microorganisms."
+    ], 
+    "type": "factoid", 
+    "id": "58bc347422d300530900001e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 494, 
+            "text": ". A major breakthrough in understanding the etiology of neurological disorders is the recent insight on the role of the gut microbiota (GM). Human GM also referred to as the \"forgotten organ\" is home to 10(13-14) microorganisms", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26613639", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "The gut microbiome comprises the collective genome of the trillions of microorganisms residing in our gastrointestinal ecosystem.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26627987", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 847, 
+            "text": "The gut microbiome (i.e. the 100 trillion symbiotic microorganisms which inhabit the mammalian gastrointestinal tract) influences numerous aspects of host metabolism, development and immunity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26908163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "The microorganisms inhabiting the human gut are abundant (10(14) cells) and diverse (approximately 500 species per individual).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26945826", 
+            "endSection": "abstract"
+        }
+    ]
+}

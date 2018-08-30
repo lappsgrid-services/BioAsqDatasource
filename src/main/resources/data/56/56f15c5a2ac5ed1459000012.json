@@ -1,0 +1,142 @@
+{
+    "body": "Can zinc finger nucleases be used to combat disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15806097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16082368", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22318089", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20389291", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18511461", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23161061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21631241", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20846404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20594338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24557916", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24808958"
+    ], 
+    "ideal_answer": [
+        "Yes, zinc finger nucleases are a useful tool for treating disease."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016335", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015032", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004194", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4"
+    ], 
+    "type": "yesno", 
+    "id": "56f15c5a2ac5ed1459000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 152, 
+            "text": "Genetic engineering has emerged as a powerful mechanism for understanding biological systems and a potential approach for redressing congenital disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318089", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 861, 
+            "offsetInEndSection": 1227, 
+            "text": "This is of particular importance, given the momentum currently behind ZFNs in moving into phase I clinical trials. This study provides a historical account of the origins of ZFN technology, an analysis of current techniques and applications, and an examination of the ethical issues applicable to translational ZFN genetic engineering in early phase clinical trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318089", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 617, 
+            "offsetInEndSection": 830, 
+            "text": "This broad range of tractable species renders ZFNs a useful tool for improving the understanding of complex physiological systems, to produce transgenic animals, cell lines, and plants, and to treat human disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23161061", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1262, 
+            "offsetInEndSection": 1417, 
+            "text": "We observe comparably high frequencies in human T cells, raising the possibility of strategies based on zinc-finger nucleases for the treatment of disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15806097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 298, 
+            "text": "Using engineered nucleases, such as Zinc Finger Nucleases (ZFNs) or Transcription Activator-Like Effector Nucleases (TALENs), to make targeted genomic modifications has become a common technique to create new model organisms and custom cell lines, and has shown great promise for disease treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24557916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Zinc Finger nucleases (ZFNs) have been used to create precise genome modifications at frequencies that might be therapeutically useful in gene therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20389291", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Zinc finger nucleases as tools to understand and treat human diseases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20594338", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Evaluation of novel design strategies for developing zinc finger nucleases tools for treating human diseases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24808958", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "An over expression APP model for anti-Alzheimer disease drug screening created by zinc finger nuclease technology.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24223114", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Oxidase-deficient neutrophils from X-linked chronic granulomatous disease iPS cells: functional correction by zinc finger nuclease-mediated safe harbor targeting.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21411759", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 262, 
+            "text": "Recently, it has been shown that targeted mutagenesis using zinc-finger nucleases (ZFNs) and transcription activator-like effector nucleases (TALENs) can be used to generate knockout zebrafish lines for analysis of their function and/or developing disease models", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23451191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 297, 
+            "text": "Using engineered nucleases, such as Zinc Finger Nucleases (ZFNs) or Transcription Activator-Like Effector Nucleases (TALENs), to make targeted genomic modifications has become a common technique to create new model organisms and custom cell lines, and has shown great promise for disease treatment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24557916", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Gene correction by homologous recombination with zinc finger nucleases in primary cells from a mouse model of a generic recessive genetic disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20389291", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1170, 
+            "offsetInEndSection": 1268, 
+            "text": "raising the possibility of strategies based on zinc-finger nucleases for the treatment of disease.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15806097", 
+            "endSection": "abstract"
+        }
+    ]
+}

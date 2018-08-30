@@ -1,0 +1,52 @@
+{
+    "body": "Is there a genome-wide technique for the detection of R-loop formation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24164596", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23868195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25699710", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24636987", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23251031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22279048"
+    ], 
+    "ideal_answer": [
+        "Genome-wide analysis of fragile sites by chromatin immunoprecipitation (ChIP) and microarray (ChIP-chip) of phosphorylated H2A in these mutants supported a transcription-dependent mechanism of DNA damage characteristic of R loops. Here we show that recombination factors are required for the survival of yeast FACT mutants, consistent with an accumulation of DNA breaks that we detected by Rad52 foci and transcription-dependent hyperrecombination. The latter pathway operates on nascent transcripts that are not simultaneously translated and requires factors Rho, NusG, and NusA, each of which is essential for viability of WT Escherichia coli. DNA replication in Escherichia coli is normally initiated at a single origin, oriC, dependent on initiation protein DnaA.", 
+        "Genome-wide analysis of fragile sites by chromatin immunoprecipitation (ChIP) and microarray (ChIP-chip) of phosphorylated H2A in these mutants supported a transcription-dependent mechanism of DNA damage characteristic of R loops\nA bisulfite-sensitivity assay may demonstrate genome-wide increase in the occurrence of RNA-DNA hybrids (R-loops)."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "56c332a350c68dd41600000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 448, 
+            "offsetInEndSection": 677, 
+            "text": "Genome-wide analysis of fragile sites by chromatin immunoprecipitation (ChIP) and microarray (ChIP-chip) of phosphorylated H2A in these mutants supported a transcription-dependent mechanism of DNA damage characteristic of R loops", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22279048", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 469, 
+            "offsetInEndSection": 717, 
+            "text": "We have used a bisulfite-sensitivity assay to demonstrate genome-wide increase in the occurrence of RNA-DNA hybrids (R-loops), including from antisense and read-through transcripts, in a nusG missense mutant defective for Rho-dependent termination.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1058, 
+            "offsetInEndSection": 1236, 
+            "text": "The results demonstrate a key function of FACT in the resolution of R-loop-mediated transcription-replication conflicts, likely associated with a specific chromatin organization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24636987", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 155, 
+            "offsetInEndSection": 300, 
+            "text": "Previous work revealed that GC skew and R-loop formation associate with a core set of unmethylated CpG island (CGI) promoters in the human genome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23868195", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "body": "Is Obeticholic Acid used for treatment of Primary Biliary Cholangitis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27406083", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27906472", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27532829", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27621676", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27700211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27825634", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27468093", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26312413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27589928"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2825352", 
+            "o": "Obeticholic Acid"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2825352", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17691068"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17691068", 
+            "o": "OBETICHOLIC ACID"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0087111", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10762572"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10762572", 
+            "o": "Treatment"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, obeticholic acid is a farnesoid-X receptor agonist that is approved for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid in adults with an inadequate response to ursodeoxycholic acid, or as monotherapy in adults unable to tolerate ursodeoxycholic acid."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:0060643", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019468"
+    ], 
+    "type": "yesno", 
+    "id": "5884722ee56acf5176000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 48, 
+            "text": "Obeticholic acid in primary biliary cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27825634", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 330, 
+            "text": "In a double-blind, randomized, placebo-controlled study including 217 patients with primary biliary cholangitis, the authors show that obeticholic acid (a potent farnesoid X agonist) administered with ursodeoxycholic acid or as monotherapy significantly decreases serum alkaline phosphatase and bilirubin when compared to placebo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27825634", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 453, 
+            "text": "Obeticholic acid (Ocaliva(TM)) is a farnesoid-X receptor (FXR) agonist that is being developed by Intercept Pharmaceuticals for the treatment of various liver diseases, and has recently been granted accelerated approval in the USA for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid in adults with an inadequate response to ursodeoxycholic acid, or as monotherapy in adults unable to tolerate ursodeoxycholic acid. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27406083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 400, 
+            "text": "Obeticholic Acid (OCA) is a farnesoid X receptor (FXR) agonist which has been evaluated as a second line therapy in PBC and has recently been licenced by the FDA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27589928", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1142, 
+            "offsetInEndSection": 1363, 
+            "text": "OCA will be the first stratified therapy introduced in PBC, however confirmatory trial and real life data are needed to confirm that suggestive biochemical improvements are matched by improvement in key clinical outcomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27589928", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "Obeticholic acid for the treatment of primary biliary cholangitis in adult patients: clinical utility and patient selection.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27621676", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 972, 
+            "offsetInEndSection": 1466, 
+            "text": "A series of clinical trials of OCA in PBC, primarily in combination with UDCA, have established that OCA leads to significant reductions in serum alkaline phosphatase that are predicted to lead to improved clinical outcomes, while dose-dependent pruritus has been the most common adverse effect. On the basis of these studies, OCA was given conditional approval by the US Food and Drug Administration with plans to establish the long-term clinical efficacy of OCA in patients with advanced PBC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27621676", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1246, 
+            "offsetInEndSection": 1394, 
+            "text": "Although obeticholic acid was approved by the FDA for the treatment of PBC in May 2016, this development occurred after the symposium presentation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27700211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2330, 
+            "offsetInEndSection": 2511, 
+            "text": "While several agents are being studied in combination with UDCA, monotherapy with the novel agent obeticholic acid, a farnesoid X receptor agonist, has also shown promising results.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27700211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 452, 
+            "text": "Obeticholic acid (Ocaliva(TM)) is a farnesoid-X receptor (FXR) agonist that is being developed by Intercept Pharmaceuticals for the treatment of various liver diseases, and has recently been granted accelerated approval in the USA for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid in adults with an inadequate response to ursodeoxycholic acid, or as monotherapy in adults unable to tolerate ursodeoxycholic acid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27406083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 66, 
+            "text": "Obeticholic acid for the treatment of primary biliary cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27468093", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Long-term clinical impact and cost-effectiveness of obeticholic acid for the treatment of primary biliary cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27906472", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "A Placebo-Controlled Trial of Obeticholic Acid in Primary Biliary Cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27532829", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 513, 
+            "offsetInEndSection": 654, 
+            "text": "This article summarizes the milestones in the development of obeticholic acid leading to this first approval for primary biliary cholangitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27406083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 67, 
+            "text": "Obeticholic acid for the treatment of primary biliary cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27468093", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Long-term Clinical Impact and Cost-Effectiveness of Obeticholic Acid for the Treatment of Primary Biliary Cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27906472", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 49, 
+            "text": "Obeticholic acid in primary biliary cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27825634", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "A Placebo-Controlled Trial of Obeticholic Acid in Primary Biliary Cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27532829", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 656, 
+            "text": "This article summarizes the milestones in the development of obeticholic acid leading to this first approval for primary biliary cholangitis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27406083", 
+            "endSection": "abstract"
+        }
+    ]
+}

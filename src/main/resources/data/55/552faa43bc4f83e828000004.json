@@ -1,0 +1,172 @@
+{
+    "body": "Which are the genes thought to be regulated by EWS/FLI?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18927503", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15492248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17114343", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19920188"
+    ], 
+    "ideal_answer": [
+        "The EWS/FLI translocation product is the causative oncogene in Ewing sarcoma and acts as an aberrant transcription factor. EWS/FLI dysregulates gene expression during tumorigenesis by abnormally activating or repressing genes. The expression levels of a significant number of genes are affected in Ewing sarcoma, some of which are known to be directly or indirectly regulated by EWS/FLI. Such genes are BCL11B, NRoB1, GSTM4, NKX2.2 and p53."
+    ], 
+    "exact_answer": [
+        [
+            "BCL11B"
+        ], 
+        [
+            "NRoB1"
+        ], 
+        [
+            "GSTM4"
+        ], 
+        [
+            "NKX2.2"
+        ], 
+        [
+            "p53"
+        ]
+    ], 
+    "type": "list", 
+    "id": "552faa43bc4f83e828000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "BCL11B is up-regulated by EWS/FLI and contributes to the transformed phenotype in Ewing sarcoma", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 549, 
+            "text": "EWS/FLI dysregulates gene expression during tumorigenesis by abnormally activating or repressing genes. The expression levels of thousands of genes are affected in Ewing sarcoma, however, it is unknown which of these genes contribute to the transformed phenotype. Here we characterize BCL11B as an up-regulated EWS/FLI target that is necessary for the maintenance of transformation in patient derived Ewing sarcoma cells lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 551, 
+            "offsetInEndSection": 705, 
+            "text": "BCL11B, a zinc finger transcription factor, acts as a transcriptional repressor in Ewing's sarcoma and contributes to the EWS/FLI repressed gene signature", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 539, 
+            "text": "EWS/FLI functions as an aberrant transcription factor to regulate genes that mediate the oncogenic phenotype of Ewing's sarcoma. One of these regulated genes, NR0B1, encodes a corepressor protein, and likely plays a transcriptional role in tumorigenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19920188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "GSTM4 is a microsatellite-containing EWS/FLI target involved in Ewing's sarcoma oncogenesis and therapeutic resistance", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 407, 
+            "text": "We recently showed that EWS/FLI regulates one of its key targets, NR0B1, through a GGAA-microsatellite in its promoter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 856, 
+            "text": "We found that EWS/FLI directly binds the GSTM4 promoter, and regulates GSTM4 expression through a GGAA-microsatellite in its promoter", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1023, 
+            "offsetInEndSection": 1092, 
+            "text": "The gene that was most reproducibly up-regulated by EWS/FLI was NR0B1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17114343", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1203, 
+            "offsetInEndSection": 1313, 
+            "text": "We validated NR0B1 as an EWS/FLI-dysregulated gene and confirmed its expression in primary human tumor samples", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17114343", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Expression profiling of EWS/FLI identifies NKX2.2 as a critical target gene in Ewing's sarcoma", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 653, 
+            "text": "Functional analysis revealed that NKX2.2 is an EWS/FLI-regulated gene that is necessary for oncogenic transformation in this tumor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 989, 
+            "text": "Neuroblastoma-Ews/Fli-1 infectant cell lines showed marked increases in p53 protein expression without transcriptional up-regulation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15492248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1529, 
+            "offsetInEndSection": 1804, 
+            "text": "We then tested the p53 response pathway and observed that the neuroblastoma parent cells responded to genotoxic stress, whereas the neuroblastoma-Ews/Fli-1 infectants did not. These results suggest that Ews/Fli-1 can directly abrogate the p53 pathway to promote tumorigenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15492248", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 529, 
+            "offsetInEndSection": 741, 
+            "text": "We recently showed that EWS/FLI interacts with GGAA-microsatellites to regulate some of its target genes, including NR0B1, an EWS/FLI-regulated gene that is required for the oncogenic phenotype of Ewings sarcoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18927503", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "BCL11B is up-regulated by EWS/FLI and contributes to the transformed phenotype in Ewing sarcoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1023, 
+            "offsetInEndSection": 1093, 
+            "text": "The gene that was most reproducibly up-regulated by EWS/FLI was NR0B1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17114343", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 387, 
+            "offsetInEndSection": 549, 
+            "text": "Here we characterize BCL11B as an up-regulated EWS/FLI target that is necessary for the maintenance of transformation in patient derived Ewing sarcoma cells lines", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527175", 
+            "endSection": "abstract"
+        }
+    ]
+}

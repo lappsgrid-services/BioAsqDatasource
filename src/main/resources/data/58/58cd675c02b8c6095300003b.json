@@ -1,0 +1,66 @@
+{
+    "body": "Can telomere length shortening be reversed by telomerase?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27401551", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27154402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26903545", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27483324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27029895"
+    ], 
+    "ideal_answer": [
+        "Yes, telomerase gene therapy rescues telomere length, bone marrow aplasia, and survival in mice with aplastic anemia."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "58cd675c02b8c6095300003b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 284, 
+            "text": "Telomere length is regulated around an equilibrium set point. Telomeres shorten during replication and are lengthened by telomerase. Disruption of the length equilibrium leads to disease; thus, it is important to understand the mechanisms that regulate length at the molecular level. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27401551", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 455, 
+            "text": "High telomerase activity is detected in nearly all human cancers but most human cells are devoid of telomerase activity. There is well-documented evidence that reactivation of telomerase occurs during cellular transformation. In humans, tumors can rely in reactivation of telomerase or originate in a telomerase positive stem/progenitor cell, or rely in alternative lengthening of telomeres, a telomerase-independent telomere-length maintenance mechanism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27483324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1019, 
+            "offsetInEndSection": 1247, 
+            "text": " Together, these observations may provoke a re-evaluation of telomere and telomerase based therapies, both in telomerase inhibition for cancer therapy and telomerase activation for tissue regeneration and anti-ageing strategies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27483324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 253, 
+            "text": "Telomeres progressively shorten throughout life. A hallmark of advanced malignancies is the ability for continuous cell divisions that almost universally correlates with the stabilization of telomere length by the reactivation of telomerase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27029895", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 195, 
+            "text": "Telomerase-mediated telomere elongation provides cell populations with the ability to proliferate indefinitely. Telomerase is capable of recognizing and extending the shortest telomeres in cells;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27154402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Telomerase gene therapy rescues telomere length, bone marrow aplasia, and survival in mice with aplastic anemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26903545", 
+            "endSection": "title"
+        }
+    ]
+}

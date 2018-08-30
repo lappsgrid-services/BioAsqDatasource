@@ -1,0 +1,378 @@
+{
+    "body": "Is there an association between Muenke Syndrome and FGFR3 gene mutation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17103449", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11571861", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21403557", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21233754", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10696568", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14613973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18818193", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19086028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24686979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26740388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15241680", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26028288", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19215249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19755431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24168007", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20592905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24448525", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16251895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24705944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19449410", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14963686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17070479", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22446440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22016144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22544111"
+    ], 
+    "ideal_answer": [
+        "Yes, Muenke syndrome is caused by point mutation (C749G) in the Fibroblast Growth Factor Receptor3 (FGFR3) gene. It affects 1 in 30,000 newborns and accounts for 25% to 30% of genetic causes of craniosynostosis."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/FGFR3_CHICK", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001244", 
+        "http://www.disease-ontology.org/api/metadata/DOID:0060703", 
+        "http://www.uniprot.org/uniprot/FGFR3_PLEWA", 
+        "http://www.uniprot.org/uniprot/FGFR3_HUMAN", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051498"
+    ], 
+    "type": "yesno", 
+    "id": "5895ec5e7d9090f353000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 810, 
+            "text": "RESULTS: Forty-four with a positive FGFR3 mutation, median age 9 years, range 7 months to 52 years were enrolled. In addition, 10 unaffected siblings served as controls (5 males, 5 females; median age, 13 years; range, 3-18 years).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26028288", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Muenke is a fibroblast growth factor receptor 3 (FGFR-3)-associated syndrome, which was first described in late 1990 s. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24168007", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 275, 
+            "offsetInEndSection": 455, 
+            "text": "The syndrome is defined molecularly by a unique point mutation c.749C>G in exon 7 of the FGFR3 gene which results to an amino acid substitution p.Pro250Arg of the protein product. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24168007", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Muenke syndrome caused by point mutation (C749G) in the FGFR3 gene affects 1 in 30,000 newborns and accounts for 25% to 30% of genetic causes of craniosynostosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24448525", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "Phenotypic variability in two families of Muenke syndrome with FGFR3 mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24705944", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 282, 
+            "text": "PURPOSE: There are a number of craniosynostosis syndromes with hearing loss-including Muenke, Apert, Pfeiffer, Crouzon, Beare-Stevenson, Crouzon with acanthosis nigricans, and Jackson-Weiss syndromes-that result from mutations in the fibroblast growth factor receptor (FGFR) genes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24686979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Muenke syndrome is an autosomal dominant craniosynostosis syndrome resulting from a defining point mutation in the Fibroblast Growth Factor Receptor3 (FGFR3) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Talocalcaneal coalition in Muenke syndrome: report of a patient, review of the literature in FGFR-related craniosynostoses, and consideration of mechanism.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23378035", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 331, 
+            "offsetInEndSection": 591, 
+            "text": "To better understand the pathophysiology of the Muenke syndrome, we present collective findings from several recent studies that have characterized a genetically equivalent mouse model for Muenke syndrome (FgfR3 (P244R)) and compare them with human phenotypes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 407, 
+            "offsetInEndSection": 733, 
+            "text": "We show in this study that knock-in mice harboring the mutation responsible for the Muenke syndrome (FgfR3(P244R)) display postnatal shortening of the cranial base along with synchondrosis growth plate dysfunction characterized by loss of resting, proliferating and hypertrophic chondrocyte zones and decreased Ihh expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22016144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 408, 
+            "offsetInEndSection": 526, 
+            "text": "Muenke syndrome is caused by a single defining point mutation in the fibroblast growth factor receptor 3 (FGFR3) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 434, 
+            "text": "The Pro250Arg mutation in the FGFR3 gene is found in patients with Muenke syndrome and is one of the most frequently encountered mutations in craniosynostosis syndromes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 60, 
+            "text": "Epilepsy in Muenke syndrome: FGFR3-related craniosynostosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Muenke syndrome (FGFR3-related craniosynostosis): expansion of the phenotype and review of the literature.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 436, 
+            "text": "The Pro250Arg mutation in the FGFR3 gene is found in patients with Muenke syndrome and is one of the most frequently encountered mutations in craniosynostosis syndromes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "PURPOSE: The Muenke syndrome mutation (FGFR3 (P250R)), which was discovered 15 years ago, represents the single most common craniosynostosis mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "The heterozygous Pro250Arg substitution mutation in fibroblast growth factor receptor 3 (FGFR3), which increases ligand-dependent signalling, is the most common genetic cause of craniosynostosis in humans and defines Muenke syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18818193", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "P250R mutation in the FGFR3 gene also known as Muenke syndrome is associated with coronal craniosynostosis, sensorineural deafness, craniofacial, and digital abnormalities.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17103449", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Muenke syndrome caused by the FGFR3 Pro250Arg mutation is associated with craniosynostosis, hearing loss, and various bony anomalies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 223, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Muenke syndrome, defined by heterozygosity for a Pro250Arg substitution in fibroblast growth factor receptor 3 (FGFR3), is the most common genetic cause of craniosynostosis in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19086028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1041, 
+            "offsetInEndSection": 1173, 
+            "text": "In addition, sensorineural hearing loss is detected in all FgfR3 (P244R) mutant mice as in the majority of Muenke syndrome patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 133, 
+            "offsetInEndSection": 772, 
+            "text": "Genetic testing identifies a pathogenic mutation or chromosomal abnormality in \u223c 21% of cases, but it is likely that further causative mutations remain to be discovered.To identify a shared signature of genetically determined craniosynostosis by comparing the expression patterns in three monogenic syndromes with a control group of patients with non-syndromic sagittal synostosis.Fibroblasts from 10 individuals each with Apert syndrome (FGFR2 substitution S252W), Muenke syndrome (FGFR3 substitution P250R), Saethre-Chotzen syndrome (various mutations in TWIST1) and non-syndromic sagittal synostosis (no mutation detected) were cultured", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19755431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 819, 
+            "text": "The craniosynostosis syndromes: Apert syndrome, Beare-Stevenson syndrome, Crouzon syndrome, Jackson-Weiss syndrome, Muenke syndrome, Pfeiffer syndrome and Saethre-Chotzen syndrome can be caused by mutation in either FGFR1, FGFR2, or FGFR3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11571861", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 240, 
+            "text": "Identical proline-->arginine gain-of-function mutations in fibroblast growth factor receptor (FGFR) 1 (Pro252Arg), FGFR2 (Pro253Arg) and FGFR3 (Pro250Arg), result in type I Pfeiffer, Apert and Muenke craniosynostosis syndromes, respectively", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14613973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 267, 
+            "offsetInEndSection": 435, 
+            "text": "The Pro250Arg mutation in the FGFR3 gene is found in patients with Muenke syndrome and is one of the most frequently encountered mutations in craniosynostosis syndromes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 818, 
+            "offsetInEndSection": 1043, 
+            "text": "Mutation analysis of FGFR-3 revealed a missense mutation in exon 6, c.749 C>G, with a resultant amino acid change from proline to arginine at codon 250 (P250R), in keeping with Muenke syndrome (Am J Hum Genet 1997;60:555-564)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21233754", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 441, 
+            "text": "In an attempt to delineate functional features separating SCS from Muenkes syndrome, we screened patients presenting with coronal suture synostosis for mutations in the TWIST 1 gene, and for the Pro250Arg mutation in FGFR3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16251895", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 942, 
+            "offsetInEndSection": 1237, 
+            "text": "Since the Gly380Arg achondroplasia mutation was recognized, similar observations regarding the conserved nature of FGFR mutations and resulting phenotype have been made regarding other skeletal phenotypes, including hypochondroplasia, thanatophoric dysplasia, and Muenke coronal craniosynostosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10696568", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 418, 
+            "text": "Mutations in the gene that encodes Fibroblast Growth Factor Receptor 3 (FGFR3) are associated with Achondroplasia (MIM 100800), Hypochondroplasia (MIM 146000), Muenke Syndrome (MIM 602849), Thanatophoric Dysplasia (MIM 187600, MIM 187601) and Lacrimo-Auriculo-Dento-Digital Syndrome (MIM 149730).Here we report a clinical and molecular study in a large cohort of 125 Portuguese patients with these skeletal disorders. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19215249", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 252, 
+            "text": "The Muenke syndrome (MS) is characterized by unicoronal or bicoronal craniosynostosis, midfacial hypoplasia, ocular hypertelorism, and a variety of minor abnormalities associated with a mutation in the fibroblast growth factor receptor 3 (FGFR3) gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20592905", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "P250R mutation in the FGFR3 gene also known as Muenke syndrome is associated with coronal craniosynostosis, sensorineural deafness, craniofacial, and digital abnormalities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17103449", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 539, 
+            "offsetInEndSection": 808, 
+            "text": "METHODS: Fibroblasts from 10 individuals each with Apert syndrome (FGFR2 substitution S252W), Muenke syndrome (FGFR3 substitution P250R), Saethre-Chotzen syndrome (various mutations in TWIST1) and non-syndromic sagittal synostosis (no mutation detected) were cultured. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19755431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 224, 
+            "text": "Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18000976", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 270, 
+            "text": "Muenke syndrome, also known as FGFR3-associated coronal synostosis, is defined molecularly by the presence of a heterozygous nucleotide transversion, c.749C>G, encoding the amino acid substitution Pro250Arg, in the fibroblast growth factor receptor type 3 gene (FGFR3). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15241680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 487, 
+            "text": "In spite of a variable phenotype, Muenke syndrome has been related to a unique mutation on the FGFR3 gene, Pro 250 to Arg, which is characteristic of this disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14963686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Skeletal analysis of the Fgfr3(P244R) mouse, a genetic model for the Muenke craniosynostosis syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19086028", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 410, 
+            "offsetInEndSection": 528, 
+            "text": "Muenke syndrome is caused by a single defining point mutation in the fibroblast growth factor receptor 3 (FGFR3) gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 61, 
+            "text": "Epilepsy in Muenke syndrome: FGFR3-related craniosynostosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23044018", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 269, 
+            "text": "Muenke syndrome, also known as FGFR3-associated coronal synostosis, is defined molecularly by the presence of a heterozygous nucleotide transversion, c.749C>G, encoding the amino acid substitution Pro250Arg, in the fibroblast growth factor receptor type 3 gene (FGFR3).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15241680", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "The Muenke syndrome mutation (FGFR3 (P250R)), which was discovered 15 years ago, represents the single most common craniosynostosis mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22872265", 
+            "endSection": "abstract"
+        }
+    ]
+}

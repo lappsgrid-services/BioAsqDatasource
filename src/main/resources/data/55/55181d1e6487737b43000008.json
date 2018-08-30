@@ -1,0 +1,221 @@
+{
+    "body": "What are the breath test biomarkers of pulmonary tuberculosis", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22366996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20805989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21219679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22771606", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16194024", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23737604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19481976", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20189456", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23499413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22647661"
+    ], 
+    "ideal_answer": [
+        "Nitric oxide, urea, volatile organic compounds, hydrogen peroxide and end products of lipid peroxidation are the breath test biomarkers of pulmonary tuberculosis."
+    ], 
+    "exact_answer": [
+        [
+            "nitric oxide"
+        ], 
+        [
+            "urea"
+        ], 
+        [
+            "volatile organic compounds"
+        ], 
+        [
+            "hydrogen peroxide"
+        ], 
+        [
+            "end products of lipid peroxidation"
+        ]
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:2957", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001944", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014397"
+    ], 
+    "type": "list", 
+    "id": "55181d1e6487737b43000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "BACKGROUND: Nitric oxide (NO), a key macrophage antimycobacterial mediator that ameliorates immunopathology, is measurable in exhaled breath in individuals with pulmonary tuberculosis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23737604", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1507, 
+            "offsetInEndSection": 1677, 
+            "text": "CONCLUSIONS: Among patients with pulmonary tuberculosis, impaired pulmonary NO bioavailability is associated with more-severe disease and delayed mycobacterial clearance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23737604", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1123, 
+            "offsetInEndSection": 1331, 
+            "text": "Four KI windows corresponded with KI values of VOCs previously identified as biomarkers of pulmonary TB and metabolic products of M. tuberculosis, principally derivatives of naphthalene, benzene and alkanes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22647661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Measurement of exhaled nitric oxide as a potential screening tool for pulmonary tuberculosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21219679", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1119, 
+            "offsetInEndSection": 1370, 
+            "text": "CONCLUSION: While eNO measurement has limited value in the direct diagnosis of pulmonary TB, it may be worth developing and evaluating as a cost-effective replacement of chest X-ray in screening algorithms of pulmonary TB where X-ray is not available.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21219679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "13[C]-urea breath test as a novel point-of-care biomarker for tuberculosis treatment and diagnosis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805989", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1434, 
+            "offsetInEndSection": 1577, 
+            "text": "CONCLUSIONS/SIGNIFICANCE: Urea breath testing may provide a useful diagnostic and biomarker assay for tuberculosis and for treatment response. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 773, 
+            "offsetInEndSection": 1009, 
+            "text": "RESULTS: Breath VOCs contained apparent biomarkers of active pulmonary tuberculosis comprising oxidative stress products (alkanes and alkane derivatives) and volatile metabolites of M. tuberculosis (cyclohexane and benzene derivatives).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20189456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Pulmonary tuberculosis may alter volatile organic compounds (VOCs) in breath because Mycobacteria and oxidative stress resulting from Mycobacterial infection both generate distinctive VOCs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1705, 
+            "offsetInEndSection": 2095, 
+            "text": "We conclude that volatile biomarkers in breath were sensitive and specific for pulmonary tuberculosis: the breath test distinguished between \"sick versus well\" i.e. between normal controls and patients hospitalized for suspicion of pulmonary tuberculosis, and between infected versus non-infected patients i.e. between those whose sputum cultures were positive or negative for Mycobacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 782, 
+            "text": "RESULTS: The concentrations of H202 and TBARs (1022.96+/-186.02 nM and 4.22+/-0. 80 microM, respectively) were significantly higher in patients with tuberculosis as compared with the controls (398.15+/-37.10 nM and 0.48+/-0.17 microM, respectively). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16194024", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1689, 
+            "offsetInEndSection": 1852, 
+            "text": "We conclude that volatile biomarkers in breath were sensitive and specific for pulmonary tuberculosis: the breath test distinguished between \"sick versus well\" i.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 239, 
+            "text": "Volatile organic compounds (VOCs) in breath may contain biomarkers of active pulmonary tuberculosis derived from the infectious organism (metabolites of Mycobacterium tuberculosis) and from the infected host (products of oxidative stress).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20189456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 60, 
+            "text": "Volatile biomarkers of pulmonary tuberculosis in the breath.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 745, 
+            "offsetInEndSection": 920, 
+            "text": "Breath VOCs contained apparent biomarkers of active pulmonary tuberculosis comprising oxidative stress products (alkanes and alkane derivatives) and volatile metabolites of M.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20189456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1730, 
+            "offsetInEndSection": 1862, 
+            "text": "CONCLUSIONS: A six-minute point-of-care breath test for volatile biomarkers accurately identified subjects with active pulmonary TB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22647661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 251, 
+            "text": "BACKGROUND: Volatile organic compounds (VOCs) in breath may contain biomarkers of active pulmonary tuberculosis derived from the infectious organism (metabolites of Mycobacterium tuberculosis) and from the infected host (products of oxidative stress).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20189456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1707, 
+            "offsetInEndSection": 1868, 
+            "text": "We conclude that volatile biomarkers in breath were sensitive and specific for pulmonary tuberculosis: the breath test distinguished between \"sick versus well\" i", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1705, 
+            "offsetInEndSection": 1868, 
+            "text": "We conclude that volatile biomarkers in breath were sensitive and specific for pulmonary tuberculosis: the breath test distinguished between \"sick versus well\" i.e", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16635588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 205, 
+            "offsetInEndSection": 335, 
+            "text": "We evaluated breath VOC biomarkers in subjects with active pulmonary TB, using an internet-linked rapid point-of-care breath test.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22647661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1392, 
+            "offsetInEndSection": 1507, 
+            "text": "Urea breath testing may provide a useful diagnostic and biomarker assay for tuberculosis and for treatment response", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20805989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1671, 
+            "offsetInEndSection": 1790, 
+            "text": "A six-minute point-of-care breath test for volatile biomarkers accurately identified subjects with active pulmonary TB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22647661", 
+            "endSection": "abstract"
+        }
+    ]
+}

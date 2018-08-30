@@ -1,0 +1,180 @@
+{
+    "body": "What is the link between Ctf4 and Chl1 in cohesion establishment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17222391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15226378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27397686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23036200"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513031343534001D", 
+            "o": "CTF4"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1427963", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20695577"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/uniprot/Q01454", 
+            "o": "http://purl.uniprot.org/uniprot/Q01454"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q01454", 
+            "o": "http://linkedlifedata.com/resource/#_513031343534001D"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/uniprot/Q01454", 
+            "o": "CTF4_YEAST"
+        }
+    ], 
+    "ideal_answer": [
+        "Ctf4 links DNA replication with sister chromatid cohesion establishment by recruiting the Chl1 helicase to the replisome. The Eco1 acetyltransferase, helped by factors including Ctf4 and Chl1, concomitantly acetylates the chromosomal cohesin complex to stabilize its cohesive links.", 
+        "Genetic analyses revealed that Rmi1 promoted sister chromatid cohesion in a process that was distinct from both the cohesion establishment pathway involving Ctf4, Csm3, and Chl1 and the pathway involving the acetylation of Smc3. Thus, Ctf4 and Chl1 delineate an additional acetylation-independent pathway that might hold important clues as to the mechanism of sister chromatid cohesion establishment."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/amigo/term/GO:0034089", 
+        "http://www.biosemantics.org/jochem#4264134", 
+        "http://amigo.geneontology.org/amigo/term/GO:0034085", 
+        "http://amigo.geneontology.org/amigo/term/GO:0034087", 
+        "http://www.biosemantics.org/jochem#4265011"
+    ], 
+    "type": "summary", 
+    "id": "587f8324d8d850a152000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "Ctf4 Links DNA Replication with Sister Chromatid Cohesion Establishment by Recruiting the Chl1 Helicase to the Replisome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27397686", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 441, 
+            "text": "The Eco1 acetyltransferase, helped by factors including Ctf4 and Chl1, concomitantly acetylates the chromosomal cohesin complex to stabilize its cohesive links. Here we show that Ctf4 recruits the Chl1 helicase to the replisome via a conserved interaction motif that Chl1 shares with GINS and polymerase \u03b1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27397686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 1079, 
+            "text": "The Chl1 helicase facilitates replication fork progression under conditions of nucleotide depletion, partly independently of Ctf4 interaction. Conversely, Ctf4 interaction, but not helicase activity, is required for Chl1's role in sister chromatid cohesion. A physical interaction between Chl1 and the cohesin complex during S phase suggests that Chl1 contacts cohesin to facilitate its acetylation. Our results reveal how Ctf4 forms a replisomal interaction hub that coordinates replication fork progression and sister chromatid cohesion establishment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27397686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 630, 
+            "offsetInEndSection": 858, 
+            "text": "Genetic analyses revealed that Rmi1 promoted sister chromatid cohesion in a process that was distinct from both the cohesion establishment pathway involving Ctf4, Csm3, and Chl1 and the pathway involving the acetylation of Smc3.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23036200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1319, 
+            "offsetInEndSection": 1490, 
+            "text": "Thus, Ctf4 and Chl1 delineate an additional acetylation-independent pathway that might hold important clues as to the mechanism of sister chromatid cohesion establishment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 430, 
+            "offsetInEndSection": 629, 
+            "text": "We show here that CTF8, CTF4 and a helicase encoded by CHL1 are required for efficient sister chromatid cohesion in unperturbed mitotic cells, and provide evidence that Chl1 functions during S-phase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 825, 
+            "offsetInEndSection": 1002, 
+            "text": "Our results suggest that Chl1 and Ctf4 are directly involved in homologous recombination repair rather than acting indirectly via the establishment of sister chromatid cohesion.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17222391", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1328, 
+            "offsetInEndSection": 1499, 
+            "text": "Thus, Ctf4 and Chl1 delineate an additional acetylation-independent pathway that might hold important clues as to the mechanism of sister chromatid cohesion establishment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1327, 
+            "offsetInEndSection": 1497, 
+            "text": "Thus, Ctf4 and Chl1 delineate an additional acetylation-independent pathway that might hold important clues as to the mechanism of sister chromatid cohesion establishment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 432, 
+            "offsetInEndSection": 630, 
+            "text": "We show here that CTF8, CTF4 and a helicase encoded by CHL1 are required for efficient sister chromatid cohesion in unperturbed mitotic cells, and provide evidence that Chl1 functions during S-phase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 860, 
+            "text": "Genetic analyses revealed that Rmi1 promoted sister chromatid cohesion in a process that was distinct from both the cohesion establishment pathway involving Ctf4, Csm3, and Chl1 and the pathway involving the acetylation of Smc3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23036200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 199, 
+            "text": "Sister-chromatid cohesion mediated by the alternative RF-CCtf18/Dcc1/Ctf8, the helicase Chl1 and the polymerase-alpha-associated protein Ctf4 is essential for chromatid disjunction during meiosis II.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226378", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 862, 
+            "text": "Genetic analyses revealed that Rmi1 promoted sister chromatid cohesion in a process that was distinct from both the cohesion establishment pathway involving Ctf4, Csm3, and Chl1 and the pathway involving the acetylation of Smc3. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23036200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 122, 
+            "text": "Ctf4 Links DNA Replication with Sister Chromatid Cohesion Establishment by Recruiting the Chl1 Helicase to the Replisome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27397686", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1328, 
+            "offsetInEndSection": 1500, 
+            "text": "Thus, Ctf4 and Chl1 delineate an additional acetylation-independent pathway that might hold important clues as to the mechanism of sister chromatid cohesion establishment..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 829, 
+            "offsetInEndSection": 1007, 
+            "text": "Our results suggest that Chl1 and Ctf4 are directly involved in homologous recombination repair rather than acting indirectly via the establishment of sister chromatid cohesion..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17222391", 
+            "endSection": "abstract"
+        }
+    ]
+}

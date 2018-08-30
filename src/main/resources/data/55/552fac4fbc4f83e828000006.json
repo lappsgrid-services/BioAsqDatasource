@@ -1,0 +1,271 @@
+{
+    "body": "Which fusion protein is involved in the development of Ewing sarcoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25432018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21979944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16206264", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18256529", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25162919", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22241085", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24481407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17250957", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25483190", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20691659", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22723308", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23750284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25401475", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17453169", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18485618", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23894528", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21680731"
+    ], 
+    "ideal_answer": [
+        "Ewing sarcoma is the second most common bone malignancy in children and young adults. In almost 95% of the cases, it is driven by oncogenic fusion protein EWS/FLI1, which acts as an aberrant transcription factor, that upregulates or downregulates target genes, leading to cellular transformation."
+    ], 
+    "exact_answer": [
+        "EWS/FLI1"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:3368", 
+        "http://www.disease-ontology.org/api/metadata/DOID:4980", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012512"
+    ], 
+    "type": "factoid", 
+    "id": "552fac4fbc4f83e828000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "Ewing sarcoma is the second most common bone malignancy in children and young adults. It is driven by oncogenic fusion proteins (i.e. EWS/FLI1) acting as aberrant transcription factors that upregulate and downregulate target genes, leading to cellular transformation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23750284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "EWS/FLI-1 oncoprotein subtypes impose different requirements for transformation and metastatic activity in a murine model", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17453169", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Ewing sarcoma/primitive neuroectodermal tumors (EWS/PNET) are characterized by specific chromosomal translocations most often generating a chimeric EWS/FLI-1 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17453169", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 690, 
+            "offsetInEndSection": 912, 
+            "text": "The resulting EWS-FLI-1 fusion protein is believed to behave as an aberrant transcriptional activator that contributes to ESFT development by altering the expression of its target genes in a permissive cellular environment", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17250957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 590, 
+            "text": "Herein, we show that the DNA repair protein and transcriptional cofactor, EYA3, is highly expressed in Ewing sarcoma tumor samples and cell lines compared with mesenchymal stem cells, the presumed cell-of-origin of Ewing sarcoma, and that it is regulated by the EWS/FLI1 fusion protein transcription factor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "The orphan nuclear receptor DAX1 is up-regulated by the EWS/FLI1 oncoprotein and is highly expressed in Ewing tumors", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16206264", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 553, 
+            "text": "The Ewing family of tumors harbors chromosomal translocations that join the N-terminal region of the EWS gene with the C-terminal region of several transcription factors of the ETS family, mainly FLI1, resulting in chimeric transcription factors that play a pivotal role in the pathogenesis of Ewing tumors. To identify downstream targets of the EWS/FLI1 fusion protein, we established 293 cells expressing constitutively either the chimeric EWS/FLI1 or wild type FLI1 proteins and used cDNA arrays to identify genes differentially regulated by EWS/FLI1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16206264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1400, 
+            "offsetInEndSection": 1616, 
+            "text": "The high levels of DAX1 found in Ewing tumors and its potent transcriptional repressor activity suggest that the oncogenic effect of EWS/FLI1 may be mediated, at least in part, by the up-regulation of DAX1 expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16206264", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 281, 
+            "offsetInEndSection": 589, 
+            "text": "Herein, we show that the DNA repair protein and transcriptional cofactor, EYA3, is highly expressed in Ewing sarcoma tumor samples and cell lines compared with mesenchymal stem cells, the presumed cell-of-origin of Ewing sarcoma, and that it is regulated by the EWS/FLI1 fusion protein transcription factor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 193, 
+            "text": "Ewing sarcoma family tumors (ESFT) are highly aggressive and highly metastatic tumors caused by a chromosomal fusion between the Ewing sarcoma protein (EWS) with the transcription factor FLI-1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22241085", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 672, 
+            "offsetInEndSection": 774, 
+            "text": "EWS-FLI1 is a fusion protein that results from the pathognomonic translocation of Ewing sarcoma (ES).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24481407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Chromosomal translocation that results in fusion of the genes encoding RNA-binding protein EWS and transcription factor FLI1 (EWS-FLI1) is pathognomonic for Ewing sarcoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25401475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 207, 
+            "text": "Eighty-five percent of Ewing sarcoma is characterized by the presence of the aberrant chimeric EWS/FLI1 fusion gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25483190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Blocking the road, stopping the engine or killing the driver? Advances in targeting EWS/FLI-1 fusion in Ewing sarcoma as novel therapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25162919", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Fusion of the EWS gene to FLI1 produces a fusion oncoprotein that drives an aberrant gene expression program responsible for the development of Ewing sarcoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23894528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 746, 
+            "offsetInEndSection": 911, 
+            "text": "Mosaic expression of the human EWS-FLI1 fusion protein in zebrafish caused the development of tumors with histology strongly resembling that of human Ewings sarcoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21979944", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 259, 
+            "text": "Ewing sarcoma family of tumors (ESFT) is a group of aggressive pediatric malignancies driven by the EWS-FLI1 fusion protein, an aberrant transcription factor up-regulating specific target genes, such as neuropeptide Y (NPY) and its Y1 and Y5 receptors (Y5Rs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21680731", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "Ewing sarcoma is primarily caused by a t(11;22) chromosomal translocation encoding the EWS-FLI1 fusion protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20691659", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 591, 
+            "text": "Herein, we show that the DNA repair protein and transcriptional cofactor, EYA3, is highly expressed in Ewing sarcoma tumor samples and cell lines compared with mesenchymal stem cells, the presumed cell-of-origin of Ewing sarcoma, and that it is regulated by the EWS/FLI1 fusion protein transcription factor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 503, 
+            "text": "The EWS-ETS fusion is causative in the development of Ewing's tumour.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18485618", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 690, 
+            "offsetInEndSection": 913, 
+            "text": "The resulting EWS-FLI-1 fusion protein is believed to behave as an aberrant transcriptional activator that contributes to ESFT development by altering the expression of its target genes in a permissive cellular environment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17250957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "EWS-FLI1 is an oncogenic fusion protein implicated in the development of Ewing's sarcoma family tumors (ESFT)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25432018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 91, 
+            "offsetInEndSection": 206, 
+            "text": "Eighty-five percent of Ewing sarcoma is characterized by the presence of the aberrant chimeric EWS/FLI1 fusion gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25483190", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "Chromosomal translocation that results in fusion of the genes encoding RNA-binding protein EWS and transcription factor FLI1 (EWS-FLI1) is pathognomonic for Ewing sarcoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25401475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1339, 
+            "offsetInEndSection": 1496, 
+            "text": "Together, our data reveal that EWSAT1 is a downstream target of EWS-FLI1 that facilitates the development of Ewing sarcoma via the repression of target genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25401475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 655, 
+            "offsetInEndSection": 817, 
+            "text": "Thus, we developed a highly validated transcriptional profile for the EWS/FLI fusion protein and identified a critical target gene in Ewing's sarcoma development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 162, 
+            "text": "Our understanding of Ewing's sarcoma development mediated by the EWS/FLI fusion protein has been limited by a lack of knowledge regarding the tumor cell of origin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16697960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 614, 
+            "text": "Ewing's sarcomas are characterized by recurrent chromosomal translocations expressing EWS-ETS fusion proteins, the most common of which is EWS-FLI.(1-5) EWS-FLI is an oncogenic transcription factor that regulates genes involved in tumorigenesis.(6,7) Because the Ewing's sarcoma cell of origin remains unknown, a variety of model systems have been developed to study EWS-FLI fusions,(8-14) and multiple microarray experiments describing potential EWS-FLI target genes have been reported.(8,10,11,13,15-21) Each model has potential benefits and drawbacks, but a large-scale comparison of these has not been reported", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18256529", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 83, 
+            "offsetInEndSection": 147, 
+            "text": "Most cases of Ewing's sarcoma express the EWS/FLI fusion protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19718047", 
+            "endSection": "abstract"
+        }
+    ]
+}

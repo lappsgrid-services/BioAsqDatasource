@@ -1,0 +1,600 @@
+{
+    "body": "Is macroautophagy a selective degradation process?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18362514", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21681022", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23064313", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21787863", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19619495", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19717456", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19793921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20498061", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23267366", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20346769", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11739783", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21818581", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23159909", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20659474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22017874", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20543572", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22561104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17351330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16874038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20359542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17622797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20417604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21576396", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19242639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20364111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22554685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20798600", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22518139", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20703094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17204848", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12960228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18539900", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23295856", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9184851", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22915758", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22977244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21839922", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23046644", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18336289", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21383079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22481944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21913110", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22717525", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21343297", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21431350", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16203860", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11309418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9296392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22935563"
+    ], 
+    "triples": [
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/namespace", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236", 
+            "o": "biological_process"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/geneontology/regulates", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0016241", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q12092", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/P25694", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q5RBA5", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q03818", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q07528", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q55CC5", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q501R9", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/participateInBiologicalProcess", 
+            "s": "http://purl.uniprot.org/uniprot/Q9VHH2", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016236"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#comment", 
+            "s": "http://purl.uniprot.org/go/0016236", 
+            "o": "The major inducible pathway for the general turnover of cytoplasmic constituents in eukaryotic cells, it is also responsible for the degradation of active cytoplasmic enzymes and organelles during nutrient starvation. Macroautophagy involves the formation of double-membrane-bounded autophagosomes which enclose the cytoplasmic constituent targeted for degradation in a membrane-bounded structure, which then fuse with the lysosome (or vacuole) releasing a single-membrane-bounded autophagic bodies which are then degraded within the lysosome (or vacuole). Though once thought to be a purely non-selective process, it appears that some types of macroautophagy, e.g. macropexophagy, macromitophagy, may involve selective targeting of the targets to be degraded."
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Macroautophagy (commonly referred to simply as autophagy) is a catabolic process conserved throughout the eukaryotes, and is distinct from other forms of autophagy by the formation of the autophagosome: this is a vesicle-like formation surrounded by a double membrane that sequesters the cytoplasmic material to be degraded. It was initially considered that macroautophagy was a bulk process; however, recent findings illustrate that specific cargos (ranging from misfolded or excess proteins, to organelles or even bacterial cells) can be selectively targeted to the pre-autophagosome membrane (i.e. the phagophore) and finally to the vacuoles/lysosomes for their degradation."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0035459", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0016241", 
+        "http://www.uniprot.org/uniprot/ATG1_PICPA", 
+        "http://www.uniprot.org/uniprot/ATG11_PICPA", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0016236", 
+        "http://www.uniprot.org/uniprot/ATG7_PICPA", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0009056"
+    ], 
+    "type": "yesno", 
+    "id": "51bedaac3148fdcc22da7188", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 19, 
+            "text": "Selective autophagy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839922", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Macroautophagy (autophagy) is a bulk degradation system for cytoplasmic components and is ubiquitously found in eukaryotic cells", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839922", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 505, 
+            "offsetInEndSection": 574, 
+            "text": "Here we show that selective autophagy downregulates Ty1 transposition", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839922", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 723, 
+            "offsetInEndSection": 908, 
+            "text": "We propose that selective autophagy safeguards genome integrity against excessive insertional mutagenesis caused during nutrient starvation by transposable elements in eukaryotic cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839922", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 438, 
+            "offsetInEndSection": 577, 
+            "text": "Moreover, it is becoming apparent that proteins, organelles, and pathogens can be targeted for autophagic clearance by selective mechanisms", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20498061", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1003, 
+            "offsetInEndSection": 1154, 
+            "text": "Cell spreading required ref(2)P, the Drosophila p62 multiadaptor, implicating selective autophagy as a novel mechanism for modulating cortical dynamics", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20498061", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 41, 
+            "text": "The selective macroautophagic degradation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417604", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "There is growing evidence that macroautophagic cargo is not limited to bulk cytosol in response to starvation and can occur selectively for substrates, including aggregated proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417604", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 183, 
+            "offsetInEndSection": 468, 
+            "text": "It remains unclear, however, whether starvation-induced and selective macroautophagy share identical adaptor molecules to capture their cargo. Here, we report that Alfy, a phosphatidylinositol 3-phosphate-binding protein, is central to the selective elimination of aggregated proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417604", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 933, 
+            "offsetInEndSection": 1071, 
+            "text": "We propose that Alfy plays a key role in selective macroautophagy by bridging cargo to the molecular machinery that builds autophagosomes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20417604", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 920, 
+            "offsetInEndSection": 1032, 
+            "text": "Thus, cytoplasmic NBR1 might be important to maintain basal levels of selective macroautophagy in these neurons.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23295856", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1048, 
+            "offsetInEndSection": 1181, 
+            "text": "we could show that Smatg8 and Smatg4 are not only required for nonselective macroautophagy, but for selective macropexophagy as well.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23064313", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 186, 
+            "offsetInEndSection": 311, 
+            "text": "The latter is performed by proteasome-mediated degradation, chaperone-mediated autophagy (CMA), and selective macroautophagy,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23046644", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 558, 
+            "text": "Here we demonstrate a role for PtdIns 4-kinases and PtdIns4P 5-kinases in selective and nonselective types of autophagy in yeast.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22977244", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Macroautophagy (hereafter autophagy) is a degradative cellular pathway that protects eukaryotic cells from stress, starvation, and microbial infection.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22977244", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 351, 
+            "text": "Previously, we showed that macroautophagy is necessary for conidiation in the rice-blast fungus Magnaporthe oryzae. Here, we analyzed the physiological function(s) of selective autophagy in Magnaporthe", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22561104", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "Serine 403 phosphorylation of p62/SQSTM1 regulates selective autophagic clearance of ubiquitinated proteins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22017874", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 229, 
+            "text": "Selective macroautophagy (autophagy) of ubiquitinated protein is implicated as a compensatory mechanism of the ubiquitin-proteasome system. p62/SQSTM1 is a key molecule managing autophagic clearance of polyubiquitinated proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22017874", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 180, 
+            "offsetInEndSection": 623, 
+            "text": "Whole organelle turnover is mediated through macroautophagy, a process by which autophagosomes deliver mitochondria to the lysosome for hydrolytic degradation. While mitochondrial autophagy can occur as part of a nonselective upregulation of autophagy, selective degradation of damaged or unneeded mitochondria (mitophagy) is a rapidly growing area in development, cancer, and neurodegeneration, particularly with regard to Parkinson's disease", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21913110", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 192, 
+            "offsetInEndSection": 405, 
+            "text": "BAG3 was recently described as a mediator of a novel macroautophagy pathway that uses the specificity of heat shock protein 70 (HSP70) to misfolded proteins and also involves other protein partners, such as HSPB8.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21681022", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 254, 
+            "text": "two Parkinson disease (PD) associated genes, PINK1 and Parkin, were shown to mediate the degradation of damaged mitochondria via selective autophagy (mitophagy)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20798600", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 448, 
+            "offsetInEndSection": 520, 
+            "text": "Here we show that whole mitochondria are turned over via macroautophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20798600", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "Does Huntingtin play a role in selective macroautophagy?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20703094", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 847, 
+            "offsetInEndSection": 1002, 
+            "text": "In the discussion here I suggest that Htt may have a normal function in the lysosomal mechanism of selective macroautophagy involved in its own degradation", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20703094", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1010, 
+            "offsetInEndSection": 1199, 
+            "text": "Macroautophagy induced by ethanol seemed to be selective for damaged mitochondria and accumulated lipid droplets, but not long-lived proteins, which could account for its protective effects", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20659474", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 520, 
+            "text": "Although macroautophagy can be nonspecific, there are many examples of selective sequestration including pexophagy, mitophagy and the cytoplasm to vacuole targeting (Cvt) pathway.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20543572", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Mitochondria autophagy (mitophagy) is the process of selective degradation of mitochondria that has an important role in mitochondrial quality control.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20364111", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 367, 
+            "offsetInEndSection": 497, 
+            "text": "One of the genes identified, YLR356W, is required for mitophagy, but not for macroautophagy or other types of selective autophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20364111", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "A genomic screen for yeast mutants defective in selective mitochondria autophagy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19793921", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Mitophagy is the process of selective mitochondrial degradation via autophagy, which has an important role in mitochondrial quality control.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19793921", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 363, 
+            "offsetInEndSection": 801, 
+            "text": "Analysis of this set of targeted deletion mutants demonstrated that loss of any of the 16 genes necessary for nonselective macroautophagy renders the fungus unable to cause rice blast disease, due to impairment of both conidial programmed cell death and appressorium maturation. In contrast, genes necessary only for selective forms of autophagy, such as pexophagy and mitophagy, are dispensable for appressorium-mediated plant infection.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19717456", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 480, 
+            "offsetInEndSection": 579, 
+            "text": "This gene is not required for other types of selective autophagy or for nonspecific macroautophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19619495", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 663, 
+            "offsetInEndSection": 1107, 
+            "text": "However, in contrast to the core autophagy genes such as atg5 and atg7, expression of ulk1 is not essential for induction of macroautophagy in response to nutrient deprivation or for survival of newborn mice. Together, these data suggest that the ATG1 homologue, Ulk1, is a component of the selective autophagy machinery that leads to the elimination of organelles in erythroid cells rather that an essential mechanistic component of autophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18539900", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 530, 
+            "text": "Growing evidence supports an active role for dysregulated macroautophagy (autophagic stress) in neuronal cell death and neurodegeneration. Alterations in mitochondrial function and dynamics are also strongly implicated in neurodegenerative diseases. Interestingly, whereas the core autophagy machinery is evolutionarily conserved and shared among constitutive and induced or selective autophagy, recent studies implicate distinct mechanisms regulating mitochondrial autophagy (mitophagy) in response to general autophagic stimuli.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17622797", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 381, 
+            "offsetInEndSection": 814, 
+            "text": "We discovered that activation of the UPR in yeast also induces a new branch of macroautophagy that selectively targets the ER. We term this process \"ER-phagy\", in analogy to pexophagy and mitophagy, the two other known forms of organelle-specific marcoautophagy. ER-phagy involves the generation of autophagosomes that selectively include ER membranes and whose delimiting double membranes also derive, at least in part, from the ER.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17351330", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1276, 
+            "offsetInEndSection": 1412, 
+            "text": "This suggests that in fungi an organism-specific form of selective autophagy may occur, for which specialized Atg proteins have evolved.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17204848", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 251, 
+            "text": "ransfer of Y. lipolytica cells from oleate/ethylamine to glucose/ammonium chloride medium leads to selective macroautophagy of peroxisomes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16874038", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Insulin-dependent signaling regulates azurophil granule-selective macroautophagy in human myeloblastic cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12960228", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "We show that insulin-dependent signals regulate azurophil granule-selective macroautophagy in human myeloid cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12960228", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 773, 
+            "text": "By contrast, other organelles, including the mitochondria, endoplasmic reticulum, and Golgi apparatus remained intact, indicating that the macroautophagy selectively targeted azurophil granules.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12960228", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1453, 
+            "offsetInEndSection": 1589, 
+            "text": "Thus, insulin-dependent signals are responsible for the control of azurophil granule-selective macroautophagy via Akt-dependent pathways", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12960228", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Eukaryotic cells have the ability to degrade proteins and organelles by selective and nonselective modes of micro- and macroautophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11739783", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 316, 
+            "text": "For example, pexophagy is a selective process for the regulated degradation of peroxisomes by autophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11739783", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 293, 
+            "text": "We have characterized biochemically, morphologically, and genetically two distinct pathways for the selective degradation of peroxisomes in Pichia pastoris. These pathways are independently regulated and analogous to microautophagy and macroautophagy that have been defined in mammalian cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9296392", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1366, 
+            "offsetInEndSection": 1611, 
+            "text": "If we are willing to slightly modify our definition of autophagy, with a focus on \"degradation of a cell's own components through the lysosomal/vacuolar machinery,\" we can include a newly documented process, programmed nuclear destruction (PND).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159909", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 276, 
+            "text": "Autophagy is a lysosomal degradation pathway that can sequester cytosolic material, including organelles, nonspecifically in a process called nonselective macroautophagy, or target specific protein aggregates designated for destruction in a process called selective autophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22915758", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Selective macroautophagy uses double-membrane vesicles, termed autophagosomes, to transport cytoplasmic pathogens, organelles and protein complexes to the vacuole for degradation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22717525", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 255, 
+            "text": "Autophagy (macroautophagy), a highly conserved eukaryotic mechanism, is a non-selective degradation process, helping to maintain a balance between the synthesis, degradation and subsequent recycling of macromolecules to overcome various stress conditions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22554685", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 180, 
+            "offsetInEndSection": 339, 
+            "text": "Whole organelle turnover is mediated through macroautophagy, a process by which autophagosomes deliver mitochondria to the lysosome for hydrolytic degradation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21913110", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "Macroautophagy is a catabolic process by which the cell degrades cytoplasmic components through the lysosomal machinery.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21818581", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Macroautophagy maintains cellular homeostasis through targeting cytoplasmic contents and organelles into autophagosomes for degradation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21787863", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 186, 
+            "text": "Macroautophagy is a catabolic process by which cytosolic components are sequestered by double membrane vesicles called autophagosomes and sorted to the lysosomes/vacuoles to be degraded.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21343297", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Macroautophagy (hereafter autophagy) is a cellular degradation process, which in yeast is induced in response to nutrient deprivation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359542", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Macroautophagy was thought to be an unspecific bulk degradation process.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20346769", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 770, 
+            "text": "Autophagy is a highly regulated intracellular degradation process by which cells remove cytosolic long-lived proteins and damaged organelles, and can be monitored by imaging the incorporation of microtubule-associated light chain 3 (LC3) fused to a fluorescent protein (GFP or mCherry) into nascent autophagosomes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19242639", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 301, 
+            "text": "Beside macroautophagy, there are several forms of selective autophagy, including chaperone-mediated autophagy (CMA), cytoplasm to vacuole targeting (Cvt), pexophagy and mitophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18362514", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "Macroautophagy (commonly referred to as autophagy) is the process by which intact organelles and/or large portions of the cytoplasm are engulfed within double-membraned autophagic vacuoles for degradation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18336289", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 663, 
+            "text": "This analysis demonstrated that Atg proteins required for non-selective macroautophagy are conserved from yeast to man, stressing the importance of this process in cell survival and viability.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17204848", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 90, 
+            "offsetInEndSection": 198, 
+            "text": "Part of the degradation of intracellular proteins occurs in the lysosomes and is mediated by macroautophagy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9184851", 
+            "endSection": "sections.0"
+        }
+    ]
+}

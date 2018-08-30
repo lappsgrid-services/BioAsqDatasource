@@ -1,0 +1,51 @@
+{
+    "body": "Are there currently applications of deep learning in genomics?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25948244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24931975"
+    ], 
+    "ideal_answer": [
+        "Yes. Deep learning has been used so far in genomics for predicting splicing patterns in individual tissues and differences in splicing patterns across tissues. The deep architecture surpasses the performance of the previous Bayesian method for predicting alternative splicing (AS) patterns."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D023281", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016678"
+    ], 
+    "type": "yesno", 
+    "id": "56b481348525abca1e000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 52, 
+            "text": "Deep learning of the tissue-regulated splicing code.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24931975", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 385, 
+            "offsetInEndSection": 826, 
+            "text": "Using a deep neural network, we developed a model inferred from mouse RNA-Seq data that can predict splicing patterns in individual tissues and differences in splicing patterns across tissues. Our architecture uses hidden variables that jointly represent features in genomic sequences and tissue types when making predictions. A graphics processing unit was used to greatly reduce the training time of our models with millions of parameters.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24931975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 835, 
+            "offsetInEndSection": 1214, 
+            "text": "We show that the deep architecture surpasses the performance of the previous Bayesian method for predicting AS patterns. With the proper optimization procedure and selection of hyperparameters, we demonstrate that deep architectures can be beneficial, even with a moderately sparse dataset. An analysis of what the model has learned in terms of the genomic features is presented.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24931975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 54, 
+            "text": "Machine learning applications in genetics and genomics", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25948244", 
+            "endSection": "title"
+        }
+    ]
+}

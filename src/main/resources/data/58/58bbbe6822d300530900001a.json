@@ -1,0 +1,59 @@
+{
+    "body": "List the three most abundant bacterial phyla present in mouse feces.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25537565", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20926643", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23457582", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19159975"
+    ], 
+    "ideal_answer": [
+        "Firmicutes\nProteobacteria \nBacteroidetes"
+    ], 
+    "exact_answer": [
+        [
+            "Firmicutes"
+        ], 
+        [
+            "Proteobacteria"
+        ], 
+        [
+            "Bacteroidetes"
+        ]
+    ], 
+    "type": "list", 
+    "id": "58bbbe6822d300530900001a", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 862, 
+            "offsetInEndSection": 1047, 
+            "text": "Amplicons representing the major phyla encountered in the rumen (Firmicutes, 43.7%; Proteobacteria, 28.7%; Bacteroidetes, 25.3%; Spirochea, 1.1%, and Synergistes, 1.1%) were recovered, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19159975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 152, 
+            "text": "alterations in the gut microbiota (increased Firmicutes and decreased Bacteroidetes)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20926643", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 385, 
+            "offsetInEndSection": 536, 
+            "text": "The taxonomic analysis of the metagenomic reads indicated that pygmy loris fecal microbiomes were dominated by Bacteroidetes and Proteobacteria phyla. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23457582", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1025, 
+            "offsetInEndSection": 1193, 
+            "text": "Specifically, intermittent hypoxia-exposed mice showed a higher abundance of Firmicutes and a smaller abundance of Bacteroidetes and Proteobacteria phyla than controls.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25537565", 
+            "endSection": "abstract"
+        }
+    ]
+}

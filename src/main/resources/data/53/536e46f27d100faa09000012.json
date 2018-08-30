@@ -1,0 +1,171 @@
+{
+    "body": "Which is the gene most commonly mutated in Tay-Sachs disease?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2967444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14648242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8411703", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3362213", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7858168", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8490625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3375249", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9401008"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4016", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HEXA"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HEXA", 
+            "o": "HEXA"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/HEXA", 
+            "o": "http://www.dbpedia.org/resource/HEXA"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4016", 
+            "o": "Tay-Sachs disease, 272800"
+        }
+    ], 
+    "ideal_answer": [
+        "HEXA gene, encoding the alpha-subunit of the lysosomal enzyme, beta-N-acetylhexosaminidase A"
+    ], 
+    "exact_answer": [
+        "HEXA"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D049290", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005678", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013661", 
+        "http://www.disease-ontology.org/api/metadata/DOID:3320"
+    ], 
+    "type": "factoid", 
+    "id": "536e46f27d100faa09000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 81, 
+            "text": "mutations in the HEXA gene among Iraqi Jewish Tay-Sachs disease carriers", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14648242", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 81, 
+            "text": "mutated HEXA alleles in a Druze patient with late-infantile Tay-Sachs disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9401008", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 101, 
+            "text": "affected HEXA alleles were found in an Israeli Druze Tay-Sachs child born to first-cousin parents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9401008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 141, 
+            "text": "abnormalities in the gene coding for the beta-hexosaminidase alpha subunit were analysed from fibroblast's RNAs of 42 Tay-Sachs patients ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7858168", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 667, 
+            "offsetInEndSection": 804, 
+            "text": "In the severest phenotype of Tay-Sachs disease (infantile form), mRNA of beta-hexosaminidase alpha subunit is not produced or is unstable", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8411703", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 69, 
+            "text": "novel mutations in the HEXA gene in non-Jewish Tay-Sachs patients", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8490625", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 140, 
+            "text": "ay-Sachs disease is an inherited disorder in which the alpha chain of the lysosomal enzyme beta-N-acetylhexosaminidase A bears the mutation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3375249", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 183, 
+            "text": "ay-Sachs disease is an autosomal recessive genetic disorder resulting from mutation of the HEXA gene encoding the alpha-subunit of the lysosomal enzyme, beta-N-acetylhexosaminidase A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3362213", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 203, 
+            "offsetInEndSection": 370, 
+            "text": "Tay-Sachs disease lack detectable alpha-chain message when analyzed by Northern blotting with complementary DNA encoding the alpha-chain of human beta-hexosaminidase A", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2967444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Identification of novel mutations in HEXA gene in children affected with Tay Sachs disease from India.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22723944", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "Molecular analysis of HEXA gene in Argentinean patients affected with Tay-Sachs disease: possible common origin of the prevalent c.459+5A>G mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22441121", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Tay-Sachs disease (TSD) is a recessively inherited disorder caused by the deficient activity of hexosaminidase A due to mutations in the HEXA gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22441121", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Specific mutations in the HEXA gene among Iraqi Jewish Tay-Sachs disease carriers: dating of founder ancestor.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14648242", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Two mutated HEXA alleles in a Druze patient with late-infantile Tay-Sachs disease.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9401008", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 169, 
+            "text": "We have identified three mutations in the beta-hexoseaminidase A (HEXA) gene in a juvenile Tay-Sachs disease (TSD) patient, which exhibited a reduced level of HEXA mRNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20363167", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "body": "Is tirilazad effective for treatment of aneurysmal subarachnoid haemorrhage?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9509802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8592224", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8592225", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20166088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9046304", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9773664", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8737119", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7714603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10350245", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22152574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10350246", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18810661"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0245179", 
+            "o": "TIRILAZAD"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0245179", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10338320"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10338320", 
+            "o": "tirilazad"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/72467", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3263018"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3263018", 
+            "o": "tirilazad"
+        }
+    ], 
+    "ideal_answer": [
+        "No. Based on meta-analysis, there is no evidence that tirilazad, in addition to nimodipine, reduces mortality or improves poor outcome in patients with aneurysmal subarachnoid haemorrhage."
+    ], 
+    "exact_answer": "no", 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4215434", 
+        "http://www.biosemantics.org/jochem#http://www.biosemantics.org/jochem#:4260337", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013345", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013812", 
+        "http://www.biosemantics.org/jochem#4236283", 
+        "http://www.biosemantics.org/jochem#4260337", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019468"
+    ], 
+    "type": "yesno", 
+    "id": "58ec72a4eda5a5767200000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1776, 
+            "offsetInEndSection": 2328, 
+            "text": "There was no significant difference between the two groups at the end of follow up for the primary outcome, death (odds ratio (OR) 0.89, 95% confidence interval (CI) 0.74 to 1.06), or in poor outcome (death, vegetative state or severe disability) (OR 1.04, 95% CI 0.90 to 1.21). During the treatment period, fewer patients developed delayed cerebral ischaemia in the tirilazad group than in the control group (OR 0.80, 95% CI 0.69 to 0.93). Subgroup analyses did not demonstrate any significant difference in effects of tirilazad on clinical outcomes. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20166088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2606, 
+            "offsetInEndSection": 2767, 
+            "text": "AUTHORS' CONCLUSIONS: There is no evidence that tirilazad, in addition to nimodipine, reduces mortality or improves poor outcome in patients with aneurysmal SAH.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20166088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 773, 
+            "offsetInEndSection": 926, 
+            "text": "This clinical trial suggest that tirilazad mesylate, at a dosage of 6 mg/kg/day, improves overall outcome in aneurysmal subarachnoid hemorrhage patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9773664", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1312, 
+            "offsetInEndSection": 1644, 
+            "text": "Tirilazad is ineffective.There are many possible successful treatment options for preventing vasospasm, delayed ischemic neurologic deficits, and poor neurologic outcome following aneurysmal subarachnoid hemorrhage; however, further multicenter RCTs need to be performed to determine if there is a significant benefit from their use", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22152574", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Findings from previous multicenter clinical trials have suggested that tirilazad mesylate, a synthetic nonhormonal 21-aminosteroid, might be effective in preventing delayed cerebral ischemia following subarachnoid hemorrhage (SAH).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10350245", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 777, 
+            "offsetInEndSection": 930, 
+            "text": "This clinical trial suggest that tirilazad mesylate, at a dosage of 6 mg/kg/day, improves overall outcome in aneurysmal subarachnoid hemorrhage patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9773664", 
+            "endSection": "abstract"
+        }
+    ]
+}

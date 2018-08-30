@@ -1,0 +1,137 @@
+{
+    "body": "What molecule is targeted by suvorexant?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22920041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25489915", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25406050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25533960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23197752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25667197", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21473737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24757363", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25397996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26478806"
+    ], 
+    "ideal_answer": [
+        "Suvorexant is a dual orexin receptor antagonist for the treatment of sleep onset and sleep maintenance insomnia."
+    ], 
+    "exact_answer": [
+        "orexin"
+    ], 
+    "type": "factoid", 
+    "id": "56c1f003ef6e394741000039", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 605, 
+            "offsetInEndSection": 773, 
+            "text": "Suvorexant is the first DORA to be approved and has demonstrated efficacy at decreasing both time to sleep onset and increasing total sleep time compared with placebo. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26478806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Suvorexant: a dual orexin receptor antagonist for the treatment of sleep onset and sleep maintenance insomnia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25667197", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1221, 
+            "offsetInEndSection": 1329, 
+            "text": "CONCLUSION: Suvorexant is the first dual orexin receptor antagonist approved for the treatment of insomnia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25667197", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Crystal structure of the human OX2 orexin receptor bound to the insomnia drug suvorexant.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25533960", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 362, 
+            "offsetInEndSection": 594, 
+            "text": " The human OX2 receptor (OX2R) belongs to the \u03b2 branch of the rhodopsin family of GPCRs, and can bind to diverse compounds including the native agonist peptides orexin-A and orexin-B and the potent therapeutic inhibitor suvorexant. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25533960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "Orexin receptor antagonism for treatment of insomnia: a randomized clinical trial of suvorexant.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23197752", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "Promotion of sleep by suvorexant-a novel dual orexin receptor antagonist.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21473737", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 588, 
+            "offsetInEndSection": 1041, 
+            "text": "The neurotransmitter systems on which the development of these agents were based included serotonin for ondansetron and lorcaserin, dopamine for varenicline, substance P (or neurokinin) for aprepitant, melatonin for ramelteon, and orexin for suvorexant. The indications were chemotherapy-induced nausea and vomiting for ondansetron and aprepitant, smoking cessation for varenicline, weight loss for lorcaserin, and insomnia for suvorexant and ramelteon.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25406050", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Suvorexant, a dual orexin receptor antagonist for the management of insomnia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24757363", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 77, 
+            "text": "Suvorexant, a dual orexin receptor antagonist for the management of insomnia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24757363", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 302, 
+            "text": "The orexin-1 and orexin-2 receptors are two G protein-coupled receptors that bind the neuropeptides orexin-A and orexin-B. Dual antagonism of the receptors by small molecules is clinically efficacious in the treatment of insomnia, where the most advanced molecule suvorexant has recently been approved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25489915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 283, 
+            "text": "Suvorexant helps in decreasing wakefulness by counteracting orexin activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25397996", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": " The orexin-1 and orexin-2 receptors are two G protein-coupled receptors that bind the neuropeptides orexin-A and orexin-B. Dual antagonism of the receptors by small molecules is clinically efficacious in the treatment of insomnia, where the most advanced molecule suvorexant has recently been approved.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25489915", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 760, 
+            "text": "Hypnotic drug development has arguably become more focused in recent years, particularly upon the highly anticipated novel target, the orexin (hypocretin) system. Merck&apos;s suvorexant (MK-4305) is the first compound of the so-called dual orexin receptor antagonist (DORA) class expected to be submitted for FDA approval, with a new drug application anticipated in 2012.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22920041", 
+            "endSection": "abstract"
+        }
+    ]
+}

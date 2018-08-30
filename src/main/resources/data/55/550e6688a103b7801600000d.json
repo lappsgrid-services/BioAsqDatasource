@@ -1,0 +1,176 @@
+{
+    "body": "Has the fungus Ashbya gossypii got many nuclei that share cytoplasm?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24094857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20053682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16449188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16023404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17158735", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23015595", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21737675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21642510", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16899511", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22267774", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20844079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11181180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17122387", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19910487", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23771903"
+    ], 
+    "ideal_answer": [
+        "Yes, Ashbya gossypii has a budding yeast-like genome but grows exclusively as multinucleated hyphae."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002467", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002529"
+    ], 
+    "type": "yesno", 
+    "id": "550e6688a103b7801600000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 81, 
+            "offsetInEndSection": 118, 
+            "text": "multinucleated Ashbya gossypii cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17158735", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 60, 
+            "offsetInEndSection": 103, 
+            "text": "multinucleated Ashbya gossypii fungal cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17122387", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Nuclei in the filamentous, multinucleated fungus Ashbya gossypii divide asynchronously. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16899511", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 72, 
+            "offsetInEndSection": 108, 
+            "text": "multinucleated Ashbya gossypii cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16899511", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 168, 
+            "text": "We analyzed a unique asynchronous nuclear division cycle in a multinucleated filamentous fungus, Ashbya gossypii.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16449188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 61, 
+            "offsetInEndSection": 103, 
+            "text": " multinucleated hyphae in Ashbya gossypii.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16023404", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 96, 
+            "text": "We have followed the migration of GFP-labelled nuclei in multinucleate hyphae of Ashbya gossypii", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11181180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 283, 
+            "offsetInEndSection": 319, 
+            "text": "multinucleate fungus Ashbya gossypii", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24094857", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "Ashbya gossypii grows as multinucleated and constantly elongating hyphae", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23771903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 55, 
+            "offsetInEndSection": 96, 
+            "text": "multinucleated hyphae of Ashbya gossypii.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23015595", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "We report the mechanistic basis guiding the migration pattern of multiple nuclei in hyphae of Ashbya gossypii. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23015595", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 139, 
+            "text": "multinucleate fungal cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22267774", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 35, 
+            "offsetInEndSection": 107, 
+            "text": "multinucleate Ashbya gossypii cells relies on a minimal network of genes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21737675", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 158, 
+            "text": "Clustering of nuclei in multinucleated hyphae is prevented by dynein-driven bidirectional nuclear movements and microtubule growth control in Ashbya gossypii.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21642510", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "In the multinucleate fungus Ashbya gossypii, cytoplasmic microtubules (cMTs) emerge from the spindle pole body outer plaque (OP) in perpendicular and tangential directions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20053682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 84, 
+            "offsetInEndSection": 125, 
+            "text": "multinucleated hyphae of Ashbya gossypii.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19910487", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 53, 
+            "text": "multiple nuclei in Ashbya gossypii hyphae", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20844079", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Ashbya gossypii has a budding yeast-like genome but grows exclusively as multinucleated hyphae.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20844079", 
+            "endSection": "abstract"
+        }
+    ]
+}

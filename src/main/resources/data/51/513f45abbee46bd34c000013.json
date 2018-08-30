@@ -1,0 +1,78 @@
+{
+    "body": "Which extra thyroid tissues have thyrotropin (TSH) receptors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22399514", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22289392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22517745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21956421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22496347"
+    ], 
+    "ideal_answer": [
+        "TSH receptors are expressed also in extrathyroid tissues. TSH receptors seem to be functional. Extrathyroid tissues include fibrobasts of the orbit and adipose tissue\nThe principal tissues with TSH receptors are:\nadippose tissue\n orbital fibrotic tissue"
+    ], 
+    "exact_answer": [
+        [
+            "adipose tissue"
+        ], 
+        [
+            "fibrotic tissue"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011989", 
+        "http://www.biosemantics.org/jochem#4250044", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0004996"
+    ], 
+    "type": "list", 
+    "id": "513f45abbee46bd34c000013", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1217, 
+            "offsetInEndSection": 1336, 
+            "text": "GD orbital fibroblasts, which comprise a mixture of CD34(+) and CD34(-) cells, express much lower levels of Tg and TSHR", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22517745", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 731, 
+            "text": "Previously, we found that CD34(+) progenitor cells, known as fibrocytes, express functional TSHR, infiltrate the orbit, and comprise a large subset of orbital fibroblasts in TAO. ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22517745", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 882, 
+            "offsetInEndSection": 923, 
+            "text": "TSH induced lipolysis in adipose tissues.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496347", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1376, 
+            "offsetInEndSection": 1434, 
+            "text": "TSH worked as a lipolytic factor in white adipose tissues,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496347", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 439, 
+            "text": "These fibrocytes infiltrate orbital connective tissues in thyroid-associated ophthalmopathy and express functional TSH receptor (TSHR). ", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21956421", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1047, 
+            "offsetInEndSection": 1104, 
+            "text": "TSHR levels are higher than those in orbital fibroblasts.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21956421", 
+            "endSection": "sections.0"
+        }
+    ]
+}

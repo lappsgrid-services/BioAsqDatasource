@@ -1,0 +1,168 @@
+{
+    "body": "What are the main clinical characteristics of Pendred syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9302427", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10700480", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15611902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18250610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17876604", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15355436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21511235", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8630497", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19205523", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23965030", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17322586", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10902795", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11919333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9604973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21745434", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19235486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9849679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17766716", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8706311", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22906308"
+    ], 
+    "ideal_answer": [
+        "Pendred syndrome is an autosomal recessive disorder characterized by congenital sensorineural deafness, goiter, and impaired iodide organification."
+    ], 
+    "exact_answer": [
+        [
+            "congenital sensorineural deafness"
+        ], 
+        [
+            "goiter"
+        ], 
+        [
+            "impaired iodide organification"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D034381", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D003638"
+    ], 
+    "type": "list", 
+    "id": "56d8b47a51531f7e33000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 63, 
+            "offsetInEndSection": 264, 
+            "text": "Obligatory features are profound deafness in childhood and defective organic binding of iodine in the thyroid gland. Therefore, goiter is a common symptom. Hypoplasia of the cochlea is another feature.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9604973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1262, 
+            "offsetInEndSection": 1408, 
+            "text": "If a child has progressive sensorineural deafness and a widened vestibular aqueduct, it is important to consider a diagnosis of Pendred syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9604973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 317, 
+            "text": "Inherited as an autosomal recessive trait, Pendred syndrome is a disease that shows congenital sensorineural hearing loss and goiter, with a positive finding in the perchlorate discharge test. Pendred syndrome results from various mutations in the PDS/SLC26A4 gene that cause production of an abnormal pendrin protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17322586", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "Pendred syndrome is an autosomal recessive disorder characterized by congenital sensorineural deafness, goiter, and impaired iodide organification. It is caused by mutations in the PDS gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18250610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 831, 
+            "text": "Malformations of the inner ear, specifically enlargement of the vestibular aqueduct, are common in Pendred syndrome and mutations in the PDS (Pendred Syndrome) gene have been recorded in patients presenting with deafness and vestibular aqueduct dilatation only, without other features of Pendred syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10700480", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1249, 
+            "offsetInEndSection": 1385, 
+            "text": "Aside from the branchio-otorenal syndrome, Pendred syndrome is the only other known genetic disorder with a widened vestibular aqueduct.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9604973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 853, 
+            "offsetInEndSection": 1022, 
+            "text": "The clinical diagnosis of Pendred syndrome was based on the laboratory and sonographic signs of thyroid dyshormonogenesis in association with sensorineural hearing loss.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17876604", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Although the textbook view of Pendred syndrome is that of an autosomal recessive condition characterized by deafness and goitre, it is increasingly clear that not all such patients present this classical clinical picture.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10700480", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1004, 
+            "offsetInEndSection": 1395, 
+            "text": "Progressive sensorineural hearing loss and widened vestibular aqueducts are characteristic features of Pendred's syndrome, which provides the opportunity to diagnose Pendred's syndrome clinically in the first few years of life, as has recently been suggested in a case report (Cremers et al., Progressive sensorineural hearing loss and a widend vestibular aqueduct in Pendred syndrome, Arch.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9849679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 740, 
+            "offsetInEndSection": 843, 
+            "text": "Pendred syndrome is the most common syndromal form of deafness, yet the primary defect remains unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8630497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Pendred syndrome is one of the most common hereditary determined diseases in patients with syndromic sensorineural hearing impairment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22906308", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1008, 
+            "offsetInEndSection": 1243, 
+            "text": "The clinical diagnosis of Pendred syndrome was based on the laboratory and ultrasonographic signs of thyroid dyshormonogenesis (elevated TSH, low T4/fT4, goitre or normal thyroid volume) in association with sensorineural hearing loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19235486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1007, 
+            "offsetInEndSection": 1242, 
+            "text": "The clinical diagnosis of Pendred syndrome was based on the laboratory and ultrasonographic signs of thyroid dyshormonogenesis (elevated TSH, low T4/fT4, goitre or normal thyroid volume) in association with sensorineural hearing loss. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19235486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 942, 
+            "offsetInEndSection": 1313, 
+            "text": "Individuals were assigned affected status based on the characteristic clinical features of Pendred&apos;s syndrome, namely the presence of congenital sensorineural hearing loss and the appearance in early life of a goitre. Additionally, at least one affected member from each sibship had a characteristic positive perchlorate discharge test (Morgans &amp; Trotter, 1958).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8706311", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 941, 
+            "offsetInEndSection": 1313, 
+            "text": "Individuals were assigned affected status based on the characteristic clinical features of Pendred&apos;s syndrome, namely the presence of congenital sensorineural hearing loss and the appearance in early life of a goitre. Additionally, at least one affected member from each sibship had a characteristic positive perchlorate discharge test (Morgans &amp; Trotter, 1958).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8706311", 
+            "endSection": "abstract"
+        }
+    ]
+}

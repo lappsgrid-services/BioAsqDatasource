@@ -1,0 +1,447 @@
+{
+    "body": "Are BRAF mutations common in melanoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23415641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24265154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24265155", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23890088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24298448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23903755", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23900694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23594689", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23843700", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24265153", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23890105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24220097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24291778", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24252159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23237741", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24283590", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24248543", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18375819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24201813", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24295639", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23893853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24289205", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24309328", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24325952", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24073999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24258972", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24258977", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24258979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15917418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23477830", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24259661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23890154", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24202393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14695152", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23414474", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23273605"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:7124", 
+            "o": "UMLS_CUI:C1511021"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:7124", 
+            "o": "BRAF Gene Mutation"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/diseaseontology/id/DOID:7124", 
+            "o": "NCI2009_04D:C40430"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7636217", 
+            "o": "C40430"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1511021", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7636217"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7636217", 
+            "o": "BRAF Gene Mutation"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1511021", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7636217"
+        }
+    ], 
+    "ideal_answer": [
+        "Melanoma is the most aggressive form of skin cancer. The treatment of patients with advanced melanoma is rapidly evolving due to an improved understanding of molecular drivers of this disease. Somatic mutations in BRAF are the most common genetic alteration found in these tumors. BRAF mutations occur in approximately 8% of all human cancers and approach 50% in melanoma and papillary carcinoma of thyroid.", 
+        "Activating mutations in the BRAF gene occur in approximately 50% of melanomas. More than 70% of BRAF mutations are V600E and 10-30% are V600K. BRAF mutations have emerged as an important predictive biomarker for metastasized melanoma. The discovery of BRAF mutations in melanoma led to the development of BRAF inhibitors for the treatment of advanced melanoma."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008545", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D048493", 
+        "http://www.uniprot.org/uniprot/BRAF_CHICK", 
+        "http://www.uniprot.org/uniprot/BRAF_COTJA", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1909"
+    ], 
+    "type": "yesno", 
+    "id": "5512c91b6a8cde6b7200000b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 160, 
+            "text": "patients with BRAF-mutant melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23903755", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 607, 
+            "text": "BRAF-mutated melanoma ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23900694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 421, 
+            "text": "The RAS/RAF/MEK/ERK pathway has been reported to be activated in over 80% of all cutaneous melanomas, making it the focus of many scientific studies in the melanoma field. Discoveries of mutations and aberrant expression of components in this cascade, in particular, BRAF and NRAS render a deeper understanding of the mechanisms responsible for oncogenesis and provide new therapeutic strategies for this deadly disease. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23893853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 846, 
+            "offsetInEndSection": 1010, 
+            "text": " BRAF-targeted therapies (e.g., vemurafenib, dabrafenib) have showed impressive results in systemic therapy for melanoma harboring activating BRAF V600E mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23893853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 460, 
+            "text": " An independent cohort of 91 archival MUPs was also screened for 46 hot spot mutations highly prevalent in melanoma including BRAF, NRAS, KIT, GNAQ, and GNA11.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23890154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 580, 
+            "offsetInEndSection": 746, 
+            "text": " a high rate of BRAF (45 of 101, 45%) and NRAS (32 of 101, 32%) mutations, collectively indicating a mutation profile consistent with cutaneous sun-exposed melanomas.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23890154", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 100, 
+            "text": "Treatment of advanced melanoma has been improved with the advent of the BRAF inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23890105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "BRAF is the most prevalent oncogene and an important therapeutic target in melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23890088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 353, 
+            "text": "Activating BRAF mutations, leading to constitutive activation of the MAPK signaling pathway, are common in a variety of human cancers. Several small molecule BRAF inhibitors have been developed during the last years and shown promising results in clinical trials, especially for metastatic melanoma, while they have been less effective in colon cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24325952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "BRAF mutations have emerged as an important predictive biomarker for metastasized melanoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24309328", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 734, 
+            "offsetInEndSection": 849, 
+            "text": "BRAF V600 selective inhibitors have been approved for the treatment of V600 mutation positive metastatic melanoma, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24298448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 29, 
+            "offsetInEndSection": 67, 
+            "text": "BRAF(V600) mutation-positive melanoma ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24295639", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 280, 
+            "text": "Melanoma is the most aggressive form of skin cancer. The treatment of patients with advanced melanoma is rapidly evolving due to an improved understanding of molecular drivers of this disease. Somatic mutations in BRAF are the most common genetic alteration found in these tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24291778", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 40, 
+            "offsetInEndSection": 146, 
+            "text": " genetically activated BRAF, is now commonly prescribed for metastatic melanoma harboring a BRAF mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24289205", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "BRAF inhibitors improve melanoma patient survival, but resistance invariably develops. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24283590", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "BRAF inhibitors elicit rapid antitumor responses in the majority of patients with BRAF(V600)-mutant melanoma, but acquired drug resistance is almost universal. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24265155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Most patients with BRAF(V600)-mutant metastatic melanoma develop resistance to selective RAF kinase inhibitors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24265153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 695, 
+            "offsetInEndSection": 900, 
+            "text": "BRAF(V600E) mutation confers constitutive BRAK kinase activation in melanoma cells, promoting tumor growth. This discovery led to the development of BRAF kinase inhibitors like vemurafenib and dabrafenib. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24259661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "(V600)BRAF mutation was identified as an ideal target for clinical therapy due to its indispensable roles in supporting melanoma initiation and progression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24258979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "The Braf(V600E) mutation has been detected in patients with metastatic melanoma, colon, thyroid, and other cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24258977", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 365, 
+            "text": "Since the identification of activating BRAF mutations and subsequent development of drugs targeting the mutant BRAF protein, oncologists now need to incorporate prognostic and predictive biomarkers into treatment decisions for their melanoma patient", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24258972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 138, 
+            "text": "BRAF mutations occur in approximately 8% of all human cancers and approach 50% in melanoma and papillary carcinoma of thyroid.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24252159", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Vemurafenib is a selective and potent small molecule inhibitor of the V600 mutant form of the BRAF protein used in the treatment of melanoma and colorectal cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24248543", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1178, 
+            "offsetInEndSection": 1290, 
+            "text": "Molecular studies demonstrated that the melanoma was positive for the 1799T>A (V600E) mutation in the BRAF gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24220097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "RAF kinase inhibitors have substantial therapeutic effects in patients with BRAF-mutant melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24202393", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "An activating BRAF (V600E) kinase mutation occurs in approximately half of melanomas. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24201813", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Activating mutations in the BRAF gene occur in approximately 50% of melanomas. More than 70% of BRAF mutations are V600E and 10-30% are V600K.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23237741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Activating BRAF mutations, leading to constitutive activation of the MAPK signaling pathway, are common in a variety of human cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24325952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 353, 
+            "text": "Several small molecule BRAF inhibitors have been developed during the last years and shown promising results in clinical trials, especially for metastatic melanoma, while they have been less effective in colon cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24325952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 367, 
+            "text": "Personalized melanoma medicine has progressed from histopathologic features to serum markers to molecular profiles. Since the identification of activating BRAF mutations and subsequent development of drugs targeting the mutant BRAF protein, oncologists now need to incorporate prognostic and predictive biomarkers into treatment decisions for their melanoma patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24258972", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 160, 
+            "text": "The clinical activity of BRAF inhibitor (BRAF-I) therapy is a major breakthrough in the treatment of metastatic melanoma carrying BRAF mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24073999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 479, 
+            "text": "The discovery of BRAF mutations in melanoma led to the development of BRAF inhibitors for the treatment of advanced melanoma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23843700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 384, 
+            "text": "BRAF represents one of the most frequently mutated protein kinase genes in human tumours. The mutation is commonly tested in pathology practice. BRAF mutation is seen in melanoma, papillary thyroid carcinoma (including papillary thyroid carcinoma arising from ovarian teratoma), ovarian serous tumours, colorectal carcinoma, gliomas, hepatobiliary carcinomas and hairy cell leukaemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 900, 
+            "offsetInEndSection": 1035, 
+            "text": "Indeed, recent clinical trials involving BRAF selective inhibitors exhibited promising response rates in metastatic melanoma patients. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23594689", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 865, 
+            "text": "A majority of cutaneous melanomas show activating mutations in the NRAS or BRAF proto-oncogenes, components of the Ras-Raf-Mek-Erk (MAPK) signal transduction pathway. The discovery of activating BRAF mutations in \u223c50% of all melanomas has proved to be a turning point in the therapeutic management of the disseminated disease. This review summarizes the critical role of BRAF in melanoma pathophysiology, the clinical and pathological determinants of BRAF mutation status and finally addresses the current state of the art of BRAF inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23415641", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 1328, 
+            "text": "To better understand the BRAF mutation profile in melanomas, we retrospectively analyzed data from 1112 primary and metastatic melanomas at our institution. The cohort included nonacral cutaneous (n = 774), acral (n = 111), mucosal (n = 26), uveal (n = 23), leptomeningeal (n = 1), and metastatic melanomas of unknown primary site (n = 177). BRAF mutation hotspot regions in exons 11 and 15 were analyzed by pyrosequencing or with the primer extension MassARRAY system. A total of 499 (44.9%) specimens exhibited BRAF mutations, involving exon 15 [497 (99.6%)] or exon 11 [2 (0.4%)]. p.V600E was detected in 376 (75.4%) cases; the remaining 123 (24.6%) cases exhibited non-p.V600E mutations, of which p.V600K was most frequent [86 (17.2%)]. BRAF mutations were more frequent in nonacral cutaneous (51.4%) than acral melanomas [18 (16.2%)] (P < 0.001); however, there was no significant difference among cutaneous histological subtypes. All mucosal, uveal, and leptomeningeal melanomas were BRAF wild type (WT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23273605", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Recently, it was reported that BRAF mutations are frequent in melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14695152", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 81, 
+            "text": "Activating mutations in BRAF are the most common genetic alterations in melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23477830", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Oncogenic BRAF and NRAS mutations are frequent in malignant melanoma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18375819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 608, 
+            "text": "Mutation of BRAF is now known to be common in cutaneous melanomas, and raises possible new therapeutic options of anti-RAF treatment for these patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15917418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "BRAF mutations are common events in a variety of melanocytic nevi and primary cutaneous melanomas", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16799476", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "Approximately 40-60% of melanomas from Caucasian populations carry activating mutations in the BRAF oncogene, with the most common being the p.Val600Glu (V600E) hotspot mutation in exon 15", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22614711", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 220, 
+            "offsetInEndSection": 497, 
+            "text": "Using a cohort of 115 patients with primary invasive melanomas, we show that BRAF mutations are statistically significantly more common in melanomas occurring on skin subject to intermittent sun exposure than elsewhere (23 of 43 patients; P<.001, two-sided Fisher's exact test)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14679157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "BRAF mutations have been identified as the most common oncogene mutation in melanomas, especially important in those originating on nonchronically sun-damaged skin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23414474", 
+            "endSection": "abstract"
+        }
+    ]
+}

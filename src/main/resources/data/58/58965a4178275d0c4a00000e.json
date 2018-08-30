@@ -1,0 +1,155 @@
+{
+    "body": "Is there any involvement of L1 retrotransposition in the Rett syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23057747", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24389010", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22159035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21085180"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1514925", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11585268"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11585268", 
+            "o": "retrotransposon transposition"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0035372", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18593781"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18593781", 
+            "o": "rett syndrome"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1514925", 
+            "o": "transposition, RNA-mediated"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1514925", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11610160"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11610160", 
+            "o": "retrotransposition"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes. Recent studies indicate that long interspersed nuclear element-1 (L1) are mobilized in the genome of human neural progenitor cells and enhanced in Rett syndrome and ataxia telangiectasia."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015518", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020084", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1206"
+    ], 
+    "type": "yesno", 
+    "id": "58965a4178275d0c4a00000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1585, 
+            "offsetInEndSection": 2128, 
+            "text": "Using neuronal progenitor cells derived from human induced pluripotent stem cells and human tissues, we revealed that patients with Rett syndrome (RTT), carrying MeCP2 mutations, have increased susceptibility for L1 retrotransposition. Our data demonstrate that L1 retrotransposition can be controlled in a tissue-specific manner and that disease-related genetic mutations can influence the frequency of neuronal L1 retrotransposition. Our findings add a new level of complexity to the molecular events that can lead to neurological disorders.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21085180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 903, 
+            "text": "Furthermore, some neurological diseases, such as Rett syndrome and ataxia telangiectasia, misregulate L1 retrotransposition, which could contribute to some pathological aspects. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23057747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "Recent studies indicate that long interspersed nuclear element-1 (L1) are mobilized in the genome of human neural progenitor cells and enhanced in Rett syndrome and ataxia telangiectasia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24389010", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 321, 
+            "offsetInEndSection": 594, 
+            "text": "In addition, recent data indicate that engineered human L1s can undergo somatic retrotransposition in human neural progenitor cells and that an increase in human-specific L1 DNA content can be detected in the brains of normal controls, as well as in Rett syndrome patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22159035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 719, 
+            "offsetInEndSection": 896, 
+            "text": "Furthermore, some neurological diseases, such as Rett syndrome and ataxia telangiectasia, misregulate L1 retrotransposition, which could contribute to some pathological aspects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23057747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1576, 
+            "offsetInEndSection": 1811, 
+            "text": "Using neuronal progenitor cells derived from human induced pluripotent stem cells and human tissues, we revealed that patients with Rett syndrome (RTT), carrying MeCP2 mutations, have increased susceptibility for L1 retrotransposition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21085180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 319, 
+            "offsetInEndSection": 592, 
+            "text": "In addition, recent data indicate that engineered human L1s can undergo somatic retrotransposition in human neural progenitor cells and that an increase in human-specific L1 DNA content can be detected in the brains of normal controls, as well as in Rett syndrome patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22159035", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1585, 
+            "offsetInEndSection": 1819, 
+            "text": "Using neuronal progenitor cells derived from human induced pluripotent stem cells and human tissues, we revealed that patients with Rett syndrome (RTT), carrying MeCP2 mutations, have increased susceptibility for L1 retrotransposition", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21085180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 901, 
+            "text": "Furthermore, some neurological diseases, such as Rett syndrome and ataxia telangiectasia, misregulate L1 retrotransposition, which could contribute to some pathological aspects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23057747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1585, 
+            "offsetInEndSection": 1820, 
+            "text": "Using neuronal progenitor cells derived from human induced pluripotent stem cells and human tissues, we revealed that patients with Rett syndrome (RTT), carrying MeCP2 mutations, have increased susceptibility for L1 retrotransposition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21085180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 725, 
+            "offsetInEndSection": 902, 
+            "text": "Furthermore, some neurological diseases, such as Rett syndrome and ataxia telangiectasia, misregulate L1 retrotransposition, which could contribute to some pathological aspects.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23057747", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "Recent studies indicate that long interspersed nuclear element-1 (L1) are mobilized in the genome of human neural progenitor cells and enhanced in Rett syndrome and ataxia telangiectasia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24389010", 
+            "endSection": "abstract"
+        }
+    ]
+}

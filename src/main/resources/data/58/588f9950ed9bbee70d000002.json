@@ -1,0 +1,130 @@
+{
+    "body": "Which gene is mutated in the Karak syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16783378", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26001724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20938027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27884548", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18443314", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24130795"
+    ], 
+    "ideal_answer": [
+        "PLA2G6 gene is mutated in the Karak syndrome."
+    ], 
+    "exact_answer": [
+        "PLA2G6"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225"
+    ], 
+    "type": "factoid", 
+    "id": "588f9950ed9bbee70d000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 333, 
+            "text": "Mutations in PLA2G6 have been associated with disorders such as infantile neuroaxonal dystrophy, neurodegeneration with brain iron accumulation type II and Karak syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26001724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 211, 
+            "text": "Mutations in PLA2G6 gene have variable phenotypic outcome including infantile neuroaxonal dystrophy, atypical neuroaxonal dystrophy, idiopathic neurodegeneration with brain iron accumulation and Karak syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24130795", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "BACKGROUND: PLA2G6 is the causative gene for infantile neuroaxonal dystrophy, neurodegeneration associated with brain iron accumulation, and Karak syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20938027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "PLA2G6 is the causative gene for infantile neuroaxonal dystrophy, neurodegeneration associated with brain iron accumulation, and Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20938027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 210, 
+            "text": "Mutations in PLA2G6 gene have variable phenotypic outcome including infantile neuroaxonal dystrophy, atypical neuroaxonal dystrophy, idiopathic neurodegeneration with brain iron accumulation and Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24130795", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 181, 
+            "offsetInEndSection": 474, 
+            "text": "Recessively inherited mutations of the PLA2G6 gene are causative of infantile neuroaxonal dystrophy and other PLA2G6-associated neurodegeneration, which includes conditions known as atypical neuroaxonal dystrophy, Karak syndrome and early-onset dystonia-parkinsonism with cognitive impairment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27884548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 162, 
+            "offsetInEndSection": 333, 
+            "text": "Mutations in PLA2G6 have been associated with disorders such as infantile neuroaxonal dystrophy, neurodegeneration with brain iron accumulation type II and Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26001724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 173, 
+            "offsetInEndSection": 455, 
+            "text": "We mapped a locus for infantile neuroaxonal dystrophy (INAD) and neurodegeneration with brain iron accumulation (NBIA) to chromosome 22q12-q13 and identified mutations in PLA2G6, encoding a calcium-independent group VI phospholipase A2, in NBIA, INAD and the related Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16783378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 457, 
+            "text": "We mapped a locus for infantile neuroaxonal dystrophy (INAD) and neurodegeneration with brain iron accumulation (NBIA) to chromosome 22q12-q13 and identified mutations in PLA2G6, encoding a calcium-independent group VI phospholipase A2, in NBIA, INAD and the related Karak syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16783378", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 335, 
+            "text": "Mutations in PLA2G6 have been associated with disorders such as infantile neuroaxonal dystrophy, neurodegeneration with brain iron accumulation type II and Karak syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26001724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 475, 
+            "text": "Recessively inherited mutations of the PLA2G6 gene are causative of infantile neuroaxonal dystrophy and other PLA2G6-associated neurodegeneration, which includes conditions known as atypical neuroaxonal dystrophy, Karak syndrome and early-onset dystonia-parkinsonism with cognitive impairment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27884548", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 334, 
+            "text": "Mutations in PLA2G6 have been associated with disorders such as infantile neuroaxonal dystrophy, neurodegeneration with brain iron accumulation type II and Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26001724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 456, 
+            "text": "We mapped a locus for infantile neuroaxonal dystrophy (INAD) and neurodegeneration with brain iron accumulation (NBIA) to chromosome 22q12-q13 and identified mutations in PLA2G6, encoding a calcium-independent group VI phospholipase A2, in NBIA, INAD and the related Karak syndrome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16783378", 
+            "endSection": "abstract"
+        }
+    ]
+}

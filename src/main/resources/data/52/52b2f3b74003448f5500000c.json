@@ -1,0 +1,904 @@
+{
+    "body": "Is there a relationship between junctin and ryanodine receptors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19230141", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22025663", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24257462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19448693", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11162129", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19398037"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400276", 
+            "o": "C498842"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1454076", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400276"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400276", 
+            "o": "Calsequestrin binding protein, rabbit"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1454076", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400589"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1454076", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400589"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400589", 
+            "o": "Junctin protein, Oryctolagus cuniculus"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400589", 
+            "o": "C498842"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400276", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400589", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/sequence", 
+            "s": "http://purl.uniprot.org/uniprot/Q12797", 
+            "o": "http://purl.uniprot.org/isoforms/Q12797-4"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/shortName", 
+            "s": "http://linkedlifedata.com/resource/#_513132373937001E", 
+            "o": "ASP beta-hydroxylase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/isoforms/Q12797-4", 
+            "o": "Junctin-2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513132373937001E", 
+            "o": "Aspartate beta-hydroxylase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513132373937001D", 
+            "o": "Aspartyl/asparaginyl beta-hydroxylase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513132373937001F", 
+            "o": "Peptide-aspartate beta-dioxygenase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/sequence", 
+            "s": "http://purl.uniprot.org/uniprot/Q12797", 
+            "o": "http://purl.uniprot.org/isoforms/Q12797-3"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/isoforms/Q12797-3", 
+            "o": "Cardiac junctin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/isoforms/Q12797-3", 
+            "o": "Junctin-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/basedOn", 
+            "s": "http://purl.uniprot.org/isoforms/Q12797-3", 
+            "o": "http://purl.uniprot.org/isoforms/Q12797-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/name", 
+            "s": "http://purl.uniprot.org/isoforms/Q12797-1", 
+            "o": "1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6808855", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6808855", 
+            "o": "aspartate beta-hydroxylase protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6983105"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6812955"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6808855"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6819849"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6986254", 
+            "o": "junctin protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6983105", 
+            "o": "calsequestrin binding protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6819849", 
+            "o": "ASPH protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6986254"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6812955", 
+            "o": "junctate protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6812955", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6819849", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6983105", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6986254", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6808855", 
+            "o": "C419389"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6812955", 
+            "o": "C419389"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6819849", 
+            "o": "C419389"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6983105", 
+            "o": "C419389"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6986254", 
+            "o": "C419389"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400212", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401237", 
+            "o": "aspartate-beta-hydroxylase protein, mouse"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8401402"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400590", 
+            "o": "Junctin protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400271"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400212", 
+            "o": "Asph protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400271", 
+            "o": "CSQ binding protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401262", 
+            "o": "calsequestrin binding protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400590"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401402", 
+            "o": "junctate protein, mouse"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8401237"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400590"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8401262"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8400212"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400271", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400590", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401237", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401262", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401402", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400212", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400271", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8400590", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401237", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401262", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8401402", 
+            "o": "C498841"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11655911", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000929", 
+            "o": "JUNCTIN"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11986511"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957838", 
+            "o": "ASPARTYL/ASPARAGINYL-BETA-HYDROXYLASE"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12000927"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11675087"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12000929"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16688957"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700759", 
+            "o": "junctate"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11703532", 
+            "o": "CASQ2BP1"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014935", 
+            "o": "BAH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700758", 
+            "o": "humbug"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12014935"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11703532"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11674202"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11655911"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11943486"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12000928"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000927", 
+            "o": "ASPARTATE BETA-HYDROXYLASE"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11665411"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014936", 
+            "o": "HUMBUG"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16688957", 
+            "o": "junctin"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000928", 
+            "o": "ASPH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17713684"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11655911", 
+            "o": "aspartate beta-hydroxylase"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17713684", 
+            "o": "ASPH gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16700759"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11957838"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12014936"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16700758"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6898590"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11674202", 
+            "o": "HAAH"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11943486", 
+            "o": "JUNCTATE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1412592", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17721534"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11665411", 
+            "o": "JCTN"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11665411", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11674202", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11675087", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11703532", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16688957", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700758", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700759", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17713684", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17721534", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11943486", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957838", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11986511", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000927", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000928", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000929", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014935", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014936", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11655911", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11665411", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11674202", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11675087", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11703532", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16688957", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700758", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16700759", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17713684", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17721534", 
+            "o": "757"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1454076", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0026832"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18022868", 
+            "o": "Muscle Proteins [Chemical/Ingredient]"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0436569", 
+            "o": "Muscle proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7572292", 
+            "o": "Muscle Protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17975416", 
+            "o": "Proteins, Muscle"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17903060", 
+            "o": "Protein, Muscle"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0088740", 
+            "o": "Muscle Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0484290", 
+            "o": "muscle protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11943486", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11957838", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11986511", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000927", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000928", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12000929", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014935", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12014936", 
+            "o": "600582"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432044", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0026832"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1384568", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0026832"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#broader", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1454076", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0025252"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0106726", 
+            "o": "Proteins, Surface"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0106545", 
+            "o": "Protein, Membrane"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0106681", 
+            "o": "Proteins, Membrane-Associated"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17878805", 
+            "o": "Proteins, Membrane"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7572056", 
+            "o": "Membrane Protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17975235", 
+            "o": "Membrane Associated Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0483564", 
+            "o": "membrane protein"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1395117", 
+            "o": "membrane proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0434758", 
+            "o": "Membrane proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0121434", 
+            "o": "Surface Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17999026", 
+            "o": "Membrane-Associated Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0084559", 
+            "o": "Membrane Proteins"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17950981", 
+            "o": "Membrane Proteins [Chemical/Ingredient]"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, junctin binds to ryanodine receptors within the junctional sarcoplasmic reticulum of calcium release units, and normally acts as an activator of RyR channels at low luminal [Ca(2+)], and as an inhibitor at high luminal [Ca(2+)]."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/RYR1_RABIT", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019837", 
+        "http://www.uniprot.org/uniprot/RYR3_MOUSE", 
+        "http://www.uniprot.org/uniprot/RYR2_RABIT", 
+        "http://www.uniprot.org/uniprot/RYR2_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005219", 
+        "http://www.uniprot.org/uniprot/RYR1_RAT", 
+        "http://www.uniprot.org/uniprot/RYR2_RAT", 
+        "http://www.uniprot.org/uniprot/RYR1_HUMAN", 
+        "http://www.uniprot.org/uniprot/RYR1_PIG", 
+        "http://www.uniprot.org/uniprot/RYR3_HUMAN", 
+        "http://www.uniprot.org/uniprot/RYR2_HUMAN", 
+        "http://www.uniprot.org/uniprot/RYR1_MOUSE", 
+        "http://www.uniprot.org/uniprot/RYR3_RABIT"
+    ], 
+    "type": "yesno", 
+    "id": "52b2f3b74003448f5500000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 180, 
+            "text": "Junctin, a 26 kDa intra-sarcoplasmic reticulum (SR) protein, forms a quaternary complex with triadin, calsequestrin and the ryanodine receptor (RyR) at the junctional SR membrane. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22025663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 769, 
+            "offsetInEndSection": 919, 
+            "text": "Junctin ablation appears to affect how RyRs 'sense' SR Ca(2+) load, resulting in decreased diastolic SR Ca(2+) leak despite an elevated [Ca(2+)](SR). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22025663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1120, 
+            "offsetInEndSection": 1804, 
+            "text": "Single channel recordings of RyRs from WT and JCN-KO cardiac SR indicate that the absence of junctin produces a dual effect on the normally linear response of RyRs to luminal [Ca(2+)]: at low luminal [Ca(2+)] (<1 mmol l(-1)), junctin-devoid RyR channels are less responsive to luminal [Ca(2+)]; conversely, high luminal [Ca(2+)] turns them hypersensitive to this form of channel modulation. Thus, junctin produces complex effects on Ca(2+) sparks, transients, and leak, but the luminal [Ca(2+)]-dependent dual response of junctin-devoid RyRs demonstrates that junctin normally acts as an activator of RyR channels at low luminal [Ca(2+)], and as an inhibitor at high luminal [Ca(2+)].", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22025663", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 287, 
+            "text": "Normal Ca(2+) signalling in skeletal muscle depends on the membrane associated proteins triadin and junctin and their ability to mediate functional interactions between the Ca(2+) binding protein calsequestrin and the type 1 ryanodine receptor in the lumen of the sarcoplasmic reticulum.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19398037", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 612, 
+            "offsetInEndSection": 1212, 
+            "text": "We show here that purified skeletal ryanodine receptors are similarly activated by purified triadin or purified junctin added to their luminal side, although a lack of competition indicated that the proteins act at independent sites. Surprisingly, triadin and junctin differed markedly in their ability to transmit information between skeletal calsequestrin and ryanodine receptors. Purified calsequestrin inhibited junctin/triadin-associated, or junctin-associated, ryanodine receptors and the calsequestrin re-associated channel complexes were further inhibited when luminal Ca(2+) fell from 1mM to", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19398037", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 604, 
+            "offsetInEndSection": 797, 
+            "text": "By fusing GCaMP6f to the N-terminus of triadin 1 or junctin, GCaMP6f-T/J was targeted to dyadic junctions, where it colocalized with t-tubules and RyRs after adenovirus-mediated gene transfer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24257462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 180, 
+            "offsetInEndSection": 532, 
+            "text": "The junctional face of the jSR, facing the transverse tubules, is occupied by a molecular complex composed of the transmembrane Ca2+ release channels (ryanodine receptors); the luminal protein calsequestrin (CSQ); the 2 membrane proteins, junctin (Jct), and triadin (Tr), which mediate CSQ-ryanodine receptor interactions; and several other components.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19448693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 581, 
+            "text": "Calsequestrin, the main calcium buffer in the sarcoplasmic reticulum, provides a pool of calcium for release through the ryanodine receptor and acts as a luminal calcium sensor for the channel via its interactions with triadin and junctin. We examined the influence of phosphorylation of calsequestrin on its ability to store calcium, to polymerise and to regulate ryanodine receptors by binding to triadin and junctin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19230141", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Junctin is a 26 kDa membrane protein that binds to calsequestrin, triadin, and ryanodine receptors (RyRs) within the junctional sarcoplasmic reticulum of calcium release units. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11162129", 
+            "endSection": "abstract"
+        }
+    ]
+}

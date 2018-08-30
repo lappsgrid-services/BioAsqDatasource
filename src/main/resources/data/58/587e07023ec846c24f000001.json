@@ -1,0 +1,45 @@
+{
+    "body": "Which software package is available for the analysis of conserved genomic loci?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26530724"
+    ], 
+    "ideal_answer": [
+        "PHYLUCE is a software package for the analysis of conserved genomic loci. It identifies targeted, enriched loci from the off-target background data; aligns enriched contigs representing conserved loci to one another; and prepare and manipulate these alignments for subsequent phylogenomic inference. PHYLUCE is an efficient and easy-to-install software package that accomplishes these tasks across hundreds of taxa and thousands of enriched loci", 
+        "PHYLUCE is a software package for the analysis of conserved genomic loci"
+    ], 
+    "exact_answer": [
+        "PHYLUCE"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012984", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017124"
+    ], 
+    "type": "factoid", 
+    "id": "587e07023ec846c24f000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 72, 
+            "text": "PHYLUCE is a software package for the analysis of conserved genomic loci", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26530724", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 716, 
+            "text": "Prior to downstream inference, data from these types of targeted enrichment studies must undergo preprocessing to assemble contigs from sequence data; identify targeted, enriched loci from the off-target background data; align enriched contigs representing conserved loci to one another; and prepare and manipulate these alignments for subsequent phylogenomic inference. PHYLUCE is an efficient and easy-to-install software package that accomplishes these tasks across hundreds of taxa and thousands of enriched loci.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26530724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 74, 
+            "text": "PHYLUCE is a software package for the analysis of conserved genomic loci.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26530724", 
+            "endSection": "title"
+        }
+    ]
+}

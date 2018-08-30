@@ -1,0 +1,756 @@
+{
+    "body": "Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17655857", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24025405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22650415", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20302875", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22119737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21618644", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18684293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22422768", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22298808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18543230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22515980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22733215", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22421959", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15913575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22557844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14571276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23042908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23595086", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12732448", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19568611", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17607358"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1171", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/CASQ2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1171", 
+            "o": "http://www.dbpedia.org/resource/Ventricular_tachycardia"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/CASQ2", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1171", 
+            "o": "Ventricular_tachycardia"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1171", 
+            "o": "http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0042514"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4133", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/CASQ2"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4133", 
+            "o": "Ventricular tachycardia, stress-induced polymorphic, 604772"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/B3IYI4", 
+            "o": "http://linkedlifedata.com/resource/#_42334959493400D"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_423349594934009", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_42334959493400D", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q3MHM1", 
+            "o": "http://linkedlifedata.com/resource/#_51334D484D310013"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51334D484D3100E", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51334D484D310013", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/B9EHC7", 
+            "o": "http://linkedlifedata.com/resource/#_4239454843370010"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_42394548433700B", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4239454843370010", 
+            "o": "Casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6DI16", 
+            "o": "http://linkedlifedata.com/resource/#_51364449313600F"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51364449313600F", 
+            "o": "casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51364449313600A", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12021593", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12036000", 
+            "o": "CALSEQUESTRIN, FAST-TWITCH, CARDIAC MUSCLE"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11694918"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12036000"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11694918", 
+            "o": "calsequestrin 2 (cardiac muscle)"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12021594"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12021594"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17706428"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17753910"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11656733", 
+            "o": "PDIB2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12021593", 
+            "o": "CALSEQUESTRIN 2"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17706428", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6899061"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17753910", 
+            "o": "CASQ2 gene"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12021593"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1413135", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11656733"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12021594", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12036000", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11656733", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11694918", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17706428", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17753910", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q56A03", 
+            "o": "http://linkedlifedata.com/resource/#_513536413033001E"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5135364130330018", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/orfName", 
+            "s": "http://linkedlifedata.com/resource/#_513536413033001E", 
+            "o": "mCG_5476"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513536413033001E", 
+            "o": "Casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6P7Z0", 
+            "o": "http://linkedlifedata.com/resource/#_513650375A3000F"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513650375A3000F", 
+            "o": "casq2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513650375A3000F", 
+            "o": "MGC76326"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513650375A3000A", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6899061", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/P12637", 
+            "o": "http://linkedlifedata.com/resource/#_5031323633370011"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_50313236333700E", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5031323633370011", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_50313236333700F", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q5RAN9", 
+            "o": "http://linkedlifedata.com/resource/#_513552414E3900D"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513552414E3900A", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_513552414E3900D", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513552414E3900B", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6792080", 
+            "o": "C443109"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432385", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6792080"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1432385", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A6809413"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6792080", 
+            "o": "CASQ2 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6809413", 
+            "o": "calsequestrin 2, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6809413", 
+            "o": "C443109"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8597538", 
+            "o": "C503872"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1610406", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8597538"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8597538", 
+            "o": "CASQ2 protein, rat"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8603121", 
+            "o": "caisequestrin 2, rat"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1610406", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8603121"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8603121", 
+            "o": "C503872"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/O09161", 
+            "o": "http://linkedlifedata.com/resource/#_4F303931363100F"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303931363100E", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F303931363100D", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F303931363100F", 
+            "o": "Casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/O14958", 
+            "o": "http://linkedlifedata.com/resource/#_4F3134393538001B"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F3134393538001B", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F31343935380018", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F31343935380017", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/O18934", 
+            "o": "http://linkedlifedata.com/resource/#_4F313839333400B"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F313839333400A", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F3138393334009", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_4F313839333400B", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/P31235", 
+            "o": "http://linkedlifedata.com/resource/#_50333132333500D"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_50333132333500B", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_50333132333500D", 
+            "o": "CASQ2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_50333132333500C", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/P51868", 
+            "o": "http://linkedlifedata.com/resource/#_503531383638001C"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_503531383638001C", 
+            "o": "Casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5035313836380017", 
+            "o": "Calsequestrin-2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5035313836380018", 
+            "o": "Calsequestrin, cardiac muscle isoform"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6792080", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A6809413", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8597538", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8603121", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11276089", 
+            "o": "C514388"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11278195", 
+            "o": "calsequestrin 2, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11278194", 
+            "o": "casq2 protein, mouse"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1742998", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11278195"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11276089", 
+            "o": "cardiac calsequestrin 2, mouse"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1742998", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11278194"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1742998", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11276089"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1742998", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11278194"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11278194", 
+            "o": "C514388"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11278195", 
+            "o": "C514388"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q6PBF1", 
+            "o": "http://linkedlifedata.com/resource/#_5136504246310010"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5136504246310010", 
+            "o": "casq2"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5136504246310010", 
+            "o": "casq1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51365042463100B", 
+            "o": "Calsequestrin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/encodedBy", 
+            "s": "http://purl.uniprot.org/uniprot/Q7ZWM0", 
+            "o": "http://linkedlifedata.com/resource/#_51375A574D300011"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51375A574D300011", 
+            "o": "casq1"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/#_51375A574D300011", 
+            "o": "casq2"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_51375A574D3000C", 
+            "o": "Calsequestrin"
+        }
+    ], 
+    "ideal_answer": [
+        "CASQ2 mutations are associated with autosomal recessive catecholaminergic polymorphic ventricular tachycardia (CPVT) and familial hypertrophic cardiomyopathy.", 
+        "Mutations in the gene encoding for cardiac calsequestrin, CASQ2, cause a rare but severe form of catecholaminergic polymorphic ventricular tachycardia (CPVT).\nThere is also a publication that links mutations in CASQ2 gene to the disease of hypertrophic cardiomyopathy (HCM)."
+    ], 
+    "exact_answer": [
+        [
+            "catecholaminergic polymorphic ventricular tachycardia (CPVT)", 
+            "CPVT", 
+            "catecholaminergic polymorphic ventricular tachycardia"
+        ], 
+        [
+            "familial hypertrophic cardiomyopathy", 
+            "HCM", 
+            "hypertrophic cardiomyopathy"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CASQ2_CHICK", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796", 
+        "http://www.uniprot.org/uniprot/CASQ2_PIG", 
+        "http://www.uniprot.org/uniprot/CASQ2_PONAB", 
+        "http://www.uniprot.org/uniprot/CASQ2_HUMAN", 
+        "http://www.uniprot.org/uniprot/CASQ2_CANFA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154", 
+        "http://www.uniprot.org/uniprot/CASQ2_RAT", 
+        "http://www.uniprot.org/uniprot/CASQ2_RABIT", 
+        "http://www.uniprot.org/uniprot/CASQ2_MOUSE"
+    ], 
+    "type": "list", 
+    "id": "52bf1af803868f1b06000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 507, 
+            "text": "Recessively inherited CPVT is caused by either missense or null-allele mutations in the cardiac calsequestrin (CASQ2) gene. It was suggested that defects in CASQ2 cause protein deficiency and impair Ca(2+) uptake to the sarcoplasmic reticulum and Ca(2+)-dependent inhibition of ryanodine channels, leading to diastolic Ca(2+) leak, after-depolarizations, and arrhythmia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23042908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 176, 
+            "offsetInEndSection": 473, 
+            "text": "The autosomal recessive form of CPVT is caused by mutations in the CASQ2 gene. In a consanguineous family, a novel homozygous CASQ2 mutation (p.L77P) was identified in a child with CPVT who required implantation of a cardioverter defibrillator due to episodes of syncope while on medical therapy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22650415", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia is a familial cardiac arrhythmia that is related to RYR2 or CASQ2 gene mutation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22557844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 298, 
+            "text": "Thirteen mutations in the CASQ2 gene have been reported so far in association with CPVT. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21618644", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 715, 
+            "offsetInEndSection": 1204, 
+            "text": "These data increased significantly the number of CASQ2 mutations described in association with CPVT, revealed the high prevalence of splicing and truncating mutations in this gene and brought new insight regarding the dominant inheritance of the disease. Moreover, our report of the first splicing abnormalities in CASQ2 caused by intronic mutation or synonymous change underlines the absolute necessity to perform extensive molecular analysis for genetic diagnosis and counseling of CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21618644", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Mutations in the human cardiac calsequestrin gene (CASQ2) are linked to catecholaminergic polymorphic ventricular tachycardia (CPVT-2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20302875", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a familial cardiac arrhythmia that is related to RYR2 or CASQ2 gene mutation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19568611", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 488, 
+            "text": "Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an uncommon heritable disease presenting with syncope or sudden cardiac death. Two genes involved in calcium homeostasis, the ryanodine receptor gene and the calsequestrin 2 (CASQ2) gene, have been implicated in this disease. We describe a young man presenting with exercise-induced syncope, clinically diagnosed as CPVT. Genetic analysis revealed two mutations, p.Y55C (c.164A>G) and p.P308L (c.923C>T), in the CASQ2 gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18684293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 278, 
+            "offsetInEndSection": 369, 
+            "text": "A novel heterozygous mutation, F189L, in CASQ2 gene was identified in one family with CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18543230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Catecholamine-induced polymorphic ventricular tachycardia (CPVT) is a familial disorder caused by cardiac ryanodine receptor type 2 (RyR2) or calsequestrin 2 (CASQ2) gene mutations. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17607358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1144, 
+            "offsetInEndSection": 1225, 
+            "text": "We conclude that CPVT-causing CASQ2 missense mutations function as null alleles. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17607358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1594, 
+            "offsetInEndSection": 1813, 
+            "text": "The central role of RyR2 dysfunction in CASQ2 deficiency unifies the pathophysiologic mechanism underlying CPVT due to RyR2 or CASQ2 mutations and suggests a therapeutic approach for these inherited cardiac arrhythmias.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17607358", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1021, 
+            "offsetInEndSection": 1172, 
+            "text": "Mutations of the RyR2 gene cause autosomal dominant CPVT, while mutations of the CASQ2 gene may cause an autosomal recessive or dominant form of CPVT. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15913575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 313, 
+            "text": "Mutations of two myocardial calcium signaling molecules, ryanodine receptor 2 (RYR2) and calsequestrin 2 (CASQ2), may cause catecholaminergic polymorphic ventricular tachycardia (CPVT), a severe inherited arrhythmic disease manifesting with salvoes of exercise-induced bidirectional and polymorphic tachycardias. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14571276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 823, 
+            "offsetInEndSection": 1054, 
+            "text": "These data, combined with our previous findings, show that RYR2 mutations are present in at least 6/16 (38%) of the catecholaminergic polymorphic ventricular tachycardia families, while CASQ2 mutations must be a rare cause of CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14571276", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 259, 
+            "offsetInEndSection": 375, 
+            "text": "This report reviews evidence that a missense mutation in the CASQ2 gene is associated with autosomal-recessive CPVT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12732448", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 463, 
+            "offsetInEndSection": 1213, 
+            "text": "An Australian cohort of 252 unrelated familial hypertrophic cardiomyopathy patients were screened for mutations in the Ca(2+) regulatory genes, sorcin (SRI), calstabin (FKBP1B), calsequestrin (CASQ2), phospholamban (PLN), sarcolipin (SLN), calreticulin (CALR3) and calmodulin (CALM). A total of 17 exonic DNA variants were identified in the 7 Ca(2+) regulatory genes studied, of which 4 were considered of pathogenic significance. Two novel mutations in the CALR3 gene were identified (Lys82Arg, Arg73Gln) and one truncation mutation in the PLN gene (Leu39Ter). A variant was also identified in the CASQ2 gene (Asp63Glu). These four variants were all novel, resulted in changes in conserved amino acids and were not identified in a normal population.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17655857", 
+            "endSection": "abstract"
+        }
+    ]
+}

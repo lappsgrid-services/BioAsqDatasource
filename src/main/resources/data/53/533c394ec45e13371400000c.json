@@ -1,0 +1,627 @@
+{
+    "body": "Which are the main functions of the human HuR (ELAVL1) protein in fibroblasts?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12242302", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21816340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23837869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12730239", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23401122", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10673359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23155001", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19345675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9155038", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19884656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17317627", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14530362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23223443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19289500", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15036402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12605686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21164076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9860962", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16639702", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20007147", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19252527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15824116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10075998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22446588", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15861128", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17288991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9628881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22310293", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21515253", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9763509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22201738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15863502", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15543229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24152440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23508105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17392515", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21745814"
+    ], 
+    "ideal_answer": [
+        "HuR is an RNA-binding protein that can stabilize labile mRNAs containing AU-rich elements in their 3' untranslated regions and has been shown to shuttle between the nucleus and cytoplasm. HuR function was previously shown to be implicated in the maintenance of a \"young cell\" phenotype in models of replicative cellular senescence. Loss of HuR is linked to reduced expression of proliferative genes during replicative senescence. Importantly, overexpression of HuR in senescent cells restored a \"younger\" phenotype, while a reduction in HuR expression accentuated the senescent phenotype. HuR associated with the 3' untranslated region of the mRNA encoding the longevity and stress-response protein SIRT1, stabilized the SIRT1 mRNA, and increased SIRT1 expression levels. In mesenchymal cells HuR plays a dominant role in lung development and as a key post-transcriptional regulator of networks guiding tissue remodeling during branching morphogenesis. In fibroblasts knockdown of HuR decreased the endogenous expression of TGF\u03b21 under exogenous TGF\u03b21 treatment, simultaneously with the decrease of Col1a, Col3a and fibronectin expression.  HuR (human antigen R), represses ARF mRNA translation, thereby maintaining the replicative life span of mouse embryonic fibroblasts (MEFs). HuR is considered a global regulator of cell-cycle progression and tumorigenesis. Through its post-transcriptional influence on specific target mRNAs, HuR can alter the cellular response to proliferative, stress, apoptotic, differentiation, senescence, inflammatory and immune stimuli."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/ELV1A_XENLA", 
+        "http://www.uniprot.org/uniprot/ELAV1_MOUSE", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005347", 
+        "http://www.uniprot.org/uniprot/ELV1B_XENLA", 
+        "http://www.uniprot.org/uniprot/ELAV1_XENTR", 
+        "http://www.uniprot.org/uniprot/ELAV1_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051959"
+    ], 
+    "type": "summary", 
+    "id": "533c394ec45e13371400000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 906, 
+            "offsetInEndSection": 1166, 
+            "text": "The H(2)O(2)-dependent sGC\u03b21 upregulation was attributable to sGC\u03b21 mRNA stabilization, conditioned by the translocation of the mRNA-binding protein HuR from the nucleus to the cytosol, and the increased mRNA binding of HuR to the sGC\u03b21 3' untranslated region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21164076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1167, 
+            "offsetInEndSection": 1249, 
+            "text": "HuR silencing reversed the effects of H(2)O(2) on sGC\u03b21 levels and cGMP synthesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21164076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1263, 
+            "offsetInEndSection": 1426, 
+            "text": "Our results identify H(2)O(2) as an endogenous mediator contributing to the regulation of vascular tone and point to a key role of HuR in sGC\u03b21 mRNA stabilization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21164076", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Cytoplasmic export of the RNA-binding protein HuR, a process that critically regulates its function, was recently shown to be inhibited by the AMP-activated protein kinase (AMPK)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12730239", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 593, 
+            "offsetInEndSection": 736, 
+            "text": "HuR function was previously shown to be implicated in the maintenance of a \"young cell\" phenotype in models of replicative cellular senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12730239", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 870, 
+            "offsetInEndSection": 1057, 
+            "text": "The in vitro binding selectivity of HuR is indicative of an ARE sequence's ability to destabilize a mRNA in vivo, suggesting a critical role for HuR in the regulation of mRNA degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9155038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 705, 
+            "offsetInEndSection": 869, 
+            "text": "urification and subsequent analyses demonstrate that this 32 kDa protein is identical to a recently identified member of the Elav-like gene family (ELG) called HuR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9155038", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1064, 
+            "offsetInEndSection": 1219, 
+            "text": "We also show that HuR can be induced to redistribute from the nucleus to the cytoplasm and that this redistribution is associated with an altered function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9628881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "RNA stabilization by the AU-rich element binding protein, HuR, an ELAV protein.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9628881", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "ELAV protein HuA (HuR) can redistribute between nucleus and cytoplasm and is upregulated during serum stimulation and T cell activation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9763509", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 611, 
+            "offsetInEndSection": 808, 
+            "text": " HuR is an RNA-binding protein that can stabilize labile mRNAs containing AU-rich elements in their 3' untranslated regions and has been shown to shuttle between the nucleus and cytoplasm (18, 19).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9860962", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 936, 
+            "offsetInEndSection": 1142, 
+            "text": "We propose that HuR first may bind AU-rich element-containing mRNAs in the nucleus and then escort them through the nuclear pore, providing protection during and after export to the cytoplasmic compartment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9860962", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1172, 
+            "offsetInEndSection": 1355, 
+            "text": "Taken together, these data show that a correlation exists between the binding of HuR to the AU-rich motif in vitro and the destabilizing properties conferred by this sequence in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10075998", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 677, 
+            "offsetInEndSection": 870, 
+            "text": "HuR interacts with AU-rich elements in the 3'UTR of many protooncogenes, cytokines, and transcription factors, thereby regulating the expression of these mRNAs on the posttranscriptional level.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10673359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 871, 
+            "offsetInEndSection": 1055, 
+            "text": "Transfection assays with a CAT reporter construct revealed reduced expression of the reporter, suggesting that HuR may be involved in the fine-tuning of the expression of the NF1 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10673359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 584, 
+            "text": "Importantly, overexpression of HuR in senescent cells restored a \"younger\" phenotype, while a reduction in HuR expression accentuated the senescent phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 676, 
+            "text": "Our studies highlight a critical role for HuR during the process of replicative senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 74, 
+            "offsetInEndSection": 271, 
+            "text": "Here, using two models of replicative senescence, we describe the influence of the RNA-binding protein HuR in regulating the expression of several genes whose expression decreases during senescence", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 273, 
+            "offsetInEndSection": 425, 
+            "text": "We demonstrate that HuR levels, HuR binding to target mRNAs encoding proliferative genes, and the half-lives of such mRNAs are lower in senescent cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Loss of HuR is linked to reduced expression of proliferative genes during replicative senescence.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11486028", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 252, 
+            "offsetInEndSection": 579, 
+            "text": "Although in vitro experiments showed indiscriminate binding of Hu proteins synthesized in bacterial systems to many different AU-rich elements (AREs), in vivo studies have pointed to a cytoplasmic role for HuR protein in antagonizing the rapid decay of some specific ARE-containing mRNAs, depending on physiological situations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12242302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1682, 
+            "offsetInEndSection": 1871, 
+            "text": "Our data suggest that the ARE-binding specificity of HuR in vivo is modulated to interact only with and thus regulate specific AREs in a cell type- and physiological state-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12242302", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1183, 
+            "offsetInEndSection": 1417, 
+            "text": "Overexpression of HuD and HuR in murine fibroblasts caused a striking stabilization of the endogenous MARCKS mRNA even under conditions when the MARCKS mRNA is normally actively degraded, i.e. after treating cells with phorbol ester. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12605686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1675, 
+            "offsetInEndSection": 1824, 
+            "text": "Our findings implicate mRNA stabilization in the cytokine-mediated increase in eotaxin expression and strongly suggest a role for HuR in this effect.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14530362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Proteasome inhibition increases HuR level, restores heat-inducible HSP72 expression and thermotolerance in WI-38 senescent human fibroblasts.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15036402", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 648, 
+            "offsetInEndSection": 782, 
+            "text": "This result is consistent with the proposed role of HuR in assisting mRNA export to the cytoplasm and in antagonizing its degradation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15036402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 926, 
+            "offsetInEndSection": 1147, 
+            "text": "HuR immunoprecipitations were positive for RhoB mRNA indicating an in vivo association, and Western blot analysis and immunofluorescence demonstrated that HuR rapidly partitions from the nucleus to the cytoplasm after UVL", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15543229", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 327, 
+            "text": "In the cytosol, HuR is thought to function to control stability and translation of its ligand message. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15863502", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "HuR is a ligand for nuclear mRNAs containing adenylate-uridylate-rich (ARE) elements in the 3'-untranslated region.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16639702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 229, 
+            "text": "Once bound to the mRNA, HuR is recognized by adapter proteins that then facilitate nuclear export of the complex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16639702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 332, 
+            "text": "In the cytosol, HuR is thought to function to control stability and translation of its ligand message.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16639702", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 326, 
+            "text": "HuR is a ligand for nuclear mRNAs containing adenylate-uridylate rich elements in the 3'-untranslated region. Once bound to the mRNA, HuR is recognized by adapter proteins which then facilitate nuclear export of the complex. In the cytosol HuR is thought to function to control stability and translation of its ligand message.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17288991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "The RNA binding protein HuR regulates the stability of many target mRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17317627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 74, 
+            "offsetInEndSection": 277, 
+            "text": "Here, we report that HuR associated with the 3' untranslated region of the mRNA encoding the longevity and stress-response protein SIRT1, stabilized the SIRT1 mRNA, and increased SIRT1 expression levels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17317627", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "In this study, we investigated the molecular mechanisms underlying the ATP analogue adenosine-5'-O-(3-thio)triphosphate-induced nucleocytoplasmic shuttling of the mRNA stabilizing factor HuR in human (h) mesangial cells (MC). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17392515", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 325, 
+            "offsetInEndSection": 402, 
+            "text": "HuR is an essential regulator of mesenchymal responses during lung branching.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21515253", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1176, 
+            "offsetInEndSection": 1382, 
+            "text": "Our data reveals HuR as the first RBP identified to play a dominant role in lung development and as a key post-transcriptional regulator of networks guiding tissue remodeling during branching morphogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21515253", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 338, 
+            "text": "Here we demonstrated a relevance for miR-9 in HL pathogenesis and identified two new targets Dicer1 and HuR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 669, 
+            "offsetInEndSection": 882, 
+            "text": "We show that inhibition of miR-9 leads to derepression of DICER and HuR, which in turn results in a decrease in cytokine production by HL cells followed by an impaired ability to attract normal inflammatory cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22310293", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "A conserved TGF\u03b21/HuR feedback circuit regulates the fibrogenic response in fibroblasts.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446588", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 794, 
+            "text": "Knockdown of HuR decreased the endogenous expression of TGF\u03b21 under exogenous TGF\u03b21 treatment, simultaneously with the decrease of Col1a, Col3a and fibronectin expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 795, 
+            "offsetInEndSection": 977, 
+            "text": "Our study here established a TGF\u03b21/HuR feedback circuit regulating the fibrogenic response in fibroblasts, and targeting this feedback loop is of great potential to control fibrosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22446588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 272, 
+            "offsetInEndSection": 545, 
+            "text": "Here, we demonstrated that increased stabilization and subsequent over-expression of HuR mRNA were coupled to TTP deficiency. These findings were observed in breast cancer cell lines with an invasive phenotype and were further confirmed in ZFP36-knockout mouse fibroblasts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23401122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 546, 
+            "offsetInEndSection": 681, 
+            "text": "We show that TTP-HuR imbalance correlated with increased expression of AU-rich element (ARE) mRNAs that code for cancer invasion genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23401122", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 472, 
+            "text": "Here, we show that an RNA-binding protein, HuR (human antigen R), represses ARF mRNA translation, thereby maintaining the replicative life span of mouse embryonic fibroblasts (MEFs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23508105", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 647, 
+            "offsetInEndSection": 813, 
+            "text": "The outcome of this analysis was a list of target genes regulated via HuR for their association (either increased or reduced) with the nuclear hnRNP A1-RNP complexes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24152440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1045, 
+            "offsetInEndSection": 1312, 
+            "text": "The differentially enriched mRNAs were found to belong to GO categories relevant to biological processes anticipated for hnRNP A1 and HuR (such as transport, transcription, translation, apoptosis and cell cycle) indicating their concerted function in mRNA metabolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24152440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 303, 
+            "text": "Here, we show that overexpression of RNase L decreases cellular growth and downmodulates the RNA-binding protein, HuR, a regulator of cell-cycle progression and tumorigenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19252527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1346, 
+            "offsetInEndSection": 1607, 
+            "text": "In sum, our results indicate that NO stabilizes mRNA subsets in fibroblasts, identify HuR as an RBP implicated in the NO response, reveal that HuR alone is insufficient for stabilizing several mRNAs by NO, and show that HO-1 induction by NO is regulated by HuR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19289500", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 314, 
+            "offsetInEndSection": 515, 
+            "text": "Suppression of HuR using siRNA resulted in an attenuation of the 3T3-L1 differentiation program, consistent with HuR control of the expression of mRNA ligand(s) critical to the differentiation process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19345675", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 908, 
+            "offsetInEndSection": 1024, 
+            "text": "In mouse embryonic fibroblasts, HuR bound to and stabilized the mRNA for Mdm2, a critical negative regulator of p53.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19884656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1120, 
+            "offsetInEndSection": 1284, 
+            "text": "Our results reveal a positive feedback mechanism for the regulation of HuR, which may play an important role in the regulation of HuR during replicative senescence.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20007147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "In dividing cells, the RNA-binding protein HuR associates with and stabilizes labile mRNAs encoding proliferative proteins, events that are linked to the increased cytoplasmic presence of HuR.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15824116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 644, 
+            "text": "On the basis of these observations, we postulated a role for HuR in promoting the proliferation of vascular smooth muscle cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15824116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1180, 
+            "offsetInEndSection": 1323, 
+            "text": "We propose that HuR contributes to regulating hVSMC growth and homeostasis in pathologies associated with vascular smooth muscle proliferation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15824116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Antiapoptotic function of RNA-binding protein HuR effected through prothymosin alpha.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15861128", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "We report the antiapoptotic effect of RNA-binding protein HuR, a critical regulator of the post-transcriptional fate of target transcripts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15861128", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 961, 
+            "offsetInEndSection": 1143, 
+            "text": "Together, our data support a regulatory scheme whereby HuR binds the ProTalpha mRNA, elevates its cytoplasmic abundance and translation, and thereby elicits an antiapoptotic program.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15861128", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1293, 
+            "offsetInEndSection": 1464, 
+            "text": "CARM1 represses replicative senescence by methylating HuR and thereby enhancing HuR's ability to regulate the turnover of cyclin A, cyclin B1, c-fos, SIRT1, and p16 mRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837869", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "HuR, also known as Elavl1, is an RNA-binding protein that regulates embryonic development, progenitor cell survival, and cell stress responses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23223443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1735, 
+            "offsetInEndSection": 1912, 
+            "text": "Together, these studies reveal an evolutionarily conserved post-transcriptional mechanism involving competitive interactions between HuR and miR-200b that controls angiogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23223443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 864, 
+            "offsetInEndSection": 1075, 
+            "text": "Immunoprecipitation of RNA-protein complexes and luciferase reporter assays indicate that HuR antagonizes the suppressive activity of miR-200b, down-regulates miR-200b expression, and promotes VEGF-A expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23223443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 163, 
+            "offsetInEndSection": 373, 
+            "text": "Here we present evidence that CUGBP1 and HuR jointly regulate the translation of occludin and play a crucial role in the maintenance of tight junction (TJ) integrity in the intestinal epithelial cell monolayer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23155001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1034, 
+            "offsetInEndSection": 1279, 
+            "text": "These findings indicate that CUGBP1 represses occludin translation by increasing occludin mRNA recruitment to P-bodies, whereas HuR promotes occludin translation by blocking occludin mRNA translocation to P-bodies via the displacement of CUGBP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23155001", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 492, 
+            "text": "Through its post-transcriptional influence on specific target mRNAs, HuR can alter the cellular response to proliferative, stress, apoptotic, differentiation, senescence, inflammatory and immune stimuli.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 835, 
+            "offsetInEndSection": 1106, 
+            "text": "We focus on HuR's well-recognized implication in cancer and chronic inflammation, and discuss emerging studies linking HuR to cardiovascular, neurological, and muscular pathologies. We also discuss the progress, potential, and challenges of targeting HuR therapeutically.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22201738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1125, 
+            "offsetInEndSection": 1347, 
+            "text": "These results indicate that HuR regulates occludin mRNA translation through Chk2-dependent HuR phosphorylation and that this influence is crucial for maintenance of the epithelial barrier integrity in the intestinal tract.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21745814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 319, 
+            "text": "The RNA-binding protein HuR modulates the stability and translation of many target mRNAs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21745814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 459, 
+            "text": "Here, we investigated the role of HuR in the regulation of occludin expression and therefore in the intestinal epithelial barrier function.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21745814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 552, 
+            "text": "HuR bound the 3'-untranslated region of the occludin mRNA and enhanced occludin translation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21745814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 553, 
+            "offsetInEndSection": 640, 
+            "text": "HuR association with the occludin mRNA depended on Chk2-dependent HuR phosphorylation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21745814", 
+            "endSection": "abstract"
+        }
+    ]
+}

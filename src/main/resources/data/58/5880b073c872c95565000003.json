@@ -1,0 +1,306 @@
+{
+    "body": "Andexanet Alfa is an antidote of which clotting factor inhibitors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27147456", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26449414", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27082776", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26559317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27575436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25516695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27399455", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25494843", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25816811", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27895055", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27789605", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27659071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25431993", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26069913", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27913536", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26627486", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26872887", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27697443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26686866", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26519420", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25387210"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003295", 
+            "o": "antidote"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003295", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17973253"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17973253", 
+            "o": "Antidote"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/930", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/30155"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/30155", 
+            "o": "Antidote"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/99104", 
+            "o": "Coagulation factor inhibitor"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/99104", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/743388"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0003295", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17925206"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17925206", 
+            "o": "Antidote [EPC]"
+        }
+    ], 
+    "ideal_answer": [
+        "Andexanet alfa is a specific reversal agent for Factor Xa inhibitors.", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. Idarucizumab and andexanet alfa are NOAC-specific reversal agents designed to reverse dabigatran and factor Xa inhibitors accordingly. Andexanet alfa for the reversal of Factor Xa inhibitor related anticoagulation. Andexanet alfa is a specific reversal agent for Factor Xa inhibitors. Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin. ", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin.", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. Idarucizumab and andexanet alfa are NOAC-specific reversal agents designed to reverse dabigatran and factor Xa inhibitors accordingly. Andexanet alfa for the reversal of Factor Xa inhibitor related anticoagulation. Andexanet alfa is a specific reversal agent for Factor Xa inhibitors. In ex vivo, animal, and volunteer human studies, andexanet alfa (AnXa) was able to dose-dependently reverse Factor Xa inhibition and restore thrombin generation for the duration of drug administration. ", 
+        "andexanet alfa is a factor xa (fxa) decoy that binds to direct and indirect inhibitors in phase iii trials in healthy volunteers , andexanet alfa reduced anti-fxa activity by more than 90% , reduced the concentration of unbound direct fxa inhibitor , and inhibited thrombin generation . andexanet is an antidote targeted to reverse the oral direct factor xa inhibitors as well as the indirect inhibitor enoxaparin. . ", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. In Phase III trials in healthy volunteers, andexanet alfa reduced anti-FXa activity by more than 90%, reduced the concentration of unbound direct FXa inhibitor, and inhibited thrombin generation. Andexanet alfa for the reversal of Factor Xa inhibitor related anticoagulation. Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin. In ex vivo, animal, and volunteer human studies, andexanet alfa (AnXa) was able to dose-dependently reverse Factor Xa inhibition and restore thrombin generation for the duration of drug administration. ", 
+        "Andexanet alfa (r-Antidote, PRT064445; Portola Pharmaceuticals) is a truncated form of enzymatically inactive factor Xa, which binds and reverses the anticoagulant action of the factor Xa inhibitors (e.g.: rivaroxaban, apixaban and edoxaban). Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin. Andexanet alfa (AnXa), a recombinant modified FXa, is an investigational specific antidote for FXa inhibitors. Antidotes that experimentally reverse the anti-coagulant effect of dabigatran (Idarucizumab; BI 655075; Boehringer Ingelheim); of rivaroxaban, apixaban, or edoxaban (Andexanet alfa, r-Antidote, PRT064445; Portola Pharmaceuticals) or of all DOACs (Aripazine, PER-977, ciraparantag; Perosphere Inc.) are discussed. Idarucizumab and andexanet alfa are NOAC-specific reversal agents designed to reverse dabigatran and factor Xa inhibitors accordingly. Andexanet alfa (PRT064445), a specific reversal agent against factor Xa inhibitors, showed a complete reversal of anticoagulant activity of apixaban and rivaroxaban within minutes after administration without adverse effects in two recently completed parallel phase III trials ANNEXA-A and ANNEXA-R respectively.", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. Idarucizumab and andexanet alfa are NOAC-specific reversal agents designed to reverse dabigatran and factor Xa inhibitors accordingly.", 
+        "Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin. Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin.", 
+        "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin. Andexanet alfa is a factor Xa (FXa) decoy that binds to direct and indirect FXa inhibitors."
+    ], 
+    "exact_answer": [
+        "Factor Xa", 
+        "Xa"
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000925", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000931", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019774"
+    ], 
+    "type": "factoid", 
+    "id": "5880b073c872c95565000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 642, 
+            "offsetInEndSection": 789, 
+            "text": "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26449414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1095, 
+            "offsetInEndSection": 1229, 
+            "text": "Idarucizumab and andexanet alfa are NOAC-specific reversal agents designed to reverse dabigatran and factor Xa inhibitors accordingly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26627486", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "Andexanet alfa for the reversal of Factor Xa inhibitor related anticoagulation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26686866", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Andexanet alfa is a specific reversal agent for Factor Xa inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26686866", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 238, 
+            "offsetInEndSection": 440, 
+            "text": "In ex vivo, animal, and volunteer human studies, andexanet alfa (AnXa) was able to dose-dependently reverse Factor Xa inhibition and restore thrombin generation for the duration of drug administration. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26686866", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1198, 
+            "offsetInEndSection": 1330, 
+            "text": "Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26872887", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 746, 
+            "offsetInEndSection": 1034, 
+            "text": "Andexanet alfa is a factor Xa (FXa) decoy that binds to direct and indirect FXa inhibitors. In Phase III trials in healthy volunteers, andexanet alfa reduced anti-FXa activity by more than 90%, reduced the concentration of unbound direct FXa inhibitor, and inhibited thrombin generation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27147456", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 734, 
+            "offsetInEndSection": 938, 
+            "text": "Andexanet alfa (r-Antidote, PRT064445; Portola Pharmaceuticals) is a truncated form of enzymatically inactive factor Xa, which binds and reverses the anticoagulant action of the factor Xa inhibitors (e.g.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25494843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1308, 
+            "offsetInEndSection": 1601, 
+            "text": "Recent results from phase 3/4 studies demonstrate efficacy for an antidote to dabigatran (idarucizumab, a monoclonal antibody fragment with specificity for dabigatran) and an antidote to factor Xa inhibitors (andexanet alfa, a recombinant and inactive form of factor Xa that binds inhibitors).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27913536", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "176\u2003Andexanet Alfa: An Investigational Universal Antidote for Reversal of Anticoagulation of Factor Xa Inhibitors in Healthy Human Volunteers.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27399455", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1190, 
+            "offsetInEndSection": 1322, 
+            "text": "Andexanet alfa is an antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor enoxaparin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26872887", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 638, 
+            "offsetInEndSection": 785, 
+            "text": "Andexanet alfa is a class-specific antidote targeted to reverse the oral direct factor Xa inhibitors as well as the indirect inhibitor, enoxaparin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26449414", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 282, 
+            "text": "Andexanet alfa (AnXa), a recombinant modified FXa, is an investigational specific antidote for FXa inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27399455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 352, 
+            "text": "With Idarucizumab and Andexanet Alfa, specific antidotes have been developed against both, direct thrombin inhibitors as well as direct Factor Xa inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26069913", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 197, 
+            "offsetInEndSection": 354, 
+            "text": "With Idarucizumab and Andexanet Alfa, specific antidotes have been developed against both, direct thrombin inhibitors as well as direct Factor Xa inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26069913", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 63, 
+            "text": "Andexanet Alfa for the Reversal of Factor Xa Inhibitor Activity", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26559317", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 959, 
+            "offsetInEndSection": 1212, 
+            "text": "Specific reversal agents are currently under development (idarucizumab for dabigatran, andexanet alfa for Xa inhibitors, and PER977 for both Xa- and thrombin inhibitors), which will facilitate clinical management of severe bleeding and emergency surgery", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25431993", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 197, 
+            "offsetInEndSection": 355, 
+            "text": "With Idarucizumab and Andexanet Alfa, specific antidotes have been developed against both, direct thrombin inhibitors as well as direct Factor Xa inhibitors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26069913", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 739, 
+            "offsetInEndSection": 981, 
+            "text": "Andexanet alfa (r-Antidote, PRT064445; Portola Pharmaceuticals) is a truncated form of enzymatically inactive factor Xa, which binds and reverses the anticoagulant action of the factor Xa inhibitors (e.g.: rivaroxaban, apixaban and edoxaban).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25494843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 174, 
+            "offsetInEndSection": 284, 
+            "text": "Andexanet alfa (AnXa), a recombinant modified FXa, is an investigational specific antidote for FXa inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27399455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1077, 
+            "offsetInEndSection": 1389, 
+            "text": "Andexanet alfa (PRT064445), a specific reversal agent against factor Xa inhibitors, showed a complete reversal of anticoagulant activity of apixaban and rivaroxaban within minutes after administration without adverse effects in two recently completed parallel phase III trials ANNEXA-A and ANNEXA-R respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27082776", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1673, 
+            "offsetInEndSection": 1968, 
+            "text": "New antidotes are being explored, including a mouse monoclonal antibody to dabigatran; andexanet alfa, a potential universal factor Xa inhibitor reversal agent; and a synthetic small molecule (PER977) that may be effective for the reversal of factor Xa inhibitors and direct thrombin inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25516695", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Andexanet Alfa for the Reversal of Factor Xa Inhibitor Activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26559317", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 699, 
+            "offsetInEndSection": 857, 
+            "text": "Currently, two potential reversal agents for oral direct factor Xa inhibitors (andexanet alfa and ciraparantag) are at various stages of clinical development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27895055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "176\u2003Andexanet Alfa: An Investigational Universal Antidote for Reversal of Anticoagulation of Factor Xa Inhibitors in Healthy Human Volunteers.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27399455", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1315, 
+            "offsetInEndSection": 1608, 
+            "text": "Recent results from phase 3/4 studies demonstrate efficacy for an antidote to dabigatran (idarucizumab, a monoclonal antibody fragment with specificity for dabigatran) and an antidote to factor Xa inhibitors (andexanet alfa, a recombinant and inactive form of factor Xa that binds inhibitors).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27913536", 
+            "endSection": "abstract"
+        }
+    ]
+}

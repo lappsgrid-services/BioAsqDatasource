@@ -1,0 +1,128 @@
+{
+    "body": "Do histone variant mH2A (macro-H2A) levels decrease upon differentiation?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21738686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22449192", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23595991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23077180", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23463008", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21552206"
+    ], 
+    "ideal_answer": [
+        "MacroH2A.1 was found to be present at low levels upon the establishment of pluripotency in the inner cell mass and epiblast, but it was highly enriched in the trophectoderm and differentiated somatic cells later in mouse development. Chromatin immunoprecipitation revealed that macroH2A.1 is incorporated in the chromatin of regulatory regions of pluripotency genes in somatic cells such as mouse embryonic fibroblasts and adult neural stem cells, but not in embryonic stem cells. In addition, overexpression of macroH2A isoforms prevented efficient reprogramming of epiblast stem cells to na\u00efve pluripotency.", 
+        "1 was found to be present at low levels upon the establishment of pluripotency in the inner cell mass and epiblast, but it was highly enriched in the trophectoderm and differentiated somatic cells later in mouse development.", 
+        "Histone variant macroH2A confers resistance to nuclear reprogramming Histone variant macroH2A marks embryonic differentiation in vivo and acts as an epigenetic barrier to induced pluripotency.", 
+        "Resistance to reprogramming is associated with incorporation of the histone variant macroH2A, which is retained on the Xi of differentiated cells, but absent from the Xi of EpiSCs. The histone variant macroH2A acts as a component of an epigenetic multilayer that heritably maintains the silent X chromosome and has been shown to restrict tumor development.", 
+        "Through manipulation of macroH2A isoforms, we further demonstrate that macroH2A2 is the predominant barrier to reprogramming. In particular, we find macroH2A isoforms to be highly enriched at target genes of the K27me3 demethylase, Utx, which are reactivated early in iPS reprogramming", 
+        "MacroH2A.1 was found to be present at low levels upon the establishment of pluripotency in the inner cell mass and epiblast, but it was highly enriched in the trophectoderm and differentiated somatic cells later in mouse development. Histone variant macroH2A marks embryonic differentiation in vivo and acts as an epigenetic barrier to induced pluripotency."
+    ], 
+    "exact_answer": "no", 
+    "type": "yesno", 
+    "id": "58ab1f6c9ef3c34033000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 268, 
+            "offsetInEndSection": 393, 
+            "text": "Through manipulation of macroH2A isoforms, we further demonstrate that macroH2A2 is the predominant barrier to reprogramming.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 532, 
+            "offsetInEndSection": 691, 
+            "text": "In particular, we find macroH2A isoforms to be highly enriched at target genes of the K27me3 demethylase, Utx, which are reactivated early in iPS reprogramming", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 880, 
+            "offsetInEndSection": 1121, 
+            "text": " Therefore, we propose that macroH2A isoforms provide a redundant silencing layer or terminal differentiation 'lock' at critical pluripotency genes that presents as an epigenetic barrier when differentiated cells are challenged to reprogram.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23463008", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 68, 
+            "text": "Histone variant macroH2A confers resistance to nuclear reprogramming", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21552206", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 871, 
+            "offsetInEndSection": 1051, 
+            "text": "Resistance to reprogramming is associated with incorporation of the histone variant macroH2A, which is retained on the Xi of differentiated cells, but absent from the Xi of EpiSCs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21552206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 580, 
+            "offsetInEndSection": 758, 
+            "text": "We highlight the role of macroH2A in the establishment and maintenance of differentiated states and we discuss its still poorly recognized function in transcriptional activation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22449192", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "Histone variant macroH2A marks embryonic differentiation in vivo and acts as an epigenetic barrier to induced pluripotency.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23077180", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 603, 
+            "offsetInEndSection": 836, 
+            "text": "MacroH2A.1 was found to be present at low levels upon the establishment of pluripotency in the inner cell mass and epiblast, but it was highly enriched in the trophectoderm and differentiated somatic cells later in mouse development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23077180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 837, 
+            "offsetInEndSection": 1083, 
+            "text": "Chromatin immunoprecipitation revealed that macroH2A.1 is incorporated in the chromatin of regulatory regions of pluripotency genes in somatic cells such as mouse embryonic fibroblasts and adult neural stem cells, but not in embryonic stem cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23077180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1326, 
+            "offsetInEndSection": 1455, 
+            "text": "In addition, overexpression of macroH2A isoforms prevented efficient reprogramming of epiblast stem cells to na\u00efve pluripotency. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23077180", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Macro histone variants are critical for the differentiation of human pluripotent cells", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23595991", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 356, 
+            "text": "Here we show that the knockdown of macro histone variants impaired the in vitro and in vivo differentiation of human pluripotent cells, likely through defects in the silencing of pluripotency-related genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23595991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 802, 
+            "offsetInEndSection": 982, 
+            "text": "Furthermore, male and female mH2A-deficient ESCs proliferate normally under pluripotency culture conditions, and respond to several standard differentiation procedures efficiently.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21738686", 
+            "endSection": "abstract"
+        }
+    ]
+}

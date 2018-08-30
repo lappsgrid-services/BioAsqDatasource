@@ -1,0 +1,240 @@
+{
+    "body": "What is the role of deadenylases in the cell?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15247430", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19307292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23274303", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18056425", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21984185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18625844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22614729", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22834816", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12590136", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15475613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23224971", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23221646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23388391", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14970390", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22955276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17090538", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18334997", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21965533", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23496118", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19111172", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23019593"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_443256444B36007", 
+            "o": "mRNA deadenylase"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503331333834001E", 
+            "o": "Cytoplasmic deadenylase"
+        }
+    ], 
+    "ideal_answer": [
+        "The 3'-poly(A) tail, found on mRNAs, is enzymatically shortened by a process referred to as \"deadenylation\" which is carried out by deadenylases. Deadenylases are magnesium dependent exoribonucleases that specifically catalyze the degradation of eukaryotic mRNA poly(A) tail in the 3'-->5' direction with the release of 5'-AMP as the product. They consist of three potential RNA-binding domains: the catalytic nuclease domain, the R3H domain and the RRM domain."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CNOT6_HUMAN"
+    ], 
+    "type": "summary", 
+    "id": "5162af0f298dcd4e51000045", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 9, 
+            "offsetInEndSection": 149, 
+            "text": "Deadenylation of eukaryotic mRNA is a mechanism critical for mRNA function by influencing mRNA turnover and efficiency of protein synthesis.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23496118", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 696, 
+            "text": "In short, PARN is a divalent metal-ion dependent poly(A)-specific, processive and cap-interacting 3'-5' exoribonuclease that efficiently degrades poly(A) tails of eukaryotic mRNAs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23496118", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Distinct roles of the R3H and RRM domains in poly(A)-specific ribonuclease structural integrity and catalysis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23388391", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 378, 
+            "text": "Deadenylases specifically catalyze the degradation of eukaryotic mRNA poly(A) tail in the 3'- to 5'-end direction with the release of 5'-AMP as the product. Among the deadenylase family, poly(A)-specific ribonuclease (PARN) is unique in its domain composition, which contains three potential RNA-binding domains: the catalytic nuclease domain, the R3H domain and the RRM domain.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23388391", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "miRNA-mediated deadenylation is orchestrated by GW182 through two conserved motifs that interact with CCR4-NOT.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21984185", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 130, 
+            "offsetInEndSection": 224, 
+            "text": "The rate-limiting step of mRNA degradation is the removal of the poly(A) tail by deadenylases.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22614729", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 668, 
+            "offsetInEndSection": 819, 
+            "text": "Purified PUM complexes were found to contain subunits of the CCR4-NOT (CNOT) complex, which contains multiple enzymes that catalyze mRNA deadenylation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955276", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1192, 
+            "offsetInEndSection": 1381, 
+            "text": "These findings demonstrate a conserved mechanism of PUF-mediated repression via direct recruitment of the CCR4-POP2-NOT deadenylase leading to translational inhibition and mRNA degradation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955276", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "The activity and selectivity of fission yeast Pop2p are affected by a high affinity for Zn2+ and Mn2+ in the active site.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19307292", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 233, 
+            "text": "In eukaryotic organisms, initiation of mRNA turnover is controlled by progressive shortening of the poly-A tail, a process involving the mega-Dalton Ccr4-Not complex and its two associated 3'-5' exonucleases, Ccr4p and Pop2p (Caf1p).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19307292", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 421, 
+            "offsetInEndSection": 698, 
+            "text": "Here, we show biochemically and structurally that fission yeast (Schizosaccharomyces pombe) Pop2p prefers Mn(2+) and Zn(2+) over Mg(2+) at the concentrations of the ions found inside cells and that the identity of the ions in the active site affects the activity of the enzyme.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19307292", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "The 3'-poly(A) tail, found on virtually all mRNAs, is enzymatically shortened by a process referred to as \"deadenylation.\" Deadenylation is a widespread means of controlling mRNA stability and translation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19111172", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Dynamic changes of the lengths of mRNA poly(A) tails are catalysed by diverse deadenylase enzymes.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18334997", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 241, 
+            "text": "In eukaryotes, shortening of the 3'-poly(A) tail is the rate-limiting step in the degradation of most mRNAs, and two major mRNA deadenylase complexes--Caf1-Ccr4 and Pan2-Pan3--play central roles in this process, referred to as deadenylation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18056425", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 317, 
+            "offsetInEndSection": 471, 
+            "text": "Previously, we demonstrated that eukaryotic releasing factor eRF3 mediates deadenylation and decay of mRNA in a manner coupled to translation termination.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18056425", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "PUF protein-mediated deadenylation is catalyzed by Ccr4p.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17090538", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 342, 
+            "text": "Deadenylation of mRNA is often the first and rate-limiting step in mRNA decay. PARN, a poly(A)-specific 3' --> 5' ribonuclease which is conserved in many eukaryotes, has been proposed to be primarily responsible for such a reaction, yet the importance of the PARN function at the whole-organism level has not been demonstrated in any species.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15247430", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 586, 
+            "offsetInEndSection": 776, 
+            "text": "The trypanosomal deadenylase activity is a 3'-->5' exonuclease specific for adenylate residues, generates 5'-AMP as a product, is magnesium dependent, and is inhibited by neomycin B sulfate.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14970390", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Identification of multiple RNA features that influence CCR4 deadenylation activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12590136", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "The CCR4 family proteins are 3'-5'-deadenylases that function in the first step of the degradation of poly(A) mRNA.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12590136", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "PARN, Nocturnin and Angel are three of the multiple deadenylases that have been described in eukaryotic cells.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23274303", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 953, 
+            "text": "Thus, deadenylation and the participating deadenylases are not simply required for preparing mRNA substrates; they play an indispensable role both structurally and functionally in P-body formation and regulation.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23224971", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1293, 
+            "offsetInEndSection": 1597, 
+            "text": "In this context, the wide repertoire of RBPs and molecules that regulate PARN activity, together with the established role of deadenylases in miRNA-mediated regulation of mRNA expression, suggest that mRNA turnover is more complex than it was previously thought and PARN holds a key role in this process.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22834816", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 330, 
+            "text": "A set of multiple poly(A)-specific deadenylases has been identified, some, if not most, of which are likely to play a role in the key first step of mRNA turnover--the regulated shortening of the poly(A) tail.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15475613", 
+            "endSection": "sections.0"
+        }
+    ]
+}

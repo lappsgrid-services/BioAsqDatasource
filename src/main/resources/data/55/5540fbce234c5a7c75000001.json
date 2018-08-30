@@ -1,0 +1,201 @@
+{
+    "body": "Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15149326", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24477641", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23452232", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11262416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10938088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12105396", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19433452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23880665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23070014", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24323530", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16782460", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23404999", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16209346"
+    ], 
+    "ideal_answer": [
+        "Cytosolic proteins carrying the KFERQ motif (a specific lysosomal import consensus sequence) are directed to a selective form of lysosomal degradation, called chaperone-mediated autophagy (CMA), as chaperone protein Hsc73 and other chaperones are involved in this process."
+    ], 
+    "exact_answer": [
+        "chaperone-mediated autophagy (CMA)"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001343", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006914", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D054730"
+    ], 
+    "type": "factoid", 
+    "id": "5540fbce234c5a7c75000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 304, 
+            "offsetInEndSection": 428, 
+            "text": "Chaperone-mediated autophagy (CMA) is a selective form of lysosomal degradation targeting proteins carrying the KFERQ motif.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23452232", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 354, 
+            "text": "The significance of the receptor glycoprotein lamp2a in the chaperone-mediated autophagy of cytosolic proteins with KFERQ motif has been described in details as well as the chaperone protein Hsc73 and other chaperones involved in this process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 448, 
+            "text": "We investigated chaperone-mediated autophagy, a lysosomal import pathway that depends on the 73-kDa heat shock cognate protein and allows the degradation of proteins containing a specific lysosomal import consensus sequence (KFERQ motif). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11262416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 109, 
+            "offsetInEndSection": 353, 
+            "text": "The significance of the receptor glycoprotein lamp2a in the chaperone-mediated autophagy of cytosolic proteins with KFERQ motif has been described in details as well as the chaperone protein Hsc73 and other chaperones involved in this process.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 206, 
+            "offsetInEndSection": 445, 
+            "text": "We investigated chaperone-mediated autophagy, a lysosomal import pathway that depends on the 73-kDa heat shock cognate protein and allows the degradation of proteins containing a specific lysosomal import consensus sequence (KFERQ motif).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11262416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 295, 
+            "offsetInEndSection": 420, 
+            "text": "Chaperone-mediated autophagy (CMA) is a selective form of lysosomal degradation targeting proteins carrying the KFERQ motif.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23452232", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Chaperone-mediated autophagy (CMA) is a selective mechanism for the degradation of soluble cytosolic proteins bearing the sequence KFERQ.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23404999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1085, 
+            "offsetInEndSection": 1234, 
+            "text": "The abundance of proteins containing that chaperone-mediated autophagy KFERQ signal motif increased 38% and individual KFERQ containing proteins [e.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15149326", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 977, 
+            "offsetInEndSection": 1175, 
+            "text": "Furthermore, four annexins containing KFERQ-like sequences, annexins I, II, IV, and VI, are enriched in lysosomes with high chaperone-mediated autophagy activity as expected for substrate proteins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10938088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 739, 
+            "offsetInEndSection": 861, 
+            "text": "Using isolated lysosomes, only the annexins containing KFERQ-like sequences are degraded by chaperone mediated-autophagy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10938088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1157, 
+            "offsetInEndSection": 1425, 
+            "text": "Macroautophagy is followed by chaperone-mediated autophagy (CMA), in which Hsc70 (Heat shock cognate 70) selectively binds proteins with exposed KFERQ motifs and pushes them inside lysosomes through the LAMP-2A (Lysosome-associated membrane protein type 2A) receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23070014", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1165, 
+            "offsetInEndSection": 1432, 
+            "text": "Macroautophagy is followed by chaperone-mediated autophagy (CMA), in which Hsc70 (Heat shock cognate 70) selectively binds proteins with exposed KFERQ motifs and pushes them inside lysosomes through the LAMP-2A (Lysosome-associated membrane protein type 2A) receptor.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23070014", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "AIMS: Chaperone-mediated autophagy (CMA) is a selective mechanism for the degradation of soluble cytosolic proteins bearing the sequence KFERQ.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23404999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 447, 
+            "text": "We investigated chaperone-mediated autophagy, a lysosomal import pathway that depends on the 73-kDa heat shock cognate protein and allows the degradation of proteins containing a specific lysosomal import consensus sequence (KFERQ motif).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11262416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 111, 
+            "offsetInEndSection": 353, 
+            "text": "The significance of the receptor glycoprotein lamp2a in the chaperone-mediated autophagy of cytosolic proteins with KFERQ motif has been described in details as well as the chaperone protein Hsc73 and other chaperones involved in this process", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16209346", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "Chaperone-mediated autophagy (CMA) is a selective mechanism for the degradation of soluble cytosolic proteins bearing the sequence KFERQ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23404999", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 767, 
+            "offsetInEndSection": 946, 
+            "text": "In cell culture, growth factors suppress the lysosomal pathway of chaperone-mediated autophagy leading to the accumulation of specific cytoplasmic proteins containing KFERQ motifs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12105396", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 446, 
+            "text": "We investigated chaperone-mediated autophagy, a lysosomal import pathway that depends on the 73-kDa heat shock cognate protein and allows the degradation of proteins containing a specific lysosomal import consensus sequence (KFERQ motif)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11262416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1097, 
+            "offsetInEndSection": 1346, 
+            "text": "The abundance of proteins containing that chaperone-mediated autophagy KFERQ signal motif increased 38% and individual KFERQ containing proteins [e.g., M2 pyruvate kinase, glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and pax2] were more abundant", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15149326", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1182, 
+            "offsetInEndSection": 1303, 
+            "text": "These results provide striking evidence for the importance of KFERQ motifs in substrates of chaperone-mediated autophagy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10938088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1165, 
+            "offsetInEndSection": 1431, 
+            "text": "Macroautophagy is followed by chaperone-mediated autophagy (CMA), in which Hsc70 (Heat shock cognate 70) selectively binds proteins with exposed KFERQ motifs and pushes them inside lysosomes through the LAMP-2A (Lysosome-associated membrane protein type 2A) receptor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23070014", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "body": "Which technique led to the elucidation of the role of HOXD10 in regulating lymphatic endothelial responses to VEGF-C?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27199372"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1415684", 
+            "o": "HOXD10"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/#_5032383335380014", 
+            "o": "HOXD10"
+        }
+    ], 
+    "ideal_answer": [
+        "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C.", 
+        "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C", 
+        "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C. "
+    ], 
+    "exact_answer": [
+        "DeepCAGE"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/VEGFC_MOUSE", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040262", 
+        "http://www.uniprot.org/uniprot/HXD10_SAGLB", 
+        "http://www.uniprot.org/uniprot/HXD10_HUMAN", 
+        "http://www.uniprot.org/uniprot/HXD10_HETFR", 
+        "http://www.uniprot.org/uniprot/HXD10_LAGLA", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004729", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D042582", 
+        "http://www.uniprot.org/uniprot/VEGFC_RAT", 
+        "http://www.biosemantics.org/jochem#4263666", 
+        "http://www.uniprot.org/uniprot/VEGFC_HUMAN", 
+        "http://www.uniprot.org/uniprot/HXD10_CHICK", 
+        "http://www.uniprot.org/uniprot/HXD10_PANTR", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D042442", 
+        "http://amigo.geneontology.org/amigo/term/GO:0036328"
+    ], 
+    "type": "factoid", 
+    "id": "5881f627713cbdfd3d000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27199372", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27199372", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 121, 
+            "text": "DeepCAGE transcriptomics identify HOXD10 as a transcription factor regulating lymphatic endothelial responses to VEGF-C.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27199372", 
+            "endSection": "title"
+        }
+    ]
+}

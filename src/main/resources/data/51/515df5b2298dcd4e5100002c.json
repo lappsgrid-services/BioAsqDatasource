@@ -1,0 +1,110 @@
+{
+    "body": "Are there clinical trials on stem cells in multiple sclerosis", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23124791", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21366911", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23197667", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18562508", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12376881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22561409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23331685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20413685", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22359549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21440544", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15764028"
+    ], 
+    "ideal_answer": [
+        "Yes.  Human multipotent mesenchymal stem cell (MSC) therapies are currently being tested in clinical trials for multiple sclerosis. Several small pilot clinical trials in subjects with advanced MS have demonstrated that MSC administration is safe and provided an early signal of clinical effectiveness. The current aim of clinicians and scientists interested in the development of MSC-based strategies for the treatment of MS is to have the ultimate demonstration in large clinical trials that MSC can inhibit CNS inflammation and foster tissue repair."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013234", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009103", 
+        "http://www.disease-ontology.org/api/metadata/DOID:2377", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D049109"
+    ], 
+    "type": "yesno", 
+    "id": "515df5b2298dcd4e5100002c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1033, 
+            "offsetInEndSection": 1180, 
+            "text": "Cells are generally given intravenously. Multiple sclerosis, rheumatoid arthritis and lupus have been successfully treated in human clinical trials", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23331685", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 242, 
+            "text": "Human multipotent mesenchymal stem cell (MSC) therapies are currently being tested in clinical trials for Crohn's disease, multiple sclerosis, graft-versus-host disease, type 1 diabetes, bone fractures, cartilage damage, and cardiac diseases.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23197667", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 1028, 
+            "text": "Based on these results, several small pilot clinical trials in subjects with advanced MS have demonstrated that MSC administration is safe and provided an early signal of clinical effectiveness. The current aim of clinicians and scientists interested in the development of MSC-based strategies for the treatment of MS is to have the ultimate demonstration in large clinical trials that MSC can inhibit CNS inflammation and foster tissue repair", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23124791", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Mesenchymal stem cells (MSC) promote functional recovery in experimental models of central nervous system (CNS) pathology and are currently being tested in clinical trials for stroke, multiple sclerosis and CNS injury.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22561409", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 319, 
+            "text": "Autologous bone marrow stromal cells (BMSCs) offer significant practical advantages for potential clinical applications in multiple sclerosis (MS). Based on recent experimental data, a number of clinical trials have been designed for the intravenous (IV) and/or intrathecal (ITH) administration of BMSCs in MS patients.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21440544", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 520, 
+            "text": "Fingolimod is a S1P receptor modulator in MS clinical trials due to systemic anti-inflammatory properties, yet may impact cells within the CNS by crossing the blood-brain barrier.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20413685", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 123, 
+            "offsetInEndSection": 477, 
+            "text": "Their development in vitro and their use in vivo in animal models of degenerative neurological disease and recent first efforts in human clinical trials were the topics of a recent international meeting sponsored by the Multiple Sclerosis International Federation and the National Multiple Sclerosis Society on \"Stem Cells & MS: Prospects and Strategies\"", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18562508", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 161, 
+            "offsetInEndSection": 287, 
+            "text": "Here we discuss key observations and questions emerging from clinical trials of hematopoietic stem cell transplantation for MS", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15764028", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 457, 
+            "offsetInEndSection": 731, 
+            "text": "Another possibility to achieve remyelination is the transplantation of myelinating cells into the central nervous system. Proof of principle and demonstration of the functionality were shown in numerous experiments, and a first clinical trial in patients with MS has started", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12376881", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 850, 
+            "offsetInEndSection": 997, 
+            "text": "This first trial will show if cell transplantation is a feasible concept in MS and whether the transplanted cells will survive and form new myelin.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12376881", 
+            "endSection": "sections.0"
+        }
+    ]
+}

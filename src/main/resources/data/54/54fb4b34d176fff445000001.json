@@ -1,0 +1,212 @@
+{
+    "body": "Which transcription factors (TFs) participate in the formation of the interferon-beta (IFN-b) enhanceosome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10747925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19944700", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15510218", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10024886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9770462", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8548797", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10357819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9809067", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9659924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10848607", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18420790", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9659909"
+    ], 
+    "ideal_answer": [
+        "Transcriptional activation of the IFN beta gene in response to virus infection requires the assembly of an enhanceosome, consisting of the transcriptional activators NF-kappa B, IRF1, ATF2/c-Jun, and the architectural protein HMG I(Y).  Transcriptional activation of the human interferon-beta (IFN-beta) gene by virus infection requires the assembly of a higher order nucleoprotein complex, the enhanceosome, which consists of the transcriptional activators NF-kappa B (p50/p65), ATF-2/c-jun, IRF-3 and IRF-7, architectural protein HMGI(Y), and the coactivators p300 and CBP.   ", 
+        "Transcriptional activation of the human interferon-beta (IFN-beta) gene by virus infection requires the assembly of a higher order nucleoprotein complex, the enhanceosome, which consists of the transcriptional activators NF-kappa B (p50/p65), ATF-2/c-jun, IRF-3 and IRF-7, architectural protein HMGI(Y), and the coactivators p300 and CBP. A functional interferon-beta gene enhanceosome was assembled in vitro using the purified recombinant transcriptional activator proteins ATF2/c-JUN, IRF1, and p50/p65 of NF-kappa B. However, HMG I(Y) plays an essential role in the assembly and function of the IFN beta gene enhanceosome."
+    ], 
+    "exact_answer": [
+        [
+            "NF-kappa B (p50/p65)"
+        ], 
+        [
+            "ATF-2"
+        ], 
+        [
+            "c-jun"
+        ], 
+        [
+            "IRF-3"
+        ], 
+        [
+            "IRF-7"
+        ], 
+        [
+            "IRF-1"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016899", 
+        "http://www.uniprot.org/uniprot/IFN_ANAPL", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034206", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D014157", 
+        "http://www.biosemantics.org/jochem#4250284"
+    ], 
+    "type": "list", 
+    "id": "54fb4b34d176fff445000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "The dimer formed by the ATF-2 and c-Jun transcription factors is one of the main components of the human interferon-beta enhanceosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19944700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 388, 
+            "offsetInEndSection": 614, 
+            "text": "The induction of IFN transcription resulted from the activation of the components of the IFN-beta enhanceosome, i.e. IFN regulatory factor (IRF) 3, nuclear factor (NF)-kappaB, activating transcription factor (ATF)-2 and c-Jun.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18420790", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 288, 
+            "text": "Transcriptional activation of the interferon-beta (IFN-beta) gene requires assembly of an enhanceosome containing the transcription factors ATF-2/c-Jun, IRF-3/IRF-7, NF-kappaB and HMGI(Y). These factors cooperatively bind a composite DNA site and activate expression of the IFN-beta gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15510218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 236, 
+            "offsetInEndSection": 457, 
+            "text": "Here we report that within the IFN-beta enhanceosome the ATF-2-c-jun heterodimer binds in a specific orientation, which is required for assembly of a complex between ATF-2-c-jun and interferon regulatory factor 3 (IRF-3).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10848607", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 332, 
+            "text": " Here, we identified a small molecule that induces the assembly of the interferon-beta (IFN-beta) enhanceosome by stimulating all the enhancer-binding activator proteins: ATF2/c-JUN, IRF3, and p50/p65 of NF-kappaB.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10747925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 334, 
+            "text": "Transcriptional activation of the virus inducible enhancer of the human interferon-beta (IFN-beta) gene in response to virus infection requires the assembly of an enhanceosome, consisting of the transcriptional activators NF-kappaB, ATF-2/c-Jun, IRFs and the architectural protein of the mammalian high mobility group I(Y) [HMG I(Y)].", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10357819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 335, 
+            "offsetInEndSection": 818, 
+            "text": "Here, we demonstrate that the first step in enhanceosome assembly, i.e. HMG I(Y)-dependent recruitment of NF-kappaB and ATF-2/c-Jun to the enhancer, is facilitated by discrete regions of HMG I and is mediated by allosteric changes induced in the DNA by HMG I(Y) and not by protein-protein interactions between HMG I(Y) and these proteins. However, we show that completion of the enhanceosome assembly process requires protein-protein interactions between HMG I(Y) and the activators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10357819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 339, 
+            "text": "Transcriptional activation of the human interferon-beta (IFN-beta) gene by virus infection requires the assembly of a higher order nucleoprotein complex, the enhanceosome, which consists of the transcriptional activators NF-kappa B (p50/p65), ATF-2/c-jun, IRF-3 and IRF-7, architectural protein HMGI(Y), and the coactivators p300 and CBP. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10024886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 316, 
+            "text": "The transcriptional coactivators CBP and P/CAF are required for activation of transcription from the IFN beta enhanceosome. We show that CBP and P/CAF acetylate HMG I(Y), the essential architectural component required for enhanceosome assembly, at distinct lysine residues, causing distinct effects on transcription.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9809067", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 389, 
+            "text": "The transcriptional activity of an in vitro assembled human interferon-beta gene enhanceosome is highly synergistic. This synergy requires five distinct transcriptional activator proteins (ATF2/c-JUN, interferon regulatory factor 1, and p50/p65 of NF-kappaB), the high mobility group protein HMG I(Y), and the correct alignment of protein-binding sites on the face of the DNA double helix.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9770462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 798, 
+            "offsetInEndSection": 1042, 
+            "text": "In addition, we provide evidence that recruitment of the holoenzyme by the enhanceosome is due, at least in part, to interactions between the enhanceosome and the transcriptional coactivator CREB, cAMP responsive element binding protein (CBP). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9770462", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 235, 
+            "text": "Transcriptional activation of the IFN beta gene in response to virus infection requires the assembly of an enhanceosome, consisting of the transcriptional activators NF-kappa B, IRF1, ATF2/c-Jun, and the architectural protein HMG I(Y).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9659924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 785, 
+            "text": "Transcriptional synergy requires recruitment of the CBP/p300 coactivator to the enhanceosome, via a new activating surface assembled from the novel p65 domain and the activation domains of all of the activators.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9659924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 411, 
+            "text": "A functional interferon-beta gene enhanceosome was assembled in vitro using the purified recombinant transcriptional activator proteins ATF2/c-JUN, IRF1, and p50/p65 of NF-kappa B. Maximal levels of transcriptional synergy between these activators required the specific interactions with the architectural protein HMG I(Y) and the correct helical phasing of the binding sites of these proteins on the DNA helix.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9659909", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 312, 
+            "text": "We present evidence that transcriptional activation of the human interferon-beta (IFN beta) gene requires the assembly of a higher order transcription enhancer complex (enhanceosome). This multicomponent complex includes at least three distinct transcription factors and the high mobility group protein HMG I(Y).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8548797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 813, 
+            "text": "Thus, HMG I(Y) plays an essential role in the assembly and function of the IFN beta gene enhanceosome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8548797", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "Transcriptional activation of the interferon-beta (IFN-beta) gene requires assembly of an enhanceosome containing the transcription factors ATF-2/c-Jun, IRF-3/IRF-7, NF-kappaB and HMGI(Y).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15510218", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "A functional interferon-beta gene enhanceosome was assembled in vitro using the purified recombinant transcriptional activator proteins ATF2/c-JUN, IRF1, and p50/p65 of NF-kappa B", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9659909", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 337, 
+            "text": "Transcriptional activation of the human interferon-beta (IFN-beta) gene by virus infection requires the assembly of a higher order nucleoprotein complex, the enhanceosome, which consists of the transcriptional activators NF-kappa B (p50/p65), ATF-2/c-jun, IRF-3 and IRF-7, architectural protein HMGI(Y), and the coactivators p300 and CBP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10024886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "Transcriptional activation of the IFN beta gene in response to virus infection requires the assembly of an enhanceosome, consisting of the transcriptional activators NF-kappa B, IRF1, ATF2/c-Jun, and the architectural protein HMG I(Y)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9659924", 
+            "endSection": "abstract"
+        }
+    ]
+}

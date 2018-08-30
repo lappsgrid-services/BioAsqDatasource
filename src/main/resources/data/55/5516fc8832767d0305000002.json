@@ -1,0 +1,190 @@
+{
+    "body": "Is Dicer part of the RISC loading complex?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23511973", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23272173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24303839", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23424633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23550157", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23226452"
+    ], 
+    "triples": [
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/A0MQH0", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442", 
+            "o": "RNA-induced silencing complex"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_41304D5148300018", 
+            "o": "Endoribonuclease Dicer"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442", 
+            "o": "RISC complex"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/B3DLA6", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4233444C4136001C", 
+            "o": "Endoribonuclease Dicer"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q25BN1", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513235424E310017", 
+            "o": "Endoribonuclease Dicer"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q6TUI4", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136545549340018", 
+            "o": "Endoribonuclease Dicer"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q6TV19", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513654563139001C", 
+            "o": "Endoribonuclease Dicer"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/A0MQH0", 
+            "o": "http://purl.uniprot.org/go/0016442"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0016442", 
+            "o": "http://www.geneontology.org/go#GO:0016442"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0016442", 
+            "o": "RISC complex"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0016442", 
+            "o": "RNA-induced silencing complex"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/B3DLA6", 
+            "o": "http://purl.uniprot.org/go/0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q25BN1", 
+            "o": "http://purl.uniprot.org/go/0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q6TUI4", 
+            "o": "http://purl.uniprot.org/go/0016442"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q6TV19", 
+            "o": "http://purl.uniprot.org/go/0016442"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, Dicer is part of the RISC loading complex."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016442", 
+        "http://www.uniprot.org/uniprot/DCR1_SCHPO", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070578", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070922", 
+        "http://www.uniprot.org/uniprot/DICER_CHICK", 
+        "http://www.uniprot.org/uniprot/DICER_HUMAN", 
+        "http://www.uniprot.org/uniprot/DICER_CRIGR", 
+        "http://www.uniprot.org/uniprot/DICER_MOUSE", 
+        "http://www.uniprot.org/uniprot/DICER_BOVIN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D043244", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D034743"
+    ], 
+    "type": "yesno", 
+    "id": "5516fc8832767d0305000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 121, 
+            "offsetInEndSection": 336, 
+            "text": "Dicer is a component of the protein machinery (the RNA Induced Silencing Complex [RISC]) which is involved in catalyzing the formation of mature microRNAs from their precursors in the process of microRNA biogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24303839", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "RNA-induced silencing complex (RISC) Proteins PACT, TRBP, and Dicer are SRA binding nuclear receptor coregulators.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23550157", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 305, 
+            "text": "The cytoplasmic RNA-induced silencing complex (RISC) contains dsRNA binding proteins, including protein kinase RNA activator (PACT), transactivation response RNA binding protein (TRBP), and Dicer, that process pre-microRNAs into mature microRNAs (miRNAs) that target specific mRNA species for regulation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23550157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 761, 
+            "text": " Although the major RNAi pathway proteins are found in most subcellular compartments, the miRNA- and siRNA-loaded Ago2 populations co-sediment almost exclusively with the rER membranes, together with the RISC loading complex (RLC) factors Dicer, TAR RNA binding protein (TRBP) and protein activator of the interferon-induced protein kinase (PACT).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23511973", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 307, 
+            "text": "RNA interference (RNAi) is mediated by small interfering RNAs (siRNAs), which are liberated from double-stranded (ds)RNA precursors by Dicer and guide the RNA-induced silencing complex (RISC) to targets.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23424633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 510, 
+            "text": ". Dicer, an RNase III enzyme, plays a central role in the RNAi pathway by cleaving precursors of both of these classes of RNAs to form mature siRNAs and miRNAs, which are then loaded into the RNA-induced silencing complex (RISC). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23272173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 364, 
+            "offsetInEndSection": 616, 
+            "text": "Canonical siRNAs are 21 nucleotides (nt) in length and are loaded to the RNA Induced Silencing Complex when introduced into the cells, while longer siRNA molecules are first processed by endogenous Dicer and thus termed Dicer-substrate siRNA (DsiRNA). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23226452", 
+            "endSection": "abstract"
+        }
+    ]
+}

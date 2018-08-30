@@ -1,0 +1,47 @@
+{
+    "body": "What disease in Loxapine prominently used for?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22014696", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7914051"
+    ], 
+    "ideal_answer": [
+        "The best indication of loxapine is paranoid schizophrenia."
+    ], 
+    "exact_answer": [
+        "schizophrenia"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008152", 
+        "http://www.biosemantics.org/jochem#4090321", 
+        "http://www.biosemantics.org/jochem#4274767", 
+        "http://www.biosemantics.org/jochem#4122154"
+    ], 
+    "type": "factoid", 
+    "id": "52b2e409f828ad283c00000e", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 135, 
+            "text": "To describe the frequency and trends in the use of antipsychotics for adults with schizophrenia in Canada from 2005 to 2009.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22014696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 972, 
+            "text": "Antipsychotic recommendations were estimated using CDTI data in which schizophrenia was listed as the indication. RESULTS: First-generation antipsychotic (FGA) recommendations for adults with schizophrenia increased by 38% between 2005 and 2009, from 329 380 to 454 960 recommendations. There were notable increases in recommendations for chlorpromazine, loxapine, zuclopenthixol, and flupentixol.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22014696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1212, 
+            "text": "Loxapine has been prescribed in France since 1980. Its pharmacological profile is close to that of clozapine: it has dopamine (D2), histamine (H1), serotonin (5-HT2) and adrenergic (alpha 1)-blocking activities. Its best indication seems to be paranoid schizophrenia, although some data suggest bipolar action.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7914051", 
+            "endSection": "abstract"
+        }
+    ]
+}

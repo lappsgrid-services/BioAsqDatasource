@@ -1,0 +1,64 @@
+{
+    "body": "What is Uhl's anomaly?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26054127", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11227837", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26929879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24784726", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10611917"
+    ], 
+    "ideal_answer": [
+        "uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle.", 
+        "Uhl's anomaly is an evolutive disease leading to terminal right ventricular failure. Uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle.", 
+        "Uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle. Uhl's anomaly is an evolutive disease leading to terminal right ventricular failure. ", 
+        "Uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle. Uhl's anomaly is an evolutive disease leading to terminal right ventricular failure", 
+        "Uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D006330"
+    ], 
+    "type": "summary", 
+    "id": "58f4c22170f9fc6f0f000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 128, 
+            "text": "Uhl's anomaly is an extremely rare cardiac defect characterized by absence of the myocardium of the right ventricle.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26054127", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Uhl's anomaly is an evolutive disease leading to terminal right ventricular failure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24784726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Uhl anomaly is a rare form of congenital hypoplasia of the right ventricular myocardium.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26929879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 143, 
+            "text": "Uhl's anomaly was first reported by Uhl in 1952 and is characterized by congenital partial or complete absence of right ventricular myocardium.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11227837", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 141, 
+            "text": "Uhls anomaly was first reported by Uhl in 1952 and is characterized by congenital partial or complete absence of right ventricular myocardium", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11227837", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "body": "Is sumoylation implicated in myogenesis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16973431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24344126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23247248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25002400", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16631162", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17202138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16478538", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23637228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16966324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23754700"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18469770", 
+            "o": "D058207"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7814146", 
+            "o": "D024510"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, sumoylation is implicated in myogenesis.", 
+        "Yes,  protein sumoylation present in myoblasts is regulated in myogenesis."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D024510", 
+        "http://amigo.geneontology.org/amigo/term/GO:0016925", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058207"
+    ], 
+    "type": "yesno", 
+    "id": "56cca4da5795f9a73e000034", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Sentrin/small ubiquitin-like modifier (SUMO)-specific protease 2 (SENP2) has broad de-SUMOylation activities in vitro, which is essential for embryonic heart development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24344126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 413, 
+            "offsetInEndSection": 622, 
+            "text": "Silencing SENP2 can reduce myostatin expression and, therefore, promote myogenesis of skeletal muscle. These results reveal the important role of SENP2 in the regulation of myostatin expression and myogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24344126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 426, 
+            "text": "Overexpression of c-Ski/SnoN also induces skeletal muscle differentiation, but how c-Ski/SnoN function in myogenesis is largely unknown.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17202138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1028, 
+            "offsetInEndSection": 1293, 
+            "text": "Notably, loss of sumoylation in the Lys-50 site (via a Lys-to-Arg point mutation) potently activates muscle-specific gene expression and enhances myotube formation. Our study suggests a novel role for SUMO modification in the regulation of myogenic differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17202138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1104, 
+            "offsetInEndSection": 1415, 
+            "text": "Although this modification has little effect on SnoN repression of the plasminogen activator inhibitor-1 promoter and only modestly potentiates SnoN repression of the p21 promoter, SnoN sumoylation robustly augments the ability of SnoN to suppress transcription of the myogenesis master regulatory gene myogenin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16966324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1724, 
+            "offsetInEndSection": 1861, 
+            "text": "Our study also points to a physiological role for SnoN sumoylation in the control of myogenin expression in differentiating muscle cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16966324", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 592, 
+            "offsetInEndSection": 714, 
+            "text": "Here, we biochemically characterize SnoN sumoylation in detail and report the physiological function of the modification. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17202138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "An essential role of small ubiquitin-like modifier (SUMO)-specific Protease 2 in myostatin expression and myogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24344126", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 622, 
+            "text": "These results reveal the important role of SENP2 in the regulation of myostatin expression and myogenesis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24344126", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "The E3 SUMO ligase Nse2 regulates sumoylation and nuclear-to-cytoplasmic translocation of skNAC-Smyd1 in myogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25002400", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 157, 
+            "text": "Sumoylation of the basic helix-loop-helix transcription factor sharp-1 regulates recruitment of the histone methyltransferase G9a and function in myogenesis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23637228", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 637, 
+            "text": " We show that the overall load of sumoylated proteins present in myoblasts diminishes progressively throughout myogenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16631162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 869, 
+            "offsetInEndSection": 1059, 
+            "text": "These novel results suggest that protein sumoylation plays a pivotal role in myoblast differentiation and is required to regulate the activity of key targets downstream of MyoD and myogenin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16631162", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 435, 
+            "text": "a composite sequence motif has recently been identified that couples phosphorylation, sumoylation, and perhaps also deacetylation to control transcriptional repression in stress response, mitogen and nuclear hormone signaling, myogenesis, and neuronal differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16973431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 575, 
+            "offsetInEndSection": 904, 
+            "text": "Mutation of these SUMO acceptor sites in Sharp-1 does not impact its subcellular localization but attenuates its ability to act as a transcriptional repressor and inhibit myogenic differentiation. Consistently, co-expression of the SUMO protease SENP1 with wild type Sharp-1 abrogates Sharp-1-dependent inhibition of myogenesis. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23637228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Transforming growth factor-beta-independent regulation of myogenesis by SnoN sumoylation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17202138", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Ubiquitin Specific Protease 25 (USP25), a member of the deubiquitinase family, is involved in several disease-related signal pathways including myogenesis, immunity and protein degradation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23754700", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 918, 
+            "offsetInEndSection": 1317, 
+            "text": " In addition, we show that the skNAC interaction partner Smyd1 contains a putative sumoylation motif and is sumoylated in muscle cells, with depletion of Mms21/Nse2 leading to reduced concentrations of sumoylated Smyd1. Taken together, our data suggest that the function, specifically the balance between the nuclear and cytosolic roles, of the skNAC-Smyd1 complex might be regulated by sumoylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25002400", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "body": "Is the JNK pathway activated during liver regeneration?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18671679", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18382767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20207439", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21354444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21338344", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16797887", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11709497", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15970430", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12668975", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23035542", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17762881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20578144", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16242670"
+    ], 
+    "ideal_answer": [
+        "Yes, the Jun-N-terminal kinase (JNK) pathway is strongly activated after partial hepatectomy."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020935", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031099", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012038", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007254", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031098", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D048670", 
+        "http://www.uniprot.org/uniprot/JNK_DROME", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004705", 
+        "http://www.uniprot.org/uniprot/JNK_SUBDO", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008115"
+    ], 
+    "type": "yesno", 
+    "id": "53455e0caeec6fbd0700000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 130, 
+            "text": "analysis of the role of JNK signaling pathway in regulating cell proliferation and apoptosis of rat liver regeneration", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23035542", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1336, 
+            "offsetInEndSection": 1419, 
+            "text": "paths of JNK signaling pathway regulate cell proliferation and apoptosis in both LR", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23035542", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 72, 
+            "text": "c-jun is not mandatory for mouse hepatocyte proliferation ", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21354444", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 111, 
+            "text": "Mice lacking c-jun in the liver display impaired regeneration after partial hepatectomy (PH)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21354444", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 967, 
+            "offsetInEndSection": 1002, 
+            "text": "initial activity of the JNK pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21338344", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 558, 
+            "offsetInEndSection": 606, 
+            "text": "use of Drosophila for the study of regeneration ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21338344", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 950, 
+            "text": "Loss of macroautophagy led to overactivation of the c-Jun N-terminal kinase (JNK)/c-Jun signaling pathway that induced cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20578144", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 120, 
+            "text": "stress induced during intermittent selective clamping accelerates rat liver regeneration through JNK pathway", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20207439", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1139, 
+            "offsetInEndSection": 1186, 
+            "text": "JNK2 promotes injury after mouse LT via the MPT", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18671679", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 127, 
+            "text": "Jun N-terminal kinase 2 promotes graft injury via the mitochondrial permeability transition after mouse liver transplantation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18671679", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 101, 
+            "text": "add45beta promotes hepatocyte survival during liver regeneration in mice by modulating JNK signaling", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18382767", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1354, 
+            "offsetInEndSection": 1481, 
+            "text": "basis for JNK suppression during liver regeneration and identify Gadd45beta as a potential therapeutic target in liver diseases", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18382767", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 717, 
+            "offsetInEndSection": 869, 
+            "text": " genetic inactivation of the JNK pathway results in impaired proliferation of fetal hepatoblasts in vitro and defective adult liver regeneration in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17762881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 53, 
+            "offsetInEndSection": 178, 
+            "text": "enhancement of the activation of Jun N-terminal kinase and p38 mitogen-activated protein kinase caused by partial hepatectomy", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16797887", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1268, 
+            "offsetInEndSection": 1415, 
+            "text": " arsenite induced apoptosis in the hepatocytes in vivo, through the enhancement of the activation of JNK and p38 MAPK caused by partial hepatectomy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16797887", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 586, 
+            "offsetInEndSection": 647, 
+            "text": "Jun N-terminal kinase and p38 MAPK, but not Akt, was altered.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16242670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 119, 
+            "offsetInEndSection": 352, 
+            "text": "Although mechanical stress has been implicated in hepatic cirrhosis and liver regeneration following hepatectomy, the signaling pathway(s) that may be activated in hepatocytes in response to mechanical stress have not been determined", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16242670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1356, 
+            "offsetInEndSection": 1471, 
+            "text": " JNK, ERK and JAK2 inhibitors partially abrogated apoptosis and when used in combination reduced it to basal levels", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15970430", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1488, 
+            "offsetInEndSection": 1633, 
+            "text": "induction of CD40-mediated cholangiocyte apoptosis requires JAK2-mediated phosphorylation of STAT3 as well as sustained JNK1/2, ERK1/2 activation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15970430", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2, 
+            "offsetInEndSection": 95, 
+            "text": "Jun-N-terminal kinase drives cyclin D1 expression and proliferation during liver regeneration", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12668975", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 94, 
+            "text": "c-Jun-N-terminal kinase (JNK) pathway is strongly activated after partial hepatectomy (PH)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12668975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 68, 
+            "text": "growth factors and cytokines are involved in liver regeneration", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11709497", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 644, 
+            "text": "JAB1 (Jun activation domain-binding protein 1), a co-activator of AP-1, which is essential for liver regeneration, specifically interacts with intracellular HPO", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11709497", 
+            "endSection": "abstract"
+        }
+    ]
+}

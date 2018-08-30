@@ -1,0 +1,372 @@
+{
+    "body": "Which molecule is targeted by Daratumumab?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25964097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25764134", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25531698", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25626316", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21109694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24053207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25988285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24849305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25865943"
+    ], 
+    "ideal_answer": [
+        "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma.", 
+        "Daratumumab is a novel, high-affinity, therapeutic human monoclonal antibody against unique CD38 epitope with broad-spectrum killing activity."
+    ], 
+    "exact_answer": [
+        "CD38"
+    ], 
+    "type": "factoid", 
+    "id": "56c04412ef6e39474100001b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 357, 
+            "text": "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25865943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 347, 
+            "offsetInEndSection": 489, 
+            "text": "Daratumumab is a novel, high-affinity, therapeutic human monoclonal antibody against unique CD38 epitope with broad-spectrum killing activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 775, 
+            "offsetInEndSection": 937, 
+            "text": "This review focuses on the CD38 antigen and its targeting with daratumumab and provides an update on the results of recent clinical studies involving daratumumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "BACKGROUND: Daratumumab (DARA), a promising novel therapy for multiple myeloma, is an IgG1\u03ba monoclonal antibody that recognizes CD38 on myeloma cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25764134", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1379, 
+            "offsetInEndSection": 1462, 
+            "text": "CONCLUSION: DARA causes panreactivity in vitro by binding to CD38 on reagent RBCs. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25764134", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 279, 
+            "offsetInEndSection": 496, 
+            "text": "Here, we describe that treatment of multiple myeloma patients with daratumumab, a novel anti-CD38 MoAb, resulted in false-positive indirect antiglobulin tests (IATs) for all patients for 2 to 6 months after infusion. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25988285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 702, 
+            "offsetInEndSection": 842, 
+            "text": "Interference of daratumumab and three other anti-CD38 MoAbs was studied using fresh-frozen plasma spiked with different MoAb concentrations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25988285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 189, 
+            "offsetInEndSection": 356, 
+            "text": "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25865943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 347, 
+            "offsetInEndSection": 490, 
+            "text": "Daratumumab is a novel, high-affinity, therapeutic human monoclonal antibody against unique CD38 epitope with broad-spectrum killing activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 262, 
+            "offsetInEndSection": 444, 
+            "text": "This article focuses on the basic and clinical aspects of several emerging and promising novel MoAbs for MM, such as elotuzumab which targets CS1 and daratumumab which targets CD38. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25626316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 288, 
+            "offsetInEndSection": 569, 
+            "text": "This is likely to change within the next few years with a number of mAb therapies being assessed in late stage clinical trials, most notably, the anti-CS-1 mAb, elotuzumab, and the anti-CD38 mAb, daratumumab, which are currently being evaluated in Phase III clinical trials for MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25964097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 509, 
+            "offsetInEndSection": 651, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 88, 
+            "offsetInEndSection": 230, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25531698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 132, 
+            "text": "Daratumumab, a novel therapeutic human CD38 monoclonal antibody, induces killing of multiple myeloma and other hematological tumors.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 538, 
+            "text": "In this study, we describe the cytotoxic mechanisms of action of daratumumab, a novel, high-affinity, therapeutic human mAb against a unique CD38 epitope. Daratumumab induced potent Ab-dependent cellular cytotoxicity in CD38-expressing lymphoma- and MM-derived cell lines as well as in patient MM cells, both with autologous and allogeneic effector cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 538, 
+            "offsetInEndSection": 1047, 
+            "text": "Daratumumab stood out from other CD38 mAbs in its strong ability to induce complement-dependent cytotoxicity in patient MM cells. Importantly, daratumumab-induced Ab-dependent cellular cytotoxicity and complement-dependent cytotoxicity were not affected by the presence of bone marrow stromal cells, indicating that daratumumab can effectively kill MM tumor cells in a tumor-preserving bone marrow microenvironment. In vivo, daratumumab was highly active and interrupted xenograft tumor growth at low dosing. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 776, 
+            "offsetInEndSection": 938, 
+            "text": "This review focuses on the CD38 antigen and its targeting with daratumumab and provides an update on the results of recent clinical studies involving daratumumab.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 614, 
+            "offsetInEndSection": 678, 
+            "text": "elotuzumab which targets CS1 and daratumumab which targets CD38.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24053207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 372, 
+            "offsetInEndSection": 444, 
+            "text": "such as elotuzumab which targets CS1 and daratumumab which targets CD38.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25626316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1821, 
+            "offsetInEndSection": 2034, 
+            "text": "Novel therapy strategies include targeted and stroma-directed approaches. Antibodies targeting CS-1 (elotuzumab) and CD38 (daratumumab) in particular are currently undergoing advanced clinical phase II/III trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24849305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 653, 
+            "text": "an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 674, 
+            "offsetInEndSection": 842, 
+            "text": "This review focuses on the basic and clinical aspects of two emerging and promising novel MoAbs for MM, elotuzumab which targets CS1 and daratumumab which targets CD38.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24053207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2014, 
+            "offsetInEndSection": 2153, 
+            "text": "Antibodies targeting CS-1 (elotuzumab) and CD38 (daratumumab) in particular are currently undergoing advanced clinical phase II/III trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24849305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 230, 
+            "offsetInEndSection": 373, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25531698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 650, 
+            "offsetInEndSection": 793, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1317, 
+            "offsetInEndSection": 1421, 
+            "text": "These findings support clinical development of daratumumab for the treatment of CD38-positive MM tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Towards effective immunotherapy of myeloma: enhanced elimination of myeloma cells by combination of lenalidomide with the human CD38 monoclonal antibody daratumumab.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21109694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1888, 
+            "offsetInEndSection": 2027, 
+            "text": "Antibodies targeting CS-1 (elotuzumab) and CD38 (daratumumab) in particular are currently undergoing advanced clinical phase II/III trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24849305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 337, 
+            "text": "In this study, we describe the cytotoxic mechanisms of action of daratumumab, a novel, high-affinity, therapeutic human mAb against a unique CD38 epitope. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 200, 
+            "offsetInEndSection": 737, 
+            "text": "Daratumumab is a novel human CD38 monoclonal antibody which kills CD38+ multiple myeloma cells via antibody-dependent cell-mediated cytotoxicity, complement-dependent cytotoxicity and apoptosis. DESIGN AND METHODS: To explore the effect of lenalidomide combined with daratumumab, we first carried out standard antibody-dependent cell-mediated cytotoxicity and complement-dependent cytotoxicity assays in which the CD38+ multiple myeloma cell line UM-9 and primary multiple myeloma cells isolated from patients were used as target cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21109694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1220, 
+            "offsetInEndSection": 1324, 
+            "text": "These findings support clinical development of daratumumab for the treatment of CD38-positive MM tumors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 182, 
+            "offsetInEndSection": 336, 
+            "text": "In this study, we describe the cytotoxic mechanisms of action of daratumumab, a novel, high-affinity, therapeutic human mAb against a unique CD38 epitope.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 653, 
+            "text": "A novel therapeutic strategy that effectively targets specific molecules on myeloma cells and also potentially overcomes tumor microenvironment-mediated drug resistance and the downstream effects of genetic instability is thus urgently needed. Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 776, 
+            "offsetInEndSection": 941, 
+            "text": "This review focuses on the CD38 antigen and its targeting with daratumumab and provides an update on the results of recent clinical studies involving daratumumab.  .", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26137203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 232, 
+            "text": "an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25531698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 510, 
+            "offsetInEndSection": 678, 
+            "text": "This review focuses on the basic and clinical aspects of two emerging and promising novel MoAbs for MM, elotuzumab which targets CS1 and daratumumab which targets CD38.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24053207", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 510, 
+            "offsetInEndSection": 653, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24555809", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 89, 
+            "offsetInEndSection": 232, 
+            "text": "Over the last 2 years, an anti-CD38 monoclonal antibody daratumumab (DARA) has emerged as a breakthrough targeted therapy for patients with MM.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25531698", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 444, 
+            "text": "This article focuses on the basic and clinical aspects of several emerging and promising novel MoAbs for MM, such as elotuzumab which targets CS1 and daratumumab which targets CD38.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25626316", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1895, 
+            "offsetInEndSection": 2034, 
+            "text": "Antibodies targeting CS-1 (elotuzumab) and CD38 (daratumumab) in particular are currently undergoing advanced clinical phase II/III trials.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24849305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 190, 
+            "offsetInEndSection": 357, 
+            "text": "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25865943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 352, 
+            "offsetInEndSection": 599, 
+            "text": "We hypothesized that the observed panreactivity reflected DARA binding to CD38 on reagent RBCs, and we investigated methods to prevent this binding.STUDY DESIGN AND METHODS: DARA binding to CD38+ or CD38- HL60 cells was assessed by flow cytometry.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25764134", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1086, 
+            "offsetInEndSection": 1279, 
+            "text": "Flow cytometry experiments confirmed DARA binding to CD38+ HL60 cells, but not to CD38- controls. DTT treatment of CD38+ HL60 cells reduced DARA binding by 92% by denaturing cell surface CD38. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25764134", 
+            "endSection": "abstract"
+        }
+    ]
+}

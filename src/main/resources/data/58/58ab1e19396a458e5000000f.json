@@ -1,0 +1,172 @@
+{
+    "body": "What is the function of yeast Clr4 on chromatin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11273706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16127433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17504808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23771057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21060862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8937982", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19117951"
+    ], 
+    "ideal_answer": [
+        "Clr4 is known to regulate silencing and switching at the mating-type loci and to affect chromatin structure at centromeres. The Clr4 methyltransferase determines the subnuclear localization of the mating-type region in fission yeast. Heterochromatin assembly in fission yeast depends on the Clr4 histone methyltransferase, which targets H3K9."
+    ], 
+    "type": "summary", 
+    "id": "58ab1e19396a458e5000000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 308, 
+            "offsetInEndSection": 455, 
+            "text": "Mutations in the clr4+, rik1+ and swi6+ genes dramatically reduce silencing at certain centromeric regions and cause elevated chromosome loss rates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8937982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 918, 
+            "offsetInEndSection": 1076, 
+            "text": "The Swi6 protein was found to be delocalised from all three silent chromosomal regions, and dispersed within the nucleus, in both clr4 and rik1 mutant cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8937982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1274, 
+            "offsetInEndSection": 1469, 
+            "text": "Mutations in clr4, rik1 and swi6 also result in elevated sensitivity to reagents which destabilise microtubules and show a synergistic interaction with a mutation in the beta-tubulin gene (nda3).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8937982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1470, 
+            "offsetInEndSection": 1770, 
+            "text": "These observations suggest that clr4+ and rik1+ must play a role in the assembly of Swi6p into a transcriptionally silent, inaccessible chromatin structure at fission yeast centromeres which is required to facilitate interactions with spindle microtubules and to ensure normal chromosome segregation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8937982", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "The chromo and SET domains of the Clr4 protein are essential for silencing in fission yeast.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 752, 
+            "offsetInEndSection": 868, 
+            "text": "Like Su(var)3-9p, Clr4p contains SET and chromo domains, motifs found in proteins that modulate chromatin structure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1188, 
+            "text": "Surprisingly, RNA differential display experiments demonstrated that clr4+ can mediate transcriptional activation of certain other loci.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1189, 
+            "offsetInEndSection": 1400, 
+            "text": "These results show that clr4 plays a critical role in silencing at mating-type loci and centromeres through the organization of repressive chromatin structure and demonstrate a new, activator function for Clr4p.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 452, 
+            "offsetInEndSection": 576, 
+            "text": "Clr4 is known to regulate silencing and switching at the mating-type loci and to affect chromatin structure at centromeres. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11273706", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 638, 
+            "offsetInEndSection": 743, 
+            "text": "Mutations in Cul4 result in defective localization of Clr4 and loss of silencing at heterochromatic loci.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16127433", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "The Clr4 methyltransferase determines the subnuclear localization of the mating-type region in fission yeast.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17504808", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 789, 
+            "text": "In a strain lacking the histone methyltransferase Clr4, crucial for the formation of heterochromatin, the mating-type region had a random localization in the nucleus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17504808", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1009, 
+            "offsetInEndSection": 1238, 
+            "text": "Cut4 and Cut9 interact directly with Swi6/HP1 and Clr4, whereas the mutant Cut4 does not, suggesting that a direct physical interaction of APC subunits Cut4 and Cut9 with Swi6 and Clr4 is instrumental in heterochromatin assembly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19117951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1647, 
+            "offsetInEndSection": 1858, 
+            "text": "Thus, APC and heterochromatin proteins Swi6 and Clr4 play a mutually cooperative role in heterochromatin assembly, thereby ensuring chromosomal integrity, inheritance, and segregation during mitosis and meiosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19117951", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 171, 
+            "offsetInEndSection": 426, 
+            "text": "Positive feedback mechanisms that link the RNAi pathway and the Clr4/Suv39h1 histone H3K9 methyltransferase complex (Clr-C) result in requirements for H3K9 methylation for full siRNA production and for siRNA production to achieve full histone methylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21060862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "Heterochromatin assembly in fission yeast depends on the Clr4 histone methyltransferase, which targets H3K9.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23771057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1166, 
+            "offsetInEndSection": 1277, 
+            "text": "These analyses place Sir2 and H3K14 deacetylation upstream of Clr4 recruitment during heterochromatin assembly.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23771057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1189, 
+            "offsetInEndSection": 1399, 
+            "text": "These results show that clr4 plays a critical role in silencing at mating-type loci and centromeres through the organization of repressive chromatin structure and demonstrate a new, activator function for Clr4p", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1189, 
+            "offsetInEndSection": 1401, 
+            "text": "These results show that clr4 plays a critical role in silencing at mating-type loci and centromeres through the organization of repressive chromatin structure and demonstrate a new, activator function for Clr4p..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9620780", 
+            "endSection": "abstract"
+        }
+    ]
+}

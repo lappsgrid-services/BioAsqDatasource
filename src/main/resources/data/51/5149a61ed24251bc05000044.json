@@ -1,0 +1,678 @@
+{
+    "body": "What are the computational methods for the prediction of beta-barrel transmembrane proteins?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15647112", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16844989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23530628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15980447", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19153681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21531175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22148174", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17597890", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19429691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21328706", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17520325", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23297037", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22540951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18989393", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18006547", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12192075", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21935968", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21426944", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12169530", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12070338", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18218108", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21967762", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15141026", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18467177", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16858668", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19421989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22247276", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22987359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15070403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17597895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15769290", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12798041", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21064129", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15215418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15215419", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22031179", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19470175", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18355838", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19622743", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16225682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16674095", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18312695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10698111", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16597327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17088282", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20488436", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17958348", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11274469"
+    ], 
+    "ideal_answer": [
+        "Computational tools have been developed for beta-barrel transmembrane protein discrimination, topology prediction and prediction of their structural features.\nInitial methods developed for the prediction of the transmembrane beta strands were based on hydrophobicity analysis, using sliding windows along the sequence, in order to capture the alternating patterns of hydrophobic-hydrophilic residues of the transmembrane strands, or using generalized secondary structure prediction methods. Other approaches included the construction of special empirical rules using amino-acid propensities and prior knowledge of the structural nature of the proteins, and the development of Neural Network-based predictors to predict the location of alpha-carbon atoms with respect to the membrane. During the last few years, other more refined methods, appeared, including: Neural Networks, Hidden Markov Models, Support Vector Machines, k-Nearest Neighbors, Radial Basis Functions, Bayesian Networks, Genetic Algorithms, Mahalanobis Discriminant Functions, Cellular Automata, N-to-1 Extreme Learning Machines. Hidden Markov Model-based methods are among the most successful in topology prediction, being able to capture the unique architecture of beta-barrel transmembrane proteins. Consensus methods, as well as pipelines of several related tools (e.g. subcellular localization prediciton, alpha-helical transmembrane protein prediction, signal-peptide/lipoprotein prediction) have also used for discriminating beta-barrel transmembrane proteins. Recently, a number of methods for predicting more detailed structural features (e.g. surface accessibility, residue contacts, even detailed atomic 3D models) tailored to beta-barrel transmembrane proteins have been developed, based on knowledge-based potential functions, graph theoretic models, physical models and multi-tape S-attribute grammars. Methods/tools falling in the aforementioned classes are (listed in alphabetical order): BBF (beta-barrel finder), BETAWARE, BOCTOPUS, BOMP, BTMX (Beta barrel TransMembrane eXposure), HHomp, HMM-B2TMR, OMBBpred, PROFtmb, PRED-TMBB, TMB-Hunt, TBBPred, TMBETAPRED-RBF, TMBHMM, TransFold, TMBpro, TMBKNN, Wimley"
+    ], 
+    "exact_answer": [
+        [
+            "BBF", 
+            "beta-barrel finder"
+        ], 
+        [
+            "BETAWARE"
+        ], 
+        [
+            "BOCTOPUS"
+        ], 
+        [
+            "BOMP"
+        ], 
+        [
+            "BTMX", 
+            "Beta barrel TransMembrane eXposure"
+        ], 
+        [
+            "HHomp"
+        ], 
+        [
+            "HMM-B2TMR"
+        ], 
+        [
+            "OMBBpred"
+        ], 
+        [
+            "PROFtmb"
+        ], 
+        [
+            "PRED-TMBB"
+        ], 
+        [
+            "TMB-Hunt"
+        ], 
+        [
+            "TBBPred"
+        ], 
+        [
+            "TMBETAPRED-RBF"
+        ], 
+        [
+            "TMBHMM"
+        ], 
+        [
+            "TransFold"
+        ], 
+        [
+            "TMBpro"
+        ], 
+        [
+            "TMBKNN"
+        ], 
+        [
+            "Wimley"
+        ], 
+        [
+            "TMBETA-NET"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0016021", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012984"
+    ], 
+    "type": "list", 
+    "id": "5149a61ed24251bc05000044", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "BETAWARE: a machine-learning tool to detect and predict transmembrane beta-barrel proteins in prokaryotes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23297037", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 684, 
+            "offsetInEndSection": 1063, 
+            "text": "Recently, we developed two top-performing methods based on machine-learning approaches to tackle both the detection of TMBBs in sets of proteins and the prediction of their topology. Here, we present our BETAWARE program that includes both approaches and can run as a standalone program on a linux-based computer to easily address in-home massive protein annotation or filtering.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23297037", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 618, 
+            "text": "We introduce a graph-theoretic model for predicting the supersecondary structure of transmembrane \u03b2-barrel proteins--a particular class of proteins that performs diverse important functions but it is difficult to determine their structure with experimental methods. This ab initio model resolves the protein folding problem based on pseudo-energy minimization with the aid of a simple probabilistic filter. It also allows for determining structures whose barrel follows a given permutation on the arrangement of \u03b2-strands, and allows for rapidly discriminating the transmembrane \u03b2-barrels from other kinds of proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22987359", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 73, 
+            "text": "BOCTOPUS: improved topology prediction of transmembrane \u03b2 barrel proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22247276", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Improving the detection of transmembrane \u03b2-barrel chains with N-to-1 extreme learning machines", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21967762", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 728, 
+            "offsetInEndSection": 833, 
+            "text": "we introduce a new machine learning approach for TMBB detection based on N-to-1 Extreme Learning Machines", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21967762", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 153, 
+            "text": "TMBHMM: a frequency profile based HMM for predicting the topology of transmembrane beta barrel proteins and the exposure status of transmembrane residues", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21426944", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 838, 
+            "text": "We present here TMBHMM, a computational method based on a hidden Markov model for predicting the structural topology of putative TMBs from sequence. In addition to predicting transmembrane strands, TMBHMM also predicts the exposure status (i.e., exposed to the membrane or hidden in the protein structure) of the residues in the transmembrane region, which is a novel feature of the TMBHMM method. Furthermore, TMBHMM can also predict the membrane residues that are not part of beta barrel forming strands.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21426944", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Prediction of the exposure status of transmembrane beta barrel residues from protein sequence", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21328706", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "We present BTMX (Beta barrel TransMembrane eXposure), a computational method to predict the exposure status (i.e. exposed to the bilayer or hidden in the protein structure) of transmembrane residues in transmembrane beta barrel proteins (TMBs).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21328706", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Combined prediction of transmembrane topology and signal peptide of beta-barrel proteins: using a hidden Markov model and genetic algorithms", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20488436", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 774, 
+            "offsetInEndSection": 1043, 
+            "text": "We present here, an HMM that combine a transmembrane barrel submodel and an SP submodel for both topology and SP predictions. A new genetic algorithm (GA) is presented here to training the model, at the same time the Posterior-Viterbi algorithm is adopted for decoding.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20488436", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 332, 
+            "text": "In this work, we propose a method based on radial basis networks for predicting the number of beta-strands in OMPs and identifying their membrane spanning segments.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19421989", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 624, 
+            "offsetInEndSection": 805, 
+            "text": "We have developed a web server, TMBETAPRED-RBF for predicting the transmembrane beta-strands from amino acid sequence and it is available at http://rbf.bioinfo.tw/~sachen/tmrbf.html", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19421989", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 607, 
+            "text": "We have developed a novel approach for dissecting transmembrane beta-barrel proteins (TMBs) in genomic sequences. The features include (i) the identification of TMBs using the preference of residue pairs in globular, transmembrane helical (TMH) and TMBs, (ii) elimination of globular/TMH proteins that show sequence identity of more than 70% for the coverage of 80% residues with known structures, (iii) elimination of globular/TMH proteins that have sequence identity of more than 60% with known sequences in SWISS-PROT, and (iv) exclusion of TMH proteins using SOSUI, a prediction system for TMH proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17958348", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "TMBpro: secondary structure, beta-contact and tertiary structure prediction of transmembrane beta-barrel proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18006547", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 732, 
+            "offsetInEndSection": 934, 
+            "text": "We develop a suite (TMBpro) of specialized predictors for predicting secondary structure (TMBpro-SS), beta-contacts (TMBpro-CON) and tertiary structure (TMBpro-3D) of transmembrane beta-barrel proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18006547", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 100, 
+            "offsetInEndSection": 199, 
+            "text": "This paper presents a k-nearest neighbor (K-NN) method for discriminating TMB and non-TMB proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18467177", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 533, 
+            "offsetInEndSection": 1022, 
+            "text": "In this paper, based on the concept of pseudo amino acid composition (PseAA) that can incorporate sequence-order information of a protein sequence so as to remarkably enhance the power of discrete models (Chou, K. C., Proteins: Structure, Function, and Genetics, 2001, 43: 246-255), cellular automata and Lempel-Ziv complexity are introduced to predict the TM regions of integral membrane proteins including both alpha-helical and beta-barrel membrane proteins, validated by jackknife test", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17520325", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 486, 
+            "offsetInEndSection": 737, 
+            "text": "we present BOCTOPUS; an improved method for the topology prediction of TMBs by employing a combination of support vector machines (SVMs) and Hidden Markov Models (HMMs). The SVMs and HMMs account for local and global residue preferences, respectively.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22247276", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "PRED-TMBB: a web server for predicting the topology of beta-barrel outer membrane proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15215419", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 346, 
+            "offsetInEndSection": 684, 
+            "text": "We present here a web server (PRED-TMBB, http://bioinformatics.biol.uoa.gr/PRED-TMBB) which is capable of predicting the transmembrane strands and the topology of beta-barrel outer membrane proteins of Gram-negative bacteria. The method is based on a Hidden Markov Model, trained according to the Conditional Maximum Likelihood criterion.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15215419", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Prediction of transmembrane regions of beta-barrel proteins using ANN- and SVM-based methods", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 325, 
+            "text": "his article describes a method developed for predicting transmembrane beta-barrel regions in membrane proteins using machine learning techniques: artificial neural network (ANN) and support vector machine (SVM). The ANN used in this study is a feed-forward neural network with a standard back-propagation training algorithm.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 527, 
+            "offsetInEndSection": 845, 
+            "text": "We have also developed an SVM-based method using a primary sequence as input and achieved an accuracy of 77.4%. The SVM model was modified by adding 36 physicochemical parameters to the amino acid sequence information. Finally, ANN- and SVM-based methods were combined to utilize the full potential of both techniques.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1190, 
+            "offsetInEndSection": 1291, 
+            "text": "we have developed a Web server, TBBPred, for predicting transmembrane beta-barrel regions in proteins", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 50, 
+            "text": "Predicting transmembrane beta-barrels in proteomes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15141026", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 241, 
+            "offsetInEndSection": 386, 
+            "text": "Here we introduced the design, statistics and results of a novel profile-based hidden Markov model for the prediction and discrimination of TMBs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15141026", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1381, 
+            "offsetInEndSection": 1453, 
+            "text": "All proteome predictions and the PROFtmb prediction method are available", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15141026", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "The beta-barrel finder (BBF) program, allowing identification of outer membrane beta-barrel proteins encoded within prokaryotic genomes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12192075", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 251, 
+            "offsetInEndSection": 795, 
+            "text": "We here report computational analyses of six outer membrane proteins of known 3D structures with respect to (1) secondary structure, (2) hydropathy, and (3) amphipathicity. Using these characteristics, as well as the presence of an N-terminal targeting sequence, a program was developed allowing prediction of integral membrane beta-barrel proteins encoded within any completely sequenced prokaryotic genome. This program, termed the beta-barrel finder (BBF) program, was used to analyze the proteins encoded within the Escherichia coli genome.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12192075", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "A sequence-profile-based HMM for predicting and discriminating beta barrel membrane proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12169530", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1003, 
+            "offsetInEndSection": 1485, 
+            "text": "We develop a HMM model, which can predict the topology of beta barrel membrane proteins using, as input, evolutionary information. The model is cyclic with 6 types of states: two for the beta strand transmembrane core, one for the beta strand cap on either side of the membrane, one for the inner loop, one for the outer loop and one for the globular domain state in the middle of each loop. The development of a specific input for HMM based on multiple sequence alignment is novel.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12169530", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Prediction of the transmembrane regions of beta-barrel membrane proteins with a neural network-based predictor", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11274469", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 330, 
+            "text": "A method based on neural networks is trained and tested on a nonredundant set of beta-barrel membrane proteins known at atomic resolution with a jackknife procedure. The method predicts the topography of transmembrane beta strands with residue accuracy as high as 78% when evolutionary information is used as input to the network.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11274469", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 570, 
+            "offsetInEndSection": 682, 
+            "text": "A web server based on the proposed method is available at http://yanbioinformatics.cs.usu.edu:8080/TMBKNNsubmit.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18467177", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Predicting three-dimensional structures of transmembrane domains of \u03b2-barrel membrane proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22148174", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 391, 
+            "offsetInEndSection": 887, 
+            "text": "We have developed a computational method for predicting structures of the transmembrane (TM) domains of \u03b2-barrel membrane proteins. Based on physical principles, our method can predict structures of the TM domain of \u03b2-barrel membrane proteins of novel topology, including those from eukaryotic mitochondria. Our method is based on a model of physical interactions, a discrete conformational state space, an empirical potential function, as well as a model to account for interstrand loop entropy.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22148174", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 25, 
+            "offsetInEndSection": 93, 
+            "text": "exposure status classification of transmembrane beta barrel residues", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21531175", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 436, 
+            "text": "Several computational methods exist for the identification of transmembrane beta barrel proteins (TMBs) from sequence. Some of these methods also provide the transmembrane (TM) boundaries of the putative TMBs. The aim of this study is to (1) derive the propensities of the TM residues to be exposed to the lipid bilayer and (2) to predict the exposure status (i.e. exposed to the bilayer or hidden in protein structure) of TMB residues.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21531175", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "The modified Mahalanobis Discriminant for predicting outer membrane proteins by using Chou's pseudo amino acid composition.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18355838", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 224, 
+            "offsetInEndSection": 508, 
+            "text": "In this study, a method that combines increment of diversity with modified Mahalanobis Discriminant, called IDQD, is presented to predict 208 OMPs, 206 transmembrane helical proteins (TMHPs) and 673 globular proteins (GPs) by using Chou's pseudo amino acid compositions as parameters.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18355838", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Predicting transmembrane beta-barrels and interstrand residue interactions from sequence", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16858668", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 928, 
+            "text": "A novel method using pairwise interstrand residue statistical potentials derived from globular (nonouter membrane) proteins is introduced to predict the supersecondary structure of transmembrane beta-barrel proteins. The algorithm transFold employs a generalized hidden Markov model (i.e., multitape S-attribute grammar) to describe potential beta-barrel supersecondary structures and then computes by dynamic programming the minimum free energy beta-barrel structure.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16858668", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Predicting the solvent accessibility of transmembrane residues from protein sequence", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16674095", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 282, 
+            "text": "In this study, we propose a novel method to predict the solvent accessible surface areas of transmembrane residues. For both transmembrane alpha-helix and beta-barrel residues, the correlation coefficients between the predicted and observed accessible surface areas are around 0.65.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16674095", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 120, 
+            "text": "BOMP: a program to predict integral beta-barrel outer membrane proteins encoded within genomes of Gram-negative bacteria", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15215418", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 623, 
+            "text": "This work describes the development of a program that predicts whether or not a polypeptide sequence from a Gram-negative bacterium is an integral beta-barrel outer membrane protein. The program, called the beta-barrel Outer Membrane protein Predictor (BOMP), is based on two separate components to recognize integral beta-barrel proteins. The first component is a C-terminal pattern typical of many integral beta-barrel proteins. The second component calculates an integral beta-barrel score of the sequence based on the extent to which the sequence contains stretches of amino acids typical of transmembrane beta-strands.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15215418", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "A HMM-based method to predict the transmembrane regions of beta-barrel membrane proteins", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12798041", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "A novel method is developed to model and predict the transmembrane regions of beta-barrel membrane proteins. It is based on a Hidden Markov model (HMM) with architecture obeying those proteins' construction principles.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12798041", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 271, 
+            "offsetInEndSection": 649, 
+            "text": "First, an algorithm that calculates the mean hydrophobicity of one side of putative beta-strands predicted the positions of 16 transmembrane segments, a structure common to known porins. Second, outer loops typical of porins were assigned using an artificial neural network trained to predict the topology of bacterial outer-membrane proteins with a predominance of beta-strands", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12070338", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 97, 
+            "text": "Prediction of the membrane-spanning beta-strands of the major outer membrane protein of Chlamydia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12070338", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Topology prediction of Brucella abortus Omp2b and Omp2a porins after critical assessment of transmembrane beta strands prediction by several secondary structure prediction methods", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10698111", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 162, 
+            "offsetInEndSection": 671, 
+            "text": "Four porins of known structure were selected as test-cases and their secondary structure delineated. The specificity and sensitivity of 11 methods were separately evaluated. Our critical assessment shows that some secondary structure prediction methods (PHD, Dsc, Sopma) originally designed to predict globular protein structure are useful on porin topology prediction. The overall best prediction is obtained by combining these three \"generalist\" methods with a transmembrane beta strand prediction technique", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10698111", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "A knowledge-based potential highlights unique features of membrane \u03b1-helical and \u03b2-barrel protein insertion and folding", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22031179", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 796, 
+            "text": "In previous work, a depth-dependent insertion potential, E(z) , was derived for \u03b1-helical inner membrane proteins. We have generated an equivalent potential for TM \u03b2-barrel proteins. The similarities and differences between these two potentials provide insight into unique aspects of the folding and insertion of \u03b2-barrel membrane proteins. This potential can predict orientation within the membrane and identify functional residues involved in intermolecular interactions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22031179", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "Improved identification of outer membrane beta barrel proteins using primary sequence, predicted secondary structure, and evolutionary information", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21064129", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 759, 
+            "offsetInEndSection": 1035, 
+            "text": "We present an accurate sequence-based predictor of OMBBs, called OMBBpred, which utilizes a Support Vector Machine classifier and a custom-designed set of 34 novel numerical descriptors derived from predicted secondary structures, hydrophobicity, and evolutionary information.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21064129", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Predicting weakly stable regions, oligomerization state, and protein-protein interfaces in transmembrane domains of outer membrane proteins.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19622743", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 884, 
+            "offsetInEndSection": 1461, 
+            "text": "We have also discovered that out-clamps, in-plugs, and oligomerization are 3 general mechanisms for stabilizing weakly stable TM regions. In addition, we have found that extended and contiguous weakly stable regions often signal the existence of an oligomer and that strands located in the interfaces of protein-protein interactions are considerably less stable. Based on these observations, we can predict oligomerization states and can identify the interfaces of protein-protein interactions for beta-barrel membrane proteins by using either structure or sequence information", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19622743", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 688, 
+            "offsetInEndSection": 870, 
+            "text": "Recently, we developed two top-performing methods based on machine-learning approaches to tackle both the detection of TMBBs in sets of proteins and the prediction of their topology.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23297037", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 265, 
+            "text": "We introduce a graph-theoretic model for predicting the supersecondary structure of transmembrane \u03b2-barrel proteins--a particular class of proteins that performs diverse important functions but it is difficult to determine their structure with experimental methods.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22987359", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 609, 
+            "text": "Several computational methods have been developed to discriminate TMBBs from other types of proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21967762", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 563, 
+            "offsetInEndSection": 711, 
+            "text": "To conquer this limitation, we developed a new computational model that can be used for predicting the ASA of both TM \u03b1-helix and \u03b2-barrel residues.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21935968", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Transmembrane beta barrel (TMB) proteins are found in the outer membranes of bacteria, mitochondria and chloroplasts.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21426944", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 765, 
+            "offsetInEndSection": 899, 
+            "text": "RESULTS: We present here, an HMM that combine a transmembrane barrel submodel and an SP submodel for both topology and SP predictions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20488436", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Prediction of membrane spanning segments in beta-barrel outer membrane proteins (OMP) and their topology is an important problem in structural and functional genomics.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19421989", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 331, 
+            "offsetInEndSection": 531, 
+            "text": "In the simplest of these, the target \"model\" is another protein sequence, while the more elaborate methods group together the entire set of t ansmembrane helical or transmembrane beta-barrel proteins.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19153681", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1169, 
+            "offsetInEndSection": 1348, 
+            "text": "Based on this study, we have developed a Web server, TBBPred, for predicting transmembrane beta-barrel regions in proteins (available at http://www.imtech.res.in/raghava/tbbpred).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15162482", 
+            "endSection": "sections.0"
+        }
+    ]
+}

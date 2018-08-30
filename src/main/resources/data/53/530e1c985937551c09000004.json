@@ -1,0 +1,52 @@
+{
+    "body": "List common symptoms of patients with the DOORS syndrome.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24291220"
+    ], 
+    "ideal_answer": [
+        "DOORS syndrome is a constellation of deafness, onychodystrophy, osteodystrophy, mental retardation, and seizures. It is a rare autosomal recessive disorder of unknown cause."
+    ], 
+    "exact_answer": [
+        [
+            "deafness"
+        ], 
+        [
+            "onychodystrophy"
+        ], 
+        [
+            "osteodystrophy"
+        ], 
+        [
+            "mental retardation"
+        ], 
+        [
+            "seizures"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013568", 
+        "http://www.disease-ontology.org/api/metadata/DOID:225", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012816", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013577"
+    ], 
+    "type": "list", 
+    "id": "530e1c985937551c09000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 162, 
+            "text": "Deafness, onychodystrophy, osteodystrophy, mental retardation, and seizures (DOORS) syndrome is a rare autosomal recessive disorder of unknown cause. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24291220", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 284, 
+            "offsetInEndSection": 577, 
+            "text": "Through a search of available case studies and communication with collaborators, we identified families that included at least one individual with at least three of the five main features of the DOORS syndrome: deafness, onychodystrophy, osteodystrophy, intellectual disability, and seizures. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24291220", 
+            "endSection": "abstract"
+        }
+    ]
+}

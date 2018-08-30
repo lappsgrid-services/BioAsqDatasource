@@ -1,0 +1,165 @@
+{
+    "body": "Which gene is involved in the development of Barth syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20981509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24342716", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23523468", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24813252", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24093814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24801725", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25941633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16857210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22023389", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16442164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16794186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25247053", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25776009"
+    ], 
+    "ideal_answer": [
+        "Tafazzin is a mitochondrial phospholipid transacylase, and its mutations cause Barth syndrome (BTHS)", 
+        "Tafazzin, a mitochondrial acyltransferase encoded by a gene of the same name, plays an important role in cardiolipin side chain remodeling. Studies have shown that mutation-induced dysfunction of tafazzin reduces cardiolipin content, impairs mitochondrial function, and causes dilated cardiomyopathy in Barth syndrome (BTHS)."
+    ], 
+    "exact_answer": [
+        "Tafazzin (TAZ) gene"
+    ], 
+    "type": "factoid", 
+    "id": "5717d86029809bbe7a000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Tafazzin is a mitochondrial phospholipid transacylase, and its mutations cause Barth syndrome (BTHS)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25941633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 274, 
+            "text": "Tafazzin, a mitochondrial acyltransferase, plays an important role in cardiolipin side chain remodeling. Previous studies have shown that dysfunction of tafazzin reduces cardiolipin content, impairs mitochondrial function, and causes dilated cardiomyopathy in Barth syndrome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25247053", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 136, 
+            "offsetInEndSection": 422, 
+            "text": "we combined patient-derived and genetically engineered induced pluripotent stem cells (iPSCs) with tissue engineering to elucidate the pathophysiology underlying the cardiomyopathy of Barth syndrome (BTHS), a mitochondrial disorder caused by mutation of the gene encoding tafazzin (TAZ)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24813252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "A zebrafish model of human Barth syndrome reveals the essential role of tafazzin in cardiac development and function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16794186", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Barth syndrome: cellular compensation of mitochondrial dysfunction and apoptosis inhibition due to changes in cardiolipin remodeling linked to tafazzin (TAZ) gene mutation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23523468", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 758, 
+            "offsetInEndSection": 1006, 
+            "text": "This resynthesis of deacylated cardiolipin from monolysocardiolipin occurs via the Barth Syndrome gene product tafazzin and acyllysocardiolipin acyltransferase-1, monolysocardiolipin acyltransferase-1 and the alpha subunit of trifunctional protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24801725", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1434, 
+            "offsetInEndSection": 1719, 
+            "text": "We conclude that mitochondria-targeted antioxidant prevents cardiac dysfunction induced by tafazzin gene knockdown in cardiac myocytes and suggest mito-Tempo as a potential therapeutic for Barth syndrome and other dilated cardiomyopathies resulting from mitochondrial oxidative stress.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25247053", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 715, 
+            "text": "Here, we combined patient-derived and genetically engineered induced pluripotent stem cells (iPSCs) with tissue engineering to elucidate the pathophysiology underlying the cardiomyopathy of Barth syndrome (BTHS), a mitochondrial disorder caused by mutation of the gene encoding tafazzin (TAZ).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24813252", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Mutations in the human TAZ gene are associated with Barth Syndrome, an often fatal X-linked disorder that presents with cardiomyopathy and neutropenia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16857210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 78, 
+            "text": "A Novel TAZ Gene Mutation and Mosaicism in a Polish Family with Barth Syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25776009", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 171, 
+            "text": "Barth syndrome: cellular compensation of mitochondrial dysfunction and apoptosis inhibition due to changes in cardiolipin remodeling linked to tafazzin (TAZ) gene mutation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23523468", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Barth syndrome is caused by mutations in the TAZ (tafazzin) gene on human chromosome Xq28", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24342716", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 185, 
+            "text": "BTHS is caused by loss-of-function mutations of the tafazzin (TAZ) gene. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22023389", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 298, 
+            "offsetInEndSection": 562, 
+            "text": "This abnormality involves the deletion of the bases TGA starting at cDNA nucleotide 891 (c891_893delTGA), resulting in the absence of glutamic acid at codon 202 from a highly conserved area of the tafazzin protein, consistent with the diagnosis of Barth syndrome. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20981509", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 64, 
+            "text": "Novel mutations in the TAZ gene in patients with Barth syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24093814", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "A zebrafish model of human Barth syndrome reveals the essential role of tafazzin in cardiac development and function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16794186", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 673, 
+            "offsetInEndSection": 783, 
+            "text": "The Barth Syndrome gene TAZ has been identified and expression of the gene yields proteins known as tafazzins.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16442164", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "body": "Is PER3 required for CHK2 activation in human cells?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21070773"
+    ], 
+    "ideal_answer": [
+        "Depletion of Per3 by siRNA almost completely abolished activation of checkpoint kinase 2 (Chk2) after inducing DNA damage in human cells.Per3, a circadian gene, is required for Chk2 activation in human cells.", 
+        "Per3, a circadian gene, is required for Chk2 activation in human cells.  ", 
+        "Per3, a circadian gene, is required for Chk2 activation in human cells.Per3 overexpression induced Chk2 activation in the absence of exogenous DNA damage,", 
+        "Per3 gene, involved in circadian rhythm control, is required for Chk2 activation in human cells."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CHK2_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064447", 
+        "http://www.uniprot.org/uniprot/PER3_HUMAN"
+    ], 
+    "type": "yesno", 
+    "id": "5357b5ecf1005d6b58000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Per3, a circadian gene, is required for Chk2 activation in human cells.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 233, 
+            "text": "Depletion of Per3 by siRNA almost completely abolished activation of checkpoint kinase 2 (Chk2) after inducing DNA damage in human cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 376, 
+            "text": "Per3 overexpression induced Chk2 activation in the absence of exogenous DNA damage,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 414, 
+            "offsetInEndSection": 508, 
+            "text": "Per3 overexpression also led to the inhibition of cell proliferation and apoptotic cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 509, 
+            "offsetInEndSection": 660, 
+            "text": "These combined results suggest that Per3 is a checkpoint protein that plays important roles in checkpoint activation, cell proliferation and apoptosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 96, 
+            "offsetInEndSection": 232, 
+            "text": "Depletion of Per3 by siRNA almost completely abolished activation of checkpoint kinase 2 (Chk2) after inducing DNA damage in human cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 293, 
+            "offsetInEndSection": 412, 
+            "text": "Per3 overexpression induced Chk2 activation in the absence of exogenous DNA damage, and this activation depended on ATM", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 234, 
+            "offsetInEndSection": 291, 
+            "text": "In addition, Per3 physically interacted with ATM and Chk2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21070773", 
+            "endSection": "abstract"
+        }
+    ]
+}

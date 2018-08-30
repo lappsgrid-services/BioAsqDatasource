@@ -1,0 +1,31 @@
+{
+    "body": "Are Sidekick proteins members of the immunoglobulin superfamily?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15703275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18216854"
+    ], 
+    "ideal_answer": [
+        "Yes, sidekick are cell adhesion molecules of the immunoglobulin superfamily."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "5709e947cf1c32585100001d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 708, 
+            "text": "Here we show that four closely related immunoglobulin superfamily (IgSF) adhesion molecules--Dscam (Down's syndrome cell adhesion molecule), DscamL (refs 6-9), Sidekick-1 and Sidekick-2", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18216854", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Sidekick-1, a cell adhesion molecule of the immunoglobulin superfamily, is up-regulated in glomerular podocytes in the collapsing glomerulopathy of HIV-associated nephropathy (HIVAN).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15703275", 
+            "endSection": "abstract"
+        }
+    ]
+}

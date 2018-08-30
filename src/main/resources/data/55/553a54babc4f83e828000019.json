@@ -1,0 +1,157 @@
+{
+    "body": "Are there Conserved Noncoding Elements (CNEs) in plant genomes?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22496592", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23640124", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23110901", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18533721", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12724540", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12952874"
+    ], 
+    "ideal_answer": [
+        "The detailed view of conservation across angiosperms revealed not only high coding-sequence conservation but also a large set of previously uncharacterized intergenic conservation. Grass genes have dramatically fewer and much smaller CNSs than mammalian genes. Using an alignment-free information-retrieval approach, we have comprehensively identified all long identical multispecies elements (LIMEs), which include both syntenic and nonsyntenic regions, of at least 100 identical base pairs shared by at least two genomes. Using a comparative genomics approach with four dicotyledonous plant species (Arabidopsis thaliana, papaya [Carica papaya], poplar [Populus trichocarpa], and grape [Vitis vinifera]), we detected hundreds of CNSs upstream of Arabidopsis genes. We consequently compared the genomes of Arabidopsis thaliana and rice, which diverged about 200 million years ago, and identified 25 ultraconserved elements that are longer than 100 bp. Using a local sequence alignment set to deliver only significant alignments, we found one or more CNSs in the noncoding regions of the majority of genes studied. ", 
+        "Grass genes have dramatically fewer and much smaller CNSs than mammalian genes. The detailed view of conservation across angiosperms revealed not only high coding-sequence conservation but also a large set of previously uncharacterized intergenic conservation. Using an alignment-free information-retrieval approach, we have comprehensively identified all long identical multispecies elements (LIMEs), which include both syntenic and nonsyntenic regions, of at least 100 identical base pairs shared by at least two genomes. Using a comparative genomics approach with four dicotyledonous plant species (Arabidopsis thaliana, papaya [Carica papaya], poplar [Populus trichocarpa], and grape [Vitis vinifera]), we detected hundreds of CNSs upstream of Arabidopsis genes. We consequently compared the genomes of Arabidopsis thaliana and rice, which diverged about 200 million years ago, and identified 25 ultraconserved elements that are longer than 100 bp. Using a local sequence alignment set to deliver only significant alignments, we found one or more CNSs in the noncoding regions of the majority of genes studied. ", 
+        "Yes. Conserved, UltraConserved and other classes of Constrained Noncoding Sequences have been found in plant genomes."
+    ], 
+    "exact_answer": "yes", 
+    "type": "yesno", 
+    "id": "553a54babc4f83e828000019", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Conservation and functional element discovery in 20 angiosperm plant genomes", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23640124", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 948, 
+            "offsetInEndSection": 1127, 
+            "text": "The detailed view of conservation across angiosperms revealed not only high coding-sequence conservation but also a large set of previously uncharacterized intergenic conservation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23640124", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Conserved noncoding sequences highlight shared components of regulatory networks in dicotyledonous plants", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23110901", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 359, 
+            "text": "Using a comparative genomics approach with four dicotyledonous plant species (Arabidopsis thaliana, papaya [Carica papaya], poplar [Populus trichocarpa], and grape [Vitis vinifera]), we detected hundreds of CNSs upstream of Arabidopsis genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23110901", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 65, 
+            "text": "Long identical multispecies elements in plant and animal genomes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496592", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 579, 
+            "text": "Using an alignment-free information-retrieval approach, we have comprehensively identified all long identical multispecies elements (LIMEs), which include both syntenic and nonsyntenic regions, of at least 100 identical base pairs shared by at least two genomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 707, 
+            "offsetInEndSection": 776, 
+            "text": "In contrast, among six plant genomes, we only found nonsyntenic LIMEs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 966, 
+            "offsetInEndSection": 1099, 
+            "text": " Although complex LIMEs were found in both animal and plant genomes, they differed significantly in their composition and copy number", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22496592", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "Ultraconserved elements between the genomes of the plants Arabidopsis thaliana and rice", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18533721", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 240, 
+            "offsetInEndSection": 424, 
+            "text": "We consequently compared the genomes of Arabidopsis thaliana and rice, which diverged about 200 million years ago, and identified 25 ultraconserved elements that are longer than 100 bp", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18533721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 461, 
+            "offsetInEndSection": 552, 
+            "text": "ultraconserved elements in plants tend to occur in clusters and locate at noncoding regions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18533721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 819, 
+            "offsetInEndSection": 978, 
+            "text": "the functions of these plant ultraconserved elements and the reasons why they are practically frozen during the evolution of millions of years remain a mystery", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18533721", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 44, 
+            "text": "Conserved noncoding sequences in the grasses", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12952874", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 393, 
+            "offsetInEndSection": 634, 
+            "text": " Using a local sequence alignment set to deliver only significant alignments, we found one or more CNSs in the noncoding regions of the majority of genes studied. Grass genes have dramatically fewer and much smaller CNSs than mammalian genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12952874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Conserved noncoding sequences among cultivated cereal genomes identify candidate regulatory sequence elements and patterns of promoter evolution", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12724540", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 221, 
+            "text": "Surveys for conserved noncoding sequences (CNS) among genes from monocot cereal species were conducted to assess the general properties of CNS in grass genomes and their correlation with known promoter regulatory elements", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12724540", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 743, 
+            "offsetInEndSection": 977, 
+            "text": "Comparisons of orthologous maize-rice and maize-sorghum gene pairs identified 20 bp as a minimal length criterion for a significant CNS among grass genes, with few such CNS found to be conserved across rice, maize, sorghum, and barley", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12724540", 
+            "endSection": "abstract"
+        }
+    ]
+}

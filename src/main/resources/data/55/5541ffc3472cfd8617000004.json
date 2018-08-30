@@ -1,0 +1,267 @@
+{
+    "body": "What is the role of the Ada O6-alkylguanine alkyltransferase in bacteria?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10101186", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9079656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7695814", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9366274", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3526284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1747932", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8512805", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8152424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3887409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8519412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1520330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8195077", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9484244", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7662116", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9717173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7634390", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2105461"
+    ], 
+    "ideal_answer": [
+        "The Ada O6-methylguanine-DNA methyltransferase is a multifunctional protein, product of the ada gene. Ada functions in DNA repair by direct dealkylation of alkylated DNA lesions, such as the toxic, mutagenic and carcinogenic O6-alkylguanine (O6-AlkG) and O4-alkylthymine (O4-AlkT) which are restored to guanine and thymine. Ada accepts stoichiometrically the alkyl group from O6-alkylguanine in DNA at the Cys-321 residue and from alkyl phosphotriester at the Cys-69 residue. When methylated at Cys-69, Ada becomes a transcriptional activator of the genes in the ada regulon, including its own. The ada gene controls the inducible resistance to alkylation mutagenesis and killing (the adaptive response). Ada alkyltransferase (ATase) is induced by exposure to low doses of methylating agents. During exponential growth, Ada removes lesions responsible for G:C to A:T transitions and G:C to C:G transversions, while in stationary populations it removes lesions causing G:C to A:T and A:T to G:C transitions, and G:C to C:G, A:T to C:G, and A:T to T:A transversions. Thus, Ada protein acts both as a positive regulator of the ada response and as a DNA repair enzyme."
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003908", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019853", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009617", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032132"
+    ], 
+    "type": "summary", 
+    "id": "5541ffc3472cfd8617000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 135, 
+            "text": "multifunctional 39 kDa Escherichia coli Ada protein (O6-methylguanine-DNA methyltransferase) (EC 2.1.1.63), product of the ada gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9484244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 318, 
+            "offsetInEndSection": 693, 
+            "text": "The Ada protein accepts stoichiometrically the alkyl group from O6-alkylguanine in DNA at the Cys-321 residue and from alkyl phosphotriester at the Cys-69 residue. This protein functions in DNA repair by direct dealkylation of mutagenic O6-alkylguanine. The protein methylated at Cys-69 becomes a transcriptional activator of the genes in the ada regulon, including its own. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9484244", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 127, 
+            "text": "O6-Alkylguanine DNA-alkyltransferase (ATase) repairs toxic, mutagenic and carcinogenic O6-alkylguanine (O6-alkG) lesions in DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9366274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "O6-Methylguanine is removed from DNA via the transfer of the methyl group to a cysteine acceptor site present in the DNA repair protein O6-alkylguanine-DNA alkyltransferase.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9079656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1392, 
+            "offsetInEndSection": 1609, 
+            "text": "DNA repair by O6-alkylguanine-DNA alkyltransferases plays a major role in removing lesions responsible for GC-->AT transitions induced by CCNU, influencing their ultimate distribution with respect to sequence context.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8519412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 788, 
+            "offsetInEndSection": 812, 
+            "text": "alkyltransferase (ATase)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1249, 
+            "offsetInEndSection": 1319, 
+            "text": "the ada ATase induced by exposure to low doses of a methylating agent.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7662116", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 219, 
+            "text": "The Escherichia coli Ada and Ogt DNA methyltransferases (MTases) are known to transfer simple alkyl groups from O6-alkylguanine and O4-alkylthymine, directly restoring these alkylated DNA lesions to guanine and thymine.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8195077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 625, 
+            "offsetInEndSection": 806, 
+            "text": "During exponential growth, the spontaneous rate of G:C to A:T transitions and G:C to C:G transversions was elevated about fourfold in ada ogt double mutant versus wild-type E. coli.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8195077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 820, 
+            "offsetInEndSection": 1125, 
+            "text": "compared with the wild type, stationary populations of the MTase-deficient E. coli (under lactose selection) displayed increased G:C to A:T and A:T to G:C transitions (10- and 3-fold, respectively) and increased G:C to C:G, A:T to C:G, and A:T to T:A transversions (10-, 2.5-, and 1.7-fold, respectively).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8195077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 320, 
+            "offsetInEndSection": 402, 
+            "text": "ATases are able to repair O6-alkylguanine (O6-AlkG) and O4-alkylthymine (O4-AlkT) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8512805", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "The inducible resistance to alkylation mutagenesis and killing in Escherichia coli (the adaptive response) is controlled by the ada gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3887409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 355, 
+            "text": "The Ada protein acts both as a positive regulator of the response and as a DNA repair enzyme, correcting premutagenic O6-alkylguanine in DNA by suicidal transfer of the alkyl group to one of its own cysteine residues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3887409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 245, 
+            "text": "Forward mutations induced by 1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) in the lacl gene of Escherichia coli were recovered from bacteria proficient (Ogt+ Ada+) and deficient (Ogt- Ada-) in O6-alkylguanine-DNA alkyltransferase activity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8519412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 249, 
+            "text": "Spontaneous mutagenesis in O6-alkylguanine-DNA alkyltransferase-proficient and -deficient (ada ogt mutants) Escherichia coli was studied in two ways: in bacteria growing in nonselective liquid medium and in bacteria resting on selective agar plates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9717173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 152, 
+            "offsetInEndSection": 406, 
+            "text": "We now show by Southern analysis that the mutation involves a gross deletion covering at least the ogt and fnr genes and that no O6-alkylguanine-DNA-alkyltransferase activity is present in cell-free extracts of an ada::Tn10 derivative of these bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8152424", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 275, 
+            "text": "O6-Alkylguanine DNA-alkyltransferase (ATase) repairs toxic, mutagenic and carcinogenic O6-alkylguanine (O6-alkG) lesions in DNA by a highly conserved reaction involving the stoichiometric transfer of the alkyl group to the active centre cysteine residue of the ATase protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9366274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 336, 
+            "text": "Although the human O6-alkylguanine-DNA alkyltransferase (AGT) is very sensitive to inactivation by O6-benzylguanine (BG) or 2,4-diamino-6-benzyloxy-5-nitrosopyrimidine (5-nitroso-BP), the equivalent protein formed by the carboxyl terminal domain of the product of the Escherichia coli ada gene (Ada-C) is unaffected by these inhibitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7634390", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 197, 
+            "text": "A mutant of Bacillus subtilis defective in the constitutive activity of O6-alkylguanine-DNA alkyltransferase was isolated from a strain (ada-1) deficient in the adaptive response to DNA alkylation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2105461", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Mutations in the Ada O6-alkylguanine-DNA alkyltransferase conferring sensitivity to inactivation by O6-benzylguanine and 2,4-diamino-6-benzyloxy-5-nitrosopyrimidine.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7634390", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 279, 
+            "text": "The protein O 6-alkylguanine-DNA alkyltransferase(alkyltransferase) is involved in the repair of O 6-alkylguanine and O 4-alkylthymine in DNA and plays an important role in most organisms in attenuating the cytotoxic and mutagenic effects of certain classes of alkylating agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10101186", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "O6-Alkylguanine-DNA alkyltransferase (EC 2.1.1.63) repairs O6-alkylguanine lesions in DNA.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7695814", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "Spontaneous mutagenesis in O6-alkylguanine-DNA alkyltransferase-proficient and -deficient (ada ogt mutants) Escherichia coli was studied in two ways: in bacteria growing in nonselective liquid medium and in bacteria resting on selective agar plates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9717173", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 278, 
+            "text": "The protein O 6-alkylguanine-DNA alkyltransferase(alkyltransferase) is involved in the repair of O 6-alkylguanine and O 4-alkylthymine in DNA and plays an important role in most organisms in attenuating the cytotoxic and mutagenic effects of certain classes of alkylating agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10101186", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1327, 
+            "offsetInEndSection": 1609, 
+            "text": "In summary, this paper presents for the first time evidence that DNA repair by O6-alkylguanine-DNA alkyltransferases plays a major role in removing lesions responsible for GC-->AT transitions induced by CCNU, influencing their ultimate distribution with respect to sequence context.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8519412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 244, 
+            "text": "Forward mutations induced by 1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea (CCNU) in the lacl gene of Escherichia coli were recovered from bacteria proficient (Ogt+ Ada+) and deficient (Ogt- Ada-) in O6-alkylguanine-DNA alkyltransferase activity", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8519412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Repair of O6-benzylguanine by the Escherichia coli Ada and Ogt and the human O6-alkylguanine-DNA alkyltransferases.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9079656", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 274, 
+            "text": "O6-Alkylguanine DNA-alkyltransferase (ATase) repairs toxic, mutagenic and carcinogenic O6-alkylguanine (O6-alkG) lesions in DNA by a highly conserved reaction involving the stoichiometric transfer of the alkyl group to the active centre cysteine residue of the ATase protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9366274", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "O6-Alkylguanine-DNA alkyltransferase (EC 2.1.1.63) repairs O6-alkylguanine lesions in DNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7695814", 
+            "endSection": "abstract"
+        }
+    ]
+}

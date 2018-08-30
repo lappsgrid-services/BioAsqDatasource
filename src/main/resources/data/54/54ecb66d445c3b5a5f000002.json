@@ -1,0 +1,323 @@
+{
+    "body": "Is hypersensitivity to DNA crosslinking agents a hallmark of Fanconi anemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16904272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8058745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19275569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15277238", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18047734", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22690333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10526221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19101576", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21240275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22053284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21478198", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22532920", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20034732", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21109493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25002988", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17396147", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19748364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16493006", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23444773", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1809228", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19738377", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23318445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20120016", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21939290"
+    ], 
+    "ideal_answer": [
+        "Yes, hypersensitivity to DNA crosslinking agents is one of the hallmarks of Fanconi anemia, the others being defective FANCD2 monoubiquitination, and genomic instability."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051856", 
+        "http://www.disease-ontology.org/api/metadata/DOID:13636", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005199", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1062"
+    ], 
+    "type": "yesno", 
+    "id": "54ecb66d445c3b5a5f000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "The Fanconi anemia (FA) core complex plays a central role in the DNA damage response network", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17396147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 779, 
+            "offsetInEndSection": 958, 
+            "text": "FAAP100-deficient cells display hallmark features of FA cells, including defective FANCD2 monoubiquitination, hypersensitivity to DNA crosslinking agents, and genomic instability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17396147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 188, 
+            "text": "Fanconi anemia (FA) is a rare genetic disorder characterized by aplastic anemia, cancer/leukemia susceptibility and cellular hypersensitivity to DNA crosslinking agents, such as cisplatin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18047734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "Fanconi anemia (FA) is an inherited chromosomal recessive syndrome characterized by cellular hypersensitivity to DNA crosslinking agents and bone marrow failure, which cause aplastic anemia, and an increased incidence of malignancy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19275569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "Features of chromosomal aberrations, hypersensitivity to DNA crosslinking agents, and predisposition to malignancy have suggested a fundamental anomaly of DNA repair in Fanconi anemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8058745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Fanconi anemia (FA) is one of several genetic diseases with characteristic cellular hypersensitivity to DNA crosslinking agents which suggest that FA proteins may function as part of DNA repair processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10526221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 223, 
+            "text": "Fanconi anemia (FA) is characterized by cellular hypersensitivity to DNA crosslinking agents, but how the Fanconi pathway protects cells from DNA crosslinks and whether FA proteins act directly on crosslinks remain unclear.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19748364", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Fanconi Anemia (FA) is a rare genetic disorder associated with a bone-marrow failure, cancer predisposition and hypersensitivity to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23318445", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 156, 
+            "text": "Fanconi anemia (FA) is a heterogeneous disease associated with a bone marrow failure, cancer predisposition and hypersensitivity to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25002988", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Fanconi anemia (FA) is an inherited disorder characterized by defective DNA repair and cellular sensitivity to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21939290", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "Fanconi anemia (FA) is an inherited disease characterized by bone marrow failure, increased cancer risk and hypersensitivity to DNA cross-linking agents, implying a role for this pathway in the maintenance of genomic stability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21109493", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 267, 
+            "text": "Genetic or epigenetic inactivation of the pathway formed by the Fanconi Anemia (FA) proteins occurs in several cancer types, including head and neck squamous cell carcinomas (HNSCC), rendering the affected tumors potentially hypersensitive to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20034732", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Fanconi Anemia (FA) is a rare autosomic recessive and X-linked disease with chromosomal instability after exposure to crosslinking agents as the hallmark.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22053284", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 195, 
+            "text": "Fanconi Anemia (FA) is an autosomal recessive disease characterized by chromosome instability, cellular hypersensitivity to DNA cross-linking agents, and increased predisposition to malignancies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22532920", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 207, 
+            "text": "The Bloom protein (BLM) and Topoisomerase IIIalpha are found in association with proteins of the Fanconi anemia (FA) pathway, a disorder manifesting increased cellular sensitivity to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19738377", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 958, 
+            "text": "Using siRNA depletion and gene knockout techniques, we show that FAAP100-deficient cells display hallmark features of FA cells, including defective FANCD2 monoubiquitination, hypersensitivity to DNA crosslinking agents, and genomic instability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17396147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 179, 
+            "text": "Fanconi anemia (FA) is a recessive human cancer prone syndrome featuring bone marrow failure, developmental abnormalities and hypersensitivity to DNA crosslinking agents exposure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16904272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 381, 
+            "text": "FA is a chromosome instability syndrome characterized by childhood-onset aplastic anemia, cancer or leukemia susceptibility, and cellular hypersensitivity to DNA crosslinking agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16493006", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 198, 
+            "offsetInEndSection": 336, 
+            "text": "Functional defects in the Fanconi pathway can result in a marked hypersensitivity to interstrand crosslinking agents, such as mitomycin C.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15277238", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 316, 
+            "text": "At the cellular level, hypersensitivity to DNA interstrand crosslinks is the defining feature in Fanconi anemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21240275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 644, 
+            "text": "DNA crosslinking agents may led to DNA cross-linking lesion, and Fanconi anemia pathway plays a key role in repairing its cross-linking.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23444773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 346, 
+            "text": "Fanconi anemia (FA), an autosomal recessive disorder of children, is characterized by congenital or childhood aplastic anemia, multiple developmental anomalies, increased incidence of myeloid leukemia, increased spontaneous chromosome breakage, and cellular and chromosomal hypersensitivity to DNA bifunctional crosslinking and alkylating agents.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1809228", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3, 
+            "offsetInEndSection": 167, 
+            "text": "elegans provides an excellent model system for the study of the Fanconi Anemia (FA), one of the hallmarks of which is sensitivity to interstrand crosslinking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22690333", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 714, 
+            "offsetInEndSection": 957, 
+            "text": "Using siRNA depletion and gene knockout techniques, we show that FAAP100-deficient cells display hallmark features of FA cells, including defective FANCD2 monoubiquitination, hypersensitivity to DNA crosslinking agents, and genomic instability", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17396147", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 316, 
+            "text": "One of the hallmark phenotypes of FA is cellular hypersensitivity to agents that induce DNA interstrand crosslinks (ICLs), such as mitomycin C (MMC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21478198", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 788, 
+            "offsetInEndSection": 983, 
+            "text": "Furthermore, the cytological hallmark of FA, the DNA crosslink-induced radial chromosome formation, exemplifies an innate impairment in the repair of these particularly cytotoxic DNA lesions [A.D", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19101576", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 222, 
+            "text": "Fanconi anemia (FA) is characterized by cellular hypersensitivity to DNA crosslinking agents, but how the Fanconi pathway protects cells from DNA crosslinks and whether FA proteins act directly on crosslinks remain unclear", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19748364", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Features of chromosomal aberrations, hypersensitivity to DNA crosslinking agents, and predisposition to malignancy have suggested a fundamental anomaly of DNA repair in Fanconi anemia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8058745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 231, 
+            "text": "Fanconi anemia (FA) is an inherited chromosomal recessive syndrome characterized by cellular hypersensitivity to DNA crosslinking agents and bone marrow failure, which cause aplastic anemia, and an increased incidence of malignancy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19275569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 266, 
+            "text": "Genetic or epigenetic inactivation of the pathway formed by the Fanconi Anemia (FA) proteins occurs in several cancer types, including head and neck squamous cell carcinomas (HNSCC), rendering the affected tumors potentially hypersensitive to DNA crosslinking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20034732", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Fanconi anemia (FA) is a human autosomal disorder characterized by cancer susceptibility and cellular sensitivity to DNA crosslinking agents such as mitomycin C and diepoxybutane", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11751423", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "The Fanconi anemia pathway promotes DNA glycosylase-dependent excision of interstrand DNA crosslinks.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20120016", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 508, 
+            "offsetInEndSection": 643, 
+            "text": "DNA crosslinking agents may led to DNA cross-linking lesion, and Fanconi anemia pathway plays a key role in repairing its cross-linking", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23444773", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 199, 
+            "offsetInEndSection": 380, 
+            "text": "FA is a chromosome instability syndrome characterized by childhood-onset aplastic anemia, cancer or leukemia susceptibility, and cellular hypersensitivity to DNA crosslinking agents", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16493006", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 190, 
+            "offsetInEndSection": 331, 
+            "text": "The disease is manifested by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21568838", 
+            "endSection": "abstract"
+        }
+    ]
+}

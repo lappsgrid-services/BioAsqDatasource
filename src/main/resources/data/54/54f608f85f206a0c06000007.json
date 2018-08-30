@@ -1,0 +1,154 @@
+{
+    "body": "What is the Drosophila melanogaster Groucho protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18254933", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21666599", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22319573", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17624551", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16508633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24086079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15861397", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17643306", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22305159", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21429299", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19101520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19956621", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18721877", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20405012", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18034187", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19250647"
+    ], 
+    "ideal_answer": [
+        "Groucho proteins are abundant and broadly expressed nuclear factors that lack intrinsic DNA-binding activity but can interact with a variety of DNA-binding proteins. The recruitment of Groucho to specific gene regulatory sequences results in transcriptional repression.\nGroucho (Gro) is a Drosophila melanogaster transcriptional corepressor."
+    ], 
+    "exact_answer": [
+        "Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/TLE4_XENLA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011506", 
+        "http://www.uniprot.org/uniprot/GROU_DROME", 
+        "http://www.uniprot.org/uniprot/TLE1_MOUSE", 
+        "http://www.uniprot.org/uniprot/TLE1_DANRE", 
+        "http://www.uniprot.org/uniprot/TLE6_MOUSE", 
+        "http://www.uniprot.org/uniprot/TLE2_DANRE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003674", 
+        "http://www.uniprot.org/uniprot/TLE4_MOUSE"
+    ], 
+    "type": "factoid", 
+    "id": "54f608f85f206a0c06000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 168, 
+            "offsetInEndSection": 361, 
+            "text": "Although a repressor could function by recruiting just a single co-repressor, many can recruit more than one, with Drosophila Brinker (Brk) recruiting the co-repressors CtBP and Groucho (Gro), ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24086079", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 185, 
+            "text": "Groucho (Gro) is a Drosophila corepressor required by numerous DNA-binding repressors, many of which are distributed in gradients and provide positional information during development. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22319573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Drosophila Groucho (Gro) is the founding member of a family of metazoan corepressors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22305159", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 389, 
+            "offsetInEndSection": 475, 
+            "text": "Tcf3 requires corepressor molecules such as Groucho (Gro)/TLE and HDAC1 for activity. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21666599", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 281, 
+            "offsetInEndSection": 378, 
+            "text": "We identified the transcriptional co-repressor xTLE1/Groucho as an EphrinB1 interacting protein. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21429299", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20405012", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 251, 
+            "text": "Transcriptional co-repressors of the Groucho/transducin-like Enhancer of split (Gro/TLE) family regulate the expression of a variety of genes and are involved in numerous developmental processes in both invertebrate and vertebrate species.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19956621", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 126, 
+            "text": "The proteins termed TLE in humans, Grg in mice and Groucho in Drosophila constitute a family of transcriptional corepressors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15861397", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 195, 
+            "offsetInEndSection": 250, 
+            "text": "Groucho (Gro)/TLE, a global developmental corepressor, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16508633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 46, 
+            "text": "The Groucho/Tle family of corepressor proteins", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17624551", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 269, 
+            "text": "Groucho proteins are abundant and broadly expressed nuclear factors that lack intrinsic DNA-binding activity but can interact with a variety of DNA-binding proteins. The recruitment of Groucho to specific gene regulatory sequences results in transcriptional repression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17643306", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "The Groucho (Gro)/transducin-like enhancer of split family of transcriptional corepressors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18034187", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 226, 
+            "text": "The Drosophila Groucho (Gro) protein was the founding member of the family of transcriptional co-repressor proteins that now includes the transducin-like enhancer of split (TLE) and Grorelated gene (Grg) proteins in vertebrate", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18254933", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Groucho/TLE proteins are global corepressors that are recruited to target promoters by different families of DNA-binding repressors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18721877", 
+            "endSection": "abstract"
+        }
+    ]
+}

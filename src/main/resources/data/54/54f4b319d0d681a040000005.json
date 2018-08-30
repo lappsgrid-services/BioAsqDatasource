@@ -1,0 +1,363 @@
+{
+    "body": "Is zyxin a focal adhesion protein?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22553491", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23454549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23336069", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19853601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23742986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23267329", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22778267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24039980", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23254340", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21889443", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20139076", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21598955", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22609203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24157374", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19856213", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20801875", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22516607", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23028903", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23687301", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19173742"
+    ], 
+    "triples": [
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/A5H447", 
+            "o": "http://purl.uniprot.org/keywords/130"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/keywords/130", 
+            "o": "Cell adhesion"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/A5H447", 
+            "o": "http://linkedlifedata.com/resource/#_413548343437008"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_413548343437008", 
+            "o": "Zyxin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q04584", 
+            "o": "http://purl.uniprot.org/keywords/130"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513034353834008", 
+            "o": "Zyxin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q04584", 
+            "o": "http://linkedlifedata.com/resource/#_513034353834008"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q0VA45", 
+            "o": "http://purl.uniprot.org/keywords/130"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513056413435009", 
+            "o": "Zyxin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q0VA45", 
+            "o": "http://linkedlifedata.com/resource/#_513056413435009"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q62523", 
+            "o": "http://purl.uniprot.org/keywords/130"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5136323532330010", 
+            "o": "Zyxin"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q62523", 
+            "o": "http://linkedlifedata.com/resource/#_5136323532330010"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/A5H447", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925", 
+            "o": "focal adhesion"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925", 
+            "o": "focal contact"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#relatedSynonym", 
+            "s": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925", 
+            "o": "hemi-adherens junction"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q04584", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q0VA45", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/hasLocalization", 
+            "s": "http://purl.uniprot.org/uniprot/Q62523", 
+            "o": "http://linkedlifedata.com/resource/geneontology/id/GO:0005925"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/classifiedWith", 
+            "s": "http://purl.uniprot.org/uniprot/Q15942", 
+            "o": "http://purl.uniprot.org/go/0005925"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_513135393432002F", 
+            "o": "Zyxin"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0005925", 
+            "o": "http://www.geneontology.org/go#GO:0005925"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_5131353934320030", 
+            "o": "Zyxin-2"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/intact/EBI-444225", 
+            "o": "ZYX"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0005925", 
+            "o": "focal adhesion"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0005925", 
+            "o": "focal contact"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/Q15942", 
+            "o": "http://linkedlifedata.com/resource/#_5131353934320030"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/intact/EBI-444225", 
+            "o": "http://purl.uniprot.org/uniprot/Q15942"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/Q15942", 
+            "o": "http://linkedlifedata.com/resource/#_513135393432002F"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0005925", 
+            "o": "hemi-adherens junction"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, zyxin is a focal adhesion protein."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/ZYX_CHICK", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051894", 
+        "http://www.uniprot.org/uniprot/ZYX_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D060589", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005925", 
+        "http://www.uniprot.org/uniprot/ZYX_MOUSE", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048041", 
+        "http://www.uniprot.org/uniprot/ZYX_XENTR", 
+        "http://www.uniprot.org/uniprot/ZYX_XENLA", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D022001", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002448"
+    ], 
+    "type": "yesno", 
+    "id": "54f4b319d0d681a040000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 518, 
+            "offsetInEndSection": 533, 
+            "text": " zyxin from FAs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24039980", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1233, 
+            "offsetInEndSection": 1271, 
+            "text": "zyxin relocation from focal adhesions ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24157374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 376, 
+            "offsetInEndSection": 487, 
+            "text": ". Here we systematically examined the expression, localization, and function of zyxin, a focal adhesion protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23742986", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 579, 
+            "offsetInEndSection": 607, 
+            "text": "focal adhesion protein zyxin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23336069", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1067, 
+            "offsetInEndSection": 1270, 
+            "text": "Focal adhesions formed in the absence of \u03b1-actinins are delayed in their maturation, exhibit altered morphology, have decreased amounts of Zyxin and VASP, and reduced adhesiveness to extracellular matrix", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23454549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 717, 
+            "offsetInEndSection": 751, 
+            "text": "one focal adhesion protein (zyxin)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23687301", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Zyxin is a focal adhesion protein that has been implicated in the modulation of cell adhesion and motility", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23267329", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 610, 
+            "offsetInEndSection": 677, 
+            "text": " focal adhesion proteins (vinculin, talin, zyxin, FAK, and paxilin)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23254340", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1225, 
+            "offsetInEndSection": 1340, 
+            "text": "Such paxillin-positive complexes mature into focal adhesions by tyrosine phosphorylation and recruitment of zyxin. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23028903", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 485, 
+            "offsetInEndSection": 523, 
+            "text": "Zyxin concentrates at focal adhesions ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22778267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 164, 
+            "offsetInEndSection": 196, 
+            "text": "zyxin, a focal adhesion protein,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22609203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Focal adhesion proteins Zyxin and Vinculin are co-distributed at tubulobulbar complexes.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553491", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 785, 
+            "offsetInEndSection": 918, 
+            "text": " Here we explore the prediction that zyxin, a focal adhesion protein known to be present at podosomes, also is present at apical TBCs", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553491", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 586, 
+            "offsetInEndSection": 805, 
+            "text": "the association of zyxin with focal adhesions is force-dependent, smaller zyxin-positive adhesion as well as its higher turnover rate suggests that the traction force in focal adhesion on 350 nm topography is decreased.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22516607", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 267, 
+            "text": ". Zyxin is a focal adhesion protein that responds to external mechanical forces;", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21889443", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 335, 
+            "offsetInEndSection": 423, 
+            "text": "Vinculin and zyxin in focal adhesions but not integrins are seen to bridge ligand gaps. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21598955", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 131, 
+            "text": "The focal adhesion protein zyxin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20801875", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 387, 
+            "offsetInEndSection": 592, 
+            "text": ". To explore how this response is regulated by focal adhesion-associated proteins the expression levels of paxillin, focal adhesion kinase (FAK), and zyxin were knocked down using gene silencing techniques", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19856213", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1186, 
+            "offsetInEndSection": 1239, 
+            "text": " Zyxin is an adaptor protein at focal adhesion plaque", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19173742", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1020, 
+            "text": "ocked localization of zyxin at focal adhesion sites", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19853601", 
+            "endSection": "abstract"
+        }
+    ]
+}

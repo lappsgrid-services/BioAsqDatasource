@@ -1,0 +1,207 @@
+{
+    "body": "What is the lipid droplet used for in the cell?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26121906", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25189622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25132820", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24394544", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25894691", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25110833"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12002602", 
+            "o": "MTHU008985"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1848739", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12002602"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12002602", 
+            "o": "Lipid droplets in granulocytes"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1848739", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12002602"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12002602", 
+            "o": "OMIM"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16505206", 
+            "o": "GO:0034430"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2612536", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16505206"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C2612536", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A16505206"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A16505206", 
+            "o": "lipid droplet outer lipid monolayer"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11988246", 
+            "o": "MTHU008988"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1848740", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11988246"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11988246", 
+            "o": "Lipid droplets in basal keratinocytes"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1848740", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11988246"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInCellType", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "http://purl.uniprot.org/tissues/12"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "http://linkedlifedata.com/resource/#_4F363032343000B"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/O60240", 
+            "o": "http://linkedlifedata.com/resource/#_4F363032343000C"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/12", 
+            "o": "Adipocytes"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F363032343000B", 
+            "o": "Perilipin-1"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/tissues/12", 
+            "o": "Adipocyte"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_4F363032343000C", 
+            "o": "Lipid droplet-associated protein"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/relationontology/expressedInCellType", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "http://purl.uniprot.org/tissues/12"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alternativeName", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "http://linkedlifedata.com/resource/#_503433383834009"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503433383834009", 
+            "o": "Lipid droplet-associated protein"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/fullName", 
+            "s": "http://linkedlifedata.com/resource/#_503433383834008", 
+            "o": "Perilipin-1"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/recommendedName", 
+            "s": "http://purl.uniprot.org/uniprot/P43884", 
+            "o": "http://linkedlifedata.com/resource/#_503433383834008"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11988246", 
+            "o": "OMIM"
+        }
+    ], 
+    "ideal_answer": [
+        "Lipid droplets (LDs) are ubiquitous and physiologically active organelles regulating storage and mobilization of lipids in response to metabolic demands."
+    ], 
+    "exact_answer": [
+        "lipid storage and lipid mobilization"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005811", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D066292", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034389", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D002477"
+    ], 
+    "type": "factoid", 
+    "id": "56b397a98525abca1e000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 200, 
+            "text": "Eukaryotic cells store excess fatty acids as neutral lipids, predominantly triacylglycerols and sterol esters, in organelles termed lipid droplets (LDs) that bulge out from the endoplasmic reticulum. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25894691", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 79, 
+            "text": "Lipid droplets (LD) are spherical cellular inclusion devoted to lipids storage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26121906", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 677, 
+            "offsetInEndSection": 782, 
+            "text": "Cells store fatty acids (FAs) as triacylglycerol and package them into cytoplasmic lipid droplets (LDs). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25132820", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 42, 
+            "text": "Lipid droplets are found in all cell types", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25189622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Lipid droplets (LDs) are ubiquitous and physiologically active organelles regulating storage and mobilization of lipids in response to metabolic demands. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25110833", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 348, 
+            "text": "Lipids accumulate in spherical cellular inclusions called lipid droplets (LDs) whose sizes range from fraction to one hundred of micrometers in adipocytes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24394544", 
+            "endSection": "abstract"
+        }
+    ]
+}

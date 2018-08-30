@@ -1,0 +1,255 @@
+{
+    "body": "Is olaparib effective for prostate cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23847380", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25616434", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25583815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24789362", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24225019", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25366685"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0106149", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0090893", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0106148", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0091054", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0290426", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0290427", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0290428", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0290425", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7786660", 
+            "o": "D011471"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0667486", 
+            "o": "D011471"
+        }
+    ], 
+    "ideal_answer": [
+        "Yes, olaparib was shown to be effective for treatment of prostate cancer. Olaparib led to stable disease or tumor regressions of prostate cancer patients.", 
+        "Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:10283", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011471", 
+        "http://www.disease-ontology.org/api/metadata/DOID:10286"
+    ], 
+    "type": "yesno", 
+    "id": "56c1f01eef6e394741000046", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 496, 
+            "text": "We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.METHODS: We conducted a phase 2 trial in which patients with metastatic, castration-resistant prostate cancer were treated with olaparib tablets at a dose of 400 mg twice a day. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2035, 
+            "offsetInEndSection": 2244, 
+            "text": "CONCLUSIONS: Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 511, 
+            "offsetInEndSection": 768, 
+            "text": " In addition, phase III trials in breast, gastric and pancreatic cancer are underway/planned, and phase I/II investigation is being conducted in other malignancies, including prostate cancer, non-small cell lung cancer, Ewing's sarcoma and advanced cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25616434", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 236, 
+            "text": "In a phase II study, researchers found that the PARP inhibitor olaparib led to stable disease or tumor regressions in patients with advanced breast, ovarian, pancreatic, and prostate cancers who had germline mutations in BRCA1 or BRCA2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25583815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 383, 
+            "offsetInEndSection": 647, 
+            "text": "Eligibility included ovarian cancer resistant to prior platinum; breast cancer with \u2265 three chemotherapy regimens for metastatic disease; pancreatic cancer with prior gemcitabine treatment; or prostate cancer with progression on hormonal and one systemic therapy. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25366685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 825, 
+            "offsetInEndSection": 1427, 
+            "text": "The tumor response rate was 26.2% (78 of 298; 95% CI, 21.3 to 31.6) overall and 31.1% (60 of 193; 95% CI, 24.6 to 38.1), 12.9% (eight of 62; 95% CI, 5.7 to 23.9), 21.7% (five of 23; 95% CI, 7.5 to 43.7), and 50.0% (four of eight; 95% CI, 15.7 to 84.3) in ovarian, breast, pancreatic, and prostate cancers, respectively. Stable disease \u2265 8 weeks was observed in 42% of patients (95% CI, 36.0 to 47.4), including 40% (95% CI, 33.4 to 47.7), 47% (95% CI, 34.0 to 59.9), 35% (95% CI, 16.4 to 57.3), and 25% (95% CI, 3.2 to 65.1) of those with ovarian, breast, pancreatic, or prostate cancer, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25366685", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 1301, 
+            "text": "It is increasingly clear that there are molecularly distinct subtypes of various common cancers, with different therapeutic approaches required for each subtype, for example, the use of the monoclonal antibodies (trastuzumab and cetuximab) in HER2-positive breast cancer and wild-type KRAS colorectal cancer; tyrosine kinase inhibitors (imatinib, gefitinib, erlotinib and crizotinib) in chronic myeloid leukaemia, gastrointestinal stromal tumours and non-small-cell lung cancer and intracellular agents (vemurafenib and olaparib) in metastatic malignant melanoma and ovarian, breast and prostate cancer.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24789362", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 703, 
+            "text": "Olaparib, one of the most studied PARPis, has demonstrated activity in BRCA1/2(MUT+) and BRCA-like sporadic ovarian and breast cancers, and looks promising in prostate and pancreatic cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24225019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 828, 
+            "text": "Prostate cancer cells cotreated with the HDAC inhibitor, suberoylanilide hydroxamic acid (SAHA) and the PARPi, olaparib, demonstrated a synergistic decrease in cell viability compared with single-agent treatment (combination index<0.9), whereas normal prostatic cells did not.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2035, 
+            "offsetInEndSection": 2243, 
+            "text": "CONCLUSIONS: Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 704, 
+            "text": "Olaparib, one of the most studied PARPis, has demonstrated activity in BRCA1/2(MUT+) and BRCA-like sporadic ovarian and breast cancers, and looks promising in prostate and pancreatic cancers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24225019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 62, 
+            "text": "DNA-Repair Defects and Olaparib in Metastatic Prostate Cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 815, 
+            "offsetInEndSection": 1093, 
+            "text": "Prostate cancer cells cotreated with the HDAC inhibitor, suberoylanilide hydroxamic acid (SAHA) and the PARPi, olaparib, demonstrated a synergistic decrease in cell viability compared with single-agent treatment (combination index < 0.9), whereas normal prostatic cells did not.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 305, 
+            "offsetInEndSection": 501, 
+            "text": "We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 303, 
+            "text": "A phase II study of the PARP inhibitor olaparib (AstraZeneca) for cancer patients with inherited BRCA1 and BRCA2 gene mutations confirmed earlier results showing clinical benefit for advanced breast and ovarian cancers, and demonstrated evidence of effectiveness against pancreatic and prostate cancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23847380", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 496, 
+            "text": "BACKGROUND: Prostate cancer is a heterogeneous disease, but current treatments are not based on molecular stratification. We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.METHODS: We conducted a phase 2 trial in which patients with metastatic, castration-resistant prostate cancer were treated with olaparib tablets at a dose of 400 mg twice a day. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 307, 
+            "text": "Prostate cancer is a heterogeneous disease, but current treatments are not based on molecular stratification. We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1398, 
+            "offsetInEndSection": 1646, 
+            "text": "Silencing RAD51 sensitized prostate cancer cells to SAHA and olaparib alone. Collectively, cotreatment with HDACi and PARPi downregulated HR-related protein expression and concomitantly increased DNA damage, resulting in prostate cancer cell death.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 552, 
+            "offsetInEndSection": 829, 
+            "text": "Prostate cancer cells cotreated with the HDAC inhibitor, suberoylanilide hydroxamic acid (SAHA) and the PARPi, olaparib, demonstrated a synergistic decrease in cell viability compared with single-agent treatment (combination index<0.9), whereas normal prostatic cells did not. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1809, 
+            "offsetInEndSection": 2244, 
+            "text": "The specificity of the biomarker suite was 94%. Anemia (in 10 of the 50 patients [20%]) and fatigue (in 6 [12%]) were the most common grade 3 or 4 adverse events, findings that are consistent with previous studies of olaparib.CONCLUSIONS: Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26510020", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 541, 
+            "offsetInEndSection": 822, 
+            "text": "Prostate cancer cells cotreated with the HDAC inhibitor, suberoylanilide hydroxamic acid (SAHA) and the PARPi, olaparib, demonstrated a synergistic decrease in cell viability compared with single-agent treatment (combination index &lt; 0.9), whereas normal prostatic cells did not.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25127709", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 768, 
+            "text": "In addition, phase III trials in breast, gastric and pancreatic cancer are underway/planned, and phase I/II investigation is being conducted in other malignancies, including prostate cancer, non-small cell lung cancer, Ewing's sarcoma and advanced cancer. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25616434", 
+            "endSection": "abstract"
+        }
+    ]
+}

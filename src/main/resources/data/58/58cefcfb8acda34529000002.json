@@ -1,0 +1,92 @@
+{
+    "body": "What is  Achondroplasia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20624921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24365319", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25823796"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0001080", 
+            "o": "Achondroplasia"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0001080", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0385394"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0385394", 
+            "o": "ACHONDROPLASIA"
+        }, 
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/name", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/21", 
+            "o": "Achondroplasia"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0001080", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0018520"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0018520", 
+            "o": "Achondroplasia"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1024318", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3105017"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3105017", 
+            "o": "Achondroplasia"
+        }
+    ], 
+    "ideal_answer": [
+        "Achondrogenesis type II also known as  Achondroplasia  is an autosomal-dominant disease leading to severe micromelic dwarfism", 
+        "Achondrogenesis type II is an autosomal-dominant disease leading to severe micromelic dwarfism. ", 
+        "Achondrogenesis type II is an autosomal-dominant disease leading to severe micromelic dwarfism.", 
+        "achondrogenesis type ii is an autosomal-dominant disease leading to severe micromelic dwarfism.", 
+        "achondrogenesis type ii is an autosomal-dominant disease to severe micromelic dwarfism. . "
+    ], 
+    "exact_answer": [
+        "An autosomal dominant form of dwarfism"
+    ], 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:4480", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000130"
+    ], 
+    "type": "factoid", 
+    "id": "58cefcfb8acda34529000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Achondrogenesis type II is an autosomal-dominant disease leading to severe micromelic dwarfism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25823796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "Physical basis behind achondroplasia, the most common form of human dwarfism", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20624921", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Achondroplasia is the best described and most common form of the congenital short-limbed dwarfing conditions. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24365319", 
+            "endSection": "abstract"
+        }
+    ]
+}

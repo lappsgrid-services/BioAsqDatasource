@@ -1,0 +1,78 @@
+{
+    "body": "What is the scope of the OMIA database?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16381939", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21737319", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22140104", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18940862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21982513", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17170002", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21097890"
+    ], 
+    "ideal_answer": [
+        "Online Mendelian Inheritance in Animals (OMIA) is a comprehensive, annotated catalogue of inherited disorders and other familial traits in animals. OMIA is a comprehensive resource of phenotypic information on heritable animal traits and genes in a strongly comparative context, relating traits to genes where possible."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019991"
+    ], 
+    "type": "summary", 
+    "id": "56b77a866e3f8eaf4c000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 769, 
+            "offsetInEndSection": 816, 
+            "text": "Online Mendelian Inheritance in Animals (OMIA),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22140104", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1113, 
+            "offsetInEndSection": 1159, 
+            "text": "Online Mendelian Inheritance in Animals (OMIA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21982513", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 399, 
+            "offsetInEndSection": 445, 
+            "text": "nline Mendelian Inheritance in Animals (OMIA) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21737319", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 879, 
+            "offsetInEndSection": 925, 
+            "text": "Online Mendelian Inheritance in Animals (OMIA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21097890", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 828, 
+            "offsetInEndSection": 874, 
+            "text": "Online Mendelian Inheritance in Animals (OMIA)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18940862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 173, 
+            "text": "Online Mendelian Inheritance in Animals (OMIA) is a comprehensive, annotated catalogue of inherited disorders and other familial traits in animals other than humans and mice", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16381939", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 175, 
+            "offsetInEndSection": 393, 
+            "text": "Structured as a comparative biology resource, OMIA is a comprehensive resource of phenotypic information on heritable animal traits and genes in a strongly comparative context, relating traits to genes where possible. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16381939", 
+            "endSection": "abstract"
+        }
+    ]
+}

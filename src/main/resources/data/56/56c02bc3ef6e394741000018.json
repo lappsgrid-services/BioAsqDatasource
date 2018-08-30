@@ -1,0 +1,119 @@
+{
+    "body": "Is vemurafenib effective for hairy-cell leukemia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25480661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25815361", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25148599", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26352686", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24137951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25774734"
+    ], 
+    "ideal_answer": [
+        "Yes, vemurafenib is highly effective in patients with relapsed or refractory hairy-cell leukemia."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007943", 
+        "http://www.disease-ontology.org/api/metadata/DOID:285"
+    ], 
+    "type": "yesno", 
+    "id": "56c02bc3ef6e394741000018", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1961, 
+            "offsetInEndSection": 2090, 
+            "text": "CONCLUSIONS: A short oral course of vemurafenib was highly effective in patients with relapsed or refractory hairy-cell leukemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26352686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1509, 
+            "offsetInEndSection": 1600, 
+            "text": "Our results strongly support and inform the clinical use of BRAF and MEK inhibitors in HCL.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25480661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2204, 
+            "offsetInEndSection": 2344, 
+            "text": "The therapeutic approach of vemurafenib in treatment-refractory hairy cell leukemia is promising and offers an additional treatment option. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25774734", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Successful re-treatment of a relapsed V600E mutated HCL patient with low-dose vemurafenib.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25815361", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 453, 
+            "text": "Recent identification of the recurrent V600E BRAF mutation in a majority of HCL patients has led some teams to evaluate the clinical potential of vemurafenib, a BRAF V600 specific inhibitor in a limited number of refractory HCL patients. Recently, we published the case of an HCL patient successfully treated with a low dose of vemurafenib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25815361", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 520, 
+            "offsetInEndSection": 881, 
+            "text": "We present here the successful retreatment of this patient with a second line of vemurafenib. Our data suggest for the first time that vemurafenib at the dose of 240 mg once a day could be sufficient to maintain a complete hematological remission after an initial induction treatment with low-dose vemurafenib (2 \u00d7 240 mg) daily without inducing major toxicity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25815361", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 591, 
+            "text": "The discovery of the BRAF mutation has created a therapeutic target exploited by oral inhibitors like vemurafenib and dabrafenib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25148599", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 80, 
+            "text": "[Successful use of vemurafenib in a patient with resistant hairy cell leukemia].", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24137951", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1781, 
+            "offsetInEndSection": 2091, 
+            "text": "The frequent persistence of phosphorylated ERK-positive leukemic cells in bone marrow at the end of treatment suggests bypass reactivation of MEK and ERK as a resistance mechanism.CONCLUSIONS: A short oral course of vemurafenib was highly effective in patients with relapsed or refractory hairy-cell leukemia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26352686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1934, 
+            "offsetInEndSection": 2050, 
+            "text": "A short oral course of vemurafenib was highly effective in patients with relapsed or refractory hairy-cell leukemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26352686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1937, 
+            "offsetInEndSection": 2054, 
+            "text": "A short oral course of vemurafenib was highly effective in patients with relapsed or refractory hairy-cell leukemia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26352686", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2148, 
+            "offsetInEndSection": 2287, 
+            "text": "The therapeutic approach of vemurafenib in treatment-refractory hairy cell leukemia is promising and offers an additional treatment option.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25774734", 
+            "endSection": "abstract"
+        }
+    ]
+}

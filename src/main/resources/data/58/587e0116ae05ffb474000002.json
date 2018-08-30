@@ -1,0 +1,72 @@
+{
+    "body": "Which tool is available for predicting regulatory interactions from ChIP-seq data?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27924029"
+    ], 
+    "ideal_answer": [
+        "CisMapper predicts the regulatory targets of a TF using the correlation between a histone mark at the TF's bound sites and the expression of each gene across a panel of tissues. CisMapper is more accurate at predicting the target genes of a TF than the distance-based approaches currently used, and is particularly advantageous for predicting the long-range regulatory interactions typical of tissue-specific gene expression. CisMapper also predicts which TF binding sites regulate a given gene more accurately than using genomic distance. Unlike distance-based methods, CisMapper can predict which transcription start site of a gene is regulated by a particular binding site of the TF."
+    ], 
+    "exact_answer": [
+        "CisMapper"
+    ], 
+    "type": "factoid", 
+    "id": "587e0116ae05ffb474000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "CisMapper: predicting regulatory interactions from transcription factor ChIP-seq data", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 546, 
+            "offsetInEndSection": 741, 
+            "text": "We present CisMapper, which predicts the regulatory targets of a TF using the correlation between a histone mark at the TF's bound sites and the expression of each gene across a panel of tissues.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 742, 
+            "offsetInEndSection": 1077, 
+            "text": "Using both chromatin conformation capture and differential expression data, we show that CisMapper is more accurate at predicting the target genes of a TF than the distance-based approaches currently used, and is particularly advantageous for predicting the long-range regulatory interactions typical of tissue-specific gene expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1078, 
+            "offsetInEndSection": 1338, 
+            "text": " CisMapper also predicts which TF binding sites regulate a given gene more accurately than using genomic distance. Unlike distance-based methods, CisMapper can predict which transcription start site of a gene is regulated by a particular binding site of the TF", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "CisMapper: predicting regulatory interactions from transcription factor ChIP-seq data.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "CisMapper: predicting regulatory interactions from transcription factor ChIP-seq data.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 742, 
+            "offsetInEndSection": 1078, 
+            "text": "Using both chromatin conformation capture and differential expression data, we show that CisMapper is more accurate at predicting the target genes of a TF than the distance-based approaches currently used, and is particularly advantageous for predicting the long-range regulatory interactions typical of tissue-specific gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27924029", 
+            "endSection": "abstract"
+        }
+    ]
+}

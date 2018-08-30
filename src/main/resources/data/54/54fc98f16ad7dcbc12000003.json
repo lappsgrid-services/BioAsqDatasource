@@ -1,0 +1,66 @@
+{
+    "body": "Describe the mechanism of action of drisapersen", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25209738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24292388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24620745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23995279", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24321374", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24229740"
+    ], 
+    "ideal_answer": [
+        "Drisapersen is a 2'-O-methyl-phosphorothioate oligonucleotide designed to skip exon 51 in dystrophin pre-mRNA to restore the reading frame of the mRNA. It has potential for treatment of Duchenne muscular dystrophy."
+    ], 
+    "type": "summary", 
+    "id": "54fc98f16ad7dcbc12000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 319, 
+            "text": "Drisapersen is a 2'-O-methyl-phosphorothioate oligonucleotide designed to skip exon 51 in dystrophin pre-mRNA to restore the reading frame of the mRNA. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "UNLABELLED: Chronic administration of drisapersen, a 2'-OMe phosphorothioate antisense oligonucleotide (AON) to mice and monkeys resulted in renal tubular accumulation, with secondary tubular degeneration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24292388", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 544, 
+            "offsetInEndSection": 646, 
+            "text": "Currently, the most promising potential drugs are the exon-skipping agents eteplirsen and drisapersen.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23995279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 509, 
+            "offsetInEndSection": 610, 
+            "text": "Currently, the most promising potential drugs are the exon-skipping agents eteplirsen and drisapersen", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23995279", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 167, 
+            "offsetInEndSection": 317, 
+            "text": "Drisapersen is a 2'-O-methyl-phosphorothioate oligonucleotide designed to skip exon 51 in dystrophin pre-mRNA to restore the reading frame of the mRNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24321374", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 664, 
+            "text": "Fast forward 25 years, and two phase 2b/3 trials have been carried out with agents designed to induce de novo dystrophin production in DMD patient's muscle; ataluren (stop codon read through) with 174 patients, and drisapersen (exon skipping) with 186 patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24229740", 
+            "endSection": "abstract"
+        }
+    ]
+}

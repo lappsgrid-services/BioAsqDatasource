@@ -1,0 +1,78 @@
+{
+    "body": "Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18534925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22138506", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22302819", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11180222"
+    ], 
+    "ideal_answer": [
+        "Rett syndrome (RTT) was shown to be caused by mutations in the methyl-CpG-binding protein 2 (MECP2) gene, with molecular studies identifying MECP2 mutations in up to 80% of classic RTT patients. MECP2 protein was found to assist in the transcriptional silencing process via DNA methylation. We therefore hypothesize that disruption of this gene alters the normal developmental expression of various other genes, some of which must account for the peculiar neurologic phenotype of RTT."
+    ], 
+    "exact_answer": [
+        "Methyl-CpG-binding protein 2 (MECP2)"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/MECP2_HUMAN", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032259", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D004268", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008745", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018899", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015518", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051783", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008327", 
+        "http://www.disease-ontology.org/api/metadata/DOID:1206"
+    ], 
+    "type": "factoid", 
+    "id": "534ebb59288f4dae47000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 275, 
+            "text": "Rett syndrome (RTT) results from loss-of-function mutations in the gene encoding the methyl-CpG-binding protein 2 (MeCP2) and is characterized by abnormal motor, respiratory and autonomic control, cognitive impairment, autistic-like behaviors and increased risk of seizures. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22302819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Rett syndrome (RTT) is an autism spectrum disorder caused by mutation in the gene encoding methyl CpG binding protein 2 (MECP2).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22138506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 368, 
+            "text": "Severely arrhythmic breathing is a hallmark of Rett syndrome (RTT) and profoundly affects quality of life for patients and their families. The last decade has seen the identification of the disease-causing gene, methyl-CpG-binding protein 2 (Mecp2) and the development of mouse models that phenocopy many aspects of the human syndrome, including breathing dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18534925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Rett syndrome (RTT) is an X-linked dominant neurodevelopmental disorder that manifests in females, typically after the first year of life.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11180222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 327, 
+            "offsetInEndSection": 695, 
+            "text": "It was recently discovered that RTT is caused by mutations in the methyl-CpG-binding protein 2 (MECP2) gene. MECP2 assists in the transcriptional silencing process via DNA methylation; we hypothesize that disruption of this gene alters the normal developmental expression of various other genes, some of which must account for the peculiar neurologic phenotype of RTT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11180222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 696, 
+            "offsetInEndSection": 927, 
+            "text": "Molecular studies have identified MECP2 mutations in up to 80% of classic RTT patients; mutation type has some effect on the phenotypic manifestation of RTT, but the pattern of X inactivation seems to determine phenotypic severity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11180222", 
+            "endSection": "abstract"
+        }
+    ]
+}

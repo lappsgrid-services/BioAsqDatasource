@@ -1,0 +1,86 @@
+{
+    "body": "Which are the mammalian orthologs of Drosophila Yki?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17980593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18413746", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23484853", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22898666", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23985272", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22101275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19878874"
+    ], 
+    "ideal_answer": [
+        "There are two mammalian orthologs of Yki: YAP and TAZ"
+    ], 
+    "exact_answer": [
+        [
+            "YAP"
+        ], 
+        [
+            "TAZ"
+        ]
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/YORKI_DROME"
+    ], 
+    "type": "list", 
+    "id": "533c2a55c45e133714000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1508, 
+            "offsetInEndSection": 1527, 
+            "text": "Yorkie ortholog YAP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22898666", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 350, 
+            "text": "Yorkie ortholog, Yap1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19878874", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 255, 
+            "offsetInEndSection": 284, 
+            "text": "human ortholog of Yorkie, YAP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18413746", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 251, 
+            "text": "YAP1, the ortholog of Drosophila Yorkie", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17980593", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 702, 
+            "text": "Yorkie ortholog YAP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23985272", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 710, 
+            "text": " Yorkie homolog YAP", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23484853", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 909, 
+            "offsetInEndSection": 936, 
+            "text": "Yki (YAP/TAZ in vertebrates", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22101275", 
+            "endSection": "abstract"
+        }
+    ]
+}

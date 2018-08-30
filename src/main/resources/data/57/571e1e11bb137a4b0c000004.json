@@ -1,0 +1,118 @@
+{
+    "body": "List side effects of SGLT2 inhibitors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24341330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22977310", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24400675", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23807940", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24631482", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25488697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24455799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23042029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25962253"
+    ], 
+    "ideal_answer": [
+        "SGLT2 inhibitors can be associated with urogenital infections related to the enhanced glycosuria, and low blood pressure."
+    ], 
+    "exact_answer": [
+        [
+            "urinary tract infections"
+        ], 
+        [
+            "genital infections"
+        ], 
+        [
+            "low blood pressure"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D051297", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D064420", 
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D065606"
+    ], 
+    "type": "list", 
+    "id": "571e1e11bb137a4b0c000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 515, 
+            "offsetInEndSection": 697, 
+            "text": "Due to side effects such as urinary tract and genital infections and decrease in blood pressure, proper patient selection for drug initiation and close monitoring will be important. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23807940", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1618, 
+            "offsetInEndSection": 1732, 
+            "text": "Urogenital side-effects related to the enhanced glycosuria can be troublesome, yet seldom lead to discontinuation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 800, 
+            "offsetInEndSection": 1019, 
+            "text": "Promotion of urinary loss of glucose by SGLT2 inhibitors embodies a new principle of control in type 2 diabetes that has several advantages with some urogenital side-effects, both of which are evaluated in this review. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 800, 
+            "offsetInEndSection": 1017, 
+            "text": "Promotion of urinary loss of glucose by SGLT2 inhibitors embodies a new principle of control in type 2 diabetes that has several advantages with some urogenital side-effects, both of which are evaluated in this review", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Effect of SGLT2 inhibitors in a murine model of urinary tract infection with Candida albicans.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24400675", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 801, 
+            "offsetInEndSection": 975, 
+            "text": "Promotion of urinary loss of glucose by SGLT2 inhibitors embodies a new principle of control in type 2 diabetes that has several advantages with some urogenital side-effects,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1619, 
+            "offsetInEndSection": 1733, 
+            "text": "Urogenital side-effects related to the enhanced glycosuria can be troublesome, yet seldom lead to discontinuation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 801, 
+            "offsetInEndSection": 1019, 
+            "text": "Promotion of urinary loss of glucose by SGLT2 inhibitors embodies a new principle of control in type 2 diabetes that has several advantages with some urogenital side-effects, both of which are evaluated in this review.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24825435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1152, 
+            "offsetInEndSection": 1348, 
+            "text": "There are some side effects that warrant further investigation and establishing whether SGLT2 inhibition provides a renal benefit relies on future long-term studies with specific renal end-points.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23042029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 920, 
+            "offsetInEndSection": 1074, 
+            "text": "It should be noted that the currently approved agents have side effects that include an increased incidence of genital infections, predominantly in women.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24631482", 
+            "endSection": "abstract"
+        }
+    ]
+}

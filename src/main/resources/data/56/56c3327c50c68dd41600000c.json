@@ -1,0 +1,162 @@
+{
+    "body": "Which DNA sequences are more prone for the formation of R-loops?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16793409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25147206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24843019", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20080737", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15531884", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18986989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25296254", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25972891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22464440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24787137", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24743386"
+    ], 
+    "ideal_answer": [
+        "R-loops, transcriptionally-induced RNA:DNA hybrids, occurring at repeat tracts (CTG)n, (CAG)n, (CGG)n, (CCG)n and (GAA)n, are associated with diseases including myotonic dystrophy, Huntington's disease, fragile X and Friedreich's ataxia.  Physiological R-loop formation at CpG island promoters can contribute to DNA replication origin specification at these regions, the most efficient replication initiation sites in mammalian cells. R-loops may also possess beneficial effects, as their widespread formation has been detected over CpG island promoters in human genes. R-loops are particularly enriched over G-rich terminator elements."
+    ], 
+    "exact_answer": [
+        [
+            "G-rich elements"
+        ], 
+        [
+            "CpG islands"
+        ], 
+        [
+            "(CTG)n, (CAG)n, (CGG)n, (CCG)n and (GAA)n"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56c3327c50c68dd41600000c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 236, 
+            "text": "R-loops, transcriptionally-induced RNA:DNA hybrids, occurring at repeat tracts (CTG)n, (CAG)n, (CGG)n, (CCG)n and (GAA)n, are associated with diseases including myotonic dystrophy, Huntington's disease, fragile X and Friedreich's ataxia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25147206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1157, 
+            "offsetInEndSection": 1429, 
+            "text": "Double-R-loop formation and processing to instability was extended to the expanded C9orf72 (GGGGCC)\u00b7(GGCCCC) repeats, known to cause amyotrophic lateral sclerosis and frontotemporal dementia, providing the first suggestion through which these repeats may become unstable. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25147206", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 245, 
+            "offsetInEndSection": 461, 
+            "text": "Here we propose that physiological R-loop formation at CpG island promoters can contribute to DNA replication origin specification at these regions, the most efficient replication initiation sites in mammalian cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25972891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 333, 
+            "offsetInEndSection": 466, 
+            "text": "R-loops may also possess beneficial effects, as their widespread formation has been detected over CpG island promoters in human genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25296254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 468, 
+            "offsetInEndSection": 576, 
+            "text": "Furthermore, we have previously shown that R-loops are particularly enriched over G-rich terminator elements", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25296254", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 49, 
+            "text": "R-loops associated with triplet repeat expansions", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24787137", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Periodic DNA patrolling underlies diverse functions of Pif1 on R-loops and G-rich DNA", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24843019", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 233, 
+            "text": "Ginno et al. (2012) describe unusual sequence features at promoter CpG islands that can lead to formation of persistent RNA-DNA hybrids (R loops), which are proposed to prevent genomic DNA methylation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22464440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "R loops stimulate genetic instability of CTG.CAG repeats", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20080737", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 333, 
+            "text": " We demonstrate, using biochemical and genetic approaches, that the formation of stable RNA.DNA hybrids enhances the instability of CTG.CAG repeat tracts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20080737", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 110, 
+            "offsetInEndSection": 265, 
+            "text": " The R-loop, previously characterized in vitro at the leading strand replication origin (OH), is isolated as a native RNA-DNA hybrid copurifying with mtDNA", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18986989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 475, 
+            "text": "All of these R-loops arise upon generation of a G-rich RNA strand by an RNA polymerase upon transcription of a C-rich DNA template strand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16793409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1219, 
+            "offsetInEndSection": 1525, 
+            "text": "Finally, non-denaturing bisulfite mapping of the displaced single-stranded DNA confirmed R-loop formation at the endogenous FMR1 locus and further indicated that R-loops formed over CGG repeats may be prone to structural complexities, including hairpin formation, not commonly associated with other R-loops", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24743386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 512, 
+            "offsetInEndSection": 754, 
+            "text": "We have observed that transcription through the GC-rich FMR1 5&apos;UTR region favors R-loop formation, with the nascent (G-rich) RNA forming a stable RNA:DNA hybrid with the template DNA strand, thereby displacing the non-template DNA strand", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24743386", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 390, 
+            "offsetInEndSection": 440, 
+            "text": "which is rich in AT and not prone to form R-loops,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15531884", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1220, 
+            "offsetInEndSection": 1527, 
+            "text": "Finally, non-denaturing bisulfite mapping of the displaced single-stranded DNA confirmed R-loop formation at the endogenous FMR1 locus and further indicated that R-loops formed over CGG repeats may be prone to structural complexities, including hairpin formation, not commonly associated with other R-loops.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24743386", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "body": "List the three most prevalent pathogenic species of Borrelia in Europe.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22522688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23837798", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25273355", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24533160", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24446554", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25120960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24886071", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23838444", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22445929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21876490", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25333277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25409015", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23045802", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24623628", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22742788"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A7570463", 
+            "o": "NCI Thesaurus"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0056849"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0056850"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0056848", 
+            "o": "Europe"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7570463"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0056848"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0056849"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0015176", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0056847"
+        }
+    ], 
+    "ideal_answer": [
+        "The most prevalent pathogenic species of Borrelia in Europe are: B. afzelii, B. garinii and B. burgdorferi ss."
+    ], 
+    "exact_answer": [
+        [
+            "B. afzelii"
+        ], 
+        [
+            "B. garinii"
+        ], 
+        [
+            "B. burgdorferi ss."
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015748", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005060", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005061", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013045", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058865", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001899", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001898", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D025065"
+    ], 
+    "type": "list", 
+    "id": "54edaee3445c3b5a5f000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 299, 
+            "offsetInEndSection": 577, 
+            "text": " The Borrelia species causing Lyme borreliosis in Europe express different OspA serotypes on their surface, B. burgdorferi (serotype 1), B. afzelii (serotype 2), B. garinii (serotypes, 3, 5 and 6) and B. bavariensis (serotype 4), while only B. burgdorferi is present in the US. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25409015", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 88, 
+            "text": "Borrelia afzelii is the predominant Borrelia species causing Lyme borreliosis in Europe.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25273355", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1030, 
+            "offsetInEndSection": 1169, 
+            "text": "Moreover we detected Borrelia spielmanii, Borrelia miyamotoi, Babesia divergens, and Babesia venatorum for the first time in Danish ticks. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25120960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 711, 
+            "offsetInEndSection": 797, 
+            "text": "We successfully determined the prevalence of expected (Borrelia burgdorferi sensu lato", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25120960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 362, 
+            "text": "Borrelia miyamotoi is a newly described emerging pathogen transmitted to people by Ixodes species ticks and found in temperate regions of North America, Europe, and Asia. There is limited understanding of large scale entomological risk patterns of B. miyamotoi and of Borreila burgdorferi sensu stricto (ss), the agent of Lyme disease, in western North America. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25333277", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 189, 
+            "text": "In France as elsewhere in Europe the most prevalent TBD in humans is Lyme borreliosis, caused by different bacterial species belonging to Borrelia burgdorferi sensu lato complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24886071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 426, 
+            "offsetInEndSection": 596, 
+            "text": "B. miyamotoi belonging to the relapsing fever group and transmitted by the same Ixodes species has been involved in human disease in Russia, the USA and the Netherlands. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24886071", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Laboratory diagnosis of Lyme disease is based on the serological detection of antibodies against the etiologic agent Borrelia burgdorferi.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24623628", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 143, 
+            "offsetInEndSection": 357, 
+            "text": "B. burgdorferi sl complex, currently comprising at least 19 genospecies, includes the main pathogenic species responsible for human disease in Europe: B. burgdorferi sensu stricto (ss), B. afzelii, and B. garinii. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24533160", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "The European red squirrel (Sciurus vulgaris) has long been suspected to be a reservoir host of the agents of Lyme borreliosis, in particular B. burgdorferi sensu stricto (s.s.).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24446554", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1610, 
+            "offsetInEndSection": 1765, 
+            "text": "n adults (n = 227), the prevalence of infection with B. burgdorferi s.l. was 27.3%, with 18.9% B. burgdorferi s.s., 11.9% B. afzelii, and 3.5% B. garinii. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24446554", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 816, 
+            "offsetInEndSection": 882, 
+            "text": ": The overall estimated prevalence of B. burgdorferi s.l was 9.7% ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837798", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1090, 
+            "offsetInEndSection": 1342, 
+            "text": ". The most prevalent genospecies was B. afzelii which was detected in 53.5% of Borrelia-positive ticks, followed by B. garinii and B. valaisiana with 26.2% and 5.5%, respectively. Also, B. bavariensis and B. burgdorferi s.s. DNA in single I. ricinus ti", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23837798", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1052, 
+            "offsetInEndSection": 1279, 
+            "text": " Among all the analysed antigens those of B. burgdorferi s.s. were the most frequent cause of immunological reaction, followed by antigens of B. afzelii and B. garinii. Reaction to antigens of B. spielmanii was rarely detected.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22742788", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 413, 
+            "offsetInEndSection": 645, 
+            "text": "Overall, 15.8% ticks were infected with B. burgdorferi s. I. Borrelia afzelii (43.1%) was the predominant genospecies, followed by Borrelia valaisiana (14.7%), Borrelia garinii (13.7%) and Borrelia burgdorferi sensu stricto (6.3%). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23045802", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1156, 
+            "offsetInEndSection": 1310, 
+            "text": "In cases where the genospecies could be identified, B. garinii was most frequently found (8x), followed with B. burgdorferi s.s. (4\u00d7) and B. afzelii (3\u00d7).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21876490", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "In Europe, Ixodes ricinus is the vector of many pathogens of medical and veterinary relevance, among them Borrelia burgdorferi sensu lato and tick-borne encephalitis virus, which have been the subject of numerous investigations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22522688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 966, 
+            "offsetInEndSection": 1169, 
+            "text": "The minimum prevalence of Borrelia burgdorferi sensu lato was 2.5%. Borr. afzelii, Borr. burgdorferi sensu stricto, Borr. garinii, Borr. lusitaniae, and Borr. valaisiana were identified by hybridization.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22445929", 
+            "endSection": "abstract"
+        }
+    ]
+}

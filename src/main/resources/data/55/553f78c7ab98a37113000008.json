@@ -1,0 +1,208 @@
+{
+    "body": "Are transcribed ultraconserved regions involved in cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21298224", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22617881", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24247010", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18323801", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20802525", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20383195"
+    ], 
+    "ideal_answer": [
+        "Yes, it appears that there is widespread T-UCR (Transcribed - UltraConserved Region) involvement in diverse cellular processes that are deregulated in the process of tumourigenesis. Transcribed ultraconserved regions (T-UCRs) are a subset of 481 sequences longer than 200 bp, which are absolutely conserved between orthologous regions of human, rat and mouse genomes, and are actively transcribed. It has recently been proven in cancer systems that differentially expressed T-UCRs could alter the functional characteristics of malignant cells."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:162"
+    ], 
+    "type": "yesno", 
+    "id": "553f78c7ab98a37113000008", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 401, 
+            "text": "Although most cancer research has focused in mRNA, non-coding RNAs are also an essential player in tumorigenesis. In addition to the well-recognized microRNAs, recent studies have also shown that epigenetic silencing by CpG island hypermethylation of other classes of non-coding RNAs, such as transcribed ultraconserved regions (T-UCRs) or small nucleolar RNAs (snoRNAs), also occur in human neoplasia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24247010", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 684, 
+            "text": "Starting from a genome-wide expression profiling, we demonstrate for the first time a functional link between oxygen deprivation and the modulation of long noncoding transcripts from ultraconserved regions, termed transcribed-ultraconserved regions (T-UCRs). Interestingly, several hypoxia-upregulated T-UCRs, henceforth named 'hypoxia-induced noncoding ultraconserved transcripts' (HINCUTs), are also overexpressed in clinical samples from colon cancer patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1062, 
+            "offsetInEndSection": 1147, 
+            "text": "Consistent with the hypothesis that T-UCRs have important function in tumor formation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 563, 
+            "text": "The importance of other classes of non-coding RNAs, such as long intergenic ncRNAs (lincRNAs) and transcribed ultraconserved regions (T-UCRs) as altered elements in neoplasia, is also gaining recognition", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22617881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 105, 
+            "text": "Expression levels of transcribed ultraconserved regions uc.73 and uc.388 are altered in colorectal cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 105, 
+            "offsetInEndSection": 566, 
+            "text": "Transcribed ultraconserved regions (T-UCRs) are a subset of 481 sequences longer than 200 bp, which are absolutely conserved between orthologous regions of human, rat and mouse genomes, and are actively transcribed. It has recently been proven in cancer systems that differentially expressed T-UCRs could alter the functional characteristics of malignant cells. Genome-wide profiling revealed that T-UCRs have distinct signatures in human leukemia and carcinoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1298, 
+            "offsetInEndSection": 1424, 
+            "text": " Our preliminary results suggest that uc.73 and uc.388 could be potential diagnostic and prognostic biomarkers in CRC patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "The transcribed-ultraconserved regions: a novel class of long noncoding RNAs involved in cancer susceptibility", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21298224", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 491, 
+            "offsetInEndSection": 906, 
+            "text": "This review gives a picture of the state of the art of a novel class of long ncRNA known as transcribed-ultraconserved regions (T-UCRs). Most recent studies show that they are significantly altered in adult chronic lymphocytic leukemias, carcinomas, and pediatric neuroblastomas, leading to the hypothesis that UCRs may play a role in tumorigenesis and promising innovative future T-UCR-based therapeutic approaches", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21298224", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 123, 
+            "text": "CpG island hypermethylation-associated silencing of non-coding RNAs transcribed from ultraconserved regions in human cancer", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20802525", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 676, 
+            "offsetInEndSection": 1951, 
+            "text": "We focused on the transcribed-ultraconserved regions (T-UCRs), a subset of DNA sequences that are absolutely conserved between orthologous regions of the human, rat and mouse genomes and that are located in both intra- and intergenic regions. We used a pharmacological and genomic approach to reveal the possible existence of an aberrant epigenetic silencing pattern of T-UCRs by treating cancer cells with a DNA-demethylating agent followed by hybridization to an expression microarray containing these sequences. We observed that DNA hypomethylation induces release of T-UCR silencing in cancer cells. Among the T-UCRs that were reactivated upon drug treatment, Uc.160+, Uc283+A and Uc.346+ were found to undergo specific CpG island hypermethylation-associated silencing in cancer cells compared with normal tissues. The analysis of a large set of primary human tumors (n=283) demonstrated that hypermethylation of the described T-UCR CpG islands was a common event among the various tumor types. Our finding that, in addition to microRNAs, another class of ncRNAs (T-UCRs) undergoes DNA methylation-associated inactivation in transformed cells supports a model in which epigenetic and genetic alterations in coding and non-coding sequences cooperate in human tumorigenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20802525", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "An integrative genomics screen uncovers ncRNA T-UCR functions in neuroblastoma tumours", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20383195", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 293, 
+            "text": "Different classes of non-coding RNAs, including microRNAs, have recently been implicated in the process of tumourigenesis. In this study, we examined the expression and putative functions of a novel class of non-coding RNAs known as transcribed ultraconserved regions (T-UCRs) in neuroblastoma", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20383195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 780, 
+            "offsetInEndSection": 969, 
+            "text": "our results define a T-UCR expression landscape in neuroblastoma and suggest widespread T-UCR involvement in diverse cellular processes that are deregulated in the process of tumourigenesis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20383195", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 938, 
+            "text": "Moreover, the recent demonstration that other ncRNAs, the ultraconserved genes (UCGs) or transcribed ultraconserved regions (T-UCRs), are involved in human cancerogenesis, suggests that the wider family of ncRNAs (including both miRNAs and UCGs) could contribute to the development of the malignant phenotype. Here we review the main studies investigating the role of miRNAs and UCRs in both normal hemopoiesis and hematological malignancies, and identify the molecular, clinical and therapeutic implications of these recent findings", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18323801", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 111, 
+            "text": "The transcribed-ultraconserved regions: a novel class of long noncoding RNAs involved in cancer susceptibility.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21298224", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Expression levels of transcribed ultraconserved regions uc.73 and uc.388 are altered in colorectal cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 124, 
+            "text": "CpG island hypermethylation-associated silencing of non-coding RNAs transcribed from ultraconserved regions in human cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20802525", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 220, 
+            "offsetInEndSection": 479, 
+            "text": "Starting from a genome-wide expression profiling, we demonstrate for the first time a functional link between oxygen deprivation and the modulation of long noncoding transcripts from ultraconserved regions, termed transcribed-ultraconserved regions (T-UCRs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 360, 
+            "offsetInEndSection": 564, 
+            "text": "The importance of other classes of non-coding RNAs, such as long intergenic ncRNAs (lincRNAs) and transcribed ultraconserved regions (T-UCRs) as altered elements in neoplasia, is also gaining recognition.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22617881", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 714, 
+            "text": "Moreover, the recent demonstration that other ncRNAs, the ultraconserved genes (UCGs) or transcribed ultraconserved regions (T-UCRs), are involved in human cancerogenesis, suggests that the wider family of ncRNAs (including both miRNAs and UCGs) could contribute to the development of the malignant phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18323801", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 405, 
+            "offsetInEndSection": 713, 
+            "text": "Moreover, the recent demonstration that other ncRNAs, the ultraconserved genes (UCGs) or transcribed ultraconserved regions (T-UCRs), are involved in human cancerogenesis, suggests that the wider family of ncRNAs (including both miRNAs and UCGs) could contribute to the development of the malignant phenotype", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18323801", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 479, 
+            "text": "Starting from a genome-wide expression profiling, we demonstrate for the first time a functional link between oxygen deprivation and the modulation of long noncoding transcripts from ultraconserved regions, termed transcribed-ultraconserved regions (T-UCRs)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24037088", 
+            "endSection": "abstract"
+        }
+    ]
+}

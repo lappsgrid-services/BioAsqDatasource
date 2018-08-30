@@ -1,0 +1,100 @@
+{
+    "body": "Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/16998506", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17721994", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12610780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14618615", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19763819"
+    ], 
+    "ideal_answer": [
+        "CHEK2 1100delC mutation is recurrently detected in the general population and is thought to confer a moderate risk for breast cancer."
+    ], 
+    "exact_answer": [
+        "CHEK2 1100delC mutation"
+    ], 
+    "type": "factoid", 
+    "id": "5357b36cf1005d6b58000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 654, 
+            "text": "the two most studied breast cancer-predisposing variants of the CHEK2 gene, 1100delC and I157T", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16998506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "The CHEK2-1100delC mutation is recurrent in the population and is a moderate risk factor for breast cancer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17721994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 675, 
+            "offsetInEndSection": 904, 
+            "text": "The germline CHEK2-1100delC mutation was present among 8/1,646 (0.5%) sporadic, 2/400 (0.5%) early-onset and 3/302 (1%) familial breast cancer cases, but undetectable amongst 2,105 multiethnic controls, including 633 from the US.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17721994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 986, 
+            "offsetInEndSection": 1145, 
+            "text": "1100delC appears to be the only recurrent CHEK2 mutation associated with a potentially significant contribution to breast cancer risk in the general population", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17721994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1559, 
+            "offsetInEndSection": 1830, 
+            "text": "Our findings highlight the notion that clinical testing for rare missense mutations within CHEK2 may have limited value in predicting breast cancer risk, but that testing for the 1100delC variant may be valuable in phenotypically- and geographically-selected populations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17721994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Variants in CHEK2 other than 1100delC do not make a major contribution to breast cancer susceptibility.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12610780", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 202, 
+            "text": "We recently reported that a sequence variant in the cell-cycle-checkpoint kinase CHEK2 (CHEK2 1100delC) is a low-penetrance breast cancer-susceptibility allele in noncarriers of BRCA1 or BRCA2 mutations", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12610780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 994, 
+            "offsetInEndSection": 1131, 
+            "text": "These results indicate that 1100delC may be the only CHEK2 allele that makes an appreciable contribution to breast cancer susceptibility.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12610780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 685, 
+            "offsetInEndSection": 781, 
+            "text": "CHEK2_1100delC was found in 5/903 (0.5%) breast cancer cases compared to 1/1016 (0.1%) controls.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19763819", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 128, 
+            "offsetInEndSection": 446, 
+            "text": "Recently, the CHEK 2 gene, involved in DNA damage and replication checkpoints, has been pointed out as a good candidate; moreover, a specific variant in this gene,1100delC, has been found to increase breast cancer susceptibility among familial breast cancer cases not attributable to mutations in BRCA1 or BRCA2 genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14618615", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "body": "What is the mode of action of Hsp90 inhibitors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18852131", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18347135", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15849317", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10962573"
+    ], 
+    "ideal_answer": [
+        "Pharmacologic inhibition of Hsp90 involves interaction with the ATP-binding site of the chaperone. This exerts antiproliferative effects resulting in a marked suppression of tumor growth. Following treatment with a Hsp90 inhibitor, expression of a number of proteins is affected, and most notably the Hsp90 clients, leading to dysregulation of intracellular signal transduction, immune response, cell growth and maintenance, transport, and metabolism, finally resulting in cancer cell death through activation of both intrinsic and extrinsic apoptotic pathways."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/HSP82_ENCCU", 
+        "http://www.uniprot.org/uniprot/HSP90_THEPA", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051879", 
+        "http://www.uniprot.org/uniprot/HSP90_ASPFU", 
+        "http://www.biosemantics.org/jochem#4175054", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018841", 
+        "http://www.uniprot.org/uniprot/HSP90_BRUPA", 
+        "http://www.uniprot.org/uniprot/HSP90_EIMTE", 
+        "http://www.uniprot.org/uniprot/HSP90_THEAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D045504", 
+        "http://www.uniprot.org/uniprot/H90A1_DANRE", 
+        "http://www.biosemantics.org/jochem#4250710", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020228"
+    ], 
+    "type": "summary", 
+    "id": "5309fa5e970c65fa6b000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 432, 
+            "offsetInEndSection": 608, 
+            "text": "In vitro, we show that pharmacologic inhibition of Hsp90 by IPI-504 exerts antiproliferative effects in a panel of pancreatic cancer cells in a dose- and time-dependent manner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18852131", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 609, 
+            "offsetInEndSection": 754, 
+            "text": "In pancreatic cancer xenografts obtained directly from patients with pancreas cancer, the agent resulted in a marked suppression of tumor growth.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18852131", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 991, 
+            "offsetInEndSection": 1589, 
+            "text": "Using a proteomic profiling analysis with isotope tags for relative and absolute quantitation labeling technique, we have identified 20 down-regulated proteins and 42 up-regulated proteins on IPI-504 treatment.tumor growth Identical changes were observed in the expression of the genes coding for these proteins in a subset of proteins including HSPA1B, LGALS3, CALM1, FAM84B, FDPS, GOLPH2, HBA1, HIST1H1C, HLA-B, and MARCKS. The majority of these proteins belong to the functional class of intracellular signal transduction, immune response, cell growth and maintenance, transport, and metabolism.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18852131", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 187, 
+            "offsetInEndSection": 403, 
+            "text": "Dicoumarol, a long-established oral anticoagulant, is a new Hsp90 inhibitor that represses PTTG1/Securin gene expression and provokes apoptosis through a complex trait involving both intrinsic and extrinsic pathways.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18347135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 404, 
+            "offsetInEndSection": 584, 
+            "text": "Dicoumarol activity as an Hsp90 inhibitor is confirmed by smaller levels of Hsp90 clients in treated cells and inhibition of in vivo heat shock luciferase activity recovery assays.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18347135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 585, 
+            "offsetInEndSection": 707, 
+            "text": "Likewise, established Hsp90 inhibitors (17-allylamino-geldanamycin and novobiocin) repress PTTG1/Securin gene expression. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18347135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1048, 
+            "offsetInEndSection": 1185, 
+            "text": "However, effects on PTTG1/Securin could be partially ascribed to inhibition of the Ras/Raf/extracellular signal-regulated kinase pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18347135", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 620, 
+            "text": "To document this field, we have studied two Hsp90 inhibitors (radicicol and geldanamycin), known to interact with the ATP-binding site of Hsp90 (the Bergerat fold),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15849317", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 183, 
+            "offsetInEndSection": 481, 
+            "text": "One of these is the novel agent 17-allylamino-17-demethoxygeldanamycin that acts to inhibit the hsp90 molecular chaperone. Treatment of four human colon cancer cell lines with iso-effective concentrations of this agent resulted in depletion of c-raf-1 and akt and inhibition of signal transduction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10962573", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 584, 
+            "offsetInEndSection": 747, 
+            "text": "The expression of hsp90 client protein genes was not affected, but hsc hsp70, hsp90beta, keratin 8, keratin 18 and caveolin-1 were deregulated following treatment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10962573", 
+            "endSection": "abstract"
+        }
+    ]
+}

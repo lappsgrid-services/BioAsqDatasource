@@ -1,0 +1,75 @@
+{
+    "body": "Has single guide RNA been used on human cells?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24336569", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23873081", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25122746", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24870050", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25048165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25759096", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24136345", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24770324", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23907171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23940360", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23999092"
+    ], 
+    "ideal_answer": [
+        "Yes, sgRNA has been used in human cell lines."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017394"
+    ], 
+    "type": "yesno", 
+    "id": "56f1547c2ac5ed1459000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 719, 
+            "text": "We used a library containing 73,000 sgRNAs to generate knockout collections and performed screens in two human cell lines.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24336569", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 353, 
+            "offsetInEndSection": 583, 
+            "text": "Here we engineer this system to enable RNA-guided genome regulation in human cells by tethering transcriptional activation domains either directly to a nuclease-null Cas9 protein or to an aptamer-modified single guide RNA (sgRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23907171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "The type II CRISPR/Cas system from Streptococcus pyogenes and its simplified derivative, the Cas9/single guide RNA (sgRNA) system, have emerged as potent new tools for targeted gene knockout in bacteria, yeast, fruit fly, zebrafish and human cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23999092", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 124, 
+            "offsetInEndSection": 355, 
+            "text": "Here we engineer this system to enable RNA-guided genome regulation in human cells by tethering transcriptional activation domains either directly to a nuclease-null Cas9 protein or to an aptamer-modified single guide RNA (sgRNA). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23907171", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 381, 
+            "offsetInEndSection": 629, 
+            "text": "Using synthetic single RNA guides, Cas9 can be reprogrammed to create specific double-stranded DNA breaks in the genomes of a variety of organisms, ranging from human cells to bacteria, and thus constitutes a powerful tool for genetic engineering. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25048165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 125, 
+            "offsetInEndSection": 355, 
+            "text": "Here we engineer this system to enable RNA-guided genome regulation in human cells by tethering transcriptional activation domains either directly to a nuclease-null Cas9 protein or to an aptamer-modified single guide RNA (sgRNA).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23907171", 
+            "endSection": "abstract"
+        }
+    ]
+}

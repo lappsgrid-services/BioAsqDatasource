@@ -1,0 +1,189 @@
+{
+    "body": "Is it possible to purify pseudopodia to be used for proteomic analysis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22980730", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21909922", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23313222", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22751350", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17712138"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0107210", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11597519"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1396549", 
+            "o": "pseudopod"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0449712", 
+            "o": "Pseudopodium"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0449712"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1396549"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0107210"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11622199", 
+            "o": "pseudopodium"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11622199"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0107210"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0107210", 
+            "o": "Pseudopodia"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0449712", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11597519", 
+            "o": "Gene Ontology"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11622199", 
+            "o": "Gene Ontology"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#narrower", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0033827", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C1622568"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11622225", 
+            "o": "pseudopodium membrane"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/partOf", 
+            "s": "http://purl.uniprot.org/locations/471", 
+            "o": "http://purl.uniprot.org/locations/298"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/locations/298", 
+            "o": "Pseudopod"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0031143", 
+            "o": "pseudopodium"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/locations/298", 
+            "o": "Pseudopodium"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/go/0031143", 
+            "o": "pseudopod"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/locations/471", 
+            "o": "Pseudopodium tip"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://purl.uniprot.org/locations/298", 
+            "o": "Pseudopodia"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://purl.uniprot.org/go/0031143", 
+            "o": "http://www.geneontology.org/go#GO:0031143"
+        }, 
+        {
+            "p": "http://purl.uniprot.org/core/alias", 
+            "s": "http://purl.uniprot.org/locations/471", 
+            "o": "pseudopodium tip"
+        }
+    ], 
+    "ideal_answer": [
+        "Pseudopodia can be purified, using different strategies, in order to be used in proteomic studies."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011554", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901"
+    ], 
+    "type": "yesno", 
+    "id": "52e01f8f98d023950500000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 675, 
+            "text": "we developed an approach to biochemically isolate the pseudopodium from the cell body using 3.0-micrometer porous filters for large-scale quantitative proteomic and phosphoproteomic analysis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17712138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 337, 
+            "offsetInEndSection": 556, 
+            "text": "Recent work using unique subcellular fractionation methodologies combined with spatial genomic, proteomic, and phosphoproteomic profiling has provided insight into the invadopodiome and pseudopodiome signaling networks ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22980730", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 350, 
+            "offsetInEndSection": 393, 
+            "text": "ere, we purified the pseudopodial proteomes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23313222", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 326, 
+            "offsetInEndSection": 665, 
+            "text": "tumor cells were placed on a fibronectin-coated porous membrane to form pseudopodia. According to the motile potentials of the cells, the cells formed pseudopodial microprocesses in the pores. An excimer laser, which was used for ophthalmic refractive surgeries, horizontally ablated cells at the membrane surface to remove the cell body. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22751350", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 545, 
+            "offsetInEndSection": 954, 
+            "text": "we describe methods for the immunoaffinity purification of phosphotyrosine proteins (pY) from pseudopodia that have been isolated from migratory cells. These methods are compatible with current mass spectrometry-based protein identification technologies and can be utilized for the large-scale identification of the pseudopodium pY proteome in various migratory cell lines, including primary and cancer cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21909922", 
+            "endSection": "abstract"
+        }
+    ]
+}

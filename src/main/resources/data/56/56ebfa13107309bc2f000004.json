@@ -1,0 +1,236 @@
+{
+    "body": "Which are the roles of chromatin compartments in the eukaryotic nucleus?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15791412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18974210", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21637796", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15140983", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22198682", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11909528", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9636146", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9291094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24002784", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9587055", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18434402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25409831", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11186332"
+    ], 
+    "ideal_answer": [
+        "The complexity in composition and function of the eukaryotic nucleus is achieved through its organization in specialized nuclear compartments. Chromosome conformation capture approaches have shown that interphase chromatin is partitioned into spatially segregated Mb-sized compartments and sub-Mb-sized topological domains. This compartmentalization is thought to facilitate the matching of genes and regulatory elements. Cohesin-based chromatin interactions enable regulated gene expression within preexisting architectural compartments. Therefore, concentrating proteins needed to perform different steps of RNA synthesis within specialized nuclear compartments is important in orchestrating events required for efficient gene expression."
+    ], 
+    "exact_answer": [
+        [
+            "providing complex regulation"
+        ], 
+        [
+            "facilitating matching genes and regulatory elements"
+        ], 
+        [
+            "efficient trancription"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56ebfa13107309bc2f000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1047, 
+            "offsetInEndSection": 1242, 
+            "text": "concentrating proteins needed to perform different steps of RNA synthesis within specialized nuclear compartments will be important in orchestrating events required for efficient gene expression.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9291094", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Chromatin domains and nuclear compartments: establishing sites of gene expression in eukaryotic nuclei.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9291094", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 529, 
+            "text": "Using the adult bovine lens as a model system, nuclear changes accompanying denucleation are described with particular emphasis on the lamina, nucleolar and coiled body compartments in lens nuclei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9587055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 147, 
+            "text": "Changes in the nucleolar and coiled body compartments precede lamina and chromatin reorganization during fibre cell denucleation in the bovine lens", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9587055", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1271, 
+            "offsetInEndSection": 1419, 
+            "text": "Prior to chromatin condensation, coilin redistributed to the nucleolar compartment and was absent from nuclei where chromatin had begun to condense.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9587055", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 738, 
+            "offsetInEndSection": 876, 
+            "text": "These constraints reflect the physical attachment of chromatin to nuclear compartments or steric impairment caused by local ultrastructure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11909528", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 793, 
+            "offsetInEndSection": 964, 
+            "text": "A number of these proteins accumulate in viral replication compartments in the infected cell nucleus, indicating that these proteins may have a role in viral replication. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15140983", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Nuclear marginalization of host cell chromatin associated with expansion of two discrete virus-induced subnuclear compartments during baculovirus infection", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18434402", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 729, 
+            "offsetInEndSection": 898, 
+            "text": "In the late stage of infection, however, the peristromal region (PR), another virus-induced subnuclear compartment, was also excluded from the chromatin-localizing area.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18434402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1587, 
+            "offsetInEndSection": 1818, 
+            "text": "This correlation between compartmentalization and chromatin exclusion suggests the possibility that a chromatin-exclusive property of viral molecules, at least in part, supports nuclear compartmentalization of virus-infected cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18434402", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Chromatin modifications in hematopoietic multipotent and committed progenitors are independent of gene subnuclear positioning relative to repressive compartments", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974210", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 374, 
+            "text": "To further clarify the contribution of nuclear architecture in the regulation of gene expression patterns during differentiation of human multipotent cells, we analyzed expression status, histone modifications, and subnuclear positioning relative to repressive compartments, of hematopoietic loci in multipotent and lineage-committed primary human hematopoietic progenitors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 375, 
+            "offsetInEndSection": 638, 
+            "text": "We report here that positioning of lineage-affiliated loci relative to pericentromeric heterochromatin compartments (PCH) is identical in multipotent cells from various origins and is unchanged between multipotent and lineage-committed hematopoietic progenitors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974210", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "The complexity in composition and function of the eukaryotic nucleus is achieved through its organization in specialized nuclear compartments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21637796", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Cohesin-based chromatin interactions enable regulated gene expression within preexisting architectural compartments.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24002784", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 278, 
+            "text": "Chromosome conformation capture approaches have shown that interphase chromatin is partitioned into spatially segregated Mb-sized compartments and sub-Mb-sized topological domains. This compartmentalization is thought to facilitate the matching of genes and regulatory elements,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24002784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 741, 
+            "offsetInEndSection": 869, 
+            "text": "we find that architectural compartments are maintained in noncycling mouse thymocytes after genetic depletion of cohesin in vivo", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24002784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1256, 
+            "offsetInEndSection": 1410, 
+            "text": "Our findings indicate that cohesin-mediated long-range interactions facilitate discrete gene expression states within preexisting chromosomal compartments", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24002784", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 148, 
+            "text": "Histone posttranslational modifications mediate establishment of structurally and functionally distinct chromatin compartments of eukaryotic nuclei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15791412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 683, 
+            "offsetInEndSection": 910, 
+            "text": "Recent studies employing chromatin conformation capture techniques indicate that Hox clusters adopt a remarkable spatial configuration, in which active and inactive genes are segregated into two distinct chromatin compartments.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22198682", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 953, 
+            "offsetInEndSection": 1189, 
+            "text": "Recent Hi-C mapping has unveiled substructure within chromatin compartments called topologically associating domains (TADs) that are largely conserved in their positions between cell types and are similar in size to replication domains.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25409831", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Interaction of SP100 with HP1 proteins: a link between the promyelocytic leukemia-associated nuclear bodies and the chromatin compartment.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9636146", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1344, 
+            "offsetInEndSection": 1940, 
+            "text": "We propose that basically three nuclear compartments exist, an &quot;open&quot; higher-order chromatin compartment with chromatin domains containing active genes, a &quot;closed&quot; chromatin compartment comprising inactive genes, and an interchromatin domain (ICD) compartment (Cremer et al., 1993; Zirbel et al., 1993) that contains macromolecular complexes for transcription, splicing, DNA replication, and repair. Genes in &quot;open,&quot; but not in &quot;closed&quot; higher-order chromatin compartments have access to transcription and splicing complexes located in the ICD compartment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11186332", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1764, 
+            "offsetInEndSection": 2180, 
+            "text": "Genes in &quot;open,&quot; but not in &quot;closed&quot; higher-order chromatin compartments have access to transcription and splicing complexes located in the ICD compartment. Chromatin domains that build the &quot;open&quot; chromatin compartment are organized in a way that allows the direct contact of genes and nascent RNA to transcription and splicing complexes, respectively, preformed in the ICD compartment.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11186332", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1344, 
+            "offsetInEndSection": 1638, 
+            "text": "We propose that basically three nuclear compartments exist, an &quot;open&quot; higher-order chromatin compartment with chromatin domains containing active genes, a &quot;closed&quot; chromatin compartment comprising inactive genes, and an interchromatin domain (ICD) compartment (Cremer et al.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11186332", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "body": "Which mutation is associated with PLMS (periodic limb movements in sleep)?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19619967"
+    ], 
+    "ideal_answer": [
+        "missense substitution, Met1Val (M1V), was identified in the DCX gene"
+    ], 
+    "exact_answer": [
+        "missense substitution, Met1Val (M1V), in the DCX gene."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020189", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009154"
+    ], 
+    "type": "factoid", 
+    "id": "52f899952059c6d71c00004b", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 541, 
+            "offsetInEndSection": 732, 
+            "text": "We describe a 2-year-old girl affected by SBH with epilepsy and periodic limb movements (PLMs), in whom a novel \"de novo\" missense substitution, Met1Val (M1V), was identified in the DCX gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19619967", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "body": "Which is the most common disease attributed to malfunction or absence of primary cilia?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19276629", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14978161", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19186246", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14983006", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21439862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18407555", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23124509", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18694559", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15226261", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17429051", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19273592"
+    ], 
+    "ideal_answer": [
+        "When ciliary function is perturbed, photoreceptors may die, kidney tubules develop cysts, limb digits multiply and brains form improperly. Mice display abnormalities very similar to those of patients with neonatal diabetes and hypothyroidism syndrome, including the development of diabetes and polycystic kidney disease. Malformation of primary cilia, and in the collecting ducts of kidney tubules this is accompanied by development of autosomal recessive polycystic kidney disease (PKD)."
+    ], 
+    "exact_answer": [
+        "Polycystic kidney disease (PKD)"
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0031514", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0035058", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0031512", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=0031513"
+    ], 
+    "type": "factoid", 
+    "id": "513ce494bee46bd34c000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 81, 
+            "offsetInEndSection": 150, 
+            "text": "role of primary cilia in autosomal dominant polycystic kidney disease", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21439862", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 310, 
+            "offsetInEndSection": 424, 
+            "text": "Recent research has focused on defects in signaling mediated by the primary cilia as the causative factor in ADPKD", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21439862", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1038, 
+            "offsetInEndSection": 1377, 
+            "text": "Interestingly, primary cilia concentrate p75NTR receptors in their membranes and are abnormally structured/damaged in transgenic (Tg) AD\u2011model mice, which could impact on the adult neurogenesis occurring in the dentate gyrus's subgranular zone (SGZ) that is necessary for new memory encoding, thereby favouring typical AD cognitive decline", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23124509", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1041, 
+            "offsetInEndSection": 1207, 
+            "text": "malformation of primary cilia, and in the collecting ducts of kidney tubules this is accompanied by development of autosomal recessive polycystic kidney disease (PKD)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19276629", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1209, 
+            "offsetInEndSection": 1462, 
+            "text": "While PKD was one of the first diseases to be linked to dysfunctional primary cilia, defects in this organelle have subsequently been associated with many other phenotypes, including cancer, obesity, diabetes as well as a number of developmental defects", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19276629", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 327, 
+            "text": "mice display abnormalities very similar to those of patients with neonatal diabetes and hypothyroidism syndrome, including the development of diabetes and polycystic kidney disease", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19273592", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 578, 
+            "text": "Although Glis3(zf/zf) mice form normal primary cilia, renal cysts contain relatively fewer cells with a primary cilium", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19273592", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 470, 
+            "offsetInEndSection": 608, 
+            "text": "When ciliary function is perturbed, photoreceptors may die, kidney tubules develop cysts, limb digits multiply and brains form improperly.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19186246", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 306, 
+            "offsetInEndSection": 421, 
+            "text": "Here, we report that CP110 interacts with CEP290--a protein whose deficiency is implicated in human ciliary disease", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18694559", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 523, 
+            "offsetInEndSection": 640, 
+            "text": "The cholangiociliopathies include but are not limited to cystic and fibrotic liver diseases associated with mutations", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18407555", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "Cysts in the kidney are among the most common inherited human pathologies, and recent research has uncovered that a defect in cilia-mediated signaling activity is a key factor that leads to cyst formation", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17429051", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 452, 
+            "text": "Multiple proteins whose functions are disrupted in cystic diseases have now been localized to the cilium or at the basal body at the base of the cilium", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17429051", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 822, 
+            "text": "Polaris has been shown to co-localize with primary cilia, and these structures have been implicated in the formation of renal cysts", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226261", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1112, 
+            "offsetInEndSection": 1245, 
+            "text": "hus, polaris and primary cilia function are required for the maturation and maintenance of proper tissue organization in the pancreas", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15226261", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 948, 
+            "text": "In cultured renal cells, the PKHD1 gene product colocalized with polycystin-2, the gene product of autosomal dominant polycystic disease type 2, at the basal bodies of primary cilia.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14983006", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 69, 
+            "text": "Mutations of the polycystic kidney and hepatic disease 1 (PKHD1) gene", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14983006", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 87, 
+            "text": "The autosomal recessive polycystic kidney disease protein is localized to primary cilia", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14978161", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1082, 
+            "offsetInEndSection": 1213, 
+            "text": "It is proposed that the pathogenesis of autosomal recessive polycystic kidney disease is linked to the dysfunction of primary cilia", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14978161", 
+            "endSection": "sections.0"
+        }
+    ]
+}

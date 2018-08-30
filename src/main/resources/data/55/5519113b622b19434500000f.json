@@ -1,0 +1,322 @@
+{
+    "body": "Which gene is responsible for the development of the Mowat-Wilson syndrome?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24282181", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24092421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23523603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24029077", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23466526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11891681", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14681759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23427518"
+    ], 
+    "ideal_answer": [
+        "Mowat-Wilson syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene.", 
+        "Nonsense mutations of the ZFHX1B gene in two Japanese girls with Mowat-Wilson syndromezfhz1b is the causative gene for Mowat-Wilson syndrome, in which patients demonstrate developmental delay and Hirschsprung disease, as well as other anomalies.", 
+        "Mowat-Wilson syndrome (MWS) is a multiple congenital anomaly-mental retardation complex caused by mutations in the Zinc Finger Homeobox 1 B gene (ZFHX1B, also known as ZEB2 or SIP-1).", 
+        "zfhz1b is the causative gene for Mowat-Wilson syndrome, in which patients demonstrate developmental delay and Hirschsprung disease, as well as other anomalies. Intrahepatic biliary anomalies in a patient with Mowat-Wilson syndrome uncover a role for the zinc finger homeobox gene zfhx1b in vertebrate biliary development"
+    ], 
+    "exact_answer": [
+        "ZFHX1B", 
+        "ZEB2", 
+        "SIP-1"
+    ], 
+    "type": "factoid", 
+    "id": "5519113b622b19434500000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 219, 
+            "offsetInEndSection": 275, 
+            "text": "The cause of MWS is a de novo mutation in the ZEB2 gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23427518", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 171, 
+            "text": "zfhz1b is the causative gene for Mowat-Wilson syndrome, in which patients demonstrate developmental delay and Hirschsprung disease, as well as other anomalies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Intrahepatic biliary anomalies in a patient with Mowat-Wilson syndrome uncover a role for the zinc finger homeobox gene zfhx1b in vertebrate biliary development", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 458, 
+            "offsetInEndSection": 565, 
+            "text": "We used the zebrafish model system to determine whether zfhx1b has a role in vertebrate biliary development", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "Comprehensive ZEB2 gene analysis for Mowat-Wilson syndrome in a North American cohort: a suggested approach to molecular diagnostics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "A case of Mowat-Wilson syndrome caused by a truncating mutation within exon 8 of the ZEB2 gene", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23427518", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 456, 
+            "offsetInEndSection": 602, 
+            "text": "All typical cases result from haploinsufficiency of the ZEB2 (also known as ZFHX1B or SIP-1) gene, with over 100 distinct mutations now described.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 603, 
+            "offsetInEndSection": 774, 
+            "text": "Approximately 80% of patients have a nonsense or frameshift mutation detectable by sequencing, with the rest having gross deletions necessitating a dosage sensitive assay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1039, 
+            "offsetInEndSection": 1127, 
+            "text": "Six patients had deletions in the ZEB2 gene, including two novel partial gene deletions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1128, 
+            "offsetInEndSection": 1373, 
+            "text": "This report, the first such analysis in North American patients, adds to the growing list of both novel pathogenic mutations associated with MWS, as well as other variants in the ZEB2 gene. In addition, we suggest an economical testing strategy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19842203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 86, 
+            "text": "Nonsense mutations of the ZFHX1B gene in two Japanese girls with Mowat-Wilson syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 153, 
+            "text": "Mowat-Wilson syndrome (MWS) is a multiple congenital anomaly-mental retardation complex caused by mutations in the Zinc Finger Homeobox 1 B gene (ZFHX1B)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 790, 
+            "offsetInEndSection": 915, 
+            "text": "According to the gene analysis using white blood cells, they had nonsense mutations in ZFHX1B, R695X and Q433X, respectively.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 916, 
+            "offsetInEndSection": 1074, 
+            "text": "In conclusion, molecular genetic analysis of ZFHX1B is important for a definite diagnosis of MWS which has a wide phenotypic spectrum of congenital anomalies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17932455", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "A missense mutation in the ZFHX1B gene associated with an atypical Mowat-Wilson syndrome phenotype", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 332, 
+            "offsetInEndSection": 638, 
+            "text": "Mutations leading to haploinsufficiency of the ZFHX1B gene have been described as the underlying cause of this condition. We report on the clinical findings in a 2(1/2)-year-old boy with some aspects out of the MWS-spectrum in addition to unusual anomalies and a novel missense mutation in the ZFHX1B gene.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16688751", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Genitourinary anomalies in Mowat-Wilson syndrome with deletion/mutation in the zinc finger homeo box 1B gene (ZFHX1B).", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 422, 
+            "offsetInEndSection": 500, 
+            "text": "It is caused by mutations in the zinc finger homeo box 1B gene, ZFHX1B (SIP1).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15908750", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Pleiotropic and diverse expression of ZFHX1B gene transcripts during mouse and human development supports the various clinical manifestations of the \"Mowat-Wilson\" syndrome", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 149, 
+            "text": "ZFHX1B encodes Smad-interacting protein 1, a transcriptional corepressor involved in the transforming growth factors beta (TGFbeta) signaling pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 151, 
+            "offsetInEndSection": 287, 
+            "text": "ZFHX1B mutations cause a complex developmental phenotype characterized by severe mental retardation (MR) and multiple congenital defects", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15006694", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Frameshift mutation of the zinc finger homeo box 1 B gene in syndromic corpus callosum agenesis (Mowat-Wilson syndrome)", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14681759", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 188, 
+            "offsetInEndSection": 440, 
+            "text": "Mutation analysis of the zinc finger homeo box 1 B (ZFHX1 B) gene revealed a de novo 7 bp deletion (TGGCCCC) at nucleotide 1773 (1773 delTGGCCCC) resulting in a frameshift and leading to a termination codon at amino acid residue 604 (604 X) in exon 8 C", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14681759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 204, 
+            "text": "\"Mowat-Wilson\" syndrome with and without Hirschsprung disease is a distinct, recognizable multiple congenital anomalies-mental retardation syndrome caused by mutations in the zinc finger homeo box 1B gene", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11891681", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 390, 
+            "text": "Recently mutations in the gene ZFHX1B (SIP1) were shown in patients with \"syndromic Hirschsprung disease\" with mental retardation (MR) and multiple congenital anomalies (MCA), but it was unclear if Hirschsprung disease is an obligate symptom of these mutations and if the distinct facial phenotype delineated by Mowat et al. [1998: J Med Genet 35: 617-623] is specific for ZFHX1B mutations.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11891681", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 161, 
+            "text": "Intrahepatic biliary anomalies in a patient with Mowat-Wilson syndrome uncover a role for the zinc finger homeobox gene zfhx1b in vertebrate biliary development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 117, 
+            "offsetInEndSection": 294, 
+            "text": "Haploinsufficiency of a gene termed ZFHX1B (also known as SIP1) on chromosome 2 is responsible for this condition, and clinical genetic testing for MWS recently became available", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17103451", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 333, 
+            "text": "Mowat-Wilson syndrome is a recently delineated autosomal dominant developmental anomaly, whereby heterozygous mutations in the ZFHX1B gene cause mental retardation, delayed motor development, epilepsy and a wide spectrum of clinically heterogeneous features, suggestive of neurocristopathies at the cephalic, cardiac and vagal levels", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17478475", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 159, 
+            "text": "zfhz1b is the causative gene for Mowat-Wilson syndrome, in which patients demonstrate developmental delay and Hirschsprung disease, as well as other anomalies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21336163", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 56, 
+            "text": "ZFHX1B mutations in patients with Mowat-Wilson syndrome.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17203459", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 923, 
+            "offsetInEndSection": 1119, 
+            "text": "A similar issue of differential diagnosis was raised by a large 4.3 Mb 2q22.3q23.1 deletion encompassing ZEB2, the gene responsible for the Mowat-Wilson syndrome, whose signs may overlap with RSTS", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20125191", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 144, 
+            "text": "Mowat-Wilson syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24282181", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 207, 
+            "offsetInEndSection": 377, 
+            "text": "At molecular level, MWS is characterized by many different described mutations in the zinc finger E-box protein 2 (ZEB2) gene, ultimately leading to loss of gene function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24092421", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 232, 
+            "text": "Individuals with Mowat-Wilson syndrome (MWS; OMIM#235730) have characteristic facial features, a variety of congenital anomalies such as Hirschsprung disease, and intellectual disabilities caused by mutation or deletion of ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24029077", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 182, 
+            "text": "Mowat-Wilson syndrome (MWS) is a genetic disease caused by heterozygous mutations or deletions of the ZEB2 gene rarely diagnosed prenatally and with little fetal description reported", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23523603", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 290, 
+            "offsetInEndSection": 354, 
+            "text": "MWS is caused by de novo heterozygous mutations in the ZEB2 gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23466526", 
+            "endSection": "abstract"
+        }
+    ]
+}

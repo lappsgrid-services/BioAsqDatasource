@@ -1,0 +1,2865 @@
+{
+    "body": "What is being measured with an accelerometer in back pain patients", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23865908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18752975", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19945891", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16437292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15271728", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21872993", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21195646", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23560880", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19895697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16426878", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20921030", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11387574", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19402888", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20457489", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19945334"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10992203", 
+            "o": "15-810"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10992203"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10992203", 
+            "o": "Accelerometers"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A10992203"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A10992203", 
+            "o": "UMDNS"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/36966", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/36966", 
+            "o": "Intervention #36966 (Device:accelerometer and pedometer)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/36966", 
+            "o": "accelerometer and pedometer"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/36966", 
+            "o": "36966"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00315029", 
+            "o": "http://data.linkedct.org/resource/intervention/36966"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00315029", 
+            "o": "Trial NCT00315029"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/12088", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/12088", 
+            "o": "Intervention #12088 (Device:Rate-adaptive pacemaker: accelerometer)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/12088", 
+            "o": "Rate-adaptive pacemaker: accelerometer"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/12088", 
+            "o": "12088"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00391430", 
+            "o": "http://data.linkedct.org/resource/intervention/12088"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00391430", 
+            "o": "Trial NCT00391430"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/802", 
+            "o": "802"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/802", 
+            "o": "Accelerometer (PAM; Personal Activity Monitor)"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/802", 
+            "o": "Intervention #802 (Device:Accelerometer (PAM; Personal Activity Monitor))"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/802", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00621517", 
+            "o": "http://data.linkedct.org/resource/intervention/802"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/trials/NCT00621517", 
+            "o": "Trial NCT00621517"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_id", 
+            "s": "http://data.linkedct.org/resource/intervention/54815", 
+            "o": "54815"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_name", 
+            "s": "http://data.linkedct.org/resource/intervention/54815", 
+            "o": "McROB Hybrid node 3-axes accelerometers and 3-axes gyroscopes"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://data.linkedct.org/resource/intervention/54815", 
+            "o": "Intervention #54815 (Device:McROB Hybrid node 3-axes accelerometers and 3-axes gyroscopes)"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/intervention_type", 
+            "s": "http://data.linkedct.org/resource/intervention/54815", 
+            "o": "Device"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/36966", 
+            "o": "Energy balance estimation using bodybugg\u00ae and Step Diet Book systems"
+        }, 
+        {
+            "p": "http://data.linkedct.org/resource/linkedct/description", 
+            "s": "http://data.linkedct.org/resource/intervention/54815", 
+            "o": "Training with the Audio-feedback device for about 30 minutes, 3 times per week for 6 weeks"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55735684"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947317"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71654414"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71549290", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55941392", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947280"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779543", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891060", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761094"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947318"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835647"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55716079", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55944860", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55771791"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55736994"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55848389"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55776098"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798391"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909989"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55734704"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55776611"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55886302"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71627080", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55941985", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71581926", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55918549"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835648"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55863235", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71630916"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55780379", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55909405", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55955374"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798340"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686872"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71654422"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835633"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55862823", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705261", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723882"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817336", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55887024"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71529087", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705211", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71628962"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55885291"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71588931"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55919593"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947302"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55733011"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779916", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71563261", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854073", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55942452", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742527", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891436", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71663412", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71604682", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71588407", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55718533", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55751599", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71535280", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71564554"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71583134"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55831318", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71555628", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55882435"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761135"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55868955", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111947877"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71543940"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55845260"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71579399"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71557627", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947303"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686918"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71662844", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686938"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103651198", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55812008"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642239"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71538917", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817083", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761134"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723881"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723829"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55874285", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55753339", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686939"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686919"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761015"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71552457", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71570869", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55737923"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#inScheme", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909952"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55740902"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55734902"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686916"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761112"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112029099", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742590", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71606444"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761133"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891125", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928725", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705263", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71585933"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55887573"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705661", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112029350", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55884409"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112043601", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R111982002", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761151"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723965"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891376", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686917"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742332", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55929461", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71591544", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71569022", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71647817"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55863163", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71624180", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55902670", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55810126"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71584290"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55868466", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872612"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817394", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872719"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55772726"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55863205", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779600", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R72222778", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71585302", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642236"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779978", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891059", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71627575", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55885230"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71559849"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798376"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71553224"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854009", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705593", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55902549", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55923836"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872613"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103634425", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71641894"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71544986", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55678266", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55965805", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55698546"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55777987"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642235"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55941322", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55929460", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891437", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71534753", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71526289"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798375"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71629149"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705264", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71654370"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642238"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55698861"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55772910"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71636781"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798374"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928727", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55825754", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71571185"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71583998"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55956120"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955480"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642237"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55871261", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779732", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55910057"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779733", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71577069"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71531600", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71597352", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71562121"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779795", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71549078", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55938036", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71528889", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761051"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55717310", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71614373"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723899"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55717578", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872631"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71544663"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71567871", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55714350", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71610630", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55938975", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872701"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55848242"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55903285", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71527068"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71591898", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103637301", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71590426", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55936582", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55791397", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71552885"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55830318", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71592177"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55830418", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705662", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872632"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55825142", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761073"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71566068", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71542536"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928971", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642234"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71651531", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71608012"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71660174"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742203", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872652"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71526147"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779979", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71662687"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55872718"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71633956", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742395", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779542", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55965860", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55715287", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835743"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55717536", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761072"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55943023", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642233"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854075", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55899479", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705262", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891058", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71564314", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928726", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71562239", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71590337"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55816971", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55695034"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55761032"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55695973"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71579037", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742204", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854137", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55789296", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R111947590", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71647214", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955478"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71600669"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55923250"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55829586", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55684596", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55831619", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71539704", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55929033", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55736107"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71591239"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891126", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55924599"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55770017"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955479"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55865641", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71642940", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71634480"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103647756", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71655132"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55789870", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55774564"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891323", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955476"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71539657"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71652749"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55829108", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55732723"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779734", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55868916", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835702"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71648263", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71560351"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71607672"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R103642240"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55770931"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55794730", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71655059", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955477"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55703747"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835669"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55773924"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723845"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891434", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55937671", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71636768", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55792753", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742528", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55922983"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71618117", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955474"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71598213"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103650893", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55779157"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71540573"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55964815"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55793088", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55793533", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891127", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71657886", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71618765"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705212", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705475", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55786947", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71565049"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55966169", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71529671"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71554762", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909991"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71590471"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55957058"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723867"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955475"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55734224"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55843881"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55910004"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71616653"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55881853"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71661434"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909938"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55890999", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55806232"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71564978", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55864388", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71561198", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71612908", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55790557", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71653170", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55908973", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55910005"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55901009", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891185", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55966105", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71578180"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71531420"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71610396"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71538602"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71651114", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55967368"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71580235", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928659", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55827236", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909990"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R111955473"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705329", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55742589", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71562996"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55757406", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71659336", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71604117", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71538437", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55850911"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854074", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55886993"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947371"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55811709"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112090460", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71571259", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798326"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103648067", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71646146"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817849", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909953"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55846057"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71536654", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817084", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71592483"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947372"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854008", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798325"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103650478", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55713508", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817085", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55919975"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909954"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R72224447"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55721069", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R103653001", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71657521", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71619212"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71604600", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928785", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71552509", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71578365"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854372", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686915"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R72220518", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55966049", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928588", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55954717"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686841"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55770314"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817203", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909973"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71663937"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891061", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71527480", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909955"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55722237", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71542879"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55732503"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817086", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55817141", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71543505", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705594", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55965745", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55808404"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705330", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71533136"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71579988"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71619451", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835660"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686842"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112050310", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909956"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71535424"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71641686"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71527438"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55751646", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71628284", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71635922"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55883442"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55740048"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71574683", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55899725", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909971"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686824"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835671"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686903"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55880755"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686843"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928658", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798281"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55779977", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55939798", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55807159"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854834", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798300"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55888808"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55965927", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798339"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686823"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909972"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71617909", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854005", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928786", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71637459", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55900192", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55910073"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55684787", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71570675", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798328"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55718297", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71639794", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55937116", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55846730"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55890998", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71609445", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71609027"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55752303", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55941383", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686826"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71555193", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55910072"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55844814"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55862284", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55918307"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71581828"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854136", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55966106", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798327"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55705592", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R72219935"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55947370"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55798312"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R71625333", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55696052"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55891375", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55928787", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55723831"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55835670"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R111960481", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55958436"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55909970"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R71623441"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relation", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "http://linkedlifedata.com/resource/umls/relation/R55686825"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R112090206", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/relatedConcept", 
+            "s": "http://linkedlifedata.com/resource/umls/relation/R55854007", 
+            "o": "http://linkedlifedata.com/resource/umls/id/C0178951"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#definition", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0178951", 
+            "o": "UMD: Devices designed to measure the rate of change of an object's velocity. These devices typically consist of a sensor and transducer, an amplifier, and extension cables for connection to an electronic measuring unit. They work on the principle of seismic mass: this mass is restrained by a spring, and when the transducer case is accelerated, the mass moves relative to the case and exerts a force on the spring. The acceleration is calculated by measuring mass displacement or the mass' force on the spring, converted to an electrical signal. Acceleration transducers are available using strain gauges (e.g., metallic foil, piezoresistive), capacitive elements, and piezoelectric elements. Clinical accelerometers are intended for several purposes, including measuring the acceleration of body parts to assess a patient's mobility and/or activity (alone or as a component of activity monitors and gait analyzers respectively); assess tremor (e.g., in patients with Parkinson's disease); and activate pacemakers according"
+        }
+    ], 
+    "ideal_answer": [
+        "Accelerometer assessment measuring overall physical activity (PAL), constant strain postures (CSP), standing time (ST) and lying time (LT)...\nThe following parameters of physical activity were recorded: time upright (standing or walking), time standing, time walking, and step count."
+    ], 
+    "exact_answer": [
+        [
+            "Physical activity", 
+            "PA", 
+            "PAL"
+        ], 
+        [
+            "Constant Strain Postures", 
+            "CSP", 
+            "constant postures"
+        ], 
+        [
+            "Standing time", 
+            "ST"
+        ], 
+        [
+            "Lying time", 
+            "LT"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D013001", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059787", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D001416", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010146", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059352", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019567", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D059350", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D017116", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018710"
+    ], 
+    "type": "list", 
+    "id": "533f9df0c45e133714000016", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 373, 
+            "offsetInEndSection": 511, 
+            "text": "accelerometer assessment measuring overall physical activity (PAL), constant strain postures (CSP), standing time (ST) and lying time (LT)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23865908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 690, 
+            "offsetInEndSection": 790, 
+            "text": "Physical activity was measured for 7 days at both baseline and at 3 months with an RT3 accelerometer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23560880", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 534, 
+            "offsetInEndSection": 600, 
+            "text": "wearing an accelerometer to assess physical activity in daily life", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21872993", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 590, 
+            "offsetInEndSection": 659, 
+            "text": "An accelerometer was used to objectively assess their activity level ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21195646", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 68, 
+            "offsetInEndSection": 581, 
+            "text": "objective activity data to determine whether patients with chronic lower back pain report their activity levels as accurately as controls do. DESIGN: A cross-sectional study was performed in patients and controls. SETTING: The study was carried out in the daily environment of the subjects. SUBJECTS: Thirty-two chronic lower back pain patients with symptoms more than three months and 20 healthy controls from the Netherlands, aged 18-65 years. MAIN MEASURES: A tri-axial accelerometer was worn for five weekdays", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20921030", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 556, 
+            "offsetInEndSection": 666, 
+            "text": "During 14days physical activity in daily life was measured, with both an electronic diary and an accelerometer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20457489", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 854, 
+            "offsetInEndSection": 920, 
+            "text": "physical activity in daily life was measured with an accelerometer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19945891", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 127, 
+            "offsetInEndSection": 539, 
+            "text": "physical activity (PA) in individuals with chronic low back pain (CLBP). Thirty-eight participants with non-specific CLBP (29=distressed; 9=non-distressed) were recruited. PA levels were measured using an accelerometer (activPAL activity monitor) over a one week period. The following parameters of physical activity were recorded: time upright (standing or walking), time standing, time walking, and step count.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19945334", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 781, 
+            "offsetInEndSection": 866, 
+            "text": "Physical activity levels will be measured by self report, RT3 triaxial accelerometer,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19895697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 322, 
+            "offsetInEndSection": 452, 
+            "text": "to study the time spent in different static trunk postures which was recorded by a biaxial accelerometer attached to the T12 level", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19402888", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 450, 
+            "offsetInEndSection": 538, 
+            "text": "Daily activities were assessed by measuring body movement with a tri-axial accelerometer", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18752975", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 118, 
+            "offsetInEndSection": 556, 
+            "text": "nighttime activity data from 18 patients diagnosed with chronic back pain. The patients were followed for 6 days and 5 nights. Pain levels were collected every 90 min between 0800 hours and 2,200 hours using a computerized electronic diary. Activity levels were collected using a wrist accelerometer (Actiwatch AW-64). The Actiwatch sampled activity counts every 1 min. Patients were asked to wear the Actiwatch on their non-dominant arm.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16437292", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 770, 
+            "offsetInEndSection": 884, 
+            "text": " 8-h accelerometer assessment in their daily life (physical activity level (PAL), number of constant postures (CP)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16426878", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 214, 
+            "offsetInEndSection": 321, 
+            "text": "The activity levels were collected automatically using a wrist accelerometer and were sampled every minute.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15271728", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 572, 
+            "offsetInEndSection": 691, 
+            "text": "Physical activity in daily life, expressed as whole-body acceleration measured with a triaxial accelerometer (Tracmor),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387574", 
+            "endSection": "abstract"
+        }
+    ]
+}

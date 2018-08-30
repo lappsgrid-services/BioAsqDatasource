@@ -1,0 +1,84 @@
+{
+    "body": "Which is the largest metabolic gene cluster in yeast?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22916115"
+    ], 
+    "ideal_answer": [
+        "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source.", 
+        "the dal cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable saccharomyces cerevisiae to use allantoin as a nitrogen source.", 
+        "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source. The DAL cluster is located in a domain of modified chromatin involving both H2A.Z histone exchange and Hst1-Sum1-mediated histone deacetylation, and it may be a coadapted gene complex formed by epistatic selection.", 
+        "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source. Six of the eight genes involved in allantoin degradation, which were previously scattered around the genome, became relocated to a single subtelomeric site in an ancestor of S. cerevisiae and Saccharomyces castellii."
+    ], 
+    "exact_answer": [
+        "The DAL cluster"
+    ], 
+    "type": "factoid", 
+    "id": "58d0dc878acda34529000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 408, 
+            "text": "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 406, 
+            "text": "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 71, 
+            "text": "Birth of a metabolic gene cluster in yeast by adaptive gene relocation.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 407, 
+            "text": "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Birth of a metabolic gene cluster in yeast by adaptive gene relocation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 217, 
+            "offsetInEndSection": 409, 
+            "text": "The DAL cluster is the largest metabolic gene cluster in yeast and consists of six adjacent genes encoding proteins that enable Saccharomyces cerevisiae to use allantoin as a nitrogen source. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15951822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 255, 
+            "offsetInEndSection": 488, 
+            "text": "For example the DAL metabolic cluster in yeast was assembled in recent evolutionary times in the Hemiascomycetes lineage, through a set of rearrangements that brought together the genes involved in the allantoin degradation pathway. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22916115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 255, 
+            "offsetInEndSection": 487, 
+            "text": "For example the DAL metabolic cluster in yeast was assembled in recent evolutionary times in the Hemiascomycetes lineage, through a set of rearrangements that brought together the genes involved in the allantoin degradation pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22916115", 
+            "endSection": "abstract"
+        }
+    ]
+}

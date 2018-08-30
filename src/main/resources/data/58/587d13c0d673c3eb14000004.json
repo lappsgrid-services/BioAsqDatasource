@@ -1,0 +1,37 @@
+{
+    "body": "What is ChIPpeakAnno?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20459804"
+    ], 
+    "ideal_answer": [
+        "ChIPpeakAnno is a Bioconductor package within the statistical programming environment R that facilitates batch annotation of enriched peaks identified from ChIP-seq, ChIP-chip, cap analysis of gene expression (CAGE) or any experiments resulting in a large number of enriched genomic regions."
+    ], 
+    "type": "summary", 
+    "id": "587d13c0d673c3eb14000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "ChIPpeakAnno: a Bioconductor package to annotate ChIP-seq and ChIP-chip data", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20459804", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 706, 
+            "offsetInEndSection": 1011, 
+            "text": "We have developed ChIPpeakAnno as a Bioconductor package within the statistical programming environment R to facilitate batch annotation of enriched peaks identified from ChIP-seq, ChIP-chip, cap analysis of gene expression (CAGE) or any experiments resulting in a large number of enriched genomic regions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20459804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1719, 
+            "offsetInEndSection": 2187, 
+            "text": "ChIPpeakAnno enables batch annotation of the binding sites identified from ChIP-seq, ChIP-chip, CAGE or any technology that results in a large number of enriched genomic regions within the statistical programming environment R. Allowing users to pass their own annotation data such as a different Chromatin immunoprecipitation (ChIP) preparation and a dataset from literature, or existing annotation packages, such as GenomicFeatures and BSgenome, provides flexibility", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20459804", 
+            "endSection": "abstract"
+        }
+    ]
+}

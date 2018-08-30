@@ -1,0 +1,134 @@
+{
+    "body": "Which agents are included in the FLAMSA chemotherapy regimen?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18176613", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23728608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21963618", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21358688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19430496", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23652585", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22983588"
+    ], 
+    "ideal_answer": [
+        "Fludarabine, cytarabine and amsacrine are included in the FLAMSA chemotherapy regimen."
+    ], 
+    "exact_answer": [
+        [
+            "fludarabine"
+        ], 
+        [
+            "cytarabine"
+        ], 
+        [
+            "amsacrine"
+        ]
+    ], 
+    "type": "list", 
+    "id": "54e071e11388e8454a00000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 770, 
+            "text": "After 3 days of rest, RIC was carried out, consisting of 4 Gy total body irradiation, antithymocyte globulin (ATG-Fresenius), and cyclophosphamide (fludarabine, amsacrine, and cytarabine (FLAMSA)-RIC protocol).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23728608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 402, 
+            "text": "We report a retrospective single center analysis of aplasia-inducing chemotherapy using fludarabine, cytarabine, and amsacrine (FLAMSA) followed by reduced-intensity conditioning (RIC) for allogeneic hematopoietic cell transplantation (HCT) in 62 consecutive primary refractory or relapsed AML patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23652585", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 856, 
+            "offsetInEndSection": 1041, 
+            "text": "A sequential regimen of cytoreductive chemotherapy (fludarabine, high-dose AraC, amsacrine) followed by reduced intensity conditioning (FLAMSA-RIC), was uniformly used for conditioning.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22983588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 482, 
+            "offsetInEndSection": 661, 
+            "text": "Between November 2003 and June 2010, 30 patients (20 high-risk MDS, 10 sAML) received fludarabine (4 \u00d7 30 mg/m(2)), amsacrine (4 \u00d7 100 mg/m(2)), and Ara-C (4 \u00d7 2 g/m(2), FLAMSA). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21963618", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 457, 
+            "text": "The preparative regimen consisted of fludarabine, Ara-C and amsacrine (FLAMSA) chemotherapy, followed by reduced intensity conditioning (RIC) 3 days later. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21358688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 250, 
+            "offsetInEndSection": 605, 
+            "text": "Fifteen patients received fludarabine 30 mg/m(2), cytarabine 2000 mg/m(2), amsacrine 100 mg/m(2) on days -10, -9, -8 and -7, anti-thymocyte globulin (ATG-Fresenius) 20 mg/kg body weight on days -6, -5 and -4 and fractionated total body irradiation 2 x 2 Gy on days -3, -2 and -1 (FLAMSA-ATG-TBI) before allogeneic hematopoietic stem cell transplantation. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19430496", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 237, 
+            "text": "The goal of this analysis was to define the role of the moderate-intensity fludarabin Ara-C amsacrin (FLAMSA)-reduced intensity conditioning (RIC) regimen for patients with high-risk AML undergoing allogeneic SCT (alloSCT) in first CR1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18176613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "The goal of this analysis was to define the role of the moderate-intensity fludarabin Ara-C amsacrin (FLAMSA)-reduced intensity conditioning (RIC) regimen for patients with high-risk AML undergoing allogeneic SCT (alloSCT) in first CR1", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18176613", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 300, 
+            "offsetInEndSection": 454, 
+            "text": "The preparative regimen consisted of fludarabine, Ara-C and amsacrine (FLAMSA) chemotherapy, followed by reduced intensity conditioning (RIC) 3 days later", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21358688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 855, 
+            "offsetInEndSection": 1039, 
+            "text": "A sequential regimen of cytoreductive chemotherapy (fludarabine, high-dose AraC, amsacrine) followed by reduced intensity conditioning (FLAMSA-RIC), was uniformly used for conditioning", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22983588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 856, 
+            "offsetInEndSection": 1040, 
+            "text": "A sequential regimen of cytoreductive chemotherapy (fludarabine, high-dose AraC, amsacrine) followed by reduced intensity conditioning (FLAMSA-RIC), was uniformly used for conditioning", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22983588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 401, 
+            "text": "We report a retrospective single center analysis of aplasia-inducing chemotherapy using fludarabine, cytarabine, and amsacrine (FLAMSA) followed by reduced-intensity conditioning (RIC) for allogeneic hematopoietic cell transplantation (HCT) in 62 consecutive primary refractory or relapsed AML patients", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23652585", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 301, 
+            "offsetInEndSection": 455, 
+            "text": "The preparative regimen consisted of fludarabine, Ara-C and amsacrine (FLAMSA) chemotherapy, followed by reduced intensity conditioning (RIC) 3 days later", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21358688", 
+            "endSection": "abstract"
+        }
+    ]
+}

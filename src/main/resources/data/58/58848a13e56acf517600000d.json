@@ -1,0 +1,121 @@
+{
+    "body": "Is there a role of regorafenib for sarcoma treatment?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24266804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26266019", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27751846", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26907871", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24756792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25884155"
+    ], 
+    "ideal_answer": [
+        "Yes, there is evidence to suggest that regorafenib can be effective for sarcoma treatment. Clinical trials are under-way."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:1115", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012509", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012380"
+    ], 
+    "type": "yesno", 
+    "id": "58848a13e56acf517600000d", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 809, 
+            "offsetInEndSection": 862, 
+            "text": "Regorafenib has been approved for third-line therapy.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26907871", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Study protocol of REGOSARC trial: activity and safety of regorafenib in advanced soft tissue sarcoma: a multinational, randomized, placebo-controlled, phase II trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25884155", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1795, 
+            "offsetInEndSection": 1972, 
+            "text": "DISCUSSION: The design of this trial allows an assessment of regorafenib activity over placebo in four sarcoma strata and might provide evidence for launching a phase III trial.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25884155", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 533, 
+            "text": "This case provides rationale for adding a Ewing sarcoma arm to SARC024, a phase II study of regorafenib, another multi-targeted kinase inhibitor, in patients with liposarcoma, osteosarcoma and Ewing and Ewing-like sarcomas (NCT02048371).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26266019", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 525, 
+            "offsetInEndSection": 718, 
+            "text": "Thus, the Phase III studies with pazopanib, regorafenib, muramyl tripeptide (MTP) and ridaforolimus are extensively discussed as well as the biological rationale for the use of these compounds.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24266804", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 726, 
+            "offsetInEndSection": 935, 
+            "text": "Currently, regorafenib is examined in several clinical trials (mostly phase II) in different tumor entities, including renal cell carcinoma (RCC), hepatocellular carcinoma (HCC), and soft tissue sarcoma (STS).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24756792", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1674, 
+            "offsetInEndSection": 1852, 
+            "text": "Analysis of primary human sarcoma samples revealed direct cytotoxicity following exposure to sorafenib and regorafenib with a corresponding increase in ALDHbright cells (P<0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 954, 
+            "offsetInEndSection": 1299, 
+            "text": "Parametric and non-parametric statistical analyses were performed as appropriate.RESULTS: After functionally validating the CSC phenotype of ALDHbright sarcoma cells, we observed that sorafenib and regorafenib were cytotoxic to sarcoma cell lines (P<0.05), with a corresponding 1.4 - 2.8 fold increase in ALDHbright cells from baseline (P<0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 595, 
+            "offsetInEndSection": 1299, 
+            "text": "We evaluated survival and CSC phenotype in mice harboring sarcoma metastases after TKI therapy. We exposed dissociated primary sarcoma tumors to sorafenib, regorafenib, and pazopanib, and we used tissue microarray (TMA) and primary sarcoma samples to evaluate the frequency and intensity of CSC markers after neoadjuvant therapy with sorafenib and pazopanib. Parametric and non-parametric statistical analyses were performed as appropriate.RESULTS: After functionally validating the CSC phenotype of ALDHbright sarcoma cells, we observed that sorafenib and regorafenib were cytotoxic to sarcoma cell lines (P<0.05), with a corresponding 1.4 - 2.8 fold increase in ALDHbright cells from baseline (P<0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 1299, 
+            "text": "We exposed dissociated primary sarcoma tumors to sorafenib, regorafenib, and pazopanib, and we used tissue microarray (TMA) and primary sarcoma samples to evaluate the frequency and intensity of CSC markers after neoadjuvant therapy with sorafenib and pazopanib. Parametric and non-parametric statistical analyses were performed as appropriate.RESULTS: After functionally validating the CSC phenotype of ALDHbright sarcoma cells, we observed that sorafenib and regorafenib were cytotoxic to sarcoma cell lines (P<0.05), with a corresponding 1.4 - 2.8 fold increase in ALDHbright cells from baseline (P<0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 1396, 
+            "text": "We exposed dissociated primary sarcoma tumors to sorafenib, regorafenib, and pazopanib, and we used tissue microarray (TMA) and primary sarcoma samples to evaluate the frequency and intensity of CSC markers after neoadjuvant therapy with sorafenib and pazopanib. Parametric and non-parametric statistical analyses were performed as appropriate.RESULTS: After functionally validating the CSC phenotype of ALDHbright sarcoma cells, we observed that sorafenib and regorafenib were cytotoxic to sarcoma cell lines (P<0.05), with a corresponding 1.4 - 2.8 fold increase in ALDHbright cells from baseline (P<0.05). In contrast, we observed negligible effects on viability and CSC sub-populations with pazopanib.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1016, 
+            "offsetInEndSection": 1275, 
+            "text": "After functionally validating the CSC phenotype of ALDHbright sarcoma cells, we observed that sorafenib and regorafenib were cytotoxic to sarcoma cell lines (P < 0.05), with a corresponding 1.4 - 2.8 fold increase in ALDHbright cells from baseline (P < 0.05).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25301268", 
+            "endSection": "abstract"
+        }
+    ]
+}

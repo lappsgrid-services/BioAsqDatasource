@@ -1,0 +1,124 @@
+{
+    "body": "Is nucleosome eviction ATP-dependent?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24068556", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19933844", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17235287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22177115", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19470761", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19029894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23460895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20513433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24008565"
+    ], 
+    "ideal_answer": [
+        "Yes, nucleosome eviction and chromatin remodelling depends on ATP"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000786", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006337", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D009707", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000255"
+    ], 
+    "type": "yesno", 
+    "id": "532ff558d6d3ac6a34000037", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 166, 
+            "text": "ATP-dependent chromatin remodeling and nucleosome-depleted 'barriers' co-operate to determine the kinetics of nucleosome organization", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24068556", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 99, 
+            "offsetInEndSection": 275, 
+            "text": "ATP-dependent nucleosome-remodeling factors endow chromatin with structural flexibility by promoting assembly or disruption of nucleosomes and the exchange of histone variants.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24008565", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 948, 
+            "offsetInEndSection": 1164, 
+            "text": "remodeling takes place in an ATP-independent manner. Binding of distamycin to the linker and nucleosomal DNA culminates in eviction of the linker histone and the formation of a population of off-centered nucleosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23460895", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 574, 
+            "offsetInEndSection": 735, 
+            "text": "which promotes histone deposition onto DNA, and a novel activity, which prevents nucleosome eviction but not remodeling mediated by the ATP-dependent RSC complex", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22177115", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 4, 
+            "offsetInEndSection": 134, 
+            "text": "ATP-dependent chromatin remodeling complex SWI/SNF regulates transcription and has been implicated in promoter nucleosome eviction", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20513433", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 122, 
+            "text": "ATP-dependent nucleosome-remodeling enzyme involved in transcription, replication, and the DNA damage response", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19933844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1361, 
+            "offsetInEndSection": 1430, 
+            "text": "Iec1-Ino80 complex promotes transcription through nucleosome eviction", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19933844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 237, 
+            "offsetInEndSection": 323, 
+            "text": "Ino80 complex from fission yeast mediates ATP-dependent nucleosome remodeling in vitro", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19933844", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 969, 
+            "offsetInEndSection": 1153, 
+            "text": "reconstitution of nucleosome disassembly using the ATP-dependent chromatin remodeler Rsc and Vps75 revealed that these proteins can cooperate to remove H2A/H2B dimers from nucleosomes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19470761", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 106, 
+            "text": "TP-dependent chromatin-remodeling complexes, such as RSC, can reposition, evict or restructure nucleosome", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19029894", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 87, 
+            "text": "TP-dependent chromatin remodeling complexes play a critical role in chromatin dynamics", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17235287", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 348, 
+            "offsetInEndSection": 418, 
+            "text": " activity of SWI/SNF to histone eviction in trans from gene promoters.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17235287", 
+            "endSection": "abstract"
+        }
+    ]
+}

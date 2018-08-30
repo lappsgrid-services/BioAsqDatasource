@@ -1,0 +1,195 @@
+{
+    "body": "Can Pentraxin 3 predict outcomes of sepsis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15977234", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25001601", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25227610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26982005", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27864924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26872435", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24958171", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23341967", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22278372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26717657", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11445697", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25530683", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25048752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25591437", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24039869", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21423699"
+    ], 
+    "ideal_answer": [
+        "Yes, Pentraxin 3 s an objective biochemical marker in diagnosis of sepsis; it is helpful in assessment of severity and prognosis of sepsis; it also has a certain clinical value in the assessment of sepsis cardiovascular function damage."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D018805", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D000066891", 
+        "http://www.biosemantics.org/jochem#4264880"
+    ], 
+    "type": "yesno", 
+    "id": "5890eb22621ea6ff7e000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1447, 
+            "offsetInEndSection": 1708, 
+            "text": "As compared with low serum PTX3and sTWEAK cases, cirrhotic patients with high serum PTX3/sTWEAK levels a have higher probability of new severe infections, severe sepsis, septic shock, type 1 hepatorenal syndrome, in-hospital, and 3-month follow-up mortalities. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26872435", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1350, 
+            "offsetInEndSection": 1543, 
+            "text": "Neonates with high nPTX3 concentrations also have lowered APGAR scores, increased rate of respiratory distress syndrome, clinical sepsis, IVH, necrotizing enterocolitis and prolonged NICU stay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25048752", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3688, 
+            "offsetInEndSection": 4106, 
+            "text": "In terms of predicting the prognosis of sepsis with heart failure complications, the PTX3 value's area under ROC curve was larger than that of BNP (respectively 0. 844, 0. 472).CONCLUSION: The PTX3 is an objective biochemical marker in diagnosis of sepsis; it is helpful in assessment of severity and prognosis of sepsis; it also has a certain clinical value in the assessment of sepsis cardiovascular function damage.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26717657", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 82, 
+            "text": "Severe Acinetobacter baumannii sepsis is associated with elevation of pentraxin 3.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25001601", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1636, 
+            "offsetInEndSection": 1755, 
+            "text": "Together, these results suggest that elevation of PTX3 is associated with fulminant disease during A. baumannii sepsis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25001601", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Persisting high levels of plasma pentraxin 3 over the first days after severe sepsis and septic shock onset are associated with mortality.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 231, 
+            "offsetInEndSection": 332, 
+            "text": "PTX3, as a mediator of inflammation, may represent an early marker of severity and outcome in sepsis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1413, 
+            "offsetInEndSection": 1645, 
+            "text": "CONCLUSIONS: Persisting high levels of circulating PTX3 over the first days from sepsis onset may be associated with mortality. PTX3 correlates with severity of sepsis and with sepsis-associated coagulation/fibrinolysis dysfunction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 70, 
+            "text": "Pentraxin 3 in patients with severe sepsis or shock: the ALBIOS trial.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27864924", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Pentraxin 3: an immune modulator of infection and useful marker for disease severity assessment in sepsis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26982005", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "Redox state of pentraxin 3 as a novel biomarker for resolution of inflammation and survival in sepsis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24958171", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 270, 
+            "offsetInEndSection": 504, 
+            "text": "The prototypic long pentraxin, pentraxin 3, is an acute phase protein that is structurally related but distinct from C-reactive protein which has proven to correlate with the severity of bacterial infection in critically ill patients.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15977234", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Circulating levels of the long pentraxin PTX3 correlate with severity of infection in critically ill patients.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11445697", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Pentraxin 3 (PTX3) is associated with severe sepsis and fatal disease in emergency room patients with suspected infection: a prospective cohort study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23341967", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1074, 
+            "offsetInEndSection": 1278, 
+            "text": "In addition, high levels of PTX3 were associated with unfavorable outcome.CONCLUSIONS: The long pentraxin PTX3 is elevated in critically ill patients and correlates with severity of disease and infection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11445697", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 323, 
+            "text": "PTX3, as a mediator of inflammation, may represent an early marker of severity and outcome in sepsis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Redox state of pentraxin 3 as a novel biomarker for resolution of inflammation and survival in sepsis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24958171", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Persisting high levels of plasma pentraxin 3 over the first days after severe sepsis and septic shock onset are associated with mortality.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20119647", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "Pentraxin 3 (PTX3) is associated with severe sepsis and fatal disease in emergency room patients with suspected infection: a prospective cohort study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23341967", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "The proteomic profile of circulating pentraxin 3 (PTX3) complex in sepsis demonstrates the interaction with azurocidin 1 and other components of neutrophil extracellular traps.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22278372", 
+            "endSection": "title"
+        }
+    ]
+}

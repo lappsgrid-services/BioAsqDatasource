@@ -1,0 +1,615 @@
+{
+    "body": "Is Melioidosis caused by the bacterium\u00a0Burkholderia pseudomallei?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24603493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26542622", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25653950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19538822", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22176696", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17582188", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26495852", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12139670", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19156200", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26935879", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27427979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25803046", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26710411", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9753000", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15191392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12803798", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27694236", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17563759", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18691413", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22473609", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24736221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24067292", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27219859", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22442327", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11495298", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15380526", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14604083", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22564963", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20142364", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25689538", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24065633", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17676990", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24962103", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17062053", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20169062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19276877", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18855560", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26311902", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26607593", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24392083", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27472421", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26526925", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20532233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19679240", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25943405", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25442759"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0025229", 
+            "o": "Melioidosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0025229", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0432241"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0432241", 
+            "o": "MELIOIDOSIS"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0025229", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A0084485"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A0084485", 
+            "o": "Melioidosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/1025638", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3197303"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3197303", 
+            "o": "Melioidosis"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/semanticnetwork/id/T007", 
+            "o": "Bacterium"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0004611", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A7567988"
+        }
+    ], 
+    "ideal_answer": [
+        "Burkholderia pseudomallei is the causative agent of melioidosis"
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D019121", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D016957", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008554"
+    ], 
+    "type": "yesno", 
+    "id": "58caf88c02b8c60953000031", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 284, 
+            "text": "Burkholderia pseudomallei, the causative agent of melioidosis,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26935879", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "What drives the occurrence of the melioidosis bacterium Burkholderia pseudomallei in domestic gardens?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25803046", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 128, 
+            "text": "Landscape changes influence the occurrence of the melioidosis bacterium Burkholderia pseudomallei in soil in northern Australia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19156200", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 125, 
+            "text": "Out of the ground: aerial and exotic habitats of the melioidosis bacterium Burkholderia pseudomallei in grasses in Australia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22176696", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 166, 
+            "text": "Melioidosis, caused by the gram-negative bacterium Burkholderia pseudomallei, is a common cause of community-acquired sepsis in Southeast Asia and Northern Australia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27219859", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Melioidosis is a suppurative chronic infection caused by a gramnegative bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17582188", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 92, 
+            "text": "Melioidosis is an infection caused by the gram-negative bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17062053", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Melioidosis is an infectious disease caused by a saprophytic bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12803798", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Melioidosis is an infectious disease caused by the Gram-negative bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19679240", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Melioidosis is a pyogenic infection with high mortality caused by the bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24067292", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Melioidosis is a tropical infectious disease caused by the gram-negative bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14604083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Melioidosis is a potentially fatal disease caused by the bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15380526", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Melioidosis is a rare tropical disease caused by infection with the bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12139670", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "The mechanisms involved in the pathogenesis of melioidosis, caused by the intracellular bacterium Burkholderia pseudomallei, are unclear.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9753000", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 155, 
+            "text": "Melioidosis is an emerging tropical infection caused by the intracellular bacterium Burkholderia pseudomallei, and is associated with high mortality rates.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15191392", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 164, 
+            "text": "Melioidosis is an increasingly recognised cause of sepsis and death across South East Asia and Northern Australia, caused by the bacterium Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26495852", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 234, 
+            "text": "Melioidosis, an infection caused by the gram-negative bacterium Burkholderia pseudomallei, is an important cause of pneumonia, skin infection, sepsis, and death in Southeast Asia and Australia, but is exceedingly rare in North America", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25943405", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 179, 
+            "offsetInEndSection": 391, 
+            "text": "The Gram-negative bacterium Burkholderia pseudomallei is able to survive and replicate within leukocytes and causes melioidosis, an important cause of pneumonia-derived community-acquired sepsis in Southeast Asia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20142364", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 177, 
+            "text": "Melioidosis, a lethal tropical infection that is endemic in southeast Asia and northern Australia, is caused by the saprophytic Gram-negative bacterium Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18691413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Melioidosis is an emerging infectious disease caused by the soil bacterium Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22442327", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Melioidosis is a tropical disease of high mortality caused by the environmental bacterium, Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26526925", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Melioidosis is an infectious disease caused by Burkholderia pseudomallei, a bacterium endemic in Southeast Asia and northern Australia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26542622", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Melioidosis is a life-threatening infection caused by the Gram-negative bacterium Burkholderia pseudomallei, mainly found in Southeast Asia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25689538", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 214, 
+            "text": "Melioidosis, caused by the Gram-negative bacterium Burkholderia pseudomallei, is a dreadful disease common in South-East Asia and Northern Australia and is characterized by chronic suppurative lesions and pneumonia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24962103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 113, 
+            "text": "Melioidosis is caused by the environmental bacterium Burkholderia pseudomallei and can present with severe sepsis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25442759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Melioidosis is an emerging infectious disease of humans and animals in the tropics caused by the soil bacterium Burkholderia pseudomallei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22176696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Melioidosis is a potentially fatal disease caused by the bacterium Burkholderia pseudomallei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22473609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Melioidosis, infection caused by the Gram-negative bacterium Burkholderia pseudomallei, is a common cause of sepsis in northeast Thailand. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24392083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "Melioidosis is a potentially fatal disease caused by the bacterium, Burkholderia pseudomallei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17563759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 187, 
+            "text": "BACKGROUND: The soil-dwelling saprophyte bacterium Burkholderia pseudomallei is the cause of melioidosis, a severe disease of humans and animals in southeast Asia and northern Australia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19156200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "Melioidosis is an endemic disease caused by the bacterium Burkholderia pseudomallei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24603493", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 289, 
+            "offsetInEndSection": 424, 
+            "text": "Melioidosis is a severe infection caused by the gram-negative bacterium, Burkholderia pseudomallei, that is endemic in Southeast Asia. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17676990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Melioidosis, infection caused by the Gram-negative bacterium Burkholderia pseudomallei, is a common cause of sepsis in northeast Thailand.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24392083", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Melioidosis is a clinically diverse disease caused by the facultative intracellular Gram-negative bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25653950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 114, 
+            "text": "Melioidosis is caused by the environmental bacterium Burkholderia pseudomallei and can present with severe sepsis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25442759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 277, 
+            "offsetInEndSection": 411, 
+            "text": "Melioidosis is a severe infection caused by the gram-negative bacterium, Burkholderia pseudomallei, that is endemic in Southeast Asia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17676990", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 178, 
+            "text": "Melioidosis, a lethal tropical infection that is endemic in southeast Asia and northern Australia, is caused by the saprophytic Gram-negative bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18691413", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 213, 
+            "text": "Melioidosis, a severe human disease caused by the bacterium Burkholderia pseudomallei, has a wide spectrum of clinical manifestations ranging from acute septicemia to chronic localized illness or latent infection.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26311902", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "Melioidosis, an often fatal infectious disease in Northeast Thailand, is caused by skin inoculation, inhalation or ingestion of the environmental bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27472421", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 89, 
+            "text": "Melioidosis is an infection caused by Gram-negative bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26710411", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "Melioidosis, caused by the Gram-negative bacterium Burkholderia pseudomallei, is a dreadful disease common in South-East Asia and Northern Australia and is characterized by chronic suppurative lesions and pneumonia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24962103", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 207, 
+            "text": "Largely due to its recognition as a biological threat agent, current knowledge on melioidosis, caused by the Gram-negative bacterium Burkholderia pseudomallei, has increased tremendously over the last years.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19276877", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Melioidosis is an endemic disease caused by the bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24603493", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 93, 
+            "text": "Melioidosis is a potentially fatal disease caused by the bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22473609", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 94, 
+            "text": "Melioidosis is a potentially fatal disease caused by the bacterium, Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17563759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Melioidosis is a disease of humans and animals that is caused by the saprophytic bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/26607593", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Melioidosis is an emerging infectious disease of humans and animals in the tropics caused by the soil bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22176696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 174, 
+            "text": "The soil-dwelling saprophyte bacterium Burkholderia pseudomallei is the cause of melioidosis, a severe disease of humans and animals in southeast Asia and northern Australia.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19156200", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 181, 
+            "text": "Melioidosis is an often fatal infectious disease affecting humans and animals in tropical regions and is caused by the saprophytic environmental bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25803046", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 147, 
+            "offsetInEndSection": 352, 
+            "text": "We have recently shown that during melioidosis, a severe infection caused by the gram-negative bacterium Burkholderia pseudomallei, TLR2 but not TLR4 impacts the immune response of the intact host in vivo.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18855560", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1767, 
+            "offsetInEndSection": 1924, 
+            "text": "It is caused by the bacterium Burkholderia pseudomallei, which can infect many organs of the body, including the brain, and results in neurological symptoms.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24736221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 131, 
+            "text": "Melioidosis is a frequent cause of severe sepsis in Southeast Asia caused by the gram-negative bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22564963", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "What drives the occurrence of the melioidosis bacterium Burkholderia pseudomallei in domestic gardens?", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25803046", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "The Gram-negative bacterium Burkholderia pseudomallei is the causative agent of melioidosi", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24065633", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 175, 
+            "text": "The environmental bacterium Burkholderia pseudomallei causes the infectious disease melioidosis with a high case-fatality rate in tropical and subtropical regions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27427979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 83, 
+            "text": "Burkholderia pseudomallei is a soil-dwelling bacterium and the cause of melioidosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27694236", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Melioidosis, an infectious disease caused by the Gram-negative bacterium Burkholderia pseudomallei,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19538822", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 144, 
+            "text": "Melioidosis is a frequently fatal infectious disease caused by the soil dwelling Gram-negative bacterium Burkholderia pseudomallei. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20532233", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 98, 
+            "text": "Burkholderia pseudomallei, an environmental bacterium that causes the deadly disease melioidosis, ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27303718", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Melioidosis is an important public health problem in Southeast Asia and Northern Australia. This disease is caused by the gram-negative bacilli, Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11495298", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 184, 
+            "offsetInEndSection": 301, 
+            "text": "Melioidosis, caused by Burkholderia pseudomallei, is an important cause of community-acquired sepsis in Southeast-Asi", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20169062", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 104, 
+            "text": "Melioidosis is a potentially fatal disease caused by the saprophytic bacterium Burkholderia pseudomallei", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24145517", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 129, 
+            "text": "Melioidosis is a disease of humans caused by opportunistic infection with the soil and water bacterium Burkholderia pseudomallei.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22624016", 
+            "endSection": "abstract"
+        }
+    ]
+}

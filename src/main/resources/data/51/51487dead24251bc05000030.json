@@ -1,0 +1,380 @@
+{
+    "body": "Which pharmacogenetic test is available for abacavir?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19514905", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16609367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20602616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19351209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20070406", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15247625", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23204921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18680696", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18923406", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18784465", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18332899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19372817", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18680695", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21354501", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21691271", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21521028", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20487194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19207023", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18444831", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18192781", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18256392", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18673126", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17534855", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21142908"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/intervention/61980", 
+            "o": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01048"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/intervention/755", 
+            "o": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01048"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#exactMatch", 
+            "s": "http://data.linkedct.org/resource/intervention/29655", 
+            "o": "http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01048"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#altLabel", 
+            "s": "http://linkedlifedata.com/resource/chebi/id/CHEBI:421707", 
+            "o": "{(1S,4R)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]cyclopent-2-en-1-yl}methanol"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C0663655", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A1350342"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1350342", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18243547", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1350341", 
+            "o": "abacavir"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11833020", 
+            "o": "Abacavir"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12783493", 
+            "o": "ABACAVIR"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17883542", 
+            "o": "abacavir"
+        }, 
+        {
+            "p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1350340", 
+            "o": "http://www.w3.org/2008/05/skos-xl#Label"
+        }
+    ], 
+    "ideal_answer": [
+        "The pharmacogenetic test recommended prior to abacavir administration is the HLA B*5701 genotyping."
+    ], 
+    "exact_answer": [
+        "HLA B*5701 genotyping"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D025202", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005820", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D057069", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010597", 
+        "http://www.biosemantics.org/jochem#4274473"
+    ], 
+    "type": "factoid", 
+    "id": "51487dead24251bc05000030", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 256, 
+            "text": "Pharmacogenomic tests offer a promising strategy to improve the safety and efficacy of drug treatment. Compelling examples, such as HLA-B*5701 testing to identify patients at risk for abacavir-associated hypersensitivity, are already changing clinical care", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21691271", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 336, 
+            "text": "International HIV treatment guidelines recommend HLA-B*57:01 typing before abacavir administration, in order to reduce the incidence of abacavir hypersensitivity reactions, the major cause of early therapy discontinuation. A fast, sensitive and specific test for HLA-B*57:01 detection has been developed in the present study.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21521028", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 701, 
+            "offsetInEndSection": 872, 
+            "text": "The rollout of HLA-B\u22175701 into routine clinical practice as a genetic screening test to prevent abacavir hypersensitivity provides a translational roadmap for other drugs.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21354501", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 528, 
+            "offsetInEndSection": 857, 
+            "text": "he aim of the session, using real-world examples (KRAS/panitumumab and HLA-B*5701/abacavir), was to identify good scientific principles that would guide the design of studies to identify subgroups of responders during development programs (including marketed drugs), which could subsequently be used to guide treatment decisions.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21142908", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 812, 
+            "offsetInEndSection": 965, 
+            "text": "HLA-B*5701 screening to prevent abacavir hypersensitivity syndrome is an example of a test now in widespread routine clinical use in the developed world.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20602616", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 296, 
+            "offsetInEndSection": 481, 
+            "text": "Successful results that have been achieved within the field of pharmacogenomics so far are, to name a few, HLA-B*5701 screening to avoid hypersensitivity to the antiretroviral abacavir,", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20487194", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 234, 
+            "text": "Prospective pharmacogenetic screening for the human leucocyte antigen (HLA) B*5701 allele can significantly reduce the number of cases of abacavir-related hypersensitivity among HIV-infected patients treated with this drug.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20070406", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 27, 
+            "offsetInEndSection": 190, 
+            "text": "development of HLA-B*5701 genetic screening as a means of preventing drug hypersensitivity reactions caused by a commonly prescribed antiretroviral drug, abacavir.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19514905", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 615, 
+            "text": "Abacavir hypersensitivity syndrome (AHS) is a potentially life-threatening illness occurring in 4-8% of those initiating the drug. Early studies identified a strong association between the MHC class I allele HLA-B*5701 and AHS. These studies suggested that HLA-B*5701 holds promise as a screening test to prevent AHS, but concern arose from HLA-B*5701-negative cases with a clinical diagnosis of AHS, and particularly from early reports of apparently low sensitivities of HLA-B*5701 for AHS in patients of non-White race. However, open screening studies suggested that HLA-B*5701 screening can largely eliminate AHS", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19351209", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 988, 
+            "offsetInEndSection": 1167, 
+            "text": "Current HIV treatment guidelines have been revised to reflect the recommendation that HLA-B*5701 screening be incorporated into routine care for patients who may require abacavir.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19351209", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1750, 
+            "offsetInEndSection": 1896, 
+            "text": "The research approach applied to AHS has led to a genetic screening test being successfully implemented globally in primary HIV clinical practice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19351209", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 434, 
+            "offsetInEndSection": 736, 
+            "text": "The clinical utility of prospective HLA-B*5701 screening was demonstrated in a blinded randomized clinical trial and in open-label cohorts. Screening has been incorporated into clinical practice and the ABC HSR pharmacogenetics program has been highlighted as a success by pharmacogenetics researchers.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19207023", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Abacavir hypersensitivity (ABC HSR) is a treatment-limiting adverse event associated with the use of the antiretroviral medicine, abacavir.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19207023", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 433, 
+            "text": "The major histocompatibility complex allele, HLA-B*5701, was identified retrospectively and confirmed with independent sample sets.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19207023", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1490, 
+            "offsetInEndSection": 1968, 
+            "text": "he most significant advance for clinical practice is the correlation between the presence of the HLA-B*5701 allele and hypersensitivity reaction to abacavir. In particular, one clinical trial with a large number of patients from distinct ethnic groups found that the probability of not developing hypersensitivity reaction (immunologically confirmed) was 100% if the patient was HLA-B*5701-negative. These data suggest the need to implement this test in daily clinical practice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18680696", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 300, 
+            "text": "The aim of the PREDICT-1 study was to determine the clinical utility of the pharmacogenetic test identifying HLA-B*5701 to reduce the incidence of hypersensitivity reaction to abacavir, diagnosed clinically and with immunological confirmation, as well as to reduce unwarranted withdrawal of this drug", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18680695", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1949, 
+            "offsetInEndSection": 2116, 
+            "text": "the identification of HLA-B(*)5701 as a highly sensitive and specific predictive marker for abacavir treated patients who will develop hypersensitivity syndrome (HSS).", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18923406", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 2881, 
+            "offsetInEndSection": 3144, 
+            "text": "Clinical consensus panels rapidly recommended abacavir as the preferred therapy along with HLA-B(*)5701 pre-testing, immediately increasing the market share of abacavir with respect to other reverse transcriptases that are associated with there own adverse events", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18923406", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1889, 
+            "offsetInEndSection": 2041, 
+            "text": "Pharmacogenetic testing for HLA-B*5701 is cost-effective only if abacavir-based treatment is as effective and costs less than tenofovir-based treatment.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18784465", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1621, 
+            "offsetInEndSection": 1875, 
+            "text": "HLA-B*5701 testing remained the preferred strategy only if abacavir-based treatment had equal efficacy and cost less per month than tenofovir-based treatment. Results were also sensitive to the cost of HLA-B*5701 testing and the prevalence of HLA-B*5701.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18784465", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 685, 
+            "text": "The strong association of the abacavir hypersensitivity reaction with HLA-B*5701 permits testing patients for the allele, and if present avoiding the drug and therefore preventing the reaction.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18673126", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 243, 
+            "text": "Although the human leukocyte antigen (HLA)-B*5701 is highly associated with a hypersensitivity reaction (HSR) to abacavir (ABC), variable sensitivities have been reported when clinical data alone have been used to define an ABC HSR", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18444831", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1867, 
+            "offsetInEndSection": 2132, 
+            "text": "Although IC ABC HSRs are uncommon in black persons, the 100% sensitivity of HLA-B*5701 as a marker for IC ABC HSRs in both US white and black patients suggests similar implications of the association between HLA-B*5701 positivity and risk of ABC HSRs in both races.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18444831", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 351, 
+            "offsetInEndSection": 535, 
+            "text": "A strong statistical association between the major histocompatibility complex allele, HLA-B*5701, and clinically diagnosed ABC HSR was identified but varied between racial populations.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18332899", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 650, 
+            "offsetInEndSection": 1137, 
+            "text": "In a randomized, prospective study evaluating the clinical utility of HLA-B*5701 screening, avoidance of ABC in HLA-B*5701-positive patients significantly reduced clinically diagnosed ABC HSR and eliminated patch test-positive ABC HSR. Finally, a retrospective PGx study supports the generalizability of the association across races. Prospective HLA-B*5701 screening should greatly reduce the incidence of ABC HSR by identifying patients at high risk for ABC HSR before they are treated.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18332899", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 115, 
+            "text": "Hypersensitivity reaction to abacavir is strongly associated with the presence of the HLA-B*5701 allele", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18256392", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1648, 
+            "offsetInEndSection": 2014, 
+            "text": "HLA-B*5701 screening reduced the risk of hypersensitivity reaction to abacavir. In predominantly white populations, similar to the one in this study, 94% of patients do not carry the HLA-B*5701 allele and are at low risk for hypersensitivity reaction to abacavir. Our results show that a pharmacogenetic test can be used to prevent a specific toxic effect of a drug.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18256392", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 729, 
+            "offsetInEndSection": 950, 
+            "text": "For abacavir in particular, the use of HLA-B*5701 as a screening test appears to be generalizable across racially diverse populations and has been supported by both observational, and blinded randomized controlled trials.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18192781", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1296, 
+            "offsetInEndSection": 1597, 
+            "text": "HLA-B*5701 screening to prevent abacavir hypersensitivity is currently the most relevant to clinical practice and highlights that the promise of cost-effective testing can be facilitated by robust laboratory methodology and quality assurance programs that can be applied to diverse treatment settings.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18192781", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 623, 
+            "offsetInEndSection": 773, 
+            "text": "the major histocompatibility complex HLA-B*5701 allele has been associated with hypersensitivity to abacavir (ABC) by several independent researchers.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17534855", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1110, 
+            "offsetInEndSection": 1284, 
+            "text": "The strong association between HLA-B5701 and abacavir hypersensitivity reaction shows promise for a genetic screening test to be feasibly incorporated into clinical practice.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19372817", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 399, 
+            "text": "Abacavir hypersensitivity reaction (ABC HSR) is a potentially life-threatening adverse reaction that affects approximately 8% of patients that initiate this antiretroviral drug. Independent groups have shown a strong predictive association between ABC HSR and HLA-B*5701, indicating that exclusion of HLA-B*5701 positive individuals from abacavir treatment would largely prevent ABC HSR.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16609367", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 253, 
+            "text": "Abacavir, a human immunodeficiency virus-1 (HIV-1) nucleoside-analogue reverse transcriptase inhibitor, causes severe hypersensitivity in 4-8% of patients. HLA B*5701 is a known genetic risk factor for abacavir hypersensitivity in Caucasians.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15247625", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1618, 
+            "offsetInEndSection": 1788, 
+            "text": "Abacavir hypersensitivity is associated with HLA B*5701, and pre-prescription pharmacogenetic testing for this appears to be a cost-effective use of healthcare resources.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15247625", 
+            "endSection": "sections.0"
+        }
+    ]
+}

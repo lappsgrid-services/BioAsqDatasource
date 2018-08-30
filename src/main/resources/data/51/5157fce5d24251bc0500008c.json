@@ -1,0 +1,47 @@
+{
+    "body": "Is it feasible to determine the complete proteome of yeast?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23438854", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12912986", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23334424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15768030", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14730684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16784548"
+    ], 
+    "ideal_answer": [
+        "Yes, since the complete genome of yeast is known."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020543", 
+        "http://www.nlm.nih.gov/cgi/mesh/2012/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015003"
+    ], 
+    "type": "yesno", 
+    "id": "5157fce5d24251bc0500008c", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 101, 
+            "offsetInEndSection": 191, 
+            "text": "or model organisms like yeast, we can now quantify complete proteomes in just a few hours.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23438854", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 95, 
+            "text": "A complete mass-spectrometric map of the yeast proteome applied to quantitative trait analysis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334424", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 806, 
+            "text": "So far, attempts to generate such maps for any proteome have failed to reach complete proteome coverage. Here we use a strategy based on high-throughput peptide synthesis and mass spectrometry to generate an almost complete reference map (97% of the genome-predicted proteins) of the Saccharomyces cerevisiae proteome.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23334424", 
+            "endSection": "sections.0"
+        }
+    ]
+}

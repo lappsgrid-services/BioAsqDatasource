@@ -1,0 +1,48 @@
+{
+    "body": "What is the function of gasdermin D?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26482951", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27932073", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/27281216", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/26611636"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539620", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A20719561"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A20719561", 
+            "o": "gasdermin D"
+        }
+    ], 
+    "ideal_answer": [
+        "The gasdermin-N domains of the gasdermin proteins can bind membrane lipids, phosphoinositides and cardiolipin to produce membrane-disrupting cytotoxicity."
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/GSDMD_MOUSE", 
+        "http://www.uniprot.org/uniprot/GSDMD_HUMAN"
+    ], 
+    "type": "summary", 
+    "id": "58e2467a6fddd3e83e000012", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 33, 
+            "offsetInEndSection": 161, 
+            "text": "gasdermin D (GSDMD) protein to trigger pyroptosis, a lytic form of cell death that is crucial for immune defences and diseases. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27281216", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 329, 
+            "offsetInEndSection": 584, 
+            "text": "Here we show that the gasdermin-N domains of the gasdermin proteins GSDMD, GSDMA3 and GSDMA can bind membrane lipids, phosphoinositides and cardiolipin, and exhibit membrane-disrupting cytotoxicity in mammalian cells and artificially transformed bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27281216", 
+            "endSection": "abstract"
+        }
+    ]
+}

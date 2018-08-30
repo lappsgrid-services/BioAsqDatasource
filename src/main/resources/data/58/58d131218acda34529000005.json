@@ -1,0 +1,404 @@
+{
+    "body": "What is the role of peptide aptamers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21224349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22949372", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25966787", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21838684", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25238402", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18186614", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23785412", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11071782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8755498", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17189388", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25801767", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19377984", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15037656", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19295259", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17574575", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16581027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19895821", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18195017", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16751801", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12842895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11641783", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18314488", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23579184", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18243349", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25699094", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9222505", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24478452", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12530529", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20653933", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18265211", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25963836", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25230811", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22503683", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19377987", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19320493", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10439043", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15231297", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15952909", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19377988", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18336207", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16731923"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/595798", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3218865"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3218865", 
+            "o": "Peptide Aptamers"
+        }, 
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "Aptamers, Peptide"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17937093"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17937093", 
+            "o": "Aptamers, Peptide"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/id/595798", 
+            "o": "http://linkedlifedata.com/resource/rxnorm/label/3111176"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/rxnorm/label/3111176", 
+            "o": "Aptamers, Peptide"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1567956", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17888724"
+        }
+    ], 
+    "ideal_answer": [
+        "Peptide aptamers are artificial short peptides which are able to specifically bind to defined functional domains, track, and inhibit a given target molecule with high affinity, even molecules with poor immunogenicity or high toxicity. They represent a remarkable alternative to antibodies in many different applications."
+    ], 
+    "concepts": [
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D052158", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D012380", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D010455"
+    ], 
+    "type": "summary", 
+    "id": "58d131218acda34529000005", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 100, 
+            "text": "Peptide aptamers: The versatile role of specific protein function inhibitors in plant biotechnology.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25966787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 215, 
+            "offsetInEndSection": 485, 
+            "text": " These artificial short peptides are able to specifically bind, track, and inhibit a given target molecule with high affinity, even molecules with poor immunogenicity or high toxicity, and represent a remarkable alternative to antibodies in many different applications. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25966787", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 488, 
+            "offsetInEndSection": 696, 
+            "text": "To inhibit the oncogenic action of Stat3 in tumor cells, we have selected short peptides, so-called peptide aptamers, which specifically interact with defined functional domains of this transcription factor. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15037656", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 347, 
+            "text": "Aptasensors utilize aptamers as bioreceptors. Aptamers are highly efficient, have a high specificity and are reusable. Within the biosensor the aptamers are immobilized to maximize their access to target molecules. Knowledge of the orientation and location of the aptamer and peptide during binding could be gained through computational modeling. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25963836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 607, 
+            "offsetInEndSection": 743, 
+            "text": "Understanding orientation and location of the binding region for a peptide-aptamer complex is critical in their biosensor applicability.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25963836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2171, 
+            "offsetInEndSection": 2435, 
+            "text": " Our study clearly demonstrates the ability of MD simulations to obtain molecular insights for peptide-aptamer binding, and to provide details on the orientation and location of binding between the peptide-aptamer that can be instrumental in biosensor development.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25963836", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 205, 
+            "text": "Peptide aptamers are artificial short peptides that potentially interfere with the biological roles of their target proteins; however, this technology has not yet been applied to plant functional genomics.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25230811", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 252, 
+            "offsetInEndSection": 436, 
+            "text": "To extend such strategies we selected peptide aptamers binding to PrP from a combinatorial peptide library presented on the Escherichia coli thioredoxin A (trxA) protein as a scaffold.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1064, 
+            "offsetInEndSection": 1277, 
+            "text": "These peptide aptamers retained their binding properties to PrPc and, depending on peptide sequence and C-terminal modification, interfered with endogenous PrPSc conversion upon expression in prion-infected cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 706, 
+            "text": "Binding to the nonfarnesylated peptide was at least 10-fold weaker, showing that the aptamers can recognize the hydrophobic farnesyl moiety.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9222505", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Peptide aptamers: exchange of the thioredoxin-A scaffold by alternative platform proteins and its influence on target protein binding.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12530529", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 190, 
+            "offsetInEndSection": 351, 
+            "text": "Typically, peptide aptamers are generated by screening a randomized peptide expression library, displayed from the Escherichia coli thioredoxin A (TrxA) protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12530529", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Peptide aptamers define distinct EB1- and EB3-binding motifs and interfere with microtubule dynamics.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24478452", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 222, 
+            "offsetInEndSection": 382, 
+            "text": "Reverse analysis with peptide aptamers involves isolating aptamers that interact with a specific protein and monitoring the resulting aptamer-induced phenotype.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18265211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 504, 
+            "text": "Peptide aptamers are combinatorial protein reagents that bind to targets with a high specificity and a strong affinity thus providing a molecular tool kit for modulating the function of their targets in vivo.Here we report the isolation of a peptide aptamer named swiggle that interacts with the very short (21 amino acid long) intracellular domain of membrane type 1-metalloproteinase (MT1-MMP), a key cell surface protease involved in numerous and crucial physiological and pathological cellular events", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20653933", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "Peptide aptamers are simple structures, often made up of a single-variable peptide loop constrained within a constant scaffold protein", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19895821", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 286, 
+            "offsetInEndSection": 461, 
+            "text": "Peptide aptamers are small peptide sequences that have been selected to recognise a predetermined target protein domain and are potentially able to interfere with its function", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15952909", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 150, 
+            "text": "Aptamers, including DNA, RNA and peptide aptamers, are a group of promising recognition units that can specifically bind to target molecules and cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25699094", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Aptamers are a group of molecules, which can specifically bind, track, and inhibit target molecules, comprising DNA aptamers, RNA aptamers, and peptide aptamers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22949372", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 99, 
+            "text": "Peptide aptamers: The versatile role of specific protein function inhibitors in plant biotechnology", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25966787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Peptide aptamers are small proteins containing a randomized peptide sequence embedded into a stable protein scaffold, such as Thioredoxin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23785412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 534, 
+            "offsetInEndSection": 822, 
+            "text": "Peptide aptamers can subsequently be used to guide the discovery of small molecule drugs specific for these molecular surfaces.Here, we present a high-throughput screening assay that identifies small molecules that displace interactions between proteins and their cognate peptide aptamers", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19377984", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 154, 
+            "offsetInEndSection": 443, 
+            "text": "These peptide aptamers are target-specific peptides expressed within a protein scaffold engineered from the human protease inhibitor stefin A. The scaffold provides stability to the inserted peptides and increases their binding affinity owing to the resulting three-dimensional constraints", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18186614", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 57, 
+            "text": "Isolation of Peptide aptamers to target protein function.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19377987", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 165, 
+            "text": "Peptide aptamers with binding specificity for the intracellular domain of the ErbB2 receptor interfere with AKT signaling and sensitize breast cancer cells to Taxol.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17189388", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 84, 
+            "text": "Peptides and aptamers targeting HSP70: a novel approach for anticancer chemotherapy.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21224349", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Peptide aptamers targeting the hepatitis B virus core protein: a new class of molecules with antiviral activity.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11641783", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1590, 
+            "offsetInEndSection": 1776, 
+            "text": "These data highlight the utility of peptide aptamers to identify novel binding interfaces and highlight a role for MAP1B in DAPK-1-dependent signaling in autophagy and membrane blebbing.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18195017", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 399, 
+            "offsetInEndSection": 588, 
+            "text": "Therapeutic application depends on binding specificities and affinities, as well as on the production and purification characteristics of the peptide aptamers and their delivery into cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18314488", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 209, 
+            "offsetInEndSection": 407, 
+            "text": "While antibodies are known to recognize the sequence and conformation of protein surface features (epitopes), very little is known about the precise interactions between aptamers and their epitopes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8755498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "Monomeric recombinant peptide aptamers are required for efficient intracellular uptake and target inhibition.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18314488", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 423, 
+            "offsetInEndSection": 575, 
+            "text": "The use of small peptide aptamers to competitively inhibit protein interaction and function is becoming increasingly recognized as a powerful technique.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24478452", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1373, 
+            "offsetInEndSection": 1533, 
+            "text": "For the first time, we show that trxA-based peptide aptamers can be targeted to the secretory pathway, thereby not losing the affinity for their target protein.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17574575", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 902, 
+            "offsetInEndSection": 1047, 
+            "text": "Moreover, the aptamers appeared to be able to bind peptides with different solution conformations, implying an induced fit mechanism for binding.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8755498", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Peptide aptamers are small proteins containing a randomized peptide sequence embedded into a stable protein scaffold, such as Thioredoxin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23785412", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Peptide aptamers are the newest in the class of \"genetic\" agents that aid in the analysis of cellular processes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18265211", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 101, 
+            "text": "Peptide aptamers: The versatile role of specific protein function inhibitors in plant biotechnology.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25966787", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 637, 
+            "offsetInEndSection": 892, 
+            "text": "Here we present a detailed protocol for the creation of a peptide aptamer plasmid library, selection of peptide aptamers using the LiRP scaffold in a yeast two-hybrid system, and the screening of those peptide aptamers for a ligand-regulated interaction..", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19377988", 
+            "endSection": "abstract"
+        }
+    ]
+}

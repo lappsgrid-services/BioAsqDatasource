@@ -1,0 +1,34 @@
+{
+    "body": "What type of mutation is causing the industrial melanism phenotype in peppered moths?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/27251284", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12298233", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12140267"
+    ], 
+    "ideal_answer": [
+        "The mutation event giving rise to industrial melanism in Britain was the insertion of a large, tandemly repeated, transposable element into the first intron of the gene cortex."
+    ], 
+    "exact_answer": [
+        "transposable element insertion"
+    ], 
+    "type": "factoid", 
+    "id": "58a877cf38c171fb5b000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "The industrial melanism mutation in British peppered moths is a transposable element.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27251284", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 685, 
+            "offsetInEndSection": 879, 
+            "text": "Here we show that the mutation event giving rise to industrial melanism in Britain was the insertion of a large, tandemly repeated, transposable element into the first intron of the gene cortex.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/27251284", 
+            "endSection": "abstract"
+        }
+    ]
+}

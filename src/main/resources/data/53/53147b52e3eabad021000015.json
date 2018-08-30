@@ -1,0 +1,106 @@
+{
+    "body": "What is a benefit of being g6PD-deficient?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10403541", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24152564", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23534950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21403409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24502194", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22639416", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15906719", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24052930", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9553792", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21929367", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3582603", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24316370", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23696099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23479361", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24188096"
+    ], 
+    "triples": [
+        {
+            "p": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/associatedGene", 
+            "s": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2421", 
+            "o": "http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18450856", 
+            "o": "Deficiency, G6PD"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A1305424", 
+            "o": "G6PD deficiency"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18447746", 
+            "o": "G6PD Deficiency"
+        }
+    ], 
+    "ideal_answer": [
+        "Increased resistance to malaria, reduces the risk of coronary diseases, beneficial effect in terms of longevity"
+    ], 
+    "exact_answer": [
+        "There is evidence of increased resistance to malaria."
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005955", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008288", 
+        "http://www.disease-ontology.org/api/metadata/DOID:12365", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004345"
+    ], 
+    "type": "factoid", 
+    "id": "53147b52e3eabad021000015", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 573, 
+            "offsetInEndSection": 730, 
+            "text": "A central position of the PPP for malaria parasites is supported by the fact that human G6PD deficiency protects to a certain degree from malaria infections.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22639416", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1126, 
+            "offsetInEndSection": 1508, 
+            "text": " The beneficial effect of thalassemia minor, sickle-cell trait, and glucose-6-phosphate dehydrogenase deficiency on survival of malaria infection may well be due to the shared feature of enhanced oxidative stress. This may inhibit parasite growth, enhance uptake of infected RBCs by spleen macrophages, and/or cause less cytoadherence of the infected cells to capillary endothelium.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24316370", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1604, 
+            "offsetInEndSection": 1723, 
+            "text": " In conclusion, genetic variants that confer resistance to malaria are associated with RBC traits in African-Americans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23696099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 990, 
+            "offsetInEndSection": 1240, 
+            "text": " G6PD deficiency has been positively selected by malaria, and recent knowledge seems to show that it also confers an advantage against the development of cancer, reduces the risk of coronary diseases and has a beneficial effect in terms of longevity.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23534950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1632, 
+            "offsetInEndSection": 1847, 
+            "text": "G6PD enzyme activity was directly related to susceptibility to malaria in the Brazilian Amazon, where P. vivax predominates. Severe G6PDd was associated with considerable higher risk of malaria-related transfusions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23479361", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 857, 
+            "offsetInEndSection": 945, 
+            "text": "and G6PD (Xq28)-were associated (P \u2264 1 \u00d7 10(-6)) with RBC traits in the discovery cohort", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23696099", 
+            "endSection": "abstract"
+        }
+    ]
+}

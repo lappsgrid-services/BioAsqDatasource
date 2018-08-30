@@ -1,0 +1,404 @@
+{
+    "body": "List scaffold proteins of the ERK signaling pathway.", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23755307", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24101133", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23987506", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21615688", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17052209", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22926523", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15371409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18823331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24018045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10769183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21401930", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23267331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23431403", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25352726", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24278035", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17785185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16038799", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19560418", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12133899", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21829671", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20051520", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19200235", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11940661", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15547943", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22776333", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21268275", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23763998", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15118098", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19563921", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23788642"
+    ], 
+    "ideal_answer": [
+        "Originally identified in yeast, scaffold proteins are now recognized to contribute to the specificity of MEK/ERK pathways in mammalian cells. These scaffolds include kinase suppressor of Ras (KSR), beta-arrestin, MEK partner-1 (MP-1), Sef and IQ motif-containing GTPase-activating protein 1(IQGAP1). Human disc-large homolog (hDlg) acts as a MEK2-specific scaffold protein for the ERK signaling pathway. Two scaffold proteins, caveolin-1 and IQGAP1, are required for phosphorylation of the actin associated pool of extracellular signal regulated kinase 1 and 2 (ERK1/2). Several 14-3-3 isotypes bind to protein kinase C (PKC)-zeta and facilitate coupling of PKC-zeta to Raf-1 an event that boosts the mitogen-activated protein kinase (ERK) pathway.", 
+        "kinase suppressor of Ras 1\nMEK Partner 1\nBeta-arrestin\nIQ motif containing GTPase-activating protein 1\nkinase suppressor of Ras 2\nmitogen-activated protein kinase organizer 1"
+    ], 
+    "exact_answer": [
+        [
+            "Human disc-large homolog", 
+            "hDlg"
+        ], 
+        [
+            "caveolin-1"
+        ], 
+        [
+            "IQ motif-containing GTPase-activating protein 1", 
+            "IQGAP1"
+        ], 
+        [
+            "kinase suppressor of Ras", 
+            "KSR"
+        ], 
+        [
+            "MEK partner-1", 
+            "MP-1"
+        ], 
+        [
+            "beta-arrestin"
+        ], 
+        [
+            "Sef"
+        ], 
+        [
+            "14-3-3"
+        ], 
+        [
+            "mitogen-activated protein kinase organizer 1"
+        ]
+    ], 
+    "concepts": [
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032947", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070374", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097110", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004707", 
+        "http://www.uniprot.org/uniprot/EPHB2_HUMAN", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020935"
+    ], 
+    "type": "list", 
+    "id": "55152bd246478f2f2c000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 344, 
+            "text": "Human disc-large homolog (hDlg), also known as synapse-associated protein 97, is a scaffold protein, a member of the membrane-associated guanylate kinase family, implicated in neuronal synapses and epithelial-epithelial cell junctions whose expression and function remains poorly characterized in most tissues, particularly in the vasculature. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 428, 
+            "offsetInEndSection": 656, 
+            "text": "Using the yeast two-hybrid system to screen a human aorta cDNA library, we identified mitogen-activated protein/extracellular signal-responsive kinase (ERK) kinase (MEK)2, a member of the ERK cascade, as an hDlg binding partner.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1296, 
+            "offsetInEndSection": 1566, 
+            "text": "Taken together, these findings allow us to hypothesize that hDlg acts as a MEK2-specific scaffold protein for the ERK signaling pathway, and may improve our understanding of how scaffold proteins, such as hDlg, differentially tune MEK1/MEK2 signaling and cell responses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 240, 
+            "offsetInEndSection": 468, 
+            "text": "Here, we show that two scaffold proteins, caveolin-1 and IQGAP1, are required for phosphorylation of the actin associated pool of extracellular signal regulated kinase 1 and 2 (ERK1/2) in response to protein kinase C activation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23987506", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 184, 
+            "text": "ERK activation is enhanced by the scaffolding proteins KSR and MP1, localized near the cell membrane and late endosomes respectively, but little is known about their dynamic interplay.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21829671", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 698, 
+            "offsetInEndSection": 942, 
+            "text": " Originally identified in yeast, scaffold proteins are now recognized to contribute to the specificity of MEK/ERK pathways in mammalian cells. These scaffolds include KSR (kinase suppressor of Ras), beta-arrestin, MEK partner-1, Sef and IQGAP1.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17052209", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 265, 
+            "offsetInEndSection": 428, 
+            "text": "Here we analyze a potential scaffold of the Ras/mitogen-activated protein kinase (MAPK) pathway, kinase suppressor of Ras (KSR), by generating KSR-deficient mice. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11940661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 731, 
+            "offsetInEndSection": 865, 
+            "text": "This demonstrates that KSR is a bona fide scaffold that is not required for but enhances signaling via the Ras/MAPK signaling pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11940661", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 94, 
+            "offsetInEndSection": 422, 
+            "text": "We reported previously that several 14-3-3 isotypes bind to protein kinase C (PKC)-zeta and facilitate coupling of PKC-zeta to Raf-1 [van der Hoeven, van der Wal, Ruurs, van Dijk and van Blitterswijk (2000) Biochem. J. 345, 297-306], an event that boosts the mitogen-activated protein kinase (ERK) pathway in Rat-1 fibroblasts. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10769183", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 317, 
+            "offsetInEndSection": 567, 
+            "text": "In this study, IQGAP1 (IQ motif-containing GTPase-activating protein 1), a new Nrf2 interaction partner that we have published previously, was found to modulate MEK-ERK-mediated Nrf2 activation and induction of phase II detoxifying/antioxidant genes.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23788642", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1001, 
+            "offsetInEndSection": 1118, 
+            "text": "In the aggregate, these results suggest that IQGAP1 may play an important role in the MEK-ERK-Nrf2 signaling pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23788642", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1295, 
+            "offsetInEndSection": 1566, 
+            "text": " Taken together, these findings allow us to hypothesize that hDlg acts as a MEK2-specific scaffold protein for the ERK signaling pathway, and may improve our understanding of how scaffold proteins, such as hDlg, differentially tune MEK1/MEK2 signaling and cell responses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21615688", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 134, 
+            "text": "The MAP kinase ERK and its scaffold protein MP1 interact with the chromatin regulator Corto during Drosophila wing tissue development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21401930", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 235, 
+            "text": "KSR-1 is a scaffold protein that is essential for Ras-induced activation of the highly conserved RAF-MEK-ERK kinase module. Previously, we identified a close homolog of KSR-1, called KSR-2, through structural homology-based data mining", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19563921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1209, 
+            "offsetInEndSection": 1384, 
+            "text": "The scaffold protein beta-arrestin2 interacted with both p-ERK and D1 DA receptor, triggering the cytosolic retention of p-ERK and inducing striatal neuronal apoptotic death. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19200235", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 103, 
+            "text": "Involvement of the MP1 scaffold protein in ERK signaling regulation during Drosophila wing development.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18823331", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 190, 
+            "text": "Beta-arrestin mediates desensitization and internalization of beta-adrenergic receptors (betaARs), but also acts as a scaffold protein in extracellular signal-regulated kinase (ERK) cascade.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16038799", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 135, 
+            "text": "Recent studies indicate that kinase suppressor of Ras (KSR)is a scaffold protein for the Ras/Raf/MEK/ERK signaling cascade in mammals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12133899", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 85, 
+            "text": "The scaffold protein IQGAP1 regulates cell signaling through the RAF/MEK/ERK pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23763998", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Kinase suppressor of Ras (KSR) is a molecular scaffold that interacts with the components of the Raf/MEK/ERK kinase cascade and positively regulates ERK signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15371409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 671, 
+            "offsetInEndSection": 962, 
+            "text": "Our results indicate that KSR-2 may act as a scaffold protein similar as KSR-1 to mediate the MAPK core (RAF-MEK-ERK) signaling but with a distinct RAF isoform specificity, namely KSR-2 may only mediate the A-RAF signaling while KSR-1 is responsible for transducing signals only from c-RAF.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19563921", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 218, 
+            "text": "Kinase Suppressor of Ras (KSR) is a molecular scaffold that interacts with the core kinase components of the ERK cascade, Raf, MEK, ERK to provide spatial and temporal regulation of Ras-dependent ERK cascade signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25352726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 900, 
+            "offsetInEndSection": 1040, 
+            "text": "These findings identify KSR2 as a Ca2+-regulated ERK scaffold and reveal a new mechanism whereby Ca2+ impacts Ras to ERK pathway signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19560418", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 185, 
+            "offsetInEndSection": 323, 
+            "text": "MEK Partner-1 (MP1) was identified as a potential \"scaffold\" protein for the mammalian extracellular signal-regulated kinase (ERK) pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15547943", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 359, 
+            "offsetInEndSection": 446, 
+            "text": "The scaffold protein MP1 (MEK1 partner) assembles a scaffold complex in the ERK cascade", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12479806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1326, 
+            "offsetInEndSection": 1534, 
+            "text": "IQGAP1 scaffold-MAP kinase (ERK) interaction was noted in the human myeloma RPMI8226 cell lines. In conclusion, IQGAP1 plays an important role in the cell proliferation of MM via the MAP kinase (ERK) pathway.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24101133", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 965, 
+            "offsetInEndSection": 1024, 
+            "text": "ERK-regulated, metastasis-associated scaffold protein Ezrin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23755307", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 398, 
+            "offsetInEndSection": 490, 
+            "text": "bsence of kinase suppressor of Ras 1 (KSR1), a scaffold protein of the ERK signaling pathway", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23431403", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "GAB2 is a scaffold protein with diverse upstream and downstream effectors. MAPK and PI3K signaling pathways are known effectors of GAB2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22926523", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 232, 
+            "offsetInEndSection": 398, 
+            "text": "In Drosophila, dMP1, that encodes an ERK scaffold protein, regulates ERK signaling during wing development and contributes to intervein and vein cell differentiation.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21401930", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 248, 
+            "text": "Scaffold proteins regulate intracellular MAP kinase signaling by providing critical spatial and temporal specificities. We have shown previously that the scaffold protein MEK1 partner (MP1) is localized to late endosomes by the adaptor protein p14.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21268275", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 76, 
+            "text": "The scaffold protein Shoc2/SUR-8 accelerates the interaction of Ras and Raf.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20051520", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1246, 
+            "offsetInEndSection": 1390, 
+            "text": "We propose that Shoc2 regulates the spatio-temporal patterns of the Ras-ERK signaling pathway primarily by accelerating the Ras-Raf interaction.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20051520", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Proteomic characterization of the dynamic KSR-2 interactome, a signaling scaffold complex in MAPK pathway.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19563921", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 135, 
+            "offsetInEndSection": 455, 
+            "text": "Kinase modules are associated with scaffold proteins that regulate signaling by providing critical spatial and temporal specificities. Some of these scaffold proteins have been shown to be conserved, both in sequence and function. In mouse, the scaffold MP1 (MEK Partner 1) forms a signaling complex with MEK1 and ERK1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18823331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 492, 
+            "offsetInEndSection": 567, 
+            "text": " extracellular signal-regulated kinase (ERK) pathway scaffold protein MP1. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15118098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1041, 
+            "offsetInEndSection": 1177, 
+            "text": "We propose that MORG1 is a component of a modular scaffold system that participates in the regulation of agonist-specific ERK signaling.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15118098", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 622, 
+            "offsetInEndSection": 792, 
+            "text": " IQGAP1, a scaffold protein linking cadherin-mediated cell adhesion to the cytoskeleton. This effect was accompanied by reduction of N-cadherin/IQGAP1/Erk-2 interactions.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17785185", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "G protein-coupled receptor kinase 2 (GRK2) is a Rho-activated scaffold protein for the ERK MAP kinase cascade.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24018045", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 423, 
+            "offsetInEndSection": 527, 
+            "text": "GRK2 is a RhoA effector that serves as a RhoA-activated scaffold protein for the ERK MAP kinase cascade.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24018045", 
+            "endSection": "abstract"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "body": "Which are the Yamanaka factors?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23658991", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21839145", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23612755", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21761058", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23939864", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24150221", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22357549", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20144262", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23527808", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21640101", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19030024", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23704989", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22449255", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22075965", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21249204", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23166588"
+    ], 
+    "ideal_answer": [
+        "The Yamanaka factors are the OCT4, SOX2, MYC, and KLF4 transcription factors"
+    ], 
+    "exact_answer": [
+        [
+            "OCT4", 
+            "Oct3/4", 
+            "Pou5f1"
+        ], 
+        [
+            "SOX2"
+        ], 
+        [
+            "MYC", 
+            "c-MYC"
+        ], 
+        [
+            "KLF4"
+        ]
+    ], 
+    "type": "list", 
+    "id": "53137541e3eabad021000010", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 462, 
+            "offsetInEndSection": 505, 
+            "text": "Yamanaka factors (OCT4, SOX2, MYC, and KLF4", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23704989", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 17, 
+            "offsetInEndSection": 63, 
+            "text": "Yamanaka factors' (Oct4, Sox2, Klf4 and c-Myc)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24150221", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 303, 
+            "offsetInEndSection": 350, 
+            "text": "Yamanaka factors (Oct4, Sox2, Klf4, and c-Myc) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23939864", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 815, 
+            "offsetInEndSection": 862, 
+            "text": "Yamanaka factors (c-myc, KLF4, Oct3/4 and SOX2)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23612755", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 824, 
+            "offsetInEndSection": 877, 
+            "text": "Yamanaka factors (i.e., Oct4, Sox2, Klf4, and c-Myc) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23658991", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 112, 
+            "offsetInEndSection": 160, 
+            "text": "Yamanaka factors (Oct3/4, Sox2, Klf4, and c-Myc)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23527808", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 839, 
+            "offsetInEndSection": 886, 
+            "text": "Yamanaka factors (OCT4, SOX2, KLF4, cMYC - OSKM", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23166588", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 676, 
+            "offsetInEndSection": 726, 
+            "text": "Oct4, Sox2, Klf4 and cMyc (4TF, Yamanaka factors) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22449255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 807, 
+            "offsetInEndSection": 854, 
+            "text": "Yamanaka factors (Pou5f1, Myc, Klf4, and Sox2) ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22357549", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 547, 
+            "offsetInEndSection": 611, 
+            "text": "c-Myc, Klf4, Oct3/4, and Sox2 (the so-called \"Yamanaka factors\")", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22075965", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1002, 
+            "offsetInEndSection": 1049, 
+            "text": "Yamanaka factors, Oct3/4, Sox2, Klf4, and c-Myc", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21839145", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 212, 
+            "offsetInEndSection": 275, 
+            "text": "Yamanaka factors, namely Sox2, Oct3/4 (Pou5f1), Klf4, and c-Myc", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 154, 
+            "offsetInEndSection": 218, 
+            "text": "Oct4, Sox2, Klf4 and c-Myc, also known as the Yamanaka factors. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21640101", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 651, 
+            "offsetInEndSection": 715, 
+            "text": "Yamanaka factors (SOX2, OCT3/4, and KLF4, with or without c-MYC)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21249204", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 766, 
+            "offsetInEndSection": 810, 
+            "text": "Yamanaka factors Oct4, Sox2, Klf4, and c-Myc", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20144262", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 44, 
+            "text": "amanaka factors (Oct3/4, Sox2, Klf4, c-Myc)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19030024", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 295, 
+            "text": "Yamanaka factors (Oct3/4, Sox2, Klf4, c-Myc) are highly expressed in embryonic stem (ES) cells, and their over-expression can induce pluripotency in both mouse and human somatic cells, indicating that these factors regulate the developmental signaling network necessary for ES cell pluripotency.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19030024", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 172, 
+            "offsetInEndSection": 337, 
+            "text": "These protein sets have been called the Yamanaka factors, namely Sox2, Oct3/4 (Pou5f1), Klf4, and c-Myc, and the Thomson factors, namely Sox2, Oct3, Lin28, and Nanog", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21761058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 294, 
+            "text": "Yamanaka factors (Oct3/4, Sox2, Klf4, c-Myc) are highly expressed in embryonic stem (ES) cells, and their over-expression can induce pluripotency in both mouse and human somatic cells, indicating that these factors regulate the developmental signaling network necessary for ES cell pluripotency", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19030024", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 633, 
+            "offsetInEndSection": 756, 
+            "text": "Transcription factors, Oct4, Sox2, Klf4 and cMyc (4TF, Yamanaka factors) are used as basal conditions to generate iPS cells", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22449255", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "Generation of induced pluripotent stem (iPS) cells from somatic cells has been successfully achieved by ectopic expression of four transcription factors, Oct4, Sox2, Klf4 and c-Myc, also known as the Yamanaka factors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21640101", 
+            "endSection": "abstract"
+        }
+    ]
+}

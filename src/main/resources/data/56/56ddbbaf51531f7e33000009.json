@@ -1,0 +1,110 @@
+{
+    "body": "Which histone modifications distinguish between promoters and enhancers?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24038352", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21937433", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20008934", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18441229", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19094206", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22421546", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23547170", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12461564", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19295514", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21106759"
+    ], 
+    "ideal_answer": [
+        "H3K27ac is a marker of active enhancers. An enhancer chromatin state signature associated with active developmental enhancers may be defined by high levels of H3K27ac marking, nucleosome displacement, hypersensitivity to sonication, and strong depletion of H3K27me3."
+    ], 
+    "exact_answer": [
+        [
+            "H3K27ac enrichment"
+        ], 
+        [
+            "H3K27me3 depletion"
+        ]
+    ], 
+    "type": "list", 
+    "id": "56ddbbaf51531f7e33000009", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 464, 
+            "offsetInEndSection": 744, 
+            "text": "Here, we used chromatin immunoprecipitation followed by high-throughput sequencing (ChIP-seq) to measure genome-wide changes in histone H3 acetylation at lysine 27 (H3K27ac), a marker of active enhancers, in unstimulated HUVECs and HUVECs stimulated with VEGFA for 1, 4, and 12 h.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23547170", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 365, 
+            "offsetInEndSection": 544, 
+            "text": "Here we use whole-transcriptome analysis coupled with genome-wide profiling of H3K27ac and H3K27me3 to map chromatin states and enhancers in mouse embryonic forelimb and hindlimb.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 752, 
+            "offsetInEndSection": 999, 
+            "text": "Using H3K27ac profiles, we identified 28,377 putative enhancers, many of which are likely to be limb specific based on strong enrichment near genes highly expressed in the limb and comparisons with tissue-specific EP300 sites and known enhancers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1011, 
+            "offsetInEndSection": 1219, 
+            "text": "a chromatin state signature associated with active developmental enhancers, defined by high levels of H3K27ac marking, nucleosome displacement, hypersensitivity to sonication, and strong depletion of H3K27me3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1221, 
+            "offsetInEndSection": 1434, 
+            "text": "We also find that some developmental enhancers exhibit components of this signature, including hypersensitivity, H3K27ac enrichment, and H3K27me3 depletion, at lower levels in tissues in which they are not active.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22421546", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1355, 
+            "offsetInEndSection": 1472, 
+            "text": "At some locations, H3K27 monomethylation was also found to be associated with chromatin signatures of gene enhancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21937433", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 287, 
+            "offsetInEndSection": 413, 
+            "text": "Individual chromatin marks, such as H3K27ac and H3K27me3, have been identified to distinguish active from inactive enhancers. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24038352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 718, 
+            "offsetInEndSection": 843, 
+            "text": "We find that histone H3K27ac distinguishes active enhancers from inactive/poised enhancer elements containing H3K4me1 alone. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21106759", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 80, 
+            "offsetInEndSection": 413, 
+            "text": "Although certain chromatin features, such as the histone acetyltransferase P300 and the histone modification H3K4me1, indicate the presence of enhancers, only a fraction of enhancers are functionally active. Individual chromatin marks, such as H3K27ac and H3K27me3, have been identified to distinguish active from inactive enhancers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24038352", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 719, 
+            "offsetInEndSection": 843, 
+            "text": "We find that histone H3K27ac distinguishes active enhancers from inactive/poised enhancer elements containing H3K4me1 alone.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21106759", 
+            "endSection": "abstract"
+        }
+    ]
+}

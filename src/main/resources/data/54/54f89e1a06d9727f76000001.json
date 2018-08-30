@@ -1,0 +1,189 @@
+{
+    "body": "Which kinase is inhibited by the small molecule KN-93?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17457979", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16896952", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/14749212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9864285", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15569687", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22290426", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11827960", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11164895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11248432", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7690557", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8939965", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21187407", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9596994", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15175389", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10712242", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1662507"
+    ], 
+    "ideal_answer": [
+        "The calcium/calmodulin-dependent protein kinase-II (CaMK-II) is inhibited by the small molecule KN-93. KN-93 is a membrane-permeant calcium/calmodulin- dependent kinase II (CaMK-II)-selective inhibitor"
+    ], 
+    "exact_answer": [
+        "The calcium/calmodulin-dependent protein kinase-II", 
+        "CaM kinase II", 
+        "CAMK2"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4263678", 
+        "http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&exact=Find+Exact+Term&term=D007266"
+    ], 
+    "type": "factoid", 
+    "id": "54f89e1a06d9727f76000001", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "KN-93, a membrane-permeant calcium/calmodulin- dependent kinase-selective inhibitor, induces apoptosis in some lines of human tumor cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22290426", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 494, 
+            "offsetInEndSection": 707, 
+            "text": "Knockdown of \u03b2CaMKII by lentiviral-mediated expression of shRNA prevented the synaptic inactivity-induced increase in GluA1, as did treatment with the CaM kinase inhibitor KN-93, but not the inactive analog KN-92.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21187407", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 5, 
+            "offsetInEndSection": 167, 
+            "text": "To investigate the effects of KN-93, a CaMKII selective inhibitor on cell proliferation and the expression of p53 or p21 protein in human hepatic stellate cells. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17457979", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 939, 
+            "offsetInEndSection": 1113, 
+            "text": "Injection of the CaM kinase inhibitor KN-93 into pupae resulted in a reduced number of antennal lobe glial cells migrating into the neuropil to form borders around glomeruli.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16896952", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 994, 
+            "offsetInEndSection": 1172, 
+            "text": "In contrast, addition of the intracellular Ca2+ chelator BAPTA-AM or the Ca2+/calmodulin-dependent (CaM) kinase inhibitor KN93 blocked reporter gene activation in response to IH.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15569687", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 617, 
+            "offsetInEndSection": 761, 
+            "text": "These increases in CPEB phosphorylation were attenuated by a specific peptide inhibitor of CaMKII and by the general CaM-kinase inhibitor KN-93.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175389", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 897, 
+            "offsetInEndSection": 1141, 
+            "text": "Alternatively, treatment with KN-93, a selective inhibitor of CaMKII activation, or adenoviral overexpression of kinase-negative CaMKII-delta(2), inhibited ATP-dependent activation of ERK1/2 but had no effect on PDBu- or PDGF-stimulated ERK1/2.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/14749212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 425, 
+            "offsetInEndSection": 569, 
+            "text": "Ca(2+)/CaM-dependent protein kinase inhibitor KN-93 also blocked zygote elongation, while its ineffective analog KN-92 did not have such effect.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11827960", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 263, 
+            "offsetInEndSection": 416, 
+            "text": "CaM kinase inhibitor KN93 on its own exhibits little toxicity up to 10 mM, as measured by release of lactate dehydrogenase (LDH) into the culture medium.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11248432", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 424, 
+            "offsetInEndSection": 586, 
+            "text": "To further elucidate the mechanism by which calcium-induced ERK activation occurs, we used the CaM-kinase inhibitor KN-93 and an inactive analog of KN-93 (KN-92).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11164895", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 460, 
+            "offsetInEndSection": 598, 
+            "text": "Hearts were pretreated with the CaM kinase inhibitor KN-93 or the inactive analog KN-92 (0.5 microM) for 10 min before clofilium exposure.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9864285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "The calmodulin-dependent protein kinase-II (CaMK-II) inhibitor KN-93 has been shown to reversibly arrest mouse and human cells in the G1 phase of the cell cycle", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9596994", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 842, 
+            "offsetInEndSection": 1009, 
+            "text": "NE-induced MAP kinase and cPLA2 activation was also inhibited in cells treated with a CaM kinase II inhibitor, KN-93, or with CaM kinase II antisense oligonucleotide. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8939965", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 146, 
+            "text": "A novel Ca2+/calmodulin-dependent protein kinase II (CaM Kinase II) inhibitor, KN-93 potently inhibits gastric acid secretion from parietal cells.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7690557", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 642, 
+            "offsetInEndSection": 735, 
+            "text": "CaM kinase II activation was inhibited by KN-93 pretreatment (IC(50) approximately 1 microM).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10712242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1077, 
+            "offsetInEndSection": 1164, 
+            "text": "In vitro, KN-93 potently inhibited rabbit myocardial CaM kinase activity (calculated Ki", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9864285", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 758, 
+            "offsetInEndSection": 850, 
+            "text": "KN-93 also inhibited the autophosphorylation of both the alpha- and beta-subunits of CaMKII.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1662507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 642, 
+            "offsetInEndSection": 734, 
+            "text": "CaM kinase II activation was inhibited by KN-93 pretreatment (IC(50) approximately 1 microM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10712242", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1077, 
+            "offsetInEndSection": 1238, 
+            "text": "In vitro, KN-93 potently inhibited rabbit myocardial CaM kinase activity (calculated Ki </= 2.58 microM), but the inactive analog KN-92 did not (Ki > 100 microM)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9864285", 
+            "endSection": "abstract"
+        }
+    ]
+}

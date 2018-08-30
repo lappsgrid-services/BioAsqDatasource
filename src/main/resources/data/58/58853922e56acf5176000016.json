@@ -1,0 +1,53 @@
+{
+    "body": "To which disease does the loss of CD28 expression by liver-infiltrating T cells contribute?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24726754"
+    ], 
+    "ideal_answer": [
+        "Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis.", 
+        "Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis. ", 
+        "loss of cd28 expression by liver-infiltrating t cells contributes to pathogenesis of primary sclerosing cholangitis."
+    ], 
+    "exact_answer": [
+        "Primary sclerosing cholangitis"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/CD28_RABIT", 
+        "http://www.uniprot.org/uniprot/CD28_RAT", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008107", 
+        "http://www.uniprot.org/uniprot/CD28_HUMAN", 
+        "http://www.uniprot.org/uniprot/CD28_CHICK", 
+        "http://www.uniprot.org/uniprot/CD28_FELCA", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D058625", 
+        "http://www.uniprot.org/uniprot/CD28_BOVIN", 
+        "http://www.uniprot.org/uniprot/CD28_MOUSE"
+    ], 
+    "type": "factoid", 
+    "id": "58853922e56acf5176000016", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 116, 
+            "text": "Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24726754", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 115, 
+            "text": "Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24726754", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Loss of CD28 expression by liver-infiltrating T cells contributes to pathogenesis of primary sclerosing cholangitis.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24726754", 
+            "endSection": "title"
+        }
+    ]
+}

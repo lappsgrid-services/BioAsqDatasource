@@ -1,0 +1,270 @@
+{
+    "body": "Which is the substrate of the haspin kinase during mitosis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20953165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17084365", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19918057", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23973165", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21514157", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21447816", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20705815", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20705812", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15846065", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21749502", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15681610", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24184212", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21527018", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22335895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21804608", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21401527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19997740", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18978305", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23746640", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21658950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22732840", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23071152", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23071153", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20929775"
+    ], 
+    "ideal_answer": [
+        "Haspin phosphorylates histone H3 at Thr3 (H3T3ph) during mitosis"
+    ], 
+    "exact_answer": [
+        "Histone 3 at Thr3"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008938", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007067", 
+        "http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007088", 
+        "http://www.uniprot.org/uniprot/HASP_DROME", 
+        "http://www.uniprot.org/uniprot/HASP_HUMAN"
+    ], 
+    "type": "factoid", 
+    "id": "53442023aeec6fbd07000007", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 64, 
+            "text": "aspin phosphorylates histone H3 at Thr3 (H3T3ph) during mitosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21658950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 691, 
+            "offsetInEndSection": 742, 
+            "text": "protein kinase Haspin-mediated spreading of H3T3ph ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21514157", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 373, 
+            "offsetInEndSection": 478, 
+            "text": "Haspin localizes predominantly to chromosomes and phosphorylates histone H3 at threonine-3 during mitosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19997740", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 19, 
+            "offsetInEndSection": 129, 
+            "text": "haspin/Gsg2 plays an important role in mitosis, where it specifically phosphorylates Thr-3 in histone H3 (H3T3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19918057", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 88, 
+            "text": "aspin/Gsg2 is a kinase that phosphorylates histone H3 at Thr-3 (H3T3ph) during mitosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18978305", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 185, 
+            "text": "H3T3 phosphorylation is catalyzed by Haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24184212", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 92, 
+            "text": "aspin is an atypical protein kinase that in several organisms phosphorylates histone H3Thr3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23973165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 324, 
+            "offsetInEndSection": 403, 
+            "text": "histone H3 that is phosphorylated at T3 (H3T3ph) by Aurora B-stimulated Haspin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23746640", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3, 
+            "offsetInEndSection": 136, 
+            "text": "phosphorylating Thr3 of histone H3, Haspin promotes centromeric recruitment of the chromosome passenger complex (CPC) during mitosis.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23071153", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 57, 
+            "text": "aspin phosphorylates histone H3 at threonine-3 (H3T3ph),", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23071152", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 164, 
+            "text": "Haspin-dependent histone H3 phosphorylatio", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22732840", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 86, 
+            "text": "aspin is a serine/threonine kinase that phosphorylates Thr-3 of histone H3 in mitosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22335895", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 361, 
+            "text": "Haspin is a protein kinase the only known target of which is phosphorylation of histone H3 at Thr3 residue (H3T3ph)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21804608", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 362, 
+            "offsetInEndSection": 418, 
+            "text": "Haspin in vitro phosphorylates histone H3 at threonine 3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21749502", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 98, 
+            "offsetInEndSection": 195, 
+            "text": "Haspin is a histone H3 Thr3 kinase that has important roles in chromosome cohesion during mitosis", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21527018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 840, 
+            "offsetInEndSection": 909, 
+            "text": "phosphorylation of histone H3 threonine 3 (H3-pT3) mediated by Haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21447816", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 420, 
+            "offsetInEndSection": 537, 
+            "text": "histone H3 specifically when it is phosphorylated at threonine 3, a mark that is placed by the mitotic kinase, haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21401527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 620, 
+            "offsetInEndSection": 638, 
+            "text": "H3T3 kinase haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20953165", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 341, 
+            "offsetInEndSection": 410, 
+            "text": "phosphorylation of histone H3-threonine 3 (H3-pT3) mediated by Haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20929775", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 526, 
+            "offsetInEndSection": 579, 
+            "text": "kinase activity of Haspin, which phosphorylates H3T3,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20705815", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 42, 
+            "text": "istone H3 Thr-3 phosphorylation by Haspin", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20705812", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 269, 
+            "offsetInEndSection": 329, 
+            "text": "phosphorylation of histone H3 threonine 3 (H3T3ph) by Haspin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20705812", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 395, 
+            "offsetInEndSection": 441, 
+            "text": "Haspin/Gsg2 is a histone H3 threonine-3 kinase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17084365", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 407, 
+            "offsetInEndSection": 573, 
+            "text": "During mitosis haspin is phosphorylated, associates with the chromosomes, centrosomes and spindle, and is responsible for phosphorylation of histone H3 at threonine-3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15846065", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 471, 
+            "offsetInEndSection": 587, 
+            "text": "haspin, a member of a distinctive group of protein kinases present in diverse eukaryotes, phosphorylates H3 at Thr 3", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15681610", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 707, 
+            "offsetInEndSection": 772, 
+            "text": "Haspin phosphorylated histone H3 at both Thr3 and Thr11 in vitro.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21527018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1429, 
+            "offsetInEndSection": 1475, 
+            "text": "Haspin kinase is a histone H3 threonine kinase", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21527018", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1494, 
+            "offsetInEndSection": 1558, 
+            "text": "Haspin phosphorylated histone H3 at both Thr3 and Thr11 in vitro", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21527018", 
+            "endSection": "abstract"
+        }
+    ]
+}

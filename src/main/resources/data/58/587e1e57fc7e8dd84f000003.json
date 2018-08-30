@@ -1,0 +1,127 @@
+{
+    "body": "Are alterations in ultraconserved elements associated with colorectal adenocarcinoma?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22673945"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2000/01/rdf-schema#label", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1319315", 
+            "o": "Colorectal Adenocarcinoma"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1319315", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A18681147"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A18681147", 
+            "o": "colorectal adenocarcinoma"
+        }
+    ], 
+    "ideal_answer": [
+        "yes", 
+        "Yes. SNPs within ultraconserved elements (UCEs) may be valuable prognostic biomarkers for patients with locally advanced CRC who receive 5-fluorouracil-based chemotherapy."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.disease-ontology.org/api/metadata/DOID:0050861", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D050436", 
+        "https://www.nlm.nih.gov/cgi/mesh/2017/MB_cgi?field=uid&exact=Find+Exact+Term&term=D015179"
+    ], 
+    "type": "yesno", 
+    "id": "587e1e57fc7e8dd84f000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 117, 
+            "text": "Genetic variants within ultraconserved elements and susceptibility to right- and left-sided colorectal adenocarcinoma", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1481, 
+            "offsetInEndSection": 1684, 
+            "text": "Our results strongly suggest that several genetic variants in the UCEs may contribute to CRC susceptibility, individually and jointly, and that different genetic etiology may be involved in RCRC and LCRC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 138, 
+            "text": "Identification of polymorphisms in ultraconserved elements associated with clinical outcomes in locally advanced colorectal adenocarcinoma", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673945", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 1786, 
+            "offsetInEndSection": 2099, 
+            "text": "To the authors' knowledge, this is the first study to evaluate the association between SNPs within UCEs and clinical outcome in patients with CRC. The results suggested that SNPs within UCEs may be valuable prognostic biomarkers for patients with locally advanced CRC who receive 5-fluorouracil-based chemotherapy", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673945", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 139, 
+            "text": "Identification of polymorphisms in ultraconserved elements associated with clinical outcomes in locally advanced colorectal adenocarcinoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673945", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 118, 
+            "text": "Genetic variants within ultraconserved elements and susceptibility to right- and left-sided colorectal adenocarcinoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 210, 
+            "text": "We investigated whether single nucleotide polymorphisms within ultraconserved elements (UCEs) are associated with susceptibility to overall colorectal cancer (CRC) and susceptibility to tumor site-specific CRC.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 209, 
+            "text": "We investigated whether single nucleotide polymorphisms within ultraconserved elements (UCEs) are associated with susceptibility to overall colorectal cancer (CRC) and susceptibility to tumor site-specific CRC", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 140, 
+            "text": "Identification of polymorphisms in ultraconserved elements associated with clinical outcomes in locally advanced colorectal adenocarcinoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22673945", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Genetic variants within ultraconserved elements and susceptibility to right- and left-sided colorectal adenocarcinoma.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22318908", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 107, 
+            "text": "Expression levels of transcribed ultraconserved regions uc.73 and uc.388 are altered in colorectal cancer.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22328099", 
+            "endSection": "title"
+        }
+    ]
+}

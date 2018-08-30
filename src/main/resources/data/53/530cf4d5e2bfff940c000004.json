@@ -1,0 +1,441 @@
+{
+    "body": "Which are the most common methods for gene prioritization analysis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24260251", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23028459", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23434623", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17646288", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24110485", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23633938", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23185389", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22719993", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24219996", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18508807", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19346957", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21602267", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20840752", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21731658", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20823322", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19465376", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21609954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22430954", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22570409", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23696895", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16680138", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17939863", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20576703", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23855662", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22808075", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21668950", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19602527", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21699738", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20823330", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22654636", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18689812", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17267438", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20074336", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22893106", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18433471"
+    ], 
+    "ideal_answer": [
+        "Functional annotation-based approaches and literature-based approaches have been initially used. In recent years, network-based methods - which utilize a knowledge network derived from biological knowledge - have been utilized for gene prioritization. Currently network-based methods are the ones most widely used."
+    ], 
+    "exact_answer": [
+        [
+            "network-based methods"
+        ]
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D011506", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D005796", 
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D008722"
+    ], 
+    "type": "list", 
+    "id": "530cf4d5e2bfff940c000004", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 587, 
+            "offsetInEndSection": 750, 
+            "text": "We developed a new network inference algorithm called the Knowledge Network Gene Prioritization (KNGP) algorithm which can incorporate both link and node knowledge", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24260251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 320, 
+            "text": " In recent years, network-based methods - which utilize a knowledge network derived from biological knowledge - have been utilized for gene prioritization", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24260251", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 80, 
+            "offsetInEndSection": 349, 
+            "text": "We describe a bioinformatics approach, together with a freely accessible, interactive and flexible software termed Endeavour, to prioritize candidate genes underlying biological processes or diseases, based on their similarity to known genes involved in these phenomena", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16680138", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 104, 
+            "offsetInEndSection": 276, 
+            "text": " We intend to use the ensemble boosting learning techniques to combine variant computational approaches for gene prioritization in order to improve the overall performance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24110485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 743, 
+            "offsetInEndSection": 977, 
+            "text": "The experimental results show that our ensemble learning approach outperforms the four gene-prioritization methods in ToppGene suite in the ranking results of the 13 known genes in terms of mean average precision, ROC and AUC measures", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/24110485", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 597, 
+            "offsetInEndSection": 700, 
+            "text": "The proposed enhanced RaJoLink rare-term model combines text mining and gene prioritization approaches.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23855662", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 315, 
+            "offsetInEndSection": 482, 
+            "text": " Computational gene prioritization is based on various pieces of correlative evidence that associate each gene with the given disease and suggest possible causal links", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23633938", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 108, 
+            "offsetInEndSection": 356, 
+            "text": "Recently, many network-based methods have been proposed that implicitly utilize the modularity principle, which states that genes causing the same or similar diseases tend to form physical or functional modules in gene/protein relationship networks", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23434623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 376, 
+            "offsetInEndSection": 558, 
+            "text": "the random walk with restart (RWR) algorithm is considered to be a state-of-the-art approach, but the modularity principle has not been fully considered in traditional RWR approaches", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23434623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 560, 
+            "offsetInEndSection": 780, 
+            "text": "Therefore, we propose a novel method called ORIENT (neighbor-favoring weight reinforcement) to improve the performance of RWR through proper intensification of the weights of interactions close to the known disease genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23434623", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 243, 
+            "offsetInEndSection": 374, 
+            "text": "Network-based methods have been successfully exploiting this concept by capturing the interaction of genes or proteins into a score", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23185389", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 354, 
+            "offsetInEndSection": 524, 
+            "text": " Over the last years, computational approaches exploiting interaction network topology have been successfully applied to prioritize individual genes involved in diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23028459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 953, 
+            "offsetInEndSection": 1034, 
+            "text": "Here, we propose a genome-wide network-based prioritization framework named GUILD", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23028459", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 213, 
+            "offsetInEndSection": 334, 
+            "text": "The traditional approach to reduce the number of candidate genes entails fine-mapping studies using markers and pedigrees", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22893106", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 599, 
+            "offsetInEndSection": 809, 
+            "text": "For this purpose, we evaluate our rule-based evolutionary machine learning systems, BioHEL and GAssist, on three public microarray cancer datasets, obtaining simple rule-based models for sample classification. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22808075", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 316, 
+            "offsetInEndSection": 646, 
+            "text": "hus, comparing the similarity between experimentally identified phenotypes and the phenotypes associated with human diseases can be used to suggest causal genes underlying a disease. In this manuscript, we present a method for disease gene prioritization based on comparing phenotypes of mouse models with those of human diseases.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22719993", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 239, 
+            "offsetInEndSection": 490, 
+            "text": "We present biomarker identification problem using gene prioritization method called gene prioritization from microarray data based on shortest paths, extended with structural and biological properties and edge flux using voting scheme (GP-MIDAS-VXEF).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22654636", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 3, 
+            "offsetInEndSection": 96, 
+            "text": "ensemble approach to microarray data-based gene prioritization after missing value imputation", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17267438", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 699, 
+            "offsetInEndSection": 934, 
+            "text": "Recently, we have introduced the data mining tool ENDEAVOUR (Aerts et al., 2006), which performs this task automatically by relying on different genome-wide data sources, such as Gene Ontology, literature, microarray, sequence and more", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17646288", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 516, 
+            "offsetInEndSection": 697, 
+            "text": "So far, biologists have relied on literature studies, extensive queries to multiple databases and hunches about expected properties of the disease gene to determine such an ordering", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17646288", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 684, 
+            "offsetInEndSection": 935, 
+            "text": "We study the effect of different data integration methods, and based on the validation studies, we show that our approach, ToppGene http://toppgene.cchmc.org, outperforms two of the existing candidate gene prioritization methods, SUSPECTS and ENDEAVOU", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17939863", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 682, 
+            "text": " Extending on an earlier hypothesis that the majority of genes that impact or cause disease share membership in any of several functional relationships we, for the first time, show the utility of mouse phenotype data in human disease gene prioritization", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17939863", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 506, 
+            "offsetInEndSection": 740, 
+            "text": "We use co-expression data from yeast (S. cerevisiae), nematode worm (C. elegans), fruit fly (D. melanogaster), mouse and human and find that the use of evolutionary conservation can indeed improve the predictive value of co-expression", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18433471", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 193, 
+            "offsetInEndSection": 571, 
+            "text": "Using a training set of genes known to be involved in a biological process of interest, our approach consists of (i) inferring several models (based on various genomic data sources), (ii) applying each model to the candidate genes to rank those candidates against the profile of the known genes and (iii) merging the several rankings into a global ranking of the candidate genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18508807", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 14, 
+            "offsetInEndSection": 105, 
+            "text": "vocabularies, representations and ranking algorithms for gene prioritization by text mining", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18689812", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 150, 
+            "offsetInEndSection": 340, 
+            "text": "Recently, text mining techniques have been applied to extract prior knowledge from text-based genomic information sources and this knowledge can be used to improve the prioritization process", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18689812", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 11, 
+            "offsetInEndSection": 155, 
+            "text": "We present an approach to prioritize single nucleotide polymorphisms for further follow-up in genome-wide association studies of type 2 diabetes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19346957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 166, 
+            "offsetInEndSection": 483, 
+            "text": "The proposed method combines both the use of open data access from two type 2 diabetes-genome-wide association studies (granted by the Diabetes Genetics Initiative and the Welcome Trust Case Control Consortium) and the comprehensive analysis of candidate regions generated by the freely accessible ENDEAVOUR software.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19346957", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 376, 
+            "text": "ToppGene Suite (http://toppgene.cchmc.org; this web site is free and open to all users and does not require a login to access) is a one-stop portal for (i) gene list functional enrichment, (ii) candidate gene prioritization using either functional annotations or network analysis and (iii) identification and prioritization of novel disease candidate genes in the interactome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19465376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 770, 
+            "offsetInEndSection": 995, 
+            "text": "The protein-protein interaction network (PPIN)-based disease candidate gene prioritization uses social and Web networks analysis algorithms (extended versions of the PageRank and HITS algorithms, and the K-Step Markov method)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19465376", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 191, 
+            "text": "We present gene prioritization system (GPSy), a cross-species gene prioritization system that facilitates the arduous but critical task of prioritizing genes for follow-up functional analyses", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22570409", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "GPEC: a Cytoscape plug-in for random walk-based gene prioritization and biomedical evidence collection", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22430954", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 156, 
+            "offsetInEndSection": 265, 
+            "text": "Among these, network-based approaches are recently proposed and outperformed functional annotation-based ones", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22430954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 411, 
+            "offsetInEndSection": 592, 
+            "text": "In the plug-in, gene prioritization is performed through a random walk with restart algorithm, a state-of-the art network-based method, along with a gene/protein relationship networ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22430954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 626, 
+            "offsetInEndSection": 772, 
+            "text": "Here we present a multi-dimensional evidence-based candidate gene prioritization approach for complex diseases and demonstrate it in schizophrenia", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19602527", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 734, 
+            "offsetInEndSection": 839, 
+            "text": "We present a multi-view approach to retrieve biomedical knowledge using different controlled vocabularies", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20074336", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 194, 
+            "offsetInEndSection": 336, 
+            "text": "Given a query list, GeneMANIA extends the list with functionally similar genes that it identifies using available genomics and proteomics data", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20576703", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 113, 
+            "offsetInEndSection": 212, 
+            "text": "Genomic linkage and association studies are commonly performed for identifying disease-related gene", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20823322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 485, 
+            "offsetInEndSection": 641, 
+            "text": "Here, we introduce MedSim, a novel approach for ranking candidate genes for a particular disease based on functional comparisons involving the Gene Ontology", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20823322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 643, 
+            "offsetInEndSection": 793, 
+            "text": "MedSim uses functional annotations of known disease genes for assessing the similarity of diseases as well as the disease relevance of candidate genes", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20823322", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 494, 
+            "offsetInEndSection": 914, 
+            "text": "Here, we report a large-scale analysis of spatial, i.e. 3D, gene-expression data from an entire organ (the mouse brain) for the purpose of evaluating and ranking positional candidate genes, showing that the spatial gene-expression patterns can be successfully exploited for the prediction of gene-phenotype associations not only for mouse phenotypes, but also for human central nervous system-related Mendelian disorders", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20823330", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 349, 
+            "offsetInEndSection": 533, 
+            "text": "In this paper, we propose an expandable framework for gene prioritization that can integrate multiple heterogeneous data sources by taking advantage of a unified graphic representation", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21731658", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 581, 
+            "offsetInEndSection": 828, 
+            "text": "We demonstrate that existing methods are likely to favor highly connected genes, making prioritization sensitive to the skewed degree distribution of PPI networks, as well as ascertainment bias in available interaction and disease association data", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21699738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 830, 
+            "offsetInEndSection": 1058, 
+            "text": "Motivated by this observation, we propose several statistical adjustment methods to account for the degree distribution of known disease and candidate genes, using a PPI network with associated confidence scores for interactions", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21699738", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 375, 
+            "offsetInEndSection": 645, 
+            "text": "Here we employ a previously described method of candidate gene prioritization based mainly on gene annotation, in accompaniment with a technique based on the evaluation of pertinent sequence motifs or signatures, in an attempt to refine the gene prioritization approach.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21668950", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 419, 
+            "offsetInEndSection": 603, 
+            "text": "We introduce the novel G\u00e9nie algorithm that overcomes these problems by evaluating the literature attached to all genes in a genome and to their orthologs according to a selected topic", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21609954", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 306, 
+            "text": "PINTA (available at http://www.esat.kuleuven.be/pinta/; this web site is free and open to all users and there is no login requirement) is a web resource for the prioritization of candidate genes based on the differential expression of their neighborhood in a genome-wide protein-protein interaction network", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21602267", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 323, 
+            "offsetInEndSection": 582, 
+            "text": "We have recently developed a computational method for constitutional genetic disorders that identifies the most promising candidate genes by replacing prior knowledge by experimental data of differential gene expression between affected and healthy individual", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20840752", 
+            "endSection": "abstract"
+        }
+    ]
+}

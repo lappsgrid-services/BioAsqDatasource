@@ -1,0 +1,151 @@
+{
+    "body": "Between which types of DNA bases are mutational biases introduced due to directional mutation pressure?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20838599", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3357886", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2326195", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1556753", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/2253708", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7932780", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8411203", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7723058", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/3454289", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1978331", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/8433382"
+    ], 
+    "ideal_answer": [
+        "The rates of substitution mutations in two directions, v (from an AT-pair to a GC-pair) and u (from a GC-pair to an AT-pair), are usually not the same. Thereafter, the effect of mutation on a genome is not random but has a directionality toward higher or lower GC content of DNA. The net effect, v/(u + v), has previously been defined as directional mutation pressure. Thus, directional mutation pressure (GC/AT pressure) refers to mutational biases between alpha-bases (A or T) and gamma-bases (G or C)."
+    ], 
+    "type": "summary", 
+    "id": "55424745ed966d112c000002", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 673, 
+            "offsetInEndSection": 820, 
+            "text": "directional mutation pressure for variation of the DNA G + C content due to mutational biases between alpha-bases (A or T) and gamma-bases (G or C)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7723058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 484, 
+            "offsetInEndSection": 524, 
+            "text": "A/T-biased directional mutation pressure", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8433382", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 421, 
+            "text": "Rates of substitution mutations in two directions, v [from an A-T or T-A nucleotide pair (AT-pair) to a G-C or C-G nucleotide pair (GC-pair)] and u [from a GC-pair to an AT-pair], are usually not the same. The net effect, v/(u + v), has previously been defined as directional mutation pressure (mu D), which explains the wide interspecific variation and narrow intragenomic heterogeneity of DNA G + C content in bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1556753", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 142, 
+            "text": "The prokaryotic genetic code has been influenced by directional mutation pressure (GC/AT pressure) that has been exerted on the entire genome.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2253708", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 40, 
+            "offsetInEndSection": 203, 
+            "text": "directional mutation pressure affecting the base composition of DNA, sometimes in the direction of increased GC content and at other times, in the direction of AT.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1978331", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 122, 
+            "offsetInEndSection": 234, 
+            "text": "GC content of DNA varies, as a result of directional mutation pressure (AT/GC pressure), especially in bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3454289", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 268, 
+            "offsetInEndSection": 526, 
+            "text": "the effect of mutation on a genome is not random but has a directionality toward higher or lower guanine-plus-cytosine content of DNA, and this pressure generates directional changes more in neutral parts of the genome than in functionally significant parts.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/3357886", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 8, 
+            "offsetInEndSection": 35, 
+            "text": "GC-biased mutation pressure", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/2326195", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 282, 
+            "offsetInEndSection": 586, 
+            "text": "Directional mutation theory predicts that when the mutational bias between A/T and G/C nucleotide pairs is equilibrated with the base composition of a neutral set of DNA nucleotides, the mutation frequency per gene will be much lower than the frequency immediately after the mutator mutation takes place.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8411203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 566, 
+            "offsetInEndSection": 973, 
+            "text": "The parity rules lay the foundation for evaluating the biases in synonymous codon usage in terms of (1) directional mutation pressure for variation of the DNA G + C content due to mutational biases between alpha-bases (A or T) and gamma-bases (G or C), (2) strand-bias mutation, for example, by DNA repair during transcription, and (3) functional selection in evolution, for example, due to tRNA abundance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7723058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 280, 
+            "offsetInEndSection": 585, 
+            "text": "Directional mutation theory predicts that when the mutational bias between A/T and G/C nucleotide pairs is equilibrated with the base composition of a neutral set of DNA nucleotides, the mutation frequency per gene will be much lower than the frequency immediately after the mutator mutation takes place.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8411203", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 116, 
+            "offsetInEndSection": 407, 
+            "text": "Directional mutation pressure, the heterogenicity in the likelihood of different nucleotide substitutions, is used to explain the increasing or decreasing guanine-cytosine content (GC%) in DNA and is represented by microD, in agreement with Sueoka (1962, Proc Natl Acad Sci USA 48:582-592).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7932780", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 204, 
+            "offsetInEndSection": 420, 
+            "text": "The net effect, v/(u + v), has previously been defined as directional mutation pressure (mu D), which explains the wide interspecific variation and narrow intragenomic heterogeneity of DNA G + C content in bacteria.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/1556753", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 975, 
+            "text": "The parity rules lay the foundation for evaluating the biases in synonymous codon usage in terms of (1) directional mutation pressure for variation of the DNA G + C content due to mutational biases between alpha-bases (A or T) and gamma-bases (G or C), (2) strand-bias mutation, for example, by DNA repair during transcription, and (3) functional selection in evolution, for example, due to tRNA abundance.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7723058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 569, 
+            "offsetInEndSection": 974, 
+            "text": "The parity rules lay the foundation for evaluating the biases in synonymous codon usage in terms of (1) directional mutation pressure for variation of the DNA G + C content due to mutational biases between alpha-bases (A or T) and gamma-bases (G or C), (2) strand-bias mutation, for example, by DNA repair during transcription, and (3) functional selection in evolution, for example, due to tRNA abundance", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/7723058", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 282, 
+            "offsetInEndSection": 585, 
+            "text": "Directional mutation theory predicts that when the mutational bias between A/T and G/C nucleotide pairs is equilibrated with the base composition of a neutral set of DNA nucleotides, the mutation frequency per gene will be much lower than the frequency immediately after the mutator mutation takes place", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/8411203", 
+            "endSection": "abstract"
+        }
+    ]
+}

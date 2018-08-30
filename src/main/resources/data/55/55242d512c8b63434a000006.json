@@ -1,0 +1,459 @@
+{
+    "body": "Which receptors can be evaluated with the [18F]altanserin?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22940693", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20641567", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16206185", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23824248", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12902843", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12642173", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17195073", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7995287", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/24120220", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21996132", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9027929", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21359565", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21098981", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21722741", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21473029", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/18828013", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17241616", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10587097", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19007894", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17541696", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23137806", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19162492", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20956470", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10688105", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19959344", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/12224404", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15356424", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/7673371", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23456885", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17185512", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19015089", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19353726", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21473027", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10588399", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23390031", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23303045", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21750562", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9257335", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/1428914", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9824691"
+    ], 
+    "ideal_answer": [
+        "5-HT2A (5-hydroxytryptamine type 2a) receptor can be evaluated with the [18F]altanserin."
+    ], 
+    "exact_answer": [
+        "5-HT2A"
+    ], 
+    "concepts": [
+        "http://www.biosemantics.org/jochem#4263650"
+    ], 
+    "type": "factoid", 
+    "id": "55242d512c8b63434a000006", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 268, 
+            "text": "PURPOSE: While the selective 5-hydroxytryptamine type 2a receptor (5-HT2AR) radiotracer [18F]altanserin is well established in humans, the present study evaluated its suitability for quantifying cerebral 5-HT2ARs with positron emission tomography (PET) in albino rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23456885", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1021, 
+            "offsetInEndSection": 1138, 
+            "text": "CONCLUSION: [18F]Altanserin PET is a reliable tool for in vivo quantification of 5-HT2AR availability in albino rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23456885", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 172, 
+            "text": "Imaging the cerebral serotonin 2A (5-HT2A ) receptors with positron emission tomography (PET) has been carried out in humans with [(11) C]MDL 100907 and [(18) F]altanserin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23390031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1185, 
+            "offsetInEndSection": 1348, 
+            "text": "The cortical binding of [(18) F]MH.MZ and [(18) F]altanserin was blocked by ketanserin supporting that both radioligands bind to 5-HT2A receptors in the pig brain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23390031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 494, 
+            "text": "We investigated 94 healthy individuals (60 men, mean age 47.0\u00b118.7, range 23-86) to determine if trait aggression and trait impulsivity were related to frontal cortex 5-HT2A receptor binding (5-HT2AR) as measured with [18F]-altanserin PET imaging. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23137806", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 634, 
+            "offsetInEndSection": 802, 
+            "text": "Two hours after placebo/drug administration, 250 MBq of the 5-HT(2A) receptor selective PET-radiotracer [(18)F]altanserin was administered intravenously as a 30s bolus.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21996132", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1679, 
+            "offsetInEndSection": 1921, 
+            "text": "These data suggest that the combination of a dexfenfluramine-induced 5-HT release and subsequent assessment of 5-HT(2A) receptor availability with [(18)F]altanserin PET is suitable to measure cortical 5-HT release capacity in the human brain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21996132", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 183, 
+            "text": "The 5-hydroxytryptamine type 2a (5-HT(2A)) selective radiotracer [(18)F]altanserin has been subjected to a quantitative micro-positron emission tomography study in Lister Hooded rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21750562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 697, 
+            "offsetInEndSection": 788, 
+            "text": "[(18)F]altanserin is suitable for quantification of 5-HT(2A) receptor availability in rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21750562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2262, 
+            "offsetInEndSection": 2662, 
+            "text": "Altanserin, a fluorobenzoyl derivative related to ketanserin, was reported to be a potent antagonist of 5-HT2A receptors with >100-fold selectivity over D2/3 receptors, 5-HT1A, 5-HT6, and 5-HT7 (9, 10). This led to the development of 3-{2-[4-(4-[(18)F]fluorobenzoyl)-1-piperidyl]ethyl}-2-sulfanyl-3H-quinazolin-4-one ([(18)F]altanserin) as a useful tool for 5-HT2A receptor PET imaging in vivo (11). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21473029", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2262, 
+            "offsetInEndSection": 2936, 
+            "text": "Altanserin, a fluorobenzoyl derivative related to ketanserin, was reported to be a potent antagonist of 5-HT2A receptors with >100-fold selectivity over D2/3 receptors, 5-HT1A, 5-HT6, and 5-HT7 (9, 10). This led to the development of 3-{2-[4-(4-[(18)F]fluorobenzoyl)-1-piperidyl]ethyl}-2-sulfanyl-3H-quinazolin-4-one ([(18)F]altanserin) as a useful tool for 5-HT2A receptor PET imaging in vivo (11). 5-HT2A antagonists bind to the total pool of receptors, whereas 5-HT2A agonists bind only to the high-affinity functional state of the receptor but may be more important in disease states because the high affinity sites are the ones that transmit the intracellular signals. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21473027", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 253, 
+            "offsetInEndSection": 478, 
+            "text": "Baseline and follow-up partial volume corrected levels of 5-HT2A in four neocortical lobes and the posterior cingulate gyrus were investigated using [18F]altanserin positron emission tomography with a bolus-infusion approach.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21098981", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2240, 
+            "offsetInEndSection": 2637, 
+            "text": "Altanserin, a fluorobenzoyl derivative related to ketanserin, was reported to be a potent inhibitor of 5-HT2A receptors with >100-fold selectivity over D2/3 receptors, 5-HT1A, 5-HT6, and 5-HT7 (8, 9). This led to the development of 3-[2-[4-(4-[(18)F]fluorobenzoyl)-1-piperidyl]ethyl]-2-sulfanyl-3H-quinazolin-4-one ([(18)F]altanserin) as a useful tool for 5-HT2A receptor PET imaging in vivo (10).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20641567", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 196, 
+            "offsetInEndSection": 381, 
+            "text": "We investigated the relationships of gender, mood, impulsivity, aggression and temperament to 5HT(2A) receptor binding in 21 healthy subjects using [18F]altanserin and PET neuroimaging.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19959344", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 247, 
+            "offsetInEndSection": 458, 
+            "text": "We, therefore, studied the binding potential of the serotonin 2A (5-HT(2A)) receptor ligand [18F]altanserin in 8 patients with clinically probable PSP and 13 healthy controls using positron emission tomography. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19353726", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 133, 
+            "text": "[(18)F]altanserin is the preferred radiotracer for in-vivo labeling of serotonin 2A receptors by positron emission tomography (PET). ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19162492", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 349, 
+            "offsetInEndSection": 448, 
+            "text": "Twenty-one healthy subjects underwent PET scanning with the 5-HT(2A) antagonist, [(18)F]altanserin.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19007894", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 364, 
+            "offsetInEndSection": 525, 
+            "text": "METHODS: [(18)F]-Altanserin PET was used to quantify 5-HT(2A) receptors in 12 healthy elderly individuals at baseline and at 2 years in six volumes of interest. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/18828013", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 357, 
+            "offsetInEndSection": 583, 
+            "text": "The aim of this feasibility study was to examine whether acute ketamine-induced 5-HT release interferes with the binding of the 5-HT(2A) receptor (5-HT(2A)R) radioligand [(18)F]altanserin and positron emission tomography (PET)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17541696", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 302, 
+            "offsetInEndSection": 557, 
+            "text": "METHODS: Fifteen women ill with AN (ILL AN) were compared with 29 healthy control women (CW); PET and [11C]WAY100635 were used to assess binding potential (BP) of the 5-HT1A receptor, and [18F]altanserin was used to assess postsynaptic 5-HT2A receptor BP.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17241616", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2333, 
+            "offsetInEndSection": 2634, 
+            "text": "In summary, these results demonstrate that the test-retest variability of [18F]altanserin-specific binding is comparable to that of other PET radiotracers and that the regional specific binding of [18F]altanserin in human brain was correlated with the known regional distribution of 5-HT2A receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 102, 
+            "text": "[18F]altanserin binding to human 5HT2A receptors is unaltered after citalopram and pindolol challenge.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15356424", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 653, 
+            "offsetInEndSection": 747, 
+            "text": "Our data confirmed that [18F]altanserin is a valid tracer for 5HT2 receptors binding studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9257335", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "PET quantification of 5-HT2A receptors in the human brain: a constant infusion paradigm with [18F]altanserin.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10688105", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "In vivo binding of [18F]altanserin to rat brain 5HT2 receptors: a film and electronic autoradiographic study.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9257335", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 109, 
+            "text": "We used [18F]altanserin and positron emission tomography (PET) to image serotonin 5-HT2A receptors in humans.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9027929", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 112, 
+            "text": "Quantification of 5-HT2A receptors in the human brain using [18F]altanserin-PET and the bolus/infusion approach.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12902843", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 2633, 
+            "offsetInEndSection": 2744, 
+            "text": "These findings support the usefulness of [18F]altanserin as a radioligand for PET studies of 5-HT2A receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 216, 
+            "text": "This study was performed to identify and characterize the radiometabolites of the serotonin 5-HT2A receptor ligand [18F]altanserin in supporting quantification of the target receptors by positron emission tomography.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10587097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 136, 
+            "text": "PURPOSE: To determine the reproducibility of measurements of brain 5-HT2A receptors with an [18F]altanserin PET bolus/infusion approach.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17195073", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1, 
+            "offsetInEndSection": 102, 
+            "text": "18F]altanserin binding to human 5HT2A receptors is unaltered after citalopram and pindolol challenge.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/15356424", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 90, 
+            "text": "Influence of synaptic serotonin level on [18F]altanserin binding to 5HT2 receptors in man.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12642173", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 227, 
+            "text": "The aim of the present study is to describe and validate a method for accurate quantification of 5-hydroxytryptamine (5-HT)(2A) receptors using [18F]altanserin-positron emission tomography (PET) and the bolus/infusion approach.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/12902843", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1506, 
+            "offsetInEndSection": 1819, 
+            "text": "The regional [18F]altanserin DV values using both of these methods were significantly correlated with literature-based values of the regional concentrations of 5-HT2A receptors determined by postmortem autoradiographic studies (r2 = 0.95, P < 0.001 for the 4C model and r2 = 0.96, P < 0.001 for the Logan method).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2351, 
+            "offsetInEndSection": 2651, 
+            "text": "In summary, these results demonstrate that the test-retest variability of [18F]altanserin-specific binding is comparable to that of other PET radiotracers and that the regional specific binding of [18F]altanserin in human brain was correlated with the known regional distribution of 5-HT2A receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2652, 
+            "offsetInEndSection": 2762, 
+            "text": "These findings support the usefulness of [18F]altanserin as a radioligand for PET studies of 5-HT2A receptors.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 130, 
+            "text": "Reduced binding of [18F]altanserin to serotonin type 2A receptors in aging: persistence of effect after partial volume correction.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9824691", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 137, 
+            "text": "Visualisation of loss of 5-HT2A receptors with age in healthy volunteers using [18F]altanserin and positron emission tomographic imaging.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9027929", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 170, 
+            "text": "Imaging the cerebral serotonin 2A (5-HT2A ) receptors with positron emission tomography (PET) has been carried out in humans with [(11) C]MDL 100907 and [(18) F]altanserin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23390031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 312, 
+            "offsetInEndSection": 447, 
+            "text": "[(18)F]altanserin showed sufficient brain uptake in a distribution pattern consistent with the known distribution of 5-HT(2A) receptors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21750562", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 383, 
+            "offsetInEndSection": 553, 
+            "text": "This controlled cross-over PET study aimed to identify brain regions with WM-induced changes in the binding potential (BP(nd)) of the 5-HT2aR antagonist [(18)F]altanserin", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/21722741", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1220, 
+            "offsetInEndSection": 1346, 
+            "text": "MZ and [(18) F]altanserin was blocked by ketanserin supporting that both radioligands bind to 5-HT2A receptors in the pig brain", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23390031", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 279, 
+            "offsetInEndSection": 680, 
+            "text": "PET was performed by using [18F]altanserin to evaluate 5-HT2A receptor binding in 11 elderly patients with depression (four men, seven women; mean age = 65.0 years, SD = 5.5); nine Alzheimer's disease patients, including three with concurrent depression (two men, seven women; mean age = 69.7 years, SD = 5.0); and 10 age-matched healthy subjects (four men, six women; mean age = 69.8 years, SD = 5.0)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10588399", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 259, 
+            "text": "While the selective 5-hydroxytryptamine type 2a receptor (5-HT2AR) radiotracer [18F]altanserin is well established in humans, the present study evaluated its suitability for quantifying cerebral 5-HT2ARs with positron emission tomography (PET) in albino rats.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23456885", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 215, 
+            "text": "This study was performed to identify and characterize the radiometabolites of the serotonin 5-HT2A receptor ligand [18F]altanserin in supporting quantification of the target receptors by positron emission tomography", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10587097", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 246, 
+            "offsetInEndSection": 535, 
+            "text": "To this end, the regional distribution and intrasubject test-retest variability of the binding of [18F]altanserin were measured as important steps in the further development of [18F]altanserin as a radiotracer for positron emission tomography (PET) studies of the serotonin 5-HT2A receptor", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 659, 
+            "offsetInEndSection": 752, 
+            "text": "Our data confirmed that [18F]altanserin is a valid tracer for 5HT2 receptors binding studies.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9257335", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 2351, 
+            "offsetInEndSection": 2650, 
+            "text": "In summary, these results demonstrate that the test-retest variability of [18F]altanserin-specific binding is comparable to that of other PET radiotracers and that the regional specific binding of [18F]altanserin in human brain was correlated with the known regional distribution of 5-HT2A receptors", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9826230", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Characterization of radioactive metabolites of 5-HT2A receptor PET ligand [18F]altanserin in human and rodent.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10587097", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 108, 
+            "text": "We used [18F]altanserin and positron emission tomography (PET) to image serotonin 5-HT2A receptors in humans", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9027929", 
+            "endSection": "abstract"
+        }
+    ]
+}

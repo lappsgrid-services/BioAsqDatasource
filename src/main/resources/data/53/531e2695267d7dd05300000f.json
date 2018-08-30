@@ -1,0 +1,183 @@
+{
+    "body": "What is the localization of the protein encoded by the gene DNAJC11?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/17624330"
+    ], 
+    "triples": [
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11657583", 
+            "o": "25570"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11695815"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17746647", 
+            "o": "DNAJC11"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11695815", 
+            "o": "DnaJ (Hsp40) homolog, subfamily C, member 11"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A11657583"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17738715"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A17746647"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11657583", 
+            "o": "FLJ10737"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/prefMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1539296", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A8264562"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8264562", 
+            "o": "DNAJC11 gene"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11695815", 
+            "o": "25570"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17738715", 
+            "o": "25570"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17746647", 
+            "o": "25570"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11657583", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A11695815", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17738715", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A17746647", 
+            "o": "HUGO"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A8264562", 
+            "o": "Metathesaurus Names"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988852", 
+            "o": "C487553"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988853", 
+            "o": "DnaJ (Hsp40) homolog, subfamily C, member 11 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#altLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453469", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12988853"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#prefLabel", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453469", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12988852"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12996051", 
+            "o": "FLJ10737 protein, human"
+        }, 
+        {
+            "p": "http://www.w3.org/2008/05/skos-xl#literalForm", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988852", 
+            "o": "DNAJC11 protein, human"
+        }, 
+        {
+            "p": "http://linkedlifedata.com/resource/umls/altMetaMap", 
+            "s": "http://linkedlifedata.com/resource/umls/id/C1453469", 
+            "o": "http://linkedlifedata.com/resource/umls/label/A12996051"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988853", 
+            "o": "C487553"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#notation", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12996051", 
+            "o": "C487553"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988852", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12988853", 
+            "o": "MeSH"
+        }, 
+        {
+            "p": "http://www.w3.org/2004/02/skos/core#note", 
+            "s": "http://linkedlifedata.com/resource/umls/label/A12996051", 
+            "o": "MeSH"
+        }
+    ], 
+    "ideal_answer": [
+        "mitochondrial inner membrane"
+    ], 
+    "exact_answer": [
+        "mitochondrial inner membrane"
+    ], 
+    "concepts": [
+        "http://www.uniprot.org/uniprot/DJC11_PONAB", 
+        "http://www.uniprot.org/uniprot/DJC11_DICDI", 
+        "http://www.uniprot.org/uniprot/DJC11_HUMAN", 
+        "http://www.uniprot.org/uniprot/DJC11_MOUSE", 
+        "http://www.uniprot.org/uniprot/DJC11_BOVIN"
+    ], 
+    "type": "factoid", 
+    "id": "531e2695267d7dd05300000f", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 247, 
+            "offsetInEndSection": 440, 
+            "text": " DnaJC11, respectively. The first three are outer membrane proteins, CHCHD3 has been assigned to the matrix space, and the other two proteins have not been described in mitochondria previously.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17624330", 
+            "endSection": "abstract"
+        }
+    ]
+}

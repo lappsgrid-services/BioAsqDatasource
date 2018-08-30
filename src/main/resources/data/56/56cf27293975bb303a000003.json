@@ -1,0 +1,235 @@
+{
+    "body": "Does ziconotide bind to N-type calcium channels?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/11279062", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16831862", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16225359", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22608964", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20413151", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25456079", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10666532", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15578997", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16207099", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10834782", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/20188724", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22084632", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17063978", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16845440", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/11059665", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21577088", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10666519", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/15209164", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/9315745", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/25446431", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22428804", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17199507", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10436454", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22188924", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/21992243", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/19300539", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/10547097"
+    ], 
+    "ideal_answer": [
+        "Yes, ziconotide/omega-conotoxin MVIIA blocks N-type calcium channels."
+    ], 
+    "exact_answer": "yes", 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2016/MB_cgi?field=uid&exact=Find+Exact+Term&term=D020864"
+    ], 
+    "type": "yesno", 
+    "id": "56cf27293975bb303a000003", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 375, 
+            "offsetInEndSection": 749, 
+            "text": "Since this region partially overlaps with residues previously implicated in block of the channel by omega-conotoxin GVIA, we assessed the effects of mutations in the putative EF hand domain on channel block by omega-conotoxin GVIA and the structurally related omega-conotoxin MVIIA. Both of the toxins irreversibly block the activity of wild type alpha(1B) N-type channels. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/11279062", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 160, 
+            "text": "Despite their high sequence homology, the peptide neurotoxins omega-conotoxin MVIIA and MVIIC selectively block N- and P/Q-type calcium channels, respectively. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9315745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 342, 
+            "offsetInEndSection": 637, 
+            "text": " Binding assay for both N- and P/Q-type calcium channels showed that amino acid residues restricted to the N-terminal half are important for the recognition of N-type channels, whereas essential residues for P/Q-type channel recognition are widely spread over the whole omega-conotoxin molecule.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/9315745", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 163, 
+            "text": "Ziconotide is a novel peptide that blocks the entry of calcium into neuronal N-type voltage-sensitive calcium channels, preventing the conduction of nerve signals.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16207099", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 119, 
+            "text": "Ziconotide is a selective, potent and reversible blocker of neuronal N-type voltage-sensitive calcium channels (VSCCs).", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10666532", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 317, 
+            "offsetInEndSection": 456, 
+            "text": "The therapeutic benefit of ziconotide derives from its potent and selective blockade of neuronal N-type voltage-sensitive calcium channels.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16225359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 167, 
+            "text": "Interactions of intrathecally administered ziconotide, a selective blocker of neuronal N-type voltage-sensitive calcium channels, with morphine on nociception in rats.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10666532", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 106, 
+            "text": "Ziconotide, a new N-type calcium channel blocker, administered intrathecally for acute postoperative pain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10834782", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 110, 
+            "text": "Ziconotide, an intrathecally administered N-type calcium channel antagonist for the treatment of chronic pain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16207099", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 756, 
+            "offsetInEndSection": 854, 
+            "text": "Thus, ziconotide is the first of a new class of agents--N-type calcium channel blockers, or NCCBs.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16225359", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1227, 
+            "offsetInEndSection": 1342, 
+            "text": "Ziconotide, formerly known also as SNX- 111, represents a new class of agents, the N-type calcium channel blockers.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16845440", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 255, 
+            "offsetInEndSection": 419, 
+            "text": "The selective N-type calcium channel blocker ziconotide ameliorates severe chronic pain but has a narrow therapeutic window and requires intrathecal administration.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25456079", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 429, 
+            "offsetInEndSection": 594, 
+            "text": "A selective N-type calcium channel inhibitor, ziconotide (Prialt), is a neuroactive peptide recently marketed as a novel nonopioid treatment for severe chronic pain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16831862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 982, 
+            "offsetInEndSection": 1292, 
+            "text": "As the clinically available analgesics, pregabalin (alpha2delta-subunit calcium channel ligand), ziconotide (N-type calcium channel blocker), mexiletine (sodium channel blocker), and duloxetine (serotonin and norepinephrine reuptake inhibitors) were evaluated in these neurochemically-induced allodynia models.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20188724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 416, 
+            "offsetInEndSection": 626, 
+            "text": "The present investigation was designed to assess the safety and analgesic efficacy of ziconotide, a new N-type calcium channel blocker, when administered intrathecally to patients with acute postoperative pain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10834782", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 395, 
+            "offsetInEndSection": 588, 
+            "text": "Inhibition of the N-type calcium channel by intrathecal administration of the channel-specific blocker omega-conotoxin MVIIA (ziconotide) is efficacious in the treatment of severe chronic pain.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17199507", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 192, 
+            "text": "Ziconotide is a powerful analgesic drug that has a unique mechanism of action involving potent and selective block of N-type calcium channels, which control neurotransmission at many synapses.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19300539", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 1924, 
+            "offsetInEndSection": 2212, 
+            "text": "In conclusion, present findings provide implication that the spinal anti-nociceptive mechanistic site of pregabalin is different from that of ziconotide, mexiletine, and duloxetine, and pregabalin could have a broader anti-nociceptive mechanism other than N-type calcium channel blockade.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/20188724", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 154, 
+            "text": "Ziconotide (SNX-111), a selective blocker of neuronal N-type voltage-sensitive calcium channels, is antinociceptive when it is administered intrathecally.", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10666519", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 189, 
+            "text": "Effects of intrathecal administration of ziconotide, a selective neuronal N-type calcium channel blocker, on mechanical allodynia and heat hyperalgesia in a rat model of postoperative pain.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10666519", 
+            "endSection": "title"
+        }, 
+        {
+            "offsetInBeginSection": 142, 
+            "offsetInEndSection": 288, 
+            "text": "A state-dependent Ca(V)2.2 inhibitor may provide an improved therapeutic window over ziconotide, the peptidyl Ca(V)2.2 inhibitor used clinically. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/22188924", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 138, 
+            "offsetInEndSection": 273, 
+            "text": "There is also human validation data from ziconotide, the CaV2.2-selective peptidyl inhibitor used clinically to treat refractory pain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/25446431", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 266, 
+            "offsetInEndSection": 432, 
+            "text": "A selective N-type calcium channel inhibitor, ziconotide (Prialt), is a neuroactive peptide recently marketed as a novel nonopioid treatment for severe chronic pain. ", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16831862", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 0, 
+            "offsetInEndSection": 151, 
+            "text": "The neuroprotective effects of intrathecal administration of the selective N-type calcium channel blocker ziconotide in a rat model of spinal ischemia.", 
+            "beginSection": "title", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/10436454", 
+            "endSection": "title"
+        }
+    ]
+}

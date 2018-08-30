@@ -1,0 +1,37 @@
+{
+    "body": "What does iBAQ stand for in proteomic analysis?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23794183", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/22771841", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23981693"
+    ], 
+    "ideal_answer": [
+        "iBAQ stands for intensity-based absolute quantification."
+    ], 
+    "exact_answer": [
+        "intensity-based absolute quantification"
+    ], 
+    "concepts": [
+        "http://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?field=uid&exact=Find+Exact+Term&term=D040901"
+    ], 
+    "type": "factoid", 
+    "id": "5348307daeec6fbd07000011", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 674, 
+            "offsetInEndSection": 720, 
+            "text": "intensity-based absolute quantification (iBAQ)", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23981693", 
+            "endSection": "abstract"
+        }, 
+        {
+            "offsetInBeginSection": 704, 
+            "offsetInEndSection": 750, 
+            "text": "Intensity-Based Absolute Quantification Index,", 
+            "beginSection": "abstract", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/23794183", 
+            "endSection": "abstract"
+        }
+    ]
+}

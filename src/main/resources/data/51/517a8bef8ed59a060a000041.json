@@ -1,0 +1,56 @@
+{
+    "body": "Which deiodinases are present in skeletal  muscle?", 
+    "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19293265", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/17986277", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/23396445", 
+        "http://www.ncbi.nlm.nih.gov/pubmed/16127464"
+    ], 
+    "ideal_answer": [
+        "Type 2 and Type 3 deiodinases are expressed in skeletal muscle and their expression is modulated by disease state and fasting."
+    ], 
+    "exact_answer": [
+        [
+            "Type 2 deiodinase"
+        ], 
+        [
+            "Tipe 3 deiodinase"
+        ]
+    ], 
+    "type": "list", 
+    "id": "517a8bef8ed59a060a000041", 
+    "snippets": [
+        {
+            "offsetInBeginSection": 12, 
+            "offsetInEndSection": 335, 
+            "text": "The iodothyronine deiodinases D1, D2, and D3 enable tissue-specific adaptation of thyroid hormone levels in response to various conditions, such as hypothyroidism or fasting. The possible expression of D2 mRNA in skeletal muscle is intriguing because this enzyme could play a role in systemic as well as local T3 production", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19293265", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1331, 
+            "offsetInEndSection": 1435, 
+            "text": "Human skeletal muscle D2 mRNA expression is modulated by fasting and insulin, but not by hypothyroidism.", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/19293265", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 1284, 
+            "offsetInEndSection": 1414, 
+            "text": "SM had very low D2 activity and again no differences were found between groups; D3 activity in SM was higher in NTIS than controls", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/17986277", 
+            "endSection": "sections.0"
+        }, 
+        {
+            "offsetInBeginSection": 338, 
+            "offsetInEndSection": 558, 
+            "text": "Deiodinase activities were then assayed in cell sonicates. The ratio of T3 production in cell sonicates (catalytic efficiency) was multiplied by the tissue activities reported in human liver (D1) and skeletal muscle (D2)", 
+            "beginSection": "sections.0", 
+            "document": "http://www.ncbi.nlm.nih.gov/pubmed/16127464", 
+            "endSection": "sections.0"
+        }
+    ]
+}
