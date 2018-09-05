@@ -61,7 +61,7 @@ public class BioAsqDatasource implements DataSource
 		if (path == null)
 			path = System.getenv(PROPERTY_NAME);
 		if (path == null)
-			path = "src/main/resources/index.txt";
+			path = "src/main/resources/index-identifiers.txt";
 		loadIndex(path);
 	}
 
@@ -95,7 +95,7 @@ public class BioAsqDatasource implements DataSource
 			return input;
 		}
 
-		//("INPUT: " + input + "\n");
+		//System.out.println("INPUT: " + input + "\n");
 
 		String result;
 		switch (discriminator)
@@ -144,32 +144,22 @@ public class BioAsqDatasource implements DataSource
 			case Uri.GET:
 				String key = data.getPayload().toString();
 				if (key == null)
-				{
 					result = error("No key value provided");
-				}
-				else
-				{
+				else {
 					File file = index.get(key);
 					if (file == null)
-					{
 						result = error("No file with key " + key);
-					}
 					else if (!file.exists())
-					{
 						result = error("File not found: " + file.getPath());
-					}
-					else
-					{
-						try
-						{
+					else {
+						try {
 							result = new String(Files.readAllBytes(file.toPath()));
-						}
-						catch (IOException e)
-						{
+							result = createDataContainer(result);
+							//System.out.println(result.subSequence(0, 300));
+						} catch (IOException e) {
 							result = error(e.getMessage());
 						}
 					}
-
 				}
 				break;
 
@@ -201,11 +191,11 @@ public class BioAsqDatasource implements DataSource
 			DataSourceMetadata md = new DataSourceMetadataBuilder()
 					.name(this.getClass().getName())
 					.version(Version.getVersion())
-					.vendor("http:/www.anc.org")
+					.vendor("http:/www.lappsgrid.org")
 					.allow(Discriminators.Uri.ANY)
 					.encoding("UTF-8")
-					.format(Uri.LIF)
-					.description("Generic DataSource")
+					.format(Uri.JSON)
+					.description("BioASQ DataSource")
 					.license(Discriminators.Uri.APACHE2)
 					.build();
 			Data data = new Data();
@@ -253,4 +243,22 @@ public class BioAsqDatasource implements DataSource
 	{
 		return new Data<>(Uri.ERROR, message).asPrettyJson();
 	}
+
+	/**
+	 * Wrap the payload inside a data container object with discriminator and payload
+	 *
+	 * @param payload
+	 * @return
+	 */
+	private String createDataContainer(String payload) {
+		String disc = "http://vocab.lappsgrid.org/ns/media/json";
+		payload = payload.replaceAll("(?m)^", "   ");
+		String result = String.format(
+				"{\n   \"discriminator\": \"%s\",\n   \"payload\": %s\n}",
+				disc, payload.substring(3));
+		//System.out.println(result);
+		return result;
+	}
+
+
 }

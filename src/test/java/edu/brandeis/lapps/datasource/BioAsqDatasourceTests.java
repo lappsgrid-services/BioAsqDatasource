@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018 Brandeis University 
+ * Copyright (c) 2018 Brandeis University
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -49,7 +49,7 @@ public class BioAsqDatasourceTests
 		System.setProperty(BioAsqDatasource.PROPERTY_NAME, "src/main/resources/index-identifiers.txt");
 		datasource = new BioAsqDatasource();
 	}
-	
+
 	@After
 	public void teardown()
 	{
@@ -84,9 +84,13 @@ public class BioAsqDatasourceTests
 		// data, so this should worked also when debugging with a small set.
 		String key = "589a246c78275d0c4a000032";
 		String query = "Which 2 medications are included in the Qsymia pill?";
-		String json = datasource.execute(new Data(Discriminators.Uri.GET, key).asJson());
+		Data data = new Data(Discriminators.Uri.GET, key);
+		//System.out.println(data.asJson());
+		String json = datasource.execute(data.asJson());
 		JSONObject result = parseJson(json);
-		assertEquals("Wrong query for identifier", query, result.get("body"));
+		JSONObject payload = (JSONObject) result.get("payload");
+		String body = payload.get("body").toString();
+		assertEquals("Wrong query for identifier", query, body);
 		if (verbose)
 			System.out.println("\n" + json.substring(0, 300) + " ...\n");
 	}
@@ -106,7 +110,7 @@ public class BioAsqDatasourceTests
 	/**
 	 * Utility method for simple JSON parsing.
 	 * @param jsonString
-	 * @return 
+	 * @return
 	 */
 	private JSONObject parseJson(String jsonString) {
 		JSONObject result;
