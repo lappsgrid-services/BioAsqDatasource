@@ -40,4 +40,4 @@ Expand the plus next to `execute(String)`, paste some JSON text into the text ar
 ```
 
 The response should include *"Which 2 medications are included in the Qsymia pill?"*,
-see [here](/src/site/payload.html) for the full response.
+see [here](/src/site/payload.md) for the full response.
