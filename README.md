@@ -1,6 +1,9 @@
 # BioAsqDatasource
 
-DataSource service to give access to BioASQ evaluation data.
+DataSource service to give access to BioASQ evaluation data, using 2018 training data for BioASQ Task B On Biomedical Semantic QA. For more information on BioASQ see the [BioASQ](http://bioasq.org/) webpage and the published overview:
+
+> An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition: George Tsatsaronis, Georgios Balikas, Prodromos Malakasiotis, Ioannis Partalas, Matthias Zschunke, Michael R Alvers, Dirk Weissenborn, Anastasia Krithara, Sergios Petridis, Dimitris Polychronopoulos, Yannis Almirantis, John Pavlopoulos, Nicolas Baskiotis, Patrick Gallinari, Thierry Artiéres, Axel Ngonga, Norman Heino, Eric Gaussier, Liliana Barrio-Alvers, Michael Schroeder, Ion Androutsopoulos and Georgios Paliouras. BMC bioinformatics, 2015.
+
 
 To test and create a service do the following (this assumes you have Maven installed):
 
